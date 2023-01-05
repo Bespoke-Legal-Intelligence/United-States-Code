@@ -16,7 +16,7 @@ Whenever any property or right to property upon which levy has been made by virt
 
 #### (1) In general
 
-&emsp;Levy may be made under subsection (a) upon the salary or wages or other property of any person with respect to any unpaid tax only after the Secretary has notified such person in writing of his intention to make such levy.
+&emsp;Levy may be made under subsection (a) upon the salary or wages or other property of anyperson with respect to any unpaid tax only after the Secretary has notified such person in writing of his intention to make such levy.
 
 #### (2) 30-day requirement
 
@@ -208,7 +208,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 &emsp;&emsp;<b>(3) For release and notice of release of levy, see section 6343.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 783; Pub. L. 89–719, title I, §104(a), Nov. 2, 1966, 80 Stat. 1135; Pub. L. 92–178, title II, §211(a), Dec. 10, 1971, 85 Stat. 520; Pub. L. 94–455, title XII, §1209(d)(1), (2), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1710, 1711, 1834; Pub. L. 97–248, title III, §349(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 98–369, div. A, title VII, §714(o), July 18, 1984, 98 Stat. 964; Pub. L. 100–647, title VI, §6236(a), (b), (d), Nov. 10, 1988, 102 Stat. 3737, 3739; Pub. L. 105–34, title X, §1024(a), Aug. 5, 1997, 111 Stat. 923; Pub. L. 105–206, title III, §§3433(a), 3444(a), 3462(b), title VI, §6010(f), July 22, 1998, 112 Stat. 759, 762, 765, 814; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 107–147, title IV, §416(e)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–357, title VIII, §887(a), Oct. 22, 2004, 118 Stat. 1641; Pub. L. 112–56, title III, §301(a), Nov. 21, 2011, 125 Stat. 733; Pub. L. 113–295, div. B, title II, §209(a), Dec. 19, 2014, 128 Stat. 4074; Pub. L. 114–10, title IV, §413(a), Apr. 16, 2015, 129 Stat. 162; Pub. L. 114–94, div. C, title XXXII, §32101(b)(2), Dec. 4, 2015, 129 Stat. 1731.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 783; Pub. L. 89–719, title I, §104(a), Nov. 2, 1966, 80 Stat. 1135; Pub. L. 92–178, title II, §211(a), Dec. 10, 1971, 85 Stat. 520; Pub. L. 94–455, title XII, §1209(d)(1), (2), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1710, 1711, 1834; Pub. L. 97–248, title III, §349(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 98–369, div. A, title VII, §714(o), July 18, 1984, 98 Stat. 964; Pub. L. 100–647, title VI, §6236(a), (b), (d), Nov. 10, 1988, 102 Stat. 3737, 3739; Pub. L. 105–34, title X, §1024(a), Aug. 5, 1997, 111 Stat. 923; Pub. L. 105–206, title III, §§3433(a), 3444(a), 3462(b), title VI, §6010(f), July 22, 1998, 112 Stat. 759, 762, 765, 814; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 107–147, title IV, §416(e)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–357, title VIII, §887(a), Oct. 22, 2004, 118 Stat. 1641; Pub. L. 112–56, title III, §301(a), Nov. 21, 2011, 125 Stat. 733; Pub. L. 113–295, div. B, title II, §209(a), Dec. 19, 2014, 128 Stat. 4074; Pub. L. 114–10, title IV, §413(a), Apr.16, 2015, 129 Stat. 162; Pub. L. 114–94, div. C, title XXXII, §32101(b)(2), Dec. 4, 2015, 129 Stat. 1731.)
 
 #### <b>Editorial Notes</b>
 
@@ -218,7 +218,7 @@ Section 32101 of the FAST Act, referred to in subsec. (d)(4)(G), is section 3210
 
 The Railroad Retirement Act, referred to in subsec. (h)(2)(C), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (h)(2)(C), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (h)(2)(C), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 The Social Security Act, referred to in subsec. (h)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

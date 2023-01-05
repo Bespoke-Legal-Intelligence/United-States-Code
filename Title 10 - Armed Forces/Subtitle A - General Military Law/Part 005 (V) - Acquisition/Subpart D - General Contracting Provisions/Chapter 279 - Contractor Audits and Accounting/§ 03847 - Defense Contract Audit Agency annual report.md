@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 115–91, §811(d)(1)(B), added subsec. (d).
 
 Subsec. (a)(6), (7). Pub. L. 114–328, §824(d)(1)(A), redesignated pars. (4) and (5) as (6) and (7), respectively.
 
-<b>2015</b>—Subsec. (a)(2)(D). Pub. L. 114–92, §893(b)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs); and".
+<b>2015</b>—Subsec. (a)(2)(D). Pub. L. 114–92, §893(b)(1), amended subpar. (D) generally. Prior to amendment,subpar. (D) read as follows: "the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs); and".
 
 Subsec. (a)(4), (5). Pub. L. 114–92, §893(b)(2)–(4), added par. (4) and redesignated former par. (4) as (5).
 

@@ -92,7 +92,7 @@
 
 #### (i) Failure to pay assessment
 
-&emsp;&emsp;&emsp;If any entity fails to pay an assessment after it has become a final andunappealable order, or after the court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General who shall recover the amount assessed by action in the appropriate United States district court.
+&emsp;&emsp;&emsp;If any entity fails to pay an assessment after it has become a final and unappealable order, or after the court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General who shall recover the amount assessed by action in the appropriate United States district court.
 
 #### (ii) Nonreviewability
 
@@ -167,10 +167,6 @@
 &emsp;&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by subparagraph (A) to the extent that the payment of such penalty would be excessive relative to the failure involved.
 
 (July 1, 1944, ch. 373, title XXVII, §2723, formerly §2722, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1968; amended Pub. L. 110–233, title I, §102(a)(5), May 21, 2008, 122 Stat. 891; renumbered §2736, renumbered §2723, and amended Pub. L. 111–148, title I, §§1001(4), 1563(c)(13), formerly §1562(c)(13), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911; Pub. L. 116–260, div. BB, title I, §102(a)(3)(C), Dec. 27, 2020, 134 Stat. 2772.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 102(a)(3)(C) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 

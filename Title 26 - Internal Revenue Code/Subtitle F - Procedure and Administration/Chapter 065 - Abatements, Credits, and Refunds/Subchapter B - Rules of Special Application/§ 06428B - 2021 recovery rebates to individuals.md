@@ -78,7 +78,7 @@ For purposes of this section, the term "eligible individual" means any individua
 
 #### (ii) Adoption taxpayer identification number
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (C), in the case of a dependent who is adopted or placed for adoption, the term "valid identification number" shall include the adoption taxpayer identification number of such dependent.
+&emsp;&emsp;&emsp;For purposes of subparagraph (C), in the case of a dependent who is adopted orplaced for adoption, the term "valid identification number" shall include the adoption taxpayer identification number of such dependent.
 
 #### (E) Special rule for members of the Armed Forces
 
@@ -146,7 +146,7 @@ For purposes of this section, the term "eligible individual" means any individua
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any individual who files, before the additional payment determination date, a return of tax for such individual's first taxable year beginning in 2020, the Secretary shall make a payment (in addition to any payment made under paragraph (1)) to such individual equal to the excess (if any) of—
+&emsp;&emsp;&emsp;In the case of any individual who files, before the additional payment determination date, a return of tax for such individual's first taxable year beginning in 2020, the Secretary shall make a payment (inaddition to any payment made under paragraph (1)) to such individual equal to the excess (if any) of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount which would be determined under paragraph (1) (after the application of subparagraph (A)) by applying paragraph (1) as of the additional payment determination date, over
 

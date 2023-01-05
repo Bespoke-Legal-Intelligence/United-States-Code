@@ -18,7 +18,7 @@ Consultation With Members; Ineligibility to Vote.—A military judge detailed to
 
 (e)
 
-Other Duties.—A commissioned officer who is certified to be qualified for duty as a military judge of a military commission under this chapter may perform such other duties as are assigned to such officer by or with the approval of the Judge Advocate General of the armed force of which such officer is a member or the designee of such Judge Advocate General.
+Other Duties.—A commissioned officer who is certified to be qualified for duty as amilitary judge of a military commission under this chapter may perform such other duties as are assigned to such officer by or with the approval of the Judge Advocate General of the armed force of which such officer is a member or the designee of such Judge Advocate General.
 
 (f)
 

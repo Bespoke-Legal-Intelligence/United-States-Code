@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be a Director of the National Counterintelligence and Security Center (referred to in this section as the "Director"), who shall be appointed by the President, by and with the advice and consent of the Senate.
+There shall be a Director of the National Counterintelligence and Security Center (referred to in this section as the "Director"), whoshall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (b) Mission
 

@@ -8,7 +8,7 @@ There are authorized to be appropriated to the railroad unemployment insurance a
 
 #### Amendments
 
-<b>1963</b>—Pub. L. 88–133 repealed provision for repayment of advances by transfers from account to general fundof Treasury when funds of account derived from increase in employers' contribution rate are adequate for such purpose, which is now covered by section 303(b) of Pub. L. 88–133, set out as a note below.
+<b>1963</b>—Pub. L. 88–133 repealed provision for repayment of advances by transfers from account to general fund of Treasury when funds of account derived from increase in employers' contribution rate are adequate for such purpose, which is now covered by section 303(b) of Pub. L. 88–133, set out as a note below.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

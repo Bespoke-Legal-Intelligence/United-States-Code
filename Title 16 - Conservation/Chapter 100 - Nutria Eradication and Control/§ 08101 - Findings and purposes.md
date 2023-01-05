@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a)(1). Pub. L. 116–186, §1(1)(A)(i), substituted "Wetlands, tidal marshes, and agriculturallands" for "Wetlands and tidal marshes of the Chesapeake Bay and in Louisiana".
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–186, §1(1)(A)(i), substituted "Wetlands, tidal marshes, and agricultural lands" for "Wetlands and tidal marshes of the Chesapeake Bay and in Louisiana".
 
 Subsec. (a)(2). Pub. L. 116–186, §1(1)(A)(ii), struck out "in Maryland and Louisiana" after "substantial marsh loss".
 

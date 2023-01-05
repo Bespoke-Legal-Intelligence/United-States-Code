@@ -90,7 +90,7 @@ In this part—
 
 &emsp;&emsp;&emsp;&emsp;(I) before January 1, 2022, have one or more comorbid and medically complex chronic conditions that are substantially disabling or life threatening, have a high risk of hospitalization or other significant adverse health outcomes, and require specialized delivery systems across domains of care; and
 
-&emsp;&emsp;&emsp;&emsp;(II) on or after January 1, 2022, have one or more comorbid and medically complex chronic conditions that is life threatening or significantly limits <sup>1</sup>overall health or function, have a high risk of hospitalization or other adverse health outcomes, and require intensive care coordination and that is listed under subsection (f)(9)(A).
+&emsp;&emsp;&emsp;&emsp;(II) on or after January 1, 2022, have one or more comorbid and medically complex chronic conditions that is life threatening or significantly limits <sup>1</sup> overall health or function, have a high risk of hospitalization or other adverse health outcomes, and require intensive care coordination and that is listed under subsection (f)(9)(A).
 
 > &emsp;&emsp;The Secretary may apply rules similar to the rules of section 1395eee(c)(4) of this title for continued eligibility of special needs individuals.
 
@@ -124,7 +124,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (1) In general
 
-&emsp;In the case of a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the society offering the plan may restrict the enrollment of individuals under this part to individuals who are members of the church, convention, or group described in paragraph (3)(B) with which the society is affiliated.
+&emsp;In the case of a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the society offering the plan may restrict theenrollment of individuals under this part to individuals who are members of the church, convention, or group described in paragraph (3)(B) with which the society is affiliated.
 
 #### (2) Medicare+Choice religious fraternal benefit society plan described
 
@@ -162,7 +162,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;In the case of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(i), the applicable requirements described in this paragraph are as follows:
 
-&emsp;&emsp;(A) Each individual that enrolls in the plan on or after January 1, 2010, is a special needs individuals described in subsection (b)(6)(B)(i). In the case of an individual who is living in the community but requires an institutional level of care, such individual shall not be considered a special needs individual described in subsection (b)(6)(B)(i) unless the determination that the individualrequires an institutional level of care was made—
+&emsp;&emsp;(A) Each individual that enrolls in the plan on or after January 1, 2010, is a special needs individuals described in subsection (b)(6)(B)(i). In the case of an individual who is living in the community but requires an institutional level of care, such individual shall not be considered a special needs individual described in subsection (b)(6)(B)(i) unless the determination that the individual requires an institutional level of care was made—
 
 &emsp;&emsp;&emsp;(i) using a State assessment tool of the State in which the individual resides; and
 
@@ -272,7 +272,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;(i) a uniform process for disseminating to State Medicaid agencies information under this subchapter impacting contracts between such agencies and such plans under this subsection; and
 
-&emsp;&emsp;&emsp;(ii) basic resources for States interested in exploring such plans as a platform for integration, such as a model contract or other tools to achieve those goals.
+&emsp;&emsp;&emsp;(ii) basic resources for States interested in exploring such plans as a platform forintegration, such as a model contract or other tools to achieve those goals.
 
 #### (B) Unified grievances and appeals process
 
@@ -322,7 +322,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;&emsp;(I) The specialized MA plan must meet the requirements of contracting with the State Medicaid agency described in paragraph (3)(D) in addition to coordinating long-term services and supports or behavioral health services, or both, by meeting an additional minimum set of requirements determined by the Secretary through the Federal Coordinated Health Care Office established under section 1315b of this title based on input from stakeholders, such as notifying the State in a timely manner of hospitalizations, emergency room visits, and hospital or nursing home discharges of enrollees, assigning one primary care provider for each enrollee, or sharing data that would benefit the coordination of items and services under this subchapter and the State plan under subchapter XIX. Such minimum set of requirements must be included in the contract of the specialized MA plan with the State Medicaid agency under such paragraph.
 
-&emsp;&emsp;&emsp;&emsp;(II) The specialized MA plan must meet the requirements of a fully integrated plan described in section 1395w–23(a)(1)(B)(iv)(II) of this title (other than the requirement that the plan have similar average levels of frailty, as determined by the Secretary, as the PACE program), or enter into a capitated contract with the State Medicaid agency to provide long-term services and supports or behavioral health services, or both.
+&emsp;&emsp;&emsp;&emsp;(II) The specialized MA plan must meet the requirements of a fully integratedplan described in section 1395w–23(a)(1)(B)(iv)(II) of this title (other than the requirement that the plan have similar average levels of frailty, as determined by the Secretary, as the PACE program), or enter into a capitated contract with the State Medicaid agency to provide long-term services and supports or behavioral health services, or both.
 
 &emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility for benefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both the specialized MA plan and the Medicaid managed care organization.
 
@@ -360,7 +360,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;(ii) Conditions that require prescription drugs, providers, and models of care that are unique to the specific population of enrollees in a specialized MA plan for special needs individuals described in such subsection on or after such date and—
 
-&emsp;&emsp;&emsp;&emsp;(I) as a result of access to, and enrollment in, such a specialized MA plan for special needs individuals, individuals with such condition would have a reasonable expectation of slowing or halting the progression of the disease, improving health outcomes and decreasing overall costs for individuals diagnosed with such condition compared to available options of care other than through such a specialized MA plan for special needs individuals; or
+&emsp;&emsp;&emsp;&emsp;(I) as a result of access to, and enrollment in, such a specialized MA plan forspecial needs individuals, individuals with such condition would have a reasonable expectation of slowing or halting the progression of the disease, improving health outcomes and decreasing overall costs for individuals diagnosed with such condition compared to available options of care other than through such a specialized MA plan for special needs individuals; or
 
 &emsp;&emsp;&emsp;&emsp;(II) have a low prevalence in the general population of beneficiaries under this subchapter or a disproportionally high per-beneficiary cost under this subchapter.
 
@@ -426,7 +426,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;(iii) Providers of services and suppliers who are the subject of an active revocation of participation under this subchapter, including for not satisfying conditions of participation.
 
-&emsp;&emsp;&emsp;(iv) In the case of such a plan that makes a referral under subparagraph (A)(i) through the portal (or other successor technology) with respect to activities of substantiated or suspicious activities of fraud, waste, or abuse of a provider of services (including a prescriber) or supplier, if such provider (including a prescriber) or supplier has been the subject of an administrative action under this subchapter or subchapter XI with respect to similar activities, a notification to such plan of such action so taken.
+&emsp;&emsp;&emsp;(iv) In the case of such a plan that makes a referral under subparagraph (A)(i) through the portal (or other successor technology) with respect to activities ofsubstantiated or suspicious activities of fraud, waste, or abuse of a provider of services (including a prescriber) or supplier, if such provider (including a prescriber) or supplier has been the subject of an administrative action under this subchapter or subchapter XI with respect to similar activities, a notification to such plan of such action so taken.
 
 #### (C) Rulemaking
 

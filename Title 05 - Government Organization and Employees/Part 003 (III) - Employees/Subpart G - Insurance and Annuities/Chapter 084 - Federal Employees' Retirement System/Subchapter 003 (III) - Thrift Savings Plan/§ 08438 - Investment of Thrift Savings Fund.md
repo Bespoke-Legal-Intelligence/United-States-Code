@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(i) the investment adviser has, on such day, shareholder's or partner's equity in excess of $750,000; or
 
-&emsp;&emsp;&emsp;(ii) payment of all of the investment adviser's liabilities, including any liabilitieswhich may arise by reason of a breach or violation of a duty described in section 8477 of this title, is unconditionally guaranteed by—
+&emsp;&emsp;&emsp;(ii) payment of all of the investment adviser's liabilities, including any liabilities which may arise by reason of a breach or violation of a duty described in section 8477 of this title, is unconditionally guaranteed by—
 
 &emsp;&emsp;&emsp;&emsp;(I) a person (as defined in section 8471(4) of this title) who directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with the investment adviser and who has, on the last day of the person's latest fiscal year ending before the date of a determination for the purpose of this clause, shareholder's or partner's equity in an amount which, when added to the amount of the shareholder's or partner's equity of the investment adviser on such day, exceeds $750,000;
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) a broker or dealer registered under section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o) that has, on the last day of the broker's or dealer's latest fiscal year ending before the date of a determination for the purpose of this clause, net worth in excess of $750,000;
 
-&emsp;(9) the term "shareholder's or partner's equity", as used in paragraph (8)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (8)(D), means the equity shown in the most recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section; and
+&emsp;(9) the term "shareholder's or partner's equity", as used in paragraph (8)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (8)(D), means the equity shown in themost recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section; and
 
 &emsp;(10) the term "Small Capitalization Stock Index Investment Fund" means the Small Capitalization Stock Index Investment Fund established under subsection (b)(1)(D).
 
@@ -94,7 +94,7 @@
 
 (C) The Board may establish such other terms and conditions for the mutual fund window as the Board considers appropriate to protect the interests of participants, including requirements relating to risk disclosure.
 
-(D) The Board shall consult with the Employee Thrift Advisory Council (established under section 8473) before authorizing the addition of a mutual fund window or establishing aservice that enables participants to invest in mutual funds.
+(D) The Board shall consult with the Employee Thrift Advisory Council (established under section 8473) before authorizing the addition of a mutual fund window or establishing a service that enables participants to invest in mutual funds.
 
 (c)(1) The Executive Director shall invest the sums available in the Thrift Savings Fund for investment as provided in elections made under subsection (d).
 
@@ -106,7 +106,7 @@
 
 (e)(1) The Secretary of the Treasury is authorized to issue special interest-bearing obligations of the United States for purchase by the Thrift Savings Fund for the Government Securities Investment Fund.
 
-(2)(A) Obligations issued for the purpose of this subsection shall have maturities fixed with due regard to the needs of such Fund as determined by the Executive Director, and shall bear interest at a rate equal to the average market yield (computed by the Secretary of the Treasury on the basis of market quotations as of the end of the calendar month next preceding the date of issue of such obligations) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable earlier than 4 years after the end of such calendar month.
+(2)(A) Obligations issued for the purpose of this subsection shall have maturities fixed with due regard to the needs of such Fund as determined by the Executive Director, and shall bear interest at a rate equal to the average market yield (computed by the Secretary of the Treasury on the basis of market quotations as of theend of the calendar month next preceding the date of issue of such obligations) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable earlier than 4 years after the end of such calendar month.
 
 (B) Any average market yield computed under subparagraph (A) which is not a multiple of one-eighth of 1 percent, shall be rounded to the nearest multiple of one-eighth of 1 percent.
 
@@ -152,7 +152,7 @@ Subsec. (b)(5). Pub. L. 111–31, §104(b), added par. (5).
 
 Subsec. (d)(1). Pub. L. 111–31, §104(c), inserted "and options" after "investment funds".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(1)\]\], added par. (5), redesignated former pars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted "paragraph (8)(D)" for "paragraph (7)(D)" in two places, and added par. (10).
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(1)\]\], added par. (5), redesignated formerpars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted "paragraph (8)(D)" for "paragraph (7)(D)" in two places, and added par. (10).
 
 Subsec. (b). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(2)\]\], in par. (1) added subpars. (D) and (E) and added pars. (3) and (4).
 

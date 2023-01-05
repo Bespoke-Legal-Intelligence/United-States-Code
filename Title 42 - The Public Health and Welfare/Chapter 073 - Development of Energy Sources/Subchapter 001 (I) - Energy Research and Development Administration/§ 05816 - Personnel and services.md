@@ -2,7 +2,7 @@
 
 #### (a) Appointment and compensation of officers and employees
 
-The Administrator is authorized to select, appoint, employ, and fix the compensation of suchofficers and employees, including attorneys, pursuant to section 2201(d) of this title as are necessary to perform the functions now or hereafter vested in him and to prescribe their functions.
+The Administrator is authorized to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, pursuant to section 2201(d) of this title as are necessary to perform the functions now or hereafter vested in him and to prescribe their functions.
 
 #### (b) Employment of experts and consultants
 
@@ -18,7 +18,7 @@ Appointment, detail, or assignment to, acceptance of, and service in, any appoin
 
 #### (e) Transportation and per diem expenses
 
-The Administrator is authorized to pay transportation expenses, and per diem in lieu of subsistence expenses, in accordance with chapter 57 of title 5 for travel between places of recruitment and duty, and while at places of duty, of persons appointed for emergency, temporary, or seasonal services in the field service of the Administration.
+The Administrator is authorized to pay transportation expenses, and per diem in lieu of subsistence expenses, in accordance with chapter 57 of title 5 for travel between places of recruitment and duty, and while at places of duty, of persons appointed for emergency, temporary, orseasonal services in the field service of the Administration.
 
 #### (f) Personnel of other agencies
 
@@ -26,19 +26,19 @@ The Administrator is authorized to utilize, on a reimbursable basis, the service
 
 #### (g) Advisory boards
 
-The Administrator is authorized to establish advisory boards, in accordance with the provisions of the Federal Advisory Committee Act (Public Law 92–463), to advise with and make recommendations to the Administrator on legislation, policies, administration, research, and other matters.
+The Administrator is authorized to establish advisory boards, in accordance with the provisions of chapter 10 of title 5, to advise with and make recommendations to the Administrator on legislation, policies, administration, research, and other matters.
 
 #### (h) Employment of noncitizens
 
 The Administrator is authorized to employ persons who are not citizens of the United States in expert, scientific, technical, or professional capacities whenever he deems it in the public interest.
 
-(Pub. L. 93–438, title I, §106, Oct. 11, 1974, 88 Stat. 1239.)
+(Pub. L. 93–438, title I, §106, Oct. 11, 1974, 88 Stat. 1239; Pub. L. 117–286, §4(a)(264), Dec. 27, 2022, 136 Stat. 4335.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (g). Pub. L. 117–286 substituted "chapter 10 of title 5," for "the Federal Advisory Committee Act (Public Law 92–463),".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -48,5 +48,5 @@ Energy Research and Development Administration terminated and functions vested b
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

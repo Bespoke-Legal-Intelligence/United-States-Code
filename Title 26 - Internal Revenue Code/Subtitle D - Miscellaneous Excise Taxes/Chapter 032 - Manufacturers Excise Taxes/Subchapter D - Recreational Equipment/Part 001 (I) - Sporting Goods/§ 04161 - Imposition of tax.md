@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;There is hereby imposed on the sale by the manufacturer, producer, or importer of anybow which has a peak draw weight of 30 pounds or more, a tax equal to 11 percent of the price for which so sold.
+&emsp;&emsp;There is hereby imposed on the sale by the manufacturer, producer, or importer of any bow which has a peak draw weight of 30 pounds or more, a tax equal to 11 percent of the price for which so sold.
 
 #### (B) Archery equipment
 
@@ -122,7 +122,7 @@ Subsec. (b)(3), (4). Pub. L. 108–493, §1(a), repealed Pub. L. 108–357, §33
 
 Pub. L. 108–357, §332(b), which directed the amendment of subsec. (b) by adding par. (3), relating to arrows, and redesignating former par. (3) as (4), was repealed by Pub. L. 108–493, §1(a). See Construction of 2004 Amendment note below.
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–34 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted ofpars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
 
 <b>1986</b>—Subsec. (b)(1)(B)(ii). Pub. L. 99–514 substituted a comma for the period at end.
 

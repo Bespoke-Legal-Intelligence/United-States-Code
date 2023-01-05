@@ -16,7 +16,7 @@ Matters to be specified in policy.—The policy on sexual harassment, dating vio
 
 &emsp;&emsp;(B) procedures for documenting, tracking, and maintaining the data required to conduct the annual assessments to determine the effectiveness of the policies, procedures, and training program of the Academy with respect to sexual harassment, dating violence, domestic violence, sexual assault, and stalking involving cadets or other Academy personnel, as required by subsection (c);
 
-&emsp;&emsp;(C) procedures that a cadet or other Academy personnel should follow in the case of an occurrence of sexual harassment, datingviolence, domestic violence, sexual assault, or stalking, including—
+&emsp;&emsp;(C) procedures that a cadet or other Academy personnel should follow in the case of an occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, including—
 
 &emsp;&emsp;&emsp;(i) specifying the person or persons to whom an alleged occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking should be reported by the victim and the options for confidential reporting;
 
@@ -164,7 +164,7 @@ Minimum training requirements.—The Superintendent shall ensure that all cadets
 
 &emsp;&emsp;(A) An initial training session, which shall occur not later than 7 days after a cadet's initial arrival at the Academy.
 
-&emsp;&emsp;(B) Additional training sessions, which shall occur biannually following the cadet's initial training session until the cadet graduates or leaves the Academy.
+&emsp;&emsp;(B) Additional training sessions, which shall occur biannually following the cadet'sinitial training session until the cadet graduates or leaves the Academy.
 
 (c)
 
@@ -196,7 +196,7 @@ Biennial survey.—For each assessment of the Academy under paragraph (1) during
 
 &emsp;(3)
 
-Focus groups for years when survey not required.—In any year in which the Secretary is not required to conduct the surveydescribed in paragraph (2), the Secretary shall conduct focus groups at the Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at the Academy.
+Focus groups for years when survey not required.—In any year in which the Secretary is not required to conduct the survey described in paragraph (2), the Secretary shall conduct focus groups at the Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at the Academy.
 
 (d)
 
@@ -264,7 +264,7 @@ Definitions.—In this section and section 51319 of this title:
 
 &emsp;(1)
 
-Dating violence; domestic violence; stalking.—The terms "dating violence", "domestic violence", and "stalking" have the meanings given those terms is <sup>1</sup> section 40002(a) of the Violence Against Women Act of 1994 (42 U.S.C. 13925(a)).<sup>2</sup>
+Dating violence; domestic violence; stalking.—The terms "dating violence", "domestic violence", and "stalking" have the meanings given those terms is <sup>1</sup> section40002(a) of the Violence Against Women Act of 1994 (42 U.S.C. 13925(a)).<sup>2</sup>
 
 &emsp;(2)
 
@@ -350,59 +350,11 @@ Pub. L. 115–232, div. C, title XXXV, §3507(b), Aug. 13, 2018, 132 Stat. 2310,
 
 #### Access of Academy Cadets to DOD SAFE or Equivalent Helpline
 
-Pub. L. 115–91, div. C, title XXXV, §3515(b), Dec. 12, 2017, 131 Stat. 1926, provided that:
-
-"(1)
-
-In general.—The Secretary of Transportation shall arrange for cadets at the United States Merchant Marine Academy to have access to, and use of, the Department of Defense SAFE Helpline or an equivalent helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
-
-"(2)
-
-Training.—The training provided to personnel of the helpline to which cadets at the Academy are given access shall include training on the resources available to cadets at the Academy in connection with sexual assault, sexual harassment, domestic violence, dating violence, and stalking.
-
-"(3)
-
-Definitions.—In this section, the terms 'dating violence', 'domestic violence', 'sexual assault', and 'stalking' have the meanings given those terms in section 51318 of title 46, United States Code."
+Pub. L. 115–91, div. C, title XXXV, §3515(b), Dec. 12, 2017, 131 Stat. 1926, which directed the Secretary of Transportation to provide cadets at the United States Merchant Marine Academy access to the Department ofDefense SAFE Helpline or an equivalent helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, was repealed by Pub. L. 117–263, div. C, title XXXV, §3513(c)(2), Dec. 23, 2022, 136 Stat. 3068, which also redesignated section 3515(c) of Pub. L. 115–91 (amending section 51319 of this title) as section 3515(b) of Pub. L. 115–91.
 
 #### Sea Year Compliance
 
-Pub. L. 114–328, div. C, title XXXV, §3514, Dec. 23, 2016, 130 Stat. 2788, as amended by Pub. L. 115–91, div. C, title XXXV, §3513, Dec. 12, 2017, 131 Stat. 1919; Pub. L. 115–232, div. C, title XXXV, §3515(a), Aug. 13, 2018, 132 Stat. 2312; Pub. L. 116–92, div. C, title XXXV, §3516(b), Dec. 20, 2019, 133 Stat. 1986, provided that:
-
-"(a)
-
-Vessel Operator Requirements.—
-
-&emsp;"(1)
-
-In general.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Maritime Administrator, in consultation with operators of commercial vessels of the United States, shall establish—
-
-&emsp;&emsp;"(A) criteria that domestic and international vessel operators must meet in order to participate in the Sea Year program of the United States Merchant Marine Academy that addresses sexual harassment, sexual assault, and other inappropriate conduct; and
-
-&emsp;&emsp;"(B) a process for verifying compliance with the criteria.
-
-&emsp;"(2)
-
-Noncommercial vessels.—For the purposes of this section, vessels operated by any of the following entities shall not be considered commercial vessels:
-
-&emsp;&emsp;"(A) Any entity or agency of the United States.
-
-&emsp;&emsp;"(B) The government of a State or territory.
-
-&emsp;&emsp;"(C) Any political subdivision of a State or territory.
-
-&emsp;&emsp;"(D) Any other municipal organization.
-
-"(b)
-
-Provision of Satellite Phone.—
-
-&emsp;"(1)
-
-In general.—The Maritime Administrator shall ensure that each cadet from the United States Merchant Marine Academy who is participating in the Sea Year program is provided a functional satellite communication device. A cadet may not be denied from using the device whenever the student determines that use of the device is necessary to prevent or report sexual harassment or sexual assault.
-
-&emsp;"(2)
-
-Check-in.—Not less often than once each week during a cadet's participation in the Sea Year program, the cadet shall check-in with designated personnel at the Academy via the satellite communication device provided under paragraph (1). A text message sent via the satellite device shall meet the requirement for a weekly check-in for purposes of this paragraph."
+Pub. L. 114–328, div. C, title XXXV, §3514, Dec. 23, 2016, 130 Stat. 2788, as amended by Pub. L. 115–91, div. C, title XXXV, §3513, Dec. 12, 2017, 131 Stat. 1919; Pub. L. 115–232, div. C, title XXXV, §3515(a), Aug. 13, 2018, 132 Stat. 2312; Pub. L. 116–92, div. C, title XXXV, §3516(b), Dec. 20, 2019, 133 Stat. 1986, which directed the Maritime Administrator to establish criteria for participation in the Sea Year program of the United States Merchant Marine Academy that addresses sexual harassment, sexual assault, and other inappropriate conduct and a process for verifying compliance, was repealed by Pub. L. 117–263, div. C, title XXXV, §3513(c)(1), Dec. 23, 2022, 136 Stat. 3068.
 
 #### Actions To Address Sexual Harassment and Violence at the United States Merchant Marine Academy
 

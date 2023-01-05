@@ -68,7 +68,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §542(b), title X, §1072(b)\], Oc
 
 #### Annual Primary Prevention Research Agenda
 
-Pub. L. 117–81, div. A, title V, §549A, Dec. 27, 2021, 135 Stat. 1721, provided that:
+Pub. L. 117–81, div. A, title V, §549A, Dec. 27, 2021, 135 Stat. 1721, as amended by Pub. L. 117–263, div. A, title V, §547(a), Dec. 23, 2022, 136 Stat. 2585, provided that:
 
 "(a)
 
@@ -98,11 +98,17 @@ Guiding Principles.—The primary prevention research agenda should, as determin
 
 &emsp;"(1) reflect a preference for research projects and tasks with the potential to yield or contribute to the development and implementation of actionable primary prevention strategies in the Department of Defense;
 
-&emsp;"(2) be integrated, so as to discover or test cross-cutting interventions across the spectrum of interpersonal and self-directed violence;
+&emsp;"(2) include a focus on whether and to what extent sub-populations of the military community may be targeted for interpersonal violence more than others;
 
-&emsp;"(3) incorporate collaboration with other Federal departments and agencies, State governments, academia, industry, federally funded research and development centers, non-profit organizations, and other organizations outside of the Department of Defense; and
+&emsp;"(3) seek to identify factors that influence the prevention, perpetration, and victimization of interpersonal and self-directed violence;
 
-&emsp;"(4) minimize unnecessary duplication of effort.
+&emsp;"(4) seek to improve the collection and dissemination of data on hazing and bullying related to interpersonal and self-directed violence;
+
+&emsp;"(5) be integrated, so as to discover or test cross-cutting interventions across the spectrum of interpersonal and self-directed violence;
+
+&emsp;"(6) incorporate collaboration with other Federal departments and agencies, including the Department of Health and Human Services and the Centers for Disease Control and Prevention, State governments, academia, industry, federally funded research and development centers, nonprofit organizations, and other organizations outside of the Department of Defense, including civilian institutions that conduct similar data-driven studies, collection, and analysis; and
+
+&emsp;"(7) minimize unnecessary duplication of effort.
 
 "(d)
 

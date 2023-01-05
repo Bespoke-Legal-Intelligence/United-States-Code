@@ -6,7 +6,7 @@ The Federal Bureau of Investigation is in the Department of Justice.
 
 #### Historical and Revision Notes
 
-The section is supplied for convenience and clarification. The Bureau of Investigation in the Department ofJustice, the earliest predecessor agency of the Federal Bureau of Investigation, was created administratively in 1908. It appears that funds used for the Bureau of Investigation were first obtained through the Department of Justice Appropriation Act of May 22, 1908, ch. 186, §1 (par. beginning "From the appropriations for the prosecution of crimes"), 35 Stat. 236, although that statutory provision makes no express mention of the Bureau or of the investigative function.
+The section is supplied for convenience and clarification. The Bureau of Investigation in the Department of Justice, the earliest predecessor agency of the Federal Bureau of Investigation, was created administratively in 1908. It appears that funds used for the Bureau of Investigation were first obtained through the Department of Justice Appropriation Act of May 22, 1908, ch. 186, §1 (par. beginning "From the appropriations for the prosecution of crimes"), 35 Stat. 236, although that statutory provision makes no express mention of the Bureau or of the investigative function.
 
 Section 3 of Executive Order No. 6166 of June 10, 1933, specifically recognized the Bureau of Investigation in the Department of Justice and provided that all that Bureau's functions together with the investigative functions of the Bureau of Prohibition were "transferred to and consolidated in a Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation."
 
@@ -17,6 +17,18 @@ The Division of Investigation was first designated as the "Federal Bureau of Inv
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Bureau of Investigation, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(3) and sections 121(g)(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Forced Labor Requirements: Department of Justice
+
+Pub. L. 117–347, title IV, §406(a), Jan. 5, 2023, 136 Stat. 6209, provided that:
+
+"(1)
+
+In general.—Not later than 2 years after the date of enactment of this Act \[Jan. 5, 2023\], the Attorney General shall establish a team of not less than 10 agents within the Federal Bureau of Investigation to be assigned to exclusively investigate labor trafficking.
+
+"(2)
+
+Authorization of appropriations.—There are authorized to be appropriated to carry out paragraph (1) $2,000,000 for each of fiscal years 2022 to 2027, to remain available until expended."
 
 #### Enterprise Architecture
 
@@ -50,7 +62,7 @@ Failure To Meet Terms.—If the Director of the Federal Bureau of Investigation 
 
 "(e)
 
-Enterprise Architecture, Agency Plans and Reports.—This section shall be carried out in compliance with the requirements set forth in section 1016(e) and (h) \[6 U.S.C. 485(e), (h)\]."
+Enterprise Architecture, Agency Plans and Reports.—This section shall be carried out in compliance with the requirements set forth in section 1016(e) and (h) \[6 U.S.C. 485(e) and former 6 U.S.C. 485(h)\]."
 
 #### Report to Congress
 

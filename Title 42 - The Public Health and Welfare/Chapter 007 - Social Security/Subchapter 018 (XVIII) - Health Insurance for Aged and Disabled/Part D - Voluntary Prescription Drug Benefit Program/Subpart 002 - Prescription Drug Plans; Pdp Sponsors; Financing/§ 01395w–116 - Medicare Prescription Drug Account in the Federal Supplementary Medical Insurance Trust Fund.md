@@ -24,9 +24,11 @@
 
 &emsp;&emsp;(B) payments under section 1395w–115 of this title (relating to subsidy payments and payments for fallback plans);
 
-&emsp;&emsp;(C) payments to sponsors of qualified retiree prescription drug plans under section 1395w–132(a) of this title; and
+&emsp;&emsp;(C) payments to sponsors of qualified retiree prescription drug plans under section 1395w–132(a) of this title;
 
-&emsp;&emsp;(D) payments with respect to administrative expenses under this part in accordance with section 401(g) of this title.
+&emsp;&emsp;(D) payments with respect to administrative expenses under this part in accordance with section 401(g) of this title; and
+
+&emsp;&emsp;(E) payments under section 1395w–114 of this title (relating to selected drug subsidy payments).
 
 #### (2) Transfers to Medicaid account for increased administrative costs
 
@@ -62,5 +64,11 @@
 
 &emsp;Any balance in the Transitional Assistance Account that is transferred under section 1395w–141(k)(5) of this title shall be deposited into the Account.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–16, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2120.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–16, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2120; amended Pub. L. 117–169, title I, §11201(c)(3), Aug. 16, 2022, 136 Stat. 1888.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(1)(E). Pub. L. 117–169 added subpar. (E).
 

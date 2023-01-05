@@ -33,7 +33,7 @@ The tax imposed by this section shall be paid by the person in whose name the hi
 
 #### (d) One tax liability per period
 
-To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no furthertax shall be imposed by this section for such taxable period with respect to such vehicle.
+To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no further tax shall be imposed by this section for such taxable period with respect to such vehicle.
 
 #### (e) Electronic filing
 
@@ -126,7 +126,7 @@ Subsec. (e). Pub. L. 91–605, §303(a)(8), substituted "1977" for "1972".
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–61, §203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
 
-Subsec. (c). Pub. L. 87–61, §203(b)(2)(B), substituted "any taxable period" for "any year", "after the firstmonth in such period" for "after July 31", and "the last day in such taxable period" for "the last day of June following".
+Subsec. (c). Pub. L. 87–61, §203(b)(2)(B), substituted "any taxable period" for "any year", "after the first month in such period" for "after July 31", and "the last day in such taxable period" for "the last day of June following".
 
 Subsec. (d). Pub. L. 87–61, §203(b)(2)(B), made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
 
@@ -216,7 +216,7 @@ Pub. L. 100–17, title V, §507(c), Apr. 2, 1987, 101 Stat. 260, provided that:
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Special Rules in the Case of Certain Owner-Operators
 
@@ -244,7 +244,7 @@ Taxable gross weight.—For purposes of this subsection, the term 'taxable gross
 
 #### Studies Relating to Heavy Vehicle Use Tax
 
-Pub. L. 98–369, div. A, title IX, subtitle D, part I, July 18, 1984, 98 Stat. 1010, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, would conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system, a study to determine the significance of the tax imposed by this section (relating to tax on use of certain vehicles) on trans-border trucking operations, and a study to evaluate the feasibility and ability of weight-distance truck taxes to provide the greatest degree of equity among highway users, to ease the costs of compliance of such taxes, and to improve the efficiency by which such taxes might be administered, and submit to Congress a report of each study, together with any recommendations, by Oct. 1, 1987.
+Pub. L. 98–369, div. A, title IX, subtitle D, part I, July 18, 1984, 98 Stat. 1010, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, would conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system, a study to determine the significance of the tax imposed by this section (relating to tax on use of certain vehicles) on trans-border trucking operations, and a study to evaluate the feasibility and ability of weight-distance truck taxes to provide the greatest degree of equity among highway users, to easethe costs of compliance of such taxes, and to improve the efficiency by which such taxes might be administered, and submit to Congress a report of each study, together with any recommendations, by Oct. 1, 1987.
 
 #### Study of Alternatives to Tax on Use of Heavy Trucks
 

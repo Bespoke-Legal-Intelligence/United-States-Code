@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if the new loss corporation does not continue thebusiness enterprise of the old loss corporation at all times during the 2-year period beginning on the change date, the section 382 limitation for any post-change year shall be zero.
+&emsp;Except as provided in paragraph (2), if the new loss corporation does not continue the business enterprise of the old loss corporation at all times during the 2-year period beginning on the change date, the section 382 limitation for any post-change year shall be zero.
 
 #### (2) Exception for certain gains
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the old loss corporation has a net unrealized built-in loss, the recognized built-in loss for any recognition period taxable year shall be subject to limitation under this section in the same manner as if such loss were a pre-change loss.
+&emsp;&emsp;&emsp;If the old loss corporation has a net unrealized built-in loss, the recognized built-in loss for any recognition period taxableyear shall be subject to limitation under this section in the same manner as if such loss were a pre-change loss.
 
 #### (ii) Limitation
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 &emsp;For purposes of subsection (b)(3)—
 
-&emsp;&emsp;(A) in applying subparagraph (A) thereof, taxable income shall be computed without regard to recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses), and gain described in paragraph (1)(C), for the year, and
+&emsp;&emsp;(A) in applying subparagraph (A) thereof, taxable income shall be computed withoutregard to recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses), and gain described in paragraph (1)(C), for the year, and
 
 &emsp;&emsp;(B) in applying subparagraph (B) thereof, the section 382 limitation shall be computed without regard to recognized built-in gains, and gain described in paragraph (1)(C), for the year.
 
@@ -326,7 +326,7 @@ For purposes of this section—
 
 #### (9) Tax-free exchanges or transfers
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out thepurposes of this subsection where property held on the change date was acquired (or is subsequently transferred) in a transaction where gain or loss is not recognized (in whole or in part).
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection where property held on the change date was acquired (or is subsequently transferred) in a transaction where gain or loss is not recognized (in whole or in part).
 
 #### (i) Testing period
 
@@ -514,7 +514,7 @@ For purposes of this section—
 
 #### (D) Nonbusiness asset share
 
-&emsp;&emsp;For purposes of this paragraph, the nonbusiness asset share of the indebtedness ofthe corporation is an amount which bears the same ratio to such indebtedness as—
+&emsp;&emsp;For purposes of this paragraph, the nonbusiness asset share of the indebtedness of the corporation is an amount which bears the same ratio to such indebtedness as—
 
 &emsp;&emsp;&emsp;(i) the fair market value of the nonbusiness assets of the corporation, bears to
 
@@ -552,7 +552,7 @@ For purposes of this section—
 
 #### (E) Only certain stock taken into account
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock is transferred in satisfaction of indebtedness and only if such indebtedness—
+&emsp;&emsp;For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock istransferred in satisfaction of indebtedness and only if such indebtedness—
 
 &emsp;&emsp;&emsp;(i) was held by the creditor at least 18 months before the date of the filing of the title 11 or similar case, or
 
@@ -626,7 +626,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;&emsp;(II) such persons are members of a group of persons acting in concert.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, §221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042; Pub. L. 115–97, title I, §§11051(b)(3)(F), 13301(b)(2), (3), Dec. 22, 2017, 131 Stat. 2090, 2121.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66,title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, §221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042; Pub. L. 115–97, title I, §§11051(b)(3)(F), 13301(b)(2), (3), Dec. 22, 2017, 131 Stat. 2090, 2121.)
 
 #### <b>Editorial Notes</b>
 
@@ -710,7 +710,7 @@ Subsec. (i)(3). Pub. L. 100–647, §1006(d)(4), inserted "the earlier of" after
 
 Subsec. (k)(1). Pub. L. 100–647, §1006(d)(5)(A), inserted "or having a net operating loss for the taxable year in which the ownership change occurs" after "operating loss carryover".
 
-Subsec. (k)(2). Pub. L. 100–647, §1006(d)(5)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'old loss corporation' means any corporation with respect to which there is an ownership change—
+Subsec. (k)(2). Pub. L. 100–647, §1006(d)(5)(B), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "The term 'old loss corporation' means any corporation with respect to which there is an ownership change—
 
 &emsp;"(A) which (before the ownership change) was a loss corporation, or
 
@@ -742,7 +742,7 @@ Subsec. (l)(5)(F)(iii)(I). Pub. L. 100–647, §4012(b)(1)(B), inserted "(as mod
 
 Pub. L. 100–647, §1006(d)(29), which directed amendment of subcl. (I) by substituting "section 368(a)(3)(D)(ii)" for "section 368(a)(D)(ii)", could not be executed because "section 368(a)(3)(D)(ii)" appeared and "section 368(a)(D)(ii)" did not appear.
 
-Subsec. (l)(6). Pub. L. 100–647, §1006(d)(9), substituted "shall reflect the increase (if any) in value of the old loss corporation resulting from any surrender or cancellation of creditors' claims in the transaction" for"shall be the value of the new loss corporation immediately after the ownership change".
+Subsec. (l)(6). Pub. L. 100–647, §1006(d)(9), substituted "shall reflect the increase (if any) in value of the old loss corporation resulting from any surrender or cancellation of creditors' claims in the transaction" for "shall be the value of the new loss corporation immediately after the ownership change".
 
 Subsec. (l)(8). Pub. L. 100–647, §1006(d)(10), added par. (8).
 
@@ -890,7 +890,7 @@ In general.—The repeals made by subsection (e)(1) \[repealing amendments by Pu
 
 Election to have amendments apply.—
 
-&emsp;&emsp;"(i) If a taxpayer described in clause (ii) elects to have the provisions of this subparagraph apply, the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 \[amending this section and sections 108, 368, and 383 of this title\] shall apply to the reorganization described in clause (ii).
+&emsp;&emsp;"(i) If a taxpayer described in clause (ii) elects to have the provisions of this subparagraph apply, theamendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 \[amending this section and sections 108, 368, and 383 of this title\] shall apply to the reorganization described in clause (ii).
 
 &emsp;&emsp;"(ii) A taxpayer is described in this clause if the taxpayer filed a title 11 or similar case on December 8, 1981, filed a plan of reorganization on February 5, 1986, filed an amended plan on March 14, 1986, and received court approval for the amended plan and disclosure statement on April 16, 1986.
 
@@ -922,7 +922,7 @@ Special transition rules.—The amendments made by subsections (a), (b), and (c)
 
 &emsp;"(B) ownership change of a Delaware corporation incorporated in August 1983, which may result from the exercise of put or call option under an agreement entered into on September 14, 1983, but only with respect to taxable years beginning after 1991 regardless of when such ownership change takes place.
 
-> Any regulations prescribed under section 382 of the Internal Revenue Code of 1986 (as added by subsection (a))which have the effect of treating a group of shareholders as a separate 5-percent shareholder by reason of a public offering shall not apply to any public offering before January 1, 1989, for the benefit of institutions described in section 591 of such Code. Unless the corporation otherwise elects, an underwriter of any offering of stock in a corporation before September 19, 1986 (January 1, 1989, in the case of an offering for the benefit of an institution described in the preceding sentence), shall not be treated as acquiring any stock of such corporation by reason of a firm commitment underwriting to the extent the stock is disposed of pursuant to the offering (but in no event later than 60 days after the initial offering).
+> Any regulations prescribed under section 382 of the Internal Revenue Code of 1986 (as added by subsection (a)) which have the effect of treating a group of shareholders as a separate 5-percent shareholder by reason of a public offering shall not apply to any public offering before January 1, 1989, for the benefit of institutions described in section 591 of such Code. Unless the corporation otherwise elects, an underwriter of any offering of stock in a corporation before September 19, 1986 (January 1, 1989, in the case of an offering for the benefit of an institution described in the preceding sentence), shall not be treated as acquiring any stock of such corporation by reason of a firm commitment underwriting to the extent the stock is disposed of pursuant to the offering (but in no event later than 60 days after the initial offering).
 
 "(5)
 
@@ -982,7 +982,7 @@ Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes 
 
 #### Delay in Effective Date of 1976 Amendment
 
-Pub. L. 95–600, title III, §368, Nov. 6, 1978, 92 Stat. 2857, provided for delaying the effective date established bysection 806(g)(2), (3) of Pub. L. 94–455, formerly set out above, by substituting "1980" for "1978", with certain elections.
+Pub. L. 95–600, title III, §368, Nov. 6, 1978, 92 Stat. 2857, provided for delaying the effective date established by section 806(g)(2), (3) of Pub. L. 94–455, formerly set out above, by substituting "1980" for "1978", with certain elections.
 
 #### Clarification of Regulations Related to Limitations on Certain Built-In Losses Following an Ownership Change
 

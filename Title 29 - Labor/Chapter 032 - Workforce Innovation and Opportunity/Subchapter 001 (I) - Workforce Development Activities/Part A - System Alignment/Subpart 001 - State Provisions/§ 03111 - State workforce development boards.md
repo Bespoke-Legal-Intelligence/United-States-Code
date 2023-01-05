@@ -32,7 +32,7 @@ The Governor of a State shall establish a State workforce development board to c
 
 &emsp;&emsp;&emsp;&emsp;(III) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive, integrated employment for individuals with disabilities; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) may include representatives of organizations that have demonstrated experience and expertise in addressing theemployment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth; and
+&emsp;&emsp;&emsp;&emsp;(IV) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth; and
 
 &emsp;&emsp;&emsp;(iii) the balance—
 
@@ -120,7 +120,7 @@ The State board shall assist the Governor in—
 
 &emsp;&emsp;(D) ensure such technology is accessible to individuals with disabilities and individuals residing in remote areas;
 
-&emsp;(8) the development of strategies for aligning technology and data systems across one-stop partner programs to enhance service delivery and improve efficiencies in reporting on performance accountability measures (including the design and implementation of common intake, data collection, case management information, and performance accountability measurement and reporting processes and the incorporation of local input into such design and implementation, to improve coordination of services across one-stop partner programs);
+&emsp;(8) the development of strategies for aligning technology and data systems across one-stop partner programs to enhance service delivery and improve efficiencies in reporting on performance accountability measures (including the design and implementation of common intake, data collection, case management information, and performance accountability measurement and reporting processes and the incorporation of local input into such design andimplementation, to improve coordination of services across one-stop partner programs);
 
 &emsp;(9) the development of allocation formulas for the distribution of funds for employment and training activities for adults, and youth workforce investment activities, to local areas as permitted under sections 3163(b)(3) and 3173(b)(3) of this title;
 

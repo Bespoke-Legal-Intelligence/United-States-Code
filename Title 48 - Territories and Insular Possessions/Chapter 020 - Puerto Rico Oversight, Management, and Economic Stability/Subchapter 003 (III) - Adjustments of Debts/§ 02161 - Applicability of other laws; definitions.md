@@ -30,7 +30,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) shall exclude any Issuer or Authorized Instrumentality of the Territory Government Issuer (as defined under subchapter VI of this chapter) or a corporation, trust or other legal entity that is controlled by the Issuer or an Authorized Territorial Instrumentality of the Territory Government Issuer, provided that the beneficiaries of such claims, to the extent they are not referenced in this subparagraph, shall not be excluded, and that, for each excluded trust or other legal entity, the court shall, upon the request of any participant or beneficiary of such trust or entity, at any time after the commencement of the case, order the appointment of a separate committee of creditors pursuant to section 1102(a)(2) of title 11; and
 
-&emsp;&emsp;(B) with reference to Insured Bonds, shall mean the monoline insurer insuring such Insured Bond to the extent such insurer is granted the right to vote Insured Bonds forpurposes of directing remedies or consenting to proposed amendments or modifications as provided in the applicable documents pursuant to which such Insured Bond was issued and insured.
+&emsp;&emsp;(B) with reference to Insured Bonds, shall mean the monoline insurer insuring such Insured Bond to the extent such insurer is granted the right to vote Insured Bonds for purposes of directing remedies or consenting to proposed amendments or modifications as provided in the applicable documents pursuant to which such Insured Bond was issued and insured.
 
 #### (4) Insured Bond
 
@@ -38,7 +38,7 @@ In this subchapter:
 
 #### (5) Property of the estate
 
-&emsp;The term "property of the estate", when used in a section of title 11 made applicable in a case under this subchapter by subsection (a), means property of the debtor.
+&emsp;The term "property of the estate", when used in a section of title 11 made applicable ina case under this subchapter by subsection (a), means property of the debtor.
 
 #### (6) State
 

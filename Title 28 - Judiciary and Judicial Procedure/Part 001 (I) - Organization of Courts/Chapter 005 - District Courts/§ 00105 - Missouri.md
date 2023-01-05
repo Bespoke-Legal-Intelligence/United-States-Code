@@ -38,7 +38,7 @@ Missouri is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Central Division shall be held at Jefferson City.
 
-&emsp;&emsp;(5) The Southern Division comprises the counties of Cedar, Christian, Dade, Dallas, Douglas, Greene, Howell, Laclede, Oregon, Ozark, Polk, Pulaski, Taney, Texas, Webster, and Wright.
+&emsp;&emsp;(5) The Southern Division comprises the counties of Cedar, Christian, Dade, Dallas, Douglas, Greene, Howell, Laclede,Oregon, Ozark, Polk, Pulaski, Taney, Texas, Webster, and Wright.
 
 &emsp;&emsp;Court for the Southern Division shall be held at Springfield.
 

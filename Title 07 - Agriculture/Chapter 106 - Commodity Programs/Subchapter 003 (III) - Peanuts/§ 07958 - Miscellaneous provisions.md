@@ -12,7 +12,7 @@ The Peanut Administrative Committee established under Marketing Agreement No. 14
 
 #### (1) Establishment and purpose
 
-&emsp;The Secretary shall establish a Peanut Standards Board for the purpose of advisingthe Secretary regarding the establishment of quality and handling standards for domestically produced and imported peanuts.
+&emsp;The Secretary shall establish a Peanut Standards Board for the purpose of advising the Secretary regarding the establishment of quality and handling standards for domestically produced and imported peanuts.
 
 #### (2) Membership and appointment
 
@@ -54,9 +54,9 @@ The Peanut Administrative Committee established under Marketing Agreement No. 14
 
 &emsp;The Secretary shall consult with the Board in advance whenever the Secretary establishes or changes, or considers the establishment of or a change to, quality and handling standards for peanuts.
 
-#### (5) Federal Advisory Committee Act
+#### (5) Chapter 10 of title 5
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
+&emsp;Chapter 10 of title 5 shall not apply to the Board.
 
 #### (d) Priority
 
@@ -98,17 +98,17 @@ Imported peanuts shall be subject to the same quality and handling standards as 
 
 This section shall take effect with the 2002 crop of peanuts.
 
-(Pub. L. 107–171, title I, §1308, May 13, 2002, 116 Stat. 178; Pub. L. 115–334, title XII, §12517, Dec. 20, 2018, 132 Stat. 5000.)
+(Pub. L. 107–171, title I, §1308, May 13, 2002, 116 Stat. 178; Pub. L. 115–334, title XII, §12517, Dec. 20, 2018, 132 Stat. 5000; Pub. L. 117–286, §4(a)(41), Dec. 27, 2022, 136 Stat. 4309.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Agricultural Adjustment Act, as reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, referred to in subsec. (b), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Agricultural Adjustment Act, as reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, referred to in subsec. (b), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 #### Amendments
+
+Subsec. (c)(5). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2018</b>—Subsec. (c)(2)(B)(iii). Pub. L. 115–334 substituted "Virginia, North Carolina, and South Carolina" for "Virginia and North Carolina".
 

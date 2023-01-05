@@ -48,7 +48,7 @@ Not later than 1 year after February 7, 2014, and annually thereafter, the Secre
 
 &emsp;(2) policies implemented for the improvement of commodity procurement programs.
 
-(Pub. L. 103–354, title II, §242, as added Pub. L. 113–79, title IV, §4205, Feb. 7, 2014, 128 Stat. 823; amended Pub. L. 115–334, title XII, §12405(b), Dec. 20, 2018, 132 Stat. 4975.)
+(Pub. L. 103–354, title II, §242, as added Pub. L. 113–79, title IV, §4205, Feb. 7, 2014, 128 Stat. 823;amended Pub. L. 115–334, title XII, §12405(b), Dec. 20, 2018, 132 Stat. 4975.)
 
 #### <b>Editorial Notes</b>
 

@@ -90,7 +90,7 @@ Subsec. (f). Pub. L. 104–201 substituted "includes the National Reconnaissance
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–177, title III, §361(n), Dec. 13, 2003, 117 Stat. 2626, provided that: "The amendments made by this section \[amending this section, section 1681b of Title 15, Commerce and Trade, and sections 2366, 3038, 3047, 3050, 3106, and 3381 of Title 50, War and National Defense, repealing section 540C of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as notes under sections 3036 and 3381 of Title 50\] shall take effect on December 31, 2003."
+Pub. L. 108–177, title III, §361(n), Dec. 13, 2003, 117 Stat. 2626, provided that: "The amendments made bythis section \[amending this section, section 1681b of Title 15, Commerce and Trade, and sections 2366, 3038, 3047, 3050, 3106, and 3381 of Title 50, War and National Defense, repealing section 540C of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as notes under sections 3036 and 3381 of Title 50\] shall take effect on December 31, 2003."
 
 #### Effective Date of 1996 Amendment
 

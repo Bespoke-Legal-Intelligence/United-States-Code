@@ -36,5 +36,5 @@ General rule.—The amendments made by this part (other than by section 1065) \[
 
 "(2)
 
-Existing contracts.—In the case of operations which constitute participation in or cooperation with an international boycott and which are carried out in accordance with the terms of a binding contract entered into before September 2, 1976, the amendments made by this part (other than by section 1065) apply to such participation or cooperation after December 31, 1977."
+Existing contracts.—In the case of operations which constitute participation in or cooperation with an international boycott and which are carried out inaccordance with the terms of a binding contract entered into before September 2, 1976, the amendments made by this part (other than by section 1065) apply to such participation or cooperation after December 31, 1977."
 

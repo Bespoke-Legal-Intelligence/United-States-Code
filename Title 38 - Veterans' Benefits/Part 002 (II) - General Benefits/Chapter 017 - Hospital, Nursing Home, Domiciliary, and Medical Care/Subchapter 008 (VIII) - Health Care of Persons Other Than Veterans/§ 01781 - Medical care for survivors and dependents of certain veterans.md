@@ -8,7 +8,7 @@
 
 &emsp;(3) the surviving spouse or child of a person who died in the active military, naval, air, or space service in the line of duty and not due to such person's own misconduct, and
 
-&emsp;(4) an individual designated as a primary provider of personal care services under section 1720G(a)(7)(A) of this title who is not entitled to care or services under a health-plan contract (as defined in section 1725(f) of this title),
+&emsp;(4) an individual designated as a primary provider of personal care services under section 1720G(a)(7)(A) of this title who is not entitled to care or services under a health-plan contract (as defined in section 1725(h) of this title),
 
 > who are not otherwise eligible for medical care under chapter 55 of title 10 (CHAMPUS).
 
@@ -20,7 +20,7 @@
 
 > In cases in which Department medical facilities are equipped to provide the care and treatment, the Secretary is also authorized to carry out such purposes through the use of such facilities not being utilized for the care of eligible veterans. A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medical services as a veteran, including services under sections 1782 and 1783 of this title.
 
-(c) For the purposes of this section, a child between the ages of eighteen and twenty-three (1) who is eligible for benefits under subsection (a) of this section, (2) who is pursuing a full-time course of instruction at an educational institution approved under chapter 36 of this title, and (3) who, while pursuing such course of instruction, incurs a disabling illness or injury (including a disabling illness or injury incurred between terms, semesters, or quarters or during a vacation or holiday period) which is not the result of such child's own willful misconduct and which results in such child's inability to continue or resume such child's chosen program of education at an approved educational institution shall remain eligible for benefits under this section until the end of the six-month period beginning on the date the disability is removed, the end of the two-year period beginning on the date of the onset of the disability, or the twenty-third birthday of the child, whichever occurs first.
+(c) For the purposes of this section, a child between the ages of eighteen and twenty-three (1) who is eligible for benefits under subsection (a) of this section, (2) who is pursuing a full-time course of instruction at an educational institution approved under chapter 36 of this title, and (3) who, while pursuing such course of instruction, incurs a disabling illness or injury (including a disabling illness or injury incurred between terms, semesters, or quarters or during avacation or holiday period) which is not the result of such child's own willful misconduct and which results in such child's inability to continue or resume such child's chosen program of education at an approved educational institution shall remain eligible for benefits under this section until the end of the six-month period beginning on the date the disability is removed, the end of the two-year period beginning on the date of the onset of the disability, or the twenty-third birthday of the child, whichever occurs first.
 
 (d)(1)(A) An individual otherwise eligible for medical care under this section who is also entitled to hospital insurance benefits under part A of the medicare program is eligible for medical care under this section only if the individual is also enrolled in the supplementary medical insurance program under part B of the medicare program.
 
@@ -46,7 +46,7 @@
 
 (e) Payment by the Secretary under this section on behalf of a covered beneficiary for medical care shall constitute payment in full and extinguish any liability on the part of the beneficiary for that care.
 
-(Added Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181, §613; amended Pub. L. 94–581, title I, §104, title II, §210(a)(4), Oct. 21, 1976, 90 Stat. 2845, 2862; Pub. L. 96–151, title II, §205(a), Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–72, title I, §105, Nov. 3, 1981, 95 Stat. 1050; Pub. L. 97–251, §5(a), Sept. 8, 1982, 96 Stat. 716; renumbered §1713 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–190, div. A, title VII, §704(b)(2), Dec. 5, 1991, 105 Stat. 1402; Pub. L. 107–14, §3, June 5, 2001, 115 Stat. 25; renumbered §1781 and amended Pub. L. 107–135, title II, §208(c), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title III, §308(g)(8), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 111–163, title I, §102, title V, §503, May 5, 2010, 124 Stat. 1139, 1157; Pub. L. 114–58, title VI, §601(7), Sept. 30, 2015, 129 Stat. 538; Pub. L. 116–283, div. A, title IX, §926(a)(30), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181, §613; amended Pub. L. 94–581, title I, §104, title II, §210(a)(4), Oct. 21, 1976, 90 Stat. 2845, 2862; Pub. L. 96–151, title II, §205(a), Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–72, title I, §105, Nov. 3, 1981, 95 Stat. 1050; Pub. L. 97–251, §5(a), Sept. 8, 1982, 96 Stat. 716; renumbered §1713 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–190, div. A, title VII, §704(b)(2), Dec. 5, 1991, 105 Stat. 1402; Pub. L. 107–14, §3, June 5, 2001, 115 Stat. 25; renumbered §1781 and amended Pub. L. 107–135, title II, §208(c), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title III, §308(g)(8), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 111–163, title I, §102, title V, §503, May 5, 2010, 124 Stat. 1139, 1157; Pub. L. 114–58, title VI, §601(7), Sept. 30, 2015, 129 Stat. 538; Pub. L. 116–283, div. A, title IX, §926(a)(30), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–328, div. U, title I, §142(c)(4), Dec. 29, 2022, 136 Stat. 5424.)
 
 #### <b>Editorial Notes</b>
 
@@ -59,6 +59,8 @@ The Social Security Act, referred to in subsec. (d)(4)(A), is act Aug. 14, 1935,
 A prior section 1781 was renumbered section 3681 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(4). Pub. L. 117–328 substituted "section 1725(h)" for "section 1725(f)".
 
 <b>2021</b>—Subsec. (a)(3). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 

@@ -30,7 +30,7 @@ In general.—When the Secretary determines that to do so will contribute to, an
 
 &emsp;&emsp;(A) make minor changes to the boundary of the System unit, and amounts appropriated from the Fund shall be available for acquisition of any land, water, and interests in land or water added to the System unit by the boundary change subject to such statutory limitations, if any, on methods of acquisition and appropriations thereof as may be specifically applicable to the System unit; and
 
-&emsp;&emsp;(B) acquire by donation, purchase with donated funds, transfer from any other Federal agency, or exchange, land, water, or interests in land or water adjacent to the System unit, except that in exercising the Secretary's authority under this subparagraph the Secretary—
+&emsp;&emsp;(B) acquire by donation, purchase with donated funds, transfer from any other Federalagency, or exchange, land, water, or interests in land or water adjacent to the System unit, except that in exercising the Secretary's authority under this subparagraph the Secretary—
 
 &emsp;&emsp;&emsp;(i) shall not alienate property administered as part of the System to acquire land by exchange;
 
@@ -40,7 +40,7 @@ In general.—When the Secretary determines that to do so will contribute to, an
 
 &emsp;(2)
 
-Consultation.—Prior to making a determination under this subsection, the Secretary shall consult with the governing body of thecounty, city, town, or other jurisdiction or jurisdictions having primary taxing authority over the land or interest to be acquired as to the impacts of the proposed action.
+Consultation.—Prior to making a determination under this subsection, the Secretary shall consult with the governing body of the county, city, town, or other jurisdiction or jurisdictions having primary taxing authority over the land or interest to be acquired as to the impacts of the proposed action.
 
 &emsp;(3)
 

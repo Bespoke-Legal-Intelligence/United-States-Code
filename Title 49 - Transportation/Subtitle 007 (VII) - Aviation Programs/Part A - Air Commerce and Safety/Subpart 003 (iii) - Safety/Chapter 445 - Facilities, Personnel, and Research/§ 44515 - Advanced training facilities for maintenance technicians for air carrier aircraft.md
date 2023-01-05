@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Administrator of the Federal Aviation Administration may make grants to not more than 4 vocational technical educational institutions to acquire or construct facilities to be used for the advanced training of maintenance technicians for air carrier aircraft.
+General Authority.—The Administrator of the Federal Aviation Administration maymake grants to not more than 4 vocational technical educational institutions to acquire or construct facilities to be used for the advanced training of maintenance technicians for air carrier aircraft.
 
 (b)
 
@@ -178,7 +178,7 @@ Additional Requirements.—
 
 &emsp;"(1)
 
-Minimum passage rate.—A certificated aviation maintenance technician school shall maintain a pass rate of at least 70 percent of students who took a written, oral, or practical (or any combination thereof) FAA mechanic tests within 60 days of graduation for the most recent 3-year period .
+Minimum passage rate.—A certificated aviation maintenance technician school shall maintain a pass rate of at least 70 percent of students who took a written, oral, or practical (or any combination thereof) FAA mechanic tests within 60 days of graduation for the most recent 3-year period.
 
 &emsp;"(2)
 

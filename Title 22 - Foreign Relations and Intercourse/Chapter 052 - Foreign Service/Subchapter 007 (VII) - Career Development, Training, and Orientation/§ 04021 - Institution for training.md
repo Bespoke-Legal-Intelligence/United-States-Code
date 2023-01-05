@@ -10,7 +10,7 @@ To the extent practicable, the Secretary of State shall provide training under t
 
 #### (c) Training and instruction to citizens of Trust Territory of the Pacific Islands
 
-Training and instruction may be provided at the Institute <sup>2</sup> for not to exceed sixty citizens of the Trust Territory of the Pacific Islands in order to prepare them to serve as members of the foreign services of the Federated States of Micronesia, the Marshall Islands, and Palau. The authority of this subsection shall expire when the Compact of Free Association is approved by the Congress.
+Training and instruction may be provided at the Institute <sup>2</sup> for not to exceed sixty citizens ofthe Trust Territory of the Pacific Islands in order to prepare them to serve as members of the foreign services of the Federated States of Micronesia, the Marshall Islands, and Palau. The authority of this subsection shall expire when the Compact of Free Association is approved by the Congress.
 
 #### (d) Training and instruction of employees of foreign governments
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 103–236, §126(2)(C), added subsec. (d).
 
 #### Change of Name
 
-Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: "Any reference in any provision of law to the National Foreign Affairs Training Center or the Foreign Service Institute shall be considered to be a reference to the 'George P. Shultz National Foreign Affairs Training Center'."
+Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: "Any reference in any provision of law tothe National Foreign Affairs Training Center or the Foreign Service Institute shall be considered to be a reference to the 'George P. Shultz National Foreign Affairs Training Center'."
 
 #### Effective Date of 1998 Amendment
 
@@ -170,7 +170,7 @@ Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrato
 
 Exemption From Payment of Charges.—(1) Except as provided in paragraph (2), the Department of State shall be exempt from the charges required by section 210(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(j)) \[now 40 U.S.C. 586(a), (b)\] for the use of the facility constructed under this section for the Foreign Service Institute.
 
-"(2) The Administrator of General Services shall charge the Department of State under such section 210(j) for the costs of any operation, maintenance, repairs, or alterations of such facility carried out by the Administrator of General Services."
+"(2) The Administrator of General Services shall charge the Department of State under such section210(j) for the costs of any operation, maintenance, repairs, or alterations of such facility carried out by the Administrator of General Services."
 
 #### Language Training for Family Members of Foreign Service Personnel
 

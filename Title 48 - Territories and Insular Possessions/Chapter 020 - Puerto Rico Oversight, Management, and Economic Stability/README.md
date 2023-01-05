@@ -67,6 +67,7 @@
 | [2175\.](Subchapter%20003%20%28III%29%20-%20Adjustments%20of%20Debts/%C2%A7%2002175%20-%20Role%20and%20capacity%20of%20Oversight%20Board.md) | Role and capacity of Oversight Board. |
 | [2176\.](Subchapter%20003%20%28III%29%20-%20Adjustments%20of%20Debts/%C2%A7%2002176%20-%20Compensation%20of%20professionals.md) | Compensation of professionals. |
 | [2177\.](Subchapter%20003%20%28III%29%20-%20Adjustments%20of%20Debts/%C2%A7%2002177%20-%20Interim%20compensation.md) | Interim compensation. |
+| [2178\.](Subchapter%20003%20%28III%29%20-%20Adjustments%20of%20Debts/%C2%A7%2002178%20-%20Disclosure%20by%20professional%20persons%20seeking%20approval%20of%20compensation%20under%20section%202176%20or%202177%20of%20this%20title.md) | Disclosure by professional persons seeking approval of compensation under section 2176 or 2177 of this title. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

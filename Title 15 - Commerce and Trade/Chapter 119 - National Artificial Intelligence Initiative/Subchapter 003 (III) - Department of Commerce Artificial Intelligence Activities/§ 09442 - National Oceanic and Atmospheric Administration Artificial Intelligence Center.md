@@ -24,7 +24,7 @@ The priorities of the Center shall be to—
 
 &emsp;(2) establish data standards and develop and maintain a central repository for agency-wide artificial intelligence applications;
 
-&emsp;(3) accelerate the transition of artificial intelligence research to applications in supportof the mission of the National Oceanic and Atmospheric Administration;
+&emsp;(3) accelerate the transition of artificial intelligence research to applications in support of the mission of the National Oceanic and Atmospheric Administration;
 
 &emsp;(4) develop and conduct training for the workforce of the National Oceanic and Atmospheric Administration related to artificial intelligence research and application of artificial intelligence for such agency;
 

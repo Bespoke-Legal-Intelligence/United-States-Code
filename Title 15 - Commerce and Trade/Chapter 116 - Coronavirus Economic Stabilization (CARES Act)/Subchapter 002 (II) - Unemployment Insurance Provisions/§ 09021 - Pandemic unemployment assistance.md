@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) is self-employed, is seeking part-time employment, does not have sufficient work history, or otherwise would not qualify for regular unemployment or extended benefits under State or Federal law or pandemic emergency unemployment compensation under section 9025 of this title, and meets the requirements of subclause (I); and
 
-&emsp;&emsp;&emsp;(iii) provides documentation to substantiate employment or self-employment or the planned commencement of employment or self-employment not later than 21 days after the later of the date on which the individual submits an application for pandemic unemployment assistance under this section or the date on which an individual is directed by the State Agency to submit such documentation in accordance with section 625.6(e) of title 20, Code of Federal Regulations, or any successor thereto, except that such deadline may be extended if the individual has shown good cause under applicable State law for failing to submit such documentation; and
+&emsp;&emsp;&emsp;(iii) provides documentation to substantiate employment or self-employment or the planned commencement of employment or self-employment not later than 21 days after the later of the date on which the individual submits an application forpandemic unemployment assistance under this section or the date on which an individual is directed by the State Agency to submit such documentation in accordance with section 625.6(e) of title 20, Code of Federal Regulations, or any successor thereto, except that such deadline may be extended if the individual has shown good cause under applicable State law for failing to submit such documentation; and
 
 &emsp;&emsp;(B) does not include—
 
@@ -118,7 +118,7 @@ Subject to subsection (c), the Secretary shall provide to any covered individual
 
 #### (6) Continued eligibility for assistance
 
-&emsp;As a condition of continued eligibility for assistance under this section, a covered individual shall submit a recertification to theState for each week after the individual's 1st week of eligibility that certifies that the individual remains an individual described in subsection (a)(3)(A)(ii) for such week.
+&emsp;As a condition of continued eligibility for assistance under this section, a covered individual shall submit a recertification to the State for each week after the individual's 1st week of eligibility that certifies that the individual remains an individual described in subsection (a)(3)(A)(ii) for such week.
 
 #### (d) Amount of assistance
 
@@ -184,7 +184,7 @@ Notwithstanding State law, for purposes of assistance authorized under this sect
 
 #### (B) Transfer of funds
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the extended unemployment compensation account such sums as the Secretary of Labor estimates to be necessary to make payments described in subparagraph (A).There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the extended unemployment compensation account such sums as the Secretary of Labor estimates to be necessary to make payments described in subparagraph (A). There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
 
 #### (2) Administrative expenses
 

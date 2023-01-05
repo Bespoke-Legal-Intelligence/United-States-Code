@@ -28,6 +28,8 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 &emsp;(F) Nonprofit organizations.
 
+&emsp;(G) Community.
+
 (2) The Secretary may at any time expand, subdivide, or otherwise modify the list of categories within which awards may be made as initially in effect under paragraph (1), and may establish separate awards for other organizations including units of government, upon a determination that the objectives of this section would be better served thereby; except that any such expansion, subdivision, modification, or establishment shall not be effective unless and until the Secretary has submitted a detailed description thereof to the Congress and a period of 30 days has elapsed since that submission.
 
 (3) In any year, not more than 18 awards may be made under this section to recipients who have not previously received an award under this section, and no award shall be made within any category described in paragraph (1) if there are no qualifying enterprises in that category.
@@ -44,7 +46,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 > In applying the provisions of subparagraph (C) with respect to any organization, the Director of the National Institute of Standards and Technology shall rely upon an intensive evaluation by a competent board of examiners which shall review the evidence submitted by the organization and, through a site visit, verify the accuracy of the quality improvements claimed. The examination should encompass all aspects of the organization's current practice of quality management, as well as the organization's provision for quality management in its future goals. The award shall be given only to organizations which have made outstanding improvements in the quality of their goods or services (or both) and which demonstrate effective quality management through the training and involvement of all levels of personnel in quality improvement.
 
-(2)(A) The Director of the National Institute of Standards and Technology shall, under appropriate contractual arrangements, carry out the Director's responsibilities under subparagraphs (A) and (B) of paragraph (1) through one or more broad-based nonprofit entities which are leaders in the field of quality management and which have a history of service to society.
+(2)(A) The Director of the National Institute of Standards and Technology shall, under appropriate contractual arrangements, carry out the Director's responsibilities under subparagraphs (A) and (B) of paragraph (1) through one or more broad-based nonprofit entities which are leadersin the field of quality management and which have a history of service to society.
 
 (B) The Secretary shall appoint a board of overseers for the award, consisting of at least five persons selected for their preeminence in the field of quality management. This board shall meet annually to review the work of the contractor or contractors and make such suggestions for the improvement of the award process as they deem necessary. The board shall report the results of the award activities to the Director of the National Institute of Standards and Technology each year, along with its recommendations for improvement of the process.
 
@@ -60,11 +62,15 @@ The Secretary is authorized to seek and accept gifts from public and private sou
 
 The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
 
-(Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, §1, Oct. 5, 2004, 118 Stat. 1213; Pub. L. 110–69, title III, §3010, Aug. 9, 2007, 121 Stat. 592.)
+(Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, §1, Oct. 5, 2004, 118 Stat. 1213; Pub. L. 110–69, title III, §3010, Aug. 9, 2007, 121 Stat. 592; Pub. L. 117–167, div. B, title II, §10246(b)(1), Aug. 9, 2022, 136 Stat. 1492.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1)(D), (E). Pub. L. 117–167, §10246(b)(1)(A), realigned margin.
+
+Subsec. (c)(1)(G). Pub. L. 117–167, §10246(b)(1)(B), added subpar. (G).
 
 <b>2007</b>—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory)."
 

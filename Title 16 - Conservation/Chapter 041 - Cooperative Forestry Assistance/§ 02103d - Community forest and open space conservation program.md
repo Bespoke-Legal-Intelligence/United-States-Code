@@ -116,7 +116,7 @@ An eligible entity shall provide public access to, and manage, forest land acqui
 
 #### (f) State administration and technical assistance
 
-The Secretary may allocate not more than 10 percent of all funds made available to carry outthe Program for each fiscal year to State foresters or equivalent officials (including equivalent officials of Indian tribes) for Program administration and technical assistance.
+The Secretary may allocate not more than 10 percent of all funds made available to carry out the Program for each fiscal year to State foresters or equivalent officials (including equivalent officials of Indian tribes) for Program administration and technical assistance.
 
 #### (g) Authorization of appropriations
 

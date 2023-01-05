@@ -108,7 +108,7 @@ The Secretary shall not be required to—
 
 &emsp;&emsp;(B) more than twice in any calendar year with respect to the review under this section; or
 
-&emsp;(2) submit more than a total of 3 requests under section 360fff–1 of this title or pending requests to the Advisory Committee per meeting.
+&emsp;(2) submit more than a total of 3 requests under section 360fff–1 of this title or pendingrequests to the Advisory Committee per meeting.
 
 #### (d) No delegation
 

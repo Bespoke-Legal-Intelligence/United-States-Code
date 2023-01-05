@@ -46,7 +46,7 @@
 
 #### (7) Reports
 
-&emsp;Not later than 3 months after October 28, 1992, the task force shall submit to the Secretary and the Congress a preliminary report describing its initial actions. Not later than 6 months after October 28, 1992, the task force shall submit a report to the Secretary and the Congress, which shall include—
+&emsp;Not later than 3 months after October 28, 1992, the task force shall submit to the Secretary and the Congress a preliminary reportdescribing its initial actions. Not later than 6 months after October 28, 1992, the task force shall submit a report to the Secretary and the Congress, which shall include—
 
 &emsp;&emsp;(A) a description of its findings; and
 
@@ -72,5 +72,5 @@
 
 #### References in Text
 
-The Fair Housing Act, referred to in subsec. (a)(4)(C)(iii), (D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (a)(4)(C)(iii), (D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 

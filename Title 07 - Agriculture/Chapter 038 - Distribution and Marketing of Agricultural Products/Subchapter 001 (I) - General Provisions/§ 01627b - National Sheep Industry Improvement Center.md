@@ -336,7 +336,7 @@ The purposes of the Center shall be to—
 
 #### (12) Bylaws
 
-&emsp;The Board shall adopt, and may from time to time amend, any bylaw that is necessaryfor the proper management and functioning of the Center.
+&emsp;The Board shall adopt, and may from time to time amend, any bylaw that is necessary for the proper management and functioning of the Center.
 
 #### (13) Public hearings
 

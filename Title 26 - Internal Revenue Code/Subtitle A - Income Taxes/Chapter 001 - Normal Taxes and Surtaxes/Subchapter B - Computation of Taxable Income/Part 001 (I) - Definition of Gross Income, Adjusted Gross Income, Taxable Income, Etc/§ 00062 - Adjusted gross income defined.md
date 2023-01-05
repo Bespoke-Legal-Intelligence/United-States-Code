@@ -32,7 +32,7 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 #### (E) Certain expenses of members of reserve components of the Armed Forces of the United States
 
-&emsp;&emsp;The deductions allowed by section 162 which consist of expenses, determined at arate not in excess of the rates for travel expenses (including per diem in lieu of subsistence) authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, paid or incurred by the taxpayer in connection with the performance of services by such taxpayer as a member of a reserve component of the Armed Forces of the United States for any period during which such individual is more than 100 miles away from home in connection with such services.
+&emsp;&emsp;The deductions allowed by section 162 which consist of expenses, determined at a rate not in excess of the rates for travel expenses (including per diem in lieu of subsistence) authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, paid or incurred by the taxpayer in connection with the performance of services by such taxpayer as a member of a reserve component of the Armed Forces of the United States for any period during which such individual is more than 100 miles away from home in connection with such services.
 
 #### (3) Losses from sale or exchange of property
 
@@ -116,7 +116,7 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 #### (B) May not exceed award
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any deduction in excess of the amount includiblein the taxpayer's gross income for the taxable year on account of such award.
+&emsp;&emsp;Subparagraph (A) shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of such award.
 
 > Nothing in this section shall permit the same item to be deducted more than once. Any deduction allowed by section 199A shall not be treated as a deduction described in any of the preceding paragraphs of this subsection.
 
@@ -250,21 +250,21 @@ For purposes of subsection (a)(20), the term "unlawful discrimination" means an 
 
 Section 208 of the Congressional Accountability Act of 1995, referred to in subsec. (e)(2), was formerly section 207 of the Act prior to renumbering by Pub. L. 116–92, and is classified to section 1317 of Title 2, The Congress. A new section 207 of the Act was enacted by Pub. L. 116–92 and is classified to section 1316b of Title 2. Pub. L. 116–92 amended list of Act sections in subsec. (e)(2) of this section without corresponding amendment of Code citations, see 2019 Amendment note below.
 
-The National Labor Relations Act, referred to in subsec. (e)(3), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+The National Labor Relations Act, referred to in subsec. (e)(3), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (e)(4), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (e)(4), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat.235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
-The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, as amended, which is classified generally to chapter 22 (§2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
+The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
 
-The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, as amended, which is classified generally to chapter 23 (§2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
+The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
 #### Amendments
 
 <b>2020</b>—Subsec. (a)(18). Pub. L. 116–260, §104(b)(2)(A), struck out par. (18). Text read as follows: "The deduction allowed by section 222."
 
-Subsec. (a)(22). Pub. L. 116–260, §212(c)(1), struck out par. (22). Text read as follows: "In the case of taxable years beginning in 2020, the amount (not to exceed $300) of qualified charitable contributions made by an eligible individual during the taxable year."
+Subsec. (a)(22). Pub. L. 116–260, §212(c)(1), struck out par. (22). Text read as follows: "In the case of taxableyears beginning in 2020, the amount (not to exceed $300) of qualified charitable contributions made by an eligible individual during the taxable year."
 
 Pub. L. 116–136, §2204(a), added par. (22).
 
@@ -380,7 +380,7 @@ Subsec. (b). Pub. L. 99–514, §132(b)(2)(B), added subsec. (b).
 
 <b>1983</b>—Par. (9). Pub. L. 97–354 repealed par. (9) relating to the deduction allowed by section 1379(b)(3).
 
-<b>1981</b>—Par. (10). Pub. L. 97–34, §311(h)(1), struck out "and the deduction allowed by section 220 (relating to retirement savings for certain married individuals)" after "retirement savings".
+<b>1981</b>—Par. (10). Pub. L. 97–34, §311(h)(1), struck out "and the deduction allowed by section 220 (relating toretirement savings for certain married individuals)" after "retirement savings".
 
 Par. (14). Pub. L. 97–34, §112(b)(2), redesignated par. (15) as (14). Former par. (14), relating to deduction for certain expenses of living abroad, was struck out.
 
@@ -474,7 +474,7 @@ Pub. L. 110–343, div. C, title II, §203(b), Oct. 3, 2008, 122 Stat. 3864, pro
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title I, §108(b), Dec. 20, 2006, 120 Stat. 2939, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
+Pub. L. 109–432, div. A, title I, §108(b), Dec. 20, 2006, 120 Stat. 2939, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
 
 Pub. L. 109–432, div. A, title IV, §406(d), Dec. 20, 2006, 120 Stat. 2960, provided that: "The amendments made by subsection (a) \[amending this section and sections 7443A and 7623 of this title\] shall apply to information provided on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
@@ -486,7 +486,7 @@ Pub. L. 108–311, title III, §307(b), Oct. 4, 2004, 118 Stat. 1179, provided t
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: "The amendments made by this section \[enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as 224\] shall apply to taxable years beginning after December 31, 2003."
+Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: "The amendments made bythis section \[enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as 224\] shall apply to taxable years beginning after December 31, 2003."
 
 Pub. L. 108–121, title I, §109(c), Nov. 11, 2003, 117 Stat. 1342, provided that: "The amendments made by this section \[amending this section and section 162 of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2002."
 
@@ -556,7 +556,7 @@ Amendment by sections 112(b)(2) and 311(h)(1) of Pub. L. 97–34 applicable to t
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–608, §3(b), Dec. 28, 1980, 94 Stat. 3551, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to repayments made in taxable years beginning after the date of the enactment of this Act \[Dec. 28, 1980\]."
+Pub. L. 96–608, §3(b), Dec. 28, 1980, 94 Stat. 3551, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply to repayments made in taxable years beginning after the date of the enactment of this Act \[Dec. 28, 1980\]."
 
 Amendment by Pub. L. 96–451 applicable with respect to additions to capital account made after Dec. 31, 1979, see section 301(d) of Pub. L. 96–451, set out as an Effective Date note under section 194 of this title.
 

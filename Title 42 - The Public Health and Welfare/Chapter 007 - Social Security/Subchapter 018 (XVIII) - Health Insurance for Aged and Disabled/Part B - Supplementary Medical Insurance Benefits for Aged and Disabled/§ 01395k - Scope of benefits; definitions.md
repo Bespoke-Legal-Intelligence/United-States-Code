@@ -36,7 +36,7 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;&emsp;(ii) pursuant to section 1395l(i)(1)(B) of this title and performed by a physician, described in paragraph (1), (2), or (3) of section 1395x(r) of this title, in his office, if the Secretary has determined that—
 
-&emsp;&emsp;&emsp;&emsp;(I) a quality improvement organization (having a contract with the Secretary under part B of subchapter XI of this chapter) is willing, able, and has agreed to carry out a review (on a sample or other reasonable basis) of the physician's performing such procedures in the physician's office,
+&emsp;&emsp;&emsp;&emsp;(I) a quality improvement organization (having a contract with the Secretary under part B of subchapter XI of this chapter) is willing, able, and has agreed to carry out a review (on a sample orother reasonable basis) of the physician's performing such procedures in the physician's office,
 
 &emsp;&emsp;&emsp;&emsp;(II) the particular physician involved has agreed to make available to such organization such records as the Secretary determines to be necessary to carry out the review, and
 
@@ -50,17 +50,23 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;(I) prosthetic devices and orthotics and prosthetics (described in section 1395m(h)(4) of this title) furnished by a provider of services or by others under arrangements with them made by a provider of services; and
 
-&emsp;&emsp;(J) partial hospitalization services provided by a community mental health center (as described in section 1395x(ff)(2)(B) of this title).
+&emsp;&emsp;(J) partial hospitalization services and intensive outpatient services provided by a community mental health center (as described in section 1395x(ff)(2)(B) of this title).
 
 #### (b) Definitions
 
 For definitions of "spell of illness", "medical and other health services", and other terms used in this part, see section 1395x of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1832, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 302; amended Pub. L. 90–248, title I, §§129(c)(6)(B), 133(d), Jan. 2, 1968, 81 Stat. 848, 851; Pub. L. 92–603, title II, §§227(e)(1), 251(a)(4), Oct. 30, 1972, 86 Stat. 1406, 1445; Pub. L. 95–210, §1(a), Dec. 13, 1977, 91 Stat. 1485; Pub. L. 96–499, title IX, §§930(g), 933(a), 934(a), 948(a)(2), Dec. 5, 1980, 94 Stat. 2631, 2635, 2637, 2643; Pub. L. 97–248, title I, §148(c), Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §§2341(b), 2354(b)(6), July 18, 1984, 98 Stat. 1094, 1100; Pub. L. 99–509, title IX, §§9320(d), 9337(a), 9343(e)(1), Oct. 21, 1986, 100Stat. 2013, 2033, 2041; Pub. L. 100–203, title IV, §§4062(d)(2), 4063(e)(2), 4073(b)(1), 4077(b)(2), 4085(i)(22)(A), Dec. 22, 1987, 101 Stat. 1330–108, 1330–118, 1330–120, as amended Pub. L. 100–360, title IV, §411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi), July 1, 1988, 102 Stat. 783, 786, 787, 789; Pub. L. 100–360, title I, §104(d)(3), title II, §§203(a), 205(a), July 1, 1988, 102 Stat. 689, 721, 729, 783; Pub. L. 101–234, title I, §101(a), title II, §201(a), Dec. 13, 1989, 103 Stat. 1979, 1981; Pub. L. 101–239, title VI, §6116(a)(2), Dec. 19, 1989, 103 Stat. 2219; Pub. L. 101–508, title IV, §§4153(a)(2)(A), 4155(b)(1), 4157(b), 4161(a)(3)(A), 4162(b)(1), Nov. 5, 1990, 104 Stat. 1388–83, 1388–86, 1388–89, 1388–93, 1388–96; Pub. L. 105–33, title IV, §§4201(c)(1), 4432(b)(5)(B), 4511(c), 4603(c)(2)(B)(ii), Aug. 5, 1997, 111 Stat. 373, 421, 443, 471; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–354; Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473; Pub. L. 110–275, title I, §143(b)(1), July 15, 2008, 122 Stat. 2542; Pub. L. 112–40, title II, §261(a)(3)(B), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1832, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 302; amended Pub. L. 90–248, title I, §§129(c)(6)(B), 133(d), Jan. 2, 1968, 81 Stat. 848, 851; Pub. L. 92–603, title II, §§227(e)(1), 251(a)(4), Oct. 30, 1972, 86 Stat. 1406, 1445; Pub. L. 95–210, §1(a), Dec. 13, 1977, 91 Stat. 1485; Pub. L. 96–499, title IX, §§930(g), 933(a), 934(a), 948(a)(2), Dec. 5, 1980, 94 Stat. 2631, 2635, 2637, 2643; Pub. L. 97–248, title I, §148(c), Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §§2341(b), 2354(b)(6), July 18, 1984, 98 Stat. 1094, 1100; Pub. L. 99–509, title IX, §§9320(d), 9337(a), 9343(e)(1), Oct. 21, 1986, 100 Stat. 2013, 2033, 2041; Pub. L. 100–203, title IV, §§4062(d)(2), 4063(e)(2), 4073(b)(1), 4077(b)(2), 4085(i)(22)(A), Dec. 22, 1987, 101 Stat. 1330–108, 1330–118, 1330–120, as amended Pub. L. 100–360, title IV, §411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi), July 1, 1988, 102 Stat. 783, 786, 787, 789; Pub. L. 100–360, title I, §104(d)(3), title II, §§203(a), 205(a), July 1, 1988, 102 Stat. 689, 721, 729, 783; Pub. L. 101–234, title I, §101(a), title II, §201(a), Dec. 13, 1989, 103 Stat. 1979, 1981; Pub. L. 101–239, title VI, §6116(a)(2), Dec. 19, 1989, 103 Stat. 2219; Pub. L. 101–508, title IV, §§4153(a)(2)(A), 4155(b)(1), 4157(b), 4161(a)(3)(A), 4162(b)(1), Nov. 5, 1990, 104 Stat. 1388–83, 1388–86, 1388–89, 1388–93, 1388–96; Pub. L. 105–33, title IV, §§4201(c)(1), 4432(b)(5)(B), 4511(c), 4603(c)(2)(B)(ii), Aug. 5, 1997, 111 Stat. 373, 421, 443, 471; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–354; Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473; Pub. L. 110–275, title I, §143(b)(1), July 15, 2008, 122 Stat. 2542; Pub. L. 112–40, title II, §261(a)(3)(B), Oct. 21, 2011, 125 Stat. 423; Pub. L. 117–328, div. FF, title IV, §4124(b)(1)(A), Dec. 29, 2022, 136 Stat. 5908.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 4124(b)(1)(A) of Pub. L. 117–328 applicable with respect to items and services furnished on or after Jan. 1, 2024. See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(J). Pub. L. 117–328 inserted "and intensive outpatient services" after "partial hospitalization services".
 
 <b>2011</b>—Subsec. (a)(2)(F)(ii)(I). Pub. L. 112–40 substituted "quality improvement" for "quality control and peer review".
 
@@ -90,7 +96,7 @@ Subsec. (a)(2)(I). Pub. L. 101–508, §4153(a)(2)(A)(ii)–(iv), added subpar. 
 
 Subsec. (a)(2)(J). Pub. L. 101–508, §4162(b)(1), added subpar. (J).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §§203(a), 205(a), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
+<b>1989</b>—Subsec. (a). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §§203(a), 205(a), and provided that the provisions of law amended or repealed by such sectionsare restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
 
 Subsec. (a)(2)(H). Pub. L. 101–239 added subpar. (H).
 
@@ -160,6 +166,10 @@ Subsec. (a)(2)(C). Pub. L. 90–248, §133(d), added subpar. (C).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. FF, title IV, §4124(d), Dec. 29, 2022, 136 Stat. 5910, provided that: "The amendments made by this section \[amending this section and sections 1395l, 1395m, 1395x, and 1395cc of this title\] shall apply with respect to items and services furnished on or after January 1, 2024."
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
@@ -182,7 +192,7 @@ Amendment by section 4603(c)(2)(B)(ii) of Pub. L. 105–33 applicable to cost re
 
 Pub. L. 101–508, title IV, §4153(a)(3), Nov. 5, 1990, 104 Stat. 1388–83, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section and sections 1395l and 1395m of this title\] shall apply to items furnished on or after January 1, 1991."
 
-Pub. L. 101–508, title IV, §4155(e), Nov. 5, 1990, 104 Stat. 1388–88, provided that: "The amendments made by this section \[amending this section and sections 1395l, 1395u, and 1395x of this title\] shall apply to services furnished on or after January 1, 1991."
+Pub. L. 101–508, title IV, §4155(e), Nov. 5, 1990, 104 Stat. 1388–88, provided that: "The amendments made bythis section \[amending this section and sections 1395l, 1395u, and 1395x of this title\] shall apply to services furnished on or after January 1, 1991."
 
 Pub. L. 101–508, title IV, §4157(d), Nov. 5, 1990, 104 Stat. 1388–89, provided that: "The amendments made by the preceding subsections \[amending this section and sections 1395x, 1395y, and 1395cc of this title\] apply to services furnished on or after January 1, 1991."
 
@@ -246,7 +256,7 @@ Amendment by section 948(a)(2) of Pub. L. 96–499 applicable with respect to co
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–210, §1(j), Dec. 13, 1977, 91 Stat. 1488, provided that: "The amendments made by this section \[amending this section and sections 1395l, 1395x, 1395y, and 1395aa of this title and enacting provisions set out as notes under sections 1395l and 1395x of this title\] shall apply to services rendered on or after the first day of the third calendar month which begins after the date of enactment of this Act \[Dec. 13, 1977\]."
+Pub. L. 95–210, §1(j), Dec. 13, 1977, 91 Stat. 1488, provided that: "The amendments made by this section \[amending this section and sections 1395l, 1395x, 1395y, and 1395aa of this title and enacting provisions set out as notes under sections 1395l and 1395x of this title\] shall apply to services rendered on or after the first dayof the third calendar month which begins after the date of enactment of this Act \[Dec. 13, 1977\]."
 
 #### Effective Date of 1972 Amendment
 

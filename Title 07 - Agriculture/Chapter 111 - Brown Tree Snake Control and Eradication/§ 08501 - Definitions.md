@@ -32,7 +32,7 @@ In this chapter:
 
 #### (7) Technical Working Group
 
-&emsp;The term "Technical Working Group" means Brown Tree Snake Technical Working Group established under the authority of section 4728 of title 16.
+&emsp;The term "Technical Working Group" means Brown Tree Snake Technical WorkingGroup established under the authority of section 4728 of title 16.
 
 #### (8) Territorial
 
@@ -50,7 +50,7 @@ In this chapter:
 
 Public Law 108–188, referred to in par. (2), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, which is classified principally to part B (§1921 et seq.) of subchapter I of chapter 18 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1921 of Title 48 and Tables.
 
-Public Law 99–658, referred to in par. (2), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to part A (§1931 et seq.) of subchapter II of chapter 18 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+Public Law 99–658, referred to in par. (2), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, which is classified generally to part A (§1931 et seq.) of subchapter II of chapter 18 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

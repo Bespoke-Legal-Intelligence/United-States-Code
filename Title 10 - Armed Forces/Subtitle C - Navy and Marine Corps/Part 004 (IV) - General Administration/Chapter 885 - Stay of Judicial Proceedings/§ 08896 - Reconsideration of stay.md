@@ -4,7 +4,7 @@
 
 (b) Within ten days after receiving notice under this section, the Secretary or his designee shall hold a secret meeting at which the claimant or party, or his representative, may present any facts and arguments he thinks material.
 
-(c) Within ten days after a hearing under this section, the Secretary shall file with the courtthat ordered the stay a new certificate stating whether the stay is then to be terminated or for what period the stay is to continue in effect. If the Secretary fails to file a new certificate, the court, upon application by the claimant or party, shall issue an order directing the Secretary to file a new certificate within a specified time.
+(c) Within ten days after a hearing under this section, the Secretary shall file with the court that ordered the stay a new certificate stating whether the stay is then to be terminated or for what period the stay is to continue in effect. If the Secretary fails to file a new certificate, the court, upon application by the claimant or party, shall issue an order directing the Secretary to file a new certificate within a specified time.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 485, §7726; renumbered §8896, Pub. L. 115–232, div. A, title VIII, §807(d)(10), Aug. 13, 2018, 132 Stat. 1837.)
 

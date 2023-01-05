@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), not later than 30 days after March 27, 2020, the Secretary shallpay each State and Tribal government, and each unit of local government that meets the condition described in paragraph (2), the amount determined for the State, Tribal government, or unit of local government, for fiscal year 2020 under subsection (c).
+&emsp;Subject to paragraph (2), not later than 30 days after March 27, 2020, the Secretary shall pay each State and Tribal government, and each unit of local government that meets the condition described in paragraph (2), the amount determined for the State, Tribal government, or unit of local government, for fiscal year 2020 under subsection (c).
 
 #### (2) Direct payments to units of local government
 
@@ -92,7 +92,7 @@ A State, Tribal government, and unit of local government shall use the funds pro
 
 &emsp;(2) were not accounted for in the budget most recently approved as of March 27, 2020, for the State or government; and
 
-&emsp;(3) were incurred during the period that begins on March 1, 2020, and ends on December 31, 2021.
+&emsp;(3) were incurred during the period that begins on March 1, 2020, and ends on December 31, 2021 (or, in the case of costs incurred by a Tribal government, during the period that begins on March 1, 2020, and ends on December 31, 2022).
 
 #### (e) Certification
 
@@ -102,7 +102,7 @@ In order to receive a payment under this section, a unit of local government sha
 
 #### (1) Oversight authority
 
-&emsp;The Inspector General of the Department of the Treasury shall conduct monitoring andoversight of the receipt, disbursement, and use of funds made available under this section.
+&emsp;The Inspector General of the Department of the Treasury shall conduct monitoring and oversight of the receipt, disbursement, and use of funds made available under this section.
 
 #### (2) Recoupment
 
@@ -114,7 +114,7 @@ In order to receive a payment under this section, a unit of local government sha
 
 #### (4) Authority of Inspector General
 
-&emsp;Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.).<sup>1</sup>
 
 #### (g) Definitions
 
@@ -140,13 +140,13 @@ In this section:
 
 &emsp;The term "Tribal government" means the recognized governing body of an Indian Tribe.
 
-(Aug. 14, 1935, ch. 531, title VI, §601, as added Pub. L. 116–136, div. A, title V, §5001(a), Mar. 27, 2020, 134 Stat. 501; amended Pub. L. 116–260, div. N, title X, §1001, Dec. 27, 2020, 134 Stat. 2145.)
+(Aug. 14, 1935, ch. 531, title VI, §601, as added Pub. L. 116–136, div. A, title V, §5001(a), Mar. 27, 2020, 134 Stat. 501; amended Pub. L. 116–260, div. N, title X, §1001, Dec. 27, 2020, 134 Stat. 2145; Pub. L. 117–328, div. LL, §104, Dec. 29, 2022, 136 Stat. 6105.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (f)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (f)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§401 et seq.) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Prior Provisions
 
@@ -158,6 +158,8 @@ Another prior section 801, acts Aug. 14, 1935, ch. 531, title VI, §601, 49 Stat
 
 #### Amendments
 
+<b>2022</b>—Subsec. (d)(3). Pub. L. 117–328 inserted "(or, in the case of costs incurred by a Tribal government, during the period that begins on March 1, 2020, and ends on December 31, 2022)" before period at end.
+
 <b>2020</b>—Subsec. (d)(3). Pub. L. 116–260 substituted "December 31, 2021" for "December 30, 2020".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
@@ -165,4 +167,6 @@ Another prior section 801, acts Aug. 14, 1935, ch. 531, title VI, §601, 49 Stat
 #### Renumbering of Repealing Act
 
 Act July 1, 1944, ch. 373, title VI, §611, 58 Stat. 719, which repealed prior sections 801 to 803, was renumbered title VII, §711, by act Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049; renumbered §713 by act Feb. 28, 1948, ch. 83, §9(b), 62 Stat. 47; renumbered title VIII, §813, by act July 30, 1956, ch. 779, §3(b), 70 Stat. 721; renumbered title IX, §913, by Pub. L. 88–581, §4(b), Sept. 4, 1964, 78 Stat. 919; renumbered title X, §1013, by Pub. L. 89–239, §3(b), Oct. 6, 1965, 79 Stat. 931; renumbered title XI, §1113, by Pub. L. 91–572, §6(b), Dec. 24, 1970, 84 Stat. 1506; renumbered title XII, §1213, by Pub. L. 92–294. §3(b), May 16, 1972, 86 Stat. 137; renumbered title XIII, §1313, by Pub. L. 93–154, §2(b)(2), Nov. 16, 1973, 87 Stat. 604, and repealed by Pub. L. 93–222, §7(b), Dec. 29, 1973, 87 Stat. 936.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -44,7 +44,7 @@ Application of Presumptions for Training Duty.—When, pursuant to subsection (a
 
 &emsp;(1) COVID–19 shall be deemed to have been incurred in the line of duty during a period of active military, naval, or air service; and
 
-&emsp;(2) where entitlement to benefits under this title is predicated on the individual who was disabled or died being a veteran, benefits for disability or death resulting from COVID–19 as described in subsection (a) shall be paid or furnished as if the individual was a veteran, without regard to whether the period of duty would constitute active military, naval, or air service under section 101 of this title.
+&emsp;(2) where entitlement to benefits under this title is predicated on the individual who wasdisabled or died being a veteran, benefits for disability or death resulting from COVID–19 as described in subsection (a) shall be paid or furnished as if the individual was a veteran, without regard to whether the period of duty would constitute active military, naval, or air service under section 101 of this title.
 
 (d)
 
@@ -67,4 +67,30 @@ The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans 
 #### Codification
 
 Another section 1164 was renumbered section 1166 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Medical Opinions for Certain Veterans With Service-Connected Disabilities Who Die of COVID–19
+
+Pub. L. 117–328, div. U, title II, §202(a), (b), Dec. 29, 2022, 136 Stat. 5447, 5448, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall secure a medical opinion to determine if a service-connected disability was the principal or contributory cause of death before notifying the survivor of the final decision in any case in which all of the following factors are met:
+
+&emsp;"(1) A claim for compensation is filed under chapter 13 of title 38, United States Code, with respect to a veteran with one or more service-connected disabilities who dies.
+
+&emsp;"(2) The death certificate for the veteran identifies Coronavirus Disease 2019 (COVID–19) as the principal or contributory cause of death.
+
+&emsp;"(3) The death certificate does not clearly identify any of the service-connected disabilities of the veteran as the principal or contributory cause of death.
+
+&emsp;"(4) A service-connected disability of the veteran includes a condition more likely to cause severe illness from COVID–19 as determined by the Centers for Disease Control and Prevention.
+
+&emsp;"(5) The claimant is not entitled to benefits under section 1318 of such title.
+
+&emsp;"(6) The evidence to support the claim does not result in a preliminary finding in favor of the claimant.
+
+"(b)
+
+Outreach.—The Secretary shall provide information to veterans, dependents, and veterans service organizations about applying to dependency and indemnity compensation when a veteran dies from COVID–19. The Secretary shall provide such information through the website of the Department of Veterans Affairs and via other outreach mechanisms."
 

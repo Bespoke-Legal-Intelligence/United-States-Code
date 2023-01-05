@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) shall approve the position at the time the Corporation—
 
-&emsp;&emsp;&emsp;(i) enters into an enforceable agreement with an individual participant to serve in a program carried out under division E of this subchapter, section 12653b or 12653c(a) of this title, or under title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), a summer of service program described in section 12563(c)(8) of this title, or a silver scholarship program described in section 12653c(a) of this title; or
+&emsp;&emsp;&emsp;(i) enters into an enforceable agreement with an individual participant to serve ina program carried out under division E of this subchapter, section 12653b or 12653c(a) of this title, or under title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), a summer of service program described in section 12563(c)(8) of this title, or a silver scholarship program described in section 12653c(a) of this title; or
 
 &emsp;&emsp;&emsp;(ii) except as provided in clause (i), awards a grant to (or enters into a contract or cooperative agreement with) an entity to carry out a program for which such a position is approved under section 12573 of this title; and
 

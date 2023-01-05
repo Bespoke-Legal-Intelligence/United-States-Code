@@ -24,7 +24,7 @@
 
 (B) A special agent described in this subparagraph is any such agent or former agent who—
 
-&emsp;(i)(I) retires voluntarily or involuntarily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title, under conditions authorizing animmediate annuity, other than for cause on charges of misconduct or delinquency, or retires for disability under section 4048 of this title; and
+&emsp;(i)(I) retires voluntarily or involuntarily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title, under conditions authorizing an immediate annuity, other than for cause on charges of misconduct or delinquency, or retires for disability under section 4048 of this title; and
 
 &emsp;(II) at the time of retirement—
 
@@ -35,6 +35,46 @@
 &emsp;(ii) dies in service after completing at least 20 years of service as a special agent, when an annuity is payable under section 4049 of this title.
 
 (C) For purposes of subparagraph (B), included with the years of service performed by an individual as a special agent shall be any service performed by such individual as a law enforcement officer (within the meaning of section 8331(20) or section 8401(17) of title 5), or a member of the Capitol Police.
+
+(D)(i) In this subparagraph—
+
+&emsp;(I) the term "affected special agent" means an individual covered under this subchapter who—
+
+&emsp;&emsp;(aa) is performing service as a special agent;
+
+&emsp;&emsp;(bb) while on duty as a special agent, becomes ill or is injured as a direct result of the performance of such duties before the date on which the individual becomes entitled to an annuity under section 4051 of this title;
+
+&emsp;&emsp;(cc) because of the illness or injury described in item (bb), is permanently unable to render useful and efficient service in the employee's covered position, as determined by the Secretary; and
+
+&emsp;&emsp;(dd) is appointed to a position in the Foreign Service that is not a covered position; and
+
+&emsp;(II) the term "covered position" means a position as—
+
+&emsp;&emsp;(aa) a law enforcement officer described in section 8331(20) or 8401(17) of title 5;
+
+&emsp;&emsp;(bb) a customs and border protection officer described in section 8331(31) or 8401(36) of title 5;
+
+&emsp;&emsp;(cc) a firefighter described in section 8331(21) or 8401(14) of title 5;
+
+&emsp;&emsp;(dd) an air traffic controller described in section 8331(30) or 8401(35) of title 5;
+
+&emsp;&emsp;(ee) a nuclear materials courier described in section 8331(27) or 8401(33) of title 5;
+
+&emsp;&emsp;(ff) a member of the United States Capitol Police;
+
+&emsp;&emsp;(gg) a member of the Supreme Court Police;
+
+&emsp;&emsp;(hh) an employee of the Agency designated under section 2152(a) of title 50; or
+
+&emsp;&emsp;(ii) a special agent.
+
+(ii) Unless an affected special agent files an election described in clause (iv), creditable service by the affected special agent in a position described in clause (i)(I)(dd) shall be treated as creditable service as a special agent for purposes of this subchapter, including determining the amount to be deducted and withheld from the pay of the individual under section 4045 of this title.
+
+(iii) Clause (ii) shall only apply if the special agent transitions to a position described in clause (i)(I)(dd) without a break in service exceeding 3 days.
+
+(iv) The service of an affected employee shall no longer be eligible for treatment under clause (ii) if such service occurs after the employee is transferred to a supervisory or administrative position related to the activities of the former covered position of the employee.
+
+(v) In accordance with procedures established by the Secretary, an affected special agent may file an election to have any creditable service performed by the affected special agent treated in accordance with this part, without regard to clause (ii).
 
 (7) In the case of a special agent who becomes or became subject to part II—
 
@@ -62,7 +102,7 @@
 
 (B) Notwithstanding subparagraph (A), the amount of the annuity calculated under subparagraph (A) for a surviving spouse in any case in which there is also a surviving former spouse of the participant who qualifies for an annuity under section 4054(b) of this title may not exceed 55 percent of the portion (if any) of the base for survivor benefits which remains available under section 4054(b)(4)(B) of this title.
 
-(C) An annuity payable from the Fund under this part to a surviving spouse under this paragraph shall commence on the day after the participant dies and shall terminate on the last day of the month before the surviving spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same ratecommencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
+(C) An annuity payable from the Fund under this part to a surviving spouse under this paragraph shall commence on the day after the participant dies and shall terminate on the last day of the month before the surviving spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
 
 #### (c) Surviving children
 
@@ -166,7 +206,11 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 (5) Rights and obligations resulting from the election of a reduced annuity under this subsection shall be the same as the rights and obligations which would have resulted had the participant involved elected such annuity at the time of retiring.
 
-(Pub. L. 96–465, title I, §806, Oct. 17, 1980, 94 Stat. 2106; Pub. L. 99–335, title IV, §§402(a)(2), (3), 406, 407, June 6, 1986, 100 Stat. 609–611; Pub. L. 99–556, title IV, §402, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 100–238, title II, §§213, 214(a), 217(c)(1), Jan. 8, 1988, 101 Stat. 1774, 1775; Pub. L. 101–513, title V, §587(a), Nov. 5, 1990, 104 Stat. 2055; Pub. L. 102–499, §4(d), Oct. 24, 1992, 106 Stat. 3266; Pub. L. 105–382, §2(d)(1)–(3)(A), Nov. 13, 1998, 112 Stat. 3407, 3408; Pub. L. 107–228, div. A, title III, §322(a)(1), Sept. 30, 2002, 116 Stat. 1383; Pub. L. 112–96, title V, §5001(c)(2)(E), Feb. 22, 2012, 126 Stat. 200.)
+(Pub. L. 96–465, title I, §806, Oct. 17, 1980, 94 Stat. 2106; Pub. L. 99–335, title IV, §§402(a)(2), (3), 406, 407, June 6, 1986, 100 Stat. 609–611; Pub. L. 99–556, title IV, §402, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 100–238, title II, §§213, 214(a), 217(c)(1), Jan. 8, 1988, 101 Stat. 1774, 1775; Pub. L. 101–513, title V, §587(a), Nov. 5, 1990, 104 Stat. 2055; Pub. L. 102–499, §4(d), Oct. 24, 1992, 106 Stat. 3266; Pub. L. 105–382, §2(d)(1)–(3)(A), Nov. 13, 1998, 112 Stat. 3407, 3408; Pub. L. 107–228, div. A, title III, §322(a)(1), Sept. 30, 2002, 116 Stat. 1383; Pub. L. 112–96, title V, §5001(c)(2)(E), Feb. 22, 2012, 126 Stat. 200; Pub. L. 117–225, §3(d), Dec. 9, 2022, 136 Stat. 2297.)
+
+#### Applicability of Amendment
+
+<i>For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under section 8336 of Title 5, Government Organization and Employees.</i>
 
 #### Amendment of Section
 
@@ -180,9 +224,11 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(6)(D). Pub. L. 117–225 added subpar. (D).
 
 <b>2012</b>—Subsec. (a)(2)(B), (3). Pub. L. 112–96 substituted "section 8415(e)" for "section 8415(d)".
 
@@ -226,6 +272,10 @@ Subsec. (n). Pub. L. 99–335, §407, added subsec. (n).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness or injury described in certain Code provisions on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under section 8336 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–228, div. A, title III, §322(c)(1), Sept. 30, 2002, 116 Stat. 1385, provided that: "The amendments made by subsections (a)(1) \[amending this section\] and (b)(1) \[amending section 4071d of this title\] shall apply to service performed on or after the first day of the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act \[Sept. 30, 2002\]."
@@ -258,11 +308,15 @@ Month Period to Elect Survivor Annuity.—(1) Notwithstanding section 702 of thi
 
 "(B) For the purpose of applying the provisions of paragraph (1) of section 806(n) of the Foreign Service Act of 1980 (as added by section 407) to former participants who retire before the date on which the amendment first takes effect—
 
-&emsp;"(i) the period referred to in subparagraph (A) or (B) of such paragraph (as the case may be) shall beconsidered to begin on the date on which such amendment first becomes effective; and
+&emsp;"(i) the period referred to in subparagraph (A) or (B) of such paragraph (as the case may be) shall be considered to begin on the date on which such amendment first becomes effective; and
 
 &emsp;"(ii) the amount referred to in paragraph (2) of such section 806(n) shall be computed without regard to the provisions of subparagraph (B)(ii) of such paragraph (relating to interest).
 
 "(3) For purposes of this subsection, the term 'participant' has the meaning given that term in section 803 of the Foreign Service Act of 1980 (22 U.S.C. 4043)."
+
+#### Regulations
+
+For provisions relating to promulgation of regulations to carry out the amendments made by Pub. L. 117–225, see section 3(e) of Pub. L. 117–225, set out as a note under section 8336 of Title 5, Government Organization and Employees.
 
 #### Election To Provide Survivor Annuity for Certain Spouses Acquired before Effective Date of Foreign Service Act of 1980
 

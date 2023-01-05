@@ -8,7 +8,7 @@ Under the supervision and direction of the Secretary of the Interior, the reclam
 
 #### References in Text
 
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 #### Codification
 
@@ -22,7 +22,7 @@ Provisions of this section which prescribed the basic compensation of Commission
 
 #### Use of Private Sector
 
-Pub. L. 108–7, div. D, title II, §208, Feb. 20, 2003, 117 Stat. 146, provided that: "The Commissioner of the Bureau of Reclamation is directed to increase the use of the private sector in performing planning, engineering and design work for Bureau of Reclamation projects to 10 percent in fiscal year 2003, and in each subsequent year until the level of work is at least 40 percent for the planning, engineering and design work conducted by the Bureau of Reclamation."
+Pub. L. 108–7, div. D, title II, §208, Feb. 20, 2003, 117 Stat. 146, provided that: "The Commissioner of the Bureau of Reclamation is directed to increase the use of the private sector in performing planning, engineering and design work for Bureau of Reclamation projects to 10 percent in fiscal year 2003, and in each subsequentyear until the level of work is at least 40 percent for the planning, engineering and design work conducted by the Bureau of Reclamation."
 
 #### Compensation of Commissioner
 

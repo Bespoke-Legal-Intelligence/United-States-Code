@@ -46,7 +46,7 @@
 
 #### (5) Highly compensated individual
 
-&emsp;For purposes of this subsection, the determination as to whether an individual is ahighly compensated individual shall be made under rules similar to the rules for determining whether an individual is a highly compensated employee (within the meaning of section 414(q)).
+&emsp;For purposes of this subsection, the determination as to whether an individual is a highly compensated individual shall be made under rules similar to the rules for determining whether an individual is a highly compensated employee (within the meaning of section 414(q)).
 
 #### (6) Compensation
 

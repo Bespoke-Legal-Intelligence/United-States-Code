@@ -2,7 +2,7 @@
 
 In the Coast Guard there shall be admirals (two); vice admirals; rear admirals; rear admirals (lower half); captains; commanders; lieutenant commanders; lieutenants; lieutenants (junior grade); ensigns; chief warrant officers; cadets; warrant officers; and enlisted members. Enlisted members shall be distributed in ratings established by the Secretary.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 497, §41; Aug. 10, 1956, ch. 1041, §§6, 53, 70A Stat. 620, 679; Pub. L. 86–474, §1(1), May 14, 1960, 74 Stat. 144; Pub. L. 92–451, §1(1), Oct. 2, 1972, 86 Stat. 755; Pub. L. 97–417, §2(1), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 98–557, §15(a)(3)(B), (C), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–145, title V, §514(a)(2), Nov. 8, 1985, 99 Stat. 628; Pub. L. 103–337, div. A, title V, §541(f)(4), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 114–120, title II, §201(a), Feb. 8, 2016, 130 Stat. 33; renumbered §301, Pub. L. 115–282, title I, §104(b), Dec. 4, 2018, 132 Stat. 4196.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 497, §41; Aug. 10, 1956, ch. 1041, §§6, 53, 70A Stat. 620, 679; Pub. L.86–474, §1(1), May 14, 1960, 74 Stat. 144; Pub. L. 92–451, §1(1), Oct. 2, 1972, 86 Stat. 755; Pub. L. 97–417, §2(1), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 98–557, §15(a)(3)(B), (C), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–145, title V, §514(a)(2), Nov. 8, 1985, 99 Stat. 628; Pub. L. 103–337, div. A, title V, §541(f)(4), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 114–120, title II, §201(a), Feb. 8, 2016, 130 Stat. 33; renumbered §301, Pub. L. 115–282, title I, §104(b), Dec. 4, 2018, 132 Stat. 4196.)
 
 #### Historical and Revision Notes
 

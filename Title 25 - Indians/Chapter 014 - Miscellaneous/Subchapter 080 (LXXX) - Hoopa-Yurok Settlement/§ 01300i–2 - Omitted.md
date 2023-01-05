@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 100–580, §3, Oct. 31, 1988, 102 Stat. 2927; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106Stat. 4516, which provided that nothing in this subchapter would affect the entitlement established under decisions of the United States Court of Federal Claims in the Short cases or any final judgment which might be rendered in those cases, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 100–580, §3, Oct. 31, 1988, 102 Stat. 2927; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, which provided that nothing in this subchapter would affect the entitlement established under decisions of the United States Court of Federal Claims in the Short cases or any final judgment which might be rendered in those cases, was omitted from the Code as being of special and not general application.
 

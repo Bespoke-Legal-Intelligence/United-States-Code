@@ -8,7 +8,7 @@
 
 #### (b) Master inventory
 
-The Administrator of the Federal Emergency Management Agency shall compile and maintaina comprehensive listing of all inventories prepared under subsection (a). The first such master list shall be completed not later than December 31, 1997, and shall be updated annually thereafter.
+The Administrator of the Federal Emergency Management Agency shall compile and maintain a comprehensive listing of all inventories prepared under subsection (a). The first such master list shall be completed not later than December 31, 1997, and shall be updated annually thereafter.
 
 #### (c) Addition to Federal response plan
 

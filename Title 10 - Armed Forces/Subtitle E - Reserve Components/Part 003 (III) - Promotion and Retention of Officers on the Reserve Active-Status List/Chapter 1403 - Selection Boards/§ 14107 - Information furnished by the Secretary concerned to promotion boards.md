@@ -58,7 +58,7 @@ Limitation on Modifying Furnished Information.—Information or guidelines furni
 
 (d)
 
-Officers in Health-Professions Competitive Categories.—The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a promotion board convened under section 14101(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of officers ofthe Navy Reserve, captain, a direction that the board give consideration to an officer's clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer's administrative and management skills.
+Officers in Health-Professions Competitive Categories.—The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a promotion board convened under section 14101(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of officers of the Navy Reserve, captain, a direction that the board give consideration to an officer's clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer's administrative and management skills.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2926; amended Pub. L. 109–163, div. A, title V, §§506(b), 515(b)(1)(QQ), Jan. 6, 2006, 119 Stat. 3227, 3234; Pub. L. 116–283, div. A, title V, §505(d), Jan. 1, 2021, 134 Stat. 3573.)
 

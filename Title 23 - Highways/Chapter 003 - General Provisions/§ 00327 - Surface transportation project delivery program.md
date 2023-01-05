@@ -220,7 +220,7 @@ Termination by secretary.—The Secretary may terminate the participation of any
 
 &emsp;(2)
 
-Termination by the state.—The State may terminate the participation of the Statein the program at any time by providing to the Secretary a notice by not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
+Termination by the state.—The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice by not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
 
 (k)
 

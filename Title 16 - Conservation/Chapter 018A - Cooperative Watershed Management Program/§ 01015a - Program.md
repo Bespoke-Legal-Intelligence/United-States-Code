@@ -186,7 +186,7 @@ Not later than September 30, 2021, the Secretary shall update—
 
 #### (f) Report
 
-Not later than 5 years after March 30, 2009, and every 5 years thereafter, the Secretary shallsubmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
+Not later than 5 years after March 30, 2009, and every 5 years thereafter, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
 
 &emsp;(1) the ways in which the program assists the Secretary—
 

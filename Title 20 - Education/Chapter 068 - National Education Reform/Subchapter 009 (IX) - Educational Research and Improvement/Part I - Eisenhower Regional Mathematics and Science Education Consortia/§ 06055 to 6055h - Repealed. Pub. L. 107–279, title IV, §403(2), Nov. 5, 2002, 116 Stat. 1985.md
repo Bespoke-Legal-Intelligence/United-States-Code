@@ -12,7 +12,7 @@ Section 6055b, Pub. L. 103–227, title IX, §1023, formerly Pub. L. 89–10, ti
 
 Section 6055c, Pub. L. 103–227, title IX, §1024, formerly Pub. L. 89–10, title XIII, §13304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, §1024, Pub. L. 107–110, title X, §1023(a),(b), Jan. 8, 2002, 115 Stat. 1987, required each entity in receipt of a grant or contract to establish a regional board for oversight and establishment of program priorities.
 
-Section 6055d, Pub. L. 103–227, title IX, §1025, formerly Pub. L. 89–10, title XIII, §13305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3885; renumberedPub. L. 103–227, title IX, §1025, and amended Pub. L. 107–110, title X, §§1023(a),(b), 1025(a)(13), Jan. 8, 2002, 115 Stat. 1987, 1988, related to payments and Federal and non-Federal shares.
+Section 6055d, Pub. L. 103–227, title IX, §1025, formerly Pub. L. 89–10, title XIII, §13305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, §1025, and amended Pub. L. 107–110, title X, §§1023(a),(b), 1025(a)(13), Jan. 8, 2002, 115 Stat. 1987, 1988, related to payments and Federal and non-Federal shares.
 
 Section 6055e, Pub. L. 103–227, title IX, §1026, formerly Pub. L. 89–10, title XIII, §13306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, §1026, and amended Pub. L. 107–110, title X, §§1023(a),(b), 1025(a)(22), Jan. 8, 2002, 115 Stat. 1987, 1989, related to evaluations and reports.
 

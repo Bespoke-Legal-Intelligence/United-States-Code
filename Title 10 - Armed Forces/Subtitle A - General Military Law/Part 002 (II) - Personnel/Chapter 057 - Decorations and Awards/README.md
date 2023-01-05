@@ -6,6 +6,7 @@
 | [1122\.](%C2%A7%2001122%20-%20Medal%20for%20Merit%20award.md) | Medal for Merit: award. |
 | [1123\.](%C2%A7%2001123%20-%20Right%20to%20wear%20badges%20of%20military%20societies.md) | Right to wear badges of military societies. |
 | [1124\.](%C2%A7%2001124%20-%20Cash%20awards%20for%20disclosures%2C%20suggestions%2C%20inventions%2C%20and%20scientific%20achievements.md) | Cash awards for disclosures, suggestions, inventions, and scientific achievements. |
+| [1124a.](%C2%A7%2001124a%20-%20Cyber%20operations-peculiar%20awards.md) | Cyber operations-peculiar awards. |
 | [1125\.](%C2%A7%2001125%20-%20Recognition%20for%20accomplishments%20award%20of%20trophies.md) | Recognition for accomplishments: award of trophies. |
 | [1126\.](%C2%A7%2001126%20-%20Gold%20star%20lapel%20button%20eligibility%20and%20distribution.md) | Gold star lapel button: eligibility and distribution. |
 | [1127\.](%C2%A7%2001127%20-%20Precedence%20of%20the%20award%20of%20the%20Purple%20Heart.md) | Precedence of the award of the Purple Heart. |
@@ -26,6 +27,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title XV, §1531, Dec. 23, 2022, 136 Stat. 2900, added item 1124a.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title V, §582(a)(2), Dec. 20, 2019, 133 Stat. 1412, added item 1136.
 
@@ -163,7 +166,7 @@ Pub. L. 109–364, div. A, title V, §557, Oct. 17, 2006, 120 Stat. 2219, provid
 
 "(a)
 
-Review.—The Secretary of Defense shall conduct a review of the policy, procedures, and processes of the military departments for awarding decorations to members of the Armed Forces.
+Review.—The Secretary of Defense shall conduct a review of the policy, procedures, and processes of themilitary departments for awarding decorations to members of the Armed Forces.
 
 "(b)
 
@@ -223,6 +226,42 @@ Certificates of Recognition.—The Secretary of Defense shall prepare a certific
 
 #### <b>Executive Documents</b>
 
+#### Ex. Ord. No. 8809. Good Conduct Medal
+
+Ex. Ord. No. 8809, June 28, 1941, 6 F.R. 3209, as amended by Ex. Ord. No. 9323, Mar. 31, 1943, 8 F.R. 4225; Ex. Ord. No. 10444, Apr. 10, 1953, 18 F.R. 2069; Ex. Ord. No. 14085, §2, Oct. 3, 2022, 87 F.R. 60541, provided:
+
+By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
+
+There is hereby established the Good Conduct Medal, which shall include suitable appurtenances. Such medal may be awarded for exemplary behavior, efficiency, and fidelity, under such regulations as the Secretary of the Army and the Secretary of the Air Force shall severally prescribe, to those enlisted members of the Army of the United States and the United States Air Force who on or after August 27, 1940, and on or after December 20, 2019, in the case of the United States Space Force, had or shall have honorably completed three years of active Federal military service, or who after December 7, 1941, and on or after December 20, 2019, in the case of the United States Space Force, have or shall have honorably served one year of active Federal military service while the United States is at war, or who at the time of the termination of their active Federal military service have not previously been awarded a Good Conduct Medal and have completed a period of honorable service of less than three years if any part of that period of service has been performed after June 27, 1950, and on or after December 20, 2019, in the case of the United States Space Force: <i>Provided</i>, that no persons, except persons separated from the active Federal military service by reason of physical disability incurred in line of duty, shall be awarded such medal for a period of service of less than one year.
+
+#### Ex. Ord. No. 9158. Air Medal
+
+Ex. Ord. No. 9158, May 11, 1942, 7 F.R. 3541, as amended by Ex. Ord. No. 9242–A, Sept. 11, 1942, 7 F.R. 7874; Ex. Ord. No. 14085, §1, Oct. 3, 2022, 87 F.R. 60541, provided:
+
+By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered that an Air Medal, with accompanying ribbons, be established for award to those individuals who, while serving in any capacity in or with the Army, Navy, Marine Corps, Air Force, Space Force, or Coast Guard of the United States, subsequent to September 8, 1939, distinguish, or have distinguished, themselves by meritorious achievement while participating in an aerial flight.
+
+The Air Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and, under such regulations as the Secretaries of the military departments may prescribe, may be awarded by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, or by such commanding officers of the Army, Navy, Marine Corps, Air Force, Space Force, or Coast Guard as the said Secretaries may respectively designate. Awards to personnel of the Coast Guard when serving under the jurisdiction of the Navy shall be made by or under the direction of the Secretary of the Navy.
+
+No more than one Air Medal shall be awarded to any one person, but for each succeeding meritorious achievement justifying such an award a suitable bar or other device may be awarded to be worn with the medal as prescribed by appropriate regulations. In the event of a posthumous award the medal, bar, or device may be presented to such representative of the deceased as may be designated in the award.
+
+The regulations of the Secretaries of the military departments concerned with respect to the award of the Air Medal shall, so far as practicable, be uniform and shall be subject to the approval of the Secretary of Defense.
+
+#### Ex. Ord. No. 10694. Authorizing the Secretaries of the Army, Navy, and Air Force to Issue Citations in the Name of the President of the United States to Military and Naval Units for Outstanding Performance in Action
+
+Ex. Ord. No. 10694, Jan. 10, 1957, 22 F.R. 253, as amended by Ex. Ord. No. 13286, §74, Feb. 28, 2003, 68 F.R. 10631; Ex. Ord. No. 14085, §3, Oct. 3, 2022, 87 F.R. 60542, provided:
+
+By virtue of the authority vested in me as President of the United States and as Commander in Chief of the armed forces of the United States, it is hereby ordered as follows:
+
+1\. The Secretaries of the Army, the Navy, and the Air Force, respectively, are hereby authorized to issue a citation in the name of the President of the United States, as public evidence of deserved honor and distinction, to any organization, detachment, installation, ship, aircraft, or other unit for outstanding performance in action on or after October 16, 1941, in the case of the Navy or Marine Corps, and on or after December 7, 1941, in the case of the Army or the Air Force, and on or after December 20, 2019, in the case of the Space Force. Such citations may also be issued to units of armed forces of cobelligerent nations serving with the armed forces of the United States for outstanding performance in action on or after December 7, 1941; provided that such units shall meet the standards established for the armed forces of the United States.
+
+2\. Appropriate insignia of such form and design as may be determined by the Secretary concerned may be displayed by any organization, detachment, installation, ship, aircraft, or other unit to which such citation is issued.
+
+3\. After any unit is cited pursuant to paragraph 1 hereof for outstanding performance in action, a ribbon identifying such citation shall be issued and shall become a permanent part of the uniform of those persons assigned or attached thereto who were actually present and participated in the action for which the unit was cited, or in one of the actions if more than one action is mentioned in the citation, whether they thereafter serve with such unit or with a different unit. Such persons are authorized to wear an appropriate additional device for any subsequent citation for which they are eligible, made either to the same unit or to a unit to which they are subsequently assigned. If authorized by the Secretary concerned, persons assigned to a unit subsequent to an action for which it was cited, may wear the citation ribbon while so assigned.
+
+4\. This order supersedes Executive Orders No. 9050 of February 6, 1942, and No. 9396 of November 22, 1943.
+
+5\. The Secretary of the Department in which the Coast Guard is operating may exercise the same authority with respect to the Coast Guard under this order as the Secretary of the Navy may exercise with respect to the Navy and the Marine Corps under this order.
+
 #### Ex. Ord. No. 11448. Meritorious Service Medal
 
 Ex. Ord. No. 11448, Jan. 16, 1969, 34 F.R. 915, as amended by Ex. Ord. No. 12312, July 2, 1981, 46 F.R. 35251; Ex. Ord. No. 13286, §61, Feb. 28, 2003, 68 F.R. 10629, provided:
@@ -253,7 +292,7 @@ Sec. 2. The Defense Superior Service Medal and appurtenances thereto shall be of
 
 Sec. 3. No more than one Defense Superior Service Medal shall be awarded to any one person, but for each succeeding period of superior meritorious service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
 
-Sec. 4. The Defense Superior Service Medal or device may be awarded posthumously, and when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
+Sec. 4. The Defense Superior Service Medal or device may be awarded posthumously, and when so awarded,may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -311,7 +350,7 @@ Ex. Ord. No. 12793, Mar. 20, 1992, 57 F.R. 10281, as amended by Ex. Ord. No. 132
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is ordered of follows:
 
-Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate ("Certificate") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilitiesunder the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President ("EOP"). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
+Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate ("Certificate") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President ("EOP"). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
 
 Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge ("Badge") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
 
@@ -373,11 +412,11 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13830. Delegation of Authority To Approve Certain Military Decorations
 
-Ex. Ord. No. 13830, Apr. 20, 2018, 83 F.R. 18191, provided:
+Ex. Ord. No. 13830, Apr. 20, 2018, 83 F.R. 18191, as amended by Ex. Ord. No. 14085, §5, Oct. 3, 2022, 87 F.R. 60542, provided:
 
-For the purpose of carrying into effect the provisions of sections 1121, 3742, 3743, 3746, 3749, 3750, 6242, 6243, 6244, 6245, 6246, 8742, 8743, 8746, 8749, and 8750 of title 10, and sections 491a, 492, 492a, 492b, and 493 \[now 2735, 2736,2737, 2738, and 2739\] of title 14, United States Code, the following rules and regulations pertaining to the award of the Distinguished Service Cross, Navy Cross, Air Force Cross, Coast Guard Cross, Distinguished Service Medal, Silver Star Medal, Legion of Merit, Distinguished Flying Cross, Soldier's Medal, Navy and Marine Corps Medal, Airman's Medal, and Coast Guard Medal are promulgated:
+For the purpose of carrying into effect the provisions of sections 1121, 7272, 7273, 7276, 7279, 7280, 8292, 8293, 8294, 8295, 8296, 9272, 9273, 9276, 9279, 9280, and 9280a of title 10, and sections 2735, 2736, 2737, 2738, and 2739 of title 14, United States Code, the following rules and regulations pertaining to the award of the Distinguished Service Cross, Navy Cross, Air Force Cross, Coast Guard Cross, Distinguished Service Medal, Silver Star Medal, Legion of Merit, Distinguished Flying Cross, Soldier's Medal, Navy and Marine Corps Medal, Airman's Medal, and Coast Guard Medal are promulgated:
 
-Section 1. <i>Distinguished Service Cross, Navy Cross, Air Force Cross, and Coast Guard Cross</i>. The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Distinguished Service Cross, Navy Cross, Air Force Cross, and Coast Guard Cross in the name of the President to any person who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, distinguishes himself or herself by extraordinary heroism not justifying award of the Medal of Honor:
+Section 1. <i>Distinguished Service Cross, Navy Cross, Air Force Cross, and Coast Guard Cross</i>. The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Distinguished Service Cross, Navy Cross, Air Force Cross, and Coast Guard Cross in the name of the President to those individuals who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, Space Force, or Coast Guard, as the case may be, distinguish themselves by extraordinary heroism not justifying award of the Medal of Honor:
 
 (a) while engaged in an action against an enemy of the United States;
 
@@ -385,9 +424,9 @@ Section 1. <i>Distinguished Service Cross, Navy Cross, Air Force Cross, and Coas
 
 (c) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-Sec. 2. <i>Distinguished Service Medal</i>. The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Distinguished Service Medal of each of the respective Armed Forces of the United States in the name of the President to any person who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, distinguishes himself or herself by exceptionally meritorious service to the United States in a duty of great responsibility.
+Sec. 2. <i>Distinguished Service Medal</i>. The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Distinguished Service Medal of each of the respective Armed Forces of the United States in the name of the President to those individuals who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, Space Force, or Coast Guard, as the case may be, distinguish themselves by exceptionally meritorious service to the United States in a duty of great responsibility.
 
-Sec. 3. <i>Silver Star Medal</i>. The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Silver Star Medal in the name of the President to any person who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, is cited for gallantry in action that does not warrant award of the Medal of Honor, Distinguished Service Cross, Navy Cross, Air Force Cross, or Coast Guard Cross:
+Sec. 3. <i>Silver Star Medal</i>. The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Silver Star Medal in the name of the President to any person who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, Space Force, or Coast Guard, as the case may be, is cited for gallantry in action that does not warrant award of the Medal of Honor, Distinguished Service Cross, Navy Cross, Air Force Cross, or Coast Guard Cross:
 
 (a) while engaged in an action against an enemy of the United States;
 
@@ -397,15 +436,15 @@ Sec. 3. <i>Silver Star Medal</i>. The Secretary of the military department conce
 
 Sec. 4. <i>Legion of Merit.</i>
 
-(a) The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Legion of Merit, without degree, in the name of the President to any member of the Armed Forces of the United States, who, after September 8, 1939, has distinguished himself or herself by exceptionally meritorious conduct in performing outstanding services.
+(a) The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Legion of Merit, without degree, in the name of the President to members of the Armed Forces of the United States, who, after September 8, 1939, distinguish themselves by exceptionally meritorious conduct in performing outstanding services.
 
 (b) The Secretary of Defense, after concurrence by the Secretary of State, may award the Legion of Merit, in the degrees of Commander, Officer, and Legionnaire, to a member of the armed forces of friendly foreign nations.
 
-(c) The Secretary of Defense, after concurrence by the Secretary of State, shall submit to the President for his approval, recommendations for award of the Legion of Merit, in the degree of Chief Commander, to a member of the armed forces of friendly foreign nations.
+(c) The Secretary of Defense, after concurrence by the Secretary of State, shall submit to the President for approval, recommendations for award of the Legion of Merit, in the degree of Chief Commander, to a member of the armed forces of friendly foreign nations.
 
 Sec. 5. <i>Distinguished Flying Cross.</i>
 
-(a) The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Distinguished Flying Cross in the name of the President to any eligible person identified in subsection (b) who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, distinguishes himself or herself by heroism or extraordinary achievement while participating in an aerial flight aboard an aircraft or spacecraft.
+(a) The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Distinguished Flying Cross in the name of the President to eligible persons identified in subsection (b) who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, distinguish themselves by heroism or extraordinary achievement while participating in an aerial flight aboard an aircraft or spacecraft.
 
 (b)(i) Any member of the Armed Forces of the United States, including a member not on active duty, who, while participating in an aerial flight aboard an aircraft or spacecraft, performs official duties incident to such membership is eligible for the award of the Distinguished Flying Cross.
 
@@ -433,7 +472,7 @@ Sec. 5. <i>Distinguished Flying Cross.</i>
 
 Sec. 6. <i>Soldier's Medal, Navy and Marine Corps Medal, Airman's Medal, and Coast Guard Medal.</i>
 
-(a) The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Soldier's Medal, Navy and Marine Corps Medal, Airman's Medal, and Coast Guard Medal in the name of the President to anyperson who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, distinguishes himself or herself by heroism not involving actual conflict with an enemy.
+(a) The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Soldier's Medal, Navy and Marine Corps Medal, Airman's Medal, and Coast Guard Medal in the name of the President to those individuals who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, distinguish themselves by heroism not involving actual conflict with an enemy.
 
 (b) The Secretary of the Navy may award the Navy and Marine Corps Medal to any person to whom the Secretary of the Navy, before August 7, 1942, awarded a letter of commendation for heroism, and who applies for that medal, regardless of the date of the act of heroism.
 
@@ -455,8 +494,6 @@ Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 ---
 
@@ -466,6 +503,7 @@ Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01122 - Medal for Merit award](%C2%A7%2001122%20-%20Medal%20for%20Merit%20award.md)
 - [&sect; 01123 - Right to wear badges of military societies](%C2%A7%2001123%20-%20Right%20to%20wear%20badges%20of%20military%20societies.md)
 - [&sect; 01124 - Cash awards for disclosures, suggestions, inventions, and scientific achievements](%C2%A7%2001124%20-%20Cash%20awards%20for%20disclosures%2C%20suggestions%2C%20inventions%2C%20and%20scientific%20achievements.md)
+- [&sect; 01124a - Cyber operations-peculiar awards](%C2%A7%2001124a%20-%20Cyber%20operations-peculiar%20awards.md)
 - [&sect; 01125 - Recognition for accomplishments award of trophies](%C2%A7%2001125%20-%20Recognition%20for%20accomplishments%20award%20of%20trophies.md)
 - [&sect; 01126 - Gold star lapel button eligibility and distribution](%C2%A7%2001126%20-%20Gold%20star%20lapel%20button%20eligibility%20and%20distribution.md)
 - [&sect; 01127 - Precedence of the award of the Purple Heart](%C2%A7%2001127%20-%20Precedence%20of%20the%20award%20of%20the%20Purple%20Heart.md)

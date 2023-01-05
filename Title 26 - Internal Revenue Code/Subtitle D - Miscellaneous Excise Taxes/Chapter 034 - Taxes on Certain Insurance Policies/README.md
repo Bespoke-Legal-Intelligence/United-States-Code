@@ -34,7 +34,7 @@ Subchapter C was struck out by Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 
 
 Subchapter D heading was struck out, sections 4371 to 4373 were reenacted without change, section 4374, "liability for tax", was substituted for section 4374, "payment of tax", and section 4375 was struck out by Pub. L. 94–455, title XIX, §1904(a)(12).
 
-Subchapter E, section 4381 was repealed by Pub. L. 89–44, title IV, §401(c), June 21, 1965, 79 Stat. 148, andsections 4382 to 4384 were struck out by Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.
+Subchapter E, section 4381 was repealed by Pub. L. 89–44, title IV, §401(c), June 21, 1965, 79 Stat. 148, and sections 4382 to 4384 were struck out by Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.
 
 The subject matter of the prior sections was as follows:
 

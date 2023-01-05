@@ -14,7 +14,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 &emsp;&emsp;(i) 220 days; or
 
-&emsp;&emsp;(ii) a lower number of days prescribed by the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness.
+&emsp;&emsp;(ii) a lower number of days prescribed by the Secretary of Defense, acting through theUnder Secretary of Defense for Personnel and Readiness.
 
 &emsp;(B) The term "two-year high-deployment threshold" means—
 
@@ -34,7 +34,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 Deployment Defined.—(1) For the purposes of this section, a member of the armed forces shall be considered to be deployed or in a deployment on any day on which, pursuant to orders, the member is performing service in a training exercise or operation at a location or under circumstances that make it impossible or infeasible for the member to spend off-duty time in the housing in which the member resides when on garrison duty at the member's permanent duty station or homeport, as the case may be.
 
-(2) In the case of a member of a reserve component who is performing active service pursuant to orders that do not establish a permanentchange of station, the housing referred to in paragraph (1) is any housing (which may include the member's residence) that the member usually occupies for use during off-duty time when on garrison duty at the member's permanent duty station or homeport, as the case may be.
+(2) In the case of a member of a reserve component who is performing active service pursuant to orders that do not establish a permanent change of station, the housing referred to in paragraph (1) is any housing (which may include the member's residence) that the member usually occupies for use during off-duty time when on garrison duty at the member's permanent duty station or homeport, as the case may be.
 
 (3) For the purposes of this section, a member is not deployed or in a deployment when the member is—
 
@@ -82,7 +82,7 @@ Recordkeeping.—(1) The Secretary of Defense shall—
 
 National Security Waiver Authority.—(1) The Secretary of the military department concerned may suspend the applicability of this section to a member or any group of members under the Secretary's jurisdiction when the Secretary determines that such a waiver is necessary in the national security interests of the United States.
 
-(2)(A) Whenever a waiver is in effect under paragraph (1), the member or group of members covered by the waiver shall be subject to specific and measurable deployment thresholds established and maintained for purposes of this subsection.
+(2)(A) Whenever a waiver is in effect under paragraph (1), the member or group of members covered by the waiver shall be subject to specificand measurable deployment thresholds established and maintained for purposes of this subsection.
 
 (B) Thresholds under this paragraph may be applicable—
 
@@ -178,7 +178,7 @@ Subsec. (b)(4). Pub. L. 106–398, §1 \[\[div. A\], title V, §574(b)(2)\], red
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §515(b), Dec. 28, 2001, 115 Stat. 1094, provided that: "The amendment made bythis section \[amending this section\] shall apply with respect to duty performed on or after October 1, 2001."
+Pub. L. 107–107, div. A, title V, §515(b), Dec. 28, 2001, 115 Stat. 1094, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to duty performed on or after October 1, 2001."
 
 #### Effective Date
 

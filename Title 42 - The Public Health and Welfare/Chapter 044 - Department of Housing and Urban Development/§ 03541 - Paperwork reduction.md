@@ -36,13 +36,13 @@ The Congress finds and declares—
 
 The Director of the Office of Management and Budget shall coordinate and monitor the development and implementation by Federal departments and agencies of the efforts required by subsection (b) and shall report to the Congress on such development and implementation and with respect to any provisions of law which unnecessarily prevent such departments and agencies from carrying out the provisions of this section as part of each report required under Public Law 93–556. Such report shall include an estimate of the reduction of the level of paperwork burden hours of the affected agencies as allocated by the Office of Management and Budget.
 
-(Pub. L. 95–557, title IX, §905, Oct. 31, 1978, 92 Stat. 2126; Pub. L. 96–153, title III, §328, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 98–479, title II, §204(n)(4), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 102–54, §13(q)(10), June 13, 1991, 105 Stat. 281.)
+(Pub. L. 95–557, title IX, §905, Oct. 31, 1978, 92 Stat. 2126; Pub. L. 96–153, title III, §328, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 98–479, title II,§204(n)(4), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 102–54, §13(q)(10), June 13, 1991, 105 Stat. 281.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(1)(E), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(1)(E), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 Public Law 93–556, referred to in subsec. (c), is Pub. L. 93–556, Dec. 27, 1974, 88 Stat. 1789, which is set out as a note under section 3501 of Title 44, Public Printing and Documents.
 

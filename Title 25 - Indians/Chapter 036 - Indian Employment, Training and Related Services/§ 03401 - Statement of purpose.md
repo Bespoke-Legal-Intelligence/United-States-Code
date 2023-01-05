@@ -66,7 +66,7 @@ Findings.—The Congress finds that—
 
 "(b)
 
-Purposes.—The purposes of this title \[see Short Title of 2000 Amendment note above\] are to demonstrate how Indian tribal governments can integrate the employment, training, and related services theyprovide in order to improve the effectiveness of those services, reduce joblessness in Indian communities, foster economic development on Indian lands, and serve tribally-determined goals consistent with the policies of self-determination and self-governance."
+Purposes.—The purposes of this title \[see Short Title of 2000 Amendment note above\] are to demonstrate how Indian tribal governments can integrate the employment, training, and related services they provide in order to improve the effectiveness of those services, reduce joblessness in Indian communities, foster economic development on Indian lands, and serve tribally-determined goals consistent with the policies of self-determination and self-governance."
 
 #### Report on Expanding Opportunities for Program Integration
 

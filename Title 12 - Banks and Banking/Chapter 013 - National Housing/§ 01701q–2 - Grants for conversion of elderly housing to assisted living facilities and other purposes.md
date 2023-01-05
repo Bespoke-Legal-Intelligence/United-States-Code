@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-The Secretary of Housing and Urban Development may make grants in accordance with thissection to owners of eligible projects described in subsection (b) for one or both of the following activities:
+The Secretary of Housing and Urban Development may make grants in accordance with this section to owners of eligible projects described in subsection (b) for one or both of the following activities:
 
 #### (1) Repairs
 
@@ -74,7 +74,7 @@ The Secretary shall select applications for grants under this section based upon
 
 &emsp;(3) the inability of the applicant to fund the repairs or conversion activities from existing financial resources, as evidenced by the applicant's financial records, including assets in the applicant's residual receipts account and reserves for replacement account;
 
-&emsp;(4) the extent to which the applicant has evidenced community support for the repairs orconversion, by such indicators as letters of support from the local community for the repairs or conversion and financial contributions from public and private sources;
+&emsp;(4) the extent to which the applicant has evidenced community support for the repairs or conversion, by such indicators as letters of support from the local community for the repairs or conversion and financial contributions from public and private sources;
 
 &emsp;(5) in the case of a grant for conversion activities, the extent to which the applicant demonstrates a strong commitment to promoting the autonomy and independence of the elderly persons that the assisted living facility or service-enriched housing is intended to serve;
 

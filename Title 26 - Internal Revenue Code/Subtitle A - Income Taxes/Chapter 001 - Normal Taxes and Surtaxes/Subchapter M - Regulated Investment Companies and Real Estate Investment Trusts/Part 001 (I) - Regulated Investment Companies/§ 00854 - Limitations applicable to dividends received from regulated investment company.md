@@ -44,7 +44,7 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 
 #### (i) Subparagraph (a)
 
-&emsp;&emsp;&emsp;The aggregate amount which may be reported as dividends under subparagraph\(A) shall not exceed the aggregate dividends received by the company for the taxable year.
+&emsp;&emsp;&emsp;The aggregate amount which may be reported as dividends under subparagraph (A) shall not exceed the aggregate dividends received by the company for the taxable year.
 
 #### (ii) Subparagraph (b)
 
@@ -146,7 +146,7 @@ Subsec. (b)(3)(A). Pub. L. 98–369, §52(c), substituted provisions directing t
 
 Subsec. (b)(4). Pub. L. 98–369, §52(b), added par. (4).
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–34, §302(c)(4), (d)(1), provided for general amendment of subsec. (b) so as to include provisions relating to taxable interest described in section 128 of this title, applicable to taxable years beginning after Dec. 31, 1984. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
+<b>1981</b>—Subsec. (b). Pub. L. 97–34, §302(c)(4), (d)(1), provided for general amendment of subsec. (b) so as to include provisions relating to taxable interest describedin section 128 of this title, applicable to taxable years beginning after Dec. 31, 1984. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–223, §404(b)(6), temporarily substituted "Other dividends and taxable interest" for "Other dividends" in heading, substituted "Deduction under section 243" for "General rule" in heading for par. (1), struck out "the exclusion under section 116 and" after "in computing" in text of par. (1) following subpar. (B), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and, in par. (4) as so redesignated, substituted "116(b)(2)" for "116(b)" and "116(c)(2)" for "116(c)" in subpar. (B) and added subpar. (C).
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 108–311 effective as if included in section 302 of the Jo
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set outas an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

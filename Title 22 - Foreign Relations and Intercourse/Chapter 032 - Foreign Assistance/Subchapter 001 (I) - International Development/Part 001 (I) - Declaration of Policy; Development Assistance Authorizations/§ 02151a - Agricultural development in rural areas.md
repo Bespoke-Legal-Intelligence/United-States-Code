@@ -24,11 +24,11 @@
 
 #### (c) Increased agricultural production in least developed countries
 
-The Congress finds that the greatest potential for significantly expanding availability of food for people in rural areas and augmenting world food production at relatively low cost lies in increasing the productivity of small farmers who constitute a majority of the agricultural producers in developing countries. Increasing the emphasis on rural development and expanded food production in the poorest nations of the developing world is a matter of social justice and a principal element contributing to broadly based economic growth, as well as an important factor in alleviating inflation in the industrialized countries. In the allocation of funds under this section, special attention shall be given to increasing agricultural production in countrieswhich have been designated as "least developed" by the United Nations General Assembly.
+The Congress finds that the greatest potential for significantly expanding availability of food for people in rural areas and augmenting world food production at relatively low cost lies in increasing the productivity of small farmers who constitute a majority of the agricultural producers in developing countries. Increasing the emphasis on rural development and expanded food production in the poorest nations of the developing world is a matter of social justice and a principal element contributing to broadly based economic growth, as well as an important factor in alleviating inflation in the industrialized countries. In the allocation of funds under this section, special attention shall be given to increasing agricultural production in countries which have been designated as "least developed" by the United Nations General Assembly.
 
 #### (d) Coordination with population planning and health programs
 
-Assistance provided under this section shall also be used in coordination with programs carried out under section 2151b of this title to help improve nutrition of the people of developing countries through encouragement of increased production of crops with greater nutritional value; improvement of planning, research, and education with respect to nutrition, particularly with reference to improvement and expanded use of indigenously produced foodstuffs; and the undertaking of pilot or demonstration programs explicitly addressing the problem of malnutrition of poor and vulnerable people. In particular, the President is encouraged—
+Assistance provided under this section shall also be used in coordination with programs carried out under section 2151b of this title to helpimprove nutrition of the people of developing countries through encouragement of increased production of crops with greater nutritional value; improvement of planning, research, and education with respect to nutrition, particularly with reference to improvement and expanded use of indigenously produced foodstuffs; and the undertaking of pilot or demonstration programs explicitly addressing the problem of malnutrition of poor and vulnerable people. In particular, the President is encouraged—
 
 &emsp;(1) to devise and carry out in partnership with developing countries a strategy for programs of nutrition and health improvement for mothers and children, including breast feeding; and
 
@@ -60,10 +60,6 @@ The Food for Peace Act, referred to in subsecs. (e) and (f), is act July 10, 195
 
 This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 
 <b>2008</b>—Subsecs. (e), (f). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
@@ -72,7 +68,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 <b>1985</b>—Subsec. (a)(2). Pub. L. 99–83, §302, substituted "$760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980." for "$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980."
 
-Subsec. (g). Pub. L. 99–83, §1001, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "In order to carry out the purposes of this section, the President may continue to participate in and may provide, on such terms and conditions as he may determine, up to $180,000,000 to the International Fund for Agricultural Development. There are authorized to be appropriated to the President for the purposes ofthis subsection $180,000,000, except that not more than $40,500,000 may be appropriated under this subsection for the fiscal year 1982. Amounts appropriated under this subsection are authorized to remain available until expended."
+Subsec. (g). Pub. L. 99–83, §1001, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "In order to carry out the purposes of this section, the President may continue to participate in and may provide, on such terms and conditions as he may determine, up to $180,000,000 to the International Fund for Agricultural Development. There are authorized to be appropriated to the President for the purposes of this subsection $180,000,000, except that not more than $40,500,000 may be appropriated under this subsection for the fiscal year 1982. Amounts appropriated under this subsection are authorized to remain available until expended."
 
 <b>1981</b>—Subsec. (a)(2). Pub. L. 97–113, §301(a), substituted "$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980" for "$713,500,000 for the fiscal year 1981".
 
@@ -80,7 +76,7 @@ Subsec. (g). Pub. L. 97–113, §301(c), added subsec. (g).
 
 <b>1980</b>—Subsec. (a)(2). Pub. L. 96–533 substituted appropriations authorization of $713,500,000 for fiscal year 1981 for such authorization of $659,000,000 for fiscal year 1980.
 
-<b>1979</b>—Subsec. (a)(2). Pub. L. 96–53, §101(a), substituted provisions authorizing appropriations of $659,000,000 for fiscal year 1980, for provisions authorizing appropriations of $665,213,000 for fiscal year 1979.
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–53, §101(a), substituted provisions authorizing appropriations of $659,000,000 forfiscal year 1980, for provisions authorizing appropriations of $665,213,000 for fiscal year 1979.
 
 Subsec. (b)(3). Pub. L. 96–53, §101(b), added par. (3).
 
@@ -101,6 +97,10 @@ Subsecs. (c) to (g). Pub. L. 94–161, §302(2), added subsecs. (c) to (g).
 Subsec. (b). Pub. L. 93–559, §2(3), added subsec. (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 2008 Amendment
 

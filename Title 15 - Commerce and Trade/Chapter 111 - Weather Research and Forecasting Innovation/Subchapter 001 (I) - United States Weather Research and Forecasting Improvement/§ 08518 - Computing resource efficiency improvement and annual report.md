@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In acquiring computing capabilities, including high performance computing technologies and supercomputing technologies, that enable the National Oceanic and Atmospheric Administration to meet its mission requirements,the Under Secretary shall, when appropriate and cost-effective, assess and prioritize options for entering into multi-year lease agreements for computing capabilities over options for purchasing computing hardware outright.
+&emsp;In acquiring computing capabilities, including high performance computing technologies and supercomputing technologies, that enable the National Oceanic and Atmospheric Administration to meet its mission requirements, the Under Secretary shall, when appropriate and cost-effective, assess and prioritize options for entering into multi-year lease agreements for computing capabilities over options for purchasing computing hardware outright.
 
 #### (2) Acquisition
 

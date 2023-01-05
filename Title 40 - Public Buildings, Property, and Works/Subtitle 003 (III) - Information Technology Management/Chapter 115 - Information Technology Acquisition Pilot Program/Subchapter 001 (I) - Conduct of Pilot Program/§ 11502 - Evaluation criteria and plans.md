@@ -6,7 +6,7 @@ Measurable Test Criteria.—To the maximum extent practicable, the head of each 
 
 (b)
 
-Test Plan.—Before the pilot program may be conducted under section 11501 of this title, the Administrator for Federal Procurement Policy shall submit to Congress a detailed test plan for the program, including a detailed description of the procedures to be used and a list of regulations that are to be waived.
+Test Plan.—Before the pilot program may be conducted under section 11501 of this title, the Administrator for Federal Procurement Policy shall submit to Congress a detailed test plan for the program, including a detailed descriptionof the procedures to be used and a list of regulations that are to be waived.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1246; Pub. L. 107–314, div. A, title VIII, §825(b)(2)(B)(i), (ii), Dec. 2, 2002, 116 Stat. 2616; Pub. L. 107–347, title II, §210(h)(2)(B)(i), (ii), Dec. 17, 2002, 116 Stat. 2938.)
 

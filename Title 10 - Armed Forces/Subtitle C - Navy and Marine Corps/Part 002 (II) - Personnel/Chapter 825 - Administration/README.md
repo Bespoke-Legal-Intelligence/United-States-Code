@@ -16,12 +16,15 @@
 | [8222\.](%C2%A7%2008222%20-%20Indebtedness%20to%20Marine%20Corps%20Exchanges%20payment%20from%20appropriated%20funds%20in%20certain%20cases.md) | Indebtedness to Marine Corps Exchanges: payment from appropriated funds in certain cases. |
 | [8225\.](%C2%A7%2008225%20-%20Female%20members%20congressional%20review%20period%20for%20assignment%20to%20duty%20on%20submarines%20or%20for%20reconfiguration%20of%20submarines.md) | Female members: congressional review period for assignment to duty on submarines or for reconfiguration of submarines. |
 | [8226\.](%C2%A7%2008226%20-%20Fatality%20reviews.md) | Fatality reviews. |
+| [8227\.](%C2%A7%2008227%20-%20Notifications%20on%20manning%20of%20afloat%20naval%20forces.md) | Notifications on manning of afloat naval forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title V, §592(d)(2), Dec. 23, 2022, 136 Stat. 2612, added item 8227.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 555 of this title as this chapter and items 6011 to 6014, 6019, 6021, 6022, 6024, 6027, 6029, 6031, 6032, 6035, and 6036 as 8211 to 8222, 8225, and 8226, respectively.
 
@@ -68,3 +71,4 @@
 - [&sect; 08222 - Indebtedness to Marine Corps Exchanges payment from appropriated funds in certain cases](%C2%A7%2008222%20-%20Indebtedness%20to%20Marine%20Corps%20Exchanges%20payment%20from%20appropriated%20funds%20in%20certain%20cases.md)
 - [&sect; 08225 - Female members congressional review period for assignment to duty on submarines or for reconfiguration of submarines](%C2%A7%2008225%20-%20Female%20members%20congressional%20review%20period%20for%20assignment%20to%20duty%20on%20submarines%20or%20for%20reconfiguration%20of%20submarines.md)
 - [&sect; 08226 - Fatality reviews](%C2%A7%2008226%20-%20Fatality%20reviews.md)
+- [&sect; 08227 - Notifications on manning of afloat naval forces](%C2%A7%2008227%20-%20Notifications%20on%20manning%20of%20afloat%20naval%20forces.md)

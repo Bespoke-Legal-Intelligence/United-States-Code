@@ -22,11 +22,11 @@ With respect to any sexually transmitted disease described in subsection (a), th
 
 &emsp;(5) referrals for necessary medical services for women screened pursuant to paragraph (1), including referrals for evaluation and treatment with respect to acquired immune deficiency syndrome and other sexually transmitted diseases;
 
-&emsp;(6) in the case of any woman receiving services pursuant to any of paragraphs (1) through\(5), providing to the partner of the woman the services described in such paragraphs, as appropriate;
+&emsp;(6) in the case of any woman receiving services pursuant to any of paragraphs (1) through (5), providing to the partner of the woman the services described in such paragraphs, as appropriate;
 
 &emsp;(7) providing outreach services to inform women of the availability of the services described in paragraphs (1) through (6);
 
-&emsp;(8) providing to the public information and education on the prevention and control of the disease, including disseminating such information; and
+&emsp;(8) providing to the public information and education on the prevention and control of thedisease, including disseminating such information; and
 
 &emsp;(9) providing training to health care providers in carrying out the screenings and counseling described in paragraphs (1) and (3).
 
@@ -98,7 +98,7 @@ With respect to activities for which a grant under subsection (a) is authorized 
 
 #### (B) Participation of certain entities
 
-&emsp;&emsp;The Secretary may make a grant under subsection (a) only if the applicant provides assurances satisfactory to the Secretary that the plan submitted under subparagraph (A) has been prepared in consultation with an appropriate number and variety of—
+&emsp;&emsp;The Secretary may make a grant under subsection (a) only if the applicant providesassurances satisfactory to the Secretary that the plan submitted under subparagraph (A) has been prepared in consultation with an appropriate number and variety of—
 
 &emsp;&emsp;&emsp;(i) representatives of entities in the geographic area involved that provide services for the prevention and control of sexually transmitted diseases, including programs to provide to the public information and education regarding such diseases; and
 
@@ -162,7 +162,7 @@ For the purpose of carrying out this section, other than subsections (o) and (r)
 
 #### References in Text
 
-The reference to section 254b of this title the first place appearing, referred to in subsec. (e), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
+The reference to section 254b of this title the first place appearing, referred to in subsec. (e), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the generalamendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
 
 Section 256a of this title, referred to in subsec. (e), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 

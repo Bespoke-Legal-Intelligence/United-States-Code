@@ -1,6 +1,6 @@
 ### §460bb. Establishment
 
-In order to preserve for public use and enjoyment certain areas of Marin and San Francisco Counties, California, possessing outstanding natural, historic, scenic, and recreational values, and in order to provide for the maintenance of needed recreational open space necessary to urban environment and planning, the Golden Gate National Recreation Area (hereinafter referred to as the "recreation area") is hereby established. In the management of the recreation area, the Secretary of the Interior (hereinafter referred to as the "Secretary") shall utilize the resources in a manner which will provide for recreation and educational opportunities consistent with sound principles of land use planning and management. In carrying out the provisions of this subchapter, the Secretary shall preserve the recreation area, as far as possible, in its natural setting, and protect it from development and uses which would destroy the scenic beauty and natural character of the area.
+In order to preserve for public use and enjoyment certain areas of Marin and San Francisco Counties, California, possessing outstanding natural, historic, scenic, and recreational values, and in order to provide for the maintenance of needed recreational open space necessary to urban environment and planning, the Golden Gate National Recreation Area (hereinafter referred to as the "recreation area") is hereby established. In the management of the recreation area, the Secretary of the Interior (hereinafter referred to as the "Secretary") shall utilize theresources in a manner which will provide for recreation and educational opportunities consistent with sound principles of land use planning and management. In carrying out the provisions of this subchapter, the Secretary shall preserve the recreation area, as far as possible, in its natural setting, and protect it from development and uses which would destroy the scenic beauty and natural character of the area.
 
 (Pub. L. 92–589, §1, Oct. 27, 1972, 86 Stat. 1299.)
 
@@ -38,7 +38,7 @@ Similar provisions were contained in Pub. L. 106–113, div. B, §1000(a)(3) \[t
 
 #### The Presidio of San Francisco
 
-Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, §351, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §334\], Nov. 29, 1999, 113 Stat. 1535, 1501A–198; Pub. L. 106–176, title I, §101, Mar. 10, 2000, 114 Stat. 23; Pub. L. 107–107, div. B, title XXVIII, §2861, Dec. 28, 2001, 115 Stat. 1328, provided that:
+Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, §351, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §334\], Nov. 29, 1999, 113 Stat. 1535, 1501A–198; Pub. L. 106–176, title I, §101, Mar. 10, 2000, 114 Stat. 23; Pub. L. 107–107, div. B, title XXVIII, §2861, Dec. 28, 2001, 115 Stat. 1328; Pub. L. 117–286, §4(c)(26), Dec. 27, 2022, 136 Stat. 4357; Pub. L. 117–328, div. G, title III, Dec. 29, 2022, 136 Stat. 4819, provided that:
 
 #### "SEC. 101. FINDINGS.
 
@@ -104,7 +104,7 @@ In general.—The powers and management of the Trust shall be vested in a Board 
 
 &emsp;&emsp;"(A) The Secretary of the Interior or the Secretary's designee.
 
-&emsp;&emsp;"(B) 6 individuals, who are not employees of the Federal Government, appointed by the President,who shall possess extensive knowledge and experience in one or more of the fields of city planning, finance, real estate development, and resource conservation. At least one of these individuals shall be a veteran of the Armed Services. At least 3 of these individuals shall reside in the San Francisco Bay Area. The President shall make the appointments referred to in this subparagraph within 90 days after the enactment of this Act \[Nov. 12, 1996\] and shall ensure that the fields of city planning, finance, real estate development, and resource conservation are adequately represented. Upon establishment of the Trust, the Chairman of the Board of Directors of the Trust shall meet with the Chairman of the Energy and Natural Resources Committee of the United States Senate and the Chairman of the Resources Committee of the United States House of Representatives.
+&emsp;&emsp;"(B) 6 individuals, who are not employees of the Federal Government, appointed by the President, who shall possess extensive knowledge and experience in one or more of the fields of city planning, finance, real estate development, and resource conservation. At least one of these individuals shall be a veteran of the Armed Services. At least 3 of these individuals shall reside in the San Francisco Bay Area. The President shall make the appointments referred to in this subparagraph within 90 days after the enactment of this Act \[Nov. 12, 1996\] and shall ensure that the fields of city planning, finance, real estate development, and resource conservation are adequately represented. Upon establishment of the Trust, the Chairman of the Board of Directors of the Trust shall meet with the Chairman of the Energy and Natural Resources Committee of the United States Senate and the Chairman of the Resources Committee of the United States House of Representatives.
 
 &emsp;"(2)
 
@@ -120,7 +120,7 @@ Organization and compensation.—The Board shall organize itself in such a manne
 
 &emsp;"(5)
 
-Liability of directors.—Members of the Board of Directors shall not be considered Federal employees by virtue of their membership on the Board, except for purposes of the Federal Tort Claims Act \[see Short Title note under section 2671 of Title 28, Judiciary and Judicial Procedure\] and the Ethics in Government Act \[of 1978\] \[5 U.S.C. App.\], and the provisions of chapter 11 of title 18, United States Code.
+Liability of directors.—Members of the Board of Directors shall not be considered Federal employees by virtue of their membership on the Board, except for purposes of the Federal Tort Claims Act \[see Short Title note under section 2671 of Title 28, Judiciary and Judicial Procedure\] and chapter 131 of title 5, United States Code, and the provisions of chapter 11 of title 18, United States Code.
 
 &emsp;"(6)
 
@@ -184,7 +184,7 @@ Financial Authorities.—(1) To augment or encourage the use of non-Federal fund
 
 "(2) The Trust shall also have the authority to issue obligations to the Secretary of the Treasury, but only if the Secretary of the Treasury agrees to purchase such obligations to the extent authorized in advance in appropriations acts. The Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such notes or obligations acquired by the Secretary of the Treasury under this subsection. Obligations issued under this subparagraph shall be in such forms and denominations, bearing such maturities, and subject to such terms and conditions, including a review of the creditworthiness of the loan and establishment of a repayment schedule, as may be prescribed by the Secretary of the Treasury, and shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. No funds appropriated to the Trust may be used for repayment of principal or interest on, or redemption of, obligations issued under this paragraph.
 
-"(3) The aggregate amount of obligations issued under paragraph (2) of this subsection which are outstanding at any one time may not exceed $150,000,000.
+"(3) The aggregate amount of obligations issued under paragraph (2) of this subsection which are outstanding at any one time may not exceed $250,000,000.
 
 "(e)
 
@@ -224,7 +224,7 @@ Building Code Compliance.—The Trust shall bring all properties under its admin
 
 "(n)
 
-Leasing.—In managing and leasing the properties transferred to it, the Trust shall consider the extent to which prospective tenants contribute to the implementation of the general objectives of the General Management Plan for the Presidio and to the reductionof cost to the Federal Government. The Trust shall give priority to the following categories of tenants: Tenants that enhance the financial viability of the Presidio and tenants that facilitate the cost-effective preservation of historic buildings through their reuse of such buildings.
+Leasing.—In managing and leasing the properties transferred to it, the Trust shall consider the extent to which prospective tenants contribute to the implementation of the general objectives of the General Management Plan for the Presidio and to the reduction of cost to the Federal Government. The Trust shall give priority to the following categories of tenants: Tenants that enhance the financial viability of the Presidio and tenants that facilitate the cost-effective preservation of historic buildings through their reuse of such buildings.
 
 "(o)
 

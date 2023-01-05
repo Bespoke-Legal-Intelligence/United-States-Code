@@ -114,7 +114,7 @@ Subsec. (b)(1)(B). Pub. L. 97–258, §2(m)(2)(B), substituted "Court of Appeals
 
 #### Effective Date of 2019 Amendment
 
-Amendment by Pub. L. 116–92 applicable to any claim filed under section 2733a of Title 10, Armed Forces, onor after Jan. 1, 2020, and any claim filed in calendar year 2020 deemed to be filed within the time period specified in section 2733a(b)(4) of Title 10 if filed within three years after it accrues, see section 731(d) of Pub. L. 116–92, set out as an Effective Date note under section 2733a of Title 10.
+Amendment by Pub. L. 116–92 applicable to any claim filed under section 2733a of Title 10, Armed Forces, on or after Jan. 1, 2020, and any claim filed in calendar year 2020 deemed to be filed within the time period specified in section 2733a(b)(4) of Title 10 if filed within three years after it accrues, see section 731(d) of Pub. L. 116–92, set out as an Effective Date note under section 2733a of Title 10.
 
 #### Effective Date of 1992 Amendment
 

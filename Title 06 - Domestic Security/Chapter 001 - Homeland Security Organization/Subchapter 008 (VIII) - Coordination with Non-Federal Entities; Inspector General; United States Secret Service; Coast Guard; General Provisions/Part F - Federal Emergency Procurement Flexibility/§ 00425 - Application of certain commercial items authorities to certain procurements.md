@@ -40,7 +40,7 @@ Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (c), is
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a)(2). Pub. L. 117–81, §1702(c)(3)(A), added subpars. (A) to (C) and struck out former subpars. (A) to (C), which read as follows:
+<b>2021</b>—Subsec. (a)(2). Pub. L. 117–81, §1702(c)(3)(A), added subpars. (A) to (C) and struck out former subpars. (A) to (C) which read as follows:
 
 &emsp;"(A) Sections 1901 and 1906 of title 41.
 

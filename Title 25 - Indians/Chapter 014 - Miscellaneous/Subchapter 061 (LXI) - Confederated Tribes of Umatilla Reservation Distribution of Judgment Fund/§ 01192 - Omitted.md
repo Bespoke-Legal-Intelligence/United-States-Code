@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 91–259, §2, May 21, 1970, 84 Stat. 254, which related to eligibility for per capita payments,was omitted from the Code as being of special and not general application.
+Section, Pub. L. 91–259, §2, May 21, 1970, 84 Stat. 254, which related to eligibility for per capita payments, was omitted from the Code as being of special and not general application.
 

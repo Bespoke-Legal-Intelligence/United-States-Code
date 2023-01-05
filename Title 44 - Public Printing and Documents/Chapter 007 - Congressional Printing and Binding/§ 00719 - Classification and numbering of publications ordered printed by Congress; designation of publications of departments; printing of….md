@@ -6,7 +6,7 @@ Publications ordered printed by Congress, or either House, shall be in four seri
 
 &emsp;one series of reports made by the committees of the House of Representatives, to be known as House reports;
 
-&emsp;one series of documents other than reports of committees, the orders for printing whichoriginate in the Senate, to be known as Senate documents; and
+&emsp;one series of documents other than reports of committees, the orders for printing which originate in the Senate, to be known as Senate documents; and
 
 &emsp;one series of documents other than committee reports, the orders for printing which originate in the House of Representatives, to be known as House documents.
 

@@ -126,7 +126,7 @@ Additional Considerations.—In providing grants under the program, the Secretar
 
 &emsp;(3) address economic development and job creation challenges, including energy sector job losses in energy communities as identified in the report released in April 2021 by the interagency working group established by section 218 of Executive Order 14008 (86 Fed. Reg. 7628 (February 1, 2021));
 
-&emsp;(4) enhance recreational and tourism opportunities by providing access to Federal land, national parks, national forests, nationalrecreation areas, national wildlife refuges, wilderness areas, or State parks;
+&emsp;(4) enhance recreational and tourism opportunities by providing access to Federal land, national parks, national forests, national recreation areas, national wildlife refuges, wilderness areas, or State parks;
 
 &emsp;(5) contribute to geographic diversity among grant recipients;
 

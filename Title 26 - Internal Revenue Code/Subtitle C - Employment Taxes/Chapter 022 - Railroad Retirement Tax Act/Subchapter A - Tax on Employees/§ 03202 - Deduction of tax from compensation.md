@@ -22,7 +22,7 @@ Every employer required under subsection (a) to deduct the tax shall be liable f
 
 &emsp;(C) to deduct upon any payment of compensation (other than tips, but including funds turned over by the employee to the employer pursuant to paragraph (2)) to such employee during such quarter (and within 30 days thereafter) such amount as may be necessary to adjust the amount actually deducted upon such compensation of the employee during the quarter to the amount required to be deducted in respect of tips included in written statements furnished to the employer during the quarter.
 
-(4) If the taxes imposed by section 3201 with respect to tips which constitute compensation exceed the portion of such taxes which can be collected by the employer from the compensation of the employee pursuant to paragraph (1) or paragraph (3), such excess shall be paid by the employee.
+(4) If the taxes imposed by section 3201 with respect to tips which constitute compensation exceed the portion of such taxes which can be collected by the employer from the compensation of the employee pursuant to paragraph (1) orparagraph (3), such excess shall be paid by the employee.
 
 #### (d) Special rule for certain taxable group-term life insurance benefits
 
@@ -110,5 +110,5 @@ Amendment by Pub. L. 86–28 effective, except as otherwise provided, first day 
 
 #### Effective Date of 1954 Amendment
 
-Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\], see section 407 of act Aug. 31, 1954, as amended, set out as a note under section 3201 of this title.
+Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], see section 407 of act Aug. 31, 1954, as amended, set out as a note under section 3201 of this title.
 

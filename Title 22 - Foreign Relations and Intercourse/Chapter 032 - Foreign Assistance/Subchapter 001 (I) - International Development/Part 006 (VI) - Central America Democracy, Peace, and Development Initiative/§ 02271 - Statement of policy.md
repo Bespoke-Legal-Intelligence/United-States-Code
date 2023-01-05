@@ -10,7 +10,7 @@ The Congress finds that—
 
 #### (b) Policy requirements
 
-(1) The achievement of democracy, respect for human rights, peace, and equitable economic growth depends primarily on the cooperation and the human and economic resources of the people and governments of Central America. The Congress recognizes that the United States can make a significant contribution to such peaceful and democratic development through a consistent and coherent policy which includes a long-term commitment of assistance. This policy should be designed to support actively—
+(1) The achievement of democracy, respect for human rights, peace, and equitable economicgrowth depends primarily on the cooperation and the human and economic resources of the people and governments of Central America. The Congress recognizes that the United States can make a significant contribution to such peaceful and democratic development through a consistent and coherent policy which includes a long-term commitment of assistance. This policy should be designed to support actively—
 
 &emsp;(A) democracy and political reform, including opening the political process to all members of society;
 

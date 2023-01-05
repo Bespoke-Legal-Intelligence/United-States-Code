@@ -136,9 +136,9 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 &emsp;The heads of agencies who carry out prize competitions under this section shall develop guidelines to ensure that the judges appointed for such prize competitions are fairly balanced and operate in a transparent manner.
 
-#### (4) Exemption from FACA
+#### (4) Exemption from chapter 10 of title 5
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any committee, board, commission, panel, task force, or similar entity, created solely for the purpose of judging prize competitions under this section.
+&emsp;Chapter 10 of title 5 shall not apply to any committee, board, commission, panel, task force, or similar entity, created solely for the purpose of judging prize competitions under this section.
 
 #### (l) Administering the competition
 
@@ -158,11 +158,11 @@ The head of an agency may enter into a grant, contract, cooperative agreement, o
 
 #### (A) Announcement
 
-&emsp;&emsp;No prize competition may be announced under subsection (f) until all the funds needed to pay out the announced amount of the cash prize purse have been appropriated orcommitted in writing by a private or State, United States territory, local, or tribal government source.
+&emsp;&emsp;No prize competition may be announced under subsection (f) until all the funds needed to pay out the announced amount of the cash prize purse have been appropriated or committed in writing by a private or State, United States territory, local, or tribal government source.
 
 #### (B) Increase in amount
 
-&emsp;&emsp;The head of an agency may increase the amount of a cash prize purse or non-cash prize award after an initial announcement is made under subsection (f) only if—
+&emsp;&emsp;The head of an agency may increase the amount of a cash prize purse or non-cashprize award after an initial announcement is made under subsection (f) only if—
 
 &emsp;&emsp;&emsp;(i) notice of the increase is provided in the same manner as the initial notice of the prize competition; and
 
@@ -230,15 +230,13 @@ Not later than 180 days after January 6, 2017, the General Services Administrati
 
 &emsp;&emsp;A description of crosscutting topical areas and agency-specific mission needs that may be the strongest opportunities for prize competitions during the upcoming 2 fiscal years.
 
-(Pub. L. 96–480, §24, as added Pub. L. 111–358, title I, §105(a), Jan. 4, 2011, 124 Stat. 3989; amended Pub. L. 114–329, title IV, §401(b), Jan. 6, 2017, 130 Stat. 3016.)
+(Pub. L. 96–480, §24, as added Pub. L. 111–358, title I, §105(a), Jan. 4, 2011, 124 Stat. 3989; amended Pub. L. 114–329, title IV, §401(b), Jan. 6, 2017, 130 Stat. 3016; Pub. L. 117–286, §4(a)(71), Dec. 27, 2022, 136 Stat. 4313.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (k)(4). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and"Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2017</b>—Subsec. (c). Pub. L. 114–329, §401(b)(1)(A), (B), substituted "Prize competitions" for "Prizes" in heading and "prize competition may be 1 or more of the following types of activities" for "prize may be one or more of the following" in introductory provisions.
 

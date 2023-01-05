@@ -4,7 +4,7 @@
 
 The Administrator is authorized to conduct in the Environmental Protection Agency, and to make grants to any State, municipality, or intermunicipal or interstate agency for the purpose of assisting in the development of—
 
-&emsp;(1) any project which will demonstrate a new or improved method of preventing, reducing,and eliminating the discharge into any waters of pollutants from sewers which carry storm water or both storm water and pollutants; or
+&emsp;(1) any project which will demonstrate a new or improved method of preventing, reducing, and eliminating the discharge into any waters of pollutants from sewers which carry storm water or both storm water and pollutants; or
 
 &emsp;(2) any project which will demonstrate advanced waste treatment and water purification methods (including the temporary use of new or improved chemical additives which provide substantial immediate improvements to existing treatment processes), or new or improved methods of joint treatment systems for municipal and industrial wastes;
 
@@ -26,7 +26,7 @@ In carrying out the provisions of this section, the Administrator shall conduct,
 
 &emsp;(2) advanced waste treatment methods applicable to point and nonpoint sources, including inplace or accumulated sources of pollutants, and methods for reclaiming and recycling water and confining pollutants so they will not migrate to cause water or other environmental pollution; and
 
-&emsp;(3) improved methods and procedures to identify and measure the effects of pollutants on the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
+&emsp;(3) improved methods and procedures to identify and measure the effects of pollutantson the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
 
 #### (e) Research and demonstration projects covering agricultural pollution and pollution from sewage in rural areas; dissemination of information
 

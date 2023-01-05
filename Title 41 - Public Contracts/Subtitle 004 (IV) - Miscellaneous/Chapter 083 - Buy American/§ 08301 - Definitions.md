@@ -46,7 +46,7 @@ In paragraph (2), the words "when used in a geographical sense" are omitted as u
 
 #### Build America, Buy America
 
-Pub. L. 117–58, div. G, title IX, Nov. 15, 2021, 135 Stat. 1294, provided that:
+Pub. L. 117–58, div. G, title IX, Nov. 15, 2021, 135 Stat. 1294, as amended by Pub. L. 117–167, div. B, title II, §10254, Aug. 9, 2022, 136 Stat. 1502, provided that:
 
 #### <b>"Subtitle A—Build America, Buy America</b>
 
@@ -542,7 +542,7 @@ Review of reciprocal procurement memoranda of understanding.—The Made in Ameri
 
 "(e)
 
-Report on Use of Made in America Laws.—The Made in America Director shall submit to the relevant congressional committees a summary of each report on the use of Made in America Laws received by the Made in America Director pursuant to section 11 of Executive Order 14005, dated January 25, 2021 (relating to ensuring the future is made in all of America by all of America's workers) not later than 90 days after the date of the enactment of this Act or receipt of the reports required under section 11 of such Executive Order, whichever is later.
+Report on Use of Made in America Laws.—The Made in America Director shall submit to the relevant congressional committees a summary of each report on the use of Made in America Laws received by the Made in America Director pursuant to section 11 of Executive Order 14005, dated January 25, 2021 (relating to ensuring the future is made in all of America by all of America's workers) \[set out below\] not later than 90 days after the date of the enactment of this Act or receipt of the reports required under section 11 of such Executive Order, whichever is later.
 
 "(f)
 
@@ -570,7 +570,7 @@ Use of Hollings Manufacturing Extension Partnership to Refer New Businesses to C
 
 "(b)
 
-Automatic Enrollment in GSA Advantage!.—The Administrator of the General Services Administration and the Secretary of Commerce, acting through the Under Secretary of Commerce for Standards and Technology, shall jointly ensure that each business that participates in the Hollings Manufacturing Extension Partnership is automatically enrolled in General Services Administration Advantage!.
+Automatic Enrollment in GSA Advantage.—The Administrator of the General Services Administration and the Secretary of Commerce, acting through the Under Secretary of Commerce for Standards and Technology, shall jointly ensure that businesses that participate in the Hollings Manufacturing Extension Partnership, and so desire, are automatically enrolled in General Services Administration Advantage.
 
 #### "SEC. 70925. UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.
 
@@ -608,7 +608,7 @@ Waiver.—The term 'waiver', with respect to the acquisition of an article, mate
 
 &emsp;&emsp;"(B) A determination by the head of the Federal agency concerned that the cost of the acquisition is unreasonable.
 
-&emsp;&emsp;"(C) A determination by the head of the Federal agency concerned that the article, material, or supply is not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities of a satisfactory quality.
+&emsp;&emsp;"(C) A determination by the head of the Federal agency concerned that the article, material, or supply is not mined, produced, or manufactured in theUnited States in sufficient and reasonably available commercial quantities of a satisfactory quality.
 
 #### "SEC. 70927. PROSPECTIVE AMENDMENTS TO INTERNAL CROSS-REFERENCES.
 
@@ -838,7 +838,7 @@ United states.—The term 'United States' means the 50 States, the District of C
 
 "(b)
 
-Contract Requirements for Domestic Production.—Beginning 90 days after the date of the enactment of this Act \[Nov. 15, 2021\], in order to ensure the sustainment and expansion of personal protective equipment manufacturing in the United States and meet the needs of the current pandemic response, any contract for the procurement of personal protective equipment entered into by a covered Secretary, or a covered Secretary's designee, shall—
+Contract Requirements for Domestic Production.—Beginning 90 days after the date of the enactment of this Act \[Nov. 15, 2021\], in order to ensure the sustainment and expansion of personal protective equipment manufacturing in the United States and meet the needs of the current pandemic response, any contract for the procurement of personal protectiveequipment entered into by a covered Secretary, or a covered Secretary's designee, shall—
 
 &emsp;"(1) be issued for a duration of at least 2 years, plus all option periods necessary, to incentivize investment in the production of personal protective equipment and the materials and components thereof in the United States; and
 
@@ -874,7 +874,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultationwith the covered Secretaries, shall submit to the chairs and ranking members of the appropriate congressional committees a report on the procurement of personal protective equipment.
+In general.—Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the covered Secretaries, shall submit to the chairs and ranking members of the appropriate congressional committees a report on the procurement of personal protective equipment.
 
 &emsp;"(2)
 
@@ -936,7 +936,7 @@ Ex. Ord. No. 13858, Jan. 31, 2019, 84 F.R. 2039, as amended by Ex. Ord. No. 1400
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to strengthen Buy-American principles in Federal financial assistance programs, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. As expressed in Executive Order 13788 of April 18, 2017 (Buy American and Hire American) \[set out above\], it is the policy of the executive branch to maximize, consistent with law, the use of goods, products, and materials produced in the United States, in Federal procurements and through the terms and conditions of Federal financial assistance awards.
+Section 1. <i>Policy</i>. As expressed in Executive Order 13788 of April 18, 2017 (Buy American and Hire American) \[formerly set out above\], it is the policy of the executive branch to maximize, consistent with law, the use of goods, products, and materials produced in the United States, in Federal procurements and through the terms and conditions of Federal financial assistance awards.
 
 Sec. 2. <i>Definitions</i>. As used in this order:
 
@@ -946,7 +946,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (c) "Manufactured products" means items and construction materials composed in whole or in part of non-ferrous metals such as aluminum; plastics and polymer-based products such as polyvinyl chloride pipe; aggregates such as concrete; glass, including optical fiber; and lumber.
 
-(d) "Infrastructure project" means a project to develop public or private physical assets that are designed to provide or support services to the general public in the following sectors: surface transportation, including roadways, bridges, railroads, and transit; aviation; ports, including navigational channels; water resources projects; energy production, generation, and storage, including from fossil-fuels, renewable, nuclear, and hydroelectric sources; electricity transmission; gas, oil, and propane storage and transmission; electric, oil, natural gas, and propane distribution systems; broadband internet; pipelines; stormwater and sewer infrastructure; drinking water infrastructure; cybersecurity; and any other sector designated through a notice published in the Federal Register by the Federal Permitting Improvement Steering Council.
+(d) "Infrastructure project" means a project to develop public or private physical assets that are designed to provide or support services to the general public in the following sectors: surface transportation, including roadways, bridges, railroads, and transit; aviation; ports, including navigational channels; water resources projects; energy production, generation, andstorage, including from fossil-fuels, renewable, nuclear, and hydroelectric sources; electricity transmission; gas, oil, and propane storage and transmission; electric, oil, natural gas, and propane distribution systems; broadband internet; pipelines; stormwater and sewer infrastructure; drinking water infrastructure; cybersecurity; and any other sector designated through a notice published in the Federal Register by the Federal Permitting Improvement Steering Council.
 
 (e) "Covered program" means any program for which a focus of the statutory authorities under which it is administered is the award of Federal financial assistance for the alteration, construction, conversion, demolition, extension, improvement, maintenance, reconstruction, rehabilitation, or repair of an infrastructure project in the United States, except that this term shall not include:
 
@@ -960,7 +960,7 @@ Sec. 3. <i>Application of Buy-American Principles to Covered Programs</i>. (a) W
 
 (b) The head of each agency administering a covered program shall include in the report required by section 4 of this order a detailed explanation of the strategy, plan, or program developed to satisfy the requirement of subsection (a) of this section.
 
-Sec. 4. <i>Identification of Opportunities to Maximize the Use of Buy-American Principles</i>. Within 120 days of thedate of this order, the head of each agency administering a covered program shall identify in a report to the President, through the Assistant to the President for Trade and Manufacturing Policy, any tools, techniques, terms, or conditions that have been used or could be used, consistent with law and in furtherance of the policy set forth in section 1 of this order, to maximize the use of iron and aluminum as well as steel, cement, and other manufactured products produced in the United States in contracts, sub-contracts, purchase orders, or sub-awards that are chargeable against Federal financial assistance awards for infrastructure projects. In preparing this report, the agency head shall take care to analyze whether covered programs within the agency head's jurisdiction would support, through terms and conditions on new Federal financial assistance awards under such covered programs, the imposition of a requirement to use iron and aluminum as well as steel, cement, and other manufactured products produced in the United States in contracts, sub-contracts, purchase orders, or sub-awards that are chargeable against such Federal financial assistance awards.
+Sec. 4. <i>Identification of Opportunities to Maximize the Use of Buy-American Principles</i>. Within 120 days of the date of this order, the head of each agency administering a covered program shall identify in a report to the President, through the Assistant to the President for Trade and Manufacturing Policy, any tools, techniques, terms, or conditions that have been used or could be used, consistent with law and in furtherance of the policy set forth in section 1 of this order, to maximize the use of iron and aluminum as well as steel, cement, and other manufactured products produced in the United States in contracts, sub-contracts, purchase orders, or sub-awards that are chargeable against Federal financial assistance awards for infrastructure projects. In preparing this report, the agency head shall take care to analyze whether covered programs within the agency head's jurisdiction would support, through terms and conditions on new Federal financial assistance awards under such covered programs, the imposition of a requirement to use iron and aluminum as well as steel, cement, and other manufactured products produced in the United States in contracts, sub-contracts, purchase orders, or sub-awards that are chargeable against such Federal financial assistance awards.
 
 Sec. 5. \[Amended Ex. Ord. No. 13788, set out above; revoked by Ex. Ord. No. 14005, §14(a), Jan. 25, 2021, 86 F.R. 7478.\]
 
@@ -996,7 +996,7 @@ Sec. 2. <i>Proposed Rules</i>. (a) Within 180 days of the date of this order \[J
 
 &emsp;(B) for all other end products, the cost of the foreign products used in such end products constitutes 45 percent or more of the cost of all the products used in such end products; and
 
-(ii) an amendment to the applicable provisions in the FAR that would provide that the executive agency concerned shall in each instance conduct the reasonableness and public interest determination referred to in sections 8302 and 8303 of title 41, United States Code, on the basis of the following-described differential formula, subject to the terms thereof: the sum determined by computing 20 percent (for other than small businesses), or 30 percent (for small businesses), of the offer or offered price of materials of foreign origin.
+(ii) an amendment to the applicable provisions in the FAR that would provide that the executive agency concerned shall in each instance conduct the reasonableness and public interest determination referred to insections 8302 and 8303 of title 41, United States Code, on the basis of the following-described differential formula, subject to the terms thereof: the sum determined by computing 20 percent (for other than small businesses), or 30 percent (for small businesses), of the offer or offered price of materials of foreign origin.
 
 (b) The FAR Council shall consider and evaluate public comments on any regulations proposed pursuant to section 2(a) of this order and shall promptly issue a final rule, if appropriate and consistent with applicable law and the national security interests of the United States. The head of each executive agency shall issue such regulations as may be necessary to ensure that agency procurement practices conform to the provisions of any final rule issued pursuant to this order.
 
@@ -1100,7 +1100,7 @@ Sec. 12. <i>Bi-Annual Report on Made in America Laws</i>. Bi-annually following 
 
 (d) recommendations for how to further effectuate the policy set forth in section 1 of this order.
 
-Sec. 13. <i>Ensuring Implementation of Administration Policy on Federal Government Property</i>. Within 180 days of the date of this order, the Administrator of General Services shall submit to the Made in America Director recommendations for ensuring that products offered to the general public on Federal property are procured in accordance with the policy set forth in section 1 of this order.
+Sec. 13. <i>Ensuring Implementation of Administration Policy on Federal Government Property</i>. Within 180 days ofthe date of this order, the Administrator of General Services shall submit to the Made in America Director recommendations for ensuring that products offered to the general public on Federal property are procured in accordance with the policy set forth in section 1 of this order.
 
 Sec. 14. <i>Revocation of Certain Presidential and Regulatory Actions</i>. (a) Executive Order 13788 of April 18, 2017 (Buy American and Hire American) \[formerly set out above\], section 5 of Executive Order 13858 of January 31, 2019 (Strengthening Buy-American Preferences for Infrastructure Projects) \[set out above\], and Executive Order 13975 of January 14, 2021 (Encouraging Buy American Policies for the United States Postal Service) \[39 U.S.C. 401 note\], are hereby revoked.
 

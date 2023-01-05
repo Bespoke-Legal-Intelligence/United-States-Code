@@ -46,9 +46,9 @@
 
 &emsp;(1) any firearm or ammunition to any individual who the licensee knows or has reasonable cause to believe is less than eighteen years of age, and, if the firearm, or ammunition is other than a shotgun or rifle, or ammunition for a shotgun or rifle, to any individual who the licensee knows or has reasonable cause to believe is less than twenty-one years of age;
 
-&emsp;(2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation ofany State law or any published ordinance applicable at the place of sale, delivery or other disposition, unless the licensee knows or has reasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance;
+&emsp;(2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation of any State law or any published ordinance applicable at the place of sale, delivery or other disposition, unless the licensee knows or has reasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance;
 
-&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
+&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actualknowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
 &emsp;(4) to any person any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Attorney General consistent with public safety and necessity; and
 
@@ -74,7 +74,7 @@
 
 > A copy of the sworn statement and a copy of the notification to the local law enforcement officer, together with evidence of receipt or rejection of that notification shall be retained by the licensee as a part of the records required to be kept under section 923(g).
 
-(d) It shall be unlawful for any person to sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe that such person—
+(d) It shall be unlawful for any person to sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe that such person, including as a juvenile—
 
 &emsp;(1) is under indictment for, or has been convicted in any court of, a crime punishable by imprisonment for a term exceeding one year;
 
@@ -82,7 +82,7 @@
 
 &emsp;(3) is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802));
 
-&emsp;(4) has been adjudicated as a mental defective or has been committed to any mental institution;
+&emsp;(4) has been adjudicated as a mental defective or has been committed to any mental institution at 16 years of age or older;
 
 &emsp;(5) who, being an alien—
 
@@ -100,11 +100,15 @@
 
 &emsp;&emsp;(B)(i) includes a finding that such person represents a credible threat to the physical safety of such intimate partner or child; or
 
-&emsp;&emsp;(ii) by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury; or
+&emsp;&emsp;(ii) by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury;
 
-&emsp;(9) has been convicted in any court of a misdemeanor crime of domestic violence.
+&emsp;(9) has been convicted in any court of a misdemeanor crime of domestic violence;
 
-> This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 of this chapter is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925 of this chapter.
+&emsp;(10) intends to sell or otherwise dispose of the firearm or ammunition in furtherance of a felony, a Federal crime of terrorism, or a drugtrafficking offense (as such terms are defined in section 932(a)); or
+
+&emsp;(11) intends to sell or otherwise dispose of the firearm or ammunition to a person described in any of paragraphs (1) through (10).
+
+> This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925.
 
 (e) It shall be unlawful for any person knowingly to deliver or cause to be delivered to any common or contract carrier for transportation or shipment in interstate or foreign commerce, to persons other than licensed importers, licensed manufacturers, licensed dealers, or licensed collectors, any package or other container in which there is any firearm or ammunition without written notice to the carrier that such firearm or ammunition is being transported or shipped; except that any passenger who owns or legally possesses a firearm or ammunition being transported aboard any common or contract carrier for movement with the passenger in interstate or foreign commerce may deliver said firearm or ammunition into the custody of the pilot, captain, conductor or operator of such common or contract carrier for the duration of the trip without violating any of the provisions of this chapter. No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.
 
@@ -154,7 +158,7 @@
 
 (i) It shall be unlawful for any person to transport or ship in interstate or foreign commerce, any stolen firearm or stolen ammunition, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
 
-(j) It shall be unlawful for any person to receive, possess, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, whichis moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, either before or after it was stolen, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
+(j) It shall be unlawful for any person to receive, possess, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, either before or after it was stolen, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
 
 (k) It shall be unlawful for any person knowingly to transport, ship, or receive, in interstate or foreign commerce, any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered or to possess or receive any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered and has, at any time, been shipped or transported in interstate or foreign commerce.
 
@@ -214,7 +218,7 @@
 
 &emsp;(D) in fact, even before the sale of a firearm, the gun, its component parts, ammunition, and the raw materials from which they are made have considerably moved in interstate commerce;
 
-&emsp;(E) while criminals freely move from State to State, ordinary citizens and foreign visitors may fear to travel to or through certain parts of the country due to concern about violent crime and gun violence, and parents may decline to send their children to school for the same reason;
+&emsp;(E) while criminals freely move from State to State, ordinary citizens and foreign visitorsmay fear to travel to or through certain parts of the country due to concern about violent crime and gun violence, and parents may decline to send their children to school for the same reason;
 
 &emsp;(F) the occurrence of violent crime in school zones has resulted in a decline in the quality of education in our country;
 
@@ -276,7 +280,7 @@
 
 &emsp;&emsp;&emsp;(II) verified the identity of the transferee by examining the identification document presented;
 
-&emsp;&emsp;&emsp;(III) within 1 day after the transferee furnishes the statement, provided notice ofthe contents of the statement to the chief law enforcement officer of the place of residence of the transferee; and
+&emsp;&emsp;&emsp;(III) within 1 day after the transferee furnishes the statement, provided notice of the contents of the statement to the chief law enforcement officer of the place of residence of the transferee; and
 
 &emsp;&emsp;&emsp;(IV) within 1 day after the transferee furnishes the statement, transmitted a copy of the statement to the chief law enforcement officer of the place of residence of the transferee; and
 
@@ -342,7 +346,7 @@
 
 &emsp;(B) the chief law enforcement officer of the place of residence of the transferee.
 
-(5) Any transferor who receives information, not otherwise available to the public, in a reportunder this subsection shall not disclose such information except to the transferee, to law enforcement authorities, or pursuant to the direction of a court of law.
+(5) Any transferor who receives information, not otherwise available to the public, in a report under this subsection shall not disclose such information except to the transferee, to law enforcement authorities, or pursuant to the direction of a court of law.
 
 (6)(A) Any transferor who sells, delivers, or otherwise transfers a handgun to a transferee shall retain the copy of the statement of the transferee with respect to the handgun transaction, and shall retain evidence that the transferor has complied with subclauses (III) and (IV) of paragraph (1)(A)(i) with respect to the statement.
 
@@ -372,11 +376,23 @@
 
 &emsp;(B)(i) the system provides the licensee with a unique identification number; or
 
-&emsp;(ii) 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section; and
+&emsp;(ii) subject to subparagraph (C), 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law;
 
-&emsp;(C) the transferor has verified the identity of the transferee by examining a valid identification document (as defined in section 1028(d) of this title) of the transferee containing a photograph of the transferee.
+&emsp;(C) in the case of a person less than 21 years of age, in addition to all other requirements of this chapter—
 
-(2) If receipt of a firearm would not violate subsection (g) or (n) or State law, the system shall—
+&emsp;&emsp;(i) the system provides the licensee with a unique identification number;
+
+&emsp;&emsp;(ii) 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that cause exists to further investigate a possibly disqualifying juvenile record under subsection (d); or
+
+&emsp;&emsp;(iii) in the case of such a person with respect to whom the system notifies the licensee in accordance with clause (ii) that cause exists to further investigate a possibly disqualifying juvenile record under subsection (d), 10 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that—
+
+&emsp;&emsp;&emsp;(I) transferring the firearm to the other person would violate subsection (d) of this section; or
+
+&emsp;&emsp;&emsp;(II) receipt of a firearm by the other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law; and
+
+&emsp;(D) the transferor has verified the identity of the transferee by examining a valid identification document (as defined in section 1028(d) of this title) of the transferee containing a photograph of the transferee.
+
+(2) If transfer or receipt of a firearm would not violate subsection (d), (g), or (n) (as applicable) or State, local or Tribal law, the system shall—
 
 &emsp;(A) assign a unique identification number to the transfer;
 
@@ -398,15 +414,15 @@
 
 &emsp;(C) on application of the transferor, the Attorney General has certified that compliance with paragraph (1)(A) is impracticable because—
 
-&emsp;&emsp;(i) the ratio of the number of law enforcement officers of the State in which the transfer is to occur to the number of square miles of land area of the State does not exceed 0.0025;
+&emsp;&emsp;(i) the ratio of the number of law enforcement officers of the State in which the transfer is to occur to the number of squaremiles of land area of the State does not exceed 0.0025;
 
 &emsp;&emsp;(ii) the business premises of the licensee at which the transfer is to occur are extremely remote in relation to the chief law enforcement officer (as defined in subsection (s)(8)); and
 
 &emsp;&emsp;(iii) there is an absence of telecommunications facilities in the geographical area in which the business premises are located.
 
-(4) If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the receipt of a firearm by such other person would violate subsection (g) or (n) or State law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the uniqueidentification number provided by the system with respect to the transfer.
+(4) If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the transfer of a firearm to or receipt of a firearm by such other person would violate subsection (d), (g), or (n) (as applicable) or State <sup>5</sup> local, or Tribal law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the unique identification number provided by the system with respect to the transfer.
 
-(5) If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that receipt of a firearm by such other person would violate subsection (g) or (n) of this section or State law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
+(5) If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that transfer of a firearm to or receipt of a firearm by such other person would violate subsection (d), (g), or (n) (as applicable) of this section or State <sup>5</sup> local, or Tribal law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
 
 (6) Neither a local government nor an employee of the Federal Government or of any State or local government, responsible for providing information to the national instant criminal background check system shall be liable in an action at law for damages—
 
@@ -452,7 +468,7 @@
 
 &emsp;(D) the possession of a handgun or ammunition by a juvenile taken in defense of the juvenile or other persons against an intruder into the residence of the juvenile or a residence in which the juvenile is an invited guest.
 
-(4) A handgun or ammunition, the possession of which is transferred to a juvenile in circumstances in which the transferor is not in violation of this subsection shall not be subject to permanent confiscation by the Government if its possession by the juvenile subsequently becomes unlawful because of the conduct of the juvenile, but shall be returned to the lawful owner when such handgun or ammunition is no longer required by the Government for the purposes of investigation or prosecution.
+(4) A handgun or ammunition, the possession of which is transferred to a juvenile in circumstances in which the transferor is not in violation of this subsection shall not be subject to permanent confiscation by the Government if its possession by the juvenile subsequently becomes unlawful because of the conduct of the juvenile, but shall be returned to the lawful owner when such handgun or ammunition is no longerrequired by the Government for the purposes of investigation or prosecution.
 
 (5) For purposes of this subsection, the term "juvenile" means a person who is less than 18 years of age.
 
@@ -566,9 +582,11 @@ Defined term.—As used in this paragraph, the term "qualified civil liability a
 
 #### <b>\[APPENDIX A Repealed. Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000\]</b>
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377,title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, §11412(c)(2), Dec. 4, 2015, 129 Stat. 1688.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, §11412(c)(2), Dec. 4, 2015, 129 Stat. 1688; Pub. L. 117–103, div. W, title XI, §1104(b), Mar. 15, 2022, 136 Stat. 921; Pub. L. 117–159, div. A, title II, §§12001(a)(1), (3), 12004(b), June 25, 2022, 136 Stat. 1322, 1324, 1329.)
 
 #### Amendment of Section
+
+<i>For repeal of amendment by section 12001(a)(3) of Pub. L. 117–159, see Effective and Termination Dates of 2022 Amendment note below.</i>
 
 <i>Pub. L. 100–649, §2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, §1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.</i>
 
@@ -595,6 +613,32 @@ Section 102 of the Controlled Substances Act, referred to in subsec. (s)(3)(B)(i
 Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec. (t)(1), is section 103 of Pub. L. 103–159, which is classified to section 40901 of Title 34, Crime Control and Law Enforcement.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–159, §12004(b)(3), in concluding provisions, substituted "This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925." for "This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 of this chapter is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925 of this chapter."
+
+Pub. L. 117–159, §12001(a)(1)(A)(i), inserted ", including as a juvenile" after "such person" in introductory provisions.
+
+Subsec. (d)(4). Pub. L. 117–159, §12001(a)(1)(A)(ii), inserted "at 16 years of age or older" after "institution".
+
+Subsec. (d)(10), (11). Pub. L. 117–159, §12004(b), added pars. (10) and (11).
+
+Subsec. (t)(1)(B)(ii). Pub. L. 117–159, §12001(a)(1)(B)(i)(I)(aa), (3), temporarily inserted "subject to subparagraph (C)," before "3 business days". See Effective and Termination Dates of 2022 Amendment note below.
+
+Pub. L. 117–103, §1104(b)(1), inserted ", or State, local, or Tribal law" after "subsection (g) or (n) of this section".
+
+Subsec. (t)(1)(C), (D). Pub. L. 117–159, §12001(a)(1)(B)(i)(I)(bb)–(III), (3), temporarily added subpar. (C) and redesignated former subpar. (C) as (D). See Effective and Termination Dates of 2022 Amendment note below.
+
+Subsec. (t)(2). Pub. L. 117–159, §12001(a)(1)(B)(ii), (3), temporarily inserted "transfer or" before "receipt" and substituted "(d), (g), or (n) (as applicable)" for "(g) or (n)" in introductory provisions. See Effective and Termination Dates of 2022 Amendment note below.
+
+Pub. L. 117–103, §1104(b)(2), inserted ", local or Tribal" after "State" in introductory provisions.
+
+Subsec. (t)(4). Pub. L. 117–159, §12001(a)(1)(B)(iii), (3), temporariy inserted "transfer of a firearm to or" before "receipt" and substituted "(d), (g), or (n) (as applicable)" for "(g) or (n)". See Effective and Termination Dates of 2022 Amendment note below.
+
+Pub. L. 117–103, §1104(b)(3), inserted "local, or Tribal" after "State".
+
+Subsec. (t)(5). Pub. L. 117–159, §12001(a)(1)(B)(iv), (3), temporarily inserted "transfer of a firearm to or" before "receipt" and substituted "(d), (g), or (n) (as applicable)" for "(g) or (n)". See Effective and Termination Dates of 2022 Amendment note below.
+
+Pub. L. 117–103, §1104(b)(4), inserted "local, or Tribal" after "State".
 
 <b>2015</b>—Subsec. (z)(2)(B). Pub. L. 114–94 substituted "directly employed by or contracted by" for "employed by".
 
@@ -676,7 +720,7 @@ Subsec. (t). Pub. L. 103–159, §102(b), added subsec. (t).
 
 Subsec. (u). Pub. L. 103–159, §302(c), added subsec. (u).
 
-<b>1990</b>—Subsec. (a)(5). Pub. L. 101–647, §2201, substituted "does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides;" for "resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);".
+<b>1990</b>—Subsec. (a)(5). Pub. L. 101–647, §2201, substituted "does not reside in (or if the person is a corporation orother business entity, does not maintain a place of business in) the State in which the transferor resides;" for "resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);".
 
 Subsec. (b)(1). Pub. L. 101–647, §3524, as amended by Pub. L. 103–322, §330011(i), substituted semicolon for period at end.
 
@@ -798,6 +842,12 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to Pub. L. 91–375, §6(o), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
 
+#### Effective and Termination Dates of 2022 Amendment
+
+Pub. L. 117–159, div. A, title II, §12001(a)(3), June 25, 2022, 136 Stat. 1324, provided that: "Effective on September 30, 2032, paragraphs (1)(B) and (2) \[amending this section and section 40901 of Title 34, Crime Control and Law Enforcement\] are repealed, and the provisions of law amended by those paragraphs are restored as if those paragraphs had not been enacted."
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022,see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -865,6 +915,10 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsec. (l) effect
 #### Effective Date
 
 Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under section 921 of this title.
+
+#### Rule of Construction
+
+Pub. L. 117–159, div. A, title II, §12004(k), June 25, 2022, 136 Stat. 1332, provided that: "Nothing in this section \[enacting sections 932 to 934 of this title, amending this section, sections 924, 1956, 1961, and 2516 of this title, section 240 of Title 6, Domestic Security, section 534 of Title 28, Judiciary and Judicial Procedure, and section 40901 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under sections 509 and 534 of Title 28, listed in a table relating to sentencing guidelines set out under section 994 of Title 28, and set out as a note preceding section 41101 of Title 34\], or an amendment made by this section, shall be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions."
 
 #### Purposes
 
@@ -951,4 +1005,6 @@ Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4297, which
 <i><sup>3</sup></i><i> So in original. Probably should be followed by "of".</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

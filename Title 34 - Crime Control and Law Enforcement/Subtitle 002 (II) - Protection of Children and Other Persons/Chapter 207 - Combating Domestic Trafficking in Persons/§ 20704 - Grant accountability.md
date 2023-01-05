@@ -56,7 +56,7 @@ All covered grants shall be subject to the following accountability provisions:
 
 #### (B) Written approval
 
-&emsp;&emsp;Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audiovisual equipment, honoraria for speakers, and any entertainment.
+&emsp;&emsp;Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, includingthe cost of all food and beverages, audiovisual equipment, honoraria for speakers, and any entertainment.
 
 #### (C) Report
 
@@ -103,6 +103,8 @@ Section 103, referred to in subsec. (a), means section 103 of Pub. L. 114–22. 
 This title, referred to in subsec. (b)(3)(A), (4)(A), is title I of Pub. L. 114–22, May 29, 2015, 129 Stat. 228. For complete classification of title I to the Code, see Tables.
 
 #### Codification
+
+Section was enacted as part of the Justice for Victims of Trafficking Act of 2015, and not as part of title II of the Trafficking Victims Protection Reauthorization Act of 2005 which comprises this chapter.
 
 Section was formerly classified to section 14044b–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
@@ -168,7 +170,7 @@ Prohibition.—A covered grant may not be awarded to a nonprofit organization th
 
 &emsp;&emsp;"(C)
 
-Disclosure.—Each nonprofit organization that is awarded a covered grant and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the applicable covered official, in the application for the covered grant, the process for determining such compensation, including the independent persons involved inreviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, a covered official shall make the information disclosed under this subparagraph available for public inspection.
+Disclosure.—Each nonprofit organization that is awarded a covered grant and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the applicable covered official, in the application for the covered grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, a covered official shall make the information disclosed under this subparagraph available for public inspection.
 
 &emsp;"(3)
 

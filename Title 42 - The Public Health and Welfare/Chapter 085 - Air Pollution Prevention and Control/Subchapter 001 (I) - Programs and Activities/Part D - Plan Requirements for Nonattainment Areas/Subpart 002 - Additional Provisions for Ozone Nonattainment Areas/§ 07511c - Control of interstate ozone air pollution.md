@@ -18,7 +18,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 #### (1) Recommendations
 
-&emsp;Upon petition of any State within a transport region established for ozone, and based ona majority vote of the Governors on the Commission <sup>1</sup> (or their designees), the Commission <sup>1</sup> may, after notice and opportunity for public comment, develop recommendations for additional control measures to be applied within all or a part of such transport region if the commission determines such measures are necessary to bring any area in such region into attainment by the dates provided by this subpart. The commission shall transmit such recommendations to the Administrator.
+&emsp;Upon petition of any State within a transport region established for ozone, and based on a majority vote of the Governors on the Commission <sup>1</sup> (or their designees), the Commission <sup>1</sup> may, after notice and opportunity for public comment, develop recommendations for additional control measures to be applied within all or a part of such transport region if the commission determines such measures are necessary to bring any area in such region into attainment by the dates provided by this subpart. The commission shall transmit such recommendations to the Administrator.
 
 #### (2) Notice and review
 
@@ -26,7 +26,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 &emsp;&emsp;(A) immediately publish in the Federal Register a notice stating that the recommendations are available and provide an opportunity for public hearing within 90 days beginning on the receipt date; and
 
-&emsp;&emsp;(B) commence a review of the recommendations to determine whether the control measures in the recommendations are necessary to bring any area in such region into attainment by the dates provided by this subpart and are otherwise consistent with this chapter.
+&emsp;&emsp;(B) commence a review of the recommendations to determine whether thecontrol measures in the recommendations are necessary to bring any area in such region into attainment by the dates provided by this subpart and are otherwise consistent with this chapter.
 
 #### (3) Consultation
 

@@ -6,7 +6,7 @@ Contracts Covered by Subchapter.—This subchapter applies to any contract for s
 
 (b)
 
-Contractor Justification for Restrictions.—A contract subject to this subchapter shall provide that a contractor under the contract and any subcontractor under the contract at any tier shall be prepared to furnish to the contracting officer a written justification for any use or release restriction (as defined in section 3786 of this title) asserted by the contractor or subcontractor.
+Contractor Justification for Restrictions.—A contract subject to this subchapter shall provide that a contractor under the contract and any subcontractor under the contract at any tier shall be prepared to furnish to the contracting officer a written justification forany use or release restriction (as defined in section 3786 of this title) asserted by the contractor or subcontractor.
 
 (c)
 
@@ -30,7 +30,7 @@ The text of subsecs. (a), (b), and (c) of section 2321 of this title, which were
 
 #### Prior Provisions
 
-A prior section 3781, act Aug. 10, 1956, ch. 1041, 70A Stat. 218; Pub. L. 86–616, §2(a), July 12, 1960, 74 Stat. 386,authorized Secretary of the Army to convene at any time a board of officers to review record of any commissioned officer on active list of Regular Army to determine whether he should be required, because of substandard performance of duty, to show cause for his retention on active list, prior to repeal by Pub. L. 96–513, title II, §213, title VII, §701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981. See section 1181(a) of this title.
+A prior section 3781, act Aug. 10, 1956, ch. 1041, 70A Stat. 218; Pub. L. 86–616, §2(a), July 12, 1960, 74 Stat. 386, authorized Secretary of the Army to convene at any time a board of officers to review record of any commissioned officer on active list of Regular Army to determine whether he should be required, because of substandard performance of duty, to show cause for his retention on active list, prior to repeal by Pub. L. 96–513, title II, §213, title VII, §701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981. See section 1181(a) of this title.
 
 #### Amendments
 

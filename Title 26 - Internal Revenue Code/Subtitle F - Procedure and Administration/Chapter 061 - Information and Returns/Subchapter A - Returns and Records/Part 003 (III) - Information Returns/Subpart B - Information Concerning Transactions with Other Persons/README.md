@@ -41,12 +41,15 @@ Subpart B—Information Concerning Transactions With Other Persons
 | [6050W.](%C2%A7%2006050W%20-%20Returns%20relating%20to%20payments%20made%20in%20settlement%20of%20payment%20card%20and%20third%20party%20network%20transactions.md) | Returns relating to payments made in settlement of payment card and third party network transactions. |
 | [6050X.](%C2%A7%2006050X%20-%20Information%20with%20respect%20to%20certain%20fines%2C%20penalties%2C%20and%20other%20amounts.md) | Information with respect to certain fines, penalties, and other amounts. |
 | [6050Y.](%C2%A7%2006050Y%20-%20Returns%20relating%20to%20certain%20life%20insurance%20contract%20transactions.md) | Returns relating to certain life insurance contract transactions. |
+| [6050Z.](%C2%A7%2006050Z%20-%20Reports%20relating%20to%20long-term%20care%20premium%20statements.md) | Reports relating to long-term care premium statements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. T, title III, §334(d)(3), Dec. 29, 2022, 136 Stat. 5372, added item 6050Z.
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(260)–(262), Mar. 23, 2018, 132 Stat. 1196, added item 6041A and substituted "Returns relating to cash received in trade or business, etc." for "Returns relating to cash received in trade or business, etc.." in item 6050I and "Returns relating to payments made in settlement of payment card and third party network transactions" for "Returns relating to payments made in settlement of payment card transactions" in item 6050W.
 
@@ -56,7 +59,7 @@ Subpart B—Information Concerning Transactions With Other Persons
 
 Pub. L. 110–289, div. C, title III, §3091(d), July 30, 2008, 122 Stat. 2911, added item 6050W.
 
-<b>2006</b>—Pub. L. 109–280, title XII, §1211(a)(2), Aug. 17, 2006, 120 Stat. 1073, which directed the amendment of the analysis for subpart B of part III of subchapter A of chapter 61 by adding item 6050V, without specifying theact to be amended, was executed by adding item 6050V to this analysis, which is part of chapter 61 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Pub. L. 109–280, title XII, §1211(a)(2), Aug. 17, 2006, 120 Stat. 1073, which directed the amendment of the analysis for subpart B of part III of subchapter A of chapter 61 by adding item 6050V, without specifying the act to be amended, was executed by adding item 6050V to this analysis, which is part of chapter 61 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 Pub. L. 109–280, title VIII, §844(d)(3), Aug. 17, 2006, 120 Stat. 1013, added item 6050U.
 
@@ -158,3 +161,4 @@ Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 - [&sect; 06050W - Returns relating to payments made in settlement of payment card and third party network transactions](%C2%A7%2006050W%20-%20Returns%20relating%20to%20payments%20made%20in%20settlement%20of%20payment%20card%20and%20third%20party%20network%20transactions.md)
 - [&sect; 06050X - Information with respect to certain fines, penalties, and other amounts](%C2%A7%2006050X%20-%20Information%20with%20respect%20to%20certain%20fines%2C%20penalties%2C%20and%20other%20amounts.md)
 - [&sect; 06050Y - Returns relating to certain life insurance contract transactions](%C2%A7%2006050Y%20-%20Returns%20relating%20to%20certain%20life%20insurance%20contract%20transactions.md)
+- [&sect; 06050Z - Reports relating to long-term care premium statements](%C2%A7%2006050Z%20-%20Reports%20relating%20to%20long-term%20care%20premium%20statements.md)

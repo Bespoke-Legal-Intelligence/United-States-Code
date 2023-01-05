@@ -12,7 +12,7 @@ Appropriate Members.—In this section, the term "appropriate Members of Congres
 
 Consent of Member Required.—The notification under subsection (a) may be provided only with the consent of the member of the armed forces about whom notification is to be made. In the case of a member who is unable to provide consent, information and consent may be provided by next of kin.
 
-(Added Pub. L. 110–181, div. A, title XVI, §1617(a)(1), Jan. 28, 2008, 122 Stat. 449; amended Pub. L. 115–232, div. A, title VII, §720, Aug. 13, 2018, 132 Stat. 1817.)
+(Added Pub. L. 110–181, div. A, title XVI, §1617(a)(1), Jan. 28, 2008, 122 Stat. 449; amendedPub. L. 115–232, div. A, title VII, §720, Aug. 13, 2018, 132 Stat. 1817.)
 
 #### <b>Editorial Notes</b>
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) any proceeding or custodianship superseded under section 543 of this title;
 
-&emsp;&emsp;(B) any transfer avoided under section 522, 544, 545, 547, 548, 549, or 724(a) of this title, or preserved under section 510(c)(2), 522(i)(2), or 551 of this title; and
+&emsp;&emsp;(B) any transfer avoided under section 522, 544, 545, 547, 548, 549, or 724(a) of this title, orpreserved under section 510(c)(2), 522(i)(2), or 551 of this title; and
 
 &emsp;&emsp;(C) any lien voided under section 506(d) of this title;
 
@@ -28,7 +28,7 @@ Section 349(b)(2) of the House amendment adds a cross reference to section 553 t
 
 Subsection (a) specifies that unless the court for cause orders otherwise, the dismissal of a case is without prejudice. The debtor is not barred from receiving a discharge in a later case of debts that were dischargeable in the case dismissed. Of course, this subsection refers only to pre-discharge dismissals. If the debtor has already received a discharge and it is not revoked, then the debtor would be barred under section 727(a) from receiving a discharge in a subsequent liquidation case for six years. Dismissal of an involuntary on the merits will generally not give rise to adequate cause so as to bar the debtor from further relief.
 
-Subsection (b) specifies that the dismissal reinstates proceedings or custodianships that were superseded by the bankruptcy case, reinstates avoided transfers, reinstates voided liens, vacates any order, judgment, or transfer ordered as a result of the avoidance of a transfer, and revests the property of the estate in the entity in which the property was vested at the commencement of the case. The court is permitted to order a different result for cause. The basic purpose of the subsection is to undo the bankruptcy case, as far as practicable, and to restore all property rights to the position in which they were found at the commencement of the case. This does not necessarily encompass undoing sales of property from the estate to a good faith purchaser. Wherethere is a question over the scope of the subsection, the court will make the appropriate orders to protect rights acquired in reliance on the bankruptcy case.
+Subsection (b) specifies that the dismissal reinstates proceedings or custodianships that were superseded by the bankruptcy case, reinstates avoided transfers, reinstates voided liens, vacates any order, judgment, or transfer ordered as a result of the avoidance of a transfer, and revests the property of the estate in the entity in which the property was vested at the commencement of the case. The court is permitted to order a different result for cause. The basic purpose of the subsection is to undo the bankruptcy case, as far as practicable, and to restore all property rights to the position in which they were found at the commencement of the case. This does not necessarily encompass undoing sales of property from the estate to a good faith purchaser. Where there is a question over the scope of the subsection, the court will make the appropriate orders to protect rights acquired in reliance on the bankruptcy case.
 
 #### <b>Editorial Notes</b>
 

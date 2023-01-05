@@ -8,11 +8,11 @@ The cost of operation and maintenance of the general navigation features of smal
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 91–611, Dec. 31, 1970, 84 Stat. 1818, as amended. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 91–611, Dec. 31, 1970, 84 Stat. 1818. For complete classification of this Act to the Code, see Tables.
 
 Hereafter, referred to in text, probably means after Dec. 31, 1970.
 
 #### Amendments
 
-<b>1974</b>—Pub. L. 93–251 amended section generally. Prior to amendment, section read as follows: "The costs of operation and maintenance of the general navigation features of small boat harbor projects authorized between January 1, 1970, and December 31, 1970, under the authority of this Act, section 201 of the Flood Control Act of 1965 \[42 U.S.C. 1962d–5\], or section 107 of the River and Harbor Act of 1960 \[33 U.S.C. 577\], shall be borne by the United States."
+<b>1974</b>—Pub. L. 93–251 amended section generally. Prior to amendment, section read as follows: "The costs of operation and maintenance of the general navigation features of small boat harbor projects authorized between January 1, 1970, and December 31, 1970, under the authority of this Act, section 201 of the Flood Control Act of 1965 \[42 U.S.C. 1962d–5\], or section 107 of theRiver and Harbor Act of 1960 \[33 U.S.C. 577\], shall be borne by the United States."
 

@@ -22,7 +22,7 @@ The Governor of a State in which an LNG terminal is proposed to be located shall
 
 #### (c) Advisory report
 
-The State agency may furnish an advisory report on State and local safety considerations to the Commission with respect to an application no later than 30 days after the application was filed with the Commission. Before issuing an order authorizing an applicant to site, construct, expand, or operate an LNG terminal, the Commission shall review and respond specifically to the issues raised by the State agency described in subsection (b) in the advisory report. This subsection shall apply to any application filed after August 8, 2005. A State agency has 30 days after August 8, 2005 to file an advisory report related to any applications pending at the Commission as of August 8, 2005.
+The State agency may furnish an advisory report on State and local safety considerations to the Commission with respect to an application no later than 30 days after the application was filed with the Commission. Before issuing anorder authorizing an applicant to site, construct, expand, or operate an LNG terminal, the Commission shall review and respond specifically to the issues raised by the State agency described in subsection (b) in the advisory report. This subsection shall apply to any application filed after August 8, 2005. A State agency has 30 days after August 8, 2005 to file an advisory report related to any applications pending at the Commission as of August 8, 2005.
 
 #### (d) Inspections
 
@@ -44,5 +44,5 @@ The State commission of the State in which an LNG terminal is located may, after
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

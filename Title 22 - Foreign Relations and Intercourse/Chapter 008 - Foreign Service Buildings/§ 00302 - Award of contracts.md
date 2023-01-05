@@ -18,7 +18,7 @@ Eligibility for award of contracts under this chapter or of any other contract b
 
 #### (c) Contracts for construction, etc., in United States
 
-Contracts for construction, alteration, or repair in the United States for or on behalf of anyforeign mission (as defined in section 202(a)(4) <sup>1</sup> of title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4302(a)(4)) may, pursuant to the authority of that title \[22 U.S.C. 4301 et seq.\], only be awarded to or performed by bidders qualifying under subsection (a) (1) or (2) or by nationals of the country for which the contract is being performed who are granted the right of entry into the United States for that purpose.
+Contracts for construction, alteration, or repair in the United States for or on behalf of any foreign mission (as defined in section 202(a)(4) <sup>1</sup> of title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4302(a)(4)) may, pursuant to the authority of that title \[22 U.S.C. 4301 et seq.\], only be awarded to or performed by bidders qualifying under subsection (a) (1) or (2) or by nationals of the country for which the contract is being performed who are granted the right of entry into the United States for that purpose.
 
 #### (d) Discretionary determinations by Secretary of State
 
@@ -34,7 +34,7 @@ This section shall cease to be effective when the Secretary of State determines 
 
 #### References in Text
 
-Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (c), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of this title. Section 202(a)(4) of title II was redesignated section 202(a)(3), and former section 202(a)(5) was redesignated section 202(a)(4), by Pub. L. 103–236, title I, §162(o)(1), Apr. 30, 1994, 108 Stat. 409. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (c), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally tochapter 53 (§4301 et seq.) of this title. Section 202(a)(4) of title II was redesignated section 202(a)(3), and former section 202(a)(5) was redesignated section 202(a)(4), by Pub. L. 103–236, title I, §162(o)(1), Apr. 30, 1994, 108 Stat. 409. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 #### Amendments
 

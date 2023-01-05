@@ -4,7 +4,7 @@
 
 (b) Such articles determined by the Attorney General to be necessary to the health and welfare of aliens detained at any immigrant station, when not otherwise readily procurable by such aliens, may be sold at reasonable prices to such aliens through Government canteens operated by the Service, under such conditions and limitations as the Attorney General shall prescribe.
 
-(c) All rentals or other receipts accruing from the disposal of privileges, and all moneys arising from the sale of articles through Service-operated canteens, authorized by this section, shall be covered into the Treasury to the credit of the appropriation for the enforcement of this subchapter.
+(c) All rentals or other receipts accruing from the disposal of privileges, and all moneys arisingfrom the sale of articles through Service-operated canteens, authorized by this section, shall be covered into the Treasury to the credit of the appropriation for the enforcement of this subchapter.
 
 (June 27, 1952, ch. 477, title II, ch. 9, §285, 66 Stat. 232.)
 
@@ -18,5 +18,5 @@ In subsec. (a), "section 6101 of title 41" substituted for "section 3709 of the 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

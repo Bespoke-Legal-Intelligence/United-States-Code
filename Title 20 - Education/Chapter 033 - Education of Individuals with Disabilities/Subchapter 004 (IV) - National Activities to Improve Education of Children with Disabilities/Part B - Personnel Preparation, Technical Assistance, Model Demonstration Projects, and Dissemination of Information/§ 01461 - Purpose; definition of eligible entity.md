@@ -6,7 +6,7 @@ The purpose of this part is—
 
 &emsp;(1) to provide Federal funding for personnel preparation, technical assistance, model demonstration projects, information dissemination, and studies and evaluations, in order to improve early intervention, educational, and transitional results for children with disabilities; and
 
-&emsp;(2) to assist State educational agencies and local educational agencies in improving their education systems for children with disabilities.
+&emsp;(2) to assist State educational agencies and local educational agencies in improving theireducation systems for children with disabilities.
 
 #### (b) Definition of eligible entity
 

@@ -28,7 +28,7 @@ Authorization of Appropriations.—
 
 &emsp;(1)
 
-In general.—There is authorized to be appropriated to carry out this section$2,500,000 for each of the fiscal years 2018 through 2022.
+In general.—There is authorized to be appropriated to carry out this section $2,500,000 for each of the fiscal years 2018 through 2022.
 
 &emsp;(2)
 

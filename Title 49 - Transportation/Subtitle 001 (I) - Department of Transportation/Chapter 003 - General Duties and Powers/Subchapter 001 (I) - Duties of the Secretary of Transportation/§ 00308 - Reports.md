@@ -94,7 +94,7 @@ Jan. 6, 1983, Pub. L. 97–424, §310, 96 Stat. 2151.
 
 This \[deletion of the last sentence of subsection (a)\] is necessary because section 111(b) of the Congressional Reports Elimination Act of 1982 (Pub. L. 97–375, 96 Stat. 1821) repealed section 602 of the Regional Rail Reorganization Act of 1973 (Pub. L. 93–236, 87 Stat. 1022), which was restated as section 308(a) (last sentence) of title 49 by section 1 of the Act of January 12, 1983 (Pub. L. 97–449, 96 Stat. 2413).
 
-In subsection (e)(1), the words "January of each even-numbered year" are substituted for "January of 1984 and in January of every second year thereafter" to eliminate unnecessary words.
+In subsection (e)(1), the words "January of each even-numbered year" are substituted for "January of 1984and in January of every second year thereafter" to eliminate unnecessary words.
 
 #### <b>Editorial Notes</b>
 
@@ -126,7 +126,7 @@ Definition of Covered Project.—In this section, the term 'covered project' mea
 
 "(b)
 
-Requirement.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], and annually thereafter, the Secretary \[of Transportation\] shall submit to Congress a report on covered projects of theDepartment, which shall include, for each covered project—
+Requirement.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], and annually thereafter, the Secretary \[of Transportation\] shall submit to Congress a report on covered projects of the Department, which shall include, for each covered project—
 
 &emsp;"(1) a brief description of the covered project, including—
 
@@ -244,5 +244,5 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Annual Report on Safety Enforcement Activities of Federal Aviation Administration
 
-Pub. L. 100–202, §101(l) \[title III, §317(a)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–380, and Pub. L. 100–457, title III, §317(a), Sept. 30, 1988, 102 Stat. 2148, which required Secretary of Transportation to transmit to Congress an annual report on Federal Aviation Administration's prior safety enforcement activities including staffing level comparisons, inspector experience and training schedules, criteria used to set annual work programs, annual inspection comparisons, statement of adequacy of internal management controls, status of regulatory changes, list of specific operational measures of effectiveness, schedule showing number of civil penalty cases closed, schedule showing number of enforcementactions taken, and schedules showing aviation industry's safety record, were repealed and reenacted as section 44723 of this title by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1202, 1379.
+Pub. L. 100–202, §101(l) \[title III, §317(a)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–380, and Pub. L. 100–457, title III, §317(a), Sept. 30, 1988, 102 Stat. 2148, which required Secretary of Transportation to transmit to Congress an annual report on Federal Aviation Administration's prior safety enforcement activities including staffing level comparisons, inspector experience and training schedules, criteria used to set annual work programs, annual inspection comparisons, statement of adequacy of internal management controls, status of regulatory changes, list of specific operational measures of effectiveness, schedule showing number of civil penalty cases closed, schedule showing number of enforcement actions taken, and schedules showing aviation industry's safety record, were repealed and reenacted as section 44723 of this title by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1202, 1379.
 

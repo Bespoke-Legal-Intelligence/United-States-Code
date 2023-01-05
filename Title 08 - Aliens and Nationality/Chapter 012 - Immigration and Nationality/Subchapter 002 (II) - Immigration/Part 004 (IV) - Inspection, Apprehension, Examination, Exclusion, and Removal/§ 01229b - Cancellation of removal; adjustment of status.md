@@ -40,13 +40,13 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;&emsp;(iii) the alien has been a person of good moral character during such period, subject to the provisions of subparagraph (C);
 
-&emsp;&emsp;&emsp;(iv) the alien is not inadmissible under paragraph (2) or (3) of section 1182(a) of this title, is not deportable under paragraphs (1)(G) or (2) through (4) of section1227(a) of this title, subject to paragraph (5), and has not been convicted of an aggravated felony; and
+&emsp;&emsp;&emsp;(iv) the alien is not inadmissible under paragraph (2) or (3) of section 1182(a) of this title, is not deportable under paragraphs (1)(G) or (2) through (4) of section 1227(a) of this title, subject to paragraph (5), and has not been convicted of an aggravated felony; and
 
 &emsp;&emsp;&emsp;(v) the removal would result in extreme hardship to the alien, the alien's child, or the alien's parent.
 
 #### (B) Physical presence
 
-&emsp;&emsp;Notwithstanding subsection (d)(2), for purposes of subparagraph (A)(ii) or for purposes of section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence if the alien demonstrates a connection between the absence and the battering or extreme cruelty perpetrated against the alien. No absence or portion of an absence connected to the battering or extreme cruelty shall count toward the 90-day or 180-day limits established in subsection (d)(2). If any absence or aggregate absences exceed 180 days, the absences or portions of the absences will not be considered to break the period of continuous presence. Any such period of time excluded from the 180-day limit shall be excluded in computing the time during which the alien has been physically present for purposes of the 3-year requirement set forth in this subparagraph, subparagraph (A)(ii), and section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).
+&emsp;&emsp;Notwithstanding subsection (d)(2), for purposes of subparagraph (A)(ii) or for purposes of section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reformand Immigrant Responsibility Act of 1996), an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence if the alien demonstrates a connection between the absence and the battering or extreme cruelty perpetrated against the alien. No absence or portion of an absence connected to the battering or extreme cruelty shall count toward the 90-day or 180-day limits established in subsection (d)(2). If any absence or aggregate absences exceed 180 days, the absences or portions of the absences will not be considered to break the period of continuous presence. Any such period of time excluded from the 180-day limit shall be excluded in computing the time during which the alien has been physically present for purposes of the 3-year requirement set forth in this subparagraph, subparagraph (A)(ii), and section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).
 
 #### (C) Good moral character
 
@@ -96,7 +96,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may extend the parole granted under subparagraph (A) until the final adjudication of the application filed by the principal alien under section 1101(a)(15)(T)(ii) of this title.
+&emsp;&emsp;&emsp;The Secretary may extend the parole granted under subparagraph (A) until thefinal adjudication of the application filed by the principal alien under section 1101(a)(15)(T)(ii) of this title.
 
 #### (ii) Other limits on duration
 
@@ -162,7 +162,7 @@ The provisions of subsections (a) and (b)(1) shall not apply to any of the follo
 
 #### (1) Aggregate limitation
 
-&emsp;Subject to paragraphs (2) and (3), the Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effectbefore September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment, or such suspension and adjustment, and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title. The numerical limitation under this paragraph shall apply to the aggregate number of decisions in any fiscal year to cancel the removal (and adjust the status) of an alien, or suspend the deportation (and adjust the status) of an alien, under this section or such section 1254(a) of this title.
+&emsp;Subject to paragraphs (2) and (3), the Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment, or such suspension and adjustment, and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title. The numerical limitation under this paragraph shall apply to the aggregate number of decisions in any fiscal year to cancel the removal (and adjust the status) of an alien, or suspend the deportation (and adjust the status) of an alien, under this section or such section 1254(a) of this title.
 
 #### (2) Fiscal year 1997
 
@@ -186,7 +186,7 @@ Section 1254 of this title, referred to in subsecs. (b)(2)(B), (C), (4), (c)(6),
 
 Section 1182(c) of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–208, div. C, title III, §304(b), Sept. 30, 1996, 110 Stat. 3009–597.
 
-Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsecs. (b)(2)(B), (C), (4), and (e)(3)(A), is section 309 of title III of div. C of Pub. L. 104–208, as amended, which is set out as a note under section 1101 of this title.
+Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsecs. (b)(2)(B), (C), (4), and (e)(3)(A), is section 309 of title III of div. C of Pub. L. 104–208, which is set out as a note under section 1101 of this title.
 
 #### Amendments
 

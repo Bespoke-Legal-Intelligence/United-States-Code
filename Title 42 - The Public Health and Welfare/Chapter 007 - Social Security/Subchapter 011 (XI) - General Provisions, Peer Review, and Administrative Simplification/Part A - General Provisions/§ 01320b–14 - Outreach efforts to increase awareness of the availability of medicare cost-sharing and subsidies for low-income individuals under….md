@@ -12,7 +12,7 @@
 
 #### (2) Content of notice
 
-&emsp;Any notice furnished under paragraph (1) shall state that eligibility for medicare cost-sharing assistance, the transitional assistance under section 1395w–141(f) of this title, or premium and cost-sharing subsidies under section 1395w–114 of this title under such sections is conditioned upon—
+&emsp;Any notice furnished under paragraph (1) shall state that eligibility for medicare cost-sharing assistance, the transitional assistanceunder section 1395w–141(f) of this title, or premium and cost-sharing subsidies under section 1395w–114 of this title under such sections is conditioned upon—
 
 &emsp;&emsp;(A) the individual providing to the State information about income and resources (in the case of an individual residing in a State that imposes an assets test for eligibility for medicare cost-sharing under the medicaid program); and
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(D) Provide information on how the individual may obtain assistance in completing such application and an application under the Medicare Savings Program, including information on how the individual may contact the State health insurance assistance program (SHIP).
 
-&emsp;&emsp;(E) Make the application described in subparagraph (B) and the information described in subparagraphs (A) and (D) available atlocal offices of the Social Security Administration.
+&emsp;&emsp;(E) Make the application described in subparagraph (B) and the information described in subparagraphs (A) and (D) available at local offices of the Social Security Administration.
 
 #### (2) Training personnel in explaining benefit programs and assisting in completing LIS application
 
@@ -70,7 +70,7 @@
 
 #### (ii) Additional amount for low-income subsidy activities
 
-&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner, out of any funds in the Treasury not otherwise appropriated, $24,800,000 for fiscal year 2009 to carry out low-income subsidy activities under section 1395w–114 of this title and the Medicare Savings Program (in accordance with this subsection), to remain available until expended. Such funds shall be in addition to the Social Security Administration's Limitation on Administrative Expenditure appropriations for such fiscal year.
+&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner, out of any funds in theTreasury not otherwise appropriated, $24,800,000 for fiscal year 2009 to carry out low-income subsidy activities under section 1395w–114 of this title and the Medicare Savings Program (in accordance with this subsection), to remain available until expended. Such funds shall be in addition to the Social Security Administration's Limitation on Administrative Expenditure appropriations for such fiscal year.
 
 #### (B) Subsequent funding under agreements
 
@@ -148,7 +148,7 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §911(c)\], Dec. 21, 2000, 114 Stat. 27
 
 #### GAO Report
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §911(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, required the Comptroller General of the United States to conduct a study of the impact of this section on the enrollment of individuals for medicare cost-sharing under the medicaid program and to submit a report on the study no later than 18 months after the initial outreach.
+Pub. L. 106–554, §1(a)(6) \[title IX, §911(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, required the ComptrollerGeneral of the United States to conduct a study of the impact of this section on the enrollment of individuals for medicare cost-sharing under the medicaid program and to submit a report on the study no later than 18 months after the initial outreach.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

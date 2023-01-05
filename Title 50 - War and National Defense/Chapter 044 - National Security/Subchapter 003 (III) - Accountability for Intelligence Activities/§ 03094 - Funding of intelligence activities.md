@@ -4,7 +4,7 @@
 
 Appropriated funds available to an intelligence agency may be obligated or expended for an intelligence or intelligence-related activity only if—
 
-&emsp;(1) those funds were specifically authorized by the Congress for use for such activities; or
+&emsp;(1) those funds were specifically authorized by Congress for use for such intelligence or intelligence-related activities; or
 
 &emsp;(2) in the case of funds from the Reserve for Contingencies of the Central Intelligence Agency and consistent with the provisions of section 3093 of this title concerning any significant anticipated intelligence activity, the Director of the Central Intelligence Agency has notified the appropriate congressional committees of the intent to make such funds available for such activity; or
 
@@ -50,7 +50,7 @@ As used in this section—
 
 &emsp;&emsp;(B) although the funds were not formally requested, the Congress both specifically authorized the appropriation of the funds for the activity and appropriated the funds for the activity.
 
-(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1),\(c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Z), (AA), (5), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 111–259, title III, §362, Oct. 7, 2010, 124 Stat. 2701; Pub. L. 116–92, div. E, title LXVII, §6742(b)(13), Dec. 20, 2019, 133 Stat. 2240.)
+(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Z), (AA), (5), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 111–259, title III, §362, Oct. 7, 2010, 124 Stat. 2701; Pub. L. 116–92, div. E, title LXVII, §6742(b)(13), Dec. 20, 2019, 133 Stat. 2240; Pub. L. 117–103, div. X, title V, §503, Mar. 15, 2022, 136 Stat. 986.)
 
 #### <b>Editorial Notes</b>
 
@@ -59,6 +59,8 @@ As used in this section—
 Section was formerly classified to section 414 of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–103 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "those funds were specifically authorized by the Congress for use for such activities; or".
 
 <b>2019</b>—Subsec. (a)(3)(B). Pub. L. 116–92 realigned margin.
 
@@ -80,7 +82,7 @@ Subsecs. (c) to (e). Pub. L. 102–88, §603, added subsecs. (c) and (d) and red
 
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005,70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 

@@ -80,13 +80,15 @@ Information Technology Modernization.—The Secretary of Defense shall, acting t
 
 &emsp;"(2) Implement cutting-edge marketing opportunities across the defense resale system."
 
+\[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.\]
+
 #### Plan To Obtain Budget-Neutrality for the Defense Commissary System and the Military Exchange System
 
 Pub. L. 114–92, div. A, title VI, §651, Nov. 25, 2015, 129 Stat. 854, provided that:
 
 "(a)
 
-In General.—Not later than March 1, 2016, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a comprehensive plan to achieve by October 1, 2018, budget-neutrality in the delivery of commissary and exchange benefits while meeting the benchmarks set forth in subsection (c). In preparing the report, the Secretary shall consider the report required by section 634 of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3406) and any other previous reports, studies, and surveys of matters appropriate to the report.
+In General.—Not later than March 1, 2016, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a comprehensive plan to achieve by October 1, 2018, budget-neutrality in the delivery of commissary and exchange benefits while meeting the benchmarks set forth in subsection (c). Inpreparing the report, the Secretary shall consider the report required by section 634 of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3406) and any other previous reports, studies, and surveys of matters appropriate to the report.
 
 "(b)
 

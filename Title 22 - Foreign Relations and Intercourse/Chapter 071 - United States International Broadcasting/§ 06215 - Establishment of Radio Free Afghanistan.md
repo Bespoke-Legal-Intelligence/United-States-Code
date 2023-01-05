@@ -28,11 +28,11 @@ Radio Free Afghanistan shall adhere to the same standards of professionalism and
 
 #### References in Text
 
-The United States Information and Educational Exchange Act of 1948, referred to in subsec. (c), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title, and Tables.
+The United States Information and Educational Exchange Act of 1948, referred to in subsec. (c), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title, and Tables.
 
-The United States International Broadcasting Act of 1994, referred to in subsec. (c), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The United States International Broadcasting Act of 1994, referred to in subsec. (c), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-The Foreign Affairs Reform and Restructuring Act of 1998, referred to in subsec. (c), is division G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–761, as amended. For complete classification of division G to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Foreign Affairs Reform and Restructuring Act of 1998, referred to in subsec. (c), is division G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–761. For complete classification of division G to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 #### Codification
 
@@ -42,5 +42,5 @@ Section was enacted as part of the Radio Free Afghanistan Act, and not as part o
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 

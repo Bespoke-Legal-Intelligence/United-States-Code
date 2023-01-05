@@ -16,7 +16,7 @@ The Attorney General shall, subject to amounts made available pursuant to sectio
 
 #### (3) Other requirements
 
-&emsp;The Attorney General shall require a State seeking a grant under this section to document how such State will use the grant tomeet expenses associated with a State's implementation or planned implementation of a DNA arrestee collection process.
+&emsp;The Attorney General shall require a State seeking a grant under this section to document how such State will use the grant to meet expenses associated with a State's implementation or planned implementation of a DNA arrestee collection process.
 
 #### (c) Grant allocation
 

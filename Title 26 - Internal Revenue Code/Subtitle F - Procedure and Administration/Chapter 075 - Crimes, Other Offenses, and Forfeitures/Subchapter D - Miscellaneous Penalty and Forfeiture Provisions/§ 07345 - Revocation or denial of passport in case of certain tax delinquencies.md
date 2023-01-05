@@ -36,7 +36,7 @@ If the Secretary receives certification by the Commissioner of Internal Revenue 
 
 #### (1) In general
 
-&emsp;In the case of an individual with respect to whom the Commissioner makes a certification under subsection (a), the Commissioner shall notify the Secretary (and the Secretary shall subsequently notify the Secretary of State) if such certification is found to be erroneous or if the debt with respect to such certification is fully satisfied or ceases to be a seriously delinquent tax debt by reason of subsection (b)(2).
+&emsp;In the case of an individual with respect to whom the Commissioner makes a certification under subsection (a), the Commissioner shallnotify the Secretary (and the Secretary shall subsequently notify the Secretary of State) if such certification is found to be erroneous or if the debt with respect to such certification is fully satisfied or ceases to be a seriously delinquent tax debt by reason of subsection (b)(2).
 
 #### (2) Timing of notice
 

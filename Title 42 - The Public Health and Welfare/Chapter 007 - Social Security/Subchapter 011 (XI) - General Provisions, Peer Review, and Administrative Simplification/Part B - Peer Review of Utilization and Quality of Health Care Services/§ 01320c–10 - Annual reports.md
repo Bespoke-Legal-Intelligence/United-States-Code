@@ -20,7 +20,7 @@ The Secretary shall submit to the Congress not later than April 1 of each year, 
 
 #### Prior Provisions
 
-A prior section 1320c–10, act Aug. 14, 1935, ch. 531, title XI, §1161, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1440, related to giving of notice to a practitioner or provider by a Professional Standards Review Organization immediately after taking certain action or making certain determinations, prior to the general revision of this part by Pub. L. 97–248.
+A prior section 1320c–10, act Aug. 14, 1935, ch. 531, title XI, §1161, as added Oct. 30, 1972, Pub. L. 92–603, title II,§249F(b), 86 Stat. 1440, related to giving of notice to a practitioner or provider by a Professional Standards Review Organization immediately after taking certain action or making certain determinations, prior to the general revision of this part by Pub. L. 97–248.
 
 #### Amendments
 

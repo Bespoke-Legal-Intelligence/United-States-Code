@@ -30,7 +30,7 @@ Competition factors.—In making a determination under this subsection regarding
 
 (c)
 
-Failure To Provide Information.—If a person filing an agreement, or an officer, director, partner, agent, or employee of the person, fails substantially to comply with a request forthe submission of additional information or documents within the period provided in section 40304(c) of this title, the Commission may bring a civil action in the United States District Court for the District of Columbia. At the request of the Commission, the Court—
+Failure To Provide Information.—If a person filing an agreement, or an officer, director, partner, agent, or employee of the person, fails substantially to comply with a request for the submission of additional information or documents within the period provided in section 40304(c) of this title, the Commission may bring a civil action in the United States District Court for the District of Columbia. At the request of the Commission, the Court—
 
 &emsp;(1) may order compliance;
 

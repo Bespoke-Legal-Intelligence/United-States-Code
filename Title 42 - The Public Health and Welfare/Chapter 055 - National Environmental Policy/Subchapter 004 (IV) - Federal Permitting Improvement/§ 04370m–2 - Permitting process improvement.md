@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) kept confidential; and
 
-&emsp;&emsp;&emsp;(ii) exempt from the disclosure requirements under section 552 of title 5 (commonly known as the "Freedom of Information Act") and the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;&emsp;&emsp;(ii) exempt from the disclosure requirements under section 552 of title 5 (commonly known as the "Freedom of Information Act") and the Federal Advisory Committee Act (5 U.S.C. App.).<sup>1</sup>
 
 #### (2) Invitation
 
@@ -74,7 +74,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On establishment of the lead agency, the lead agency shall assume the responsibilitiesof the facilitating agency under this subchapter.
+&emsp;&emsp;On establishment of the lead agency, the lead agency shall assume the responsibilities of the facilitating agency under this subchapter.
 
 #### (B) Redesignation of facilitating agency
 
@@ -366,7 +366,7 @@ The facilitating or lead agency, as applicable, shall provide an expeditious pro
 
 #### (1) In general
 
-&emsp;A lead agency may designate a participating agency as a cooperating agency in accordancewith part 1501 of title 40, Code of Federal Regulations (or successor regulations).
+&emsp;A lead agency may designate a participating agency as a cooperating agency in accordance with part 1501 of title 40, Code of Federal Regulations (or successor regulations).
 
 #### (2) Effect on other designation
 
@@ -396,7 +396,7 @@ The facilitating or lead agency, as applicable, shall provide an expeditious pro
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(1)(D)(ii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(1)(D)(ii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 NEPA, referred to in subsec. (f)(1)(B), means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to this chapter. See section 4370m(16) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
@@ -430,5 +430,7 @@ Subsec. (c)(2)(F)(i). Pub. L. 117–58, §70801(c)(3)(C)(i), inserted "intermedi
 
 Subsec. (c)(2)(F)(ii). Pub. L. 117–58, §70801(c)(3)(C)(ii)(I), substituted "an intermediate or final completion date for agency action on a covered project or reasonably believes the agency will fail to conform with a completion date 30 days before" for "a completion date for agency action on a covered project or is at significant risk of failing to conform with" in introductory provisions.
 
-Subsec. (c)(2)(F)(ii)(I). Pub. L. 117–58, §70801(c)(3)(C)(ii)(II), substituted "reasonably believing the agency will fail to conform" for "significantly risking failing to conform".
+Subsec. (c)(2)(F)(ii)(I). Pub. L. 117–58, §70801(c)(3)(C)(ii)(II), substituted "reasonably believingthe agency will fail to conform" for "significantly risking failing to conform".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

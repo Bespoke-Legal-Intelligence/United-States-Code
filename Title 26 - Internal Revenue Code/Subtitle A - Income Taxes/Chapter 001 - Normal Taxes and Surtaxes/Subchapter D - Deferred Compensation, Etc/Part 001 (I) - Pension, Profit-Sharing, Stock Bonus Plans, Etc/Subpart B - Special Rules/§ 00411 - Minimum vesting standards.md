@@ -84,7 +84,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant.
 
-&emsp;&emsp;&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accruedbenefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
+&emsp;&emsp;&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
 &emsp;&emsp;&emsp;(iii) In the case of accrued benefits derived from employer contributions which accrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant before September 2, 1974 if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
 
@@ -122,7 +122,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;(E) years of service before January 1, 1971, unless the employee has had at least 3 years of service after December 31, 1970;
 
-&emsp;&emsp;(F) years of service before the first plan year to which this section applies, if such service would have been disregarded under the rules of the plan with regard to breaks in service as in effect on the applicable date; and
+&emsp;&emsp;(F) years of service before the first plan year to which this section applies, if suchservice would have been disregarded under the rules of the plan with regard to breaks in service as in effect on the applicable date; and
 
 &emsp;&emsp;(G) in the case of a multiemployer plan, years of service—
 
@@ -138,7 +138,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (A) General rule
 
-&emsp;&emsp;For purposes of this subsection, except as provided in subparagraph (C), the term"year of service" means a calendar year, plan year, or other 12-consecutive month period designated by the plan (and not prohibited under regulations prescribed by the Secretary of Labor) during which the participant has completed 1,000 hours of service.
+&emsp;&emsp;For purposes of this subsection, except as provided in subparagraph (C), the term "year of service" means a calendar year, plan year, or other 12-consecutive month period designated by the plan (and not prohibited under regulations prescribed by the Secretary of Labor) during which the participant has completed 1,000 hours of service.
 
 #### (B) Hours of service
 
@@ -358,7 +358,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;A defined benefit plan satisfies the requirements of this paragraph if the accrued benefit to which each participant is entitled upon his separation from the service is not less than—
 
-&emsp;&emsp;&emsp;(i) 3 percent of the normal retirement benefit to which he would be entitled if he commenced participation at the earliest possible entry age under the plan and served continuously until the earlier of age 65 or the normal retirement age specified under the plan, multiplied by
+&emsp;&emsp;&emsp;(i) 3 percent of the normal retirement benefit to which he would be entitled if hecommenced participation at the earliest possible entry age under the plan and served continuously until the earlier of age 65 or the normal retirement age specified under the plan, multiplied by
 
 &emsp;&emsp;&emsp;(ii) the number of years (not in excess of 331/3) of his participation in the plan.
 
@@ -464,7 +464,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of determining an employee's accrued benefit, the term "year of participation" means a period of service (beginning at the earliest date on which the employee is a participant in the plan and which is included in a period of service required to be taken into account under section 410(a)(5), determined without regard to section 410(a)(5)(E)) as determined under regulations prescribed by the Secretary of Labor which provide for the calculation of such period on any reasonable and consistent basis.
+&emsp;&emsp;For purposes of determining an employee's accrued benefit, the term "year of participation" means a period of service (beginning at the earliest date on which the employee is a participant in the plan and which is included in a period of service required to be taken into account under section 410(a)(5), determined without regard to section 410(a)(5)(E)) as determined under regulations prescribed by the Secretary of Labor which provide forthe calculation of such period on any reasonable and consistent basis.
 
 #### (B) Less than full time service
 
@@ -528,7 +528,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;&emsp;(I) the participant's accrued benefit for years of service before the effective date of the amendment, determined under the terms of the plan as in effect before the amendment, plus
 
-&emsp;&emsp;&emsp;&emsp;(II) the participant's accrued benefit for years of service after the effective date of the amendment, determined under the terms of the plan as in effect after the amendment.
+&emsp;&emsp;&emsp;&emsp;(II) the participant's accrued benefit for years of service after the effectivedate of the amendment, determined under the terms of the plan as in effect after the amendment.
 
 #### (iv) Special rules for early retirement subsidies
 
@@ -591,6 +591,10 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 #### (G) Benefit accrued to date
 
 &emsp;&emsp;For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
+
+#### (6) Projected interest crediting rate
+
+&emsp;For purposes of subparagraphs (A), (B), and (C) of paragraph (1), in the case of an applicable defined benefit plan (as defined in subsection (a)(13)(C)) which provides variable interest crediting rates, the interest crediting rate which is treated as in effect and as the projected interest crediting rate shall be a reasonable projection of such variable interest crediting rate, not to exceed 6 percent.
 
 #### (c) Allocation of accrued benefits between employer and employee contributions
 
@@ -738,7 +742,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (a)(8), an applicable plan shall not be treated as failing tomeet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
+&emsp;Notwithstanding subsection (a)(8), an applicable plan shall not be treated as failing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
 
 #### (2) Applicable plan
 
@@ -766,7 +770,11 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;(ii) is an employee at any time on or before January 1, 2017, of any employer maintaining the plan, and who becomes a participant in such plan after such date.
 
-(Added Pub. L. 93–406, title II, §1012(a), Sept. 2, 1974, 88 Stat. 901; amended Pub. L. 94–455, title XIX, §§1901(a)(62), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–364, title II, §206, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 98–397, title II, §202(b), (c), (d)(2), (e)(2), (3), (f), 205, title III, §301(a)(1), Aug. 23, 1984, 98 Stat. 1437, 1439, 1440, 1449, 1450; Pub. L. 99–509, title IX, §§9202(b), 9203(b)(2), Oct. 21, 1986, 100 Stat. 1977, 1979; Pub. L. 99–514, title XI, §§1113(a), (b), (d)(B), 1114(b)(10), 1139(a), title XVIII, §1898(a)(1)(A), (4)(A), (d)(1)(A), (2)(A), (f)(1)(A), Oct. 22, 1986, 100 Stat. 2446, 2447, 2451, 2487, 2941, 2943, 2955, 2956; Pub. L. 100–203, title IX, §9346(b), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 100–647, title I, §1018(t)(8)(B), Nov. 10, 1988, 102 Stat. 3589; Pub. L. 101–239, title VII, §§7861(a)(5)(A), (6)(A), 7871(a)(1), (2), (b)(1), 7881(m)(1), Dec. 19, 1989, 103 Stat. 2430, 2435, 2443; Pub. L. 102–318, title V, §521(b)(44), July 3, 1992, 106 Stat. 313; Pub. L. 103–465, title VII, §767(a)(1), Dec. 8, 1994, 108 Stat. 5037; Pub. L. 104–188, title I, §1442(a), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(a)(1), (2)(A), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(a), 645(a)(1), (b)(1), 648(a)(1), June 7, 2001, 115 Stat. 115, 123, 125, 127; Pub. L. 108–311, title IV, §408(a)(14), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(b), title VII, 701(b), title IX, §§902(d)(2)(A), (B), 904(a), Aug. 17, 2006, 120 Stat. 853, 984, 1038, 1048; Pub. L. 110–458, title I, §§101(d)(2)(D), 107(b), 109(b)(2), Dec. 23, 2008, 122 Stat. 5099, 5107, 5111; Pub. L. 113–235, div. P, §2(b), Dec. 16, 2014, 128 Stat. 2828; Pub. L. 115–141, div. U, title IV, §401(a)(82), (b)(19), Mar. 23, 2018, 132 Stat. 1188, 1202.)
+(Added Pub. L. 93–406, title II, §1012(a), Sept. 2, 1974, 88 Stat. 901; amended Pub. L. 94–455, title XIX, §§1901(a)(62), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–364, title II, §206, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 98–397, title II, §202(b), (c), (d)(2), (e)(2), (3), (f), 205, title III, §301(a)(1), Aug. 23, 1984, 98 Stat. 1437, 1439, 1440, 1449, 1450; Pub. L. 99–509, title IX, §§9202(b), 9203(b)(2), Oct. 21, 1986, 100 Stat. 1977, 1979; Pub. L. 99–514, title XI, §§1113(a), (b), (d)(B), 1114(b)(10), 1139(a), title XVIII, §1898(a)(1)(A), (4)(A), (d)(1)(A), (2)(A), (f)(1)(A), Oct. 22, 1986, 100 Stat. 2446, 2447, 2451, 2487, 2941, 2943, 2955, 2956; Pub. L. 100–203, title IX, §9346(b), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 100–647, title I, §1018(t)(8)(B), Nov. 10, 1988, 102 Stat. 3589; Pub. L. 101–239, title VII, §§7861(a)(5)(A), (6)(A), 7871(a)(1), (2), (b)(1), 7881(m)(1), Dec. 19, 1989, 103 Stat. 2430, 2435, 2443; Pub. L. 102–318, title V, §521(b)(44), July 3, 1992, 106 Stat. 313; Pub. L. 103–465, title VII, §767(a)(1), Dec. 8, 1994, 108 Stat. 5037; Pub. L. 104–188, title I, §1442(a), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(a)(1), (2)(A), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(a), 645(a)(1), (b)(1), 648(a)(1), June 7, 2001, 115 Stat. 115, 123, 125, 127; Pub. L. 108–311, title IV, §408(a)(14), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(b), title VII, 701(b), title IX, §§902(d)(2)(A), (B), 904(a), Aug. 17, 2006, 120 Stat. 853, 984, 1038, 1048; Pub. L. 110–458, title I, §§101(d)(2)(D), 107(b), 109(b)(2), Dec. 23, 2008, 122 Stat. 5099, 5107, 5111; Pub. L. 113–235, div. P, §2(b), Dec. 16, 2014, 128 Stat. 2828; Pub. L. 115–141, div. U, title IV, §401(a)(82), (b)(19), Mar. 23, 2018, 132 Stat. 1188, 1202; Pub. L. 117–328, div. T, title III, §§304(a), 348(a), Dec. 29, 2022, 136 Stat. 5341, 5385.)
+
+#### Amendment of Subsection (a)(11)(A)
+
+<i>Pub. L. 117–328, div. T, title III, §304(a), (c), Dec. 29, 2022, 136 Stat. 5341, 5385, provided that, applicable to distributions made after Dec. 31, 2023, subsection (a)(11)(A) of this section is amended by striking "$5,000" and inserting "$7,000". See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -780,9 +788,13 @@ Section 4205(b)(2)(A)(i) of such Act, referred to in subsec. (a)(4)(G)(i)(II), i
 
 Section 4048 of such Act, referred to in subsec. (a)(4)(G)(ii), is classified to section 1348 of Title 29, Labor.
 
-The Social Security Act, referred to in subsecs. (a)(9) and (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(9) and (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(11)(A). Pub. L. 117–328, §304(a), substituted "$7,000" for "$5,000".
+
+Subsec. (b)(6). Pub. L. 117–328, §348(a), added par. (6).
 
 <b>2018</b>—Subsec. (a)(3)(F)(i). Pub. L. 115–141, §401(b)(19), struck out "under section 418D or" before "under section 4281".
 
@@ -972,7 +984,7 @@ Subsec. (d)(6). Pub. L. 96–364, §206(5), inserted reference to section 4281 o
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1901(a)(62)(A)–(C), 1906(b)(13)(A), substituted "paragraph (8)" for "subsection (a)(8)" in provisions preceding par. (1), substituted references to Sept. 2, 1974, for references to the date of enactment of the Employee Retirement Income Security Act of 1974 in par. (3)(D)(iii), struck out "or his delegate" after "Secretary" in pars. (4)(C) and (7)(B), and substituted "(B)" for "(b)" in heading of par. (7)(C).
 
-Subsec. (b)(1)(D)(i). Pub. L. 94–455, §1901(a)(62)(D), substituted reference to Sept. 2, 1974, for reference to thedate of enactment of the Employee Retirement Income Security Act of 1974.
+Subsec. (b)(1)(D)(i). Pub. L. 94–455, §1901(a)(62)(D), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
 Subsecs. (c)(2)(B)(ii), (D), (d)(2), (3). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
@@ -981,6 +993,12 @@ Subsec. (e)(1)(C). Pub. L. 94–455, §1901(a)(62)(D), substituted reference to 
 Subsec. (e)(2). Pub. L. 94–455, §1901(a)(62)(E), substituted reference to Sept. 1, 1974, for reference to the date before the date of enactment of the Employee Retirement Income Security Act of 1974.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by section 304(a) of Pub. L. 117–328 applicable to distributions made after Dec. 31, 2023, see section 304(b) of Pub. L. 117–328, set out as a note under section 401 of this title.
+
+Pub. L. 117–328, div. T, title III, §348(c), Dec. 29, 2022, 136 Stat. 5385, provided that: "The amendments made by this section \[amending this section and section 1054 of Title 29, Labor\] shall apply with respect to plan years beginning after the date of enactment of this Act \[Dec. 29, 2022\]."
 
 #### Effective Date of 2014 Amendment
 
@@ -1022,7 +1040,7 @@ Special rule for collectively bargained plans.—In the case of a plan maintaine
 
 "(5)
 
-Conversions.—The requirements of clause (ii) of section 411(b)(5)(B) of the Internal Revenue Code of 1986, clause (ii) of section 204(b)(5)(B) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(b)(5)(B)\], and clause (ii) of section 4(i)(10)(B) of the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 623(i)(10)(B)\] (as added by this Act), shall apply to plan amendments adopted on or after, and taking effect on or after, June 29, 2005, except that the plan sponsor may elect to have such amendments apply to plan amendments adopted before, and taking effect on or after, such date.
+Conversions.—The requirements of clause (ii) of section 411(b)(5)(B) of the Internal Revenue Code of 1986, clause (ii) of section 204(b)(5)(B) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(b)(5)(B)\], and clause (ii) of section 4(i)(10)(B) of theAge Discrimination in Employment Act of 1967 \[29 U.S.C. 623(i)(10)(B)\] (as added by this Act), shall apply to plan amendments adopted on or after, and taking effect on or after, June 29, 2005, except that the plan sponsor may elect to have such amendments apply to plan amendments adopted before, and taking effect on or after, such date.
 
 "(6)
 
@@ -1122,7 +1140,7 @@ In general.—The amendments made by this section \[amending this section, secti
 
 "(2)
 
-No reduction in accrued benefits.—A participant's accrued benefit shall not be considered to be reduced in violation of section 411(d)(6) of the Internal Revenue Code of 1986 or section 204(g) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(g)\] merely because (A) the benefit is determined in accordance with section 417(e)(3)(A) of such Code, as amended by this Act, or section 205(g)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1055(g)(3)\], as amended by this Act, or (B) the plan applies section 415(b)(2)(E) of such Code, as amended by this Act.
+No reduction in accrued benefits.—A participant's accrued benefit shall not be considered to be reduced in violation of section 411(d)(6) of the Internal Revenue Code of 1986 or section 204(g) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(g)\] merely because (A) the benefit is determined in accordance with section 417(e)(3)(A) of such Code, as amended by this Act, or section 205(g)(3) of the Employee Retirement Income Security Act of 1974 \[29U.S.C. 1055(g)(3)\], as amended by this Act, or (B) the plan applies section 415(b)(2)(E) of such Code, as amended by this Act.
 
 "(3)
 
@@ -1252,7 +1270,7 @@ Amendment by section 1901(a)(62) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date
 
-Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for planyears beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Regulations
 
@@ -1430,7 +1448,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Federal Energy Administrator to request, acquire, and collect energy information; rules and regulations
 
-For the purpose of assuring that the Federal Energy Administrator, the Congress, the States, and the public have access to and are able to obtain reliable energy information, the FederalEnergy Administrator shall request, acquire, and collect such energy information as he determines to be necessary to assist in the formulation of energy policy or to carry out the purposes of this chapter or the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\].<sup>1</sup> The Federal Energy Administrator shall promptly promulgate rules pursuant to subsection (b)(1)(A) of this section requiring reports of such information to be submitted to the Federal Energy Administrator at least every ninety calendar days.
+For the purpose of assuring that the Federal Energy Administrator, the Congress, the States, and the public have access to and are able to obtain reliable energy information, the Federal Energy Administrator shall request, acquire, and collect such energy information as he determines to be necessary to assist in the formulation of energy policy or to carry out the purposes of this chapter or the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\].<sup>1</sup> The Federal Energy Administrator shall promptly promulgate rules pursuant to subsection (b)(1)(A) of this section requiring reports of such information to be submitted to the Federal Energy Administrator at least every ninety calendar days.
 
 #### (b) Powers of Federal Energy Administrator in obtaining energy information; verification of accuracy; compliance orders
 
@@ -16,7 +16,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(D) to administer oaths.
 
-(2) For the purpose of verifying the accuracy of any energy information requested, acquired, or collected by the Federal Energy Administrator, the Federal Energy Administrator, or any officer or employer <sup>2</sup> duly designated by him, upon presenting appropriate credentials and a written notice from the Federal Energy Administrator to the owner, operator, or agent in charge, may—
+(2) For the purpose of verifying the accuracy of any energy information requested, acquired, or collected by the Federal Energy Administrator, the Federal Energy Administrator, or any officer or employer <sup>2</sup> duly designated by him, upon presenting appropriate credentials and a written notice from the Federal EnergyAdministrator to the owner, operator, or agent in charge, may—
 
 &emsp;(A) enter, at reasonable times, any business premise or facility; and
 
@@ -70,7 +70,7 @@ Upon a showing satisfactory to the Federal Energy Administrator by any person th
 
 As used in this section:
 
-&emsp;(1) The term "energy information" includes (A) all information in whatever form on (i) fuel reserves, exploration, extraction, and energy resources (including petrochemical feedstocks) wherever located; (ii) production, distribution, and consumption of energy and fuels wherever carried on; and (B) matters relating to energy and fuels, such as corporate structure and proprietary relationships, costs, prices, capital investment, and assets, and other matters directly related thereto, wherever they exist.
+&emsp;(1) The term "energy information" includes (A) all information in whatever form on (i) fuel reserves, exploration, extraction, and energy resources (including petrochemical feedstocks) wherever located; (ii) production, distribution, and consumption of energy and fuels wherever carried on; and (B) matters relating to energy and fuels, such as corporatestructure and proprietary relationships, costs, prices, capital investment, and assets, and other matters directly related thereto, wherever they exist.
 
 &emsp;(2) The term "person" means any natural person, corporation, partnership, association, consortium, or any entity organized for a common business purpose, wherever situated, domiciled, or doing business, who directly or through other persons subject to their control does business in any part of the United States.
 
@@ -92,7 +92,7 @@ The authority contained in this section is in addition to, independent of, not l
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–319. For complete classification of this Act to the Code, see Short Title note set out under section 791 of this title and Tables.
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsecs. (a), (c)(2)(C), and (d), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsecs. (a), (c)(2)(C), and (d), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
 #### Amendments
 

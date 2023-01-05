@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 109–8, §712(d)(2), inserted ", including the payment of
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–353, §448(a), inserted "for" after "provided".
 
-Subsec. (d)(1). Pub. L. 98–353, §448(b), substituted "such claim was disallowed only under section 502(b)(5)or 502(e) of this title" for "a party in interest has not requested that the court determine and allow or disallow such claim under section 502 of this title".
+Subsec. (d)(1). Pub. L. 98–353, §448(b), substituted "such claim was disallowed only under section 502(b)(5) or 502(e) of this title" for "a party in interest has not requested that the court determine and allow or disallow such claim under section 502 of this title".
 
 Subsec. (d)(2). Pub. L. 98–353, §448(b), substituted "such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under section 501 of this title" for "such claim was disallowed only under section 502(e) of this title".
 

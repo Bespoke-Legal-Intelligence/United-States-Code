@@ -80,7 +80,7 @@ Authority of President under subsec. (a)(1) of this section to maintain custody 
 
 #### Trusted Traveler Programs
 
-Pub. L. 114–125, title VIII, §802(j), Feb. 24, 2016, 130 Stat. 216, provided that: "The Secretary of HomelandSecurity may not enter into or renew an agreement with the government of a foreign country for a trusted traveler program administered by U.S. Customs and Border Protection unless the Secretary certifies in writing that such government—
+Pub. L. 114–125, title VIII, §802(j), Feb. 24, 2016, 130 Stat. 216, provided that: "The Secretary of Homeland Security may not enter into or renew an agreement with the government of a foreign country for a trusted traveler program administered by U.S. Customs and Border Protection unless the Secretary certifies in writing that such government—
 
 &emsp;"(1) routinely submits to INTERPOL for inclusion in INTERPOL's Stolen and Lost Travel Documents database information about lost and stolen passports and travel documents of the citizens and nationals of such country; or
 

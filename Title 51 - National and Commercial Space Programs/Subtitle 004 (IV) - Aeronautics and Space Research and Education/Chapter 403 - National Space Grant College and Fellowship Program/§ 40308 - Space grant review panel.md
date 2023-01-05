@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Administrator shall establish an independent committee known as the space grant review panel, which shall not be subject to the provisions of the Federal Advisory Committee Act (5 App. U.S.C.).
+Establishment.—The Administrator shall establish an independent committee known as the space grant review panel, which shall not be subject to the provisions of chapter 10 of title 5.
 
 (b)
 
@@ -46,7 +46,7 @@ Meetings.—The panel shall meet on a biannual basis and, at any other time, at 
 
 Powers.—The panel may exercise such powers as are reasonably necessary in order to carry out the duties enumerated in subsection (b).
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3387.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3387; Pub. L. 117–286, §4(a)(325), Dec. 27, 2022, 136 Stat. 4341.)
 
 Historical and Revision Notes
 
@@ -68,7 +68,7 @@ In subsection (a), the word "provisions" is substituted for "provisons" to corre
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (a). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 App. U.S.C.)."
 

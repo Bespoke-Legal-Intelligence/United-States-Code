@@ -28,7 +28,7 @@ Beginning 180 days after August 14, 2008, the provisions of ASTM International S
 
 &emsp;&emsp;(A) take into account other children's product safety rules; and
 
-&emsp;&emsp;(B) are more stringent than such standards, if the Commission determines that more stringent standards would further reduce the risk of injury of such toys.
+&emsp;&emsp;(B) are more stringent than such standards, if the Commission determines thatmore stringent standards would further reduce the risk of injury of such toys.
 
 #### (c) Periodic review
 

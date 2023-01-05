@@ -28,7 +28,7 @@ No action may be commenced—
 
 #### (c) Venue; intervention by Administrator; service of complaint; consent judgment
 
-(1) Any action respecting a violation by a stationary source of an emission standard or limitation or an order respecting such standard orlimitation may be brought only in the judicial district in which such source is located.
+(1) Any action respecting a violation by a stationary source of an emission standard or limitation or an order respecting such standard or limitation may be brought only in the judicial district in which such source is located.
 
 (2) In any action under this section, the Administrator, if not a party, may intervene as a matter of right at any time in the proceeding. A judgment in an action under this section to which the United States is not a party shall not, however, have any binding effect upon the United States.
 
@@ -86,7 +86,7 @@ A prior section 304 of act July 14, 1955, was renumbered section 311 by Pub. L. 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–549, §707(a), (f), in closing provisions, inserted before period at end ", and to apply any appropriate civil penalties (except for actions under paragraph (2))" and inserted sentences at end giving courts jurisdiction to compel agency action unreasonably delayed and requiring 180 days notice prior to commencement of action.
+<b>1990</b>—Subsec. (a). Pub. L. 101–549, §707(a), (f), in closing provisions, inserted before period at end ", and toapply any appropriate civil penalties (except for actions under paragraph (2))" and inserted sentences at end giving courts jurisdiction to compel agency action unreasonably delayed and requiring 180 days notice prior to commencement of action.
 
 Subsec. (a)(1), (3). Pub. L. 101–549, §707(g), inserted "to have violated (if there is evidence that the alleged violation has been repeated) or" before "to be in violation".
 

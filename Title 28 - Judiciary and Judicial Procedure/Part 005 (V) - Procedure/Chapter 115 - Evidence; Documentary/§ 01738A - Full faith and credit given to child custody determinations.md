@@ -140,7 +140,7 @@ Pub. L. 96–611, §8(c), Dec. 28, 1980, 94 Stat. 3571, provided that: "In furth
 
 &emsp;"(1) afford priority to proceedings for custody determinations; and
 
-&emsp;"(2) award to the person entitled to custody or visitation pursuant to a custody determination which isconsistent with the provisions of such section 1738A, necessary travel expenses, attorneys' fees, costs of private investigations, witness fees or expenses, and other expenses incurred in connection with such custody determination in any case in which—
+&emsp;"(2) award to the person entitled to custody or visitation pursuant to a custody determination which is consistent with the provisions of such section 1738A, necessary travel expenses, attorneys' fees, costs of private investigations, witness fees or expenses, and other expenses incurred in connection with such custody determination in any case in which—
 
 &emsp;&emsp;"(A) a contestant has, without the consent of the person entitled to custody or visitation pursuant to a custody determination which is consistent with the provisions of such section 1738A, (i) wrongfully removed the child from the physical custody of such person, or (ii) wrongfully retained the child after a visit or other temporary relinquishment of physical custody; or
 

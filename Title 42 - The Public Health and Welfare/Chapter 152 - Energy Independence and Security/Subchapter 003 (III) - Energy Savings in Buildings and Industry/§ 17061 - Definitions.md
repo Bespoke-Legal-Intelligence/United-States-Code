@@ -72,7 +72,7 @@ In this title: <sup>1</sup>
 
 #### (A) In general
 
-&emsp;&emsp;The term "operational cost savings" means a reduction in end-use operational costs through the application of cost-effective technologies and practices or geothermal heat pumps, including a reduction in electricity consumption relative to consumption by the same customer or at the same facility in a given year, as defined in guidelines promulgated by the Administrator pursuant to section 7628(b) of this title, that achieves cost savings sufficient to pay the incremental additional costs of using cost-effective technologies and practices including geothermal heat pumps by not later than the later of the date established under sections 431 through 434,<sup>1</sup> or—
+&emsp;&emsp;The term "operational cost savings" means a reduction in end-use operationalcosts through the application of cost-effective technologies and practices or geothermal heat pumps, including a reduction in electricity consumption relative to consumption by the same customer or at the same facility in a given year, as defined in guidelines promulgated by the Administrator pursuant to section 7628(b) of this title, that achieves cost savings sufficient to pay the incremental additional costs of using cost-effective technologies and practices including geothermal heat pumps by not later than the later of the date established under sections 431 through 434,<sup>1</sup> or—
 
 &emsp;&emsp;&emsp;(i) for cost-effective technologies and practices, the date that is 5 years after the date of installation; and
 
@@ -152,7 +152,7 @@ In this title: <sup>1</sup>
 
 #### (14) Life-cycle
 
-&emsp;The term "life-cycle", with respect to a high-performance green building, means all stages of the useful life of the building (including components, equipment, systems, and controls of the building) beginning at conception of a high-performance green building project and continuing through site selection, design, construction, landscaping, commissioning, operation, maintenance, renovation, deconstruction or demolition, removal, and recycling of the high-performance green building.
+&emsp;The term "life-cycle", with respect to a high-performance green building, means all stages of the useful life of the building (including components, equipment, systems, and controls of the building) beginning at conceptionof a high-performance green building project and continuing through site selection, design, construction, landscaping, commissioning, operation, maintenance, renovation, deconstruction or demolition, removal, and recycling of the high-performance green building.
 
 #### (15) Life-cycle assessment
 

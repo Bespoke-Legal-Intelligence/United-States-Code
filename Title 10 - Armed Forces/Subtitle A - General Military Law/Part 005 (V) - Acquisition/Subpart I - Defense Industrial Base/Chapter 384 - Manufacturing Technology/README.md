@@ -6,7 +6,7 @@
 | [4842\.](%C2%A7%2004842%20-%20Joint%20Defense%20Manufacturing%20Technology%20Panel.md) | Joint Defense Manufacturing Technology Panel. |
 | [4843\.](%C2%A7%2004843%20-%20Manufacturing%20engineering%20education%20program.md) | Manufacturing engineering education program. |
 | [4844\.](%C2%A7%2004844%20-%20Manufacturing%20experts%20in%20the%20classroom.md) | Manufacturing experts in the classroom. |
-| [4845\.](%C2%A7%2004845%20-%20Armament%20retooling%20and%20manufacturing.md) | Armament retooling and manufacturing.<br> |
+| [4845\.](%C2%A7%2004845%20-%20Armament%20retooling%20and%20manufacturing.md) | Armament retooling and manufacturing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

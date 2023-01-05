@@ -26,7 +26,7 @@ The research site shall be managed in accordance with the following objectives:
 
 &emsp;(1) The principal research facility shall be managed primarily for scientific research purposes. Dispersed recreation, grazing, and other uses which the Secretary determines to be compatible with scientific research may be permitted.
 
-&emsp;(2) The research site shall be managed to enhance scientific research objectives. Scientific research activities and associated research equipment and structures shall be permitted within the research site in accordance with the plan.
+&emsp;(2) The research site shall be managed to enhance scientific research objectives. Scientificresearch activities and associated research equipment and structures shall be permitted within the research site in accordance with the plan.
 
 &emsp;(3) Roads shall be limited to those necessary for scientific research activities and other reasonable activities as determined by the Secretary. Motor vehicle use shall be restricted to roads designated in the plan.
 
@@ -38,7 +38,7 @@ The research site shall be managed in accordance with the following objectives:
 
 #### References in Text
 
-The National Forest Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
+The National Forest Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
 #### Amendments
 

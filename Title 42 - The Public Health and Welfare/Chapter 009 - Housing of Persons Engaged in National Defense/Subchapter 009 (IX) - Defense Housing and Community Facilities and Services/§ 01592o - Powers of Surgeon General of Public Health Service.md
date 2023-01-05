@@ -1,6 +1,6 @@
 ### §1592<i>o</i>. Powers of Surgeon General of Public Health Service
 
-Notwithstanding any other provision of this subchapter, all functions, powers, and duties under this subchapter and section 1591b of this title with respect to health, refuse disposal, sewage treatment, and water purification shall be exercised by and vested in the Surgeon General of the Public Health Service: <i>Provided</i>, That the Surgeon General shall have power to delegate to any other Federal agency functions, powers, and duties with respect to construction.
+Notwithstanding any other provision of this subchapter, all functions, powers, and duties under this subchapter and section 1591b of this title with respect to health, refuse disposal, sewage treatment, and water purification shall beexercised by and vested in the Surgeon General of the Public Health Service: <i>Provided</i>, That the Surgeon General shall have power to delegate to any other Federal agency functions, powers, and duties with respect to construction.
 
 (Sept. 1, 1951, ch. 378, title III, §316, 65 Stat. 310.)
 

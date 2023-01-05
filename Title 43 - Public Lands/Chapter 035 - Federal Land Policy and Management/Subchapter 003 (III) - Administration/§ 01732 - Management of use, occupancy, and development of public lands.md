@@ -6,7 +6,7 @@ The Secretary shall manage the public lands under principles of multiple use and
 
 #### (b) Easements, permits, etc., for utilization through habitation, cultivation, and development of small trade or manufacturing concerns; applicable statutory requirements
 
-In managing the public lands, the Secretary shall, subject to this Act and other applicable law and under such terms and conditions as are consistent with such law, regulate, through easements, permits, leases, licenses, published rules, or other instruments as the Secretary deems appropriate, the use, occupancy, and development of the public lands, including, but not limited to, long-term leases to permit individuals to utilize public lands for habitation, cultivation, and the development of small trade or manufacturing concerns: <i>Provided</i>, That unless otherwise provided for by law, the Secretary may permit Federal departments and agencies to use, occupy, and develop public lands only through rights-of-way under section 1767 of this title, withdrawals under section 1714 of this title, and, where the proposed use and development are similar or closely related to the programs of the Secretary for the public lands involved, cooperative agreements under section 1737(b) of this title: <i>Provided further</i>, That nothing in this Act shall be construed as authorizing the Secretary concerned to require Federal permits to hunt and fish on public lands or on lands in the National Forest System and adjacent waters or as enlarging or diminishing the responsibility and authority of the States for management of fish and resident wildlife. However, the Secretary concerned may designate areas of public land and of lands in the National Forest System where, and establish periods when, no hunting or fishing will be permitted for reasons of public safety, administration, or compliance with provisions of applicable law. Except in emergencies, any regulations of the Secretary concerned relating to hunting and fishing pursuant to this section shall be put into effect only after consultation with the appropriate State fish and game department. Nothing in this Act shall modify or change any provision of Federal law relating to migratory birds or to endangered or threatened species. Except as provided in section 1744, section 1782, and subsection (f) of section 1781 of this title and in the last sentence of this paragraph, no provision of this section or any other section of this Act shall in any way amend the Mining Law of 1872 or impair the rights of any locators or claims under that Act, including, but not limited to, rights of ingress and egress. In managing the public lands the Secretary shall, by regulation or otherwise, take any action necessary to prevent unnecessary or undue degradation of the lands.
+In managing the public lands, the Secretary shall, subject to this Act and other applicable law and under such terms and conditions as are consistent with such law, regulate, through easements, permits, leases, licenses, publishedrules, or other instruments as the Secretary deems appropriate, the use, occupancy, and development of the public lands, including, but not limited to, long-term leases to permit individuals to utilize public lands for habitation, cultivation, and the development of small trade or manufacturing concerns: <i>Provided</i>, That unless otherwise provided for by law, the Secretary may permit Federal departments and agencies to use, occupy, and develop public lands only through rights-of-way under section 1767 of this title, withdrawals under section 1714 of this title, and, where the proposed use and development are similar or closely related to the programs of the Secretary for the public lands involved, cooperative agreements under section 1737(b) of this title: <i>Provided further</i>, That nothing in this Act shall be construed as authorizing the Secretary concerned to require Federal permits to hunt and fish on public lands or on lands in the National Forest System and adjacent waters or as enlarging or diminishing the responsibility and authority of the States for management of fish and resident wildlife. However, the Secretary concerned may designate areas of public land and of lands in the National Forest System where, and establish periods when, no hunting or fishing will be permitted for reasons of public safety, administration, or compliance with provisions of applicable law. Except in emergencies, any regulations of the Secretary concerned relating to hunting and fishing pursuant to this section shall be put into effect only after consultation with the appropriate State fish and game department. Nothing in this Act shall modify or change any provision of Federal law relating to migratory birds or to endangered or threatened species. Except as provided in section 1744, section 1782, and subsection (f) of section 1781 of this title and in the last sentence of this paragraph, no provision of this section or any other section of this Act shall in any way amend the Mining Law of 1872 or impair the rights of any locators or claims under that Act, including, but not limited to, rights of ingress and egress. In managing the public lands the Secretary shall, by regulation or otherwise, take any action necessary to prevent unnecessary or undue degradation of the lands.
 
 #### (c) Revocation or suspension provision in instrument authorizing use, occupancy or development; violation of provision; procedure applicable
 
@@ -38,7 +38,7 @@ The Secretary shall insert in any instrument providing for the use, occupancy, o
 
 #### References in Text
 
-This Act, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The Mining Law of 1872, referred to in subsec. (b), is act May 10, 1872, ch. 152, 17 Stat. 91, which was incorporated into the Revised Statutes of 1878 as R.S. §§2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of Title 30, Mineral Lands and Mining. For complete classification of such Revised Statutes sections to the Code, see Tables.
 
@@ -52,6 +52,76 @@ The Mining Law of 1872, referred to in subsec. (b), is act May 10, 1872, ch. 152
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Pilot Program for Native Plant Species
+
+Pub. L. 117–328, div. DD, title I, §101, Dec. 29, 2022, 136 Stat. 5574, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Invasive species.—The term 'invasive species' means, with respect to a particular ecosystem, a nonnative organism, the introduction of which causes or is likely to cause economic or environmental harm or harm to human, animal, or plant health.
+
+&emsp;"(2)
+
+Locally adapted.—The term 'locally adapted' means, with respect to plants, plants that—
+
+&emsp;&emsp;"(A) originate from an area that is geographically proximate to a planting area; and
+
+&emsp;&emsp;"(B) are environmentally adapted to and likely to become established and persist in that planting area.
+
+&emsp;"(3)
+
+Native plant species.—The term 'native plant species' means, with respect to a particular ecosystem, a species that, other than as a result of an introduction, historically occurred or currently occurs in that ecosystem.
+
+&emsp;"(4)
+
+Nonnative.—The term 'nonnative' means, with respect to a particular ecosystem, an organism, including the seeds, eggs, spores, or other biological material of the organism capable of propagating that species, that occurs outside of the natural range of the organism.
+
+&emsp;"(5)
+
+Plant material.—The term 'plant material' means a plant or the seeds, eggs, spores, or other biological material of a plant capable of propagating the species of the plant.
+
+"(b)
+
+Establishment.—Not later than 180 days after the date on which funds are made available to carry out this section, the Secretary \[of the Interior\] shall, in accordance with any existing laws and management policies, carry out a pilot program to prioritize the use of native plant species within geographically diverse units of the National Park System and public land administered by the Bureau of Land Management.
+
+"(c)
+
+Implementation.—In carrying out the pilot program under subsection (b), the Secretary shall, to the extent practicable—
+
+&emsp;"(1) give preference to the use of locally adapted native plant materials where appropriate;
+
+&emsp;"(2) incorporate efforts to prevent, control, or eradicate the spread of invasive species;
+
+&emsp;"(3) incorporate efforts to use native plants in areas that have experienced a recent wildfire event; and
+
+&emsp;"(4) identify situations in which the use of non-native plants may be warranted.
+
+"(d)
+
+Coordination.—The Secretary shall, in carrying out the pilot program under subsection (b), coordinate activities with—
+
+&emsp;"(1) the National Seed Strategy of the Bureau of Land Management;
+
+&emsp;"(2) the Plant Conservation Alliance; and
+
+&emsp;"(3) the Plant Materials Centers of the Natural Resources Conservation Service.
+
+"(e)
+
+Termination of Authority.—The authority to carry out the pilot program under subsection (b) terminates on the date that is 5 years after the date on which the pilot program is established under that subsection.
+
+"(f)
+
+Report.—Not later than 1 year after the date on which the authority to carry out the pilot program terminates under subsection (e), the Secretary shall submit to Congress a report describing—
+
+&emsp;"(1) the results of the pilot program carried out under subsection (b); and
+
+&emsp;"(2) the cost-effectiveness of using native plants in units of the National Park System and public land administered by the Bureau of Land Management."
+
 #### Management Guidelines To Prevent Wasting of Pacific Yew
 
 For Congressional findings relating to management guidelines to prevent wasting of Pacific yew in current and future timber sales on Federal lands, see section 4801(a)(8) of Title 16, Conservation.
@@ -60,5 +130,5 @@ For Congressional findings relating to management guidelines to prevent wasting 
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with land use permits for temporary use of public lands and other associated land uses, issued under sections 1732, 1761, and 1763 to 1771 of this title, with respect to pre-construction, construction, and initial operation of transportation systems for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with land use permits for temporary use of public lands and other associated land uses, issued under sections 1732, 1761, and 1763 to 1771 of this title, with respect to pre-construction, construction, and initial operation of transportation systems for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspectorfor the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 

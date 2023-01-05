@@ -44,7 +44,7 @@ A Hispanic-serving institution, in the institution's application for a grant, sh
 
 &emsp;&emsp;(D) a detailed budget showing the manner in which funds for any proposed project would be spent by the institution; and
 
-&emsp;&emsp;(E) a detailed description of any activity which involves the expenditure of more than$25,000, as identified in the budget referred to in subparagraph (D);
+&emsp;&emsp;(E) a detailed description of any activity which involves the expenditure of more than $25,000, as identified in the budget referred to in subparagraph (D);
 
 &emsp;(8) provide for making reports, in such form and containing such information, as the Secretary may require to carry out the Secretary's functions under this subchapter, including not less than one report annually setting forth the institution's progress toward achieving the objectives for which the funds were awarded and for keeping such records and affording such access to such records, as the Secretary may find necessary to assure the correctness and verification of such reports; and
 

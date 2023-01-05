@@ -46,7 +46,7 @@ Pub. L. 101–433, title III, §301, Oct. 16, 1990, 104 Stat. 984, provided that
 
 #### Congressional Finding
 
-Pub. L. 101–433, title I, §101, Oct. 16, 1990, 104 Stat. 978, provided that: "The Congress finds that, as a result ofthe decision of the Supreme Court in Public Employees Retirement System of Ohio v. Betts, 109 S.Ct. 256 (1989), legislative action is necessary to restore the original congressional intent in passing and amending the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621 et seq.), which was to prohibit discrimination against older workers in all employee benefits except when age-based reductions in employee benefit plans are justified by significant cost considerations."
+Pub. L. 101–433, title I, §101, Oct. 16, 1990, 104 Stat. 978, provided that: "The Congress finds that, as a result of the decision of the Supreme Court in Public Employees Retirement System of Ohio v. Betts, 109 S.Ct. 256 (1989), legislative action is necessary to restore the original congressional intent in passing and amending the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621 et seq.), which was to prohibit discrimination against older workers in all employee benefits except when age-based reductions in employee benefit plans are justified by significant cost considerations."
 
 #### <b>Executive Documents</b>
 

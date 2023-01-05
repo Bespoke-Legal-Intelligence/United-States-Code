@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, if code-based reporting (within the meaning of subparagraph (C)(vi)) applies in an eligible area or any portion thereof as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to this paragraph for such area for such fiscal year may not—
 
-&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2007, exceed by more than 5 percent the amount of the grant for the area that would have been made pursuant to this paragraph and paragraph (4) for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) hadbeen applied by substituting "662/3 percent" for "50 percent"; and
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2007, exceed by more than 5 percent the amount of the grant for the area that would have been made pursuant to this paragraph and paragraph (4) for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting "662/3 percent" for "50 percent"; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for each of the fiscal years 2008 through 2012, exceed by more than 5 percent the amount of the grant pursuant to this paragraph and paragraph (4) for the area for the preceding fiscal year.
 
@@ -224,7 +224,7 @@
 
 #### (3) Remainder of amounts
 
-&emsp;In determining the amount of funds to be obligated under paragraph (1), the Secretary shall include amounts that are not paid to the eligible areas under expedited procedures under subsection (a)(2) as a result of—
+&emsp;In determining the amount of funds to be obligated under paragraph (1), the Secretaryshall include amounts that are not paid to the eligible areas under expedited procedures under subsection (a)(2) as a result of—
 
 &emsp;&emsp;(A) the failure of any eligible area to submit an application under section 300ff–15(c) <sup>1</sup> of this title; or
 
@@ -258,7 +258,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Effective for fiscal year 2007 and subsequent fiscal years, if a grant award madepursuant to subsection (a) for an eligible area for a fiscal year has an unobligated balance as of the end of the grant year for the award, the Secretary shall cancel that unobligated balance of the award, and shall require the eligible area to return any amounts from such balance that have been disbursed to the area, unless—
+&emsp;&emsp;Effective for fiscal year 2007 and subsequent fiscal years, if a grant award made pursuant to subsection (a) for an eligible area for a fiscal year has an unobligated balance as of the end of the grant year for the award, the Secretary shall cancel that unobligated balance of the award, and shall require the eligible area to return any amounts from such balance that have been disbursed to the area, unless—
 
 &emsp;&emsp;&emsp;(i) before the end of the grant year, the chief elected official of the area submits to the Secretary a written application for a waiver of the cancellation, which application includes a description of the purposes for which the area intends to expend the funds involved; and
 
@@ -354,7 +354,7 @@ Subsec. (a)(3)(D)(ii). Pub. L. 111–87, §3(a)(2)(B), substituted "2012" for "2
 
 Subsec. (a)(4)(A). Pub. L. 111–87, §5(a)(1), (2), substituted "2009" for "2006" and "2010 through 2013" for "2007 through 2009" in introductory provisions, added cls. (i) to (iii), and struck out former cls. (i) and (ii) which read as follows:
 
-"(i) For fiscal year 2007, an amount equal to 95 percent of the amount of the grant that would have been made pursuant to paragraph (3) and this paragraph for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting '662/3 percent' for '50 percent'.
+"(i) For fiscal year 2007, an amount equal to 95 percent of the amount of the grant that would have beenmade pursuant to paragraph (3) and this paragraph for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting '662/3 percent' for '50 percent'.
 
 "(ii) For each of the fiscal years 2008 and 2009, an amount equal to 100 percent of the amount of the grant made pursuant to paragraph (3) and this paragraph for fiscal year 2007."
 

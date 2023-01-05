@@ -22,7 +22,7 @@ No funds authorized to be appropriated under this Act or any amendment made by t
 
 This Act, referred to in subsec. (a), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552, known as the Disaster Mitigation Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 5121 of this title and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Codification
 
@@ -38,7 +38,7 @@ Section was enacted as part of the Disaster Mitigation Act of 2000, and not as p
 
 #### Change of Name
 
-"Administrator of the Federal Emergency Management Agency" and "Administrator" substituted for"Director of the Federal Emergency Management Agency" and "Director", respectively, in subsec. (b)(1) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+"Administrator of the Federal Emergency Management Agency" and "Administrator" substituted for "Director of the Federal Emergency Management Agency" and "Director", respectively, in subsec. (b)(1) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Transfer of Functions
 

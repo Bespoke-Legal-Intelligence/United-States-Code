@@ -346,7 +346,7 @@ In this section:
 
 #### (1) Cooperation
 
-&emsp;The Federal lead agency, the cooperating agencies, and any participating agencies shall work cooperatively in accordance with this section to identify and resolve issues that could delay completion of the environmentalreview process or result in the denial of any approval required for the project study under applicable laws.
+&emsp;The Federal lead agency, the cooperating agencies, and any participating agencies shall work cooperatively in accordance with this section to identify and resolve issues that could delay completion of the environmental review process or result in the denial of any approval required for the project study under applicable laws.
 
 #### (2) Federal lead agency responsibilities
 
@@ -420,7 +420,7 @@ In this section:
 
 #### (ii) Failure to decide
 
-&emsp;&emsp;&emsp;The total amount transferred in a fiscal year as a result of a failure by an agency to make a decision by an applicable deadline shall not exceed an amount equal to 5percent of the funds made available for the applicable agency office for that fiscal year.
+&emsp;&emsp;&emsp;The total amount transferred in a fiscal year as a result of a failure by an agency to make a decision by an applicable deadline shall not exceed an amount equal to 5 percent of the funds made available for the applicable agency office for that fiscal year.
 
 #### (iii) Aggregate
 
@@ -436,7 +436,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) significant new information, including from public comments, or circumstances, including a major modification to an aspect of the project, requires additional analysis for the agency to make a decision on the project application; or
 
-&emsp;&emsp;&emsp;&emsp;(III) the agency lacks the financial resources to complete the review under the scheduled time frame, including a description of the number of full-time employees required to complete the review, the amount of funding required to complete the review, and a justification as to why not enough funding is available to complete the review by the deadline.
+&emsp;&emsp;&emsp;&emsp;(III) the agency lacks the financial resources to complete the review under the scheduled time frame, including a description of the number of full-time employees required to complete the review,the amount of funding required to complete the review, and a justification as to why not enough funding is available to complete the review by the deadline.
 
 #### (ii) Lack of financial resources
 
@@ -486,7 +486,7 @@ Nothing in this section preempts or interferes with—
 
 &emsp;(3) any requirement for seeking, considering, or responding to public comment; or
 
-&emsp;(4) any power, jurisdiction, responsibility, duty, or authority that a Federal, State, or local governmental agency, Indian tribe, or project sponsor has with respect to carryingout a project or any other provision of law applicable to projects.
+&emsp;(4) any power, jurisdiction, responsibility, duty, or authority that a Federal, State, or local governmental agency, Indian tribe, or project sponsor has with respect to carrying out a project or any other provision of law applicable to projects.
 
 #### (k) Timing of claims
 
@@ -570,7 +570,7 @@ The Water Resources Reform and Development Act of 2014, referred to in subsec. (
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

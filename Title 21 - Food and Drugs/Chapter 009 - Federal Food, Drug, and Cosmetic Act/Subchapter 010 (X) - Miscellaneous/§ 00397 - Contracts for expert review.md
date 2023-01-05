@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The Secretary may enter into a contract with any organization or any individual (who is not an employee of the Department) with relevant expertise, to review and evaluate, for the purpose of making recommendations tothe Secretary on, part or all of any application or submission (including a petition, notification, and any other similar form of request) made under this chapter for the approval or classification of an article or made under section 351(a) of the Public Health Service Act (42 U.S.C. 262(a)) with respect to a biological product. Any such contract shall be subject to the requirements of section 379 of this title relating to the confidentiality of information.
+&emsp;The Secretary may enter into a contract with any organization or any individual (who is not an employee of the Department) with relevant expertise, to review and evaluate, for the purpose of making recommendations to the Secretary on, part or all of any application or submission (including a petition, notification, and any other similar form of request) made under this chapter for the approval or classification of an article or made under section 351(a) of the Public Health Service Act (42 U.S.C. 262(a)) with respect to a biological product. Any such contract shall be subject to the requirements of section 379 of this title relating to the confidentiality of information.
 
 #### (2) Increased efficiency and expertise through contracts
 
@@ -26,7 +26,7 @@
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (b)(2), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (b)(2), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

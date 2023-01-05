@@ -18,7 +18,7 @@
 
 (3) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to provide awards and incentives to members of the armed forces and covered beneficiaries who obtain health promotion and disease prevention health care services under the TRICARE program in accordance with terms and schedules prescribed by the Secretary. Such awards and incentives may include cash awards and, in the case of members of the armed forces, personnel incentives.
 
-(4)(A) The Secretary of Defense may, in consultation with the other administering Secretaries, include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to provide awards or incentives to individual health care professionals under the authority of such Secretaries, including members of the uniformed services,Federal civilian employees, and contractor personnel, to encourage and reward effective implementation of innovative health care programs designed to improve quality, cost-effectiveness, health promotion, medical readiness, and other priority objectives. Such awards and incentives may include cash awards and, in the case of members of the armed forces and Federal civilian employees, personnel incentives.
+(4)(A) The Secretary of Defense may, in consultation with the other administering Secretaries, include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to provide awards or incentives to individual health care professionals under the authority of such Secretaries, including members of the uniformed services, Federal civilian employees, and contractor personnel, to encourage and reward effective implementation of innovative health care programs designed to improve quality, cost-effectiveness, health promotion, medical readiness, and other priority objectives. Such awards and incentives may include cash awards and, in the case of members of the armed forces and Federal civilian employees, personnel incentives.
 
 (B) Amounts available for the pay of members of the uniformed services shall be available for awards and incentives under this paragraph with respect to members of the uniformed services.
 
@@ -26,15 +26,17 @@
 
 (6) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the continuity of health care services for family members of mobilized members of the reserve components of the armed forces who are eligible for such services under this chapter, including payment of a stipend for continuation of employer-provided health coverage during extended periods of active duty.
 
-(b) Subject to the availability of appropriations for that purpose, the Secretary of Defense may enter into contracts with public or private agencies, institutions, and organizations to conduct studies and demonstration projects under subsection (a).
+(b) Subject to the availability of appropriations for that purpose, the Secretary of Defense may enter into contracts or transactions (other than contracts, cooperative agreements, and grants) with public or private agencies, institutions, and organizations to conduct studies and demonstration projects under subsection (a).
 
 (c) The Secretary of Defense may obtain the advice and recommendations of such advisory committees as the Secretary considers appropriate. Each such committee consulted by the Secretary under this subsection shall evaluate the proposed study or demonstration project as to the soundness of the objectives of such study or demonstration project, the likelihood of obtaining productive results based on such study or demonstration project, the resources which were required to conduct such study or demonstration project, and the relationship of such study or demonstration project to other ongoing or completed studies and demonstration projects.
 
-(Added Pub. L. 98–94, title IX, §933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, §19(14), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, §1031(a), Oct. 17, 1998, 112 Stat. 2123; Pub. L. 110–417, \[div. A\], title VII, §715, Oct. 14, 2008, 122 Stat. 4505.)
+(Added Pub. L. 98–94, title IX, §933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, §19(14), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, §1031(a), Oct. 17, 1998, 112 Stat. 2123; Pub. L. 110–417, \[div. A\], title VII, §715, Oct. 14, 2008, 122 Stat. 4505; Pub. L. 117–263, div. A, title VII, §717(a), Dec. 23, 2022, 136 Stat. 2662.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–263 inserted "or transactions (other than contracts, cooperative agreements, and grants)" after "contracts".
 
 <b>2008</b>—Subsec. (a)(3) to (6). Pub. L. 110–417 added pars. (3) to (6).
 
@@ -90,7 +92,7 @@ Reports.—
 
 &emsp;"(1)
 
-Initial report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program authorized by subsection (a). The report shall include a description of the pilot program and such other matters onthe pilot program as the Secretary considers appropriate.
+Initial report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program authorized by subsection (a). The report shall include a description of the pilot program and such other matters on the pilot program as the Secretary considers appropriate.
 
 &emsp;"(2)
 
@@ -226,7 +228,7 @@ Pub. L. 114–92, div. A, title VII, §726, Nov. 25, 2015, 129 Stat. 871, provid
 
 "(a)
 
-Pilot Program.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall commence the conduct of a pilot program under section 1092 of title 10, United States Code, to assess whether a reduction in the rate of increase in health care spending by the Department of Defense and an enhancement of the operation of the military health system may be achieved by developingand implementing value-based incentive programs to encourage health care providers under the TRICARE program (including physicians, hospitals, and others involved in providing health care to patients) to improve the following:
+Pilot Program.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall commence the conduct of a pilot program under section 1092 of title 10, United States Code, to assess whether a reduction in the rate of increase in health care spending by the Department of Defense and an enhancement of the operation of the military health system may be achieved by developing and implementing value-based incentive programs to encourage health care providers under the TRICARE program (including physicians, hospitals, and others involved in providing health care to patients) to improve the following:
 
 &emsp;"(1) The quality of health care provided to covered beneficiaries under the TRICARE program.
 
@@ -476,7 +478,7 @@ Consultation Requirements.—The Secretary of Defense shall develop the pilot pr
 
 "(d)
 
-Selection of Military Installation.—The pilot program may be implemented at two or more military installations selected by the Secretary of Defense. At least one of the selected military installations shall meet the following criteria:
+Selection of Military Installation.—The pilot program may be implemented at two or more militaryinstallations selected by the Secretary of Defense. At least one of the selected military installations shall meet the following criteria:
 
 &emsp;"(1) The military installation has members of the Armed Forces on active duty and members of reserve components of the Armed Forces that use the installation as a training and operational base, with members routinely deploying in support of the global war on terrorism.
 
@@ -526,7 +528,7 @@ Pub. L. 100–180, div. A, title VII, §731, Dec. 4, 1987, 101 Stat. 1117, direc
 
 #### Chiropractic Health Care
 
-Pub. L. 108–375, div. A, title VII, §718, Oct. 28, 2004, 118 Stat. 1987, provided that:
+Pub. L. 108–375, div. A, title VII, §718, Oct. 28, 2004, 118 Stat. 1987, as amended by Pub. L. 117–286, §4(a)(49), Dec. 27, 2022, 136 Stat. 4310, provided that:
 
 "(a)
 
@@ -572,7 +574,7 @@ Report.—The Secretary of Defense, following receipt of the report by the advis
 
 Applicability of Temporary Organizations Law.—(1) Section 3161 of title 5, United States Code, shall apply to the advisory committee under this section.
 
-"(2) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the oversight advisory committee under this section.
+"(2) Chapter 10 of title 5, United States Code, shall not apply to the oversight advisory committee under this section.
 
 "(h)
 

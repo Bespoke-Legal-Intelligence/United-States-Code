@@ -30,7 +30,7 @@
 
 #### (B) Prohibition on impairment of contracts
 
-&emsp;&emsp;A specified activity shall not impair an existing contract for services or collective bargaining agreement, and no such activity that would be inconsistent with the terms ofa collective bargaining agreement shall be undertaken without the written concurrence of the labor organization and employer concerned.
+&emsp;&emsp;A specified activity shall not impair an existing contract for services or collective bargaining agreement, and no such activity that would be inconsistent with the terms of a collective bargaining agreement shall be undertaken without the written concurrence of the labor organization and employer concerned.
 
 #### (3) Other prohibitions
 
@@ -106,7 +106,7 @@
 
 #### (3) Repayment
 
-&emsp;If the Secretary determines that a violation of paragraph (1) or (2) has occurred, the Secretary shall require the State that has violated such paragraph (or that has providedfunding to an entity that has violated such paragraph) to repay to the United States an amount equal to the amount expended in violation of such paragraph.
+&emsp;If the Secretary determines that a violation of paragraph (1) or (2) has occurred, the Secretary shall require the State that has violated such paragraph (or that has provided funding to an entity that has violated such paragraph) to repay to the United States an amount equal to the amount expended in violation of such paragraph.
 
 #### (e) Limitation on use of funds
 

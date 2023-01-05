@@ -1,6 +1,6 @@
 ### §202. Definitions
 
-As used in this subchapter, the term "bank" means any national banking association or any other financial institution chartered or licensed under Federal law and subject to the supervision of the Comptroller of the Currency; the term"voluntary dissolution and liquidation" means a transaction pursuant to section 181 of this title that involves the assumption of the bank's insured deposit liabilities and the sale of the bank, or of control of the bank, as a going concern; and the term "State" means any State, Territory, or possession of the United States, and the Canal Zone.
+As used in this subchapter, the term "bank" means any national banking association or any other financial institution chartered or licensed under Federal law and subject to the supervision of the Comptroller of the Currency; the term "voluntary dissolution and liquidation" means a transaction pursuant to section 181 of this title that involves the assumption of the bank's insured deposit liabilities and the sale of the bank, or of control of the bank, as a going concern; and the term "State" means any State, Territory, or possession of the United States, and the Canal Zone.
 
 (Mar. 9, 1933, ch. 1, title II, §202, 48 Stat. 2; Pub. L. 101–73, title VIII, §801, Aug. 9, 1989, 103 Stat. 441; Pub. L. 109–351, title VII, §725(b), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, §123(b), Oct. 16, 2006, 120 Stat. 2028.)
 

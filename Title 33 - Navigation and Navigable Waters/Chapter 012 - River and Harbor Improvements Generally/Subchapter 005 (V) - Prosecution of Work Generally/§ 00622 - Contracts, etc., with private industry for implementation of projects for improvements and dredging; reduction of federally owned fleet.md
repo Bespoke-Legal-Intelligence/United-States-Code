@@ -16,7 +16,7 @@ As private industry reasonably demonstrates its capability under subsection (a) 
 
 #### (2) Ready reserve status for hopper dredge Wheeler
 
-&emsp;In order to carry out this subsection, the Secretary shall place the Federal hopper dredge Wheeler in a ready reserve status not later than the earlier of 90 days after the date of completion of the rehabilitation of the hopper dredge McFarland pursuant to section 563 of the Water Resources Development Act of 1996 or October 1, 1997.
+&emsp;In order to carry out this subsection, the Secretary shall place the Federal hopper dredge Wheeler in a ready reserve status not later than the earlier of 90 days after the date of completion of the rehabilitation of the hopper dredge McFarland pursuant to section 563of the Water Resources Development Act of 1996 or October 1, 1997.
 
 #### (3) Testing and use of ready reserve hopper dredge
 
@@ -76,7 +76,7 @@ The third sentence, which provided that in all cases where the project for a wor
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(7)(B). Pub. L. 110–114 inserted "This subparagraph shall not apply to the Federal hopper dredges Essayons and Yaquina of the Corps of Engineers." at end.
+<b>2007</b>—Subsec. (c)(7)(B). Pub. L. 110–114 inserted "This subparagraph shall not apply to the Federal hopperdredges Essayons and Yaquina of the Corps of Engineers." at end.
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–303 added subsec. (c).
 

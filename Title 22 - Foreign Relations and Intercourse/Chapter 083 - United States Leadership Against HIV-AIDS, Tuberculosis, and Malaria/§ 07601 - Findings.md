@@ -2,7 +2,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) During the last 20 years, HIV/AIDS has assumed pandemic proportions, spreadingfrom the most severely affected regions, sub-Saharan Africa and the Caribbean, to all corners of the world, and leaving an unprecedented path of death and devastation.
+&emsp;(1) During the last 20 years, HIV/AIDS has assumed pandemic proportions, spreading from the most severely affected regions, sub-Saharan Africa and the Caribbean, to all corners of the world, and leaving an unprecedented path of death and devastation.
 
 &emsp;(2) According to the Joint United Nations Programme on HIV/AIDS (UNAIDS), more than 65,000,000 individuals worldwide have been infected with HIV since the epidemic began, more than 25,000,000 of these individuals have lost their lives to the disease, and more than 14,000,000 children have been orphaned by the disease. HIV/AIDS is the fourth-highest cause of death in the world.
 
@@ -38,7 +38,7 @@ Congress makes the following findings:
 
 &emsp;(13) Tuberculosis is the cause of death for one out of every three people with AIDS worldwide and is a highly communicable disease. HIV infection is the leading threat to tuberculosis control. Because HIV infection so severely weakens the immune system, individuals with HIV and latent tuberculosis infection have a 100 times greater risk of developing active tuberculosis diseases thereby increasing the risk of spreading tuberculosis to others. Tuberculosis, in turn, accelerates the onset of AIDS in individuals infected with HIV.
 
-&emsp;(14) Malaria, the most deadly of all tropical parasitic diseases, has been undergoing a dramatic resurgence in recent years due to increasing resistance of the malaria parasite to inexpensive and effective drugs. At the same time, increasing resistance of mosquitoes to standard insecticides makes control of transmission difficult to achieve. The World Health Organization estimates that between 300,000,000 and 500,000,000 new cases of malaria occur each year, and annual deaths from the disease number between 2,000,000 and 3,000,000.Persons infected with HIV are particularly vulnerable to the malaria parasite. The spread of HIV infection contributes to the difficulties of controlling resurgence of the drug resistant malaria parasite.
+&emsp;(14) Malaria, the most deadly of all tropical parasitic diseases, has been undergoing a dramatic resurgence in recent years due to increasing resistance of the malaria parasite to inexpensive and effective drugs. At the same time, increasing resistance of mosquitoes to standard insecticides makes control of transmission difficult to achieve. The World Health Organization estimates that between 300,000,000 and 500,000,000 new cases of malaria occur each year, and annual deaths from the disease number between 2,000,000 and 3,000,000. Persons infected with HIV are particularly vulnerable to the malaria parasite. The spread of HIV infection contributes to the difficultiesof controlling resurgence of the drug resistant malaria parasite.
 
 &emsp;(15) HIV/AIDS is first and foremost a health problem. Successful strategies to stem the spread of the HIV/AIDS pandemic will require clinical medical interventions, the strengthening of health care delivery systems and infrastructure, and determined national leadership and increased budgetary allocations for the health sector in countries affected by the epidemic as well as measures to address the social and behavioral causes of the problem and its impact on families, communities, and societal sectors.
 
@@ -76,7 +76,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(C) making available pharmaceuticals and diagnostics for HIV/AIDS therapy;
 
-&emsp;&emsp;(D) encouraging governments and faith-based and community-based organizations to adopt policies that treat HIV/AIDS as a multisectoral public health problem affecting not only health but other areas such as agriculture, education, the economy, the family and society, and assisting them to develop and implement programs corresponding to these needs;
+&emsp;&emsp;(D) encouraging governments and faith-based and community-based organizations toadopt policies that treat HIV/AIDS as a multisectoral public health problem affecting not only health but other areas such as agriculture, education, the economy, the family and society, and assisting them to develop and implement programs corresponding to these needs;
 
 &emsp;&emsp;(E) promoting healthy lifestyles, including abstinence, delaying sexual debut, monogamy, marriage, faithfulness, use of condoms, and avoiding substance abuse; and
 
@@ -200,5 +200,5 @@ Pub. L. 108–25, §1(a), May 27, 2003, 117 Stat. 711, provided that: "This Act 
 
 #### Delegation of Functions
 
-For delegation of functions of President under this chapter, except for functions set forth in section7622(d)(4)(C)(i), (ii) of this title, to Secretary of State, see section 1–100(a)(16) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this chapter, except for functions set forth in section 7622(d)(4)(C)(i), (ii) of this title, to Secretary of State,see section 1–100(a)(16) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

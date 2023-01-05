@@ -2,7 +2,7 @@
 
 #### (a) Restructuring
 
-Notwithstanding any other provision of law, sections 2202, 2202a, 2202b, 2202d, and 2219a of this title shall not apply to any loan included in a pool of qualified loans backing securities or obligations for which the Corporation provides guarantee. The loan servicing standards established by the Corporation shall be patterned after similar standards adopted by other federally sponsored secondary market facilities.
+Notwithstanding any other provision of law, sections 2202, 2202a, 2202b, 2202d, and 2219a of this title shall not apply to any loan included in apool of qualified loans backing securities or obligations for which the Corporation provides guarantee. The loan servicing standards established by the Corporation shall be patterned after similar standards adopted by other federally sponsored secondary market facilities.
 
 #### (b) Borrowers rights
 
@@ -24,5 +24,5 @@ At the time of application for a loan (as defined in section 2202a(a)(5) of this
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

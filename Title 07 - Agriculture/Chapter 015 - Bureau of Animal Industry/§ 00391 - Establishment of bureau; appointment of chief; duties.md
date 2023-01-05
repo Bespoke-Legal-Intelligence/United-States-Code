@@ -28,7 +28,7 @@ The President's message, set out in the Appendix to Title 5, Government Organiza
 
 Functions of Bureau of Animal Industry which were transferred to Secretary of Agriculture were transferred to Agricultural Research Service under Secretary's memorandum 1320, supp. 4, of Nov. 2, 1953.
 
-As of July 1, 1927, by order of the Secretary of Agriculture, the Packers and Stockyards administration was abolished, and the enforcement of the Packers andStockyards Act of 1921, section 181 et seq. of this title, put under the control of the chief of the Bureau of Animal Industry.
+As of July 1, 1927, by order of the Secretary of Agriculture, the Packers and Stockyards administration was abolished, and the enforcement of the Packers and Stockyards Act of 1921, section 181 et seq. of this title, put under the control of the chief of the Bureau of Animal Industry.
 
 Authority formerly granted to Commissioner of Agriculture by section 1 of act of May 29, 1884, vested in Secretary of Agriculture by act July 14, 1890. See also sections 2202 and 2205 of this title.
 

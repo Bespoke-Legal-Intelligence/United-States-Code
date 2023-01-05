@@ -2,7 +2,7 @@
 
 For purposes of this chapter:
 
-(1) The term "civil disorder" means any public disturbance involving acts of violence by assemblages of three or more persons, which causes an immediate danger of or results in damage or injury to the property or person of any other individual.
+(1) The term "civil disorder" means any public disturbance involving acts of violence by assemblages of three or more persons, which causes animmediate danger of or results in damage or injury to the property or person of any other individual.
 
 (2) The term "commerce" means commerce (A) between any State or the District of Columbia and any place outside thereof; (B) between points within any State or the District of Columbia, but through any place outside thereof; or (C) wholly within the District of Columbia.
 

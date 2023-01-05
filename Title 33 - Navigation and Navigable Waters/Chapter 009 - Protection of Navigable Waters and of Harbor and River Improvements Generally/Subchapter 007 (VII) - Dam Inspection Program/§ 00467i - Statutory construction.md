@@ -8,7 +8,7 @@ Nothing in this subchapter and no action or failure to act under this subchapter
 
 &emsp;(3) preempt any other Federal or State law.
 
-(Pub. L. 92–367, §13, formerly §11, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered §12, Pub. L. 107–310, §5(1),Dec. 2, 2002, 116 Stat. 2453; renumbered §13, Pub. L. 113–121, title III, §3001(d)(1), June 10, 2014, 128 Stat. 1283.)
+(Pub. L. 92–367, §13, formerly §11, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered §12, Pub. L. 107–310, §5(1), Dec. 2, 2002, 116 Stat. 2453; renumbered §13, Pub. L. 113–121, title III, §3001(d)(1), June 10, 2014, 128 Stat. 1283.)
 
 #### <b>Editorial Notes</b>
 

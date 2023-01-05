@@ -54,7 +54,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall review the designation of a foreign terrorist organization under the procedures set forth in clauses (iii) and (iv) if the designated organization files a petition for revocation within the petition period described in clause (ii).
+&emsp;&emsp;&emsp;The Secretary shall review the designation of a foreign terrorist organizationunder the procedures set forth in clauses (iii) and (iv) if the designated organization files a petition for revocation within the petition period described in clause (ii).
 
 #### (ii) Petition period
 
@@ -130,7 +130,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may amend a designation under this subsection if the Secretary findsthat the organization has changed its name, adopted a new alias, dissolved and then reconstituted itself under a different name or names, or merged with another organization.
+&emsp;The Secretary may amend a designation under this subsection if the Secretary finds that the organization has changed its name, adopted a new alias, dissolved and then reconstituted itself under a different name or names, or merged with another organization.
 
 #### (2) Procedure
 
@@ -218,7 +218,7 @@ Subsec. (b). Pub. L. 108–458, §7119(b)(2), added subsec. (b). Former subsec. 
 
 Subsec. (c). Pub. L. 108–458, §7119(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1). Pub. L. 108–458, §7119(c)(2)(A), substituted "in the Federal Register of a designation, an amended designation, or a determination in response to a petition for revocation, the designated organization may seek judicial review" for "of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation".
+Subsec. (c)(1). Pub. L. 108–458, §7119(c)(2)(A), substituted "in the Federal Register of a designation, an amended designation, or a determination in response toa petition for revocation, the designated organization may seek judicial review" for "of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation".
 
 Subsec. (c)(2) to (4). Pub. L. 108–458, §7119(c)(2)(B)–(D), inserted ", amended designation, or determination in response to a petition for revocation" after "designation" wherever appearing.
 

@@ -294,7 +294,7 @@ Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle 
 
 #### Self-Insurance Rules
 
-Pub. L. 104–88, title I, §104(h), Dec. 29, 1995, 109 Stat. 920, provided that: "The Secretary of Transportationshall continue to enforce the rules and regulations of the Interstate Commerce Commission, as in effect on July 1, 1995, governing the qualifications for approval of a motor carrier as a self-insurer, until such time as the Secretary finds it in the public interest to revise such rules. The revised rules must provide for—
+Pub. L. 104–88, title I, §104(h), Dec. 29, 1995, 109 Stat. 920, provided that: "The Secretary of Transportation shall continue to enforce the rules and regulations of the Interstate Commerce Commission, as in effect on July 1, 1995, governing the qualifications for approval of a motor carrier as a self-insurer, until such time as the Secretary finds it in the public interest to revise such rules. The revised rules must provide for—
 
 &emsp;"(1) continued ability of motor carriers to qualify as self-insurers; and
 

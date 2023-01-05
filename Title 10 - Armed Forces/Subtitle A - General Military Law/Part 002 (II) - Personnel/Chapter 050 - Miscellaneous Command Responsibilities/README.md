@@ -6,12 +6,15 @@
 | [992\.](%C2%A7%2000992%20-%20Financial%20literacy%20training%20financial%20services.md) | Financial literacy training: financial services. |
 | [993\.](%C2%A7%2000993%20-%20Notification%20of%20permanent%20reduction%20of%20sizable%20numbers%20of%20members%20of%20the%20armed%20forces.md) | Notification of permanent reduction of sizable numbers of members of the armed forces. |
 | [994\.](%C2%A7%2000994%20-%20Military%20working%20dogs%20veterinary%20care%20for%20retired%20military%20working%20dogs.md) | Military working dogs: veterinary care for retired military working dogs. |
+| [995\.](%C2%A7%2000995%20-%20Accountability%20for%20contractors%20using%20military%20working%20dogs.md) | Accountability for contractors using military working dogs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title III, §382(a), Dec. 23, 2022, 136 Stat. 2543, added item 995.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title VI, §661(e)(2), Nov. 25, 2015, 129 Stat. 858, substituted "Financial literacy training: financial services" for "Consumer education: financial services" in item 992.
 
@@ -20,6 +23,12 @@
 <b>2011</b>—Pub. L. 112–81, div. A, title V, §522(d)(2), div. B, title XXVIII, §2864(b), Dec. 31, 2011, 125 Stat. 1401, 1702, substituted "Management of deployments of members and measurement and data collection of unit operating and personnel tempo" for "Management of deployments of members" in item 991 and added item 993.
 
 <b>2006</b>—Pub. L. 109–163, div. A, title V, §578(a)(2), Jan. 6, 2006, 119 Stat. 3276, added item 992.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Regulations to Prohibit Abandonment
+
+Pub. L. 117–263, div. A, title III, §382(e), Dec. 23, 2022, 136 Stat. 2543, provided that: "Not later than two years after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall issue regulations to prohibit the abandonment of military working dogs used in support of a military operation outside of the continental United States."
 
 
 ---
@@ -30,3 +39,4 @@
 - [&sect; 00992 - Financial literacy training financial services](%C2%A7%2000992%20-%20Financial%20literacy%20training%20financial%20services.md)
 - [&sect; 00993 - Notification of permanent reduction of sizable numbers of members of the armed forces](%C2%A7%2000993%20-%20Notification%20of%20permanent%20reduction%20of%20sizable%20numbers%20of%20members%20of%20the%20armed%20forces.md)
 - [&sect; 00994 - Military working dogs veterinary care for retired military working dogs](%C2%A7%2000994%20-%20Military%20working%20dogs%20veterinary%20care%20for%20retired%20military%20working%20dogs.md)
+- [&sect; 00995 - Accountability for contractors using military working dogs](%C2%A7%2000995%20-%20Accountability%20for%20contractors%20using%20military%20working%20dogs.md)

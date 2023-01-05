@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 109–432, §407(c)(2), substituted "(e), and (g)" for "and
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §407(f), Dec. 20, 2006, 120 Stat. 2962, provided that: "The amendments madeby this section \[amending this section and sections 6330, 6702, and 7122 of this title\] shall apply to submissions made and issues raised after the date on which the Secretary first prescribes a list under section 6702(c) of the Internal Revenue Code of 1986, as amended by subsection (a) \[list prescribed Mar. 16, 2007, see I.R.S. Notice 2007–30, 2007–14, I.R.B. 883\]."
+Pub. L. 109–432, div. A, title IV, §407(f), Dec. 20, 2006, 120 Stat. 2962, provided that: "The amendments made by this section \[amending this section and sections 6330, 6702, and 7122 of this title\] shall apply to submissions made and issues raised after the date on which the Secretary first prescribes a list under section 6702(c) of the Internal Revenue Code of 1986, as amended by subsection (a) \[list prescribed Mar. 16, 2007, see I.R.S. Notice 2007–30, 2007–14, I.R.B. 883\]."
 
 #### Effective Date
 

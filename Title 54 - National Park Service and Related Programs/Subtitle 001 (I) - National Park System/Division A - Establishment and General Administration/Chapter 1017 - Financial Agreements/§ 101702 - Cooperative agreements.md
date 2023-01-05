@@ -10,7 +10,7 @@ Cooperative Research and Training Programs.—
 
 &emsp;(1)
 
-In general.—To facilitate the administration of the System, the Secretary, under such terms and conditions as the Secretary may consider advisable, may—
+In general.—To facilitate the administration of the System, the Secretary, undersuch terms and conditions as the Secretary may consider advisable, may—
 
 &emsp;&emsp;(A) enter into cooperative agreements with public or private educational institutions, States, and political subdivisions of States to develop adequate, coordinated, cooperative research and training programs concerning the resources of the System; and
 

@@ -202,7 +202,7 @@ In developing and identifying carbon removal technologies and strategies under t
 
 #### (B) Renewal
 
-&emsp;&emsp;The Secretary may renew a grant for 1 or more additional 5-year terms, subject to a competitive merit review and the availability of appropriations.
+&emsp;&emsp;The Secretary may renew a grant for 1 or more additional 5-year terms, subject to acompetitive merit review and the availability of appropriations.
 
 #### (6) Termination
 
@@ -222,7 +222,7 @@ In carrying out the program, the Secretary shall encourage and promote collabora
 
 #### (i) Accounting
 
-The Secretary shall collaborate with the Administrator of the Environmental Protection Agency and the heads of other relevant Federal agencies to develop and improve accounting frameworks and tools to accurately measurecarbon removal and sequestration methods and technologies.
+The Secretary shall collaborate with the Administrator of the Environmental Protection Agency and the heads of other relevant Federal agencies to develop and improve accounting frameworks and tools to accurately measure carbon removal and sequestration methods and technologies.
 
 #### (j) Regional direct air capture hubs
 
@@ -298,7 +298,7 @@ The Secretary shall collaborate with the Administrator of the Environmental Prot
 
 #### (v) Scalability
 
-&emsp;&emsp;&emsp;The Secretary shall give priority to eligible projects that, as compared to other eligible projects, will contribute to the development of regional direct air capture hubs with larger initial capacity, greater potential for expansion, and lower levelized cost per ton of carbon dioxide removed from the atmosphere.
+&emsp;&emsp;&emsp;The Secretary shall give priority to eligible projects that, as compared to othereligible projects, will contribute to the development of regional direct air capture hubs with larger initial capacity, greater potential for expansion, and lower levelized cost per ton of carbon dioxide removed from the atmosphere.
 
 #### (vi) Employment
 

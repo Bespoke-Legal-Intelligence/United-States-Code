@@ -222,7 +222,7 @@ Waiver on a case-by-case basis.—Any waiver under this subsection may be made o
 
 "(d)
 
-Reports to Congress.—If the authority provided under this section is exercised during a fiscal year, the Secretary of Defense shall, with the concurrence of the Secretary of State, submit to the appropriate committees of Congress a report on the exercise of such authority by not later than October 30 of the year in which such fiscal year ends. Each report on the exercise of such authority shall specify the recipient country of the equipment loaned, the type of equipment loaned, and the duration of the loan of such equipment.
+Reports to Congress.—If the authority provided under this section is exercised during a fiscalyear, the Secretary of Defense shall, with the concurrence of the Secretary of State, submit to the appropriate committees of Congress a report on the exercise of such authority by not later than October 30 of the year in which such fiscal year ends. Each report on the exercise of such authority shall specify the recipient country of the equipment loaned, the type of equipment loaned, and the duration of the loan of such equipment.
 
 "(e)
 
@@ -234,7 +234,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
 
-&emsp;"(2) The term 'personnel protection and personnel survivability equipment' means items enumerated in categories I, II, III, VII, X, XI, and XIII of the UnitedStates Munitions List under section 38(a)(1) of the Arms Export Control Act (22 U.S.C. 2778(a)(1)\[)\] that the Secretary of Defense designates as available for loan under this section.
+&emsp;"(2) The term 'personnel protection and personnel survivability equipment' means items enumerated in categories I, II, III, VII, X, XI, and XIII of the United States Munitions List under section 38(a)(1) of the Arms Export Control Act (22 U.S.C. 2778(a)(1)\[)\] that the Secretary of Defense designates as available for loan under this section.
 
 "(f)
 

@@ -1,6 +1,6 @@
 ### §8984. Benefits
 
-(a) The Office may prescribe reasonable minimum standards for enhanced vision benefitsplans offered under this chapter and for qualified companies offering the plans.
+(a) The Office may prescribe reasonable minimum standards for enhanced vision benefits plans offered under this chapter and for qualified companies offering the plans.
 
 (b) Each contract may include more than 1 level of benefits that shall be made available to all eligible individuals.
 

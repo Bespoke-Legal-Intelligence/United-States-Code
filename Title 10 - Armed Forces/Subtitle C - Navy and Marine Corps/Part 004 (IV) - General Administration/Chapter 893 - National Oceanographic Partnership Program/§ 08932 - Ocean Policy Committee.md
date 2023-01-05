@@ -12,7 +12,7 @@ Responsibilities.—The Committee shall—
 
 &emsp;(2) engage and collaborate, pursuant to existing laws and regulations, with stakeholders, including regional ocean partnerships, to address ocean-related matters that may require interagency or intergovernmental solutions;
 
-&emsp;(3) facilitate coordination and integration of Federal activities in ocean and coastal waters to inform ocean policy and identify priority ocean research, technology, and data needs; and
+&emsp;(3) facilitate coordination and integration of Federal activities in ocean and coastal waters to inform ocean policy and identify priority ocean research, technology, and data needs;
 
 &emsp;(4) prescribe policies and procedures to implement the National Oceanographic Partnership Program, including developing guidelines for review, selection, identification, and approval of partnership projects, in conjunction with Federal agencies participating in the program, for implementation under the program, based on—
 
@@ -26,11 +26,19 @@ Responsibilities.—The Committee shall—
 
 &emsp;&emsp;(E) whether the project has been subjected to adequate scientific and technical merit review according to each participating agency; and
 
-&emsp;&emsp;(F) the approval of such guidelines by a consensus of the members of the Committee.
+&emsp;&emsp;(F) the approval of such guidelines by a consensus of the members of the Committee; and
+
+&emsp;(5) for projects under the purview of the Committee, establish or designate one or more systems for ocean-related and ocean-mapping-related documents prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), in accordance with subsection (h).
 
 (c)
 
-Delegation of Responsibilities.—In discharging its responsibilities in support of agreed-upon scientific needs, and to assist in the execution of the responsibilities described in subsection (b), the Committee may delegate responsibilities to a subcommittee of the Committee, as the Committee determines appropriate.
+Subcommittees.—(1) The Committee shall include—
+
+&emsp;(A) a subcommittee to be known as the "Ocean Science and Technology Subcommittee"; and
+
+&emsp;(B) a subcommittee to be known as the "Ocean Resource Management Subcommittee".
+
+(2) In discharging its responsibilities in support of agreed-upon scientific needs, and to assist in the execution of the responsibilities described in subsection (b), the Committee may delegate responsibilities to the Ocean Science and Technology Subcommittee, the Ocean Resource Management Subcommittee, or another subcommittee of the Committee, as the Committee determines appropriate.
 
 (d)
 
@@ -68,7 +76,7 @@ Partnership Program Office.—(1) The Secretary of the Navy and Administrator of
 
 &emsp;(A) Supporting working groups established by the Committee or subcommittee and reporting to the Committee and to any Federal agency that has contributed amounts to the National Oceanographic Partnership Program on the activities of such working groups, including the proposals of such working groups for partnership projects.
 
-&emsp;(B) Supporting the process for proposing partnership projects to the Committee and tothe agencies referred to in subparagraph (A), including, where appropriate, managing review of such projects.
+&emsp;(B) Supporting the process for proposing partnership projects to the Committee and to the agencies referred to in subparagraph (A), including, where appropriate, managing review of such projects.
 
 &emsp;(C) Submitting to the appropriate congressional committees, and making publicly available, an annual report on the status of all partnership projects, including the Federal and non-Federal sources of funding for each project, and activities of the office.
 
@@ -86,6 +94,34 @@ Establishment and Forms of Partnership Projects.—(1) A partnership project und
 
 (h)
 
+Elements of Document System.—The systems established or designated under subsection (b)(5) may include the following:
+
+&emsp;(1) A publicly accessible, centralized digital archive of documents described in subsection (b)(5) that are finalized after the date of the enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, including—
+
+&emsp;&emsp;(A) environmental impact statements;
+
+&emsp;&emsp;(B) environmental assessments;
+
+&emsp;&emsp;(C) records of decision; and
+
+&emsp;&emsp;(D) other relevant documents as determined by the lead agency on a project.
+
+&emsp;(2) Geospatially referenced data, if any, contained in the documents under paragraph (1).
+
+&emsp;(3) A mechanism to retrieve information through geo-information tools that can map and integrate relevant geospatial information, such as—
+
+&emsp;&emsp;(A) Ocean Report Tools;
+
+&emsp;&emsp;(B) the Environmental Studies Program Information System;
+
+&emsp;&emsp;(C) Regional Ocean Partnerships; and
+
+&emsp;&emsp;(D) the Integrated Ocean Observing System.
+
+&emsp;(4) Appropriate safeguards on the public accessibility of data to protect national security equities.
+
+(i)
+
 Appropriate Congressional Committees.—In this section, the term "appropriate congressional committees" means—
 
 &emsp;(1) the Committee on Commerce, Science, and Transportation of the Senate;
@@ -102,15 +138,25 @@ Appropriate Congressional Committees.—In this section, the term "appropriate c
 
 &emsp;(7) the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470, §7902; amended Pub. L. 105–85, div. A, title II, §241(a), title X, §1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903; Pub. L. 106–65, div. A, title X, §1066(a)(30), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1713, Nov. 25, 2002, 116 Stat. 2320; renumbered §8932, Pub. L. 115–232, div. A, title VIII, §807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, §1055(b)(1), (2)(A), Jan. 1, 2021, 134 Stat. 3851–3853.)
+(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470, §7902; amended Pub. L. 105–85, div. A, title II, §241(a), title X, §1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903; Pub. L. 106–65, div. A, title X, §1066(a)(30), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1713, Nov. 25, 2002, 116 Stat. 2320; renumbered §8932, Pub. L. 115–232, div. A, title VIII, §807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, §1055(b)(1), (2)(A), Jan. 1, 2021, 134 Stat. 3851–3853; Pub. L. 117–263, div. J, title CIII, §10303, Dec. 23, 2022, 136 Stat. 3967.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
-#### <b>Editorial Notes</b>
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+The date of the enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(5). Pub. L. 117–263, §10303(b)(1), added par. (5).
+
+Subsec. (c). Pub. L. 117–263, §10303(a), amended subsec. (c) generally. Prior to amendment, text read as follows: "In discharging its responsibilities in support of agreed-upon scientific needs, and to assist in the execution of the responsibilities described in subsection (b), the Committee may delegate responsibilities to a subcommittee of the Committee, as the Committee determines appropriate."
+
+Subsecs. (h), (i). Pub. L. 117–263, §10303(b)(2), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 <b>2021</b>—Pub. L. 116–283, §1055(b)(2)(A), substituted "Ocean Policy Committee" for "National Ocean Research Leadership Council" in section catchline.
 
@@ -160,7 +206,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title II, §241(d), Nov. 18, 1997, 111 Stat. 1666, provided that: "The amendments made bysubsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201."
+Pub. L. 105–85, div. A, title II, §241(d), Nov. 18, 1997, 111 Stat. 1666, provided that: "The amendments made by subsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201."
 
 #### Transfer of Functions
 
@@ -174,5 +220,5 @@ Pub. L. 104–201, div. A, title II, §282(b), Sept. 23, 1996, 110 Stat. 2473, d
 
 #### First Annual Report of Council
 
-Pub. L. 104–201, div. A, title II, §282(c), formerly §282(d), Sept. 23, 1996, 110 Stat. 2473, as renumbered by Pub. L. 105–85, div. A, title II, §241(c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that: "The first annual report required by section 7902(f) \[now 8932(f)\] of title 10, United States Code, as added by subsection (a)(1), shall be submitted to Congress not later than March 1, 1997. The first report shall include, in addition to the information required by such section, information about the terms of office, procedures, and responsibilities of the Ocean Research Advisory Panel established by the Council."
+Pub. L. 104–201, div. A, title II, §282(c), formerly §282(d), Sept. 23, 1996, 110 Stat. 2473, as renumbered by Pub. L. 105–85, div. A, title II, §241(c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that the first annual report required by former subsec. (f) of this section was to be submitted to Congress not later than Mar. 1, 1997.
 

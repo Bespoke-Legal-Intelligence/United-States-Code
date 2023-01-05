@@ -28,7 +28,7 @@ The program under subsection (b) shall have the following objectives:
 
 In this section, the term "joint nuclear weapons life cycle process" means the process developed and maintained by the Secretary of Defense and the Secretary of Energy for the development, production, maintenance, and retirement of nuclear weapons.
 
-(Pub. L. 107–314, div. D, title XLII, §4220, as added Pub. L. 114–92, div. C, title XXXI, §3112(b)(1), Nov. 25, 2015, 129 Stat. 1189; amended Pub. L. 115–91, div. C, title XXXI, §3135(b), Dec. 12, 2017, 131 Stat. 1898; Pub. L. 116–92, div. C, title XXXI, §3114, Dec. 20, 2019, 133 Stat. 1951.)
+(Pub. L. 107–314, div. D, title XLII, §4220, as added Pub. L. 114–92, div. C, title XXXI, §3112(b)(1), Nov. 25, 2015, 129 Stat. 1189; amendedPub. L. 115–91, div. C, title XXXI, §3135(b), Dec. 12, 2017, 131 Stat. 1898; Pub. L. 116–92, div. C, title XXXI, §3114, Dec. 20, 2019, 133 Stat. 1951.)
 
 #### <b>Editorial Notes</b>
 

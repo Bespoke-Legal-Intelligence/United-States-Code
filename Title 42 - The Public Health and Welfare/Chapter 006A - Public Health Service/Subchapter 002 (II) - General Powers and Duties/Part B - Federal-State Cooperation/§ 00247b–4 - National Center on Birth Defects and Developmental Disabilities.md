@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The programs and functions described in this subparagraph are all programs and functions that—
 
-&emsp;&emsp;&emsp;(i) relate to birth defects; folic acid; cerebral palsy; intellectual disabilities; childdevelopment; newborn screening; autism; fragile X syndrome; fetal alcohol syndrome; pediatric genetic disorders; disability prevention; or other relevant diseases, disorders, or conditions as determined <sup>1</sup> the Secretary; and
+&emsp;&emsp;&emsp;(i) relate to birth defects; folic acid; cerebral palsy; intellectual disabilities; child development; newborn screening; autism; fragile X syndrome; fetal alcohol syndrome; pediatric genetic disorders; disability prevention; or other relevant diseases, disorders, or conditions as determined <sup>1</sup> the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) were carried out through the National Center for Environmental Health as of the day before October 17, 2000.
 
@@ -120,7 +120,7 @@ Subsec. (a). Pub. L. 106–310, §611(2), added subsec. (a) and struck out headi
 
 Subsec. (b)(1). Pub. L. 106–310, §611(3), substituted "subsection (a)(2)(A) of this section" for "subsection (a)(1) of this section" in introductory provisions.
 
-<b>1998</b>—Pub. L. 105–168 amended section generally, substituting present provisions for provisions which directed Secretary to encourage and assist States in collection and analysis of epidemiological data on birth defects and to establish and maintain National Information Clearinghouse on Birth Defects, required report not later than July 1, 1993, and biennially thereafter, and authorized appropriations for fiscal years 1993, 1994, and 1995.
+<b>1998</b>—Pub. L. 105–168 amended section generally, substituting present provisions for provisions which directed Secretary to encourage and assist States in collection and analysis of epidemiological data on birthdefects and to establish and maintain National Information Clearinghouse on Birth Defects, required report not later than July 1, 1993, and biennially thereafter, and authorized appropriations for fiscal years 1993, 1994, and 1995.
 
 <b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §306(a), which enacted this section.
 

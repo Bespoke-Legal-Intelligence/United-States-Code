@@ -48,7 +48,7 @@ Section is comprised of section 308 of Pub. L. 94–578. Subsec. (e) of section 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–541, §3(a), Oct. 27, 1992, 106 Stat. 3565, provided in part: "That this subsection \[amending this section\] shall not be effective until the lands included within the proposed new boundaries of the Appomattox Court House National Historical Park pursuant to this Act \[amending this section and section 425k of this title and enacting provisions set out as notes under this section and section 425k of this title\] have been donated to the Secretary of the Interior." \[Lands included within proposed new boundaries were donated on Sept. 14, 1993, and Sept. 15, 1993.\]
+Pub. L. 102–541, §3(a), Oct. 27, 1992, 106 Stat. 3565, provided in part: "That this subsection \[amending this section\] shall not be effective until the lands includedwithin the proposed new boundaries of the Appomattox Court House National Historical Park pursuant to this Act \[amending this section and section 425k of this title and enacting provisions set out as notes under this section and section 425k of this title\] have been donated to the Secretary of the Interior." \[Lands included within proposed new boundaries were donated on Sept. 14, 1993, and Sept. 15, 1993.\]
 
 #### Acquisition of Certain Lands by Donation Only
 

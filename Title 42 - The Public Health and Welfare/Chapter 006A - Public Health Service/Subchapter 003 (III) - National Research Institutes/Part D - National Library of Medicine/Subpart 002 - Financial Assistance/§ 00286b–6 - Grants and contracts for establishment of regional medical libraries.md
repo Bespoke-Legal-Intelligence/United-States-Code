@@ -38,7 +38,7 @@ Grants and contracts under this section for basic resource materials to a librar
 
 &emsp;(1) 50 percent of the library's annual operating expense (exclusive of Federal financial assistance under this part) for the preceding year; or
 
-&emsp;(2) in case of the first year in which the library receives a grant under this section forbasic resource materials, 50 percent of its average annual operating expenses over the past three years (or if it had been in operation for less than three years, its annual operating expenses determined by the Secretary in accordance with regulations).
+&emsp;(2) in case of the first year in which the library receives a grant under this section for basic resource materials, 50 percent of its average annual operating expenses over the past three years (or if it had been in operation for less than three years, its annual operating expenses determined by the Secretary in accordance with regulations).
 
 (July 1, 1944, ch. 373, title IV, §475, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 862.)
 

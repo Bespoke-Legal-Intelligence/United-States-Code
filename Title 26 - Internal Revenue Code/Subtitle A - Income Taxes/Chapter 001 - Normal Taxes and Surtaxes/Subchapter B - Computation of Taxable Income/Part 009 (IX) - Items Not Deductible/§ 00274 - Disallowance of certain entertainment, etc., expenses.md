@@ -108,7 +108,7 @@ Subsection (a) shall not apply to—
 
 #### (3) Reimbursed expenses
 
-&emsp;Expenses paid or incurred by the taxpayer, in connection with the performance by him ofservices for another person (whether or not such other person is his employer), under a reimbursement or other expense allowance arrangement with such other person, but this paragraph shall apply—
+&emsp;Expenses paid or incurred by the taxpayer, in connection with the performance by him of services for another person (whether or not such other person is his employer), under a reimbursement or other expense allowance arrangement with such other person, but this paragraph shall apply—
 
 &emsp;&emsp;(A) where the services are performed for an employer, only if the employer has not treated such expenses in the manner provided in paragraph (2), or
 
@@ -372,7 +372,7 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 #### (A) In general
 
-&emsp;&emsp;No deduction shall be allowed under this chapter for expenses incurred for transportation by water to the extent such expenses exceed twice the aggregate per diem amounts for days of such transportation. For purposes of the preceding sentence, the term "per diem amounts" means the highest amount generally allowable with respect to a day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
+&emsp;&emsp;No deduction shall be allowed under this chapter for expenses incurred for transportation by water to the extent such expenses exceed twice the aggregate per diem amounts for days of such transportation. For purposes of the preceding sentence, theterm "per diem amounts" means the highest amount generally allowable with respect to a day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
 
 #### (B) Exceptions
 
@@ -440,7 +440,7 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.
 
-(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 113–295, div. A, title II, §221(a)(46), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 115–97, title I, §§13304(a)(1)–(2)(E), (b)–(d), 13310(a), Dec. 22, 2017, 131 Stat. 2124–2126, 2132; Pub. L. 116–260, div. EE, title II, §210(a), Dec. 27, 2020, 134 Stat. 3066.)
+(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a),Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 113–295, div. A, title II, §221(a)(46), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 115–97, title I, §§13304(a)(1)–(2)(E), (b)–(d), 13310(a), Dec. 22, 2017, 131 Stat. 2124–2126, 2132; Pub. L. 116–260, div. EE, title II, §210(a), Dec. 27, 2020, 134 Stat. 3066.)
 
 #### Amendment of Section
 
@@ -480,7 +480,7 @@ Subsec. (a)(4). Pub. L. 115–97, §13304(c)(1)(B), added par. (4).
 
 Subsec. (d). Pub. L. 115–97, §13304(a)(2)(A)(ii), in concluding provisions, struck out ", entertainment, amusement, recreation, or use of the facility or property," after "travel" and substituted "(D) the business relationship to the taxpayer of the person receiving the benefit" for "(D) the business relationship to the taxpayer of persons entertained, using the facility or property, or receiving the gift".
 
-Subsec. (d)(2) to (4). Pub. L. 115–97, §13304(a)(2)(A)(i), redesignated pars. (3) and (4) as (2) and (3), respectively,and struck out former par. (2) which read as follows: "for any item with respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or with respect to a facility used in connection with such an activity,".
+Subsec. (d)(2) to (4). Pub. L. 115–97, §13304(a)(2)(A)(i), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "for any item with respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or with respect to a facility used in connection with such an activity,".
 
 Subsec. (j)(3)(A). Pub. L. 115–97, §13310(a), designated text of subpar. (A) as cl. (i) and inserted heading, redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i), and added cl. (ii).
 
@@ -562,7 +562,7 @@ Pub. L. 100–647, §1001(g)(1), amended subpar. (A) generally. Prior to amendme
 
 &emsp;"(ii) such item is a qualified plan award."
 
-Subsec. (b)(3). Pub. L. 99–514, §122(c)(4), struck out par. (3) relating to qualified plan award, defining suchterm in subpar. (A), and providing for average amount of awards in subpar. (B) and maximum amount per item in subpar. (C).
+Subsec. (b)(3). Pub. L. 99–514, §122(c)(4), struck out par. (3) relating to qualified plan award, defining such term in subpar. (A), and providing for average amount of awards in subpar. (B) and maximum amount per item in subpar. (C).
 
 Subsec. (e)(1). Pub. L. 99–514, §142(a)(2)(A), redesignated par. (2) as (1) and struck out former par. (1), business meals, which read as follows: "Expenses for food and beverages furnished to any individual under circumstances which (taking into account the surroundings in which furnished, the taxpayer's trade, business, or income-producing activity and the relationship to such trade, business, or activity of the persons to whom the food and beverages are furnished) are of a type generally considered to be conducive to a business discussion."
 
@@ -734,7 +734,7 @@ Pub. L. 97–34, title II, §265(c), Aug. 13, 1981, 95 Stat. 265, provided that:
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–608, §4(b), Dec. 28, 1980, 94 Stat. 3552, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall apply to conventions, seminars, and meetings beginning after December 31, 1980, except that in the case of any convention, seminar, or meeting beginning after such date which was scheduled on or before such date, a person, in such manner as the Secretary of the Treasury or his delegate may prescribe, may elect to have the provisions of section 274(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] be applied to such convention seminar or meeting without regard to such amendment."
+Pub. L. 96–608, §4(b), Dec. 28, 1980, 94 Stat. 3552, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall apply to conventions, seminars, and meetings beginning after December 31, 1980, except that in the case of any convention, seminar, or meeting beginning after such date which was scheduled on or before such date, a person, in such manner as the Secretary of the Treasury or his delegate may prescribe, may elect to have the provisions of section 274(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] be applied to such convention seminar or meeting without regard to such amendment."
 
 Pub. L. 96–598, §5(b), Dec. 24, 1980, 94 Stat. 3488, and Pub. L. 96–605, title I, §108(b), Dec. 28, 1980, 94 Stat. 3525, provided that: "The amendment made by this section \[amending this section\] shall apply to any expenses paid or incurred after December 31, 1980, in taxable years ending after such date."
 
@@ -768,7 +768,7 @@ Pub. L. 99–44, §1(c), May 24, 1985, 99 Stat. 77, provided that: "Regulations 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

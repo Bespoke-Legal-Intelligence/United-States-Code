@@ -34,7 +34,7 @@ The Secretary may exercise the authority under subsection (a) only after—
 
 If the Secretary has exercised the authority under subsection (a), the Secretary shall—
 
-&emsp;(1) notify appropriate parties of the covered procurement action or special exclusion action and the basis for the action only to the extent necessary to carry out the covered procurement action or special exclusion action;
+&emsp;(1) notify appropriate parties of the covered procurement action or special exclusion actionand the basis for the action only to the extent necessary to carry out the covered procurement action or special exclusion action;
 
 &emsp;(2) notify other Federal agencies responsible for procurement that may be subject to the same or similar supply chain risk, in a manner and to the extent consistent with the requirements of national security; and
 
@@ -78,7 +78,7 @@ In this section:
 
 &emsp;&emsp;(A) A source selection for a covered system or a covered item of supply involving either a performance specification, as described in subsection (a)(3)(B) of section 3306 of title 41, or an evaluation factor, as described in subsection (b)(1) of such section, relating to supply chain risk.
 
-&emsp;&emsp;(B) The consideration of proposals for and issuance of a task or delivery order for a covered system or a covered item of supply, as provided in section 4106(d)(3) of title 41, where the task or delivery order contractconcerned includes a contract clause establishing a requirement relating to supply chain risk.
+&emsp;&emsp;(B) The consideration of proposals for and issuance of a task or delivery order for a covered system or a covered item of supply, as provided in section 4106(d)(3) of title 41, where the task or delivery order contract concerned includes a contract clause establishing a requirement relating to supply chain risk.
 
 &emsp;&emsp;(C) Any contract action involving a contract for a covered system or a covered item of supply if the contract includes a clause establishing requirements relating to supply chain risk.
 

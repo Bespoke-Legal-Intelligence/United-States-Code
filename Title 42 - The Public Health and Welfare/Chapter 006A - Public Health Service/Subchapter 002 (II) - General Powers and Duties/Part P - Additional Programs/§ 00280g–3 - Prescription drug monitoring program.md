@@ -208,7 +208,7 @@ Another section 399O of act July 1, 1944, was renumbered section 399P and is cla
 
 Subsec. (a)(1)(C). Pub. L. 114–198, §109(b)(1)(B)–(D), added subpar. (C).
 
-Subsec. (b). Pub. L. 114–198, §109(b)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "Prior to awarding a grant under this section, and not later than 6 months after the date on which funds are first appropriated to carry out this section,after seeking consultation with States and other interested parties, the Secretary shall, after publishing in the Federal Register proposed minimum requirements and receiving public comments, establish minimum requirements for criteria to be used by States for purposes of clauses (ii), (v), (vi), and (vii) of subsection (c)(1)(A) of this section."
+Subsec. (b). Pub. L. 114–198, §109(b)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "Prior to awarding a grant under this section, and not later than 6 months after the date on which funds are first appropriated to carry out this section, after seeking consultation with States and other interested parties, the Secretary shall, after publishing in the Federal Register proposed minimum requirements and receiving public comments, establish minimum requirements for criteria to be used by States for purposes of clauses (ii), (v), (vi), and (vii) of subsection (c)(1)(A) of this section."
 
 Subsec. (c)(1)(A)(iv). Pub. L. 114–198, §109(b)(9), substituted "subsection (i)" for "subsection (h)".
 
@@ -234,7 +234,7 @@ Subsec. (d)(4). Pub. L. 114–198, §109(b)(9), substituted "subsection (i)" for
 
 Subsec. (d)(5). Pub. L. 114–198, §109(b)(4)(B), added par. (5).
 
-Subsecs. (e), (f)(1). Pub. L. 114–198, §109(b)(5), substituted "establishing, improving, or maintaining" for "implementing or improving" in introductory provisions.
+Subsecs. (e), (f)(1). Pub. L. 114–198, §109(b)(5), substituted "establishing, improving, or maintaining" for"implementing or improving" in introductory provisions.
 
 Subsec. (f)(1)(B). Pub. L. 114–198, §109(b)(6)(A)(i), substituted "misuse of a controlled substance included in schedule II, III, or IV of section 812(c) of title 21" for "misuse of a schedule II, III, or IV substance".
 

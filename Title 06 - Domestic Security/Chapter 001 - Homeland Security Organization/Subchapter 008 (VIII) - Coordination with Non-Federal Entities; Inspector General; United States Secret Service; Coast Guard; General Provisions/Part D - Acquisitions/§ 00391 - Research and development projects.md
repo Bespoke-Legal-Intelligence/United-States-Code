@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-Until September 30, 2017,<sup>1</sup> and subject to subsection (d),<sup>2</sup> the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
+Until September 30, 2024, and subject to subsection (d),<sup>1</sup> the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
 
 #### (1) In general
 
@@ -10,7 +10,11 @@ Until September 30, 2017,<sup>1</sup> and subject to subsection (d),<sup>2</sup>
 
 #### (2) Prototype projects
 
-&emsp;The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
+&emsp;The Secretary—
+
+&emsp;&emsp;(A) may, under the authority of paragraph (1), carry out prototype projects under section 4022 of title 10; and
+
+&emsp;&emsp;(B) in applying the authorities of such section 4022, the Secretary shall perform the functions of the Secretary of Defense as prescribed in such section.
 
 #### (b) Procurement of temporary and intermittent services
 
@@ -24,7 +28,7 @@ The Secretary may—
 
 #### (1) In general
 
-&emsp;The authority of the Secretary under this section shall terminate September 30, 2017,<sup>1</sup> unless before that date the Secretary—
+&emsp;The authority of the Secretary under this section shall terminate September 30, 2024, unless before that date the Secretary—
 
 &emsp;&emsp;(A) issues policy guidance detailing the appropriate use of that authority; and
 
@@ -36,9 +40,9 @@ The Secretary may—
 
 #### (d) Definition of nontraditional Government contractor
 
-In this section, the term "nontraditional Government contractor" has the same meaning as the term "nontraditional defense contractor" as defined in section 845(e) <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
+In this section, the term "nontraditional Government contractor" has the same meaning as the term "nontraditional defense contractor" as defined in section 4022(e) of title 10.
 
-(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687; Pub. L. 111–83, title V, §531, Oct. 28, 2009, 123 Stat. 2174; Pub. L. 112–10, div. B, title VI, §1651, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §527, Dec. 23, 2011, 125 Stat. 974; Pub. L. 113–6, div. D, title V, §525, Mar. 26, 2013, 127 Stat. 371; Pub. L. 113–76, div. F, title V, §525, Jan. 17, 2014, 128 Stat. 273; Pub. L. 114–4, title V, §523, Mar. 4, 2015, 129 Stat. 65; Pub. L. 114–113, div. F, title V, §523, Dec. 18, 2015, 129 Stat. 2516; Pub. L. 115–31, div. F, title V, §514, May 5, 2017, 131 Stat. 427; Pub. L. 117–81, div. A, title XVII, §1702(c)(1), Dec. 27, 2021, 135 Stat. 2155.)
+(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687; Pub. L. 111–83, title V, §531, Oct. 28, 2009, 123 Stat. 2174; Pub. L. 112–10, div. B, title VI, §1651, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §527, Dec. 23, 2011, 125 Stat. 974; Pub. L. 113–6, div. D, title V, §525, Mar. 26, 2013, 127 Stat. 371; Pub. L. 113–76, div. F, title V, §525, Jan. 17, 2014, 128 Stat. 273; Pub. L. 114–4, title V, §523, Mar. 4, 2015, 129 Stat. 65; Pub. L. 114–113, div. F, title V, §523, Dec. 18, 2015, 129 Stat. 2516; Pub. L. 115–31, div. F, title V, §514, May 5, 2017, 131 Stat. 427; Pub. L. 117–81, div. A, title XVII, §1702(c)(1), Dec. 27, 2021, 135 Stat. 2155; Pub. L. 117–263, div. G, title LXXII, §7227(b), Dec. 23, 2022, 136 Stat. 3675.)
 
 #### <b>Editorial Notes</b>
 
@@ -48,11 +52,17 @@ Subsection (d), referred to in subsec. (a), was redesignated subsec. (c) of this
 
 Subsection (b) of this section, referred to in subsec. (a)(1), probably means the former subsec. (b) of this section which related to annual reports by the Comptroller General and which was struck out by Pub. L. 112–74, div. D, title V, §527(2), Dec. 23, 2011, 125 Stat. 974. See 2011 Amendment note for subsec. (b) below.
 
-Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is section 845 of Pub. L. 103–160, which was formerly set out as a note under former section 2371 of Title 10, Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896. See section 4022 of Title 10.
-
 #### Amendments
 
-<b>2021</b>—Subsec. (a)(1). Pub. L. 117–81 subtituted "section 4021" for "section 2371".
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §7227(b)(1)(A), substituted "September 30, 2024" for "September 30, 2017" in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 117–263, §7227(b)(1)(B), amended par. (2) generally. Prior to amendment, text read as follows: "The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof."
+
+Subsec. (c)(1). Pub. L. 117–263, §7227(b)(2), substituted "September 30, 2024" for "September 30, 2017" in introductory provisions.
+
+Subsec. (d). Pub. L. 117–263, §7227(b)(3), substituted "section 4022(e) of title 10." for "section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note)."
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 117–81 substituted "section 4021" for "section 2371".
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–31, §514(1), substituted "Until September 30, 2017," for "Until September 30, 2016," in introductory provisions.
 
@@ -106,11 +116,11 @@ Subsecs. (d), (e). Pub. L. 110–329, §537(2), (3), added subsec. (d) and redes
 
 #### Extension of Secretary's Authority
 
-Pub. L. 116–260, div. F, title V, §531(a), Dec. 27, 2020, 134 Stat. 1473, provided that: "Section 831 of the Homeland Security Act of 2002 (6 U.S.C. 391) shall be applied—
+Prior to amendment by section 7227(b)(1)(A), (2) of Pub. L. 117–263, extensions of the Secretary's authority in subsecs. (a) and (c)(1) of this section were provided as follows:
 
-&emsp;"(1) In subsection (a), by substituting 'September 30, 2021,' for 'September 30, 2017,'; and
+Pub. L. 117–103, div. F, title V, §529(a), Mar. 15, 2022, 136 Stat. 340, provided that subsecs. (a) and (c)(1) of this section would be applied by substituting Sept. 30, 2022, for Sept. 30, 2017.
 
-&emsp;"(2) In subsection (c)(1), by substituting 'September 30, 2021,' for 'September 30, 2017'."
+Pub. L. 116–260, div. F, title V, §531(a), Dec. 27, 2020, 134 Stat. 1473, provided that subsecs. (a) and (c)(1) of this section would be applied by substituting Sept. 30, 2021, for Sept. 30, 2017.
 
 Pub. L. 116–93, div. D, title V, §531(a), Dec. 20, 2019, 133 Stat. 2530, provided that subsecs. (a) and (c)(1) of this section would be applied by substituting Sept. 30, 2020, for Sept. 30, 2017.
 
@@ -128,7 +138,5 @@ Pub. L. 114–113, div. F, title V, §561, Dec. 18, 2015, 129 Stat. 2521, provid
 
 "(c) None of the funds made available by this or any other Act for any fiscal year may be used for a major acquisition program that is out of compliance with such documentation requirements for more than two years except that funds may be used solely to come into compliance with such documentation requirements or to terminate the program."
 
-<i><sup>1</sup></i><i> See Extension of Secretary's Authority below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

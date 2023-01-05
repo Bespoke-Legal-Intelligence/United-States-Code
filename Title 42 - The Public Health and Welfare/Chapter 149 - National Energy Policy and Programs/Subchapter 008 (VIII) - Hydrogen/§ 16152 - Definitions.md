@@ -54,7 +54,7 @@ In this subchapter:
 
 Par. (5). Pub. L. 117–58, §40312(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Pub. L. 117–58, §40312(1), substituted "Portable; storage" for "Stationary; portable" in heading and "The terms 'portable' and 'storage', when" for "The terms 'stationary' and 'portable', when" in introductory provisions.
+Pub. L. 117–58, §40312(1), substituted "Portable; storage" for "Stationary; portable" in heading and "Theterms 'portable' and 'storage', when" for "The terms 'stationary' and 'portable', when" in introductory provisions.
 
 Pars. (6) to (8). Pub. L. 117–58, §40312(2), redesignated pars. (5) to (7) as (6) to (8), respectively.
 

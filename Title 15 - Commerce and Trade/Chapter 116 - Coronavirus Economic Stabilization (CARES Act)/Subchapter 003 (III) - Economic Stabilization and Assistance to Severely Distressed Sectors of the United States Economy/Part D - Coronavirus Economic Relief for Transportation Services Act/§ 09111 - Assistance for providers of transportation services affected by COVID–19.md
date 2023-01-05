@@ -98,7 +98,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) a vessel providing pilotage services and regulated by a State in accordance with chapter 85 of that title;
 
-&emsp;&emsp;&emsp;(ii) a company providing transportation services using a bus characterized by an elevated passenger deck located over a baggage compartment (commonly known as an "over-the-road bus"), including local and intercity fixed-route service, commuter service, and charter or tour service (including tour or excursion service that includes features in addition to bus transportation, such as meals, lodging, admission to points of interest or special attractions, or the services of a guide);
+&emsp;&emsp;&emsp;(ii) a company providing transportation services using a bus characterized by an elevated passenger deck located over a baggage compartment (commonly known as an "over-the-road bus"), including localand intercity fixed-route service, commuter service, and charter or tour service (including tour or excursion service that includes features in addition to bus transportation, such as meals, lodging, admission to points of interest or special attractions, or the services of a guide);
 
 &emsp;&emsp;&emsp;(iii) a company providing transportation services using a school bus (as defined in section 571.3 of title 49, Code of Federal Regulations (or successor regulations)); or
 
@@ -116,7 +116,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of Transportation, shall use the amounts made available under subsection (b) to provide grants to eligible providers of transportation services described in paragraph\(2) that certify to the Secretary that the providers of transportation services have experienced a revenue loss of 25 percent or more, on an annual basis, as a direct or indirect result of COVID–19.
+&emsp;The Secretary, in consultation with the Secretary of Transportation, shall use the amounts made available under subsection (b) to provide grants to eligible providers of transportation services described in paragraph (2) that certify to the Secretary that the providers of transportation services have experienced a revenue loss of 25 percent or more, on an annual basis, as a direct or indirect result of COVID–19.
 
 #### (2) Description of eligible providers of transportation services
 
@@ -190,7 +190,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 #### (6) Conditions of receipt
 
-&emsp;As a condition of receipt of assistance under this subsection, the Secretary shall requirethat a provider of transportation services shall agree—
+&emsp;As a condition of receipt of assistance under this subsection, the Secretary shall require that a provider of transportation services shall agree—
 
 &emsp;&emsp;(A) subject to paragraph (7)—
 
@@ -266,7 +266,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 &emsp;&emsp;&emsp;(ii) not including any prepayment of, or payment of principal on, a debt obligation, except for any principal on a debt obligation accrued by the provider of transportation services directly to maintain the expenditures of the provider of transportation services on payroll costs throughout the COVID–19 pandemic; or
 
-&emsp;&emsp;(D) the compensation of returning employees for lost pay and benefits during theCOVID–19 pandemic, subject to subsection (e).
+&emsp;&emsp;(D) the compensation of returning employees for lost pay and benefits during the COVID–19 pandemic, subject to subsection (e).
 
 #### (2) Eligibility
 
@@ -292,7 +292,7 @@ Notwithstanding any other provision of law, any compensation provided to a retur
 
 &emsp;&emsp;(A) be considered an overpayment for purposes of any State or Federal unemployment law; or
 
-&emsp;&emsp;(B) be subject to any overpayment recovery efforts by a State agency (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (U.S.C. 3304 note <sup>1</sup>)).
+&emsp;&emsp;(B) be subject to any overpayment recovery efforts by a State agency (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (U.S.C. 3304 note <sup>1</sup> )).
 
 #### (f) Administrative provisions
 

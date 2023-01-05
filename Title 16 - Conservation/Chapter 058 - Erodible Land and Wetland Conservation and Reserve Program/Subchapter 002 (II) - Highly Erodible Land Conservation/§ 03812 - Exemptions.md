@@ -42,7 +42,7 @@ Applicable reinsurance year.—Ineligibility for the payment described in sectio
 
 (3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
 
-(4) On the expiration of a contract entered into under subpart B of part I of subchapter IV, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
+(4) On the expiration of a contract entered into under subpart B of part I of subchapter IV,the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
 
 #### (b) Persons eligible for program benefits in connection with production of certain planted crops or production of crops on highly erodible land
 
@@ -146,7 +146,7 @@ Section 2611(a) of the Agricultural Act of 2014, referred to in subsec. (a)(2)(C
 
 This chapter, referred to in subsec. (c)(1)(B), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Title X of the Act enacted section 1446h of Title 7 and amended section 1425a of Title 7. Title XII of the Act, known as the Forest Stewardship Act of 1990, is classified principally to amended chapter 41 (§2101 et seq.) of this title. Title XIII of the Act enacted sections 138 to 138i and 499b–1 of Title 7, amended sections 499c, 608c, and 608e–1 of Title 7, and enacted provisions set out as notes under sections 499a and 1622 of Title 7. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7 and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359. Title X of the Act enacted section 1446h of Title 7 and amended section 1425a of Title 7. Title XII of the Act, known as the Forest Stewardship Act of 1990, is classified principally to amended chapter 41 (§2101 et seq.) of this title. Title XIII of the Act enacted sections 138 to 138i and 499b–1 of Title 7, amended sections 499c, 608c, and 608e–1 of Title 7, and enacted provisions set out as notes under sections 499a and 1622 of Title 7. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7 and Tables.
 
 #### Codification
 

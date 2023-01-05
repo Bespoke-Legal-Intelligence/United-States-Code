@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) an office, agency, or other establishment in the judicial branch;
 
-&emsp;(2) "handicapped employee" means an individual employed by an agency who is blind or deaf or who otherwise qualifies as a handicapped individual within the meaning of section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 794); and
+&emsp;(2) "handicapped employee" means an individual employed by an agency who is blind or deaf or who otherwise qualifies as a handicapped individual within the meaning of section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 794); <sup>1</sup> and
 
 &emsp;(3) "nonprofit organization" means an organization determined by the Secretary of the Treasury to be an organization described in section 501(c) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)) which is exempt from taxation under section 501(a) of such Code.
 
@@ -64,10 +64,6 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (a)(2), is classified to section 791 of Title 29, Labor, rather than to section 794 of Title 29 as shown in text.
-
 #### Amendments
 
 <b>2000</b>—Subsec. (a)(1)(C). Pub. L. 106–518 and Pub. L. 106–553 amended par. (1) identically, adding subpar. (C).
@@ -76,7 +72,7 @@ Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (a)(2), is
 
 <b>1982</b>—Subsec. (b)(1)(C). Pub. L. 97–258 substituted "section 1342 of title 31" for "section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))".
 
-<b>1980</b>—Pub. L. 96–523 amended section generally and, among other changes, in section catchline substituted "personal assistants for handicapped employees, including blind and" for "reading assistants for blind employees and interpreting assistants for", in subsec. (a) substituted applicability to handicapped employees for applicability to blind and deaf employees omitted applicability to the government of the District of Columbia, in subsec. (b) substituted applicability to personal assistants for applicability to reading and interpretingassistants for blind and deaf employees, respectively, redesignated former subsec. (d) as (c) and made changes in phraseology, added subsec. (d), and redesignated former subsec. (c) as (e) and made changes in phraseology.
+<b>1980</b>—Pub. L. 96–523 amended section generally and, among other changes, in section catchline substituted "personal assistants for handicapped employees, including blind and" for "reading assistants for blind employees and interpreting assistants for", in subsec. (a) substituted applicability to handicapped employees for applicability to blind and deaf employees omitted applicability to the government of the District of Columbia, in subsec. (b) substituted applicability to personal assistants for applicability to reading and interpreting assistants for blind and deaf employees, respectively, redesignated former subsec. (d) as (c) and made changes in phraseology, added subsec. (d), and redesignated former subsec. (c) as (e) and made changes in phraseology.
 
 <b>1979</b>—Subsec. (a)(2). Pub. L. 96–54 substituted "Mayor" for "Commissioner".
 
@@ -96,7 +92,7 @@ Subsec. (d). Pub. L. 95–454, §302(a)(4), added subsec. (d).
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–523, §3, Dec. 12, 1980, 94 Stat. 3040, provided that: "The amendments made by this Act \[amending this section, section 7 of the Federal Advisory Committee Act, set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 of Title 39, Postal Service\] shall take effect sixty days after the date of the enactment of this Act \[Dec. 12, 1980\]."
+Pub. L. 96–523, §3, Dec. 12, 1980, 94 Stat. 3040, provided that: "The amendments made by this Act \[amending this section, section 7 of the Federal Advisory Committee Act, formerly set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 of Title 39, Postal Service\] shall take effect sixty days after the date of the enactment of this Act \[Dec. 12, 1980\]."
 
 #### Effective Date of 1979 Amendment
 
@@ -109,4 +105,6 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "(29 U.S.C. 791);".</i>
 

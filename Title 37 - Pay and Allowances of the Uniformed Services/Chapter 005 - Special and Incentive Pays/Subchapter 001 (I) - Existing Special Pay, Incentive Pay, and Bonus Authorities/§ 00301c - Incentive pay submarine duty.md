@@ -40,7 +40,7 @@ Exceptions.—(1) An officer who fails of selection for assignment as an executi
 
 (d)
 
-Applicability to Certain Navy Reserve Duty.—Under regulations prescribed by thePresident and to the extent provided for by appropriations, when a member of the Navy Reserve who is entitled to compensation under section 206 of this title, performs, under orders, duty on a submarine during underway operations, he is eligible for an increase in such compensation equal to one-thirtieth of the monthly incentive pay prescribed pursuant to subsection (b) for the performance of that duty by a member of a corresponding grade and years of service who is entitled to basic pay. Such a member is eligible for the increase for each day served, for as long as he is qualified for it, during each regular period of appropriate duty.
+Applicability to Certain Navy Reserve Duty.—Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of the Navy Reserve who is entitled to compensation under section 206 of this title, performs, under orders, duty on a submarine during underway operations, he is eligible for an increase in such compensation equal to one-thirtieth of the monthly incentive pay prescribed pursuant to subsection (b) for the performance of that duty by a member of a corresponding grade and years of service who is entitled to basic pay. Such a member is eligible for the increase for each day served, for as long as he is qualified for it, during each regular period of appropriate duty.
 
 (Added Pub. L. 96–579, §3(d), Dec. 23, 1980, 94 Stat. 3360; amended Pub. L. 97–39, title VII, §701(a), (b), Aug. 14, 1981, 95 Stat. 942; Pub. L. 97–60, title I, §114, Oct. 14, 1981, 95 Stat. 995; Pub. L. 99–145, title VI, §633(a), Nov. 8, 1985, 99 Stat. 646; Pub. L. 100–26, §8(e)(4), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §623(a), (b), Dec. 4, 1987, 101 Stat. 1101; Pub. L. 100–224, §5(a)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(l)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(2), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 107–107, div. A, title VI, §617(a), (b), Dec. 28, 2001, 115 Stat. 1137; Pub. L. 109–163, div. A, title V, §515(d)(1)(D), (2), Jan. 6, 2006, 119 Stat. 3236.)
 
@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 107–107, §617(b)(3), inserted heading and substituted "p
 
 <b>1991</b>—Pub. L. 102–25 struck out "of this section" and "of this subsection" wherever appearing in subsecs. (a) and (d).
 
-Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added provisions relating to pay grade W–5 in two places.
+Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added provisions relating to pay grade W–⁠5 in two places.
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: "The Secretary of Defense shall report to the Congress before January 1 each year—
 

@@ -10,7 +10,7 @@ General.—(1) The Secretary of Transportation by regulation shall prescribe a v
 
 (2) The standard may apply only to—
 
-&emsp;(A) major parts that manufacturers install in passenger motor vehicles having a modelyear designation later than the calendar year in which the standard takes effect; and
+&emsp;(A) major parts that manufacturers install in passenger motor vehicles having a model year designation later than the calendar year in which the standard takes effect; and
 
 &emsp;(B) major replacement parts manufactured after the standard takes effect.
 

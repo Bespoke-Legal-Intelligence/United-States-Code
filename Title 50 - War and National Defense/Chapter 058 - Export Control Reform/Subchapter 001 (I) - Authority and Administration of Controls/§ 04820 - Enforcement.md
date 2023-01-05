@@ -26,7 +26,7 @@ In order to enforce this subchapter, the Secretary, on behalf of the President, 
 
 &emsp;Amounts made available to carry out this subchapter may be used by the Secretary to carry out undercover investigations that are necessary for detection and prosecution of violations of this subchapter, including to—
 
-&emsp;&emsp;(A) purchase property, buildings, and other facilities, and to lease space, within the United States, the District of Columbia, and the territories and possessions of the United States without regard to—
+&emsp;&emsp;(A) purchase property, buildings, and other facilities, and to lease space, within theUnited States, the District of Columbia, and the territories and possessions of the United States without regard to—
 
 &emsp;&emsp;&emsp;(i) sections 1341 and 3324 of title 31;
 

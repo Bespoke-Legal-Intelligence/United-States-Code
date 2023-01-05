@@ -100,7 +100,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 Pub. L. 99–514, title VI, §657(b), Oct. 22, 1986, 100 Stat. 2299, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
-Pub. L. 99–514, title XVIII, §1804(d)(2), Oct. 22, 1986, 100 Stat. 2800, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to distributions after September 27, 1985."
+Pub. L. 99–514, title XVIII, §1804(d)(2), Oct. 22, 1986, 100 Stat. 2800, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after September 27, 1985."
 
 #### Effective Date of 1983 Amendment
 

@@ -4,7 +4,7 @@
 
 In General.—The Secretary of Transportation may acquire a vessel, by purchase or otherwise, if—
 
-&emsp;(1) the Secretary considers the vessel necessary to establish, maintain, improve, or serve as a replacement on an essential service,route, or line in the foreign commerce of the United States, as determined under section 50103 of this title;
+&emsp;(1) the Secretary considers the vessel necessary to establish, maintain, improve, or serve as a replacement on an essential service, route, or line in the foreign commerce of the United States, as determined under section 50103 of this title;
 
 &emsp;(2) the vessel was constructed in the United States; and
 

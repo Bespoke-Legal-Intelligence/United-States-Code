@@ -6,7 +6,7 @@ Commencement of Payment.—An insured member who serves in excess of 30 days of 
 
 (b)
 
-Method of Payment.—The Secretary shall prescribe in the regulations the manner inwhich payments shall be made to the member or to a person designated in accordance with subsection (c).
+Method of Payment.—The Secretary shall prescribe in the regulations the manner in which payments shall be made to the member or to a person designated in accordance with subsection (c).
 
 (c)
 

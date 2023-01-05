@@ -52,7 +52,7 @@ Except as provided in subsection (b), the Commission may issue a license for the
 
 #### (A) In general
 
-&emsp;&emsp;The Commission shall review the adequacy of physical protection requirements that, as of the date of an application under paragraph (2), are applicable to the transportation and storage of highly enriched uranium for medical isotope production or control of residual material after irradiation and extraction of medical isotopes.
+&emsp;&emsp;The Commission shall review the adequacy of physical protection requirements that, asof the date of an application under paragraph (2), are applicable to the transportation and storage of highly enriched uranium for medical isotope production or control of residual material after irradiation and extraction of medical isotopes.
 
 #### (B) Imposition of additional requirements
 

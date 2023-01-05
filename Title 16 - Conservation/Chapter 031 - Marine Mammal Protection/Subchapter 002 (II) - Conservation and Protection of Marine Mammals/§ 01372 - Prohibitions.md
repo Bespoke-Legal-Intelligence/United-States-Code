@@ -34,7 +34,7 @@ Except pursuant to a permit for scientific research, or for enhancing the surviv
 
 &emsp;(4) taken in a manner deemed inhumane by the Secretary.
 
-> Notwithstanding the provisions of paragraphs (1) and (2), the Secretary may issue a permit for theimportation of a marine mammal, if the Secretary determines that such importation is necessary for the protection or welfare of the animal.
+> Notwithstanding the provisions of paragraphs (1) and (2), the Secretary may issue a permit for the importation of a marine mammal, if the Secretary determines that such importation is necessary for the protection or welfare of the animal.
 
 #### (c) Importation of illegally taken mammals
 

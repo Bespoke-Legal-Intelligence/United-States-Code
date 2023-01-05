@@ -1,6 +1,6 @@
 ### §2319. Reservoir management
 
-The Secretary shall ensure that, in developing or revising reservoir operating manuals of the Corps of Engineers, the Corps shall provide significant opportunities for public participation, including opportunities for public hearings. The Secretary shall issue regulations to implement this section, including a requirement that all appropriate informational materials relating to proposed management decisions of the Corps be made available to the public sufficiently in advance of public hearings. Not later than January 1, 1992, the Secretary shall transmit to Congress a report on measures taken pursuant to this section.
+The Secretary shall ensure that, in developing or revising reservoir operating manuals of theCorps of Engineers, the Corps shall provide significant opportunities for public participation, including opportunities for public hearings. The Secretary shall issue regulations to implement this section, including a requirement that all appropriate informational materials relating to proposed management decisions of the Corps be made available to the public sufficiently in advance of public hearings. Not later than January 1, 1992, the Secretary shall transmit to Congress a report on measures taken pursuant to this section.
 
 (Pub. L. 101–640, title III, §310, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §233, Oct. 12, 1996, 110 Stat. 3704.)
 
@@ -19,6 +19,18 @@ Subsec. (b). Pub. L. 104–303, §233(2), struck out "(b)
 Public Participation.—" before "The Secretary shall ensure", and substituted "section" for "subsection" in two places.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Forecast-Informed Reservoir Operations
+
+Pub. L. 117–263, div. H, title LXXXI, §8303(c), Dec. 23, 2022, 136 Stat. 3777, provided that:
+
+"(1)
+
+In general.—The Secretary \[of the Army\] is authorized to carry out a research study pilot program at 1 or more dams owned and operated by the Secretary in the North Atlantic Division of the Corps of Engineers to assess the viability of forecast-informed reservoir operations in the eastern United States.
+
+"(2)
+
+Report.—Not later than 1 year after completion of the research study pilot program under paragraph (1), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the results of the research study pilot program."
 
 #### Dam Optimization
 

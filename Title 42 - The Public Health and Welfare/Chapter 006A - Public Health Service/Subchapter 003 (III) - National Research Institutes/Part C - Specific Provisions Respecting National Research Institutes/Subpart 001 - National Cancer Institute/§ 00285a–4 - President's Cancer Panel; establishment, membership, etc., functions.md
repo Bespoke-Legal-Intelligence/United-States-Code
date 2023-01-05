@@ -10,7 +10,7 @@
 
 (3) The Panel shall meet at the call of the chairman, but not less often than four times a year. A transcript shall be kept of the proceedings of each meeting of the Panel, and the chairman shall make such transcript available to the public.
 
-(b) The Panel shall monitor the development and execution of the activities of the NationalCancer Program, and shall report directly to the President. Any delays or blockages in rapid execution of the Program shall immediately be brought to the attention of the President. The Panel shall submit to the President periodic progress reports on the National Cancer Program and shall submit to the President, the Secretary, and the Congress an annual evaluation of the efficacy of the Program and suggestions for improvements, and shall submit such other reports as the President shall direct.
+(b) The Panel shall monitor the development and execution of the activities of the National Cancer Program, and shall report directly to the President. Any delays or blockages in rapid execution of the Program shall immediately be brought to the attention of the President. The Panel shall submit to the President periodic progress reports on the National Cancer Program and shall submit to the President, the Secretary, and the Congress an annual evaluation of the efficacy of the Program and suggestions for improvements, and shall submit such other reports as the President shall direct.
 
 (July 1, 1944, ch. 373, title IV, §415, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 835.)
 
@@ -22,7 +22,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
 #### Termination of Advisory Panels
 
-Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

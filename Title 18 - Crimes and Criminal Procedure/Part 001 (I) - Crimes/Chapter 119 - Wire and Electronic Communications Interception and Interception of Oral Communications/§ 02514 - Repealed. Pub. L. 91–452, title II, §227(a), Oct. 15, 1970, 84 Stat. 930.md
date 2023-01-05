@@ -1,6 +1,6 @@
 ### \[§2514. Repealed. Pub. L. 91–452, title II, §227(a), Oct. 15, 1970, 84 Stat. 930\]
 
-Section, Pub. L. 90–351, title II, §802, June 19, 1968, 82 Stat. 216, provided for immunity of witnesses givingtestimony or producing evidence under compulsion in Federal grand jury or court proceedings. Subject matter is covered in sections 6002 and 6003 of this title.
+Section, Pub. L. 90–351, title II, §802, June 19, 1968, 82 Stat. 216, provided for immunity of witnesses giving testimony or producing evidence under compulsion in Federal grand jury or court proceedings. Subject matter is covered in sections 6002 and 6003 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

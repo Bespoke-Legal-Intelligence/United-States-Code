@@ -40,27 +40,93 @@ Attendance at Memorial Ceremonies and Services.—A family member or member of t
 
 (g)
 
-Reimbursement of Qualifying Spouse Relicensing Costs Incident to a Member's Permanent Change of Station or Assignment.—(1) From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs of the spouse of the member when—
+Reimbursement of Qualifying Spouse Relicensing Costs or Business Costs Incident to a Member's Permanent Change of Station or Assignment.—(1) From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs or qualified business costs of the spouse of the member when—
 
 &emsp;(A) the member is reassigned, either as a permanent change of station or permanent change of assignment, between duty stations located in separate jurisdictions with unique licensing or certification requirements and authorities; and
 
 &emsp;(B) the movement of the member's dependents is authorized at the expense of the United States under this section as part of the reassignment.
 
-(2) Reimbursement provided to a member under this subsection may not exceed $1000 in connection with each reassignment described in paragraph (1).
+(2)(A) Reimbursement provided to a member under this subsection for qualified relicensing costs may not exceed $1,000 in connection with each reassignment described in paragraph (1).
 
-(3) No reimbursement may be provided under this subsection for qualified relicensing costs paid or incurred after December 31, 2024.
+(B) Reimbursement provided to a member under this subsection for qualified business costs may not exceed $1,000 in connection with each reassignment described in paragraph (1).
 
-(4) In this subsection, the term "qualified relicensing costs" means costs, including exam, continuing education courses, and registration fees, incurred by the spouse of a member if—
+(3) No reimbursement may be provided under this subsection for qualified relicensing costs or qualified business costs paid or incurred after December 31, 2029.
 
-&emsp;(A) the spouse was licensed or certified in a profession during the member's previous duty assignment and requires a new license or certification to engage in that profession in a new jurisdiction because of movement described in paragraph (1)(B) in connection with the member's change in duty location pursuant to reassignment described in paragraph (1)(A); and
+(4) In this subsection, the term "qualified relicensing costs" means costs, including exam, continuing education courses, business license, permit, and registration fees, incurred by the spouse of a member if—
 
-&emsp;(B) the costs were incurred or paid to secure or maintain the license or certification from the new jurisdiction in connection with such reassignment.
+&emsp;(A) the spouse was licensed or certified in a profession, or owned a business, during the member's previous duty assignment and requires a new professional license or certification, or business license or permit, to engage in that profession in a new jurisdiction because of movement described in paragraph (1)(B) in connection with the member's change in duty location pursuant to reassignment described in paragraph (1)(A); and
 
-(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1457; amended Pub. L.113–66, div. A, title VI, §621(c)(1), (h), Dec. 26, 2013, 127 Stat. 783, 784; Pub. L. 114–328, div. A, title V, §522(c), Dec. 23, 2016, 130 Stat. 2116; Pub. L. 116–283, div. A, title VI, §622(a), Jan. 1, 2021, 134 Stat. 3676.)
+&emsp;(B) the costs were incurred or paid to secure or maintain the professional license or certification, or business license or permit, from the new jurisdiction in connection with such reassignment.
+
+(5) In this subsection, the term "qualified business costs" means costs, including moving services for equipment, equipment removal, new equipment purchases, information technology expenses, and inspection fees, incurred by the spouse of a member if—
+
+&emsp;(A) the spouse owned a business during the member's previous duty assignment and the costs result from a movement described in paragraph (1)(B) in connection with the member's change in duty location pursuant to reassignment described in paragraph (1)(A); and
+
+&emsp;(B) the costs were incurred or paid to move such business to a new location in connection with such reassignment.
+
+(h)
+
+Reimbursement for Transportation of Pets Arising From Certain Permanent Changes of Stations.—(1) The Secretary concerned may reimburse a member for any cost related to the relocation of a pet that arises from a permanent change of station of such member within the continental United States. Such reimbursement may not exceed $550 for each such permanent change of station.
+
+(2) The Secretary concerned may reimburse a member for any cost related to the relocation of a pet that arises from a permanent change of station of such member to or from a duty station located outside the continental United States. Such reimbursement may not exceed $4,000 for each such permanent change of station.
+
+(i)
+
+Attendance at Professional Military Education Institution or Training Classes.—
+
+&emsp;(1) The Secretary of the military department concerned may authorize temporary duty status, and travel and transportation allowances payable to a member in such status, for a member under the jurisdiction of such Secretary who is reassigned—
+
+&emsp;&emsp;(A) between duty stations located within the United States;
+
+&emsp;&emsp;(B) for a period of not more than one year;
+
+&emsp;&emsp;(C) for the purpose of participating in professional military education or training classes,
+
+&emsp;&emsp;(D) with orders to return to the duty station where the member maintains primary residence and the dependents of such member reside.
+
+&emsp;(2) If the Secretary of the military department concerned assigns permanent duty status to a member described in paragraph (1), such member shall be eligible for travel and transportation allowances including the following:
+
+&emsp;&emsp;(A) Transportation, including mileage at the same rate paid for a permanent change of station.
+
+&emsp;&emsp;(B) Per diem while traveling between the permanent duty station and professional military education institution or training site.
+
+&emsp;&emsp;(C) Per diem paid in the same manner and amount as temporary lodging expenses.
+
+&emsp;&emsp;(D) Per diem equal to the amount of the basic allowance for housing under section 403 of this title paid to a member—
+
+&emsp;&emsp;&emsp;(i) in the grade of such member;
+
+&emsp;&emsp;&emsp;(ii) without dependents;
+
+&emsp;&emsp;&emsp;(iii) who resides in the military housing area in which the professional military education institution or training site is located.
+
+&emsp;&emsp;(E) Movement of household goods in an amount determined under applicable regulations.
+
+(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1457; amended Pub. L. 113–66, div. A, title VI, §621(c)(1), (h), Dec. 26, 2013, 127 Stat. 783, 784; Pub. L. 114–328, div. A, title V, §522(c), Dec. 23, 2016, 130 Stat. 2116; Pub. L. 116–283, div. A, title VI, §622(a), Jan. 1, 2021, 134 Stat. 3676; Pub. L. 117–263, div. A, title VI, §§622(a), 623–625, Dec. 23, 2022, 136 Stat. 2625–2627.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g). Pub. L. 117–263, §622(a)(1), inserted "Relicensing Costs" after "Relicensing Costs" in heading.
+
+Subsec. (g)(1). Pub. L. 117–263, §622(a)(2), inserted "or qualified business costs" after "qualified relicensing costs" in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 117–263, §622(a)(3), designated existing provisions as subpar. (A), inserted "for qualified relicensing costs" after "subsection", substituted "$1,000" for "$1000", and added subpar. (B).
+
+Subsec. (g)(3). Pub. L. 117–263, §§622(a)(4), 623, inserted "or qualified business costs" after "qualified relicensing costs" and substituted "December 31, 2029" for "December 31, 2024".
+
+Subsec. (g)(4). Pub. L. 117–263, §622(a)(5)(A), inserted "business license, permit," after "courses," in introductory provisions.
+
+Subsec. (g)(4)(A). Pub. L. 117–263, §622(a)(5)(B), inserted ", or owned a business," before "during", "professional" before "license", and ", or business license or permit," after "certification".
+
+Subsec. (g)(4)(B). Pub. L. 117–263, §622(a)(5)(C), inserted "professional" before "license" and ", or business license or permit," after "certification".
+
+Subsec. (g)(5). Pub. L. 117–263, §622(a)(6), added par. (5).
+
+Subsec. (h). Pub. L. 117–263, §624, added subsec. (h).
+
+Subsec. (i). Pub. L. 117–263, §625, added subsec. (i).
 
 <b>2021</b>—Subsec. (g). Pub. L. 116–283 added subsec. (g).
 
@@ -69,4 +135,14 @@ Reimbursement of Qualifying Spouse Relicensing Costs Incident to a Member's Perm
 <b>2013</b>—Subsec. (c)(3). Pub. L. 113–66, §621(h), substituted "(including household goods in temporary storage, but excluding packing and crating)" for "(including packing, crating, and household goods in temporary storage)".
 
 Subsec. (g). Pub. L. 113–66, §621(c)(1), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Storage of Household Effects
+
+Pub. L. 101–510, div. A, title V, §503(c), Nov. 5, 1990, 104 Stat. 1558, as amended by Pub. L. 103–160, div. A, title V, §561(l)(2), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
+
+"(1) The Secretary of a military department shall exercise the authority provided by section 476 of title 37, United States Code, to provide nontemporary storage of baggage and household effects for a period not longer than one year in the case of individuals who are involuntarily separated during the period beginning on October 1, 1990, and ending on December 31, 2001.
+
+"(2) For purposes of this subsection, the term 'involuntarily separated' has the meaning given that term in section 1141 of title 10, United States Code."
 

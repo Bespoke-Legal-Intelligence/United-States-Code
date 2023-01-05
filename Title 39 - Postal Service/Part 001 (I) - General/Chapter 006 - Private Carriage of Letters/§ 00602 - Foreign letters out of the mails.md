@@ -1,6 +1,6 @@
 ### §602. Foreign letters out of the mails
 
-(a) Except as provided in section 601 of this title, the master of a vessel departing from the United States for foreign ports may not receive on board or transport any letter which originated in the United States that—
+(a) Except as provided in section 601 of this title, the master of a vessel departing from theUnited States for foreign ports may not receive on board or transport any letter which originated in the United States that—
 
 &emsp;(1) has not been regularly received from a United States post office; or
 

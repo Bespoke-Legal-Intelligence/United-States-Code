@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The monthly beneficiary premium for a prescription drug plan is the base beneficiary premium computed under paragraph (2) as adjusted under this paragraph.
+&emsp;&emsp;The monthly beneficiary premium for a prescription drug plan is the base beneficiary premium computed under paragraph (2) or (8) (as applicable) as adjusted under this paragraph.
 
 #### (B) Adjustment to reflect difference between bid and national average bid
 
@@ -44,7 +44,7 @@
 
 #### (2) Base beneficiary premium
 
-&emsp;The base beneficiary premium under this paragraph for a prescription drug plan for a month is equal to the product <sup>1</sup> —
+&emsp;Subject to paragraph (8), the base beneficiary premium under this paragraph for a prescription drug plan for a month is equal to the product <sup>1</sup> —
 
 &emsp;&emsp;(A) the beneficiary premium percentage (as specified in paragraph (3)); and
 
@@ -54,7 +54,7 @@
 
 &emsp;For purposes of this subsection, the beneficiary premium percentage for any year is the percentage equal to a fraction—
 
-&emsp;&emsp;(A) the numerator of which is 25.5 percent; and
+&emsp;&emsp;(A) the numerator of which is 25.5 percent (or, for 2030 and each subsequent year, the percent specified under paragraph (9)); and
 
 &emsp;&emsp;(B) the denominator of which is 100 percent minus a percentage equal to—
 
@@ -116,11 +116,11 @@
 
 &emsp;&emsp;&emsp;(i) the quotient obtained by dividing—
 
-&emsp;&emsp;&emsp;&emsp;(I) the applicable percentage determined under paragraph (3)(C) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the individual for the calendar year reduced by 25.5 percent; by
+&emsp;&emsp;&emsp;&emsp;(I) the applicable percentage determined under paragraph (3)(C) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the individual for the calendar year reduced by 25.5 percent (or, for 2030 and each subsequent year, the percent specified under paragraph (9)); by
 
-&emsp;&emsp;&emsp;&emsp;(II) 25.5 percent; and
+&emsp;&emsp;&emsp;&emsp;(II) 25.5 percent (or, for 2030 and each subsequent year, the percent specified under paragraph (9)); and
 
-&emsp;&emsp;&emsp;(ii) the base beneficiary premium (as computed under paragraph (2)).
+&emsp;&emsp;&emsp;(ii) the base beneficiary premium (as computed under paragraph (2) or (8) (as applicable)).
 
 #### (C) Modified adjusted gross income
 
@@ -134,11 +134,11 @@
 
 #### (i) Disclosure of base beneficiary premium
 
-&emsp;&emsp;&emsp;Not later than September 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the amount of the base beneficiary premium (as computed under paragraph (2)) for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year.
+&emsp;&emsp;&emsp;Not later than September 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the amount of the base beneficiary premium (as computed under paragraph (2) or (8) (as applicable)) for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year.
 
 #### (ii) Additional disclosure
 
-&emsp;&emsp;&emsp;Not later than October 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the following information for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year:
+&emsp;&emsp;&emsp;Not later than October 15 of each year beginning with 2010, the Secretary shalldisclose to the Commissioner of Social Security the following information for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year:
 
 &emsp;&emsp;&emsp;&emsp;(I) The modified adjusted gross income threshold applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section).
 
@@ -151,6 +151,78 @@
 #### (F) Rule of construction
 
 &emsp;&emsp;The formula used to determine the monthly adjustment amount specified under subparagraph (B) shall only be used for the purpose of determining such monthly adjustment amount under such subparagraph.
+
+#### (8) Premium stabilization
+
+#### (A) In general
+
+&emsp;&emsp;The base beneficiary premium under this paragraph for a prescription drug plan for a month in 2024 through 2029 shall be computed as follows:
+
+#### (i) 2024
+
+&emsp;&emsp;&emsp;The base beneficiary premium for a month in 2024 shall be equal to the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the base beneficiary premium computed under paragraph (2) for a month in 2023 increased by 6 percent; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the base beneficiary premium computed under paragraph (2) for a month in 2024 that would have applied if this paragraph had not been enacted.
+
+#### (ii) 2025
+
+&emsp;&emsp;&emsp;The base beneficiary premium for a month in 2025 shall be equal to the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the base beneficiary premium computed under clause (i) for a month in 2024 increased by 6 percent; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the base beneficiary premium computed under paragraph (2) for a month in 2025 that would have applied if this paragraph had not been enacted.
+
+#### (iii) 2026
+
+&emsp;&emsp;&emsp;The base beneficiary premium for a month in 2026 shall be equal to the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the base beneficiary premium computed under clause (ii) for a month in 2025 increased by 6 percent; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the base beneficiary premium computed under paragraph (2) for a month in 2026 that would have applied if this paragraph had not been enacted.
+
+#### (iv) 2027
+
+&emsp;&emsp;&emsp;The base beneficiary premium for a month in 2027 shall be equal to the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the base beneficiary premium computed under clause (iii) for a month in 2026 increased by 6 percent; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the base beneficiary premium computed under paragraph (2) for a month in 2027 that would have applied if this paragraph had not been enacted.
+
+#### (v) 2028
+
+&emsp;&emsp;&emsp;The base beneficiary premium for a month in 2028 shall be equal to the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the base beneficiary premium computed under clause (iv) for a month in 2027 increased by 6 percent; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the base beneficiary premium computed under paragraph (2) for a month in 2028 that would have applied if this paragraph had not been enacted.
+
+#### (vi) 2029
+
+&emsp;&emsp;&emsp;The base beneficiary premium for a month in 2029 shall be equal to the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the base beneficiary premium computed under clause (v) for a month in 2028 increased by 6 percent; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the base beneficiary premium computed under paragraph (2) for a month in 2029 that would have applied if this paragraph had not been enacted.
+
+#### (B) Clarification regarding 2030 and subsequent years
+
+&emsp;&emsp;The base beneficiary premium for a month in 2030 or a subsequent year shall be computed under paragraph (2) without regard to this paragraph.
+
+#### (9) Percent specified
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), for purposes of paragraph (3)(A), the percent specified under this paragraph for 2030 and each subsequent year is the percent that the Secretary determines is necessary to ensure that the base beneficiary premium computed under paragraph (2) for a month in 2030 is equal to the lesser of—
+
+&emsp;&emsp;&emsp;(i) the base beneficiary premium computed under paragraph (8)(A)(vi) for a month in 2029 increased by 6 percent; or
+
+&emsp;&emsp;&emsp;(ii) the base beneficiary premium computed under paragraph (2) for a month in 2030 that would have applied if this paragraph had not been enacted.
+
+#### (B) Floor
+
+&emsp;&emsp;The percent specified under subparagraph (A) may not be less than 20 percent.
 
 #### (b) Late enrollment penalty
 
@@ -170,7 +242,7 @@
 
 &emsp;&emsp;&emsp;(i) an amount that the Secretary determines is actuarially sound for each uncovered month (as defined in subparagraph (B)) in the same continuous period of eligibility; or
 
-&emsp;&emsp;&emsp;(ii) 1 percent of the base beneficiary premium (computed under subsection (a)(2)) for each such uncovered month in such period.
+&emsp;&emsp;&emsp;(ii) 1 percent of the base beneficiary premium (computed under paragraph (2) or (8) of subsection (a) (as applicable)) for each such uncovered month in such period.
 
 #### (B) Uncovered month defined
 
@@ -250,7 +322,7 @@
 
 &emsp;&emsp;&emsp;(ii) for which the basis for eligibility for such entitlement changed between section 426(b) of this title and section 426(a) of this title, between 426(b) <sup>2</sup> of this title and section 426–1 of this title, or between section 426–1 of this title and section 426(a) of this title,
 
-> &emsp;&emsp;shall be a separate continuous period of eligibility with respect to the individual (andeach such period which terminates shall be deemed not to have existed for purposes of subsequently applying this paragraph).
+> &emsp;&emsp;shall be a separate continuous period of eligibility with respect to the individual (and each such period which terminates shall be deemed not to have existed for purposes of subsequently applying this paragraph).
 
 #### (8) Waiver of penalty for subsidy-eligible individuals
 
@@ -290,11 +362,29 @@
 
 &emsp;&emsp;In the case where the monthly benefit payments of an individual that are withheld under subparagraph (A) are insufficient to pay the amount described in such subparagraph, the Commissioner of Social Security shall enter into agreements with the Secretary, the Director of the Office of Personnel Management, and the Railroad Retirement Board as necessary in order to allow other agencies to collect the amount described in subparagraph (A) that was not withheld under such subparagraph.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102; amended Pub. L. 110–275, title I, §114(a)(1), July 15, 2008, 122 Stat. 2506; Pub. L. 111–148, title III, §3308(a), (b)(1), Mar. 23, 2010, 124 Stat. 472, 474.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102; amended Pub. L. 110–275, titleI, §114(a)(1), July 15, 2008, 122 Stat. 2506; Pub. L. 111–148, title III, §3308(a), (b)(1), Mar. 23, 2010, 124 Stat. 472, 474; Pub. L. 117–169, title I, §11201(d)(1), (2), (3)(C), Aug. 16, 2022, 136 Stat. 1888, 1890.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(A). Pub. L. 117–169, §11201(d)(1)(A)(i), inserted "or (8) (as applicable)" after "paragraph (2)".
+
+Subsec. (a)(2). Pub. L. 117–169, §11201(d)(1)(A)(ii), substituted "Subject to paragraph (8), the base" for "The base" in introductory provisions.
+
+Subsec. (a)(3)(A). Pub. L. 117–169, §11201(d)(2)(A), inserted "(or, for 2030 and each subsequent year, the percent specified under paragraph (9))" after "25.5 percent".
+
+Subsec. (a)(7)(B)(i). Pub. L. 117–169, §11201(d)(3)(C), inserted "(or, for 2030 and each subsequent year, the percent specified under paragraph (9))" after "25.5 percent" in subcls. (I) and (II).
+
+Subsec. (a)(7)(B)(ii). Pub. L. 117–169, §11201(d)(1)(A)(iii)(I), inserted "or (8) (as applicable)" after "paragraph (2)".
+
+Subsec. (a)(7)(E)(i). Pub. L. 117–169, §11201(d)(1)(A)(iii)(II), inserted "or (8) (as applicable)" after "paragraph (2)".
+
+Subsec. (a)(8). Pub. L. 117–169, §11201(d)(1)(A)(iv), added par. (8).
+
+Subsec. (a)(9). Pub. L. 117–169, §11201(d)(2)(B), added par. (9).
+
+Subsec. (b)(3)(A)(ii). Pub. L. 117–169, §11201(d)(1)(B), substituted "paragraph (2) or (8) of subsection (a) (as applicable)" for "subsection (a)(2)".
 
 <b>2010</b>—Subsec. (a)(1)(F), (G). Pub. L. 111–148, §3308(b)(1), added subpar. (F), redesignated former subpar. (F) as (G), and substituted "(D), (E), and (F)" for "(D) and (E)" in subpar. (G).
 

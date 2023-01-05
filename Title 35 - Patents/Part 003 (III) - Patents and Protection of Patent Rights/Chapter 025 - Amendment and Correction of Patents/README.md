@@ -18,7 +18,7 @@
 
 <b>2011</b>—Pub. L. 112–29, §12(b), Sept. 16, 2011, 125 Stat. 327, added item 257.
 
-<b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(18), Nov. 2, 2002, 116 Stat. 1905, substituted "Correction of named inventor" for "Misjoinder of inventor" in item 256.
+<b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(18), Nov. 2, 2002, 116 Stat. 1905, substituted "Correction ofnamed inventor" for "Misjoinder of inventor" in item 256.
 
 <b>1975</b>—Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949, substituted "Patent and Trademark Office" for "Patent Office" in item 254.
 

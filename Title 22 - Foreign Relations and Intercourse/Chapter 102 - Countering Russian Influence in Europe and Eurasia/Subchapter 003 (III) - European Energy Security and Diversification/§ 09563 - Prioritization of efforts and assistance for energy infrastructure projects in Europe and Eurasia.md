@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In pursuing the policy described in section 9562 of this title, the Secretary of State, in consultation with the Secretary of Energy and the heads of other relevant United States agencies, shall, as appropriate, prioritize and expedite the efforts of the Department of State and those agencies in supporting the efforts of the European Commission and the governments of European and Eurasian countries to increase their energy security, including through—
+In pursuing the policy described in section 9562 of this title, the Secretary of State, in consultation with the Secretary of Energy and the heads of other relevant United States agencies, shall,as appropriate, prioritize and expedite the efforts of the Department of State and those agencies in supporting the efforts of the European Commission and the governments of European and Eurasian countries to increase their energy security, including through—
 
 &emsp;(1) providing diplomatic and political support to the European Commission and those governments, as necessary—
 
@@ -96,11 +96,25 @@ In pursuing the policy described in section 9562 of this title, the Secretary of
 
 #### References in Text
 
-The BUILD Act, referred to in subsec. (e), probably means the BUILD Act of 2018, also known as the Better Utilization of Investments Leading to Development Act of 2018, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+The BUILD Act, referred to in subsec. (e), probably means the BUILD Act of 2018, also known as the BetterUtilization of Investments Leading to Development Act of 2018, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
 
 Section is comprised of section 2004 of Pub. L. 116–94. Subsec. (d) of section 2004 of Pub. L. 116–94 amended sections 2421 and 9543 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Authority Under the European Energy Security and Diversification Act of 2019
+
+Memorandum of President of the United States, June 8, 2022, 87 F.R. 35853, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of State the functions and authorities vested in the President by section 2004(e)(1)(C) of the European Energy Security and Diversification Act of 2019 (22 U.S.C. 9563(e)(1)(C)) (the "Act"). The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum. Any reference in this memorandum to the Act shall be deemed to be a reference to such Act as amended from time to time.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

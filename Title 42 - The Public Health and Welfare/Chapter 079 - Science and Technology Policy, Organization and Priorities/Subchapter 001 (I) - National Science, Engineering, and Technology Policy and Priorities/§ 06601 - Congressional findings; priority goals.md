@@ -4,7 +4,7 @@
 
 &emsp;(1) the general welfare, the security, the economic health and stability of the Nation, the conservation and efficient utilization of its natural and human resources, and the effective functioning of government and society require vigorous, perceptive support and employment of science and technology in achieving national objectives;
 
-&emsp;(2) the many large and complex scientific and technological factors which increasinglyinfluence the course of national and international events require appropriate provision, involving long-range, inclusive planning as well as more immediate program development, to incorporate scientific and technological knowledge in the national decisionmaking process;
+&emsp;(2) the many large and complex scientific and technological factors which increasingly influence the course of national and international events require appropriate provision, involving long-range, inclusive planning as well as more immediate program development, to incorporate scientific and technological knowledge in the national decisionmaking process;
 
 &emsp;(3) the scientific and technological capabilities of the United States, when properly fostered, applied, and directed, can effectively assist in improving the quality of life, in anticipating and resolving critical and emerging international, national, and local problems, in strengthening the Nation's international economic position, and in furthering its foreign policy objectives;
 
@@ -150,7 +150,7 @@ Coordination.—The Council shall coordinate with and utilize relevant existing 
 
 &emsp;"(5)
 
-Applicability of faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council established under this subsection.
+Applicability of faca.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to the Council established under this subsection.
 
 &emsp;"(6)
 
@@ -284,7 +284,7 @@ National Academies Science, Technology and Security Roundtable.—
 
 &emsp;"(1)
 
-In general.—The National Science Foundation, the Department of Energy, and the Department of Defense, and any other agencies as determined by the Director of the Office of Science and Technology Policy, shall enter into a joint agreement with the Academies to create a new 'National Science, Technology, and Security Roundtable' (hereinafter in this subsection referred to as the 'roundtable').
+In general.—The National Science Foundation, the Department of Energy, and the Departmentof Defense, and any other agencies as determined by the Director of the Office of Science and Technology Policy, shall enter into a joint agreement with the Academies to create a new 'National Science, Technology, and Security Roundtable' (hereinafter in this subsection referred to as the 'roundtable').
 
 &emsp;"(2)
 
@@ -354,7 +354,7 @@ High-energy Physics.—
 
 &emsp;"(1)
 
-In general.—The Physical Science Subcommittee of the National Science and TechnologyCouncil (referred to in this section as 'Subcommittee') shall continue to coordinate Federal efforts related to high-energy physics research to maximize the efficiency and effectiveness of United States investment in high-energy physics.
+In general.—The Physical Science Subcommittee of the National Science and Technology Council (referred to in this section as 'Subcommittee') shall continue to coordinate Federal efforts related to high-energy physics research to maximize the efficiency and effectiveness of United States investment in high-energy physics.
 
 &emsp;"(2)
 
@@ -468,7 +468,7 @@ Sec. 8. This Order shall be effective on February 26, 1978.
 
 #### Executive Order No. 12700
 
-Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30, 1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
+Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30,1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
 
 #### Ex. Ord. No. 12881. Establishment of National Science and Technology Council
 
@@ -548,7 +548,7 @@ Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council of Advisors on Science and Technology were contained in the following prior Executive Orders:
 
@@ -562,7 +562,7 @@ Ex. Ord. No. 13237, Nov. 28, 2001, 66 F.R. 59851, which created the President's 
 
 #### Extension of Term of President's Council on Bioethics
 
-Term of President's Council on Bioethics extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council on Bioethics extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council on Bioethics were contained in the following prior Executive Orders:
 
@@ -622,7 +622,7 @@ Sec. 6. <i>General Provisions.</i>
 
 (a) This order supersedes Executive Order 13237 of November 28, 2001.
 
-(b) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
+(b) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], may apply to the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 (c) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -638,7 +638,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Presidential Commission for the Study of Bioethical Issues
 
-Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Presidential Commission for the Study of Bioethical Issues were contained in the following prior Executive Orders:
 
@@ -648,11 +648,11 @@ Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 
 
 #### Executive Order No. 13539
 
-Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, §2, Dec. 19, 2011, 76 F.R. 80725, which established the President's Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13895, §7, Oct. 22, 2019, 84 F.R. 57311, formerly set out below.
+Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, §2, Dec. 19, 2011, 76 F.R.80725, which established the President's Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13895, §7, Oct. 22, 2019, 84 F.R. 57311, formerly set out below.
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council of Advisors on Science and Technology (established by Ex. Ord. No. 13539) extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council of Advisors on Science and Technology were contained in the following prior Executive Orders:
 
@@ -704,7 +704,7 @@ Sec. 4. <i>Federal Investment in AI Research and Development.</i>
 
 (b) Heads of AI R\&D agencies shall budget an amount for AI R\&D that is appropriate for this prioritization.
 
-(i) Following the submission of the President's Budget request to the Congress, heads of such agencies shall communicate plans for achieving this prioritization to the OMB Director and the OSTP Director each fiscal year through the Networking and Information Technology Research and Development (NITRD) Program.
+(i) Following the submission of the President's Budget request to the Congress, heads of such agencies shallcommunicate plans for achieving this prioritization to the OMB Director and the OSTP Director each fiscal year through the Networking and Information Technology Research and Development (NITRD) Program.
 
 (ii) Within 90 days of the enactment of appropriations for their respective agencies, heads of such agencies shall identify each year, consistent with applicable law, the programs to which the AI R\&D priority will apply and estimate the total amount of such funds that will be spent on each such program. This information shall be communicated to the OMB Director and OSTP Director each fiscal year through the NITRD Program.
 
@@ -860,7 +860,7 @@ Sec. 4. <i>Administration</i>. (a) The heads of executive departments and agenci
 
 (e) Members of the PCAST shall serve without any compensation for their work on the PCAST, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
 
-(f) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the PCAST, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Energy, in accordance with the guidelines and procedures established by the Administrator of General Services.
+(f) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], may apply to the PCAST, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Energy, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 Sec. 5. <i>Termination</i>. The PCAST shall terminate 2 years from the date of this order \[Jan. 27, 2021\] unless extended by the President.
 
@@ -880,7 +880,7 @@ J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council of Advisors on Science and Technology (established by Ex. Ord. No. 14007) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Strengthened Protections for Human Subjects of Classified Research
 
@@ -930,7 +930,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 (i) The Common Rule currently requires that each IRB "include at least one member who is not otherwise affiliated with the institution and who is not part of the immediate family of a person who is affiliated with the institution." For classified research, the agencies shall define "not otherwise affiliated with the institution," as a nongovernmental member with the appropriate security clearance.
 
-(ii) Under the Common Rule, research projects are approved by the IRB if a "majority of those (IRB) members present at a meeting" approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specific project should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRBmember may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
+(ii) Under the Common Rule, research projects are approved by the IRB if a "majority of those (IRB) members present at a meeting" approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specific project should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRB member may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
 
 (iii) IRBs for classified research shall determine whether potential subjects need access to classified information to make a valid informed consent decision.
 

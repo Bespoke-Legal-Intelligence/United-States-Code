@@ -6,11 +6,11 @@ Except as otherwise provided in this subchapter, the following conditions apply 
 
 &emsp;(2) Funds provided under this subchapter shall only be used for activities that are in addition to activities that would otherwise be available in the local area in the absence of such funds.
 
-&emsp;(3)(A) Any local area may enter into an agreement with another local area (including a local area that is a city or county within the same labor market) to pay or share the cost ofeducating, training, or placing individuals participating in programs assisted under this subchapter, including the provision of supportive services.
+&emsp;(3)(A) Any local area may enter into an agreement with another local area (including a local area that is a city or county within the same labor market) to pay or share the cost of educating, training, or placing individuals participating in programs assisted under this subchapter, including the provision of supportive services.
 
 &emsp;(B) Such agreement shall be approved by each local board for a local area entering into the agreement and shall be described in the local plan under section 3123 of this title.
 
-&emsp;(4) On-the-job training contracts under this subchapter, shall not be entered into with employers who have received payments under previous contracts under this Act or the Workforce Investment Act of 1998 and have exhibited a pattern of failing to provide on-the-job training participants with continued long-term employment as regular employees with wages and employment benefits (including health benefits) and working conditions at the same level and to the same extent as other employees working a similar length of time and doing the same type of work.
+&emsp;(4) On-the-job training contracts under this subchapter, shall not be entered into with employers who have received payments under previous contracts under this Act or the Workforce Investment Act of 1998 and have exhibited a pattern of failing to provide on-the-job training participants with continued long-term employment as regular employees with wages and employment benefits (includinghealth benefits) and working conditions at the same level and to the same extent as other employees working a similar length of time and doing the same type of work.
 
 &emsp;(5) No person or organization may charge an individual a fee for the placement or referral of the individual in or to a workforce investment activity under this subchapter.
 

@@ -10,7 +10,7 @@
 
 #### (b) Annual revisions of programs
 
-The Secretary of Homeland Security shall revise the program developed under subsection (a)not later than June 1 in each fiscal year covered by the program. The revisions shall include adjustments that the Secretary determines necessary or appropriate on the basis of the lessons learned from the exercise or exercises carried out under the program in the fiscal year, including lessons learned regarding coordination problems and equipment deficiencies.
+The Secretary of Homeland Security shall revise the program developed under subsection (a) not later than June 1 in each fiscal year covered by the program. The revisions shall include adjustments that the Secretary determines necessary or appropriate on the basis of the lessons learned from the exercise or exercises carried out under the program in the fiscal year, including lessons learned regarding coordination problems and equipment deficiencies.
 
 (Pub. L. 104–201, div. A, title XIV, §1415, Sept. 23, 1996, 110 Stat. 2720; Pub. L. 107–314, div. C, title XXXI, §3154(a), Dec. 2, 2002, 116 Stat. 2738; Pub. L. 109–163, div. A, title X, §1032, Jan. 6, 2006, 119 Stat. 3428.)
 

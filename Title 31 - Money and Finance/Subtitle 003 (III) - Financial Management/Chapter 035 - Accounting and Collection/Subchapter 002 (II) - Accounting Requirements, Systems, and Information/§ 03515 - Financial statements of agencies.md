@@ -1,6 +1,6 @@
 ### §3515. Financial statements of agencies
 
-(a)(1) <sup>1</sup> Except as provided in subsection (e), not later than March 1 of 2003 and each year thereafter, the head of each covered executiveagency shall prepare and submit to the Congress and the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
+(a)(1) <sup>1</sup> Except as provided in subsection (e), not later than March 1 of 2003 and each year thereafter, the head of each covered executive agency shall prepare and submit to the Congress and the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
 
 (b) Each audited financial statement of a covered executive agency under this section shall reflect—
 
@@ -32,7 +32,7 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–289, §2(a)(1), substituted "(1) Except as provided in subsection (e), not later" for "Not later", "2003" for "1997", and "each covered executive agency" for "each executive agency identified in section 901(b) of this title".
+<b>2002</b>—Subsec. (a). Pub. L. 107–289, §2(a)(1), substituted "(1) Except as provided in subsection (e), not later" for"Not later", "2003" for "1997", and "each covered executive agency" for "each executive agency identified in section 901(b) of this title".
 
 Subsec. (b). Pub. L. 107–289, §2(a)(2), substituted "a covered executive agency" for "an executive agency" in introductory provisions.
 
@@ -68,7 +68,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 #### Effective Date; Waiver of Requirement; Resolution Approving Designation of Agencies
 
-Pub. L. 101–576, title III, §303(a)(2), (3), (b), Nov. 15, 1990, 104 Stat. 2849, 2850, provided that section 3515(e) of this title, as added by section 303(a)(1) of Pub. L. 101–576, would take effect on date on which a resolution was passed by Congress and approved by the President,provided that Director of Office of Management and Budget could, for fiscal year 1991, waive application of section 3515(a) of this title with respect to any revolving fund, trust fund, or account of an executive agency, and described and specified procedures for passage of the resolution.
+Pub. L. 101–576, title III, §303(a)(2), (3), (b), Nov. 15, 1990, 104 Stat. 2849, 2850, provided that section 3515(e) of this title, as added by section 303(a)(1) of Pub. L. 101–576, would take effect on date on which a resolution was passed by Congress and approved by the President, provided that Director of Office of Management and Budget could, for fiscal year 1991, waive application of section 3515(a) of this title with respect to any revolving fund, trust fund, or account of an executive agency, and described and specified procedures for passage of the resolution.
 
 #### Waiver Authority
 

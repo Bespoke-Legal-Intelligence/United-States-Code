@@ -40,7 +40,7 @@ Section was formerly classified to section 2161 of the former Appendix to this t
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–64, §3(1), struck out paragraph designation "(1)" and former par. (1) heading "In general" and in text substituted "Except as provided in subsection (b)," for "Except as provided in subsection (c),".
 
-Subsecs. (b) to (d). Pub. L. 104–64, §3(2), added subsec. (b) and struck out former subsec. (b) which authorizedappropriations to carry out provisions of section 305(k)(2) of act Sept. 8, 1950, ch. 932, former subsec. (c) which authorized appropriations for fiscal year 1991 to carry out provisions of sections 4531 to 4533 of this title, and former subsec. (d) which authorized appropriations for fiscal years 1993, 1994, and 1995 to carry out subchapter II of this chapter.
+Subsecs. (b) to (d). Pub. L. 104–64, §3(2), added subsec. (b) and struck out former subsec. (b) which authorized appropriations to carry out provisions of section 305(k)(2) of act Sept. 8, 1950, ch. 932, former subsec. (c) which authorized appropriations for fiscal year 1991 to carry out provisions of sections 4531 to 4533 of this title, and former subsec. (d) which authorized appropriations for fiscal years 1993, 1994, and 1995 to carry out subchapter II of this chapter.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–558, §152(2)(A), inserted heading.
 

@@ -68,7 +68,7 @@ The Federal Bureau of Investigation shall not charge a user fee for background c
 
 The Attorney General shall direct the Office of Justice Programs, the Bureau of Alcohol, Tobacco, Firearms, and Explosives, and the Federal Bureau of Investigation to—
 
-&emsp;(1) assist States that are not currently eligible for grants under this section to achievecompliance with all eligibility requirements; and
+&emsp;(1) assist States that are not currently eligible for grants under this section to achieve compliance with all eligibility requirements; and
 
 &emsp;(2) provide technical assistance and training services to grantees under this section.
 

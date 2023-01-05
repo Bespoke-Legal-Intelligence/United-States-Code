@@ -28,7 +28,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 &emsp;(10) the name of the watershed and location of the surface stream or tributary into which surface and pit drainage will be discharged;
 
-&emsp;(11) a determination of the probable hydrologic consequences of the mining and reclamation operations, both on and off the mine site, with respect to the hydrologic regime, quantity and quality of water in surface and ground water systems including the dissolved and suspended solids under seasonal flow conditions and the collection of sufficient data forthe mine site and surrounding areas so that an assessment can be made by the regulatory authority of the probable cumulative impacts of all anticipated mining in the area upon the hydrology of the area and particularly upon water availability: <i>Provided, however</i>, That this determination shall not be required until such time as hydrologic information on the general area prior to mining is made available from an appropriate Federal or State agency: <i>Provided further</i>, That the permit shall not be approved until such information is available and is incorporated into the application;
+&emsp;(11) a determination of the probable hydrologic consequences of the mining and reclamation operations, both on and off the mine site, with respect to the hydrologic regime, quantity and quality of water in surface and ground water systems including the dissolved and suspended solids under seasonal flow conditions and the collection of sufficient data for the mine site and surrounding areas so that an assessment can be made by the regulatory authority of the probable cumulative impacts of all anticipated mining in the area upon the hydrology of the area and particularly upon water availability: <i>Provided, however</i>, That this determination shall not be required until such time as hydrologic information on the general area prior to mining is made available from an appropriate Federal or State agency: <i>Provided further</i>, That the permit shall not be approved until such information is available and is incorporated into the application;
 
 &emsp;(12) when requested by the regulatory authority, the climatological factors that are peculiar to the locality of the land to be affected, including the average seasonal precipitation, the average direction and velocity of prevailing winds, and the seasonal temperature ranges;
 
@@ -44,7 +44,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 #### (c) Assistance to small coal operators
 
-(1) If the regulatory authority finds that the probable total annual production at all locations of a coal surface mining operator will not exceed 300,000 tons, the cost of the following activities, which shall be performed by a qualified public or private laboratory or such other public or private qualified entity designated by the regulatory authority, shall be assumed by the regulatory authority upon the written request of the operator in connection with a permit application:
+(1) If the regulatory authority finds that the probable total annual production at all locations of a coal surface mining operator will notexceed 300,000 tons, the cost of the following activities, which shall be performed by a qualified public or private laboratory or such other public or private qualified entity designated by the regulatory authority, shall be assumed by the regulatory authority upon the written request of the operator in connection with a permit application:
 
 &emsp;(A) The determination of probable hydrologic consequences required by subsection (b)(11), including the engineering analyses and designs necessary for the determination.
 
@@ -58,7 +58,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 &emsp;(F) The collection of site-specific resource information and production of protection and enhancement plans for fish and wildlife habitats and other environmental values required by the regulatory authority under this chapter.
 
-(2) The Secretary shall provide or assume the cost of training coal operators that meet the qualifications stated in paragraph (1) concerningthe preparation of permit applications and compliance with the regulatory program, and shall ensure that qualified coal operators are aware of the assistance available under this subsection.
+(2) The Secretary shall provide or assume the cost of training coal operators that meet the qualifications stated in paragraph (1) concerning the preparation of permit applications and compliance with the regulatory program, and shall ensure that qualified coal operators are aware of the assistance available under this subsection.
 
 #### (d) Reclamation plan
 
@@ -105,6 +105,10 @@ Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in par
 Office of Surface Mining Reclamation and Enforcement—regulation and technology\] as discretionary offsetting collections, to remain available until expended."
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 117–328, div. G, title I, Dec. 29, 2022, 136 Stat. 4770.
+
+Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 359.
 
 Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1489.
 

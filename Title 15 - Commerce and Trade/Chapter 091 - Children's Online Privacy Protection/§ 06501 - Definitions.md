@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;The term "operator"—
 
-&emsp;&emsp;(A) means any person who operates a website located on the Internet or an online service and who collects or maintains personal information from or about the users of or visitors to such website or online service, or on whose behalf such information is collected or maintained, where such website or online service is operated for commercial purposes, including any person offering products or services for sale through that website or online service, involving commerce—
+&emsp;&emsp;(A) means any person who operates a website located on the Internet or an online service and who collects or maintains personal information from or about the users ofor visitors to such website or online service, or on whose behalf such information is collected or maintained, where such website or online service is operated for commercial purposes, including any person offering products or services for sale through that website or online service, involving commerce—
 
 &emsp;&emsp;&emsp;(i) among the several States or with 1 or more foreign nations;
 
@@ -108,7 +108,7 @@ In this chapter:
 
 #### Effective Date
 
-Pub. L. 105–277, div. C, title XIII, §1308, Oct. 21, 1998, 112 Stat. 2681–735, provided that: "Sections 1303(a), 1305,and 1306 of this title \[enacting sections 6502(a), 6504, and 6505 of this title\] take effect on the later of—
+Pub. L. 105–277, div. C, title XIII, §1308, Oct. 21, 1998, 112 Stat. 2681–735, provided that: "Sections 1303(a), 1305, and 1306 of this title \[enacting sections 6502(a), 6504, and 6505 of this title\] take effect on the later of—
 
 &emsp;"(1) the date that is 18 months after the date of enactment of this Act \[Oct. 21, 1998\]; or
 

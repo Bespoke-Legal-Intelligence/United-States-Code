@@ -33,6 +33,8 @@
 | [5331\.](Subchapter%20001%20%28I%29%20-%20Financial%20Stability/Part%20A%20-%20Financial%20Stability%20Oversight%20Council/%C2%A7%2005331%20-%20Mitigation%20of%20risks%20to%20financial%20stability.md) | Mitigation of risks to financial stability. |
 | [5332\.](Subchapter%20001%20%28I%29%20-%20Financial%20Stability/Part%20A%20-%20Financial%20Stability%20Oversight%20Council/%C2%A7%2005332%20-%20GAO%20audit%20of%20Council.md) | GAO audit of Council. |
 | [5333\.](Subchapter%20001%20%28I%29%20-%20Financial%20Stability/Part%20A%20-%20Financial%20Stability%20Oversight%20Council/%C2%A7%2005333%20-%20Study%20of%20the%20effects%20of%20size%20and%20complexity%20of%20financial%20institutions%20on%20capital%20market%20efficiency%20and%20economic%20growth.md) | Study of the effects of size and complexity of financial institutions on capital market efficiency and economic growth. |
+| [5334\.](Subchapter%20001%20%28I%29%20-%20Financial%20Stability/Part%20A%20-%20Financial%20Stability%20Oversight%20Council/%C2%A7%2005334%20-%20Data%20standards.md) | Data standards. |
+| [5335\.](Subchapter%20001%20%28I%29%20-%20Financial%20Stability/Part%20A%20-%20Financial%20Stability%20Oversight%20Council/%C2%A7%2005335%20-%20Open%20data%20publication.md) | Open data publication. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -176,6 +178,8 @@
 | [5496a.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20A%20-%20Bureau%20of%20Consumer%20Financial%20Protection/%C2%A7%2005496a%20-%20Annual%20audits.md) | Annual audits. |
 | [5496b.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20A%20-%20Bureau%20of%20Consumer%20Financial%20Protection/%C2%A7%2005496b%20-%20GAO%20study%20of%20financial%20regulations.md) | GAO study of financial regulations. |
 | [5497\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20A%20-%20Bureau%20of%20Consumer%20Financial%20Protection/%C2%A7%2005497%20-%20Funding%3B%20penalties%20and%20fines.md) | Funding; penalties and fines. |
+| [5498\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20A%20-%20Bureau%20of%20Consumer%20Financial%20Protection/%C2%A7%2005498%20-%20Data%20standards.md) | Data standards. |
+| [5499\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20A%20-%20Bureau%20of%20Consumer%20Financial%20Protection/%C2%A7%2005499%20-%20Open%20data%20publication.md) | Open data publication. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

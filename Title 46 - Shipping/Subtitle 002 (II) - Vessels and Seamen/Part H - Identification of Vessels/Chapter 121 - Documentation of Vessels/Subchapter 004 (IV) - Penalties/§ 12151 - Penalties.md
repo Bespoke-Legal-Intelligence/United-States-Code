@@ -28,7 +28,7 @@ Seizure and Forfeiture of Vessels.—A vessel and its equipment are liable to se
 
 &emsp;(6) the vessel is a documented vessel and is placed under the command of a person not a citizen of the United States, except as authorized by section 12131(b) of this title; or
 
-&emsp;(7) the vessel is rebuilt outside the United States and a report of the rebuilding is notsubmitted as required by section 12139(b) of this title.
+&emsp;(7) the vessel is rebuilt outside the United States and a report of the rebuilding is not submitted as required by section 12139(b) of this title.
 
 (c)
 

@@ -12,7 +12,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 &emsp;&emsp;(iii)(I) have been or will be for diagnosis and medical or other remedial care determined to be reasonably necessary, or
 
-&emsp;&emsp;(II) have been or will be for rehabilitation, developmental evaluation, special education, vocational training and placement, case management services, counseling, emotional or behavioral therapy, residential and custodial care and service expenses, special equipment, related travel expenses, and facilities determined to be reasonably necessary.
+&emsp;&emsp;(II) have been or will be for rehabilitation, developmental evaluation, special education, vocational training and placement, case management services, counseling, emotional or behavioral therapy, residential and custodial care and service expenses, specialequipment, related travel expenses, and facilities determined to be reasonably necessary.
 
 &emsp;(B) Subject to section 300aa–16(a)(2) of this title, actual unreimbursable expenses incurred before the date of the judgment awarding such expenses which—
 
@@ -32,7 +32,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 #### (b) Vaccines administered before effective date
 
-Compensation awarded under the Program to a petitioner under section 300aa–11 of this titlefor a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) and may also include an amount, not to exceed a combined total of $30,000, for—
+Compensation awarded under the Program to a petitioner under section 300aa–11 of this title for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) and may also include an amount, not to exceed a combined total of $30,000, for—
 
 &emsp;(1) lost earnings (as provided in paragraph (3) of subsection (a)),
 
@@ -70,7 +70,7 @@ Compensation awarded under the Program may not include the following:
 
 (1) Except as provided in paragraph (2), no compensation may be paid until an election has been made, or has been deemed to have been made, under section 300aa–21(a) of this title to receive compensation.
 
-(2) Compensation described in subsection (a)(1)(A)(iii) shall be paid from the date of the judgment of the United States Court of Federal Claims under section 300aa–12 of this title awarding the compensation. Such compensation may not be paid after an election under section 300aa–21(a) of this title to file a civil action for damages for the vaccine-related injury or death for which such compensation was awarded.
+(2) Compensation described in subsection (a)(1)(A)(iii) shall be paid from the date of the judgment of the United States Court of Federal Claims under section 300aa–12 of this title awarding the compensation. Such compensation may not be paid after an election under section 300aa–21(a) of this title to file a civil action fordamages for the vaccine-related injury or death for which such compensation was awarded.
 
 (3) Payments of compensation under the Program and the costs of carrying out the Program shall be exempt from reduction under any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
@@ -82,7 +82,7 @@ Compensation awarded under the Program may not include the following:
 
 #### (g) Program not primarily liable
 
-Payment of compensation under the Program shall not be made for any item or service to theextent that payment has been made, or can reasonably be expected to be made, with respect to such item or service (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (other than under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]), or (2) by an entity which provides health services on a prepaid basis.
+Payment of compensation under the Program shall not be made for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (other than under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]), or (2) by an entity which provides health services on a prepaid basis.
 
 #### (h) Liability of health insurance carriers, prepaid health plans, and benefit providers
 
@@ -112,7 +112,7 @@ For the payment of compensation under the Program to a petitioner for a vaccine-
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (f)(3), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§900 et seq.) of chapter 20 of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
-The Social Security Act, referred to in subsecs. (g) and (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (g) and (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
@@ -180,7 +180,7 @@ Subsec. (j). Pub. L. 100–360, §411(o)(1)(B), inserted "to the Department of H
 
 Pub. L. 100–203, §4303(d)(1)(A), struck out last two sentences which read as follows: "Payments for projected expenses shall be paid on a periodic basis (but no payment may be made for a period in excess of 1 year). Payments for pain and suffering and emotional distress and incurred expenses may be paid in a lump sum."
 
-Subsec. (a)(1). Pub. L. 100–203, §4303(c), struck out last sentence of subpars. (A) and (B) each of which read as follows: "The amount of unreimbursable expenses which may be recovered under this subparagraph shall be limited to the amount in excess of the amount set forth in section 300aa–11(c)(1)(D)(ii) of this title."
+Subsec. (a)(1). Pub. L. 100–203, §4303(c), struck out last sentence of subpars. (A) and (B) each of which read as follows: "The amount of unreimbursable expenses which may be recovered under this subparagraph shallbe limited to the amount in excess of the amount set forth in section 300aa–11(c)(1)(D)(ii) of this title."
 
 Subsec. (b). Pub. L. 100–203, §4303(e), substituted "may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys' fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys' fees and other costs under subsection (e) of this section may not exceed $30,000" for "shall only include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section".
 

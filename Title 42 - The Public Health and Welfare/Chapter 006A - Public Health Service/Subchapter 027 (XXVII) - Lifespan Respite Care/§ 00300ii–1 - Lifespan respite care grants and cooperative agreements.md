@@ -58,7 +58,7 @@ In carrying out this section, the Secretary shall work in cooperation with the N
 
 &emsp;&emsp;&emsp;(x) the criteria used to identify family caregivers eligible for respite care services;
 
-&emsp;&emsp;&emsp;(xi) how the quality and safety of any respite care services provided will be monitored, including methods to ensure that respite care workers and volunteers are appropriately screened and possess the necessary skills to care for the needs of the care recipient in the absence of the family caregiver; and
+&emsp;&emsp;&emsp;(xi) how the quality and safety of any respite care services provided will be monitored, including methods to ensure thatrespite care workers and volunteers are appropriately screened and possess the necessary skills to care for the needs of the care recipient in the absence of the family caregiver; and
 
 &emsp;&emsp;&emsp;(xii) the results expected from proposed respite care activities and the procedures to be used for evaluating those results;
 

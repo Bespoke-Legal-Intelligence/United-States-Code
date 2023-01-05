@@ -86,7 +86,7 @@ For the purposes of this subchapter:
 
 #### (17) Target housing
 
-&emsp;The term "target housing" means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities or any 0-bedroom dwelling (unless any child who is less than 6 years of age resides or is expected to reside in such housing). In the caseof jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary of Housing and Urban Development, at the Secretary's discretion, may designate an earlier date.
+&emsp;The term "target housing" means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities or any 0-bedroom dwelling (unless any child who is less than 6 years of age resides or is expected to reside in such housing). In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary of Housing and Urban Development, at the Secretary's discretion, may designate an earlier date.
 
 (Pub. L. 94–469, title IV, §401, as added Pub. L. 102–550, title X, §1021(a), Oct. 28, 1992, 106 Stat. 3912; amended Pub. L. 115–31, div. K, title II, §237(c), May 5, 2017, 131 Stat. 789.)
 
@@ -96,5 +96,5 @@ For the purposes of this subchapter:
 
 <b>2017</b>—Par. (17). Pub. L. 115–31, §237(c)(1), which directed insertion of "or any 0-bedroom dwelling" after "disabilities,", was executed by making the insertion after "disabilities" the first place appearing to reflect the probable intent of Congress.
 
-Pub. L. 115–31, §237(c)(2), which directed substitution of "housing)" for "housing for the elderly or persons with disabilities) or any 0 bedroom dwelling", was executed by making the substitution for "housing for the elderly or persons with disabilities) or any 0-bedroom dwelling" to reflect the probable intent of Congress.
+Pub. L. 115–31, §237(c)(2), which directed substitution of "housing)" for "housing for the elderly or personswith disabilities) or any 0 bedroom dwelling", was executed by making the substitution for "housing for the elderly or persons with disabilities) or any 0-bedroom dwelling" to reflect the probable intent of Congress.
 

@@ -58,7 +58,7 @@
 
 > The Secretary may, from time to time, change the election under this subparagraph.
 
-(B) Any veteran, under a loan described in subparagraph (A)(i), may pay reasonable discountpoints in connection with the loan. Except in the case of a loan for the purpose specified in section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, discount points may not be financed as part of the principal amount of a loan guaranteed or insured under this chapter.
+(B) Any veteran, under a loan described in subparagraph (A)(i), may pay reasonable discount points in connection with the loan. Except in the case of a loan for the purpose specified in section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, discount points may not be financed as part of the principal amount of a loan guaranteed or insured under this chapter.
 
 (C) Not later than 10 days after an election under subparagraph (A), the Secretary shall transmit to the Committees on Veterans' Affairs of the Senate and House of Representatives a notification of the election, together with an explanation of the reasons therefor.
 
@@ -92,13 +92,13 @@
 
 (f) The application for or obtaining of a loan made, insured, or guaranteed under this chapter shall not be subject to reporting requirements applicable to requests for, or receipts of, Federal contracts, grants, loans, loan guarantees, loan insurance, or cooperative agreements except to the extent that such requirements are provided for in, or by the Secretary pursuant to, this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V,§504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636; Pub. L. 112–154, title VII, §701(d), Aug. 6, 2012, 126 Stat. 1204; Pub. L. 116–23, §6(a)(1), June 25, 2019, 133 Stat. 973.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636; Pub. L. 112–154, title VII, §701(d), Aug. 6, 2012, 126 Stat. 1204; Pub. L. 116–23, §6(a)(1), June 25, 2019, 133 Stat. 973.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans' Relief, which was repealed upon the enactment of Title 38, Veterans' Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding section 101 of this title.
+The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, which was classified generally to chapter 11C (§§693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans' Relief, which was repealed upon the enactment of Title 38, Veterans' Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding section 101 of this title.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
@@ -134,7 +134,7 @@ Subsec. (a)(1)(C). Pub. L. 108–454, §403(b), added subpar. (C).
 
 <b>1993</b>—Subsec. (c)(4)(B). Pub. L. 103–78 in second sentence substituted "Except in the case of a loan for the purpose specified in section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, discount" for "Discount".
 
-<b>1992</b>—Subsec. (c)(1). Pub. L. 102–547, §10(a)(1), in first sentence substituted "applicable to" for "the Secretary of Housing and Urban Development considers necessary to meet the mortgage market for" and struck out ", and, to the maximum extent practicable, carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter" after "(12 U.S.C. 1709(b))".
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–547, §10(a)(1), in first sentence substituted "applicable to" for "the Secretaryof Housing and Urban Development considers necessary to meet the mortgage market for" and struck out ", and, to the maximum extent practicable, carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter" after "(12 U.S.C. 1709(b))".
 
 Subsec. (c)(4). Pub. L. 102–547, §10(a)(2), added par. (4).
 
@@ -232,7 +232,7 @@ Subsec. (c)(3)(B). Pub. L. 95–476, §103(b)(2), substituted "clauses (4) and (
 
 Subsec. (d)(3). Pub. L. 94–324, §7(6), substituted "the Administrator determines" for "he determines".
 
-<b>1974</b>—Subsec. (a)(1). Pub. L. 93–569, §8(1), struck out "and not more than 50 per centum of the loan if the loan is for any of the purposes specified in section 1812, 1813, or 1814 of this title" after "section 1810 of this title".
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–569, §8(1), struck out "and not more than 50 per centum of the loan if theloan is for any of the purposes specified in section 1812, 1813, or 1814 of this title" after "section 1810 of this title".
 
 Subsec. (a)(2)(B) \[formerly §1815(b)\]. Pub. L. 93–569, §8(5), struck out provision authorizing the Administrator to fix maximum interest rate payable on non-real-estate loans at not in excess of 3 percent discount rate or an equivalent straight interest rate on unamortized loans.
 
@@ -256,7 +256,7 @@ Subsec. (d)(1). Pub. L. 91–506, §2(c)(2), limited maturity of non-real-estate
 
 <b>1967</b>—Subsec. (a)(3)(A). Pub. L. 90–77 extended in cls. (i) and (ii) loan program for certain World War II veterans from July 25, 1967 to July 25, 1970.
 
-<b>1966</b>—Subsec. (c)(1). Pub. L. 89–358 struck out provision for approval of rate of interest by the Secretary ofthe Treasury and substituted provision for a rate not in excess of that in effect under section 203(b)(5) of the National Housing Act, section 1709(b)(5) of Title 12, for former limitation of 5¼ per centum per annum.
+<b>1966</b>—Subsec. (c)(1). Pub. L. 89–358 struck out provision for approval of rate of interest by the Secretary of the Treasury and substituted provision for a rate not in excess of that in effect under section 203(b)(5) of the National Housing Act, section 1709(b)(5) of Title 12, for former limitation of 5¼ per centum per annum.
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–84 substituted "to a World War II or Korean conflict veteran, if made within the applicable period prescribed in paragraph (3) of this subsection" for "made to a World War II veteran, if made before July 26, 1962 (or, in the case of a veteran described in section 1801(a)(1)(B) of this title, before the expiration of fifteen years after World War II is deemed to have ended with respect to him), or to a Korean conflict veteran, if made before February 1, 1965," in par. (1), and "is received by the Administrator before the date of the expiration of the veteran's entitlement, the loan" for "to a World War II veteran, whose entitlement would otherwise expire on July 25, 1962, has been received by the Administrator before July 26, 1962, such loan" in par. (2), and added par. (3).
 
@@ -300,7 +300,7 @@ Pub. L. 100–198, §3(d), Dec. 21, 1987, 101 Stat. 1316, provided that: "The am
 
 #### Effective Date of 1981 Amendments
 
-Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 of Pub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
+Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 ofPub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
 
 Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of Pub. L. 97–66, set out as a note under section 1114 of this title.
 

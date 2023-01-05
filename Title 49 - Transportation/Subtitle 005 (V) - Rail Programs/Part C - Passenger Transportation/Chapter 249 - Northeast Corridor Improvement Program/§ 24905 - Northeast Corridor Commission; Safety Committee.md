@@ -128,7 +128,7 @@ Request for dispute resolution.—If a dispute arises with the implementation of
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary for the use of the Commission and theNortheast Corridor Safety Committee such sums as may be necessary to carry out this section during fiscal years 2022 through 2026, in addition to any amounts withheld under section 22101(e) of the Passenger Rail Expansion and Rail Safety Act of 2021.
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary for the use of the Commission and the Northeast Corridor Safety Committee such sums as may be necessary to carry out this section during fiscal years 2022 through 2026, in addition to any amounts withheld under section 22101(e) of the Passenger Rail Expansion and Rail Safety Act of 2021.
 
 (e)
 
@@ -234,7 +234,7 @@ Subsec. (c)(4). Pub. L. 117–58, §22302(3)(C), substituted "commuter authoriti
 
 Subsec. (d). Pub. L. 117–58, §22302(4), substituted "2022 through 2026" for "2016 through 2020" and "section 22101(e) of the Passenger Rail Expansion and Rail Safety Act of 2021" for "section 11101(g) of the Passenger Rail Reform and Investment Act of 2015".
 
-<b>2019</b>—Subsec. (e)(2). Pub. L. 115–420, §6(a), added par. (2) and struck out former par. (2). Prior to amendment,text read as follows: "The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security."
+<b>2019</b>—Subsec. (e)(2). Pub. L. 115–420, §6(a), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security."
 
 Subsec. (e)(3). Pub. L. 115–420, §4(a), struck out par. (3). Text read as follows: "At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations."
 

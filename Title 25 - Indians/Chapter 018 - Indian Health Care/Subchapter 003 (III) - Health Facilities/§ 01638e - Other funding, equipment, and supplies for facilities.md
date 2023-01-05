@@ -4,7 +4,7 @@
 
 #### (1) Authority to transfer funds
 
-&emsp;The head of any Federal agency to which funds, equipment, or other supplies are madeavailable for the planning, design, construction, or operation of a health care or sanitation facility may transfer the funds, equipment, or supplies to the Secretary for the planning, design, construction, or operation of a health care or sanitation facility to achieve—
+&emsp;The head of any Federal agency to which funds, equipment, or other supplies are made available for the planning, design, construction, or operation of a health care or sanitation facility may transfer the funds, equipment, or supplies to the Secretary for the planning, design, construction, or operation of a health care or sanitation facility to achieve—
 
 &emsp;&emsp;(A) the purposes of this chapter; and
 

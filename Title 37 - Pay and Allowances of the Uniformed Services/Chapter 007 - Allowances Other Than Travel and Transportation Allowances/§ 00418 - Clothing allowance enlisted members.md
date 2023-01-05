@@ -134,7 +134,7 @@ By virtue of the authority vested in me as President of the United States and as
 
 2\. The quantity and kind of clothing, and any cash allowances in lieu thereof, prescribed by the Secretary of Homeland Security hereunder with respect to the Coast Guard and the Coast Guard Reserve shall, so far as practicable, be in conformity with those prescribed by the Secretary of Defense with respect to the Navy and Naval Reserve \[now Navy Reserve\], respectively.
 
-3\. Existing regulations prescribing the quantity and kind of clothing furnished, and any cash allowances inlieu thereof, shall remain in effect until modified, revoked, or superseded by action taken pursuant to this order.
+3\. Existing regulations prescribing the quantity and kind of clothing furnished, and any cash allowances in lieu thereof, shall remain in effect until modified, revoked, or superseded by action taken pursuant to this order.
 
 4\. The term "enlisted men" as used in this order shall be deemed to apply to enlisted persons of either sex.
 

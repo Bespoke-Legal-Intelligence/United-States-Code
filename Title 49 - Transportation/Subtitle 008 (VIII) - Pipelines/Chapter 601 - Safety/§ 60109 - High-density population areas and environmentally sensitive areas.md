@@ -52,7 +52,7 @@ Minimum requirements of integrity management programs.—An integrity management
 
 &emsp;&emsp;(B) Subject to paragraph (5), periodic reassessments of the facility, at a minimum of once every 7 calendar years, using methods described in subparagraph (A). The Secretary may extend such deadline for an additional 6 months if the operator submits written notice to the Secretary with sufficient justification of the need for the extension.
 
-&emsp;&emsp;(C) Clearly defined criteria for evaluating the results of assessments conducted under subparagraphs (A) and (B) and for taking actions based on such results.
+&emsp;&emsp;(C) Clearly defined criteria for evaluating the results of assessments conducted undersubparagraphs (A) and (B) and for taking actions based on such results.
 
 &emsp;&emsp;(D) A method for conducting an analysis on a continuing basis that integrates all available information about the integrity of the facility and the consequences of releases from the facility.
 
@@ -134,7 +134,7 @@ Transmittal of programs to state authorities.—The Secretary shall provide a co
 
 &emsp;(10)
 
-State review of integrity management plans.—A State authority that enters into an agreement pursuant to section 60106, permitting the State authority to review the riskanalysis and integrity management program pursuant to paragraph (9), may provide the Secretary with a written assessment of the risk analysis and integrity management program, make recommendations, as appropriate, to address safety concerns not adequately addressed by the operator's risk analysis or integrity management program, and submit documentation explaining the State-proposed revisions. The Secretary shall consider carefully the State's proposals and work in consultation with the States and operators to address safety concerns.
+State review of integrity management plans.—A State authority that enters into an agreement pursuant to section 60106, permitting the State authority to review the risk analysis and integrity management program pursuant to paragraph (9), may provide the Secretary with a written assessment of the risk analysis and integrity management program, make recommendations, as appropriate, to address safety concerns not adequately addressed by the operator's risk analysis or integrity management program, and submit documentation explaining the State-proposed revisions. The Secretary shall consider carefully the State's proposals and work in consultation with the States and operators to address safety concerns.
 
 &emsp;(11)
 
@@ -212,7 +212,7 @@ Development and implementation.—Each operator of a distribution pipeline that 
 
 &emsp;(6)
 
-Savings clause.—Subject to section 60104(c), a State authority having a current certification under section 60105 may adopt or continue in force additional integrity management requirements, including additional requirements for installation of excess flow valves, for gas distribution pipelines within the boundaries of that State.
+Savings clause.—Subject to section 60104(c), a State authority having a currentcertification under section 60105 may adopt or continue in force additional integrity management requirements, including additional requirements for installation of excess flow valves, for gas distribution pipelines within the boundaries of that State.
 
 &emsp;(7)
 
@@ -430,7 +430,7 @@ Subsec. (d). Pub. L. 107–355, §14(b), added subsec. (d).
 
 Subsec. (a)(1)(B)(i). Pub. L. 104–304, §7(a), substituted "waters where a substantial likelihood of commercial navigation exists" for "a navigable waterway (as the Secretary defines by regulation)".
 
-Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
+Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
 
 &emsp;"(1) earthquake zones and areas subject to landslides and other substantial ground movements;
 
@@ -532,7 +532,7 @@ Factors.—In conducting the evaluation under subsection (a), the Secretary shal
 
 "(c)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, based on the evaluation conducted under subsection (a), containing the Secretary's analysis and findings regarding—
+Report.—Not later than 2 years after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary shallsubmit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, based on the evaluation conducted under subsection (a), containing the Secretary's analysis and findings regarding—
 
 &emsp;"(1) expansion of integrity management requirements, or elements thereof, beyond high-consequence areas; and
 

@@ -10,7 +10,7 @@ It is the purpose of this subchapter—
 
 &emsp;(4) to encourage resource sharing among all types of libraries for the purpose of achieving economical and efficient delivery of library services to the public;
 
-&emsp;(5) to promote literacy, education, and lifelong learning, including by building learningpartnerships with school libraries in our Nation's schools, including tribal schools, and developing resources, capabilities, and programs in support of State, tribal, and local efforts to offer a well-rounded educational experience to all students;
+&emsp;(5) to promote literacy, education, and lifelong learning, including by building learning partnerships with school libraries in our Nation's schools, including tribal schools, and developing resources, capabilities, and programs in support of State, tribal, and local efforts to offer a well-rounded educational experience to all students;
 
 &emsp;(6) to enable libraries to develop services that meet the needs of communities throughout the Nation, including people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers;
 

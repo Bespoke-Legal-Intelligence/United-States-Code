@@ -18,7 +18,7 @@ The Secretary of State, or designee, shall consult with the appropriate governme
 
 &emsp;(1) to apprehend and prosecute such criminals; and
 
-&emsp;(2) to prevent such criminals from carrying out cybercrimes or intellectual propertycrimes against the interests of the United States or its citizens.
+&emsp;(2) to prevent such criminals from carrying out cybercrimes or intellectual property crimes against the interests of the United States or its citizens.
 
 #### (c) Annual report
 

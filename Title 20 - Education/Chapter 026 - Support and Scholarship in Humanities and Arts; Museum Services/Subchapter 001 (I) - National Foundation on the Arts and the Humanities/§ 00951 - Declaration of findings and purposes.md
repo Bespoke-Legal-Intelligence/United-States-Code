@@ -32,7 +32,7 @@ The Congress finds and declares the following:
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–512 amended section generally, substituting provisions relating to declaration of findingsand purposes consisting of pars. (1) to (12) for provisions relating to declaration of purpose consisting of cls. (1) to (9).
+<b>1990</b>—Pub. L. 101–512 amended section generally, substituting provisions relating to declaration of findings and purposes consisting of pars. (1) to (12) for provisions relating to declaration of purpose consisting of cls. (1) to (9).
 
 <b>1985</b>—Cl. (2). Pub. L. 99–194, §102(1), struck out "man's" before "scholarly and cultural activity".
 
@@ -110,15 +110,15 @@ Pub. L. 101–512, title III, §318 \[title IV, §§401, 402\], Nov. 5, 1990, 10
 
 #### 1979 White House Conference on the Arts
 
-Pub. L. 95–272, title I, §§101–109, May 3, 1978, 92 Stat. 222–224, called for a White House Conference on the Arts to be held no later than Dec. 31, 1979, to help develop a climate in which the arts can flourish and to formulate recommendations relating to the appropriate growth of the arts in all parts of the Nation, established a National Conference Planning Council on the Arts to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to thePresident and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
+Pub. L. 95–272, title I, §§101–109, May 3, 1978, 92 Stat. 222–224, called for a White House Conference on the Arts to be held no later than Dec. 31, 1979, to help develop a climate in which the arts can flourish and to formulate recommendations relating to the appropriate growth of the arts in all parts of the Nation, established a National Conference Planning Council on the Arts to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
 
 #### 1979 White House Conference on the Humanities
 
-Pub. L. 95–272, title II, §§201–209, May 3, 1978, 92 Stat. 224–226, called for a White House Conference on the Humanities to be held no later than Dec. 31, 1979, to help develop a climate in which the humanities can flourish and to formulate recommendations relating to the appropriate growth of the humanities in all parts of the Nation, established a National Planning Council on the Humanities to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
+Pub. L. 95–272, title II, §§201–209, May 3, 1978, 92 Stat. 224–226, called for a White House Conference on the Humanities to be held no later than Dec. 31, 1979, to help develop a climate in which the humanities can flourish and to formulate recommendations relating to the appropriate growth of the humanities in all parts of the Nation, established a National Planning Council on the Humanities to provide guidance and planning for theConference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
 
 #### <b>Executive Documents</b>
 
 #### Executive Order No. 12275
 
-Ex. Ord. No. 12275, Jan. 16, 1981, 46 F.R. 5857, which established the Design Liaison Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §10, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12275, Jan. 16, 1981, 46 F.R. 5857, which established the Design Liaison Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §10, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 

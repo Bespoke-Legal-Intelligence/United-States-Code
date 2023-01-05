@@ -26,7 +26,7 @@ As an alternate to the rental of quarters under section 2249 of this title, and 
 
 #### (2) Advances
 
-&emsp;The advances of funds described in paragraph (1) shall be in addition to and kept in a separate fund from the assessments authorized in section 2250 of this title and shall be apportioned by the Board among the banks in proportion to the total assets of the respective banks, and determined in such manner and at such times as the Board may prescribe.
+&emsp;The advances of funds described in paragraph (1) shall be in addition to and kept in a separate fund from the assessments authorized in section 2250 of this title and shall be apportioned by the Board among the banks in proportion to the total assets of the respectivebanks, and determined in such manner and at such times as the Board may prescribe.
 
 #### (3) Powers of banks
 

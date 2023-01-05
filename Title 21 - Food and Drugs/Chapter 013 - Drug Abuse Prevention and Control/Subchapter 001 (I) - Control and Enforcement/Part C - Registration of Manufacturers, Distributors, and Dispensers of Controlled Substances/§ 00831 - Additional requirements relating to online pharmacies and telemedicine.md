@@ -48,7 +48,7 @@ Each online pharmacy shall post in a visible and clear manner on the homepage of
 
 #### (e) Declaration of compliance
 
-On and after the date on which it makes the notification under subsection (d), each online pharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
+On and after the date on which it makes the notification under subsection (d), each onlinepharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
 
 #### (f) Reports
 
@@ -78,11 +78,11 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 &emsp;&emsp;(A) demonstrates a legitimate need for the special registration; and
 
-&emsp;&emsp;(B) is registered under section 823(f) of this title in the State in which the patient will be located when receiving the telemedicine treatment, unless the practitioner—
+&emsp;&emsp;(B) is registered under section 823(g) of this title in the State in which the patient will be located when receiving the telemedicine treatment, unless the practitioner—
 
 &emsp;&emsp;&emsp;(i) is exempted from such registration in all States under section 822(d) of this title; or
 
-&emsp;&emsp;&emsp;(ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title.
+&emsp;&emsp;&emsp;(ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(g) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title.
 
 #### (2) Regulations
 
@@ -110,7 +110,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 Any transfer between pharmacies of information relating to a prescription for a controlled substance shall meet the applicable requirements under regulations promulgated by the Attorney General under this chapter.
 
-(Pub. L. 91–513, title II, §311, as added Pub. L. 110–425, §3(d)(1), Oct. 15, 2008, 122 Stat. 4825; amended Pub. L. 115–271, title III, §3232, Oct. 24, 2018, 132 Stat. 3950.)
+(Pub. L. 91–513, title II, §311, as added Pub. L. 110–425, §3(d)(1), Oct. 15, 2008, 122 Stat. 4825; amended Pub. L. 115–271, title III, §3232, Oct. 24, 2018, 132 Stat. 3950; Pub. L. 117–215, title I, §103(b)(1)(F), Dec. 2, 2022, 136 Stat. 2263.)
 
 #### <b>Editorial Notes</b>
 
@@ -122,9 +122,11 @@ For effective date of this section, referred to in subsec. (d)(3), see Effective
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (g)(1), (2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-This chapter, referred to in subsec. (j), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (j), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27,1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h)(1)(B). Pub. L. 117–215 substituted "823(g)" for "823(f)" wherever appearing.
 
 <b>2018</b>—Subsec. (h)(2). Pub. L. 115–271 amended par. (2) generally. Prior to amendment, text read as follows: "The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration."
 

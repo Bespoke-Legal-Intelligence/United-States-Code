@@ -12,7 +12,7 @@
 
 #### (3) Federal costs
 
-&emsp;Costs for research and planning undertaken pursuant to the authorities of this sectionshall be borne fully by the Federal Government.
+&emsp;Costs for research and planning undertaken pursuant to the authorities of this section shall be borne fully by the Federal Government.
 
 #### (b) Authorization of appropriations
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) $10,000,000 for each of fiscal years 2021 through 2024 to carry out subsection (f); and
 
-&emsp;&emsp;&emsp;(ii) $50,000,000 for each of fiscal years 2021 through 2024 to carry out subsection (g)(2).
+&emsp;&emsp;&emsp;(ii) $75,000,000 for each of fiscal years 2021 through 2028 to carry out subsection (g)(2).
 
 #### (B) Invasive plant species pilot program
 
@@ -126,7 +126,7 @@ In carrying out this section, the Secretary may—
 
 #### (2) Development of plans
 
-&emsp;The Secretary, in coordination with the Aquatic Nuisance Species Task Force, shall carry out a pilot program under which the Secretary shall collaborate with States in the Upper Missouri River Basin in developing voluntary aquatic invasive species management plans to mitigate the effects of invasive species on public infrastructure facilities locatedon reservoirs of the Corps of Engineers in those States.
+&emsp;The Secretary, in coordination with the Aquatic Nuisance Species Task Force, shall carry out a pilot program under which the Secretary shall collaborate with States in the Upper Missouri River Basin in developing voluntary aquatic invasive species management plans to mitigate the effects of invasive species on public infrastructure facilities located on reservoirs of the Corps of Engineers in those States.
 
 #### (3) Management plan
 
@@ -144,7 +144,7 @@ In carrying out this section, the Secretary may—
 
 #### (4) Termination of authority
 
-&emsp;The authority provided under this subsection shall terminate on September 30, 2024.
+&emsp;The authority provided under this subsection shall terminate on September 30, 2028.
 
 #### (g) Invasive species prevention, control, and eradication
 
@@ -156,11 +156,11 @@ In carrying out this section, the Secretary may—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may enter into partnerships with applicable States and other Federal agencies to carry out actions to prevent the introduction of, control, or eradicate, to the maximum extent practicable, invasive species that adversely impact water quantity or water quality in the Platte River Basin, the Upper Colorado River Basin, the Upper Snake River Basin, and the Upper Missouri River Basin.
+&emsp;&emsp;The Secretary may enter into partnerships with applicable States and other Federal agencies to carry out actions to prevent the introduction of, control, or eradicate, to the maximum extent practicable, invasive species that adversely impact water quantity, water quality, or ecosystems in the Platte River Basin, the Upper Colorado River Basin, the Upper Snake River Basin, the Lake Erie Basin, the Ohio River Basin, and the Upper Missouri River Basin.
 
 #### (B) Prioritization
 
-&emsp;&emsp;In selecting actions to carry out under a partnership under subparagraph (A), the Secretary shall give priority to projects that are intended to control or eradicate the Russian olive (<i>Elaeagnus angustifolia</i>) or saltcedar (of the genus <i>Tamarix</i>).
+&emsp;&emsp;In selecting actions to carry out under a partnership under subparagraph (A), the Secretary shall give priority to projects that are intended to control or eradicate the Russian olive (<i>Elaeagnus angustifolia</i>), hydrilla (<i>Hydrilla verticillata</i>), or saltcedar (of the genus <i>Tamarix</i>).
 
 #### (3) Invasive plant species pilot program
 
@@ -208,13 +208,13 @@ In carrying out this section, the Secretary may—
 
 #### (D) Termination of authority
 
-&emsp;&emsp;The authority provided under this paragraph shall terminate on September 30, 2024.
+&emsp;&emsp;The authority provided under this paragraph shall terminate on September 30, 2028.
 
 #### (4) Cost share
 
 &emsp;The Federal share of an action carried out under a partnership under paragraph (2) or an activity carried out under the pilot program under paragraph (3) shall not exceed 80 percent of the total cost of the action or activity.
 
-(Pub. L. 85–500, title I, §104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, §302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, §941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §205, Aug. 17, 1999, 113 Stat. 285; Pub. L. 113–121, title I, §1039(d), June 10, 2014, 128 Stat. 1238; Pub. L. 114–322, title I, §1178(b), Dec. 16,2016, 130 Stat. 1674; Pub. L. 115–270, title I, §1170, Oct. 23, 2018, 132 Stat. 3798; Pub. L. 116–260, div. AA, title V, §505, Dec. 27, 2020, 134 Stat. 2746.)
+(Pub. L. 85–500, title I, §104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, §302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, §941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §205, Aug. 17, 1999, 113 Stat. 285; Pub. L. 113–121, title I, §1039(d), June 10, 2014, 128 Stat. 1238; Pub. L. 114–322, title I, §1178(b), Dec. 16, 2016, 130 Stat. 1674; Pub. L. 115–270, title I, §1170, Oct. 23, 2018, 132 Stat. 3798; Pub. L. 116–260, div. AA, title V, §505, Dec. 27, 2020, 134 Stat. 2746; Pub. L. 117–263, div. H, title LXXXI, §8305(b), Dec. 23, 2022, 136 Stat. 3778.)
 
 #### <b>Editorial Notes</b>
 
@@ -223,6 +223,16 @@ In carrying out this section, the Secretary may—
 Executive Order 13112, referred to in subsecs. (f)(1) and (g)(1), is set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(2)(A)(ii). Pub. L. 117–263, §8305(b)(1), substituted "$75,000,000" for "$50,000,000" and "2028" for "2024".
+
+Subsec. (f)(4). Pub. L. 117–263, §8305(b)(2), substituted "2028" for "2024".
+
+Subsec. (g)(2)(A). Pub. L. 117–263, §8305(b)(3)(A)(i), substituted "water quantity, water quality, or ecosystems" for "water quantity or water quality" and inserted "the Lake Erie Basin, the Ohio River Basin," after "the Upper Snake River Basin,".
+
+Subsec. (g)(2)(B). Pub. L. 117–263, §8305(b)(3)(A)(ii), inserted ", hydrilla (<i>Hydrilla verticillata</i>)," after "(<i>Elaeagnus angustifolia</i>)".
+
+Subsec. (g)(3)(D). Pub. L. 117–263, §8305(b)(3)(B), substituted "2028" for "2024".
 
 <b>2020</b>—Subsec. (b)(1). Pub. L. 116–260, §505(1)(A)(i), substituted "this section (except for subsections (f) and (g)) $130,000,000" for "this section $110,000,000" in introductory provisions.
 
@@ -290,7 +300,7 @@ Subsec. (b). Pub. L. 89–298 designated part of existing provisions as subsec. 
 
 #### Harmful Algal Bloom Demonstration Program
 
-Pub. L. 116–260, div. AA, title I, §128, Dec. 27, 2020, 134 Stat. 2642, provided that:
+Pub. L. 116–260, div. AA, title I, §128, Dec. 27, 2020, 134 Stat. 2642, as amended by Pub. L. 117–263, div. H, titleLXXXI, §8305(c), Dec. 23, 2022, 136 Stat. 3778, provided that:
 
 "(a)
 
@@ -306,7 +316,35 @@ Consultation; Use of Existing Data and Program Authorities.—In carrying out th
 
 "(c)
 
-Focus Areas.—In carrying out the demonstration program under subsection (a), the Secretary shall undertake program activities related to harmful algal blooms in the Great Lakes, the tidal and inland waters of the State of New Jersey, the coastal and tidal waters of the State of Louisiana, the waterways of the counties that comprise the Sacramento-San Joaquin Delta, California, the Allegheny Reservoir Watershed, New York, and Lake Okeechobee, Florida.
+Focus Areas.—In carrying out the demonstration program under subsection (a), the Secretary shall undertake program activities related to harmful algal blooms in—
+
+&emsp;"(1) the Great Lakes;
+
+&emsp;"(2) the tidal and inland waters of the State of New Jersey, including Lake Hopatcong, New Jersey;
+
+&emsp;"(3) the coastal and tidal waters of the State of Louisiana;
+
+&emsp;"(4) the waterways of the counties that comprise the Sacramento-San Joaquin Delta, California;
+
+&emsp;"(5) the Allegheny Reservoir Watershed, New York;
+
+&emsp;"(6) Lake Okeechobee, Florida;
+
+&emsp;"(7) the Caloosahatchee and St. Lucie Rivers, Florida;
+
+&emsp;"(8) Lake Sidney Lanier, Georgia;
+
+&emsp;"(9) Rio Grande River Basin, Colorado, New Mexico, and Texas;
+
+&emsp;"(10) lakes and reservoirs in the State of Ohio;
+
+&emsp;"(11) the Upper Mississippi River and tributaries;
+
+&emsp;"(12) Detroit Lake, Oregon;
+
+&emsp;"(13) Ten Mile Lake, Oregon; and
+
+&emsp;"(14) the coastal waters of the United States Virgin Islands.
 
 "(d)
 
@@ -318,7 +356,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 #### Update on Invasive Species Policy Guidance
 
-Pub. L. 116–260, div. AA, title V, §501, Dec. 27, 2020, 134 Stat. 2744, provided that:
+Pub. L. 116–260, div. AA, title V, §501, Dec. 27, 2020, 134 Stat. 2744, as amended by Pub. L. 117–263, div. H, title LXXXI, §8305(d), Dec. 23, 2022, 136 Stat. 3779, provided that:
 
 "(a)
 
@@ -328,9 +366,11 @@ In General.—The Secretary \[of the Army\] shall periodically update the Invasi
 
 Inclusion.—The Secretary may include in the updated guidance invasive species specific efforts at federally authorized water resources development projects located in—
 
-&emsp;"(1) high-altitude lakes; and
+&emsp;"(1) high-altitude lakes;
 
-&emsp;"(2) the Tennessee and Cumberland River basins."
+&emsp;"(2) the Tennessee and Cumberland River basins; and
+
+&emsp;"(3) the Sacramento-San Joaquin Delta, California."
 
 #### Terrestrial Noxious Weed Control Pilot Program
 
@@ -354,7 +394,7 @@ Report to Congress.—Not later than 2 years after the date of enactment of this
 
 #### Asian Carp Prevention and Control Pilot Program
 
-Pub. L. 116–260, div. AA, title V, §509(a), Dec. 27, 2020, 134 Stat. 2750, provided that:
+Pub. L. 116–260, div. AA, title V, §509(a), Dec. 27, 2020, 134 Stat. 2750, as amended by Pub. L. 117–263, div. H, title LXXXI, §8391, Dec. 23, 2022, 136 Stat. 3832, provided that:
 
 "(a)
 
@@ -370,7 +410,7 @@ Project selection.—
 
 &emsp;&emsp;"(A)
 
-Location.—Each project under the pilot program shall be carried out in a river system or reservoir in the Cumberland River Watershed or Tennessee River Watershed in which Asian carp populations are expanding or have been documented.
+Location.—Each project under the pilot program shall be carried out in a river system or reservoir in the Cumberland River Watershed, Tennessee River Watershed, or Tombigbee River Watershed in which Asian carp populations are expanding or have been documented.
 
 &emsp;&emsp;"(B)
 
@@ -388,7 +428,7 @@ Limitations.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Number of projects.—The Secretary may select not more than 10 projects to carry out under the pilot program.
+Number of projects.—The Secretary may select not more than 10 projects to carry out under the pilot program, of which not fewer than 1 shall be carried out on the Tennessee–Tombigbee Waterway.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -408,7 +448,7 @@ In general.—The Federal share of the costs of a project carried out under the 
 
 &emsp;&emsp;"(B)
 
-Operation, maintenance, rehabilitation, and repair.—After the completion of a project under the pilot program, the Federal share of the costs for operation, maintenance, rehabilitation, and repair of the project shall be 100 percent.
+Operation, maintenance, rehabilitation, and repair.—After the completion of a projectunder the pilot program, the Federal share of the costs for operation, maintenance, rehabilitation, and repair of the project shall be 100 percent.
 
 &emsp;"(5)
 

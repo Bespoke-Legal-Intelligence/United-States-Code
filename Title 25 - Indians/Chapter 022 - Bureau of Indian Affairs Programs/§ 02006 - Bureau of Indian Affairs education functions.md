@@ -2,7 +2,7 @@
 
 #### (a) Formulation and establishment of policy and procedure; supervision of programs and expenditures
 
-The Secretary shall vest in the Assistant Secretary for Indian Affairs all functions with respect to formulation and establishment of policy and procedure and supervision of programs and expenditures of Federal funds for the purpose of Indian education administered by the Bureau. The Assistant Secretary shall carry out suchfunctions through the Director of the Office of Indian Education Programs.
+The Secretary shall vest in the Assistant Secretary for Indian Affairs all functions with respect to formulation and establishment of policy and procedure and supervision of programs and expenditures of Federal funds for the purpose of Indian education administered by the Bureau. The Assistant Secretary shall carry out such functions through the Director of the Office of Indian Education Programs.
 
 #### (b) Direction and supervision of personnel operations
 
@@ -92,7 +92,7 @@ For the purpose of this section, the term "functions" includes powers and duties
 
 #### References in Text
 
-This Act, referred to in subsec. (c), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+This Act, referred to in subsec. (c), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

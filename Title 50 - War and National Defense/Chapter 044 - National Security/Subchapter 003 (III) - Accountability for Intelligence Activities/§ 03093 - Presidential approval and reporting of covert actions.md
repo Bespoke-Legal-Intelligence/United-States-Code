@@ -8,7 +8,7 @@ The President may not authorize the conduct of a covert action by departments, a
 
 &emsp;(2) Except as permitted by paragraph (1), a finding may not authorize or sanction a covert action, or any aspect of any such action, which already has occurred.
 
-&emsp;(3) Each finding shall specify each department, agency, or entity of the United States Government authorized to fund or otherwise participate in any significant way in such action. Any employee, contractor, or contract agent of a department, agency, or entity of the United States Government other than the Central Intelligence Agency directed to participate in any way in a covert action shall be subject either to the policies and regulations of the Central Intelligence Agency, or to written policies or regulations adopted by such department, agency, or entity, to govern such participation.
+&emsp;(3) Each finding shall specify each department, agency, or entity of the United States Government authorized to fund or otherwise participate in any significant way in such action. Any employee, contractor, or contract agent of a department, agency, or entity of the United States Government other than the Central Intelligence Agency directed to participate in any way in a covert action shall be subject either to the policies and regulationsof the Central Intelligence Agency, or to written policies or regulations adopted by such department, agency, or entity, to govern such participation.
 
 &emsp;(4) Each finding shall specify whether it is contemplated that any third party which is not an element of, or a contractor or contract agent of, the United States Government, or is not otherwise subject to United States Government policies and regulations, will be used to fund or otherwise participate in any significant way in the covert action concerned, or be used to undertake the covert action concerned on behalf of the United States.
 
@@ -38,7 +38,7 @@ To the extent consistent with due regard for the protection from unauthorized di
 
 &emsp;(i) all members of the congressional intelligence committees are provided access to the finding or notification; or
 
-&emsp;(ii) a statement of reasons that it is essential to continue to limit access to such findingor such notification to meet extraordinary circumstances affecting vital interests of the United States is submitted to the Members of Congress specified in paragraph (2).
+&emsp;(ii) a statement of reasons that it is essential to continue to limit access to such finding or such notification to meet extraordinary circumstances affecting vital interests of the United States is submitted to the Members of Congress specified in paragraph (2).
 
 #### (d) Changes in previously approved actions
 
@@ -66,7 +66,7 @@ As used in this subchapter, the term "covert action" means an activity or activi
 
 &emsp;(2) traditional diplomatic or military activities or routine support to such activities;
 
-&emsp;(3) traditional law enforcement activities conducted by United States Government law enforcement agencies or routine support to such activities; or
+&emsp;(3) traditional law enforcement activities conducted by United States Government lawenforcement agencies or routine support to such activities; or
 
 &emsp;(4) activities to provide routine support to the overt activities (other than activities described in paragraph (1), (2), or (3)) of other United States Government agencies abroad.
 

@@ -20,7 +20,7 @@ Section 1806, act Aug. 1, 1946, ch. 724, §6, 60 Stat. 763, related to military 
 
 Section 1807, act Aug. 1, 1946, ch. 724, §7, 60 Stat. 764, related to license requirements for utilization of atomic energy, reports to Congress, and issuance of licenses. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2131 to 2140 of this title.
 
-Section 1808, act Aug. 1, 1946, ch. 724, §8, 60 Stat. 765, related to force and effect of international agreements.For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2151 to 2154 of this title.
+Section 1808, act Aug. 1, 1946, ch. 724, §8, 60 Stat. 765, related to force and effect of international agreements. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2151 to 2154 of this title.
 
 Section 1809, act Aug. 1, 1946, ch. 724, §9, 60 Stat. 765, related to property of Commission and its exempt status from taxation. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2015 and 2208 of this title.
 

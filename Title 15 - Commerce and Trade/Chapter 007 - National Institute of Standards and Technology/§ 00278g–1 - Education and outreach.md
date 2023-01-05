@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director is authorized to expend funds appropriated for activities of the Institute in any fiscal year, to support, promote, and coordinate activities and efforts to enhance public awareness and understanding of measurement sciences, standards and technology at the national measurement laboratories and otherwise in fulfillment of the mission of the Institute. The Director may carry out activities under this subsection, including education and outreach activities to the general public, industry and academia in support of the Institute's mission.
+The Director is authorized to expend funds appropriated for activities of the Institute in any fiscal year, to support, promote, and coordinate activities and efforts to enhance public awareness and understanding of measurement sciences, standards and technology at the national measurement laboratories and otherwise in fulfillment of the mission of the Institute. The Director shall carry out activities under this subsection, including education and outreach activities to the general public, industry and diverse types of institutions of higher education, including historically Black colleges and universities, Tribal Colleges and Universities, and minority-serving institutions, and community colleges in support of the Institute's mission.
 
 #### (b) Hiring
 
@@ -64,11 +64,19 @@ The Director may—
 
 &emsp;(3) develop programs for graduate student internships and visiting faculty researchers;
 
-&emsp;(4) document publications, presentations, and interactions with visiting researchers and sponsoring interns as performance metrics for improving and continuing interactions with those individuals; and
+&emsp;(4) document publications, presentations, and interactions with visiting researchers and sponsoring interns as performance metrics for improving and continuing interactions with those individuals;
 
-&emsp;(5) facilitate laboratory tours and provide presentations for educational, industry, and community groups.
+&emsp;(5) facilitate laboratory tours and provide presentations for educational, industry, and community groups; and <sup>1</sup>
 
-(Mar. 3, 1901, ch. 872, §18, as added Pub. L. 114–329, title III, §306(b), Jan. 6, 2017, 130 Stat. 3008.)
+&emsp;(6) conduct outreach to and develop research collaborations with historically Black colleges and universities, Tribal Colleges or Universities, and minority serving institutions, including through the recruitment of students and faculty at such institutions to participate in programs developed under paragraph (3);
+
+&emsp;(7) conduct outreach to and develop research collaborations with community colleges, including through the recruitment of students and faculty at such institutions to participate in programs developed under paragraph (3);
+
+&emsp;(8) carry out other activities to increase the participation of persons historically underrepresented in STEM in the Institute's programs; and
+
+&emsp;(9) conduct outreach to and develop collaborations with nontraditional educational organizations, including those that offer training through nonprofit associations and professional associations or professional societies, to engage persons historically underrepresented in STEM through programs developed under this subsection.
+
+(Mar. 3, 1901, ch. 872, §18, as added Pub. L. 114–329, title III, §306(b), Jan. 6, 2017, 130 Stat. 3008; amended Pub. L. 117–167, div. B, title II, §10241, Aug. 9, 2022, 136 Stat. 1486.)
 
 #### <b>Editorial Notes</b>
 
@@ -78,9 +86,17 @@ A prior section 278g–1, act Mar. 3, 1901, ch. 872, §18, as added Pub. L. 99�
 
 A prior section 18 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
 
+#### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–167, §10241(1), substituted "shall" for "may" and "diverse types of institutions of higher education, including historically Black colleges and universities, Tribal Colleges and Universities, and minority-serving institutions, and community colleges" for "academia".
+
+Subsec. (e)(6) to (9). Pub. L. 117–167, §10241(2), added pars. (6) to (9).
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Clause for Research Fellowships and Other Financial Assistance to Students at Institutes of Higher Education
 
-Pub. L. 114–329, title III, §306(d)(1), Jan. 6, 2017, 130 Stat. 3010, provided that: "The repeal made by subsection (a) of this section \[repealing this section\] shall not affect any award of a research fellowship or other form of financial assistance made under section 18 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–1) before the date of enactment of this Act \[Jan. 6, 2017\]. Such award shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act."
+Pub. L. 114–329, title III, §306(d)(1), Jan. 6, 2017, 130 Stat. 3010, provided that: "The repeal made by subsection (a) of this section \[repealing this section\] shall not affect any award of a research fellowship or other form of financial assistance made under section 18 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–1) before the date of enactment ofthis Act \[Jan. 6, 2017\]. Such award shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act."
+
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

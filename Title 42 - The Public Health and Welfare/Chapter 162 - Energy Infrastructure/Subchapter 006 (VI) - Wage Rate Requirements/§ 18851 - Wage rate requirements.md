@@ -6,7 +6,7 @@ All laborers and mechanics employed by contractors or subcontractors in the perf
 
 #### (b) Authority
 
-With respect to the labor standards specified in subsection (a), the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40.
+With respect to the labor standards specified in subsection (a), the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40.
 
 (Pub. L. 117–58, div. D, title XI, §41101, Nov. 15, 2021, 135 Stat. 1130.)
 

@@ -14,5 +14,5 @@ Historical and Revision Notes
 
 46:230
 
-Section 7112 provides for the endorsement of a master's or mate's license as a pilot if they meet thosespecifications. These individuals do not have to hold two separate licenses.
+Section 7112 provides for the endorsement of a master's or mate's license as a pilot if they meet those specifications. These individuals do not have to hold two separate licenses.
 

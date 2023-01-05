@@ -30,7 +30,7 @@ The area described contains approximately 4,100 acres.
 
 South Offshore Area
 
-Beginning at the hereinafter lettered point L, a concrete bound post on the short of Drunk Bay marking a northeasterly corner in the Virgin Islands National Park boundary as shown on the said drawing numbered NP–VI–7000, being also the northeasterly corner of parcel numbered 1,estate Concordia (A), as delineated on the Leo R. Sibilly, civil engineer, drawing file numbered C9–13–T55.
+Beginning at the hereinafter lettered point L, a concrete bound post on the short of Drunk Bay marking a northeasterly corner in the Virgin Islands National Park boundary as shown on the said drawing numbered NP–VI–7000, being also the northeasterly corner of parcel numbered 1, estate Concordia (A), as delineated on the Leo R. Sibilly, civil engineer, drawing file numbered C9–13–T55.
 
 From the initial point L, distances in nautical miles, along direct courses between the hereinafter lettered points at geographic positions (latitudes north, longitudes west):
 

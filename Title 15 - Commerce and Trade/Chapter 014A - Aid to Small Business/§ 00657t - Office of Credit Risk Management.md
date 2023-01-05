@@ -46,7 +46,7 @@ The Office shall be responsible for supervising—
 
 &emsp;&emsp;&emsp;&emsp;(II) if the Administrator expects to submit the report after the end of the 60-day period described in clause (i), notify the 7(a) lender of the expected date of submission of the report and the reason for the delay; and
 
-&emsp;&emsp;&emsp;(ii) if a response by the 7(a) lender is requested in a report submitted under subparagraph (A), require the 7(a) lender to submit responses to the Administrator not later than 45 business days after the date on which the 7(a) lender receives the report.
+&emsp;&emsp;&emsp;(ii) if a response by the 7(a) lender is requested in a report submitted under subparagraph (A), require the 7(a) lender to submit responses to the Administrator notlater than 45 business days after the date on which the 7(a) lender receives the report.
 
 #### (B) Extension
 

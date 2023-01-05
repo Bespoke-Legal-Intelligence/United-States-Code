@@ -10,6 +10,7 @@
 | [4656\.](%C2%A7%2004656%20-%20Advanced%20microelectronics%20research%20and%20development.md) | Advanced microelectronics research and development. |
 | [4657\.](%C2%A7%2004657%20-%20Prohibition%20relating%20to%20foreign%20entities%20of%20concern.md) | Prohibition relating to foreign entities of concern. |
 | [4658\.](%C2%A7%2004658%20-%20Defense%20Production%20Act%20of%201950%20efforts.md) | Defense Production Act of 1950 efforts. |
+| [4659\.](%C2%A7%2004659%20-%20Additional%20authorities.md) | Additional authorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,3 +27,4 @@
 - [&sect; 04656 - Advanced microelectronics research and development](%C2%A7%2004656%20-%20Advanced%20microelectronics%20research%20and%20development.md)
 - [&sect; 04657 - Prohibition relating to foreign entities of concern](%C2%A7%2004657%20-%20Prohibition%20relating%20to%20foreign%20entities%20of%20concern.md)
 - [&sect; 04658 - Defense Production Act of 1950 efforts](%C2%A7%2004658%20-%20Defense%20Production%20Act%20of%201950%20efforts.md)
+- [&sect; 04659 - Additional authorities](%C2%A7%2004659%20-%20Additional%20authorities.md)

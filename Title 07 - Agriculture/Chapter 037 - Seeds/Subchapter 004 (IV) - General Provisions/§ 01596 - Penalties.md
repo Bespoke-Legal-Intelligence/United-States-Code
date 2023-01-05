@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>1956</b>—Act July 9, 1956, designated existing provisions as subsec. (a), inserted "knowingly or as a result either of gross negligence or of a failure to make a reasonable effort to inform himself of the pertinent facts," and added subsec. (b).
+<b>1956</b>—Act July 9, 1956, designated existing provisions as subsec. (a), inserted "knowingly or as a result eitherof gross negligence or of a failure to make a reasonable effort to inform himself of the pertinent facts," and added subsec. (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

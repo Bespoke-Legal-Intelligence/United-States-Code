@@ -12,7 +12,7 @@ Officers serving in positions designated under section 3028 of this title and of
 
 &emsp;(2) may not count against such number.
 
-(Pub. L. 107–372, title II, §215, Dec. 19, 2002, 116 Stat. 3084; Pub. L. 110–386, §6, Oct. 10, 2008, 122Stat. 4108; Pub. L. 116–259, title I, §102(a), Dec. 23, 2020, 134 Stat. 1155.)
+(Pub. L. 107–372, title II, §215, Dec. 19, 2002, 116 Stat. 3084; Pub. L. 110–386, §6, Oct. 10, 2008, 122 Stat. 4108; Pub. L. 116–259, title I, §102(a), Dec. 23, 2020, 134 Stat. 1155.)
 
 #### <b>Editorial Notes</b>
 

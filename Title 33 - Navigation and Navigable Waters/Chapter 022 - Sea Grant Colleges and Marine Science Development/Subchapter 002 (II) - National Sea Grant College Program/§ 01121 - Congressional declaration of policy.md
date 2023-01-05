@@ -30,7 +30,7 @@ The Congress finds and declares the following:
 
 #### (b) Objective
 
-The objective of this subchapter is to increase the understanding, assessment, development, management, utilization, and conservation of the Nation's ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.
+The objective of this subchapter is to increase the understanding, assessment, development,management, utilization, and conservation of the Nation's ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.
 
 #### (c) Purpose
 
@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 110–394, §3(b), substituted "to promote integrated resea
 
 <b>1998</b>—Subsec. (a)(1)(D) to (F). Pub. L. 105–160, §3(a), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (a)(6). Pub. L. 105–160, §3(b), substituted "The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programsand projects by sea grant colleges, sea grant institutes, and other institutions." for "Continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant regional consortia, institutions of higher education, institutes, laboratories, and other appropriate public and private entities is the most cost-effective way to promote such activities."
+Subsec. (a)(6). Pub. L. 105–160, §3(b), substituted "The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions." for "Continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant regional consortia, institutions of higher education, institutes, laboratories, and other appropriate public and private entities is the most cost-effective way to promote such activities."
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–220, §§3103(1), 3104(b)(1)(A), added pars. (1) to (3), redesignated former pars. (1) to (3) as (4) to (6), respectively, and substituted "ocean, coastal, and Great Lakes resources" for "ocean and coastal resources" in pars. (4) and (5).
 

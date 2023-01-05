@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5; and
 
-&emsp;(2) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5.
+&emsp;(2) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic paythen currently paid for level II of the Executive Schedule of section 5313 of title 5.
 
 > Notwithstanding such section 3109(b), temporary services of any expert or consultant described in such section 3109(b) may be procured under paragraph (2) of this subsection for a period in excess of one year if the Vice President determines such procurement is necessary.
 
@@ -78,13 +78,13 @@ Sec. 2. (a) On behalf of the President, the Special Assistant shall maintain cha
 
 Sec. 3. (a) The Secretary of State, the Secretary of Defense, the Director of the Central Intelligence Agency, and the Executive Secretary of the National Security Council shall each designate a member of his staff as a point of contact for the Special Assistant. The Special Assistant may call upon such designated staff members to supply information and render such other appropriate assistance as he may require in carrying out his duties under section 2 of this Order.
 
-(b) Upon request of the Special Assistant, the head of any department or agency of the Federal Government shall designate a member of his staff as a point of contact to supply information and assistance for the Special Assistant in the performance of his duties in the same manner as provided in subsection (a) for staff members designated pursuant to that subsection.
+(b) Upon request of the Special Assistant, the head of any department or agency of the Federal Government shall designate a member of his staff as a point of contact to supply information and assistance for the Special Assistant in the performance of his duties in thesame manner as provided in subsection (a) for staff members designated pursuant to that subsection.
 
 Sec. 4. The Special Assistant shall be appointed by the President and shall serve at the pleasure of the President. He shall receive compensation at such rate as the President, consonant with law, may prescribe.
 
 Sec. 5. (a) The Special Assistant shall have such staff and other assistance as may be necessary to carry out his duties under this Order.
 
-(b) The Special Assistant shall be provided with such office space as may be necessary to carry out his dutiesunder this Order, and shall also be provided with such office space, and maintenance thereof, as may be necessary for the use of former Presidents at the seat of Government when they are engaged in any effort of interest or concern to the President.
+(b) The Special Assistant shall be provided with such office space as may be necessary to carry out his duties under this Order, and shall also be provided with such office space, and maintenance thereof, as may be necessary for the use of former Presidents at the seat of Government when they are engaged in any effort of interest or concern to the President.
 
 Sec. 6. (a) The compensation and expenses of the Special Assistant and members of his staff shall be paid from the appropriation under the heading "Special" in the Executive Office Appropriation Act, 1969, or any corresponding appropriation which may be made for subsequent fiscal years, or from such other appropriated funds as may be available under law.
 

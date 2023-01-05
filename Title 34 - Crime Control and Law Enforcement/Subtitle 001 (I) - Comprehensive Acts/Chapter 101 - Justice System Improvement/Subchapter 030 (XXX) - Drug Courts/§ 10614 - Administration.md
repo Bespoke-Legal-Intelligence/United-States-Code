@@ -16,7 +16,7 @@ The Attorney General may issue regulations and guidelines necessary to carry out
 
 In addition to any other requirements that may be specified by the Attorney General, an application for a grant under this subchapter shall—
 
-&emsp;(1) include a long-term strategy and detailed implementation plan that shall provide for the consultation and coordination with appropriate State and local prosecutors, particularly when program participants fail to comply with program requirements;
+&emsp;(1) include a long-term strategy and detailed implementation plan that shall provide for theconsultation and coordination with appropriate State and local prosecutors, particularly when program participants fail to comply with program requirements;
 
 &emsp;(2) explain the applicant's inability to fund the program adequately without Federal assistance;
 

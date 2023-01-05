@@ -58,7 +58,7 @@
 
 #### (c) Relief
 
-The district court shall have jurisdiction in actions brought under subsection (a) against an owner or operator of a facility to enforce the requirement concerned and to impose any civil penalty provided for violation of that requirement. The district court shall have jurisdiction in actions brought under subsection (a) against the Administrator to order the Administrator to perform the act or duty concerned.
+The district court shall have jurisdiction in actions brought under subsection (a) against an owner or operator of a facility to enforce the requirement concerned and to impose any civilpenalty provided for violation of that requirement. The district court shall have jurisdiction in actions brought under subsection (a) against the Administrator to order the Administrator to perform the act or duty concerned.
 
 #### (d) Notice
 
@@ -94,7 +94,7 @@ Nothing in this section shall restrict or expand any right which any person (or 
 
 #### References in Text
 
-This Act, referred to in subsec. (e), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, as amended, known as the Superfund Amendments and Reauthorization Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
+This Act, referred to in subsec. (e), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, known as the Superfund Amendments and Reauthorization Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

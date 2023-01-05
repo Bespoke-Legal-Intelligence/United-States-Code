@@ -15,6 +15,10 @@
 
 <b>1995</b>—Pub. L. 104–88, title II, §201(b), Dec. 29, 1995, 109 Stat. 940, added item for chapter 7.
 
+#### Amendments
+
+<b>1995</b>—Pub. L. 104–88, title II, §201(b), Dec. 29, 1995, 109 Stat. 940, added item for chapter 7.
+
 <i><sup>1</sup></i><i> So in original. Chapter 7 renumbered chapter 13 and transferred to subtitle II of this title (49 U.S.C. 1301 et seq.) without corresponding amendment of subtitle analysis.</i>
 
 

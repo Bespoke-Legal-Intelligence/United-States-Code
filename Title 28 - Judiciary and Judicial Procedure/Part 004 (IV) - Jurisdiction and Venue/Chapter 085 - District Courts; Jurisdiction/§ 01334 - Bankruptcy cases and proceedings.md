@@ -16,7 +16,7 @@
 
 &emsp;(2) over all claims or causes of action that involve construction of section 327 of title 11, United States Code, or rules relating to disclosure requirements under section 327.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 95–598, title II, §238(a), Nov. 6, 1978, 92 Stat. 2667; Pub. L. 98–353, title I, §101(a), July 10, 1984, 98 Stat. 333; Pub. L. 99–554, title I, §144(e), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 101–650, title III, §309(b), Dec. 1, 1990, 104 Stat. 5113; Pub. L. 103–394, title I, §104(b), Oct. 22, 1994, 108 Stat. 4109; Pub. L. 109–8, title III, §324(a), title VIII, §802(c)(2), title XII, §1219, Apr. 20, 2005, 119 Stat. 98, 145, 195.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 95–598, title II, §238(a), Nov. 6, 1978, 92 Stat. 2667; Pub. L. 98–353, title I, §101(a), July 10, 1984, 98 Stat. 333; Pub. L. 99–554, title I, §144(e), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 101–650, title III, §309(b), Dec. 1, 1990, 104 Stat. 5113; Pub. L. 103–394, title I,§104(b), Oct. 22, 1994, 108 Stat. 4109; Pub. L. 109–8, title III, §324(a), title VIII, §802(c)(2), title XII, §1219, Apr. 20, 2005, 119 Stat. 98, 145, 195.)
 
 #### Historical and Revision Notes
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective July 10, 1984, except that subsec. (c)(2) not applicable with respect tocases under Title 11, Bankruptcy, that are pending on July 10, 1984, or to proceedings arising in or related to such cases, see section 122(a), (b) of Pub. L. 98–353, set out as an Effective Date note under section 151 of this title.
+Amendment by Pub. L. 98–353 effective July 10, 1984, except that subsec. (c)(2) not applicable with respect to cases under Title 11, Bankruptcy, that are pending on July 10, 1984, or to proceedings arising in or related to such cases, see section 122(a), (b) of Pub. L. 98–353, set out as an Effective Date note under section 151 of this title.
 
 #### Jurisdiction Over and Transfer of Bankruptcy Cases and Proceedings
 

@@ -16,3 +16,5 @@
 - [&sect; 01116B - Presumption of herbicide exposure for certain veterans who served in Korea](%C2%A7%2001116B%20-%20Presumption%20of%20herbicide%20exposure%20for%20certain%20veterans%20who%20served%20in%20Korea.md)
 - [&sect; 01117 - Compensation for disabilities occurring in Persian Gulf War veterans](%C2%A7%2001117%20-%20Compensation%20for%20disabilities%20occurring%20in%20Persian%20Gulf%20War%20veterans.md)
 - [&sect; 01118 - Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War](%C2%A7%2001118%20-%20Presumptions%20of%20service%20connection%20for%20illnesses%20associated%20with%20service%20in%20the%20Persian%20Gulf%20during%20the%20Persian%20Gulf%20War.md)
+- [&sect; 01119 - Presumptions of toxic exposure](%C2%A7%2001119%20-%20Presumptions%20of%20toxic%20exposure.md)
+- [&sect; 01120 - Presumption of service connection for certain diseases associated with exposure to burn pits and other toxins](%C2%A7%2001120%20-%20Presumption%20of%20service%20connection%20for%20certain%20diseases%20associated%20with%20exposure%20to%20burn%20pits%20and%20other%20toxins.md)

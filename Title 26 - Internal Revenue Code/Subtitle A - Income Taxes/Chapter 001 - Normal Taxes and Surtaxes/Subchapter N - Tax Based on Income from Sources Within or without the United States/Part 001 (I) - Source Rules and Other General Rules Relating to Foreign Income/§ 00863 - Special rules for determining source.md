@@ -14,7 +14,7 @@ In the case of gross income derived from sources partly within and partly withou
 
 &emsp;(3) derived from the purchase of inventory property (within the meaning of section 865(i)(1)) within a possession of the United States and its sale or exchange within the United States,
 
-> shall be treated as derived partly from sources within and partly from sources without the United States. Gains, profits, and income from the sale or exchange of inventory property described in paragraph (2) shall be allocated and apportioned between sources within and withoutthe United States solely on the basis of the production activities with respect to the property.
+> shall be treated as derived partly from sources within and partly from sources without the United States. Gains, profits, and income from the sale or exchange of inventory property described in paragraph (2) shall be allocated and apportioned between sources within and without the United States solely on the basis of the production activities with respect to the property.
 
 #### (c) Source rule for certain transportation income
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -211,7 +211,7 @@ For nonapplication of amendments by sections 1211(b)(1)(A) and 1212(a) of Pub. L
 
 #### Qualified Research and Experimental Expenditures; Allocation and Appointment; Definitions; Special Rules; Effective Dates
 
-For allocation and apportionment of qualified research and experimental expenditures for purposes of sections 861 to 863 of this title, see section 4009 of Pub.L. 100–647, set out as a note under section 861 of this title.
+For allocation and apportionment of qualified research and experimental expenditures for purposes of sections 861 to 863 of this title, see section 4009 of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### 1-Year Modification in Regulations Providing for Allocation of Research and Experimental Expenditures
 

@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;Each school served under this part shall jointly develop with, and distribute to, parents and family members of participating children a written parent and family engagement policy, agreed on by such parents, that shall describe the means for carrying out the requirements of subsections (c) through (f). Parentsshall be notified of the policy in an understandable and uniform format and, to the extent practicable, provided in a language the parents can understand. Such policy shall be made available to the local community and updated periodically to meet the changing needs of parents and the school.
+&emsp;Each school served under this part shall jointly develop with, and distribute to, parents and family members of participating children a written parent and family engagement policy, agreed on by such parents, that shall describe the means for carrying out the requirements of subsections (c) through (f). Parents shall be notified of the policy in an understandable and uniform format and, to the extent practicable, provided in a language the parents can understand. Such policy shall be made available to the local community and updated periodically to meet the changing needs of parents and the school.
 
 #### (2) Special rule
 
@@ -80,7 +80,7 @@ Each school served under this part shall—
 
 &emsp;(1) convene an annual meeting, at a convenient time, to which all parents of participating children shall be invited and encouraged to attend, to inform parents of their school's participation under this part and to explain the requirements of this part, and the right of the parents to be involved;
 
-&emsp;(2) offer a flexible number of meetings, such as meetings in the morning or evening, and may provide, with funds provided under this part, transportation, child care, or home visits, as such services relate to parental involvement;
+&emsp;(2) offer a flexible number of meetings, such as meetings in the morning or evening, andmay provide, with funds provided under this part, transportation, child care, or home visits, as such services relate to parental involvement;
 
 &emsp;(3) involve parents, in an organized, ongoing, and timely way, in the planning, review, and improvement of programs under this part, including the planning, review, and improvement of the school parent and family engagement policy and the joint development of the schoolwide program plan under section 6314(b) of this title, except that if a school has in place a process for involving parents in the joint planning and design of the school's programs, the school may use that process, if such process includes an adequate representation of parents of participating children;
 
@@ -114,7 +114,7 @@ As a component of the school-level parent and family engagement policy developed
 
 To ensure effective involvement of parents and to support a partnership among the school involved, parents, and the community to improve student academic achievement, each school and local educational agency assisted under this part—
 
-&emsp;(1) shall provide assistance to parents of children served by the school or local educational agency, as appropriate, in understanding such topics as the challenging State academic standards, State and local academic assessments, the requirements of this part, and how to monitor a child's progress andwork with educators to improve the achievement of their children;
+&emsp;(1) shall provide assistance to parents of children served by the school or local educational agency, as appropriate, in understanding such topics as the challenging State academic standards, State and local academic assessments, the requirements of this part, and how to monitor a child's progress and work with educators to improve the achievement of their children;
 
 &emsp;(2) shall provide materials and training to help parents to work with their children to improve their children's achievement, such as literacy training and using technology (including education about the harms of copyright piracy), as appropriate, to foster parental involvement;
 

@@ -180,7 +180,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(j); added Oct. 19, 1976, P
 
 Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(k); added Oct. 5, 1978, Pub. L. 95–421, §10, 92 Stat. 928; Sept. 29, 1979, Pub. L. 96–73, §§106, 109, 93 Stat. 539, 540.
 
-In subsection (a)(1), the text of 45:545(e)(5) is omitted as obsolete. The words "acquire, operate, maintain, and make contracts for the operation and maintenance of" are substituted for "own, manage, operate, or contract for the operation of", "acquire by construction, purchase, or gift, or to contract for the use of", "acquire, lease, modify, or develop", and "or to enter into contracts for the provision of such service" to eliminate unnecessary words. The word "physical" is omitted as surplus. The words "intercity and commuter trains" are omitted as being included in "equipment". The words "the transportation of mail and express" are substituted for "mail, express . . . service" for consistency in this chapter.
+In subsection (a)(1), the text of 45:545(e)(5) is omitted as obsolete. The words "acquire, operate, maintain, and make contracts for the operation and maintenance of"are substituted for "own, manage, operate, or contract for the operation of", "acquire by construction, purchase, or gift, or to contract for the use of", "acquire, lease, modify, or develop", and "or to enter into contracts for the provision of such service" to eliminate unnecessary words. The word "physical" is omitted as surplus. The words "intercity and commuter trains" are omitted as being included in "equipment". The words "the transportation of mail and express" are substituted for "mail, express . . . service" for consistency in this chapter.
 
 In subsection (b), before clause (1), the words "service" and "repair" are omitted as surplus. The words "not later than January 1, 1980" are omitted as executed. In clause (1), the words "principal office of Amtrak" are substituted for "corporate headquarters" for clarity and consistency. In clauses (3) and (4), the words "establishment of" are omitted as executed.
 
@@ -384,7 +384,7 @@ Request for proposals.—Not later than 180 days after the date the Request for 
 
 &emsp;"(2)
 
-Consideration of proposals.—Not later than 1 year after the date the Request for Proposals isissued under paragraph (1), the Amtrak Board of Directors shall review and consider qualified proposals submitted under paragraph (1). Amtrak or a station owner that responded under subsection (b) may enter into such agreements as are necessary to implement any qualified proposal.
+Consideration of proposals.—Not later than 1 year after the date the Request for Proposals is issued under paragraph (1), the Amtrak Board of Directors shall review and consider qualified proposals submitted under paragraph (1). Amtrak or a station owner that responded under subsection (b) may enter into such agreements as are necessary to implement any qualified proposal.
 
 "(d)
 
@@ -396,7 +396,7 @@ Definitions.—In this section, the terms 'small business concern', 'socially an
 
 "(f)
 
-Savings Clause.—Nothing in this section shall be construed to limit Amtrak's ability to develop its stations, terminals, or other assets, to constrain Amtrak's ability to enter into and carry out agreements with other parties to enhance development at or around Amtrak stations or terminals, or to affect any station development initiatives ongoing as of the date of enactment of this Act."
+Savings Clause.—Nothing in this section shall be construed to limit Amtrak's ability to develop its stations, terminals, or other assets, to constrain Amtrak's ability to enter into and carry out agreements with other parties to enhance development at or around Amtrak stations or terminals, or to affect anystation development initiatives ongoing as of the date of enactment of this Act."
 
 #### Amtrak Security Evaluation and Development of Procedures for Firearm Storage and Carriage in Checked Baggage Cars and Stations
 

@@ -12,7 +12,9 @@
 | [1703C.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703C%20-%20Standards%20for%20quality.md) | Standards for quality. |
 | [1703D.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703D%20-%20Prompt%20payment%20standard.md) | Prompt payment standard. |
 | [1703E.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703E%20-%20Center%20for%20Innovation%20for%20Care%20and%20Payment.md) | Center for Innovation for Care and Payment. |
+| [1703F.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703F%20-%20Credentialing%20verification%20requirements%20for%20providers%20of%20non-Department%20health%20care%20services.md) | Credentialing verification requirements for providers of non-Department health care services. |
 | [1704\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001704%20-%20Preventive%20health%20services%20annual%20report.md) | Preventive health services: annual report. |
+| [1704A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001704A%20-%20Independent%20assessments%20of%20health%20care%20delivery%20systems%20and%20management%20processes.md) | Independent assessments of health care delivery systems and management processes. |
 | [1705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md) | Management of health care: patient enrollment system. |
 | [1705A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705A%20-%20Management%20of%20health%20care%20information%20regarding%20health-plan%20contracts.md) | Management of health care: information regarding health-plan contracts. |
 | [1706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md) | Management of health care: other requirements. |
@@ -70,6 +72,12 @@
 | [1722\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722%20-%20Determination%20of%20inability%20to%20defray%20necessary%20expenses%3B%20income%20thresholds.md) | Determination of inability to defray necessary expenses; income thresholds. |
 | [1722A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722A%20-%20Copayment%20for%20medications.md) | Copayment for medications. |
 | [1722B.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722B%20-%20Copayments%20waiver%20of%20collection%20of%20copayments%20for%20telehealth%20and%20telemedicine%20visits%20of%20veterans.md) | Copayments: waiver of collection of copayments for telehealth and telemedicine visits of veterans. |
+| [1722C.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722C%20-%20Copayments%20prohibition%20on%20collection%20of%20copayments%20for%20first%20three%20mental%20health%20care%20outpatient%20visits%20of%20veterans.md) | Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [1723\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001723%20-%20Furnishing%20of%20clothing.md) | Furnishing of clothing. |
 | [1724\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001724%20-%20Hospital%20care%2C%20medical%20services%2C%20and%20nursing%20home%20care%20abroad.md) | Hospital care, medical services, and nursing home care abroad. |
 | [1725\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001725%20-%20Reimbursement%20for%20emergency%20treatment.md) | Reimbursement for emergency treatment. |
@@ -152,6 +160,10 @@
 
 #### Amendments
 
+<b>2022</b>—Pub. L. 117–328, div. U, title I, §193A(a), Dec. 29, 2022, 136 Stat. 5439, added item 1722C.
+
+Pub. L. 117–328, div. U, title I, §§141(a)(2), 194(b), Dec. 29, 2022, 136 Stat. 5423, 5444, which directed amendment of the analysis for subchapter I of this chapter by adding items 1703F and 1704A, was executed by adding the items to the analysis for this chapter, to reflect the probable intent of Congress.
+
 <b>2021</b>—Pub. L. 116–315, title III, §3002(b), title V, §5107(a)(3), Jan. 5, 2021, 134 Stat. 4991, 5031, added item 1709C and substituted "Prohibition on collection of copayments from certain veterans" for "Prohibition on collection of copayments from catastrophically disabled veterans" in item 1730A.
 
 Pub. L. 116–283, div. A, title VII, §§763(b), 764(a)(3)(B), Jan. 1, 2021, 134 Stat. 3725, 3726, which directed amendment of subchapter analysis for this chapter by adding item 1789 and substituting "Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces" for "Comprehensive program for suicide prevention among veterans" in item 1720F, was executed by making the amendments to the analysis for this chapter, to reflect the probable intent of Congress.
@@ -220,7 +232,7 @@ Pub. L. 102–83, §4(a)(5), Aug. 6, 1991, 105 Stat. 404, substituted "non-Depar
 
 Pub. L. 101–366, title II, §201(a)(2), Aug. 15, 1990, 104 Stat. 438, added item 620C.
 
-<b>1988</b>—Pub. L. 100–322, title I, §§101(h)(2), 115(g)(2), May 20, 1988, 102 Stat. 492, 502, substituted "Eligibility for outpatient services" for "Eligibility for medical treatment" in item 612, substituted "Home health services; invalid" for "Invalid" in item 617, and struck out item620C "Community based psychiatric residential treatment for chronically mentally ill veterans".
+<b>1988</b>—Pub. L. 100–322, title I, §§101(h)(2), 115(g)(2), May 20, 1988, 102 Stat. 492, 502, substituted "Eligibility for outpatient services" for "Eligibility for medical treatment" in item 612, substituted "Home health services; invalid" for "Invalid" in item 617, and struck out item 620C "Community based psychiatric residential treatment for chronically mentally ill veterans".
 
 <b>1987</b>—Pub. L. 100–6, §2(b), Feb. 12, 1987, 101 Stat. 94, added item 620C.
 
@@ -261,6 +273,8 @@ Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 <b>1959</b>—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

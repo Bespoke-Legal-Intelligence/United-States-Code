@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(C) the Attorney General finds that there exist extraordinary and temporary conditions in the foreign state that prevent aliens who are nationals of the state from returning to the state in safety, unless the Attorney General finds that permitting the aliens to remain temporarily in the United States is contrary to the national interest of the United States.
 
-> &emsp;A designation of a foreign state (or part of such foreign state) under this paragraph shall not become effective unless notice of the designation (including a statement of the findings under this paragraph and the effective date of the designation) is published in the Federal Register. In such notice, the Attorney General shall also state an estimate of the number of nationals of the foreign state designated who are (or within the effective period of the designation are likely to become) eligible for temporary protected status under this section and their immigration status in the United States.
+> &emsp;A designation of a foreign state (or part of such foreign state) under this paragraph shall not become effective unless notice of the designation (including a statement of the findings under this paragraph and the effective date of the designation) is published in the Federal Register. In such notice, the Attorney General shall also state an estimate of the number ofnationals of the foreign state designated who are (or within the effective period of the designation are likely to become) eligible for temporary protected status under this section and their immigration status in the United States.
 
 #### (2) Effective period of designation for foreign states
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(iii) the alien is admissible as an immigrant, except as otherwise provided under paragraph (2)(A), and is not ineligible for temporary protected status under paragraph (2)(B); and
 
-&emsp;&emsp;&emsp;(iv) to the extent and in a manner which the Attorney General establishes, the alienregisters for the temporary protected status under this section during a registration period of not less than 180 days.
+&emsp;&emsp;&emsp;(iv) to the extent and in a manner which the Attorney General establishes, the alien registers for the temporary protected status under this section during a registration period of not less than 180 days.
 
 #### (B) Registration fee
 
@@ -174,7 +174,7 @@
 
 #### (3) Effective date of terminations
 
-&emsp;If the Attorney General terminates the designation of a foreign state (or part of such foreign state) under subsection (b)(3)(B), such termination shall only apply to documentation and authorization issued or renewed after the effective date of the publication of notice of the determination under that subsection (or,at the Attorney General's option, after such period after the effective date of the determination as the Attorney General determines to be appropriate in order to provide for an orderly transition).
+&emsp;If the Attorney General terminates the designation of a foreign state (or part of such foreign state) under subsection (b)(3)(B), such termination shall only apply to documentation and authorization issued or renewed after the effective date of the publication of notice of the determination under that subsection (or, at the Attorney General's option, after such period after the effective date of the determination as the Attorney General determines to be appropriate in order to provide for an orderly transition).
 
 #### (4) Detention of alien
 
@@ -182,7 +182,7 @@
 
 #### (e) Relation of period of temporary protected status to cancellation of removal
 
-With respect to an alien granted temporary protected status under this section, the period of such status shall not be counted as a period of physical presence in the United States for purposes of section 1229b(a) of this title, unless the Attorney General determines that extreme hardship exists. Such period shall not cause a break in the continuity of residence of the period before and after such period for purposes of such section.
+With respect to an alien granted temporary protected status under this section, the period ofsuch status shall not be counted as a period of physical presence in the United States for purposes of section 1229b(a) of this title, unless the Attorney General determines that extreme hardship exists. Such period shall not cause a break in the continuity of residence of the period before and after such period for purposes of such section.
 
 #### (f) Benefits and status during period of temporary protected status
 
@@ -244,7 +244,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(5), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (a)(5), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -260,7 +260,7 @@ Subsec. (e). Pub. L. 104–208, §308(g)(8)(A)(i), substituted "section 1229b(a)
 
 Pub. L. 104–208, §308(e)(11), amended heading.
 
-<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–416, §219(z)(2), made technical correction to directory language of Pub. L. 102–232, §304(b)(2). See 1991 Amendment note below.
+<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–416, §219(z)(2), made technical correction to directory language ofPub. L. 102–232, §304(b)(2). See 1991 Amendment note below.
 
 Subsec. (c)(2)(A)(iii)(III). Pub. L. 103–416, §219(j), substituted "paragraphs" for "Paragraphs" and "and (3)(E)" for "or (3)(E)".
 
@@ -340,7 +340,7 @@ Pub. L. 101–649, title III, §302(c), Nov. 29, 1990, 104 Stat. 5036, as amende
 
 #### Special Temporary Protected Status for Salvadorans
 
-Pub. L. 101–649, title III, §303, Nov. 29, 1990, 104 Stat. 5036, as amended by Pub. L. 102–65, §1, July 2, 1991, 105 Stat. 322; Pub. L. 104–208, div. C, title III, §308(g)(1), (6)(A), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, provided that:
+Pub. L. 101–649, title III, §303, Nov. 29, 1990, 104 Stat. 5036, as amended by Pub. L. 102–65, §1, July 2, 1991, 105 Stat. 322; Pub. L. 104–208, div. C, title III, §308(g)(1),\(6)(A), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, provided that:
 
 "(a)
 

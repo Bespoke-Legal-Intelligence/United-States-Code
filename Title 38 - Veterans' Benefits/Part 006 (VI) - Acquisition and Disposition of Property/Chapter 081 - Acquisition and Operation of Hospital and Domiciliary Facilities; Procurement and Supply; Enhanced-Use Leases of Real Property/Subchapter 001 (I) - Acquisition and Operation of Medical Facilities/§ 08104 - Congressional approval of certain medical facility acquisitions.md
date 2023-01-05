@@ -2,53 +2,69 @@
 
 (a)(1) The purpose of this subsection is to enable Congress to ensure the equitable distribution of medical facilities throughout the United States, taking into consideration the comparative urgency of the need for the services to be provided in the case of each particular facility.
 
-(2) No funds may be appropriated for any fiscal year, and the Secretary may not obligate or expend funds (other than for advance planning and design), for any major medical facility project or any major medical facility lease unless funds for that project or lease have been specifically authorized by law.
+(2)(A) No funds may be appropriated for any fiscal year, and the Secretary may not obligate or expend funds (other than for advance planning and design), for any major medical facility project unless funds for that project have been specifically authorized by law.
+
+(B) No funds may be appropriated for any fiscal year, and the Secretary may not obligate or expend funds (other than for advance planning and design), for any major medical facility lease unless the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives each adopt a resolution approving the lease.
 
 (3) For purposes of this subsection:
 
 &emsp;(A) The term "major medical facility project" means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $20,000,000, but such term does not include an acquisition by exchange, nonrecurring maintenance projects of the Department, or the construction, alteration, or acquisition of a shared Federal medical facility for which the Department's estimated share of the project costs does not exceed $20,000,000.
 
-&emsp;(B) The term "major medical facility lease" means a lease for space for use as a new medical facility at an average annual rent of more than $1,000,000.
+&emsp;(B) The term "major medical facility lease"—
 
-(b) Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
+&emsp;&emsp;(i) means a lease for space for use as a new medical facility approved through the General Services Administration under section 3307(a) of title 40 at an average annual rent equal to or greater than the appropriate dollar threshold described in such section, which shall be subject to annual adjustment in accordance with section 3307(h) of such title; and
 
-&emsp;(1) A detailed estimate of the total costs of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a detailed report of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under section 8111 of this title. Such detailed estimate shall include an identification of each of the following:
+&emsp;&emsp;(ii) does not include a lease for space for use as a shared Federal medical facility for which the Department's estimated share of the lease costs does not exceed such dollar threshold.
 
-&emsp;&emsp;(A) Total construction costs.
+(b)(1) Whenever the President or the Secretary submit <sup>1</sup> to Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
-&emsp;&emsp;(B) Activation costs.
+&emsp;(A) A detailed estimate of the total costs of the medical facility to be constructed, altered, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a detailed report of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under section 8111 of this title. Such detailed estimate shall include an identification of each of the following:
 
-&emsp;&emsp;(C) Special purpose alterations (lump-sum payment) costs.
+&emsp;&emsp;(i) Total construction costs.
 
-&emsp;&emsp;(D) Number of personnel.
+&emsp;&emsp;(ii) Activation costs.
 
-&emsp;&emsp;(E) Total costs of ancillary services, equipment, and all other items.
+&emsp;&emsp;(iii) Special purpose alterations (lump-sum payment) costs.
 
-&emsp;(2) Demographic data applicable to such facility, including information on projected changes in the population of veterans to be served by the facility over a five-year period, a ten-year period, and a twenty-year period.
+&emsp;&emsp;(iv) Number of personnel.
 
-&emsp;(3) Current and projected workload and utilization data regarding the facility, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period.
+&emsp;&emsp;(v) Total costs of ancillary services, equipment, and all other items.
 
-&emsp;(4) Projected operating costs of the facility, including both recurring and non-recurring costs (including and identifying both recurring and non-recurring costs (including activation costs and total costs of ancillary services, equipment and all other items)) over a five-year period, a ten-year period, and a twenty-year period.
+&emsp;(B) Demographic data applicable to such facility, including information on projected changes in the population of veterans to be served by the facility over a five-year period, a ten-year period, and a twenty-year period.
 
-&emsp;(5) The priority score assigned to the project or lease under the Department's prioritization methodology and, if the project or lease is being proposed for funding before a project or lease with a higher score, a specific explanation of the factors other than the priority score that were considered and the basis on which the project or lease is proposed for funding ahead of projects or leases with higher priority scores.
+&emsp;(C) Current and projected workload and utilization data regarding the facility, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period.
 
-&emsp;(6) In the case of a prospectus proposing the construction of a new or replacement medical facility, each of the following:
+&emsp;(D) Projected operating costs of the facility, including both recurring and non-recurring costs (including and identifying both recurring and non-recurring costs (including activation costs and total costs of ancillary services, equipment and all other items)) over a five-year period, a ten-year period, and a twenty-year period.
 
-&emsp;&emsp;(A) A detailed estimate of the total costs (including total construction costs, activation costs, special purpose alterations (lump-sum payment) costs, number of personnel and total costs of ancillary services, equipment and all other items) for each alternative to construction of the facility that was considered.
+&emsp;(E) The priority score assigned to the project under the Department's prioritization methodology and, if the project is being proposed for funding before a project with a higher score, a specific explanation of the factors other than the priority score that were considered and the basis on which the project is proposed for funding ahead of projects with higher priority scores.
 
-&emsp;&emsp;(B) A comparison of total costs to total benefits for each such alternative.
+&emsp;(F) In the case of a prospectus proposing the construction of a new or replacement medical facility, each of the following:
 
-&emsp;&emsp;(C) An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
+&emsp;&emsp;(i) A detailed estimate of the total costs (including total construction costs, activation costs, special purpose alterations (lump-sum payment) costs, number of personnel and total costs of ancillary services, equipment and all other items) for each alternative to construction of the facility that was considered.
 
-&emsp;(7) In the case of a prospectus proposing funding for a major medical facility lease, a detailed analysis of how the lease is expected to comply with Office of Management and Budget Circular A–11 and section 1341 of title 31 (commonly referred to as the "Anti-Deficiency Act"). Any such analysis shall include—
+&emsp;&emsp;(ii) A comparison of total costs to total benefits for each such alternative.
 
-&emsp;&emsp;(A) an analysis of the classification of the lease as a "lease-purchase", "capital lease", or "operating lease" as those terms are defined in Office of Management and Budget Circular A–11;
+&emsp;&emsp;(iii) An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
 
-&emsp;&emsp;(B) an analysis of the obligation of budgetary resources associated with the lease; and
+(2) Whenever the President or the Secretary submit to Congress a request for the funding of a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
-&emsp;&emsp;(C) an analysis of the methodology used in determining the asset cost, fair market value, and cancellation costs of the lease.
+&emsp;(A) A description of the facility to be leased.
 
-(c)(1) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
+&emsp;(B) An estimate of the cost to the Federal Government of the facility to be leased.
+
+&emsp;(C) An estimate of the energy performance of the proposed lease space, to include a description of anticipated utilization of renewable energy, energy efficient and climate resilient elements, and related matters.
+
+&emsp;(D) Current and projected workload and utilization data regarding the facility to be leased, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period.
+
+&emsp;(E) A detailed analysis of how the lease is expected to comply with Office of Management and Budget Circular A–11 and section 1341 of title 31 (commonly referred to as the "Anti-Deficiency Act"). Any such analysis shall include—
+
+&emsp;&emsp;(i) an analysis of the classification of the lease as a "lease purchase", a "capital lease", or an "operating lease" as those terms are defined in Office of Management and Budget Circular A–11;
+
+&emsp;&emsp;(ii) an analysis of the obligation of budgetary resources associated with the lease; and
+
+&emsp;&emsp;(iii) an analysis of the methodology used in determining the asset cost, fair market value, and cancellation costs of the lease.
+
+(c)(1) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
 
 (2) The Secretary shall—
 
@@ -110,11 +126,43 @@
 
 (3) Not more than 30 days after entering into a major medical facility lease, the Secretary shall submit to each committee described in paragraph (1) a report on any material differences between the lease that was entered into and the proposed lease described under such paragraph, including how the lease that was entered into changes the previously submitted scoring analysis described in subparagraph (D) of such paragraph.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub.L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, §602(c), Aug. 7, 2014, 128 Stat. 1794; Pub. L. 114–315, title VIII, §801(b), (c), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title V, §503(b), June 6, 2018, 132 Stat. 1476; Pub. L. 116–61, §6(9), Sept. 30, 2019, 133 Stat. 1117.)
+(i)(1) Notwithstanding subsection (a)(2)(B), the Secretary may carry out interim leasing actions as the Secretary considers necessary for the following leases:
+
+&emsp;(A) Major medical facility leases (as defined in subsection (a)(3)(B)) approved pursuant to this section and for which a prospectus for a replacement lease has been submitted to Congress pursuant to subsection (b)(2).
+
+&emsp;(B) Replacement leases that do not require approval under this section and for which a prospectus has been submitted to Congress pursuant to subsection (b)(2).
+
+(2) In this subsection, the term "interim leasing actions" has the meaning given that term by the Administrator of the General Services Administration.
+
+(j) The Secretary may obligate and expend funds to exercise a purchase option included in any major medical facility lease (as defined in subsection (a)(3)(B)).
+
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166,title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, §602(c), Aug. 7, 2014, 128 Stat. 1794; Pub. L. 114–315, title VIII, §801(b), (c), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title V, §503(b), June 6, 2018, 132 Stat. 1476; Pub. L. 116–61, §6(9), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 117–168, title VII, §703(a)–(e), Aug. 10, 2022, 136 Stat. 1797, 1798; Pub. L. 117–263, div. E, title LI, §5124(b), Dec. 23, 2022, 136 Stat. 3211.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–168, §703(a), designated existing provisions as subpar. (A), struck out "or any major medical facility lease" after "major medical facility project" and "or lease" after "for that project", and added subpar. (B).
+
+Subsec. (a)(3)(B). Pub. L. 117–168, §703(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The term 'major medical facility lease' means a lease for space for use as a new medical facility at an average annual rent of more than $1,000,000."
+
+Subsec. (b). Pub. L. 117–263, §5124(b), amended Pub. L. 117–168, §703(c)(5). See below.
+
+Pub. L. 117–168, §703(c)(5), (8), as amended by Pub. L. 117–263, §5124(b), designated existing provisions as par. (1), substituted "to Congress" for "to the Congress" and struck out "or a major medical facility lease (as defined in subsection (a)(3)(B))" after "subsection (a)(3)(A))" in introductory provisions, and added par. (2). Former pars. (1) and (2) redesignated subpars. (A) and (B), respectively, of par. (1).
+
+Subsec. (b)(1)(A). Pub. L. 117–168, §703(c)(2), (4), (6), redesignated subsec. (b)(1) and its subpars. (A) to (E) as subsec. (b)(1)(A) and cls. (i) to (v), respectively, and struck out "leased," after "altered," in introductory provisions.
+
+Subsec. (b)(1)(B) to (D). Pub. L. 117–168, §703(c)(4), redesignated subsec. (b)(2) to (4) as subsec. (b)(1)(B) to (D), respectively.
+
+Subsec. (b)(1)(E). Pub. L. 117–168, §703(c)(4), (7), redesignated subsec. (b)(5) as subsec. (b)(1)(E) and struck out "or lease" after "project" wherever appearing and "or leases" after "projects".
+
+Subsec. (b)(6). Pub. L. 117–168, §703(c)(3), (4), redesignated subsec. (b)(6) and its subpars. (A) to (C) as subsec. (b)(1)(F) and cls. (i) to (iii), respectively.
+
+Subsec. (b)(7). Pub. L. 117–168, §703(c)(1), struck out par. (7) which required detailed analyses of proposed funding for major medical facility leases.
+
+Subsec. (i). Pub. L. 117–168, §703(d), added subsec. (i).
+
+Subsec. (j). Pub. L. 117–168, §703(e), added subsec. (j).
 
 <b>2019</b>—Subsec. (a)(3). Pub. L. 116–61 added par. (3) and struck out former par. (3) which read as follows: "For purposes of this subsection, the term 'major medical facility project' means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $20,000,000, but such term does not include an acquisition by exchange, nonrecurring maintenance projects of the Department, or the construction, alteration, or acquisition of a shared Federal medical facility for which the Department's estimated share of the project costs does not exceed $20,000,000."
 
@@ -232,9 +280,15 @@ Subsecs. (d) to (f). Pub. L. 100–322, §422(d), redesignated subsecs. (e) and 
 
 &emsp;"(2) no appropriation may be made for the lease of any space for use as a medical facility at an average annual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof."
 
-Subsec. (b)(1). Pub. L. 99–166, §303, inserted "and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase" after "such facility".
+Subsec. (b)(1). Pub. L. 99–166, §303, inserted "and, in the case of a prospectus proposing the construction ofa new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase" after "such facility".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–263 effective as if included in the enactment of the Honoring our PACT Act of 2022 (Public Law 117–168), see section 524(d) of Pub. L. 117–263, set out as a note under section 1120 of this title.
+
+Pub. L. 117–168, title VII, §703(f), Aug. 10, 2022, 136 Stat. 1799, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to any lease that has not been specifically authorized by law on or before the date of the enactment of this Act \[Aug. 10, 2022\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -287,4 +341,6 @@ Transparency.—\[Amended subsecs. (b)(7) and (h) of this section.\]
 "(d)
 
 Rule of Construction.—Nothing in this section, or the amendments made by this section, shall be construed to in any way relieve the Department of Veterans Affairs from any statutory or regulatory obligations or requirements existing prior to the enactment of this section and such amendments."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "submits".</i>
 

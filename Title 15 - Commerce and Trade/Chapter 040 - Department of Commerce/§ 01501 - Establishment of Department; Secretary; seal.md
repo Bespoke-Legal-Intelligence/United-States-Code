@@ -12,7 +12,7 @@ Title 4 of the Revised Statutes, referred to in text, was entitled "Provisions A
 
 #### Codification
 
-Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -84,15 +84,15 @@ Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 S
 
 #### Executive Order No. 13339
 
-Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, §3, May 12, 2006, 71 F.R. 28543, which established in the Department of Commerce a President's Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, §4(a), Oct. 14, 2009, 74 F.R. 53638, set out below, and by Ex. Ord. No. 14031, §4(a), May 28, 2021, 86 F.R. 29680, set out in a note under section 3501 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, §3, May 12, 2006, 71 F.R. 28543, which established in the Department of Commerce a President's Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, §4(a), Oct. 14, 2009, 74 F.R. 53638, formerly set out below, and by Ex. Ord. No. 14031, §4(a), May 28, 2021, 86 F.R. 29680, set out in a note under section 3501 of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 13515
 
-Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, §4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, §8, Sept. 30, 2013, 78 F.R. 61819, which established the President's Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, §4(a), May 13, 2019, 84 F.R. 22324, set out below, and by Ex. Ord. No. 14031, §4(a), May 28, 2021, 86 F.R. 29680, set out in a note under section 3501 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, §4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, §8, Sept. 30, 2013, 78 F.R. 61819, which established the President's Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, §4(a), May 13, 2019, 84 F.R. 22324, formerly set out below, and by Ex. Ord. No. 14031, §4(a), May 28, 2021, 86 F.R. 29680, set out in a note under section 3501 of Title 42, The Public Health and Welfare.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
 
-Prior to revocation of Ex. Ord. No. 13515, term of Commission on Asian Americans and Pacific Islanders was extended until Sept. 30, 2019, by Ex. Ord. No. 13811, §1(s), Sept. 29, 2017, 82 F.R. 46363, formerly set out in a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Prior to revocation of Ex. Ord. No. 13515, term of Commission on Asian Americans and Pacific Islanders was extended until Sept. 30, 2019, by Ex. Ord. No. 13811, §1(s), Sept. 29, 2017, 82 F.R. 46363, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Commission on Asian Americans and Pacific Islanders were contained in the following prior Executive Orders:
 
@@ -108,5 +108,5 @@ Ex. Ord. No. 13872, May 13, 2019, 84 F.R. 22321, which established the President
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
 
-Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2021, by Ex. Ord. No.13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 

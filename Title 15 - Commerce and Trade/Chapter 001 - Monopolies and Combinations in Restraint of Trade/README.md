@@ -37,6 +37,7 @@
 | [17\.](%C2%A7%2000017%20-%20Antitrust%20laws%20not%20applicable%20to%20labor%20organizations.md) | Antitrust laws not applicable to labor organizations. |
 | [18\.](%C2%A7%2000018%20-%20Acquisition%20by%20one%20corporation%20of%20stock%20of%20another.md) | Acquisition by one corporation of stock of another. |
 | [18a.](%C2%A7%2000018a%20-%20Premerger%20notification%20and%20waiting%20period.md) | Premerger notification and waiting period. |
+| [18b.](%C2%A7%2000018b%20-%20Mergers%20involving%20foreign%20government%20subsidies.md) | Mergers involving foreign government subsidies. |
 | [19\.](%C2%A7%2000019%20-%20Interlocking%20directorates%20and%20officers.md) | Interlocking directorates and officers. |
 | 19a, 20. | Repealed. |
 | [21\.](%C2%A7%2000021%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
@@ -121,6 +122,7 @@ Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 1205
 - [&sect; 00017 - Antitrust laws not applicable to labor organizations](%C2%A7%2000017%20-%20Antitrust%20laws%20not%20applicable%20to%20labor%20organizations.md)
 - [&sect; 00018 - Acquisition by one corporation of stock of another](%C2%A7%2000018%20-%20Acquisition%20by%20one%20corporation%20of%20stock%20of%20another.md)
 - [&sect; 00018a - Premerger notification and waiting period](%C2%A7%2000018a%20-%20Premerger%20notification%20and%20waiting%20period.md)
+- [&sect; 00018b - Mergers involving foreign government subsidies](%C2%A7%2000018b%20-%20Mergers%20involving%20foreign%20government%20subsidies.md)
 - [&sect; 00019 - Interlocking directorates and officers](%C2%A7%2000019%20-%20Interlocking%20directorates%20and%20officers.md)
 - [&sect; 00019a - Repealed. Aug. 23, 1935, ch. 614, &sect;329, 49 Stat. 717](%C2%A7%2000019a%20-%20Repealed.%20Aug.%2023%2C%201935%2C%20ch.%20614%2C%20%C2%A7329%2C%2049%20Stat.%20717.md)
 - [&sect; 00020 - Repealed. Pub. L. 101&#8211;588, &sect;3, Nov. 16, 1990, 104 Stat. 2880](%C2%A7%2000020%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93588%2C%20%C2%A73%2C%20Nov.%2016%2C%201990%2C%20104%20Stat.%202880.md)

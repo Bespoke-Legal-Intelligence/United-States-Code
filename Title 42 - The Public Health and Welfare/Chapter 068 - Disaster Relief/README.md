@@ -19,6 +19,8 @@
 | [5133\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005133%20-%20Predisaster%20hazard%20mitigation.md) | Predisaster hazard mitigation. |
 | [5134\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005134%20-%20Interagency%20task%20force.md) | Interagency task force. |
 | [5135\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005135%20-%20Grants%20to%20entities%20for%20establishment%20of%20hazard%20mitigation%20revolving%20loan%20funds.md) | Grants to entities for establishment of hazard mitigation revolving loan funds. |
+| [5136\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005136%20-%20Natural%20hazard%20risk%20assessment.md) | Natural hazard risk assessment. |
+| [5136a.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005136a%20-%20Assistance%20and%20training%20for%20communities%20with%20technological%20hazards%20and%20related%20emerging%20threats.md) | Assistance and training for communities with technological hazards and related emerging threats. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -84,7 +84,7 @@ This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erro
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to national transit institute.
 
-<b>2005</b>—Subsecs. (a), (b). Pub. L. 109–59, §3017(a), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to establishment and duties of a national transit institute in subsec. (a) and delegation to the institute of the authority of the Secretary to develop and conduct educational and training programs related to mass transportation in subsec. (b).
+<b>2005</b>—Subsecs. (a), (b). Pub. L. 109–59, §3017(a), added subsecs. (a) and (b) and struck out former subsecs. (a)and (b), which related to establishment and duties of a national transit institute in subsec. (a) and delegation to the institute of the authority of the Secretary to develop and conduct educational and training programs related to mass transportation in subsec. (b).
 
 Subsec. (d). Pub. L. 109–59, §3017(b), struck out "mass" after "public" in two places.
 
@@ -134,7 +134,7 @@ Identify impediments.—The Secretary shall—
 
 &emsp;&emsp;"(i) address such impediments in a manner similar to the Special Experimental Project Number 15 of the Federal Highway Administration (commonly referred to as 'SEP-15'); and
 
-&emsp;&emsp;"(ii) protect the public interest and any public investment in public transportation capital projects that involve public-private partnerships or privateinvestment in public transportation capital projects.
+&emsp;&emsp;"(ii) protect the public interest and any public investment in public transportation capital projects that involve public-private partnerships or private investment in public transportation capital projects.
 
 "(2)
 

@@ -14,7 +14,7 @@ Publication of Data on Patient Safety, Quality of Care, Satisfaction, and Health
 
 (4) The Secretary shall ensure that the data published under paragraph (1) and updated under paragraph (2) is accessible to the public through the primary Internet website of the Department and the primary Internet website of the military medical treatment facility with respect to which such data applies.
 
-(Added Pub. L. 108–375, div. A, title VII, §739(a)(1), Oct. 28, 2004, 118 Stat. 2001; amended Pub. L. 114–92, div. A, title VII, §712, Nov. 25, 2015, 129 Stat. 864; Pub. L. 114–328, div. A, title VII, §728(b)(1), Dec. 23, 2016, 130 Stat. 2234; Pub. L. 115–91, div. A, title X, §§1051(a)(5), 1081(d)(3), Dec. 12, 2017, 131 Stat. 1560, 1600.)
+(Added Pub. L. 108–375, div. A, title VII, §739(a)(1), Oct. 28, 2004, 118 Stat. 2001; amendedPub. L. 114–92, div. A, title VII, §712, Nov. 25, 2015, 129 Stat. 864; Pub. L. 114–328, div. A, title VII, §728(b)(1), Dec. 23, 2016, 130 Stat. 2234; Pub. L. 115–91, div. A, title X, §§1051(a)(5), 1081(d)(3), Dec. 12, 2017, 131 Stat. 1560, 1600.)
 
 #### <b>Editorial Notes</b>
 

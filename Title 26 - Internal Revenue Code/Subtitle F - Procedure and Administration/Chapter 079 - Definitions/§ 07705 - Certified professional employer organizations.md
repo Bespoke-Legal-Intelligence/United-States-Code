@@ -38,7 +38,7 @@ A person meets the requirements of this subsection if such person—
 
 #### (B) Amount of bond
 
-&emsp;&emsp;For the period April 1 of any calendar year through March 31 of the following calendar year, the amount of the bond required is equal to the greater of—
+&emsp;&emsp;For the period April 1 of any calendar year through March 31 of the following calendaryear, the amount of the bond required is equal to the greater of—
 
 &emsp;&emsp;&emsp;(i) 5 percent of the organization's liability under section 3511 for taxes imposed by subtitle C during the preceding calendar year (but not to exceed $1,000,000), or
 
@@ -52,7 +52,7 @@ A person meets the requirements of this subsection if such person—
 
 &emsp;&emsp;(B) provides to the Secretary an assertion regarding Federal employment tax payments and an examination level attestation on such assertion from an independent certified public accountant not later than the last day of the second month beginning after the end of each calendar quarter.
 
-> &emsp;Such assertion shall state that the organization has withheld and made deposits of alltaxes imposed by chapters 21, 22, and 24 in accordance with regulations imposed by the Secretary for such calendar quarter and such examination level attestation shall state that such assertion is fairly stated, in all material respects.
+> &emsp;Such assertion shall state that the organization has withheld and made deposits of all taxes imposed by chapters 21, 22, and 24 in accordance with regulations imposed by the Secretary for such calendar quarter and such examination level attestation shall state that such assertion is fairly stated, in all material respects.
 
 #### (4) Controlled group rules
 

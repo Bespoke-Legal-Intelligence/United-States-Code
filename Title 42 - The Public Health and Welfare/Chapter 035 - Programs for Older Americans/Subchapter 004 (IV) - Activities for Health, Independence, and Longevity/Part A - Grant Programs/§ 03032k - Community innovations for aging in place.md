@@ -62,7 +62,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iv) services not being delivered that would promote aging in place and contribute to the well-being of older individuals residing in the project area;
 
-&emsp;&emsp;(D) a plan for the development and implementation of an innovative model for service coordination and delivery within the project area;
+&emsp;&emsp;(D) a plan for the development and implementation of an innovative model for servicecoordination and delivery within the project area;
 
 &emsp;&emsp;(E) a description of how the plan described in subparagraph (D) will enhance existing services described in subparagraph (C)(i) and support the goal of this section to promote aging in place;
 
@@ -138,7 +138,7 @@ The Assistant Secretary shall annually prepare and submit a report to Congress t
 
 &emsp;(1) the findings resulting from the evaluations of the model projects conducted under this section;
 
-&emsp;(2) a description of recommended best practices regarding carrying out health and social service projects for older individuals aging in place; and
+&emsp;(2) a description of recommended best practices regarding carrying out health and socialservice projects for older individuals aging in place; and
 
 &emsp;(3) recommendations for legislative or administrative action, as the Assistant Secretary determines appropriate.
 

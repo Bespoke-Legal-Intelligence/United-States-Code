@@ -2,7 +2,7 @@
 
 #### (a) Authorization of additional appropriations
 
-In order to accomplish the purposes of this chapter, there are hereby authorized to be appropriated the sum of an additional $15,000,000annually in fiscal years 1980 through 1982; for fiscal years 1983 through 1986 an amount no less than the amount authorized for 1982; and for fiscal years 1987 through 1999 an amount not less than $5,000,000 annually more than the amount authorized for fiscal year 1986. Such funds shall be in addition to any range, wildlife, and soil and water management moneys which have been requested by the Secretary under the provisions of section 1748 of this title, and in addition to the moneys which are available for range improvements under section 1751 of this title.
+In order to accomplish the purposes of this chapter, there are hereby authorized to be appropriated the sum of an additional $15,000,000 annually in fiscal years 1980 through 1982; for fiscal years 1983 through 1986 an amount no less than the amount authorized for 1982; and for fiscal years 1987 through 1999 an amount not less than $5,000,000 annually more than the amount authorized for fiscal year 1986. Such funds shall be in addition to any range, wildlife, and soil and water management moneys which have been requested by the Secretary under the provisions of section 1748 of this title, and in addition to the moneys which are available for range improvements under section 1751 of this title.
 
 #### (b) Availability of unappropriated funds for subsequent fiscal years
 
@@ -22,5 +22,5 @@ Prior to the use of any funds authorized by this section the Secretary shall cau
 
 #### References in Text
 
-National Environmental Policy Act, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+National Environmental Policy Act, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

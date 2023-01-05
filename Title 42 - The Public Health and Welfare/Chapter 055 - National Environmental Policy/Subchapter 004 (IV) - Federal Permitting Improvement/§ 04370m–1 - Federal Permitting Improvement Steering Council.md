@@ -40,7 +40,7 @@ There is established the Federal Permitting Improvement Steering Council.
 
 #### (II) Reporting
 
-&emsp;&emsp;&emsp;&emsp;In carrying out the duties of the agency CERPO under this subchapter, an agency CERPO shall report directly to the applicable agency councilmember.
+&emsp;&emsp;&emsp;&emsp;In carrying out the duties of the agency CERPO under this subchapter, anagency CERPO shall report directly to the applicable agency councilmember.
 
 #### (B) Heads of agencies
 
@@ -136,7 +136,7 @@ There is established the Federal Permitting Improvement Steering Council.
 
 #### (cc) Completion date
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Each performance schedule shall specify that any decision by an agency on an environmental review or authorization must be issued not later than 180 days after the date on which all information needed to complete the review or authorization (including any hearing that an agency holds on the matter) is in the possession of the agency.
+&emsp;&emsp;&emsp;&emsp;&emsp;Each performance schedule shall specify that any decision by an agencyon an environmental review or authorization must be issued not later than 180 days after the date on which all information needed to complete the review or authorization (including any hearing that an agency holds on the matter) is in the possession of the agency.
 
 #### (iii) Review and revision
 
@@ -149,6 +149,10 @@ There is established the Federal Permitting Improvement Steering Council.
 &emsp;&emsp;&emsp;(i) to carry out responsibilities under this subchapter; and
 
 &emsp;&emsp;&emsp;(ii) to effectuate the adoption by agencies of the best practices and recommendations of the Council described in paragraph (2).
+
+#### (E) Personnel
+
+&emsp;&emsp;The Executive Director of the Council may appoint and fix the compensation of such employees as the Executive Director considers necessary to carry out the roles and responsibilities of the Executive Director.
 
 #### (2) Council
 
@@ -206,7 +210,7 @@ There is established the Federal Permitting Improvement Steering Council.
 
 &emsp;&emsp;(D) review and develop training programs for agency staff that support and conduct environmental reviews or authorizations.
 
-(Pub. L. 114–94, div. D, title XLI, §41002, Dec. 4, 2015, 129 Stat. 1743; Pub. L. 117–58, div. G, title VIII, §70801(b), (i), Nov. 15, 2021, 135 Stat. 1288, 1294.)
+(Pub. L. 114–94, div. D, title XLI, §41002, Dec. 4, 2015, 129 Stat. 1743; Pub. L. 117–58, div. G, titleVIII, §70801(b), (i), Nov. 15, 2021, 135 Stat. 1288, 1294; Pub. L. 117–328, div. E, title VI, §635(a), Dec. 29, 2022, 136 Stat. 4703.)
 
 #### <b>Editorial Notes</b>
 
@@ -215,6 +219,8 @@ There is established the Federal Permitting Improvement Steering Council.
 Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1)(E). Pub. L. 117–328 added subpar. (E).
 
 <b>2021</b>—Pub. L. 117–58, §70801(b)(1), substituted "Federal Permitting Improvement Steering Council" for "Federal Permitting Improvement Council" in section catchline.
 
@@ -230,7 +236,7 @@ Subsec. (c)(1)(C)(ii)(II), (III). Pub. L. 117–58, §70801(b)(3)(A)(ii), (iii),
 
 Subsec. (c)(1)(C)(ii)(III)(bb). Pub. L. 117–58, §70801(b)(3)(A)(iv), substituted "based on relevant historical data, as determined by the Executive Director," for "on the basis of data from the preceding 2 calendar years".
 
-Subsec. (c)(2)(B). Pub. L. 117–58, §70801(b)(3)(B)(i), substituted "less frequently than annually, the Councilshall issue recommendations on the best practices for improving the Federal permitting process for covered projects, which may include" for "later than 1 year after December 4, 2015, and not less frequently than annually thereafter, the Council shall issue recommendations on the best practices for" in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 117–58, §70801(b)(3)(B)(i), substituted "less frequently than annually, the Council shall issue recommendations on the best practices for improving the Federal permitting process for covered projects, which may include" for "later than 1 year after December 4, 2015, and not less frequently than annually thereafter, the Council shall issue recommendations on the best practices for" in introductory provisions.
 
 Subsec. (c)(2)(B)(i). Pub. L. 117–58, §70801(b)(3)(B)(ii), substituted "stakeholder engagement, including—" for "stakeholder engagement, including", added subcl. (I), and inserted designation for subcl. (II) before "fully considering".
 

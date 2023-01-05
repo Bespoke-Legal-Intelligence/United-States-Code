@@ -2,7 +2,7 @@
 
 #### (a) Annual funding
 
-For each of fiscal years 2014 through 2023, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
+For each of fiscal years 2014 through 2031, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
 
 &emsp;(1) The conservation reserve program under subpart B of part I of subchapter IV, including, to the maximum extent practicable—
 
@@ -22,7 +22,7 @@ For each of fiscal years 2014 through 2023, the Secretary shall use the funds, f
 
 &emsp;&emsp;(E) $250,000,000 for fiscal year 2018; and
 
-&emsp;&emsp;(F) $450,000,000 for each of fiscal years 2019 through 2023.
+&emsp;&emsp;(F) $450,000,000 for each of fiscal years 2019 through 2031.
 
 &emsp;(3) The programs under part IV of subchapter IV, using, to the maximum extent practicable—
 
@@ -36,7 +36,7 @@ For each of fiscal years 2014 through 2023, the Secretary shall use the funds, f
 
 &emsp;&emsp;&emsp;(iv) $1,850,000,000 for fiscal year 2022; and
 
-&emsp;&emsp;&emsp;(v) $2,025,000,000 for fiscal year 2023; and
+&emsp;&emsp;&emsp;(v) $2,025,000,000 for each of fiscal years 2023 through 2031; and
 
 &emsp;&emsp;(B) for the conservation stewardship program under subpart B of part IV of subchapter IV—
 
@@ -48,13 +48,13 @@ For each of fiscal years 2014 through 2023, the Secretary shall use the funds, f
 
 &emsp;&emsp;&emsp;(iv) $800,000,000 for fiscal year 2022; and
 
-&emsp;&emsp;&emsp;(v) $1,000,000,000 for fiscal year 2023.
+&emsp;&emsp;&emsp;(v) $1,000,000,000 for each of fiscal years 2023 through 2031.
 
 &emsp;(4) The conservation stewardship program under subpart B of part II of subchapter IV (as in effect on the day before December 20, 2018), using such sums as are necessary to administer contracts entered into before December 20, 2018.
 
 #### (b) Availability of funds
 
-Amounts made available by subsection (a) for fiscal years 2014 through 2023 shall be used by the Secretary to carry out the programs specified in such subsection and shall remain available until expended.
+Amounts made available by subsection (a) for fiscal years 2014 through 2031 shall be used by the Secretary to carry out the programs specified in such subsection and shall remain available until expended.
 
 #### (c) Technical assistance
 
@@ -112,19 +112,131 @@ The use of Commodity Credit Corporation funds under subsection (c) to provide te
 
 &emsp;In determining the specific funding allocations under paragraph (1), the Secretary shall—
 
-&emsp;&emsp;(A) ensure that during the first quarter of each fiscal year each State has the opportunity to establish that the State can use an aggregate allocation amount of at least 0.6 percent of the funds made available for those conservation programs; and
+&emsp;&emsp;(A) ensure that during the first quarter of each fiscal year each State has the opportunity to establish that the State can use an aggregate allocation amount of at least 0.6percent of the funds made available for those conservation programs; and
 
 &emsp;&emsp;(B) for each State that can so establish, provide an aggregate amount of at least 0.6 percent of the funds made available for those conservation programs.
 
-#### (f) Acceptance and use of contributions
+#### (f) Acceptance and use of contributions for public-private partnerships
 
-#### (1) Authority to establish contribution accounts
+#### (1) Establishment of public-private partnership contributions accounts
 
-&emsp;Subject to paragraph (2), the Secretary may establish a sub-account for each conservation program administered by the Secretary under subchapter IV to accept contributions of non-Federal funds to support the purposes of the program.
+&emsp;The Secretary shall establish the necessary accounts and process to accept contributions of private funds for the purposes of addressing the changing climate, sequestering carbon, improving wildlife habitat, protecting sources of drinking water, and addressing other natural resource priorities identified by the Secretary.
 
 #### (2) Deposit and use of contributions
 
-&emsp;Contributions of non-Federal funds received for a conservation program administered by the Secretary under subchapter IV shall be deposited into the sub-account established under this subsection for the program and shall be available to the Secretary, without further appropriation and until expended, to carry out the program.
+&emsp;Contributions of non-Federal funds received for a covered program shall be deposited into the account established under this subsection for the program and shall be available to the Secretary, without further appropriation and until expended, to carry out the program.
+
+#### (3) Secretarial authority
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may accept under this subsection contributions of such funds as the Secretary determines appropriate, taking into consideration—
+
+&emsp;&emsp;&emsp;(i) the source of the funds to be contributed;
+
+&emsp;&emsp;&emsp;(ii) the natural resource concerns to be addressed through the use of the funds;
+
+&emsp;&emsp;&emsp;(iii) the amount of funds to be contributed;
+
+&emsp;&emsp;&emsp;(iv) whether the activities proposed to be carried out using the funds are consistent with the priorities of the Secretary; and
+
+&emsp;&emsp;&emsp;(v) any other factors the Secretary determines to be relevant.
+
+#### (B) Determination
+
+&emsp;&emsp;A determination of whether to accept private funds under this subsection shall be at the sole discretion of the Secretary.
+
+#### (4) Match of contributed funds
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the Secretary may provide matching Federal funds, and determine the level of such match, which shall not exceed 75 percent, for the private funds contributed under this subsection, subject to the availability of funding for the applicable covered program.
+
+#### (B) Distribution of Federal funding for States
+
+&emsp;&emsp;The Secretary may not provide any matching Federal funds pursuant to subparagraph (A) in a manner that would result in a substantial reduction in the historical distribution of Federal funding to any State for any covered program.
+
+#### (C) Limitation
+
+&emsp;&emsp;No funds made available pursuant to Public Law 117–169 may be used to provide matching Federal funds pursuant to subparagraph (A).
+
+#### (5) Role of contributing entity
+
+&emsp;An entity contributing funds under this subsection may—
+
+&emsp;&emsp;(A) designate the covered program for which the contributed funds are intended to be used;
+
+&emsp;&emsp;(B) specify the geographic area in which the contributed funds are intended to be used;
+
+&emsp;&emsp;(C) identify a natural resource concern the contributed funds are intended to be used to address;
+
+&emsp;&emsp;(D) with respect to an activity funded pursuant to this subsection that may result in environmental services benefits to be sold through an environmental services market, subject to the approval of the Secretary, prescribe the terms for ownership of the entity's share of such environmental services benefits resulting from such activity; and
+
+&emsp;&emsp;(E) work with the Secretary to promote the activities funded pursuant to this subsection.
+
+#### (6) Producer participation
+
+#### (A) Notification
+
+&emsp;&emsp;The Secretary shall establish a process to provide notice to producers—
+
+&emsp;&emsp;&emsp;(i) of activities that may be carried out, through a covered program, pursuant to this section; and
+
+&emsp;&emsp;&emsp;(ii) any <sup>1</sup> terms prescribed by the contributing entity under paragraph (5)(D) with respect to such activities.
+
+#### (B) Retention of environmental services benefits
+
+&emsp;&emsp;The Secretary shall not claim or impede any action of a producer with respect to the environmental services benefits they accrue through activities funded pursuant to this subsection.
+
+#### (7) Consistency with program requirements
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall ensure that the terms and conditions of activities carried out using funds contributed under this subsection are consistent with the requirements of the applicable covered program.
+
+#### (B) Adjustments
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary may, if the Secretary determines necessary, adjust a regulatory requirement of a covered program, or related guidance, as it applies to an activity carried out using funds contributed under this subsection—
+
+&emsp;&emsp;&emsp;&emsp;(I) to provide a simplified process; or
+
+&emsp;&emsp;&emsp;&emsp;(II) to better reflect unique local circumstances and to address a specific priority of the contributing entity.
+
+#### (ii) Limitation
+
+&emsp;&emsp;&emsp;The Secretary shall not adjust the application of statutory requirements for a covered program, including requirements governing appeals, payment limits, and conservation compliance.
+
+#### (8) Report
+
+&emsp;Not later than December 31, 2024, and each year thereafter through December 31, 2031, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
+
+&emsp;&emsp;(A) the name and a description of each entity contributing private funds under this subsection that took an action under paragraph (5), and a description of each such action;
+
+&emsp;&emsp;(B) the name and a description of each entity contributing private funds under this subsection for which the Secretary has provided matching Federal funds, and the level of that match, including the amount of such matching Federal funds; and
+
+&emsp;&emsp;(C) the total amounts of—
+
+&emsp;&emsp;&emsp;(i) private funds contributed under this subsection; and
+
+&emsp;&emsp;&emsp;(ii) matching Federal funds provided by the Secretary under paragraph (4).
+
+#### (9) Covered program defined
+
+&emsp;In this subsection, the term "covered program" means a program carried out by the Secretary under—
+
+&emsp;&emsp;(A) subchapter IV (except for subpart B of such subchapter),<sup>2</sup> subchapter VII, or subchapter VIII;
+
+&emsp;&emsp;(B) section 2203 of this title;
+
+&emsp;&emsp;(C) title V of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6571 et seq.); or
+
+&emsp;&emsp;(D) the Watershed Protection and Flood Prevention Act (16 U.S.C. 1001 et seq.), except for any program established by the Secretary to carry out section 14 of such Act (16 U.S.C. 1012).
+
+#### (10) Duration of authority
+
+&emsp;The authority of the Secretary under this subsection shall expire, with respect to each covered program, on the date on which the authority of the covered program expires.
 
 #### (g) Allocations review and update
 
@@ -156,9 +268,9 @@ The use of Commodity Credit Corporation funds under subsection (c) to provide te
 
 &emsp;&emsp;&emsp;(ii) 5 percent to assist socially disadvantaged farmers or ranchers.
 
-#### (B) Fiscal years 2019 through 2023
+#### (B) Fiscal years 2019 through 2031
 
-&emsp;&emsp;Of the funds made available for each of fiscal years 2019 through 2023 to carry out the environmental quality incentives program under subpart A of part IV of subchapter IV and the conservation stewardship program under subpart B of part IV of subchapter IV, the Secretary shall use, to the maximum extent practicable—
+&emsp;&emsp;Of the funds made available for each of fiscal years 2019 through 2031 to carry out the environmental quality incentives program under subpart A of part IV of subchapter IV and the conservation stewardship program under subpart B of part IV of subchapter IV, the Secretary shall use, to the maximum extent practicable—
 
 &emsp;&emsp;&emsp;(i) 5 percent to assist beginning farmers or ranchers; and
 
@@ -166,7 +278,7 @@ The use of Commodity Credit Corporation funds under subsection (c) to provide te
 
 #### (2) Repooling of funds
 
-&emsp;In any fiscal year, amounts not obligated under paragraph (1) by a date determined by the Secretary shall be available for payments and technical assistance to all persons eligible for payments or technical assistance in that fiscal year under the environmental quality incentives program and, in the case of fiscal years 2019 through 2023, under the conservation stewardship program under subpart B of part IV of subchapter IV.
+&emsp;In any fiscal year, amounts not obligated under paragraph (1) by a date determined by the Secretary shall be available for payments and technical assistance to all persons eligible for payments or technical assistance in that fiscal year under the environmental quality incentives program and, in the case of fiscal years 2019 through 2031, under the conservation stewardship program under subpart B of part IV of subchapter IV.
 
 #### (3) Repooling of acres
 
@@ -174,11 +286,11 @@ The use of Commodity Credit Corporation funds under subsection (c) to provide te
 
 #### (4) Preference
 
-&emsp;In providing assistance under paragraph (1), the Secretary shall give preference to a veteran farmer or rancher (as defined in section 2279(e) <sup>1</sup> of title 7) that qualifies under, as applicable, clause (i) or (ii) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B).
+&emsp;In providing assistance under paragraph (1), the Secretary shall give preference to a veteran farmer or rancher (as defined in section 2279(e) <sup>2</sup> of title 7) that qualifies under, as applicable, clause (i) or (ii) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B).
 
 #### (i) Report on program enrollments and assistance
 
-Not later than December 15 of each of calendar years 2019 through 2023, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report containing statistics byState related to enrollments in conservation programs under this chapter, as follows:
+Not later than December 15 of each of calendar years 2019 through 2023, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report containing statistics by State related to enrollments in conservation programs under this chapter, as follows:
 
 &emsp;(1) The annual and current cumulative activity reflecting active agreement and contract enrollment statistics.
 
@@ -214,7 +326,7 @@ Not later than December 15 of each of calendar years 2019 through 2023, the Secr
 
 &emsp;&emsp;(B) payment rates, to the extent practicable, are consistent between the Farm Service Agency and the Natural Resources Conservation Service.
 
-(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802; Pub. L. 112–55, div. A, title VII, §716(d)–(f), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, §750(b), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §§2601–2605, Feb. 7, 2014, 128 Stat. 756–759; Pub. L. 115–123, div. F, §60102(b), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §2501, title XII, §12306(g), Dec. 20, 2018, 132 Stat. 4576, 4970.)
+(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802; Pub. L. 112–55, div. A, title VII, §716(d)–(f), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, §750(b), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §§2601–2605, Feb. 7, 2014, 128 Stat. 756–759; Pub. L. 115–123, div. F, §60102(b), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §2501, title XII, §12306(g), Dec. 20, 2018, 132 Stat. 4576, 4970; Pub. L. 117–169, title II, §21001(c)(5), Aug. 16, 2022, 136 Stat. 2017; Pub. L. 117–328, div. HH, title I, §202, Dec. 29, 2022, 136 Stat. 5982.)
 
 #### <b>Editorial Notes</b>
 
@@ -228,11 +340,19 @@ Section 2611 of the Agricultural Act of 2014, referred to in subsec. (c)(2), is 
 
 The Soil Conservation and Domestic Allotment Act, referred to in subsec. (c)(2)(A), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§590a et seq.) of this title. For complete classification of this Act to the Code, see section 590q of this title and Tables.
 
+Public Law 117–169, referred to in subsec. (f)(4)(C), is Pub. L. 117–169, Aug. 16, 2022, 136 Stat. 1818, popularly known as the Inflation Reduction Act of 2022. For complete classification of this Act to the Code, see Tables.
+
+Subchapter IV (except for subpart B of such subchapter), referred to in subsec. (f)(9)(A), was in the original "subtitle D (except for subchapter B of such subtitle)". Subtitle D of title XII of Pub. L. 99–198 contains two chapters with a subchapter B. Subchapter B of chapter 1 of subtitle D is classified to subpart B (§3831 et seq.) of part I of subchapter IV of this chapter, and subchapter B of chapter 4 of subtitle D is classified to subpart B (§3839aa–21 et seq.) of part IV of subchapter IV of this chapter.
+
+The Healthy Forests Restoration Act of 2003, referred to in subsec. (f)(9)(C), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887. Title V of the Act is classified generally to subchapter V (§6571 et seq.) of chapter 84 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+
+The Watershed Protection and Flood Prevention Act, referred to in subsec. (f)(9)(D), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
 Section 2279(e) of title 7, referred to in subsec. (h)(4), was redesignated section 2279(a) of Title 7, Agriculture, by Pub. L. 115–334, title XII, §12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section 2701 of Pub. L. 107–171, which directed that subtitle E of the Food Security Act of 1985 be amended by striking section 1241 and adding a new section 1241 (this section), was executed by striking section 1241 of subtitle E of title XII of the Food Security Act of 1985 and adding the new section 1241 in lieu thereof, to reflect the probable intent of Congress.
 
@@ -244,6 +364,26 @@ Another prior section 3841, Pub. L. 99–198, title XII, §1241, Dec. 23, 1985, 
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a). Pub. L. 117–169, §21001(c)(5)(A)(i), substituted "2031" for "2023" in introductory provisions.
+
+Subsec. (a)(2)(F). Pub. L. 117–169, §21001(c)(5)(A)(ii), substituted "2031" for "2023".
+
+Subsec. (a)(3)(A)(v), (B)(v). Pub. L. 117–169, §21001(c)(5)(A)(iii), substituted "each of fiscal years 2023 through 2031" for "fiscal year 2023".
+
+Subsec. (b). Pub. L. 117–169, §21001(c)(5)(B), substituted "2031" for "2023".
+
+Subsec. (f). Pub. L. 117–328, §202(1), inserted "for public-private partnerships" after "contributions" in heading.
+
+Subsec. (f)(1). Pub. L. 117–328, §202(2), amended par. (1) generally. Prior to amendment, text read as follows: "Subject to paragraph (2), the Secretary may establish a sub-account for each conservation program administered by the Secretary under subchapter IV to accept contributions of non-Federal funds to support the purposes of the program."
+
+Subsec. (f)(2). Pub. L. 117–328, §202(3), substituted "a covered program shall be deposited into the account" for "a conservation program administered by the Secretary under subchapter IV shall be deposited into the sub-account".
+
+Subsec. (f)(3) to (10). Pub. L. 117–328, §202(4), added pars. (3) to (10).
+
+Subsec. (h). Pub. L. 117–169, §21001(c)(5)(C)(ii), substituted "2031" for "2023" wherever appearing in text.
+
+Subsec. (h)(1)(B). Pub. L. 117–169, §21001(c)(5)(C)(i), substituted "2031" for "2023" in heading.
+
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §2501(a)(1), substituted "2023" for "2018 (and fiscal year 2019 in the case of the program specified in paragraph (5))" in introductory provisions.
 
 Pub. L. 115–123, §60102(b)(1)(A), substituted "2018 (and fiscal year 2019 in the case of the program specified in paragraph (5))" for "2018" in introductory provisions.
@@ -252,7 +392,7 @@ Subsec. (a)(1)(A). Pub. L. 115–334, §2501(a)(2)(A), substituted "$12,000,000 
 
 Subsec. (a)(1)(B). Pub. L. 115–334, §12306(g), substituted "covered farmers or ranchers, as defined in section 3835(f)(1) of this title" for "beginning farmers or ranchers and socially disadvantaged farmers or ranchers".
 
-Pub. L. 115–334, §2501(a)(2)(B), substituted "$50,000,000 for the period of fiscal years 2019 through 2023, including not more than $5,000,000 to provide outreach and technical assistance," for "$33,000,000 for the period offiscal years 2014 through 2018" and "contract holders" for "retired or retiring owners and operators".
+Pub. L. 115–334, §2501(a)(2)(B), substituted "$50,000,000 for the period of fiscal years 2019 through 2023, including not more than $5,000,000 to provide outreach and technical assistance," for "$33,000,000 for the period of fiscal years 2014 through 2018" and "contract holders" for "retired or retiring owners and operators".
 
 Subsec. (a)(2)(F). Pub. L. 115–334, §2501(a)(3), added subpar. (F).
 
@@ -418,7 +558,7 @@ Subsec. (b). Pub. L. 108–11 added subsec. (b) and struck out heading and text 
 
 "(1)
 
-February 20, 2003, through september 30, 2003.—During the period beginning on February 20, 2003, and ending on September 30, 2003, Commodity Credit Corporation funds made available under paragraphs (4) through (7) of subsection (a) of this section shall be available for the provision of technical assistance (subject to section 3842 of this title) for the conservation programs specified in subsection (a) of this section.
+February 20, 2003, through september 30, 2003.—During the period beginning on February 20, 2003, and ending on September 30, 2003, Commodity Credit Corporation funds made available under paragraphs (4) through (7) of subsection (a) of this section shall beavailable for the provision of technical assistance (subject to section 3842 of this title) for the conservation programs specified in subsection (a) of this section.
 
 "(2)
 
@@ -442,5 +582,7 @@ Pub. L. 108–498, §1(b), Dec. 23, 2004, 118 Stat. 4020, provided that: "The am
 
 Pub. L. 108–11, title II, §2106(b), Apr. 16, 2003, 117 Stat. 590, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on February 20, 2003."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "of".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

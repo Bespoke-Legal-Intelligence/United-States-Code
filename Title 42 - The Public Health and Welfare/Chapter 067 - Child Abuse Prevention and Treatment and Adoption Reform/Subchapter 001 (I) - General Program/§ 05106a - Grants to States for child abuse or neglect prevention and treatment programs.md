@@ -60,7 +60,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;(A) investigations, interventions, and the delivery of services and treatment provided to children and families, including the use of differential response, where appropriate; and
 
-&emsp;&emsp;(B) the provision of services that assist children exposed to domestic violence, and that also support the caregiving role of their nonabusing parents.
+&emsp;&emsp;(B) the provision of services that assist children exposed to domestic violence, andthat also support the caregiving role of their nonabusing parents.
 
 #### (b) Eligibility requirements
 
@@ -96,7 +96,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(i) provisions or procedures for an individual to report known and suspected instances of child abuse and neglect, including a State law for mandatory reporting by individuals required to report such instances;
 
-&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protectionservice systems and for other appropriate services) to address the needs of infants born with and identified as being affected by substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
+&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish a definition under Federal law of what constitutes child abuse or neglect; or
 
@@ -352,7 +352,7 @@ Each State to which a grant is made under this section shall annually work with 
 
 &emsp;&emsp;(D) information on caseload or workload requirements for such personnel, including requirements for average number and maximum number of cases per child protective service worker and supervisor.
 
-&emsp;(11) The number of children reunited with their families or receiving family preservationservices that, within five years, result in subsequent substantiated reports of child abuse or neglect, including the death of the child.
+&emsp;(11) The number of children reunited with their families or receiving family preservation services that, within five years, result in subsequent substantiated reports of child abuse or neglect, including the death of the child.
 
 &emsp;(12) The number of children for whom individuals were appointed by the court to represent the best interests of such children and the average number of out of court contacts between such individuals and children.
 
@@ -406,7 +406,7 @@ Within 6 months after receiving the State reports under subsection (d), the Secr
 
 &emsp;&emsp;(A) $50,000; and
 
-&emsp;&emsp;(B) an amount that bears the same relationship to any grant funds remaining after all such States and territories have received $50,000, as the number of children under the age of 18 in the State or territory bears to the number of such children in all States and territories that apply for such a grant.
+&emsp;&emsp;(B) an amount that bears the same relationship to any grant funds remaining afterall such States and territories have received $50,000, as the number of children under the age of 18 in the State or territory bears to the number of such children in all States and territories that apply for such a grant.
 
 #### (3) Allotments for decreased appropriation years
 
@@ -432,7 +432,7 @@ Within 6 months after receiving the State reports under subsection (d), the Secr
 
 &emsp;Notwithstanding paragraphs (2) and (4), except as provided in paragraph (3), no State or territory shall receive a grant under this section in an amount that is less than the amount such State or territory received under this section for fiscal year 2009.
 
-(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764;amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812; Pub. L. 111–320, title I, §115, Dec. 20, 2010, 124 Stat. 3467; Pub. L. 114–22, title VIII, §802(b), May 29, 2015, 129 Stat. 263; Pub. L. 114–198, title V, §503(b), (c), July 22, 2016, 130 Stat. 729, 730; Pub. L. 115–424, §3(a), Jan. 7, 2019, 132 Stat. 5470.)
+(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812; Pub. L. 111–320, title I, §115, Dec. 20, 2010, 124 Stat. 3467; Pub. L. 114–22, title VIII, §802(b), May 29, 2015, 129 Stat. 263; Pub. L. 114–198, title V, §503(b), (c), July 22, 2016, 130 Stat. 729, 730; Pub. L. 115–424, §3(a), Jan. 7, 2019, 132 Stat. 5470.)
 
 #### <b>Editorial Notes</b>
 
@@ -506,7 +506,7 @@ Subsec. (b)(1). Pub. L. 111–320, §115(c)(1), added par. (1) and struck out fo
 
 Subsec. (b)(2). Pub. L. 111–320, §115(c)(2)(H), substituted "subparagraph (B)" for "subparagraph (A)" in concluding provisions.
 
-Pub. L. 111–320, §115(c)(2)(B), substituted "Contents" for "Coordination" in heading and, in introductory provisions, substituted "A State plan submitted under paragraph (1) shall contain a description of the activities that the State will carry out using amounts received under the grant to achieve the objectives of this subchapter, including—" for "A State plan submittedunder paragraph (1) shall, to the maximum extent practicable, be coordinated with the State plan under part B of title IV of the Social Security Act relating to child welfare services and family preservation and family support services, and shall contain an outline of the activities that the State intends to carry out using amounts received under the grant to achieve the purposes of this subchapter, including—".
+Pub. L. 111–320, §115(c)(2)(B), substituted "Contents" for "Coordination" in heading and, in introductory provisions, substituted "A State plan submitted under paragraph (1) shall contain a description of the activities that the State will carry out using amounts received under the grant to achieve the objectives of this subchapter, including—" for "A State plan submitted under paragraph (1) shall, to the maximum extent practicable, be coordinated with the State plan under part B of title IV of the Social Security Act relating to child welfare services and family preservation and family support services, and shall contain an outline of the activities that the State intends to carry out using amounts received under the grant to achieve the purposes of this subchapter, including—".
 
 Subsec. (b)(2)(A). Pub. L. 111–320, §115(c)(2)(B), added subpar. (A). Former subpar. (A) redesignated (B).
 
@@ -652,7 +652,7 @@ Subsec. (c)(6). Pub. L. 108–36, §114(c)(2), substituted "State and the public
 
 Subsec. (d)(13), (14). Pub. L. 108–36, §114(d), added pars. (13) and (14).
 
-<b>1996</b>—Pub. L. 104–235 reenacted section catchline without change and amended text generally, revising and restating subsecs. (a) and (b), substituting provisions relating to citizen review panels for provisions relating to State program plan in subsec. (c), provisions relating to annual State data reports for provisions relating to waivers in subsec. (d), provisions relating to annual report by Secretary for provisions relating to reduction of funds in case of failure to obligate in subsec. (e), and striking out subsecs. (f) and (g) which related to child welfare services and compliance and education grants, respectively.
+<b>1996</b>—Pub. L. 104–235 reenacted section catchline without change and amended text generally, revising and restating subsecs. (a) and (b), substituting provisions relating to citizen review panels for provisions relating to State program plan in subsec. (c), provisions relating to annual State data reports for provisions relating to waivers in subsec. (d), provisions relating toannual report by Secretary for provisions relating to reduction of funds in case of failure to obligate in subsec. (e), and striking out subsecs. (f) and (g) which related to child welfare services and compliance and education grants, respectively.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–295, §114(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary, through the Center, is authorized to make grants to the States for purposes of assisting the States in developing, strengthening, and carrying out child abuse and neglect prevention and treatment programs."
 
@@ -680,7 +680,7 @@ Pub. L. 114–22, title VIII, §802(a), May 29, 2015, 129 Stat. 263, provided th
 
 Pub. L. 102–295, title I, §114(d), May 28, 1992, 106 Stat. 195, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: "The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention and Treatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect."
 
-\[Pub. L. 103–171, §9(b), Dec. 2, 1993, 107 Stat. 1994, provided that: "The amendments made by subsection (a)\[amending section 114(d) of Pub. L. 102–295, set out above\] take effect on September 30, 1993."\]
+\[Pub. L. 103–171, §9(b), Dec. 2, 1993, 107 Stat. 1994, provided that: "The amendments made by subsection (a) \[amending section 114(d) of Pub. L. 102–295, set out above\] take effect on September 30, 1993."\]
 
 #### Construction of 2016 Amendment
 

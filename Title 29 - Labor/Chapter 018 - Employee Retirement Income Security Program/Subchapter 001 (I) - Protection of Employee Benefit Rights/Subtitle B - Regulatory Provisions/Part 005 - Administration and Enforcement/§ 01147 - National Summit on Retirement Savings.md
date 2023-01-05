@@ -2,7 +2,7 @@
 
 #### (a) Authority to call Summit
 
-Not later than July 15, 1998, the President shall convene a National Summit on Retirement Income Savings at the White House, to be co-hosted by the President and the Speaker and the Minority Leader of the House of Representatives and the Majority Leader and Minority Leader of the Senate. Such a National Summit shall be convened thereafter in 2001 and 2005 on or after September 1 of each year involved. Such a National Summit shall—
+Not later than July 15, 1998, the President shall convene a National Summit on RetirementIncome Savings at the White House, to be co-hosted by the President and the Speaker and the Minority Leader of the House of Representatives and the Majority Leader and Minority Leader of the Senate. Such a National Summit shall be convened thereafter in 2001 and 2005 on or after September 1 of each year involved. Such a National Summit shall—
 
 &emsp;(1) advance the public's knowledge and understanding of retirement savings and its critical importance to the future well-being of American workers and their families;
 
@@ -34,7 +34,7 @@ The purpose of the National Summit shall be—
 
 &emsp;(7) to examine the impact and effectiveness of government programs at the Federal, State, and local levels to educate the public about, and to encourage, retirement income savings;
 
-&emsp;(8) to develop such specific and comprehensive recommendations for the legislative andexecutive branches of the Government and for private sector action as may be appropriate for promoting private pensions and individual retirement savings; and
+&emsp;(8) to develop such specific and comprehensive recommendations for the legislative and executive branches of the Government and for private sector action as may be appropriate for promoting private pensions and individual retirement savings; and
 
 &emsp;(9) to develop recommendations for the coordination of Federal, State, and local retirement income savings initiatives among the Federal, State, and local levels of government and for the coordination of such initiatives.
 
@@ -82,7 +82,7 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 &emsp;&emsp;There shall be not more than 200 additional participants. Of such additional participants—
 
-&emsp;&emsp;&emsp;(i) one-half shall be appointed by the President, in consultation with the elected leaders of the President's party in Congress (either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and either the Majority Leader or the Minority Leader of the Senate; <sup>1</sup> and
+&emsp;&emsp;&emsp;(i) one-half shall be appointed by the President, in consultation with the elected leaders of the President's party in Congress (either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and eitherthe Majority Leader or the Minority Leader of the Senate; <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) one-half shall be appointed by the elected leaders of Congress of the party to which the President does not belong (one-half of that allotment to be appointed by either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and one-half of that allotment to be appointed by either the Majority Leader or the Minority Leader of the Senate).
 
@@ -126,9 +126,9 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 &emsp;&emsp;(C) the personnel appointed under paragraph (1)(E) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities.
 
-#### (3) Nonapplication of FACA
+#### (3) Nonapplication of chapter 10 of title 5
 
-&emsp;The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the National Summit.
+&emsp;The provisions of chapter 10 of title 5 shall not apply to the National Summit.
 
 #### (g) Report
 
@@ -162,7 +162,7 @@ The financial obligation for the Department of Labor for fiscal year 1998 shall 
 
 The Secretary may enter into contracts to carry out the Secretary's responsibilities under this section. The Secretary shall enter into a contract on a sole-source basis to ensure the timely completion of the National Summit in fiscal year 1998.
 
-(Pub. L. 93–406, title I, §517, as added Pub. L. 105–92, §4(a), Nov. 19, 1997, 111 Stat. 2141.)
+(Pub. L. 93–406, title I, §517, as added Pub. L. 105–92, §4(a), Nov. 19, 1997, 111 Stat. 2141; amended Pub. L. 117–286, §4(a)(190), Dec. 27, 2022, 136 Stat. 4327.)
 
 #### <b>Editorial Notes</b>
 
@@ -170,7 +170,9 @@ The Secretary may enter into contracts to carry out the Secretary's responsibili
 
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+
+<b>2022</b>—Subsec. (f)(3). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "chapter 10 of title 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

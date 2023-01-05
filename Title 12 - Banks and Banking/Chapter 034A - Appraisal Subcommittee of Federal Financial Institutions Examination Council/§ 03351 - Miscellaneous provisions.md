@@ -34,7 +34,7 @@ Criteria established by the Federal financial institutions regulatory agencies, 
 
 #### (e) Other requirements
 
-A corporation, partnership, or other business entity may provide appraisal services in connection with federally related transactions if suchappraisal is prepared by individuals certified or licensed in accordance with the requirements of this chapter. An individual who is not a State certified or licensed appraiser may assist in the preparation of an appraisal if—
+A corporation, partnership, or other business entity may provide appraisal services in connection with federally related transactions if such appraisal is prepared by individuals certified or licensed in accordance with the requirements of this chapter. An individual who is not a State certified or licensed appraiser may assist in the preparation of an appraisal if—
 
 &emsp;(1) the assistant is under the direct supervision of a licensed or certified individual; and
 

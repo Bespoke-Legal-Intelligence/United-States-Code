@@ -18,7 +18,7 @@ Title X, §1071, 60 Stat. 1033, which authorized appropriations to carry out the
 
 Title XI, §1122, 60 Stat. 1035, which provided that funds appropriated to Department of State for fiscal year 1947, under the caption "Foreign Service", be available for purposes of this chapter and authorized additional appropriations as required to carry out this chapter.
 
-Title XI, §1132, 60 Stat. 1040, which provided that any section not expressly repealed by this chapter butwhich is inconsistent with any provisions of this chapter shall be considered as having been amended or superseded by this chapter.
+Title XI, §1132, 60 Stat. 1040, which provided that any section not expressly repealed by this chapter but which is inconsistent with any provisions of this chapter shall be considered as having been amended or superseded by this chapter.
 
 Title XI, §1133, 60 Stat. 1040, which provided that repeal of sections by this chapter should not in any way affect acts done or rights accruing or accrued, or any suits or proceedings had or commenced in any civil case, prior to such repeal, but that all rights and liabilities should continue as if such repeal had not been made.
 

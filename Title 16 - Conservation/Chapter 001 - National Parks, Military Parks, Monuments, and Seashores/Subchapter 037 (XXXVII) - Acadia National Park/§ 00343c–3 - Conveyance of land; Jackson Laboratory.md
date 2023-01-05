@@ -2,7 +2,7 @@
 
 In exchange for the conveyance to the United States of the land described in section 343c–2 of this title, the Secretary of the Interior may convey to the Jackson Laboratory all right, title, and interest of the United States in and to the following described land in the town of Bar Harbor, Hancock County, Maine, more particularly described as follows:
 
-Beginning at a stone bound set in the ground in the southeasterly side line of State Highway Numbered 3 leading from Bar Harbor to Seal Harbor, said stone bound marking the northeasterly corner of lot formerly belonging to the trustees of Louise D. Morrell, now owned by the Jackson Laboratory; said stone bound also marking the northwesterly corner of land belonging to the United States of America;
+Beginning at a stone bound set in the ground in the southeasterly side line of State Highway Numbered 3 leading from Bar Harbor to Seal Harbor, said stone bound marking the northeasterly corner of lot formerly belonging to the trustees of Louise D. Morrell, now owned by theJackson Laboratory; said stone bound also marking the northwesterly corner of land belonging to the United States of America;
 
 &emsp;thence in a northeasterly direction but always following the southeasterly side line of State Highway Numbered 3, 31.0 feet to a point which marks the northwesterly corner of land belonging to the Jackson Laboratory;
 

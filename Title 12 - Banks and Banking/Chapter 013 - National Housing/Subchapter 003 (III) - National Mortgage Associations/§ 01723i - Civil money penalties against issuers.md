@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Whenever an issuer or custodian approved under section 1721(g) of this title knowingly and materially violates any provisions of subsection (b), the Secretary of Housing and Urban Development may impose a civil money penalty on the issuer or the custodian in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether ornot the Secretary imposes other administrative sanctions.
+&emsp;Whenever an issuer or custodian approved under section 1721(g) of this title knowingly and materially violates any provisions of subsection (b), the Secretary of Housing and Urban Development may impose a civil money penalty on the issuer or the custodian in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary imposes other administrative sanctions.
 
 #### (2) Amount of penalty
 

@@ -58,7 +58,7 @@ The Farm Credit Administration shall have power, in the terms of the charter, un
 
 &emsp;(4) to approve amendments to the charter of such association.
 
-(Pub. L. 92–181, title II, §2.10, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1634; amended Pub. L. 100–399, title IV, §401(s), (t), Aug. 17, 1988, 102 Stat. 998.)
+(Pub. L. 92–181, title II, §2.10, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1634;amended Pub. L. 100–399, title IV, §401(s), (t), Aug. 17, 1988, 102 Stat. 998.)
 
 #### <b>Editorial Notes</b>
 

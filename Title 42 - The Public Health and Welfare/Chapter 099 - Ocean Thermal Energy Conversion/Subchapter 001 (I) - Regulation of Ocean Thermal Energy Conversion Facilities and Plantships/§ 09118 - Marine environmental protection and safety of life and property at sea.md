@@ -36,9 +36,9 @@ Whenever a licensee fails to mark any component of such an ocean thermal energy 
 
 &emsp;&emsp;(ii) the President makes a specific finding, with respect to the particular vessel, platform, or moored, fixed or standing structure, that application of this requirement would not be consistent with the national interest.
 
-(3) For the purposes of the documentation laws, for which compliance is required under paragraph (1) of this subsection, ocean thermal energy conversion facilities and plantships shall be deemed to be vessels and, if documented, vessels of the United States for the purposes of the Ship Mortgage Act, 1920 (46 U.S.C. 911–984).
+(3) For the purposes of the documentation laws, for which compliance is required under paragraph (1) of this subsection, ocean thermal energy conversion facilities and plantships shallbe deemed to be vessels and, if documented, vessels of the United States for the purposes of the Ship Mortgage Act, 1920 (46 U.S.C. 911–984).
 
-(4) For the purposes of this subsection the term "ocean thermal energy conversion facility" refers only to an ocean thermal energy conversion facility which has major componentsother than water intake or discharge pipes located seaward of the highwater mark <sup>1</sup>
+(4) For the purposes of this subsection the term "ocean thermal energy conversion facility" refers only to an ocean thermal energy conversion facility which has major components other than water intake or discharge pipes located seaward of the highwater mark <sup>1</sup>
 
 #### (f) Protection of navigation
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is hereby established within the Department of Health and Human Services a program to be known as the World Trade Center Health Program, which shall be administered by the WTC Program Administrator, to provide beginning on July 1, 2011—
+There is hereby established within the Department of Health and Human Services a programto be known as the World Trade Center Health Program, which shall be administered by the WTC Program Administrator, to provide beginning on July 1, 2011—
 
 &emsp;(1) medical monitoring and treatment benefits to eligible emergency responders and recovery and cleanup workers (including those who are Federal employees) who responded to the September 11, 2001, terrorist attacks; and
 
@@ -80,9 +80,9 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 &emsp;&emsp;&emsp;(ii) of the individuals who were certified, on the number who received monitoring under the program and the number of such individuals who received medical treatment under the program;
 
-&emsp;&emsp;&emsp;(iii) with respect to individuals so certified who received such treatment, on the WTC-related health conditions for which they were treated; and
+&emsp;&emsp;&emsp;(iii) with respect to individuals so certified who received such treatment, on theWTC-related health conditions for which they were treated; and
 
-&emsp;&emsp;&emsp;(iv) on the projected number of individuals who will be certified under part B inthe succeeding fiscal year and the succeeding 10-year period.
+&emsp;&emsp;&emsp;(iv) on the projected number of individuals who will be certified under part B in the succeeding fiscal year and the succeeding 10-year period.
 
 #### (B) Monitoring, initial health evaluation, and treatment costs
 
@@ -106,7 +106,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 #### (E) Scientific reports
 
-&emsp;&emsp;A summary of the findings of any new scientific reports or studies on the health effects associated with exposure described in section 300mm–5(1) of this title, including the findings of research conducted under section 300mm–51(a) of this title.
+&emsp;&emsp;A summary of the findings of any new scientific reports or studies on the health effects associated with exposure described in section 300mm–5(1) of this title, including the findings of research conducted under subsection (a) or (c) of section 300mm–51 of this title.
 
 #### (F) Advisory Committee recommendations
 
@@ -158,7 +158,7 @@ The WTC Program Administrator shall engage in ongoing outreach and consultation 
 
 &emsp;&emsp;(A) consult the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the objectives in assessing the WTC Program; and
 
-&emsp;&emsp;(B) prepare and submit to such Committees a report that assesses the WTC Program for the applicable reporting period, including the objectives described in subparagraph (A).
+&emsp;&emsp;(B) prepare and submit to such Committees a report that assesses the WTC Programfor the applicable reporting period, including the objectives described in subparagraph (A).
 
 #### (j) Regulations
 
@@ -168,11 +168,13 @@ The WTC Program Administrator is authorized to promulgate such regulations as th
 
 The WTC Program shall terminate on October 1, 2090.
 
-(July 1, 1944, ch. 373, title XXXIII, §3301, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3624; amended Pub. L. 114–113, div. O, title III, §302(b), Dec. 18, 2015, 129 Stat. 2998.)
+(July 1, 1944, ch. 373, title XXXIII, §3301, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3624; amended Pub. L. 114–113, div. O, title III, §302(b), Dec. 18, 2015, 129 Stat. 2998; Pub. L. 117–328, div. FF, title VII, §7702(c), Dec. 29, 2022, 136 Stat. 5967.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(2)(E). Pub. L. 117–328 substituted "subsection (a) or (c) of section 300mm–51 of this title" for "section 300mm–51(a) of this title".
 
 <b>2015</b>—Subsecs. (i) to (k). Pub. L. 114–113 added subsecs. (i) to (k).
 

@@ -10,7 +10,7 @@ Except as provided in subsection (c)(4), the Secretary of the Interior may asses
 
 #### (b) Persons liable
 
-In addition to the person causing or permitting the discharge, the owner or owners of the oil at the time the discharge occurs shall be jointly, severally, and strictly liable for the full amount of penalties assessed pursuant to this section, except that the United States and the several States, and political subdivisions thereof, shall not be liable under this section.
+In addition to the person causing or permitting the discharge, the owner or owners of theoil at the time the discharge occurs shall be jointly, severally, and strictly liable for the full amount of penalties assessed pursuant to this section, except that the United States and the several States, and political subdivisions thereof, shall not be liable under this section.
 
 #### (c) Amount
 

@@ -16,7 +16,7 @@ Approval by commission.—(A) Within ninety days after receipt of a land use ord
 
 (B) If approval is denied, the Commission shall state the reasons for finding the ordinance is inconsistent with the management plan, and shall submit to the county suggested modifications to the ordinance to make it consistent with the management plan.
 
-(C) Each county shall have ninety days after it receives recommendations from the Commission to make modifications designed to eliminate the inconsistencies and to resubmit the ordinance to the Commission for approval. The Commission shall have sixty days to approve or disapprove the resubmitted ordinance. Any resubmitted ordinance shall become effective upon approval. Should the Commission disapprove the resubmitted ordinance, it shall promptly resubmit the ordinance for reconsideration. Should the Commission fail to act within sixty days, the ordinance shall be deemed to be approved.
+(C) Each county shall have ninety days after it receives recommendations from the Commission to make modifications designed to eliminate theinconsistencies and to resubmit the ordinance to the Commission for approval. The Commission shall have sixty days to approve or disapprove the resubmitted ordinance. Any resubmitted ordinance shall become effective upon approval. Should the Commission disapprove the resubmitted ordinance, it shall promptly resubmit the ordinance for reconsideration. Should the Commission fail to act within sixty days, the ordinance shall be deemed to be approved.
 
 #### (c) Commission land use ordinances
 

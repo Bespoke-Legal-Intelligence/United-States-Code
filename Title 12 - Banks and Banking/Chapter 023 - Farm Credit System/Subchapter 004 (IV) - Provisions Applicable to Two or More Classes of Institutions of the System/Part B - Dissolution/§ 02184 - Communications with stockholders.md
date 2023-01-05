@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A Farm Credit System bank or association shall provide to a stockholder of the bank or association a current list of stockholders of the bank or association not later than 7 calendar days after the date on which the bank or association receives a written request for the stockholder list from the stockholder.
+&emsp;A Farm Credit System bank or association shall provide to a stockholder of the bank orassociation a current list of stockholders of the bank or association not later than 7 calendar days after the date on which the bank or association receives a written request for the stockholder list from the stockholder.
 
 #### (2) Conditions
 

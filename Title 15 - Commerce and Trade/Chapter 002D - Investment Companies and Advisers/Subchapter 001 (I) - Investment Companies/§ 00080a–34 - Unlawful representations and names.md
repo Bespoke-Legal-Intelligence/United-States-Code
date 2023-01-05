@@ -22,7 +22,7 @@
 
 #### (b) Unlawful representation of sponsorship by United States or agency thereof
 
-It shall be unlawful for any person registered under any section of this subchapter, to represent or imply in any manner whatsoever that such person has been sponsored, recommended, or approved, or that his abilities or qualifications have in any respect been passed upon bythe United States or any agency or officer thereof.
+It shall be unlawful for any person registered under any section of this subchapter, to represent or imply in any manner whatsoever that such person has been sponsored, recommended, or approved, or that his abilities or qualifications have in any respect been passed upon by the United States or any agency or officer thereof.
 
 #### (c) Statement of registration under securities provisions
 

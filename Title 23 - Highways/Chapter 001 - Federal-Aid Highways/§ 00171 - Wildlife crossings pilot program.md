@@ -58,7 +58,7 @@ In general.—To be eligible to receive a grant under the pilot program, an elig
 
 &emsp;(2)
 
-Requirement.—If an application under paragraph (1) is submitted by an eligible entity other than an eligible entity described in paragraph (1) or (7) of subsection (c), the application shall include documentation that the State highway agency, or an equivalent of that agency, of the State in which the eligibleentity is located was consulted during the development of the application.
+Requirement.—If an application under paragraph (1) is submitted by an eligible entity other than an eligible entity described in paragraph (1) or (7) of subsection (c), the application shall include documentation that the State highway agency, or an equivalent of that agency, of the State in which the eligible entity is located was consulted during the development of the application.
 
 &emsp;(3)
 

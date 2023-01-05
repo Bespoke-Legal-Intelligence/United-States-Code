@@ -8,9 +8,9 @@
 
 &emsp;&emsp;(A) to the extent practicable, carry out and expand any evidence-based prevention activities described in paragraph (2);
 
-&emsp;&emsp;(B) provide training and technical assistance to States, localities, and Indian tribes for purposes of carrying out such activity; and
+&emsp;&emsp;(B) provide training and technical assistance to States, localities, and Indian Tribes for purposes of carrying out such activity; and
 
-&emsp;&emsp;(C) award grants to States, localities, and Indian tribes for purposes of carrying out such activity.
+&emsp;&emsp;(C) award grants to States, localities, and Indian Tribes for purposes of carrying out such activity.
 
 #### (2) Evidence-based prevention activities
 
@@ -66,11 +66,11 @@
 
 &emsp;&emsp;(A) to the extent practicable, carry out any controlled substance overdose data collection activities described in paragraph (2);
 
-&emsp;&emsp;(B) provide training and technical assistance to States, localities, and Indian tribes for purposes of carrying out such activity;
+&emsp;&emsp;(B) provide training and technical assistance to States, localities, and Indian Tribes for purposes of carrying out such activity;
 
-&emsp;&emsp;(C) award grants to States, localities, and Indian tribes for purposes of carrying out such activity; and
+&emsp;&emsp;(C) award grants to States, localities, and Indian Tribes for purposes of carrying out such activity; and
 
-&emsp;&emsp;(D) coordinate with the Assistant Secretary for Mental Health and Substance Useto collect data pursuant to section 290aa–4(d)(1)(A) of this title (relating to the number of individuals admitted to emergency departments as a result of the abuse of alcohol or other drugs).
+&emsp;&emsp;(D) coordinate with the Assistant Secretary for Mental Health and Substance Use to collect data pursuant to section 290aa–4(d)(1)(A) of this title (relating to the number of individuals admitted to emergency departments as a result of the abuse of alcohol or other drugs).
 
 #### (2) Controlled substance overdose data collection and analysis activities
 
@@ -84,11 +84,15 @@
 
 &emsp;&emsp;(D) Using data to help identify risk factors associated with controlled substance overdoses.
 
-&emsp;&emsp;(E) Supporting entities involved in providing information on controlled substance overdoses, such as coroners, medical examiners, and public health laboratories to improve accurate testing and standardized reporting of causes and contributing factors to controlled substances overdoses and analysis of various opioid analogues to controlled substance overdoses.
+&emsp;&emsp;(E) Supporting entities involved in providing information on controlled substanceoverdoses, such as coroners, medical examiners, and public health laboratories to improve accurate testing and standardized reporting of causes and contributing factors to controlled substances overdoses and analysis of various opioid analogues to controlled substance overdoses.
 
 &emsp;&emsp;(F) Working to enable and encourage the access, exchange, and use of information regarding controlled substance overdoses among data sources and entities.
 
-#### (c) Definitions
+#### (c) Priority
+
+In awarding grants to States under subsections (a) and (b), the Director of the Centers for Disease Control and Prevention may give priority to jurisdictions with a disproportionately high rate of drug overdoses or drug overdose deaths, as applicable.
+
+#### (d) Definitions
 
 In this section:
 
@@ -100,11 +104,11 @@ In this section:
 
 &emsp;The term "Indian tribe" has the meaning given that term in section 5304 of title 25.
 
-#### (d) Authorization of appropriations
+#### (e) Authorization of appropriations
 
 For purposes of carrying out this section, section 280g–3 of this title, and section 290bb–25g of this title, there is authorized to be appropriated $496,000,000 for each of fiscal years 2019 through 2023.
 
-(July 1, 1944, ch. 373, title III, §392A, as added Pub. L. 115–271, title VII, §7161(a), Oct. 24, 2018, 132 Stat. 4059.)
+(July 1, 1944, ch. 373, title III, §392A, as added Pub. L. 115–271, title VII, §7161(a), Oct. 24, 2018, 132 Stat. 4059; amended Pub. L. 117–328, div. FF, title I, §1271(b), Dec. 29, 2022, 136 Stat. 5686.)
 
 #### <b>Editorial Notes</b>
 
@@ -113,4 +117,10 @@ For purposes of carrying out this section, section 280g–3 of this title, and s
 A prior section 280b–1, act July 1, 1944, ch. 373, title III, §392, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(b), Nov. 15, 1990, 104 Stat. 2772; Pub. L. 102–531, title III, §§301, 312(d)(4), Oct. 27, 1992, 106 Stat. 3482, 3504; Pub. L. 103–183, title II, §203(a)(2), (b)(1), Dec. 14, 1993, 107 Stat. 2232, which related to prevention and control activities, was transferred to section 280b–0 of this title.
 
 Another prior section 280b–1, act July 1, 1944, ch. 373, title III, §391, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1059; amended Mar. 13, 1970, Pub. L. 91–212, §10(b)(3), 84 Stat. 66; July 23, 1974, Pub. L. 93–353, title II, §202(b), 88 Stat. 372, defined "sciences related to health", "National Medical Libraries Assistance Advisory Board", "Board", and "medical library", prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
+
+#### Amendments
+
+<b>2022</b>—Subsecs. (a)(1)(B), (C), (b)(1)(B), (C). Pub. L. 117–328, §1271(b)(2), substituted "Indian Tribes" for "Indian tribes".
+
+Subsecs. (c) to (e). Pub. L. 117–328, §1271(b)(1), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

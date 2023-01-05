@@ -26,7 +26,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in paragraph (7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
-> &emsp;For purposes of the preceding sentence, any amount properly taken into account after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to anycontract to have the preceding sentence not apply to such contract.
+> &emsp;For purposes of the preceding sentence, any amount properly taken into account after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.
 
 #### (3) Special rules
 
@@ -130,7 +130,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (ii) Look-back method
 
-&emsp;&emsp;&emsp;The 10-percent method shall be taken into account for purposes of applying thelook-back method of paragraph (2) to any taxpayer making an election under this paragraph.
+&emsp;&emsp;&emsp;The 10-percent method shall be taken into account for purposes of applying the look-back method of paragraph (2) to any taxpayer making an election under this paragraph.
 
 #### (6) Election to have look-back method not apply in de minimis cases
 
@@ -210,7 +210,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;&emsp;&emsp;(I) the contract commencement date, or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a taxpayer who uses an accrual method with respect to long-term contracts, the date by which at least 5 percent of the total estimated costs (including design and planning costs) under the contract have been incurred, and
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a taxpayer who uses an accrual method with respect to long-term contracts, the date by which at least 5 percent of the total estimated costs (including design and planningcosts) under the contract have been incurred, and
 
 &emsp;&emsp;&emsp;(ii) ending on the contract completion date.
 
@@ -388,7 +388,7 @@ Subsec. (c)(6)(B)(ii). Pub. L. 114–113, §143(a)(2), substituted "January 1, 2
 
 <b>2010</b>—Subsec. (c)(6). Pub. L. 111–240 added par. (6).
 
-<b>1997</b>—Subsec. (b)(2)(C). Pub. L. 105–34, §1211(b)(1), substituted "the adjusted overpayment rate (as defined in paragraph (7))" for "the overpayment rate established by section 6621".
+<b>1997</b>—Subsec. (b)(2)(C). Pub. L. 105–34, §1211(b)(1), substituted "the adjusted overpayment rate (as defined inparagraph (7))" for "the overpayment rate established by section 6621".
 
 Subsec. (b)(6). Pub. L. 105–34, §1211(a), added par. (6).
 
@@ -400,7 +400,7 @@ Subsec. (e)(6)(B). Pub. L. 104–188, §1702(h)(15), substituted "section 168(e)
 
 <b>1990</b>—Subsec. (e)(6)(A)(i). Pub. L. 101–508 substituted "section 168(e)(2)(A)(ii)" for "section 167(k)".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted "Requirement that percentage of completion methodbe used" for "Percentage of completion-capitalized cost method" in heading and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted "Requirement that percentage of completion method be used" for "Percentage of completion-capitalized cost method" in heading and amended text generally. Prior to amendment, text read as follows:
 
 "(1)
 

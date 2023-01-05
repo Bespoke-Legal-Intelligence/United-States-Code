@@ -10,7 +10,7 @@ The classes of employees whose compensation is authorized by section 3 of the Le
 
 Section 3 of the Legislative Pay Act of 1929, as amended (40 Stat. 38; 55 Stat. 615), referred to in text, which was an amendment of the Classification Act of 1923 and which was classified to section 662 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by section 1202 of the Classification Act of 1949, Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
-The Classification Act of 1923, as amended, referred to in text, is act Mar. 4, 1923, ch. 265, 42 Stat. 1488, as amended, which was classified to section 661 et seq. of such former Title 5, and was repealed by section 1202 of the Classification Act of 1949.
+The Classification Act of 1923, referred to in text, is act Mar. 4, 1923, ch. 265, 42 Stat. 1488, as amended, which was classified to section 661 et seq. of such former Title 5, and was repealed by section 1202 of the Classification Act of 1949.
 
 #### Codification
 
@@ -20,5 +20,5 @@ Section is comprised of section 204(a) of act Oct. 28, 1949. Subsections (b) and
 
 Section was classified to section 1084(a) of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-"Chapter 51 and subchapter III of chapter 53 of title 5" substituted in text for "this Act", referring to the Classification Act of 1949, on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5.
+"Chapter 51 and subchapter III of chapter 53 of title 5" substituted in text for "this Act", referring to theClassification Act of 1949, on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5.
 

@@ -16,7 +16,7 @@ If—
 
 &emsp;&emsp;(D) provides such information but the information cannot be verified as provided in section 1677m(i) of this title,
 
-> the administering authority and the Commission shall, subject to section 1677m(d) of this title, use the facts otherwise available in reaching the applicable determination under this subtitle.
+> the administering authority and the Commission shall, subject to section 1677m(d) of thistitle, use the facts otherwise available in reaching the applicable determination under this subtitle.
 
 #### (b) Adverse inferences
 
@@ -84,7 +84,7 @@ If—
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–27, §502(1), inserted par. (1) designation and heading before "If the administering", substituted "under this subtitle—" for "under this subtitle, may use", inserted "(A) may use" before "an inference that is adverse", substituted "facts otherwise available; and" for "facts otherwise available. Such adverse inference may include", added subpar. (B), inserted par. (2) designation, heading, and "An adverse inference under paragraph (1)(A) may include" before "reliance on information", and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (2) and realigned margins.
 
-Subsec. (c). Pub. L. 114–27, §502(2), designated existing provisions as par. (1) and inserted heading, substituted"Except as provided in paragraph (2), when the" for "When the", and added par. (2).
+Subsec. (c). Pub. L. 114–27, §502(2), designated existing provisions as par. (1) and inserted heading, substituted "Except as provided in paragraph (2), when the" for "When the", and added par. (2).
 
 Subsec. (d). Pub. L. 114–27, §502(3), added subsec. (d).
 

@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 109–364, §2851(b)(3)(D)(iii), struck out subsec. (c) whi
 
 Subsec. (c)(2), (3). Pub. L. 101–510, §2852(a), added par. (2) and struck out former pars. (2) and (3) which read as follows:
 
-"(2) A determination under paragraph (1) of whether a cost-differential can be recovered over the expected life of a system shall be made using accepted life-cycle costing procedures and shall include—
+"(2) A determination under paragraph (1) of whether a cost-differential can be recovered over the expectedlife of a system shall be made using accepted life-cycle costing procedures and shall include—
 
 &emsp;"(A) the use of all capital expenses and all operating and maintenance expenses associated with the energy system using solar energy or other renewable forms of energy, and not using such a form of energy, over the expected life of the system or during a period of 25 years, whichever is shorter;
 

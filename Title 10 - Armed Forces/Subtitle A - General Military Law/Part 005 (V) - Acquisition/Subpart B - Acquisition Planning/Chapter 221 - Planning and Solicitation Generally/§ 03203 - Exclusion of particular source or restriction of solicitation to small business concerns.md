@@ -6,7 +6,7 @@ Exclusion of Particular Source.—
 
 &emsp;(1)
 
-Criteria for exclusion.—The head of an agency may provide for the procurement of property or services covered by chapter 137 legacy provisions using competitive procedures but excluding a particular source in order to establish or maintain an alternative source or sources of supply for that property or service if the head of the agency determines that to do so—
+Criteria for exclusion.—The head of an agency may provide for the procurement ofproperty or services covered by chapter 137 legacy provisions using competitive procedures but excluding a particular source in order to establish or maintain an alternative source or sources of supply for that property or service if the head of the agency determines that to do so—
 
 &emsp;&emsp;(A) would increase or maintain competition and would likely result in reduced overall costs for such procurement, or for any anticipated procurement, of property or services;
 

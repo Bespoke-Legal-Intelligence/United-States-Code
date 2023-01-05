@@ -4,7 +4,7 @@ As used in this chapter—
 
 (a) The term "gambling device" means—
 
-&emsp;(1) any so-called "slot machine" or any other machine or mechanical device an essential part of which is a drum or reel with insignia thereon, and (A) which when operated maydeliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
+&emsp;(1) any so-called "slot machine" or any other machine or mechanical device an essential part of which is a drum or reel with insignia thereon, and (A) which when operated may deliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
 
 &emsp;(2) any other machine or mechanical device (including, but not limited to, roulette wheels and similar devices) designed and manufactured primarily for use in connection with gambling, and (A) which when operated may deliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
 
@@ -38,7 +38,7 @@ Subsecs. (d) and (e). Pub. L. 87–840, §3, added subsecs. (d) and (e).
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–840, §7, Oct. 18, 1962, 76 Stat. 1077, provided that: "The amendments made by this Act \[enacting section 1178 of this title and amending this section and sections 1172 and 1173 of this title\] shall take effect on the sixtieth day after the date of its enactment \[Oct. 18, 1962\]."
+Pub. L. 87–840, §7, Oct. 18, 1962, 76 Stat. 1077, provided that: "The amendments made by this Act \[enactingsection 1178 of this title and amending this section and sections 1172 and 1173 of this title\] shall take effect on the sixtieth day after the date of its enactment \[Oct. 18, 1962\]."
 
 #### Short Title of 1962 Amendment
 

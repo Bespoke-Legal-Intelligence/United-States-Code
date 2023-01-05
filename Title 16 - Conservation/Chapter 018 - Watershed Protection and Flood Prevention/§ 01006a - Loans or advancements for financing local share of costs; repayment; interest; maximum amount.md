@@ -12,7 +12,7 @@ Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supple
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 added second sentence and struck out former second sentence which read as follows: "Such loans or advancements shall be made under contracts or agreements which will provide, under such terms and conditions as the Secretary deems appropriate, for the repayment thereof in not more than fifty years from the date when the principal benefits of the works of improvement first become available, with interest at the average rate, as determined by the Secretary of the Treasury, payable by the Treasury upon its marketable public obligations outstanding at the beginning of the fiscal year in which the loan or advancement is made, which are neither due nor callable for redemption for fifteen years from date of issue."
+<b>1996</b>—Pub. L. 104–127 added second sentence and struck out former second sentence which read as follows: "Such loans or advancements shall be made under contracts or agreements which will provide, under such terms and conditions as the Secretary deems appropriate, for the repayment thereof in not more than fifty years from the date when the principal benefits of the works of improvement first become available, with interest at the average rate, as determined by the Secretary of the Treasury, payable by the Treasury uponits marketable public obligations outstanding at the beginning of the fiscal year in which the loan or advancement is made, which are neither due nor callable for redemption for fifteen years from date of issue."
 
 <b>1977</b>—Pub. L. 95–113 substituted "$10,000,000" for "five million dollars" as the maximum amount of a loan or advancement for any single plan for works of improvement.
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Extension of Benefits to Projects Authorized Before Aug. 7, 1956
 
-Section as applicable to all works of improvement and plans for such works under the provisions of thischapter, see Extension of Benefits note set out under section 1001 of this title.
+Section as applicable to all works of improvement and plans for such works under the provisions of this chapter, see Extension of Benefits note set out under section 1001 of this title.
 
 #### <b>Executive Documents</b>
 

@@ -45,7 +45,7 @@
 | [<b>247.</b>](Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20247%20-%20Procurement%20of%20Commercial%20Products%20and%20Commercial%20Services/README.md) | <b>Procurement of Commercial Products and Commercial Services</b> | <b>3451</b> |
 | [<b>249.</b>](Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20249%20-%20Multiyear%20Contracts/README.md) | <b>Multiyear Contracts</b> | <b>3501</b> |
 | [<b>251.</b>](Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20251%20-%20Simplified%20Acquisition%20Procedures/README.md) | <b>Simplified Acquisition Procedures</b> | <b>3571</b> |
-| [<b>253.</b>](Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20253%20-%20%5BReserved/README.md) | <b>\[Reserved\]</b> |  |
+| [<b>253.</b>](Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20253%20-%20Rapid%20Acquisition%20Procedures/README.md) | <b>Rapid Acquisition Procedures</b> | <b>3601</b> |
 | [<b>255.</b>](Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20255%20-%20Contracting%20with%20or%20Through%20Other%20Agencies/README.md) | <b>Contracting With or Through Other Agencies</b> | <b>3651</b> |
 | [<b>257.</b>](Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20257%20-%20Contracts%20for%20Long-Term%20Lease%20or%20Charter%20of%20Vessels%2C%20Aircraft%2C%20and%20Combat%20Vehicles/README.md) | <b>Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat Vehicles</b> | <b>3671</b> |
 | [<b>258.</b>](Subpart%20C%20-%20Contracting%20Methods%20and%20Contract%20Types/Chapter%20258%20-%20Other%20Types%20of%20Contracts%20Used%20for%20Procurements%20for%20Particular%20Purposes/README.md) | <b>Other Types of Contracts Used for Procurements for Particular Purposes</b> | <b>3681</b> |
@@ -140,6 +140,8 @@
 Capitalization in subpart items in this analysis was editorially reformatted from the original to conform to their corresponding subpart headings.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title VIII, §804(b), Dec. 23, 2022, 136 Stat. 2701, added item for chapter 253 and struck out former item for chapter 253 "\[Reserved\]".
 
 <b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(i)(8)(A), (l)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting "\[Reserved\]" for "Foreign Acquisitions" and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 "Socioeconomic Programs", was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (l) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
 

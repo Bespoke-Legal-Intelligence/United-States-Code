@@ -90,7 +90,7 @@ There is established a program, to be known as the "Transmission Facilitation Pr
 
 #### (3) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to the Secretary to carry out the program, including for any administrative expenses of carrying out the program that are not recovered under paragraph (4), $10,000,000 for each of fiscal years 2022 through 2026.
+&emsp;There is authorized to be appropriated to the Secretary to carry out the program, including for any administrative expenses of carryingout the program that are not recovered under paragraph (4), $10,000,000 for each of fiscal years 2022 through 2026.
 
 #### (4) Cost recovery
 
@@ -184,7 +184,7 @@ There is established a program, to be known as the "Transmission Facilitation Pr
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall seek to terminate a capacity contract as soon as practicable after determining that sufficient transmission capacity of the eligible project has been secured by other entities to ensure the long-term financial viability of the eligible project, including through 1 or more transfers under subparagraph (B).
+&emsp;&emsp;The Secretary shall seek to terminate a capacity contract as soon as practicableafter determining that sufficient transmission capacity of the eligible project has been secured by other entities to ensure the long-term financial viability of the eligible project, including through 1 or more transfers under subparagraph (B).
 
 #### (B) Transfer
 
@@ -254,7 +254,7 @@ Prior to taking action to facilitate an eligible project under subparagraph (A),
 
 #### (1) Participation
 
-&emsp;The Secretary may permit other entities to participate in the financing, construction, andownership of eligible projects facilitated under this section.
+&emsp;The Secretary may permit other entities to participate in the financing, construction, and ownership of eligible projects facilitated under this section.
 
 #### (2) Operations and maintenance
 

@@ -114,7 +114,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) an industrial coatings applicator training program registered under the Act of August 16, 1937 (popularly known as the "National Apprenticeship Act"; 29 U.S.C. 50 et seq.).
 
-(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699; Pub. L. 114–328, div. A, title IX, §954(a), (b), Dec. 23, 2016, 130 Stat. 2376, 2377; Pub. L. 115–232, div. A, title VIII, §811(a), Aug. 13, 2018, 132 Stat. 1845; Pub. L. 116–92, div. A, title VIII, §861(j)(13), title XVII, §1731(a)(32), Dec. 20, 2019, 133 Stat. 1520, 1814; Pub. L. 117–81, div. A, title VIII, §813, Dec. 27, 2021, 135 Stat. 1823.)
+(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699; Pub. L. 114–328, div. A, title IX, §954(a), (b), Dec. 23, 2016, 130 Stat. 2376, 2377; Pub. L. 115–232, div. A, title VIII, §811(a), Aug. 13, 2018, 132 Stat. 1845; Pub. L. 116–92, div. A, title VIII, §861(j)(13), title XVII,§1731(a)(32), Dec. 20, 2019, 133 Stat. 1520, 1814; Pub. L. 117–81, div. A, title VIII, §813, Dec. 27, 2021, 135 Stat. 1823.)
 
 #### <b>Editorial Notes</b>
 
@@ -212,7 +212,7 @@ Recommended Actions.—The recommended actions described in this subsection are 
 
 &emsp;"(2) The documentation of program-specific recommendations made as a result of such corrosion study with regard to the other weapon systems identified in the study, specifically the CH–53K helicopter, the Joint High Speed Vessel, the Broad Area Maritime Surveillance Unmanned Aircraft System, and the Joint Light Tactical Vehicle, and the establishment of a process for monitoring and assessing the effectiveness of the corrosion prevention and control programs implemented for such weapons systems in response to such recommendations.
 
-&emsp;"(3) The documentation of Air Force-specific and Navy-specific recommendations made as a result ofsuch corrosion study and the establishment of a process for monitoring and assessing the effectiveness of the corrective actions taken by the Air Force and the Navy in response to such recommendations.
+&emsp;"(3) The documentation of Air Force-specific and Navy-specific recommendations made as a result of such corrosion study and the establishment of a process for monitoring and assessing the effectiveness of the corrective actions taken by the Air Force and the Navy in response to such recommendations.
 
 &emsp;"(4) The documentation of Department of Defense-wide recommendations made as a result of such corrosion study, the implementation of any needed changes in policies and practices to improve corrosion prevention and control in new systems acquired by the Department, and the establishment of a process for monitoring and assessing the effectiveness of the corrective actions taken by the Department in response to such recommendations.
 
@@ -292,7 +292,7 @@ Duties.—(1) The corrosion control and prevention executive of a military depar
 
 #### Deadline for Designation of Responsible Official or Organization; Interim Report; Deadline for Long-Term Strategy; GAO Review
 
-Pub. L. 107–314, div. A, title X, §1067(b)–(e), Dec. 2, 2002, 116 Stat. 2658, 2659, directed the Secretary of Defense to designate a responsible official or organization under subsec. (a) of this section not later than 90 days after Dec. 2, 2002, directed the Secretary to submit to Congress a report setting forth the long-term strategyrequired under subsec. (c) of this section not later than one year after Dec. 2, 2002, and required the Comptroller General to monitor the implementation of such long-term strategy and, not later than 18 months after Dec. 2, 2002, to submit to Congress an assessment of the extent to which that strategy had been implemented.
+Pub. L. 107–314, div. A, title X, §1067(b)–(e), Dec. 2, 2002, 116 Stat. 2658, 2659, directed the Secretary of Defense to designate a responsible official or organization under subsec. (a) of this section not later than 90 days after Dec. 2, 2002, directed the Secretary to submit to Congress a report setting forth the long-term strategy required under subsec. (c) of this section not later than one year after Dec. 2, 2002, and required the Comptroller General to monitor the implementation of such long-term strategy and, not later than 18 months after Dec. 2, 2002, to submit to Congress an assessment of the extent to which that strategy had been implemented.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

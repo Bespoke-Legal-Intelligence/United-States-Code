@@ -32,7 +32,7 @@ The predictive analytics technologies used by the Secretary shall—
 
 #### (1) Request for proposals
 
-&emsp;Not later than January 1, 2011, the Secretary shall issue a request for proposals to carry out this section during the first year of implementation. To the extent the Secretary determines appropriate—
+&emsp;Not later than January 1, 2011, the Secretary shall issue a request for proposals to carry outthis section during the first year of implementation. To the extent the Secretary determines appropriate—
 
 &emsp;&emsp;(A) the initial request for proposals may include subsequent implementation years; and
 
@@ -104,7 +104,7 @@ The predictive analytics technologies used by the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) specifies the actual and projected savings to the Medicare fee-for-service program as a result of the use of predictive analytics technologies, including estimates of the amounts of such savings with respect to both improper payments recovered and improper payments avoided;
 
-&emsp;&emsp;&emsp;(ii) the actual and projected savings to the Medicare fee-for-service program as a result of such use of predictive analytics technologies relative to the return on investment for the use of such technologies and in comparison to other strategies or technologies used to prevent and detect fraud, waste, and abuse in the Medicare fee-for-service program; and
+&emsp;&emsp;&emsp;(ii) the actual and projected savings to the Medicare fee-for-service program as aresult of such use of predictive analytics technologies relative to the return on investment for the use of such technologies and in comparison to other strategies or technologies used to prevent and detect fraud, waste, and abuse in the Medicare fee-for-service program; and
 
 &emsp;&emsp;&emsp;(iii) includes recommendations regarding—
 
@@ -172,7 +172,7 @@ In this section:
 
 #### (1) Commonwealths and territories
 
-&emsp;The term "commonwealth and territories" includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States in which the Medicare fee-for-service program, Medicaid, or CHIP operates.
+&emsp;The term "commonwealth and territories" includes the Commonwealth of Puerto Rico,the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States in which the Medicare fee-for-service program, Medicaid, or CHIP operates.
 
 #### (2) CHIP
 

@@ -10,7 +10,7 @@ Any person who forcibly assaults, resists, opposes, impedes, intimidates, or int
 
 #### (c) Procedures
 
-For the efficient administration and enforcement of this chapter and the regulations and standards promulgated under this chapter, theprovisions (including penalties) of sections 46, 48, 49 and 50 of title 15 (except paragraph (c) through (h) of section 46 and the last paragraph of section 49 <sup>1</sup> of title 15), and the provisions of Title II of the Organized Crime Control Act of 1970, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person, firm, or corporation with respect to whom such authority is exercised. The Secretary may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, including any territory, or possession thereof, the District of Columbia, or the Commonwealth of Puerto Rico. The powers conferred by said sections 49 and 50 of title 15 on the district courts of the United States may be exercised for the purposes of this chapter by any district court of the United States. The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories, are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of this chapter, and shall have jurisdiction in all other kinds of cases arising under this chapter, except as provided in section 2149(c) of this title.
+For the efficient administration and enforcement of this chapter and the regulations and standards promulgated under this chapter, the provisions (including penalties) of sections 46, 48, 49 and 50 of title 15 (except paragraph (c) through (h) of section 46 and the last paragraph of section 49 <sup>1</sup> of title 15), and the provisions of Title II of the Organized Crime Control Act of 1970, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person, firm, or corporation with respect to whom such authority is exercised. The Secretary may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, including any territory, or possession thereof, the District of Columbia, or the Commonwealth of Puerto Rico. The powers conferred by said sections 49 and 50 of title 15 on the district courts of the United States may be exercised for the purposes of this chapter by any district court of the United States. The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories, are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of this chapter, and shall have jurisdiction in all other kinds of cases arising under this chapter, except as provided in section 2149(c) of this title.
 
 (Pub. L. 89–544, §16, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, §17, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, §12, Apr. 22, 1976, 90 Stat. 420; Pub. L. 99–198, title XVII, §1753, Dec. 23, 1985, 99 Stat. 1649; Pub. L. 101–624, title XXV, §2503(1), Nov. 28, 1990, 104 Stat. 4066.)
 
@@ -20,7 +20,7 @@ For the efficient administration and enforcement of this chapter and the regulat
 
 The last paragraph of section 49 of title 15, referred to in subsec. (c), which related to immunity of witnesses, was repealed by section 211 of Pub. L. 91–452, Oct. 15, 1970, title II, 84 Stat. 929. For provisions relating to immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
-Title II of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title II of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 926, as amended, which created a general Federal immunity statute set out in section 6001 et seq. of Title 18, and repealed the individual immunity provisions formerly contained in various Federal regulatory schemes.
+Title II of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title II of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 926, which created a general Federal immunity statute set out in section 6001 et seq. of Title 18, and repealed the individual immunity provisions formerly contained in various Federal regulatory schemes.
 
 #### Amendments
 
@@ -43,6 +43,10 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–579 effective 30 days after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
+
+#### Non-recording of Observed Violations of Animal Welfare Act
+
+Pub. L. 117–328, div. A, title VII, §756, Dec. 29, 2022, 136 Stat. 4506, provided that: "Hereafter, none of the funds made available by this Act \[div. A of Pub. L. 117–328, see Tables for classification\] or any other Act, may be used to pay the salaries or expenses of personnel to implement any activities related to the permitting of non-recording of observed violations of the Animal Welfare Act or its regulations on official inspection reports."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

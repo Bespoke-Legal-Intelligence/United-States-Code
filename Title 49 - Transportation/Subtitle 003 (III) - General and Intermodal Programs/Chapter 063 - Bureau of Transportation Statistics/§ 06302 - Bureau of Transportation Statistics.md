@@ -140,7 +140,7 @@ Exceptions.—The Secretary shall direct external support functions, such as the
 
 &emsp;(4)
 
-Information technology.—The Department Chief Information Officer shall consult with the Director to ensure decisions relatedto information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with section 3572 of title 44.
+Information technology.—The Department Chief Information Officer shall consult with the Director to ensure decisions related to information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with section 3572 of title 44.
 
 (Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 887; amended Pub. L. 114–94, div. A, title I, §1446(b), title VI, §§6011(d)(2), 6017, Dec. 4, 2015, 129 Stat. 1438, 1570, 1575; Pub. L. 115–435, title III, §302(c)(3)(A), Jan. 14, 2019, 132 Stat. 5553; Pub. L. 117–58, div. B, title V, §25004(b), Nov. 15, 2021, 135 Stat. 839.)
 

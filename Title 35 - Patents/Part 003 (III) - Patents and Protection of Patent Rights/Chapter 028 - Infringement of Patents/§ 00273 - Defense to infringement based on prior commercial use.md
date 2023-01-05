@@ -50,7 +50,7 @@ Transfer of right.—Except for any transfer to the patent owner, the right to a
 
 &emsp;&emsp;(C)
 
-Restriction on sites.—A defense under this section, when acquired by a person as part of an assignment or transfer described in subparagraph (B), may only be asserted for uses at sites where the subject matter that would otherwise infringe a claimed invention is in use before the later of the effective filing date of the claimed invention or the date of the assignment or transfer of such enterprise or line of business.
+Restriction on sites.—A defense under this section, when acquired by a person as part of an assignment or transfer described in subparagraph (B), may only be asserted for uses at sites where the subject matter that would otherwise infringe a claimed invention is in use before the later of the effective filing date of the claimed invention orthe date of the assignment or transfer of such enterprise or line of business.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ University exception.—
 
 &emsp;&emsp;(A)
 
-In general.—A person commercially using subject matter to which subsection (a) applies may not assert a defense under this section if the claimed invention with respect to which the defense is asserted was, at the time the invention was made, owned or subject to an obligation of assignment to either an institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)),<sup>1</sup> or atechnology transfer organization whose primary purpose is to facilitate the commercialization of technologies developed by one or more such institutions of higher education.
+In general.—A person commercially using subject matter to which subsection (a) applies may not assert a defense under this section if the claimed invention with respect to which the defense is asserted was, at the time the invention was made, owned or subject to an obligation of assignment to either an institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)),<sup>1</sup> or a technology transfer organization whose primary purpose is to facilitate the commercialization of technologies developed by one or more such institutions of higher education.
 
 &emsp;&emsp;(B)
 

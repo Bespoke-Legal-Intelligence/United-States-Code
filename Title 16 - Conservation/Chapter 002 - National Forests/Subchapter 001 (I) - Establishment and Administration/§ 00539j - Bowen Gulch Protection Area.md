@@ -12,7 +12,7 @@ The Secretary shall administer the protection area in accordance with this secti
 
 #### (c) Withdrawal
 
-Subject to valid existing rights, all lands within the protection area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws, and from disposition under the mineral and geothermal leasing laws, including all amendments thereto.
+Subject to valid existing rights, all lands within the protection area are hereby withdrawnfrom all forms of entry, appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws, and from disposition under the mineral and geothermal leasing laws, including all amendments thereto.
 
 #### (d) Development
 
@@ -54,7 +54,7 @@ Bowen Gulch Protection Area.—The Secretary of Agriculture shall include all Fe
 
 "(c)
 
-Land and Water Conservation Fund.—For purposes of section 200306(a)(2)(B)(i) of title 54, UnitedStates Code, the boundaries of the Arapaho National Forest, as modified under subsection (a), shall be considered to be the boundaries of the Arapaho National Forest as in existence on January 1, 1965.
+Land and Water Conservation Fund.—For purposes of section 200306(a)(2)(B)(i) of title 54, United States Code, the boundaries of the Arapaho National Forest, as modified under subsection (a), shall be considered to be the boundaries of the Arapaho National Forest as in existence on January 1, 1965.
 
 "(d)
 

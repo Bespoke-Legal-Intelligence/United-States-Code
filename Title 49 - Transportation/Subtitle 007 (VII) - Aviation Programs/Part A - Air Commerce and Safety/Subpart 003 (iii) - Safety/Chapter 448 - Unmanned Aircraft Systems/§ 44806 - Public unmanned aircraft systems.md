@@ -6,7 +6,7 @@ Guidance.—The Secretary of Transportation shall issue guidance regarding the o
 
 &emsp;(1) to streamline and expedite the process for the issuance of a certificate of authorization or a certificate of waiver;
 
-&emsp;(2) to facilitate the capability of public agencies to develop and use test ranges, subject to operating restrictions required by the Federal Aviation Administration, to test andoperate public unmanned aircraft systems; and
+&emsp;(2) to facilitate the capability of public agencies to develop and use test ranges, subject to operating restrictions required by the Federal Aviation Administration, to test and operate public unmanned aircraft systems; and
 
 &emsp;(3) to provide guidance on a public agency's responsibilities when operating an unmanned aircraft without a civil airworthiness certificate issued by the Administration.
 
@@ -50,7 +50,7 @@ Public Actively Tethered Unmanned Aircraft Systems.—
 
 &emsp;(1)
 
-In general.—Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration shall permit the use of, and may issue guidance regarding, the use of public actively tethered unmanned aircraft systems that are—
+In general.—Not later than 180 days after the date of enactment of this Act, theAdministrator of the Federal Aviation Administration shall permit the use of, and may issue guidance regarding, the use of public actively tethered unmanned aircraft systems that are—
 
 &emsp;&emsp;(A) operated at an altitude of less than 150 feet above ground level;
 

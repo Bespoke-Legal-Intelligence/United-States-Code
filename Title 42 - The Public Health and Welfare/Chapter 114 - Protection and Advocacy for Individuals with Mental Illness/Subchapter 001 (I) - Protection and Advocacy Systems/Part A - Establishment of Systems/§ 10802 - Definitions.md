@@ -20,7 +20,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) who has a significant mental illness or emotional impairment, as determined by a mental health professional qualified under the laws and regulations of the State; and
 
-&emsp;&emsp;(B)(i)(I) who is an inpatient or resident in a facility rendering care or treatment, even if the whereabouts of such inpatient or resident are unknown;
+&emsp;&emsp;(B)(i)(I) who is an inpatient or resident in a facility rendering care or treatment, evenif the whereabouts of such inpatient or resident are unknown;
 
 &emsp;&emsp;(II) who is in the process of being admitted to a facility rendering care or treatment, including persons being transported to such a facility; or"; <sup>2</sup>
 
@@ -42,7 +42,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in par. (2), is Pub. L.106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in par. (2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
 The Developmental Disabilities Assistance and Bill of Rights Act, referred to in par. (8), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part C of the Act was classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. Provisions similar to former part C of the Act are contained in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000, Pub. L. 106–402, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title.
 

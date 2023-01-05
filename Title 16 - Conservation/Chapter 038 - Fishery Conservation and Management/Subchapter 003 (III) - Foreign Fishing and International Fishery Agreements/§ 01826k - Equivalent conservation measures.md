@@ -2,37 +2,35 @@
 
 #### (a) Identification
 
-The Secretary shall identify, and list in the report under section 1826h of this title—
+#### (1) In general
 
-&emsp;(1) a nation if—
+&emsp;The Secretary shall identify and list in the report under section 1826h of this title—
 
-&emsp;&emsp;(A) fishing vessels of that nation are engaged, or have been engaged during the preceding 3 years in fishing activities or practices—
+&emsp;&emsp;(A) a nation if—
 
-&emsp;&emsp;&emsp;(i) in waters beyond any national jurisdiction that result in bycatch of a protected living marine resource; or
+&emsp;&emsp;&emsp;(i) any fishing vessel of that nation is engaged, or has been engaged during the 3 years preceding the date of the determination, in fishing activities or practices on the high seas or within the exclusive economic zone of any nation, that have resulted in bycatch of a protected living marine resource; and
 
-&emsp;&emsp;&emsp;(ii) beyond the exclusive economic zone of the United States that result in bycatch of a protected living marine resource shared by the United States;
+&emsp;&emsp;&emsp;(ii) the vessel's flag state has not adopted, implemented, and enforced a regulatory program governing such fishing designed to end or reduce such bycatch that is comparable in effectiveness to the regulatory program of the United States, taking into account differing conditions; and
 
-&emsp;&emsp;(B) the relevant international organization for the conservation and protection of such resources or the relevant international or regional fishery organization has failed to implement effective measures to end or reduce such bycatch, or the nation is not a party to, or does not maintain cooperating status with, such organization; and
+&emsp;&emsp;(B) a nation if—
 
-&emsp;&emsp;(C) the nation has not adopted a regulatory program governing such fishing practices designed to end or reduce such bycatch that is comparable to that of the United States, taking into account different conditions; and
+&emsp;&emsp;&emsp;(i) any fishing vessel of that nation is engaged, or has engaged during the 3 years preceding the date of the determination, in fishing activities on the high seas or within the exclusive economic zone of another nation that target or incidentally catch sharks; and
 
-&emsp;(2) a nation if—
+&emsp;&emsp;&emsp;(ii) the vessel's flag state has not adopted, implemented, and enforced a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark, including the tail, before landing the shark in port, that is comparable to that of the United States.
 
-&emsp;&emsp;(A) fishing vessels of that nation are engaged, or have been engaged during the preceding 3 years, in fishing activities or practices in waters beyond any national jurisdiction that target or incidentally catch sharks; and
+#### (2) Timing
 
-&emsp;&emsp;(B) the nation has not adopted a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea, that is comparable to that of the United States, taking into account different conditions.
+&emsp;The Secretary shall make an identification under paragraph (1) at any time that the Secretary has sufficient information to make such identification.
 
 #### (b) Consultation and negotiation
 
-The Secretary, acting through the Secretary of State, shall—
+The Secretary of State, acting in consultation with the Secretary, shall—
 
-&emsp;(1) notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of this section and this Act;
+&emsp;(1) notify, as soon as practicable, the President and nations that are engaged in, or that have any fishing vessels engaged in, fishing activities or practices described in subsection (a), about the provisions of this Act;
 
-&emsp;(2) initiate discussions as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, fishing activities or practices described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species;
+&emsp;(2) initiate discussions as soon as practicable with all foreign nations that are engaged in, or a fishing vessel of which has engaged in, fishing activities described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such nations to protect such species and to address any underlying failings or gaps that may have contributed to identification under this Act; and
 
-&emsp;(3) seek agreements calling for international restrictions on fishing activities or practices described in subsection (a) through the United Nations, the Food and Agriculture Organization's Committee on Fisheries, and appropriate international fishery management bodies; and
-
-&emsp;(4) initiate the amendment of any existing international treaty for the protection and conservation of such species to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section.
+&emsp;(3) initiate the amendment of any existing international treaty for the protection and conservation of such species to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section.
 
 #### (c) Conservation certification procedure
 
@@ -40,13 +38,13 @@ The Secretary, acting through the Secretary of State, shall—
 
 &emsp;The Secretary shall establish a procedure consistent with the provisions of subchapter II of chapter 5 of title 5 for determining whether the government of a harvesting nation identified under subsection (a) and listed in the report under section 1826h of this title—
 
-&emsp;&emsp;(A) has provided documentary evidence of the adoption of a regulatory program governing the conservation of the protected living marine resource that is comparable to that of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
+&emsp;&emsp;(A) has provided documentary evidence of the adoption of a regulatory program governing the conservation of the protected living marine resource that is comparable tothat of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
 
 &emsp;&emsp;(B) has established a management plan containing requirements that will assist in gathering species-specific data to support international stock assessments and conservation enforcement efforts for protected living marine resources.
 
 #### (2) Procedural requirement
 
-&emsp;The procedure established by the Secretary under paragraph (1) shall include notice and opportunity for comment by any such nation.
+&emsp;The procedure established by the Secretary under paragraph (1) shall include notice and opportunity for comment by the public and any such nation.
 
 #### (3) Certification
 
@@ -62,7 +60,7 @@ The Secretary, acting through the Secretary of State, shall—
 
 #### (5) Effect of certification
 
-&emsp;The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title (except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing) shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
+&emsp;The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
 
 #### (d) International cooperation and assistance
 
@@ -80,7 +78,15 @@ To the greatest extent possible consistent with existing authority and the avail
 
 In this section the term "protected living marine resource"—
 
-&emsp;(1) means non-target fish, sea turtles, or marine mammals that are protected under United States law or international agreement, including the Marine Mammal Protection Act \[16 U.S.C. 1361 et seq.\], the Endangered Species Act \[16 U.S.C. 1531 et seq.\], the Shark Finning Prohibition Act, and the Convention on International Trade in Endangered Species of Wild Flora and Fauna; but
+&emsp;(1) except as provided in paragraph (2), means nontarget fish, sea turtles, or marine mammals that are protected under United States law or international agreement, including—
+
+&emsp;&emsp;(A) the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.);
+
+&emsp;&emsp;(B) the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
+
+&emsp;&emsp;(C) the Shark Finning Prohibition Act (16 U.S.C. 1822 note); and
+
+&emsp;&emsp;(D) the Convention on International Trade in Endangered Species of Wild Fauna and Flora, done at Washington March 3, 1973 (27 UST 1087; TIAS 8249); but
 
 &emsp;(2) does not include species, except sharks, managed under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\], the Atlantic Tunas Convention Act \[16 U.S.C. 971 et seq.\], or any international fishery management agreement.
 
@@ -88,31 +94,47 @@ In this section the term "protected living marine resource"—
 
 There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
 
-(Pub. L. 104–43, title VI, §610, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3630; amended Pub. L. 111–348, title I, §102(c)(1), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, §101(d), (f), (g)(3), (i)(5), Nov. 5, 2015, 129 Stat. 654, 655; Pub. L. 114–327, title IV, §401(d), Dec. 16, 2016, 130 Stat. 1995.)
+(Pub. L. 104–43, title VI, §610, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3630; amended Pub. L. 111–348, title I, §102(c)(1), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, §101(d), (f), (g)(3), (i)(5), Nov. 5, 2015, 129 Stat. 654, 655; Pub. L. 114–327, title IV, §401(d), Dec. 16, 2016, 130 Stat. 1995; Pub. L. 117–263, div. K, title CXIII, §11338, Dec. 23, 2022, 136 Stat. 4103; Pub. L. 117–328, div. S, title IV, §401(2), Dec. 29, 2022, 136 Stat. 5274.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(1), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
+This Act, referred to in subsec. (b)(1), (2), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 
 Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (c)(5), was in the original "section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))" and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
-The Marine Mammal Protection Act, referred to in subsec. (e)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (e)(1)(A), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Endangered Species Act, referred to in subsec. (e)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (e)(1)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Shark Finning Prohibition Act, referred to in subsec. (e)(1), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under section 1822 ofthis title. For complete classification of this Act to the Code, see Tables.
+The Shark Finning Prohibition Act, referred to in subsec. (e)(1)(C), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under section 1822 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Atlantic Tunas Convention Act, referred to in subsec. (e)(2), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to chapter 16A (§971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act, referred to in subsec. (e)(2), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §11338(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to identification of nations with certain fishing activities that resulted in bycatch of protected living marine resources and that targeted or incidentally caught sharks.
+
+Subsec. (b). Pub. L. 117–263, §11338(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to consultation and negotiation with foreign governments regarding bilateral and multilateral treaties and agreements to protect certain species.
+
+Subsec. (b)(3), (4). Pub. L. 117–328, §401(2)(A), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "seek agreements calling for international restrictions on fishing activities or practices described in subsection (a) through the United Nations, the Committee on Fisheries of the Food and Agriculture Organization of the United Nations, and appropriate international fishery management bodies; and".
+
+Subsec. (c)(2). Pub. L. 117–263, §11338(c)(1), inserted "the public and" after "comment by".
+
+Subsec. (c)(4)(C). Pub. L. 117–328, §401(2)(B), struck out subpar. (C) which read as follows: "ensure that any such fish or fish products authorized for entry under this section are imported consistent with the reporting and the recordkeeping requirements of the Seafood Import Monitoring Program established in subpart Q of part 300 of title 50, Code of Federal Regulations (or any successor regulation)."
+
+Pub. L. 117–263, §11338(c)(2), added subpar. (C).
+
+Subsec. (c)(5). Pub. L. 117–263, §11338(c)(3), struck out "(except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing)" after "section 1826a(b)(3) and (4) of this title".
+
+Subsec. (e)(1). Pub. L. 117–263, §11338(d), added par. (1) and struck out former par. (1) which read as follows: "means non-target fish, sea turtles, or marine mammals that are protected under United States law or international agreement, including the Marine Mammal Protection Act \[16 U.S.C. 1361 et seq.\], the Endangered Species Act \[16 U.S.C. 1531 et seq.\], the Shark Finning Prohibition Act, and the Convention on International Trade in Endangered Species of Wild Flora and Fauna; but".
 
 <b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–327 substituted "3 years" for "calendar year".
 

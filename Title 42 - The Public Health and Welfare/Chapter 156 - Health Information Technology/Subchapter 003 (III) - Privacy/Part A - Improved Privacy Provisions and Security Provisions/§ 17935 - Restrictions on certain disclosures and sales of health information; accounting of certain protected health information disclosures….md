@@ -18,7 +18,7 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 #### (B) Guidance
 
-&emsp;&emsp;Not later than 18 months after February 17, 2009, the Secretary shall issue guidance on what constitutes "minimum necessary" for purposes of subpart E of part 164 of title 45, Code of Federal Regulation.<sup>1</sup> In issuing such guidance the Secretary shall take into consideration the guidance under section 17953(c) of this title and the information necessary to improve patient outcomes and to detect, prevent, and manage chronic disease.
+&emsp;&emsp;Not later than 18 months after February 17, 2009, the Secretary shall issue guidance on what constitutes "minimum necessary"for purposes of subpart E of part 164 of title 45, Code of Federal Regulation.<sup>1</sup> In issuing such guidance the Secretary shall take into consideration the guidance under section 17953(c) of this title and the information necessary to improve patient outcomes and to detect, prevent, and manage chronic disease.
 
 #### (C) Sunset
 
@@ -86,7 +86,7 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a covered entity or business associate shall not directly or indirectly receive remuneration in exchange for any protected health information of an individual unless the covered entity obtained from the individual, in accordance with section 164.508 of title 45, Code of Federal Regulations, a valid authorization that includes, in accordance with such section, a specification of whether the protected health information can be further exchanged for remuneration by the entity receiving protected health information of that individual.
+&emsp;Except as provided in paragraph (2), a covered entity or business associate shall not directly or indirectly receive remuneration inexchange for any protected health information of an individual unless the covered entity obtained from the individual, in accordance with section 164.508 of title 45, Code of Federal Regulations, a valid authorization that includes, in accordance with such section, a specification of whether the protected health information can be further exchanged for remuneration by the entity receiving protected health information of that individual.
 
 #### (2) Exceptions
 
@@ -122,7 +122,7 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 In applying section 164.524 of title 45, Code of Federal Regulations, in the case that a covered entity uses or maintains an electronic health record with respect to protected health information of an individual—
 
-&emsp;(1) the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entityor person designated by the individual, provided that any such choice is clear, conspicuous, and specific;
+&emsp;(1) the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entity or person designated by the individual, provided that any such choice is clear, conspicuous, and specific;
 
 &emsp;(2) if the individual makes a request to a business associate for access to, or a copy of, protected health information about the individual, or if an individual makes a request to a business associate to grant such access to, or transmit such copy directly to, a person or entity designated by the individual, a business associate may provide the individual with such access or copy, which may be in an electronic form, or grant or transmit such access or copy to such person or entity designated by the individual; and
 

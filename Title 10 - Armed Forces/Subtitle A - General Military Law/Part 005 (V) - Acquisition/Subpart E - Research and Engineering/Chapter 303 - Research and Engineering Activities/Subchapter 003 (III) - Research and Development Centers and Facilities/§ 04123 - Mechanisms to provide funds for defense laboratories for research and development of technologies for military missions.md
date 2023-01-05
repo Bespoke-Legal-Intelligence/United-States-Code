@@ -16,7 +16,7 @@ Mechanisms to Provide Funds.—(1) The Secretary of Defense, in consultation wit
 
 (3) The science and technology executive of a military department may develop policies and guidance to leverage funding and promote cross-laboratory collaboration, including with laboratories of other military departments.
 
-(4) After consultation with the science and technology executive of the military department concerned, the director of a defense laboratory may charge customer activities a fixed percentage fee, in addition to normal costs of performance, in order to obtain funds to carryout activities authorized by this subsection. The fixed fee may not exceed four percent of costs.
+(4) After consultation with the science and technology executive of the military department concerned, the director of a defense laboratory may charge customer activities a fixed percentage fee, in addition to normal costs of performance, in order to obtain funds to carry out activities authorized by this subsection. The fixed fee may not exceed four percent of costs.
 
 (b)
 

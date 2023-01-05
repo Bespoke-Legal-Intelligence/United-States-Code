@@ -12,7 +12,7 @@
 
 #### Pilot Program To Accelerate Contracting and Pricing Processes
 
-Pub. L. 115–232, div. A, title VIII, §890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, §825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, §1831(j)(7), Jan. 1, 2021, 134 Stat. 4217, provided that:
+Pub. L. 115–232, div. A, title VIII, §890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, §825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, §1831(j)(7), Jan. 1, 2021, 134 Stat. 4217; Pub. L. 117–263, div. A, title VIII, §818, Dec. 23, 2022, 136 Stat. 2708, provided that:
 
 "(a)
 
@@ -20,7 +20,7 @@ In General.—The Secretary of Defense shall establish a pilot program to reform
 
 &emsp;"(1) basing price reasonableness determinations on actual cost and pricing data for purchases of the same or similar products for the Department of Defense; and
 
-&emsp;"(2) reducing the cost and pricing data to be submitted in accordance with of \[sic\] chapter 271 of title 10, United States Code.
+&emsp;"(2) reducing the cost and pricing data to be submitted in accordance with chapter 271 of title 10, United States Code.
 
 "(b)
 
@@ -28,7 +28,7 @@ Report.—Not later than January 30, 2021, the Secretary of Defense shall submit
 
 "(c)
 
-Sunset.—The authority to carry out the pilot program under this section shall expire on January 2, 2023."
+Sunset.—The authority to carry out the pilot program under this section shall expire on January 2, 2024."
 
 #### Guidance and Training Related to Evaluating Reasonableness of Price
 
@@ -76,7 +76,7 @@ Review requirement.—The Comptroller General of the United States shall conduct
 
 Report requirement.—Not later than 180 days after the end of the two-year period referred to in paragraph (1), the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on—
 
-&emsp;&emsp;"(A) the extent to which the Department of Defense needed access to additional cost information pursuant to sections 2306a(d) \[now 10 U.S.C. 3705\] and 2379 \[now 10 U.S.C. 3455\] of title 10, United States Code, during such two-year period in order to determine price reasonableness;
+&emsp;&emsp;"(A) the extent to which the Department of Defense needed access to additional cost information pursuant to sections 2306a(d) \[now 10 U.S.C. 3705\]and 2379 \[now 10 U.S.C. 3455\] of title 10, United States Code, during such two-year period in order to determine price reasonableness;
 
 &emsp;&emsp;"(B) the extent to which acquisition officials of the Department of Defense complied with the guidance issued pursuant to subsection (a) during such two-year period;
 
@@ -86,7 +86,7 @@ Report requirement.—Not later than 180 days after the end of the two-year peri
 
 #### Grants of Exceptions to Cost or Pricing Data Certification Requirements and Waivers of Cost Accounting Standards
 
-Pub. L. 107–314, div. A, title VIII, §817, Dec. 2, 2002, 116 Stat. 2610, as amended by Pub. L. 112–81, div. A, title VIII, §809(a), Dec. 31, 2011, 125 Stat. 1490; Pub. L. 113–291, div. A, title X, §1071(b)(7), Dec. 19, 2014, 128 Stat. 3507;Pub. L. 115–91, div. A, title X, §1051(j), Dec. 12, 2017, 131 Stat. 1563; Pub. L. 115–232, div. A, title VIII, §§825, 836(f)(4), Aug. 13, 2018, 132 Stat. 1856, 1871, provided that:
+Pub. L. 107–314, div. A, title VIII, §817, Dec. 2, 2002, 116 Stat. 2610, as amended by Pub. L. 112–81, div. A, title VIII, §809(a), Dec. 31, 2011, 125 Stat. 1490; Pub. L. 113–291, div. A, title X, §1071(b)(7), Dec. 19, 2014, 128 Stat. 3507; Pub. L. 115–91, div. A, title X, §1051(j), Dec. 12, 2017, 131 Stat. 1563; Pub. L. 115–232, div. A, title VIII, §§825, 836(f)(4), Aug. 13, 2018, 132 Stat. 1856, 1871, provided that:
 
 "(a)
 

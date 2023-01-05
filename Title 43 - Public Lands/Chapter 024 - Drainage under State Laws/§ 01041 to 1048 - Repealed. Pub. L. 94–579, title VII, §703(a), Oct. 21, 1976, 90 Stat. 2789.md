@@ -6,7 +6,7 @@ Section 1042, acts Jan. 17, 1920, ch. 47, §2, 41 Stat. 392; Oct. 28, 1921, ch. 
 
 Section 1043, acts Jan. 17, 1920, ch. 47, §3, 41 Stat. 393; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to legally assessed liens against unentered public lands.
 
-Section 1044, acts Jan. 17, 1920, ch. 47, §4, 41 Stat. 393; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462,43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to excess of price of lands sold to enforce liens of assessment.
+Section 1044, acts Jan. 17, 1920, ch. 47, §4, 41 Stat. 393; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to excess of price of lands sold to enforce liens of assessment.
 
 Section 1045, acts Jan. 17, 1920, ch. 47, §5, 41 Stat. 393; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to procedure for issuance of patents to purchasers of unentered lands.
 

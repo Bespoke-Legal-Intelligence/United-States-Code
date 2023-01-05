@@ -2,7 +2,7 @@
 
 #### (a) Promotion of fair trade as financial assistance policy
 
-(1) The Secretary of the Treasury shall instruct the United States Executive Director ofeach of the multilateral development banks (in this section referred to as the "banks") and of the Fund to initiate a wide consultation with the Managing Director of each of the banks and of the Fund and the other directors of the banks and of the Fund with regard to the development of financial assistance policies which, to the maximum feasible extent—
+(1) The Secretary of the Treasury shall instruct the United States Executive Director of each of the multilateral development banks (in this section referred to as the "banks") and of the Fund to initiate a wide consultation with the Managing Director of each of the banks and of the Fund and the other directors of the banks and of the Fund with regard to the development of financial assistance policies which, to the maximum feasible extent—
 
 &emsp;(A) reduce obstacles to and restrictions upon international trade and investment in goods and services;
 

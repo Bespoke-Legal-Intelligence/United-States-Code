@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-Notwithstanding any other provision of law, upon the issuance of an order in accordance with subsection (j)(3) or a determination under subsection (c)(2), the Attorney General and the Director of National Intelligence may authorize jointly, for a period of up to 1 year from the effective date of the authorization, the targeting of persons reasonably believed to be located outside the United States to acquire foreign intelligence information.
+Notwithstanding any other provision of law, upon the issuance of an order in accordance with subsection (j)(3) or a determination under subsection (c)(2), the Attorney General and the Director of National Intelligence may authorize jointly, for a period of up to 1 year from the effective date of the authorization, the targetingof persons reasonably believed to be located outside the United States to acquire foreign intelligence information.
 
 #### (b) Limitations
 
@@ -88,7 +88,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Record of United States person query terms
 
-&emsp;&emsp;The Attorney General, in consultation with the Director of National Intelligence, shall ensure that the procedures adopted under subparagraph (A) include a technical procedure whereby a record is kept of each United States person query term used for a query.
+&emsp;&emsp;The Attorney General, in consultation with the Director of National Intelligence, shall ensure that the procedures adopted under subparagraph (A) include a technicalprocedure whereby a record is kept of each United States person query term used for a query.
 
 #### (C) Judicial review
 
@@ -314,7 +314,7 @@ An acquisition authorized under subsection (a)—
 
 #### (A) Appeal to the Court of Review
 
-&emsp;&emsp;The Government or an electronic communication service provider receiving a directive issued pursuant to paragraph (1) may file a petition with the Foreign Intelligence Surveillance Court of Review for review of a decision issued pursuant to paragraph (4) or (5). The Court of Review shall have jurisdiction to consider such petition and shall provide a written statement for the record of the reasons for a decision under this subparagraph.
+&emsp;&emsp;The Government or an electronic communication service provider receiving a directive issued pursuant to paragraph (1) mayfile a petition with the Foreign Intelligence Surveillance Court of Review for review of a decision issued pursuant to paragraph (4) or (5). The Court of Review shall have jurisdiction to consider such petition and shall provide a written statement for the record of the reasons for a decision under this subparagraph.
 
 #### (B) Certiorari to the Supreme Court
 
@@ -382,7 +382,7 @@ An acquisition authorized under subsection (a)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Court orders a correction of a deficiency in a certification or procedures under subparagraph (B), no information obtained orevidence derived pursuant to the part of the certification or procedures that has been identified by the Court as deficient concerning any United States person shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired pursuant to such part of such certification or procedures shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of the United States person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Court orders a correction of a deficiency in a certification or procedures under subparagraph (B), no information obtained or evidence derived pursuant to the part of the certification or procedures that has been identified by the Court as deficient concerning any United States person shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired pursuant to such part of such certification or procedures shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of the United States person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
 #### (ii) Exception
 
@@ -442,7 +442,7 @@ An acquisition authorized under subsection (a)—
 
 #### (3) Retention of records
 
-&emsp;The Attorney General and the Director of National Intelligence shall retain a directiveor an order issued under this section for a period of not less than 10 years from the date on which such directive or such order is issued.
+&emsp;The Attorney General and the Director of National Intelligence shall retain a directive or an order issued under this section for a period of not less than 10 years from the date on which such directive or such order is issued.
 
 #### (m) Assessments <sup>2</sup> reviews, and reporting
 
@@ -508,7 +508,7 @@ An acquisition authorized under subsection (a)—
 
 &emsp;&emsp;&emsp;(iii) the Director of National Intelligence; and
 
-&emsp;&emsp;&emsp;(iv) consistent with the Rules of the House of Representatives, the Standing Rules of the Senate, and Senate Resolution 400 of the 94th Congress or any successor Senate resolution—
+&emsp;&emsp;&emsp;(iv) consistent with the Rules of the House of Representatives, the StandingRules of the Senate, and Senate Resolution 400 of the 94th Congress or any successor Senate resolution—
 
 &emsp;&emsp;&emsp;&emsp;(I) the congressional intelligence committees; and
 
@@ -682,7 +682,7 @@ Reporting of material breach.—\[Amended this section.\]
 
 "(6)
 
-Appointment of amici curiae by foreign intelligence surveillance court.—For purposes of section 103(i)(2)(A) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(i)(2)(A)), the Foreign Intelligence Surveillance Court shall treat the first certification under section 702(h) of such Act (50 U.S.C. 1881a(h)) or amendment thereto that authorizes the acquisition of abouts communications as presenting a novel or significant interpretation of the law, unless the court determines otherwise."
+Appointment of amici curiae by foreign intelligence surveillance court.—For purposes of section 103(i)(2)(A) of the Foreign Intelligence Surveillance Actof 1978 (50 U.S.C. 1803(i)(2)(A)), the Foreign Intelligence Surveillance Court shall treat the first certification under section 702(h) of such Act (50 U.S.C. 1881a(h)) or amendment thereto that authorizes the acquisition of abouts communications as presenting a novel or significant interpretation of the law, unless the court determines otherwise."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

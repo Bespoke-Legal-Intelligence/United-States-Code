@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 102–550, §517(a)(2), substituted "multifamily mortgages"
 
 Pub. L. 97–35, title III, §371, Aug. 13, 1981, 95 Stat. 431, provided that:
 
-"(a) Except as otherwise provided in this subtitle, the provisions of this subtitle \[for classification of subtitleA (§300–371) of title III of Pub. L. 97–35, see Tables\] shall take effect on October 1, 1981.
+"(a) Except as otherwise provided in this subtitle, the provisions of this subtitle \[for classification of subtitle A (§300–371) of title III of Pub. L. 97–35, see Tables\] shall take effect on October 1, 1981.
 
 "(b) The amendments made by sections 324, 325, and 326(a) \[amending section 1437f of Title 42, The Public Health and Welfare\] shall apply only with respect to contracts entered into on and after October 1, 1981."
 

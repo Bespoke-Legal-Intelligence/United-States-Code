@@ -140,7 +140,7 @@ The United States International Trade Commission shall submit to the Congress, a
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 #### Amendments
 
@@ -154,7 +154,7 @@ Subsec. (d). Pub. L. 114–125, §604(c)(2), added subsec. (d).
 
 #### Trade Deficit Review Commission
 
-Pub. L. 105–277, div. A, §127, Oct. 21, 1998, 112 Stat. 2681–547, as amended by Pub. L. 106–57, title III, §311, Sept. 29, 1999, 113 Stat. 427; Pub. L. 106–246, div. B, title II, §2501, July 13, 2000, 114 Stat. 556; Pub. L. 107–107, div. A, title X, §1048(i)(10), Dec. 28, 2001, 115 Stat. 1229, provided that:
+Pub. L. 105–277, div. A, §127, Oct. 21, 1998, 112 Stat. 2681–547, as amended by Pub. L. 106–57, title III, §311, Sept. 29, 1999, 113 Stat. 427; Pub. L. 106–246, div. B, title II, §2501, July 13, 2000, 114 Stat. 556; Pub. L. 107–107, div. A, title X, §1048(i)(10), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 117–286, §4(a)(139), Dec. 27, 2022, 136 Stat. 4320, provided that:
 
 "(a)
 
@@ -370,7 +370,7 @@ In general.—The Chairperson of the Commission may, without regard to the civil
 
 &emsp;&emsp;"(B)
 
-Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating toclassification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
 &emsp;"(4)
 
@@ -378,7 +378,7 @@ Detail of government employees.—Any Federal Government employee may be detaile
 
 &emsp;"(5)
 
-Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at ratesfor individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
 &emsp;"(6)
 
@@ -394,7 +394,11 @@ Appropriations.—There are appropriated $2,000,000 to the Commission to carry o
 
 "(j)
 
-Federal Advisory Committee Act.—The provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. App.) shall not apply to the Commission.
+Chapter 10
+
+of Title 5
+
+, United States Code.—The provisions of chapter 10 of title 5, United States Code, shall not apply to the Commission.
 
 "(k)
 

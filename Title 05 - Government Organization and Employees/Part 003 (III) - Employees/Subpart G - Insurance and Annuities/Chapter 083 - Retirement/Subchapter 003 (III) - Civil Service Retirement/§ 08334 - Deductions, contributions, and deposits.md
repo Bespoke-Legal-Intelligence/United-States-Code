@@ -2,7 +2,7 @@
 
 (a)(1)(A) The employing agency shall deduct and withhold from the basic pay of an employee, Member, Congressional employee, law enforcement officer, firefighter, bankruptcy judge, judge of the United States Court of Appeals for the Armed Forces, United States magistrate,<sup>1</sup> Court of Federal Claims judge, member of the Capitol Police, member of the Supreme Court Police, nuclear materials courier, or customs and border protection officer, as the case may be, the percentage of basic pay applicable under subsection (c).
 
-(B)(i) Except as provided in clause (ii), an equal amount shall be contributed from the appropriation or fund used to pay the employee or,in the case of an elected official, from an appropriation or fund available for payment of other salaries of the same office or establishment. When an employee in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee.
+(B)(i) Except as provided in clause (ii), an equal amount shall be contributed from the appropriation or fund used to pay the employee or, in the case of an elected official, from an appropriation or fund available for payment of other salaries of the same office or establishment. When an employee in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee.
 
 (ii) In the case of an employee of the United States Postal Service, no amount shall be contributed under this subparagraph.
 
@@ -134,7 +134,7 @@
 
 (i)(1) The Director of the Administrative Office of the United States Courts shall pay to the Fund the amount which an employee may deposit under subsection (c) of this section for service creditable under section 8332(b)(12) of this title if such creditable service immediately precedes service as an employee subject to this subchapter with a break in service of no more than ninety working days. The Director shall pay such amount from any appropriation available to him as a necessary expense of the appropriation concerned.
 
-(2) The amount the Director pays in accordance with paragraph (1) of this subsection shall be reduced by the amount of any refund to the employee under section 376 of title 28. Except tothe extent of such reduction, the amount the Director pays to the Fund shall satisfy the deposit requirement of subsection (c) of this section.
+(2) The amount the Director pays in accordance with paragraph (1) of this subsection shall be reduced by the amount of any refund to the employee under section 376 of title 28. Except to the extent of such reduction, the amount the Director pays to the Fund shall satisfy the deposit requirement of subsection (c) of this section.
 
 (3) Notwithstanding any other provision of law, the amount the Director pays under this subsection shall constitute an employer contribution to the Fund, excludable under section 402 of the Internal Revenue Code of 1986 from the employee's gross income until such time as the contribution is distributed or made available to the employee, and shall not be subject to refund or to lump-sum payment to the employee.
 
@@ -222,7 +222,7 @@
 
 (B) In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the Office of Personnel Management makes an administrative error that causes additional interest assessed to accrue on the deposit, the Office of Personnel Management may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
 
-(C) For purposes of subparagraph (A), the Secretary of the Senate or the Chief AdministrativeOfficer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or congressional employee.
+(C) For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or congressional employee.
 
 (D) The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
 
@@ -430,7 +430,7 @@ Subsec. (k)(4). Pub. L. 100–238, §108(b)(1), added par. (4).
 
 Subsec. (c). Pub. L. 100–53, §2(b)(2), inserted table covering percentages of basic pay and service periods for United States magistrates.
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–335, §201(c), inserted provision that notwithstanding preceding provisions of this subsection and any provision of section 206(b)(3) of Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in case of an individual described in section 8402(b)(2) of this title shall, with respect to any covered service performed after Dec. 31, 1983, and before Jan. 1, 1987, be equal to 1.3 percent.
+<b>1986</b>—Subsec. (c). Pub. L. 99–335, §201(c), inserted provision that notwithstanding preceding provisions of this subsection and any provision of section 206(b)(3) of Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in case of an individual described in section 8402(b)(2) of this title shall, with respect to any covered service performed afterDec. 31, 1983, and before Jan. 1, 1987, be equal to 1.3 percent.
 
 Subsec. (e)(1), (2). Pub. L. 99–335, §201(a)(2)(A), substituted "(j), or (k)" for "or (j)".
 
@@ -458,7 +458,7 @@ Subsec. (g)(4). Pub. L. 98–129 substituted "October 29, 1983," for "January 1,
 
 Subsec. (j)(2)(A). Pub. L. 98–94, §1257, substituted "October 1, 1983" for "October 1, 1982".
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–253, §303(a)(1), redesignated existing provisions as par. (2), inserted provision that interest accrues annually on the outstanding portion of any amount that may be deposited under subsec. (c), (d), or (j) of this section, and is compounded annually until the portion is deposited, substituted "Such interest" for "Interest under subsection (c) or (d) of this section", struck out ", to the date of deposit or commencing date of annuity, whichever is earlier" after "date refund was paid", and struck out provisionthat the interest was computed at the rate of four percent a year to Dec. 31, 1947, and 3 percent thereafter compounded annually, and added pars. (1) and (3).
+<b>1982</b>—Subsec. (e). Pub. L. 97–253, §303(a)(1), redesignated existing provisions as par. (2), inserted provision that interest accrues annually on the outstanding portion of any amount that may be deposited under subsec. (c), (d), or (j) of this section, and is compounded annually until the portion is deposited, substituted "Such interest" for "Interest under subsection (c) or (d) of this section", struck out ", to the date of deposit or commencing date of annuity, whichever is earlier" after "date refund was paid", and struck out provision that the interest was computed at the rate of four percent a year to Dec. 31, 1947, and 3 percent thereafter compounded annually, and added pars. (1) and (3).
 
 Subsec. (e)(3). Pub. L. 97–346, §3(c), substituted "the preceding fiscal year" for "the preceding calendar year" and "during such fiscal year" for "during such calendar year".
 
@@ -508,7 +508,7 @@ Subsec. (g)(5). Pub. L. 91–93, §202, added par. (5).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title XIX, §1902(b), Oct. 28, 2009, 123 Stat. 2615, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective with respect to any annuity, entitlement to which is based on a separation from service occurring on or after the date of enactment of this Act \[Oct. 28, 2009\]."
+Pub. L. 111–84, div. A, title XIX, §1902(b), Oct. 28, 2009, 123 Stat. 2615, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effectivewith respect to any annuity, entitlement to which is based on a separation from service occurring on or after the date of enactment of this Act \[Oct. 28, 2009\]."
 
 #### Effective Date of 2007 Amendment; Transition Rules
 
@@ -610,7 +610,7 @@ Pub. L. 98–94, title XII, §1256(f), Sept. 24, 1983, 97 Stat. 702, provided th
 
 Pub. L. 97–253, title III, §303(d)(1), Sept. 8, 1982, 96 Stat. 794, as amended by Pub. L. 97–346, §3(j)(1), Oct. 15, 1982, 96 Stat. 1649, provided that:
 
-"The amendments made by subsections (a) and (b) \[amending this section and sections 8339 and 8343 of this title\] shall apply with respect to deposits for service performed on or after October 1, 1982, and with respect to refunds for which application is received by either the employing agency or the Office of Personnel Management on or after such date. The provisions of section 8334 and section 8339(i) of title 5, United States Code, as in effect the day before the date of the enactment of this Act \[Sept. 7, 1982\], shall continue to apply with respect to periods of service and refunds occurring on or before September 30, 1982. Notwithstanding thepreceding two sentences, the amendments made by subsection (a) shall apply in the case of any deposit for military service under section 8334(j) of title 5, United States Code (as added by section 306(d) of this Act), regardless of whether such military service was performed before or after October 1, 1982."
+"The amendments made by subsections (a) and (b) \[amending this section and sections 8339 and 8343 of this title\] shall apply with respect to deposits for service performed on or after October 1, 1982, and with respect to refunds for which application is received by either the employing agency or the Office of Personnel Management on or after such date. The provisions of section 8334 and section 8339(i) of title 5, United States Code, as in effect the day before the date of the enactment of this Act \[Sept. 7, 1982\], shall continue to apply with respect to periods of service and refunds occurring on or before September 30, 1982. Notwithstanding the preceding two sentences, the amendments made by subsection (a) shall apply in the case of any deposit for military service under section 8334(j) of title 5, United States Code (as added by section 306(d) of this Act), regardless of whether such military service was performed before or after October 1, 1982."
 
 Amendment by section 306(d), (e) of Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
 
@@ -652,7 +652,7 @@ Pub. L. 115–352, §3(c), Dec. 21, 2018, 132 Stat. 5068, provided that: "All pa
 
 #### Contributions to Federal Civil Service Retirement System
 
-Pub. L. 106–346, §101(a) \[title V, §505(f)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: "Notwithstanding section 8334(a)(1) or (k)(1) of title 5, United States Code, during the period beginning on October 1, 2002, through December 31, 2002, each employing agency (other than the United States Postal Service or the Metropolitan Washington Airports Authority) shall contribute—
+Pub. L. 106–346, §101(a) \[title V, §505(f)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: "Notwithstanding section 8334(a)(1) or (k)(1) of title 5, United States Code, during the period beginning on October 1,2002, through December 31, 2002, each employing agency (other than the United States Postal Service or the Metropolitan Washington Airports Authority) shall contribute—
 
 &emsp;"(1) 7.5 percent of the basic pay of an employee;
 
@@ -740,7 +740,7 @@ Interest Computation.—A refund under this section shall be computed with inter
 
 #### National Guard Technicians
 
-Amendment by Pub. L. 90–486 not applicable to persons employed prior to Jan. 1, 1969, whose employment was covered by the civil service retirement provisions of section 8331 et seq. of this title, see section 5(d) of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
+Amendment by Pub. L. 90–486 not applicable to persons employed prior to Jan. 1, 1969, whose employment was covered by the civil service retirement provisionsof section 8331 et seq. of this title, see section 5(d) of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "United States magistrate judge,".</i>
 

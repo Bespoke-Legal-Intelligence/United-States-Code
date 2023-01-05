@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to the Librarian for the first fiscal year beginning on or after November 9, 2000, and each succeeding fiscal year through fiscal year 2026 such sums as may be necessary to carry out this chapter, except that the amount authorized for any fiscal year may not exceed $250,000.
 
-(Pub. L. 106–474, title I, §133, Nov. 9, 2000, 114 Stat. 2091; Pub. L. 110–336, §2(a)(1)(A), Oct. 2, 2008, 122 Stat. 3726; Pub. L. 114–217, §2(a), July 29, 2016, 130 Stat. 840.)
+(Pub. L. 106–474, title I, §133, Nov. 9, 2000, 114 Stat. 2091; Pub. L. 110–336, §2(a)(1)(A), Oct. 2,2008, 122 Stat. 3726; Pub. L. 114–217, §2(a), July 29, 2016, 130 Stat. 840.)
 
 #### <b>Editorial Notes</b>
 

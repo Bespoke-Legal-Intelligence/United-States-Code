@@ -12,6 +12,7 @@
 | :--- | ---: |
 | [8511\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008511%20-%20Public%20safety%20priority.md) | Public safety priority. |
 | [8512\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008512%20-%20Weather%20research%20and%20forecasting%20innovation.md) | Weather research and forecasting innovation. |
+| [8512a.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008512a%20-%20Learning%20excellence%20and%20good%20examples%20from%20new%20developers.md) | Learning excellence and good examples from new developers. |
 | [8513\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008513%20-%20Tornado%20warning%20improvement%20and%20extension%20program.md) | Tornado warning improvement and extension program. |
 | [8514\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008514%20-%20Hurricane%20forecast%20improvement%20program.md) | Hurricane forecast improvement program. |
 | [8515\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008515%20-%20Weather%20research%20and%20development%20planning.md) | Weather research and development planning. |
@@ -51,6 +52,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV—IMPROVING FEDERAL PRECIPITATION INFORMATION
+
+|  |  |
+| :--- | ---: |
+| [8561\.](Subchapter%20004%20%28IV%29%20-%20Improving%20Federal%20Precipitation%20Information/%C2%A7%2008561%20-%20Study%20on%20precipitation%20estimation.md) | Study on precipitation estimation. |
+| [8562\.](Subchapter%20004%20%28IV%29%20-%20Improving%20Federal%20Precipitation%20Information/%C2%A7%2008562%20-%20Improving%20probable%20maximum%20precipitation%20estimates.md) | Improving probable maximum precipitation estimates. |
+| [8563\.](Subchapter%20004%20%28IV%29%20-%20Improving%20Federal%20Precipitation%20Information/%C2%A7%2008563%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -60,3 +71,4 @@
 - [Subchapter 001 (I) - United States Weather Research and Forecasting Improvement](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/README.md)
 - [Subchapter 002 (II) - Weather Satellite and Data Innovation](Subchapter%20002%20%28II%29%20-%20Weather%20Satellite%20and%20Data%20Innovation/README.md)
 - [Subchapter 003 (III) - Federal Weather Coordination](Subchapter%20003%20%28III%29%20-%20Federal%20Weather%20Coordination/README.md)
+- [Subchapter 004 (IV) - Improving Federal Precipitation Information](Subchapter%20004%20%28IV%29%20-%20Improving%20Federal%20Precipitation%20Information/README.md)

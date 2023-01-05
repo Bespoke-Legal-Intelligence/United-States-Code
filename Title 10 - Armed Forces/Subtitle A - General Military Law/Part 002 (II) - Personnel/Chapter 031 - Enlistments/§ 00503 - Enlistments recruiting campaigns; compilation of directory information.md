@@ -6,6 +6,16 @@ Recruiting Campaigns.—(1) The Secretary concerned shall conduct intensive recr
 
 (2) The Secretary of Defense shall act on a continuing basis to enhance the effectiveness of recruitment programs of the Department of Defense (including programs conducted jointly and programs conducted by the separate armed forces) through an aggressive program of advertising and market research targeted at prospective recruits for the armed forces and those who may influence prospective recruits. Subchapter I of chapter 35 of title 44 shall not apply to actions taken as part of that program.
 
+(3) PII regarding a prospective recruit collected or compiled under this subsection shall be kept confidential, and a person who has had access to such PII may not disclose the information except for purposes of this section or other purpose authorized by law.
+
+(4) In the course of conducting a recruiting campaign, the Secretary concerned shall—
+
+&emsp;(A) notify a prospective recruit of data collection policies of the armed force concerned; and
+
+&emsp;(B) permit the prospective recruit to elect not to participate in such data collection.
+
+(5) In this subsection, the term "PII" means personally identifiable information.
+
 (b)
 
 Compilation of Directory Information.—(1) The Secretary of Defense may collect and compile directory information pertaining to each student who is 17 years of age or older or in the eleventh grade (or its equivalent) or higher and who is enrolled in a secondary school in the United States or its territories, possessions, or the Commonwealth of Puerto Rico.
@@ -18,7 +28,7 @@ Compilation of Directory Information.—(1) The Secretary of Defense may collect
 
 (5) The Secretary of Defense shall prescribe regulations to carry out this subsection. Regulations prescribed under this subsection shall be submitted to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. Regulations prescribed by the Secretaries concerned to carry out this subsection shall be as uniform as practicable.
 
-(6) Nothing in this subsection shall be construed as requiring, or authorizing the Secretary of Defense to require, that any educational institution furnish directory information to the Secretary.
+(6) Nothing in this subsection shall be construed as requiring, or authorizing the Secretaryof Defense to require, that any educational institution furnish directory information to the Secretary.
 
 (c)
 
@@ -70,15 +80,17 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 &emsp;(F) The term "member of the House of Representatives" includes a Delegate or Resident Commissioner to Congress.
 
-(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, §543, Nov. 24, 2003, 117 Stat. 1478; Pub. L. 108–375, div. A, title X, §1084(d)(5), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 114–95, title IX, §9215(uuu)(1), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 116–283, div. A, title V, §521(a), Jan. 1, 2021, 134 Stat. 3597.)
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, §543, Nov. 24, 2003, 117 Stat. 1478; Pub. L. 108–375, div. A, title X, §1084(d)(5), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 114–95, title IX, §9215(uuu)(1), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 116–283, div. A, title V, §521(a), Jan. 1, 2021, 134 Stat. 3597; Pub. L. 117–263, div. A, title V, §531(a), Dec. 23, 2022, 136 Stat. 2574.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(3) to (5). Pub. L. 117–263 added pars. (3) to (5).
 
 <b>2021</b>—Subsec. (c)(1)(A)(ii). Pub. L. 116–283, §521(a)(1)(A), substituted "electronic mail addresses (which shall be the electronic mail addresses provided by the school, if available), and telephone listings, notwithstanding subsection (a)(5) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g)." for "and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act (20 U.S.C. 1232g(a)(5)(B))."
 
@@ -152,6 +164,66 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 117–81, div. A, title V, §523(a), Dec. 27, 2021, 135 Stat. 1687, provided that: "The Secretary of each military department shall prescribe regulations that ensure that a military recruit, who is not a citizen of the United States, receives proper notice of options for naturalization under title III of the Immigration and Nationality Act (8 U.S.C. 1401 et seq.)\[.\] Such notice shall inform the recruit of existing programs or services that may aid in the naturalization process of such recruit."
 
+#### Pilot Program on Recruiting
+
+Pub. L. 117–263, div. A, title V, §531(b), Dec. 23, 2022, 136 Stat. 2575, provided that:
+
+"(1)
+
+Authority.—The Secretary of Defense may conduct a pilot program (such a program shall be referred to as a 'Military Recruiting Modernization Program') to evaluate the feasibility and effectiveness of collecting and using PRI with modern technologies to allow the Secretary to more effectively and efficiently use recruiting resources.
+
+"(2)
+
+Treatment of prospective recruit information.—PRI collected under a pilot program under this subsection—
+
+&emsp;"(A) may be used by the Armed Forces and entities into which the Secretary has entered into an agreement regarding military recruitment only for purposes of military recruitment;
+
+&emsp;"(B) shall be kept confidential. \[sic\]
+
+&emsp;"(C) may not be maintained more than three years after collection; and \[sic\]
+
+"(3)
+
+Opt-out.—A pilot program under this subsection may allow a prospective recruit to opt-out of the collection of PRI regarding such prospective recruit.
+
+"(4)
+
+Termination.—Any such pilot program shall terminate three years after implementation.
+
+"(5)
+
+Interim briefing.—Not later than 90 days after the implementing a pilot program under this subsection, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the pilot program. Such briefing shall include the following:
+
+&emsp;"(A) The definition, prescribed by the Secretary, of PRI.
+
+&emsp;"(B) How the Secretary intends to handle privacy concerns related to the collection of PRI.
+
+&emsp;"(C) Legal concerns over the collection, use, and maintenance of PRI.
+
+"(6)
+
+Final report.—Not later than 120 days after the completion of a pilot program under this subsection, the Under Secretary of Defense for Personnel and Readiness shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program. Such report shall include the following:
+
+&emsp;"(A) A summary of whether and how the pilot program modernized recruiting efforts.
+
+&emsp;"(B) A description of any efficiencies identified under the pilot program.
+
+&emsp;"(C) Any violations of privacy laws arising from the pilot program.
+
+&emsp;"(D) Legislative recommendations of the Under Secretary arising from this pilot program.
+
+"(7)
+
+Definitions.—In this section:
+
+&emsp;"(A) The term 'PRI' means information, prescribed by the Secretary of Defense, regarding a prospective recruit.
+
+&emsp;"(B) The term 'prospective recruit' means an individual who is eligible to join the Armed Forces and is—
+
+&emsp;&emsp;"(i) 17 years of age or older; or
+
+&emsp;&emsp;"(ii) in the eleventh grade (or its equivalent) or higher."
+
 #### Armed Services Vocational Aptitude Battery Test Special Purpose Adjunct To Address Computational Thinking
 
 Pub. L. 116–283, div. A, title V, §594, Jan. 1, 2021, 134 Stat. 3666, as amended by Pub. L. 117–81, div. A, title V, §581, Dec. 27, 2021, 135 Stat. 1755, provided that: "Not later than October 1, 2024, the Secretary of Defense shall establish a special purpose test adjunct to the Armed Services Vocational Aptitude Battery test to address computational thinking skills relevant to military applications, including problem decomposition, abstraction, pattern recognition, analytical ability, the identification of variables involved in data representation, and the ability to create algorithms and solution expressions."
@@ -174,7 +246,7 @@ Consultation.—In developing a program for the Army or the Air Force under this
 
 #### Temporary Authority To Develop and Provide Additional Recruitment Incentives
 
-Pub. L. 114–92, div. A, title V, §522, Nov. 25, 2015, 129 Stat. 811, provided that:
+Pub. L. 114–92, div. A, title V, §522, Nov. 25, 2015, 129 Stat. 811, as amended by Pub. L. 117–263, div. A, title V, §532, Dec. 23, 2022, 136 Stat. 2576, provided that:
 
 "(a)
 
@@ -226,7 +298,7 @@ Reporting Requirements.—If the Secretary of a military department provides an 
 
 "(h)
 
-Termination of Authority to Provide Incentives.—Notwithstanding subsection (f); the authority to provide recruitment incentives under this section expires on December 31, 2020."
+Termination of Authority to Provide Incentives.—Notwithstanding subsection (f), the authority to provide recruitment incentives under this section expires on December 31, 2025."
 
 \[For termination, effective Dec. 30, 2021, of reporting requirements in section 522(g) of Pub. L. 114–92, set out above, see section 1702(a), (b), of Pub. L. 116–92, set out as a Termination of Reporting Requirements note under section 111 of this title.\]
 
@@ -266,7 +338,7 @@ Covered graduates.—Paragraph (1) applies with respect to \[a\] person who—
 
 "(b)
 
-Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment ofthis Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
+Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
 
 &emsp;"(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, and attitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
 
@@ -394,7 +466,7 @@ In general.—The Secretary may not develop an incentive under this section, or 
 
 &emsp;"(2)
 
-Continuation of incentives.—Nothing in paragraph (1) shall be construed to prohibit or limit thecontinuing provision to an individual after the date specified in that paragraph of an incentive first provided the individual under this section before that date."
+Continuation of incentives.—Nothing in paragraph (1) shall be construed to prohibit or limit the continuing provision to an individual after the date specified in that paragraph of an incentive first provided the individual under this section before that date."
 
 #### Enhanced Screening Methods and Process Improvements for Recruitment of Home Schooled and National Guard Challenge Program GED Recipients
 

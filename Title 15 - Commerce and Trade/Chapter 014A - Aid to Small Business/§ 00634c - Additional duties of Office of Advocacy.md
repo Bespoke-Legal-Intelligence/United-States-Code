@@ -52,7 +52,7 @@ The Office of Advocacy shall also perform the following duties on a continuing b
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after the date on which the Chief Counsel for Advocacy convenes the Working Group under paragraph (2)(A), the Chief Counsel for Advocacy shall submit to the Committee on Small Business and Entrepreneurship and the Committee on Finance of the Senate and the Committee on Small Business and the Committee on Ways and Means of the House of Representatives areport on the economic impacts of the covered trade agreement on small businesses, which shall—
+&emsp;&emsp;Not later than 180 days after the date on which the Chief Counsel for Advocacy convenes the Working Group under paragraph (2)(A), the Chief Counsel for Advocacy shall submit to the Committee on Small Business and Entrepreneurship and the Committee on Finance of the Senate and the Committee on Small Business and the Committee on Ways and Means of the House of Representatives a report on the economic impacts of the covered trade agreement on small businesses, which shall—
 
 &emsp;&emsp;&emsp;(i) identify the most important priorities, opportunities, and challenges to various industries from the covered trade agreement;
 

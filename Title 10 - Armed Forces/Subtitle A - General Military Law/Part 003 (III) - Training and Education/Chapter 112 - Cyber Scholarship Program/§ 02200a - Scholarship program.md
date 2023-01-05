@@ -22,7 +22,7 @@ Service Agreement for Scholarship Recipients.—(1) To receive financial assista
 
 &emsp;&emsp;(ii) to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).
 
-(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for the financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title. In no event may the period of service required of a recipient be less than the period equal to three-fourths of the total period of pursuit of a degree for which the Secretary agrees to provide the recipient with financial assistance under this section. The period of obligated service is in addition to any other period for which the recipient is obligated to serve on active duty or in the civil service, as the case may be.
+(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for the financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title. In no event may the period of service required of a recipient be less than the period equal to three-fourths of the total periodof pursuit of a degree for which the Secretary agrees to provide the recipient with financial assistance under this section. The period of obligated service is in addition to any other period for which the recipient is obligated to serve on active duty or in the civil service, as the case may be.
 
 (3) An agreement entered into under this section by a person pursuing an academic degree shall include terms that provide the following:
 
@@ -90,7 +90,7 @@ Subsec. (g). Pub. L. 111–84, §1103(a), added subsec. (g).
 
 "(2) An obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
 
-"(3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States."
+"(3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be againstequity and good conscience or would be contrary to the best interests of the United States."
 
 Subsecs. (f), (g). Pub. L. 109–163, §687(c)(8)(B), (C), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: "A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e)."
 

@@ -6,7 +6,7 @@ Use of Funds.—
 
 &emsp;(1)
 
-In general.—Funds made available under the tribal transportation program shall beused by the Secretary of Transportation and the Secretary of the Interior to pay the costs of—
+In general.—Funds made available under the tribal transportation program shall be used by the Secretary of Transportation and the Secretary of the Interior to pay the costs of—
 
 &emsp;&emsp;(A)(i) transportation planning, research, maintenance, engineering, rehabilitation, restoration, construction, and reconstruction of tribal transportation facilities;
 
@@ -180,7 +180,7 @@ Bridges.—All bridges in the inventory shall be recorded in the national bridge
 
 &emsp;(2)
 
-Regulations.—Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary of the Interior shall maintain any regulations governing the tribal transportation program.
+Regulations.—Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary of theInterior shall maintain any regulations governing the tribal transportation program.
 
 &emsp;(3)
 
@@ -286,7 +286,7 @@ Transferred funds.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 30 days after the date on which funds are made available to the Secretary of the Interiorunder this paragraph, the funds shall be distributed to, and made available for immediate use by, eligible Indian tribes, in accordance with the formula for distribution of funds under the tribal transportation program.
+In general.—Not later than 30 days after the date on which funds are made available to the Secretary of the Interior under this paragraph, the funds shall be distributed to, and made available for immediate use by, eligible Indian tribes, in accordance with the formula for distribution of funds under the tribal transportation program.
 
 &emsp;&emsp;(B)
 
@@ -320,7 +320,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government foruse in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
 
 &emsp;&emsp;(B)
 
@@ -860,7 +860,7 @@ In general.—If an eligible applicant submits an application for a project unde
 
 &emsp;&emsp;"(B)
 
-Submission after issuance of list.—If an eligible applicant submits an application under this subsection after the issuance of the list under subsection (c)(5) and the distribution of program funds in accordance with the list, the Secretary of the Interior shall provide funding for the project on the date on which unobligated funds provided to projects on the list are returned to the Department of the Interior.
+Submission after issuance of list.—If an eligible applicant submits an application under this subsection after the issuance of the list under subsection (c)(5) and the distribution of program funds in accordance with the list, the Secretary of the Interior shall provide funding for the project on the date on which unobligated funds provided toprojects on the list are returned to the Department of the Interior.
 
 &emsp;&emsp;"(C)
 

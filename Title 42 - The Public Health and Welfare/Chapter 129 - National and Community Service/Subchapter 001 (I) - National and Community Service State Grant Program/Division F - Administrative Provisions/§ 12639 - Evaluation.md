@@ -18,7 +18,7 @@ Evaluations of programs under subsection (a) shall be conducted by individuals w
 
 #### (d) Standards
 
-The Corporation shall develop and publish general standards for the evaluation of programeffectiveness in achieving the objectives of the national service laws.
+The Corporation shall develop and publish general standards for the evaluation of program effectiveness in achieving the objectives of the national service laws.
 
 #### (e) Community participation
 
@@ -178,7 +178,7 @@ The Corporation shall submit to the authorizing committees not later than 2 year
 
 &emsp;(5) recipients meeting or exceeding their performance levels under subsection (k).
 
-(Pub. L. 101–610, title I, §179, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–384, §§4, 9, Oct. 5, 1992, 106 Stat. 1455, 1456; Pub. L. 103–82, title I, §118, title II, §203(a)(1)(A), title IV, §402(b)(1), Sept. 21, 1993,107 Stat. 865, 891, 918; Pub. L. 103–160, div. A, title XI, §1182(d)(4), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 104–106, div. A, title XV, §1501(e)(5), Feb. 10, 1996, 110 Stat. 501; Pub. L. 111–13, title I, §1607, Apr. 21, 2009, 123 Stat. 1532.)
+(Pub. L. 101–610, title I, §179, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–384, §§4, 9, Oct. 5, 1992, 106 Stat. 1455, 1456; Pub. L. 103–82, title I, §118, title II, §203(a)(1)(A), title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 865, 891, 918; Pub. L. 103–160, div. A, title XI, §1182(d)(4), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 104–106, div. A, title XV, §1501(e)(5), Feb. 10, 1996, 110 Stat. 501; Pub. L. 111–13, title I, §1607, Apr. 21, 2009, 123 Stat. 1532.)
 
 #### <b>Editorial Notes</b>
 

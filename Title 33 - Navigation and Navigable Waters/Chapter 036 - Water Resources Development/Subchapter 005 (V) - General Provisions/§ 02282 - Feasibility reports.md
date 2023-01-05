@@ -24,7 +24,7 @@
 
 #### (4) Feasibility report defined
 
-&emsp;In this subsection, the term "feasibility report" means each feasibility report, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
+&emsp;In this subsection, the term "feasibility report" means each feasibility report, and any associated environmental impact statementand mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
 
 #### (b) Federal interest determination
 
@@ -36,17 +36,7 @@
 
 #### (B) Other communities
 
-#### (i) Authorization
-
-&emsp;&emsp;&emsp;In preparing a feasibility report under subsection (a) for a study that will benefit a covered community, upon request by the non-Federal interest for the study, the Secretary may, with respect to not more than 3 studies in each fiscal year, first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
-
-#### (ii) Covered communities
-
-&emsp;&emsp;&emsp;In this subparagraph, the term "covered community" means a community that—
-
-&emsp;&emsp;&emsp;&emsp;(I) is not an economically disadvantaged community; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary finds has a compelling need for the Secretary to make a determination under clause (i).
+&emsp;&emsp;In preparing a feasibility report under subsection (a) for a study that will benefit a community other than a community described in subparagraph (A), upon request by the non-Federal interest for the study, the Secretary may, with respect to not more than 20 studies in each fiscal year, first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
 
 #### (2) Cost share
 
@@ -112,7 +102,7 @@ The Secretary shall undertake such measures as are necessary to ensure that stan
 
 #### (3) Non-Federal interest notification
 
-&emsp;Each District Engineer shall submit by certified mail the detailed project schedule under paragraph (2) to each relevant non-Federal interest—
+&emsp;Each District Engineer shall submit by certified mail the detailed project schedule underparagraph (2) to each relevant non-Federal interest—
 
 &emsp;&emsp;(A) for projects that have received funding from the General Investigations Account of the Corps of Engineers in the period beginning on October 1, 2009, and ending on June 10, 2014, not later than 180 days after the establishment of milestones under paragraph (1); and
 
@@ -138,7 +128,7 @@ The Secretary shall undertake such measures as are necessary to ensure that stan
 
 &emsp;&emsp;(B) not later than 30 days after each missed deadline, make publicly available, including on the Internet, a copy of the amended project schedule described in subparagraph (A)(ii).
 
-(Pub. L. 99–662, title IX, §905, Nov. 17, 1986, 100 Stat. 4185; Pub. L. 106–541, title II, §222(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, §2043(b), Nov. 8, 2007, 121 Stat. 1101; Pub. L. 113–121, title I, §1002(a)–(c), June 10, 2014, 128 Stat. 1198; Pub. L. 116–260, div. AA, title I, §117, Dec. 27, 2020, 134 Stat. 2628.)
+(Pub. L. 99–662, title IX, §905, Nov. 17, 1986, 100 Stat. 4185; Pub. L. 106–541, title II, §222(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, §2043(b), Nov. 8, 2007, 121 Stat. 1101; Pub. L. 113–121, title I, §1002(a)–(c), June 10, 2014, 128 Stat. 1198; Pub. L. 116–260, div. AA, title I, §117, Dec. 27, 2020, 134 Stat. 2628; Pub. L. 117–263, div. H, title LXXXI, §8156, Dec. 23, 2022, 136 Stat. 3738.)
 
 #### <b>Editorial Notes</b>
 
@@ -151,6 +141,8 @@ Section 903(b), referred to in subsec. (a)(3)(B), is section 903(b) of Pub. L. 9
 The Water Resources Development Act of 2000, referred to in subsec. (a)(4), is Pub. L. 106–541, Dec. 11, 2000, 114 Stat. 2572. Title VI of the Act is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2201 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1)(B). Pub. L. 117–263 amended subpar. (B) generally. Prior to amendment, subpar. (B) related to feasibility reports for studies benefitting certain other communities.
 
 <b>2020</b>—Subsec. (b). Pub. L. 116–260 added subsec. (b). A prior subsec. (b) was repealed by Pub. L. 113–121, title I, §1002(a)(1). See 2014 Amendment note below.
 
@@ -190,7 +182,7 @@ Pub. L. 113–121, title I, §1003, June 10, 2014, 128 Stat. 1199, provided that
 
 &emsp;"(1) expedite the completion of any on-going feasibility study for a project initiated before the date of enactment of this Act \[June 10, 2014\]; and
 
-&emsp;"(2) if the Secretary determines that the project is justified in a completed report, proceed directly to preconstruction planning, engineering, and design ofthe project in accordance with section 910 of the Water Resources Development Act of 1986 (33 U.S.C. 2287)."
+&emsp;"(2) if the Secretary determines that the project is justified in a completed report, proceed directly to preconstruction planning, engineering, and design of the project in accordance with section 910 of the Water Resources Development Act of 1986 (33 U.S.C. 2287)."
 
 #### National Academy of Sciences Study
 

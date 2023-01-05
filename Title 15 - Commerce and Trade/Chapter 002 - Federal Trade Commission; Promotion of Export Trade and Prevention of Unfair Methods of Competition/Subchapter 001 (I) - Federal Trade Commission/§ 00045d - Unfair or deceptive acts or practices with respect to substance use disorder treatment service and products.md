@@ -18,7 +18,7 @@ It is unlawful to engage in an unfair or deceptive act or practice with respect 
 
 #### (B) Privileges and immunities
 
-&emsp;&emsp;Any person who violates subsection (a) shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated and made part of this section.
+&emsp;&emsp;Any person who violates subsection (a) shall be subject to the penalties and entitledto the privileges and immunities provided in the Federal Trade Commission Act as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated and made part of this section.
 
 #### (c) Authority preserved
 
@@ -30,7 +30,7 @@ Nothing in this subtitle shall be construed to limit the authority of the Federa
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717,which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 This subtitle, referred to in subsec. (c), is subtitle B (§§8021–8023) of title VIII of Pub. L. 115–271, Oct. 24, 2018, 132 Stat. 4082, known as the Opioid Addiction Recovery Fraud Prevention Act of 2018, which enacted this section and provisions set out as notes under this section and section 58 of this title.
 

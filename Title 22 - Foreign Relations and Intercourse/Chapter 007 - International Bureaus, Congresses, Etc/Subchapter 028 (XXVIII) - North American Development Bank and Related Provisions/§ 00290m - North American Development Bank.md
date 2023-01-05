@@ -88,7 +88,7 @@ Section is comprised of section 541 of Pub. L. 103–182. Subsec. (h)(1) of sect
 
 <b>2020</b>—Pub. L. 116–260, §601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
 
-Pub. L. 116–113, §601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
+Pub. L. 116–113, §601, which repealed this section effective on the date the USMCA entered into force (July1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -12,7 +12,7 @@ The Federal Council on the Arts and Humanities (hereinafter in this chapter refe
 
 (1) For purposes of this chapter, the Council shall be an "agency" within the meaning of the appropriate definitions of such term in title 5.
 
-(2) For purposes of this chapter, the Secretary of the Smithsonian Institution, the Director ofthe National Gallery of Art, the member designated by the Chairman of the Senate Commission of Art and Antiquities and the member designated by the Speaker of the House of Representatives shall not serve as members of the Council.
+(2) For purposes of this chapter, the Secretary of the Smithsonian Institution, the Director of the National Gallery of Art, the member designated by the Chairman of the Senate Commission of Art and Antiquities and the member designated by the Speaker of the House of Representatives shall not serve as members of the Council.
 
 (Pub. L. 94–158, §2, Dec. 20, 1975, 89 Stat. 844; Pub. L. 99–194, title III, §301, Dec. 20, 1985, 99 Stat. 1345.)
 

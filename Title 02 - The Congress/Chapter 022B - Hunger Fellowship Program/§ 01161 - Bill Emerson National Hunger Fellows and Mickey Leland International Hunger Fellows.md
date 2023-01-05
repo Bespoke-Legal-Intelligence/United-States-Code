@@ -196,7 +196,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Pub. L. 110–246, §4401, amended section generally, substituting subsecs. (a) to (g) establishing the Bill Emerson National Hunger Fellowship Program and the Mickey Leland International Hunger Fellowship Program for former subsecs. (a) to (j) which established the Congressional Hunger Fellows Program.
 
-<b>2007</b>—Subsec. (f)(4)(A). Pub. L. 110–161, which directed that subpar. (A) be amended by substituting "may" for "shall" and striking out "annual.", was executed by making the substitution and striking out "annual" before "audit", to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (f)(4)(A). Pub. L. 110–161, which directed that subpar. (A) be amended by substituting "may" for"shall" and striking out "annual.", was executed by making the substitution and striking out "annual" before "audit", to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

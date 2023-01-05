@@ -70,7 +70,7 @@ The following consumer products, excluding those consumer products designed sole
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (b)(1)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
@@ -116,7 +116,7 @@ Subsec. (a)(19), (20). Pub. L. 110–140, §324(b), added par. (19) and redesign
 
 Subsec. (b). Pub. L. 100–12, §11(b)(1), inserted heading.
 
-<b>1978</b>—Subsecs. (a)(14), (b)(1), (2)(C). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsecs. (a)(14), (b)(1), (2)(C). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaningAdministrator of the Federal Energy Administration, wherever appearing.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

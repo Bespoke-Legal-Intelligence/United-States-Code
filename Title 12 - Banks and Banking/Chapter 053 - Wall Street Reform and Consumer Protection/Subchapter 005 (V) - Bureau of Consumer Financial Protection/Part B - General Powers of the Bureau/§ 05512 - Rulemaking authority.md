@@ -8,7 +8,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (1) General authority
 
-&emsp;The Director may prescribe rules and issue orders and guidance, as may be necessary or appropriate to enable the Bureau to administer and carry out the purposes and objectivesof the Federal consumer financial laws, and to prevent evasions thereof.
+&emsp;The Director may prescribe rules and issue orders and guidance, as may be necessary or appropriate to enable the Bureau to administer and carry out the purposes and objectives of the Federal consumer financial laws, and to prevent evasions thereof.
 
 #### (2) Standards for rulemaking
 
@@ -48,7 +48,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (B) Deference
 
-&emsp;&emsp;Notwithstanding any power granted to any Federal agency or to the Council under this title,<sup>1</sup> and subject to section 5581(b)(5)(E) of this title, the deference that a court affords to the Bureau with respect to a determination by the Bureau regarding the meaning or interpretation of any provision of a Federal consumer financial law shall be applied as if the Bureau were the only agency authorized to apply, enforce, interpret, or administer the provisions of such Federal consumer financial law.
+&emsp;&emsp;Notwithstanding any power granted to any Federal agency or to the Council under this title,<sup>1</sup> and subject to section 5581(b)(5)(E) of this title, the deference that a court affords to the Bureau with respect to a determination by the Bureau regarding the meaning or interpretation of any provision of a Federal consumer financial law shall be applied as if the Bureau were the only agency authorizedto apply, enforce, interpret, or administer the provisions of such Federal consumer financial law.
 
 #### (c) Monitoring
 
@@ -80,7 +80,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (B) Confidential information
 
-&emsp;&emsp;The Bureau may make public such information obtained by the Bureau under thissection as is in the public interest, through aggregated reports or other appropriate formats designed to protect confidential information in accordance with paragraphs (4), (6), (8), and (9).
+&emsp;&emsp;The Bureau may make public such information obtained by the Bureau under this section as is in the public interest, through aggregated reports or other appropriate formats designed to protect confidential information in accordance with paragraphs (4), (6), (8), and (9).
 
 #### (4) Collection of information
 
@@ -118,7 +118,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (ii) Provision of other reports to the Bureau
 
-&emsp;&emsp;&emsp;In addition to the reports described in clause (i), a prudential regulator or other Federal agency having jurisdiction over a covered person or service provider may, in its discretion, furnish to the Bureau any other report or other confidential supervisory information concerning any insured depository institution, credit union, or other entity examined by such agency under authority of any provision of Federal law.
+&emsp;&emsp;&emsp;In addition to the reports described in clause (i), a prudential regulator or other Federal agency having jurisdiction over a covered person or service provider may, in its discretion, furnish to the Bureau any other report or other confidential supervisory information concerning any insured depository institution, credit union, orother entity examined by such agency under authority of any provision of Federal law.
 
 #### (C) Access by other regulators to reports of the Bureau
 
@@ -142,7 +142,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (C) Consultation with State agencies
 
-&emsp;&emsp;In developing and implementing registration requirements under this paragraph, the Bureau shall consult with State agencies regarding requirements or systems (includingcoordinated or combined systems for registration), where appropriate.
+&emsp;&emsp;In developing and implementing registration requirements under this paragraph, the Bureau shall consult with State agencies regarding requirements or systems (including coordinated or combined systems for registration), where appropriate.
 
 #### (8) Privacy considerations
 

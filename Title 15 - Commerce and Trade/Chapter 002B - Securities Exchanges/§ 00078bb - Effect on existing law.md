@@ -94,7 +94,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (ii) State pension plan defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "State pension plan" means a pension plan established and maintained for its employees by the government of aState or political subdivision thereof, or by any agency or instrumentality thereof.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "State pension plan" means a pension plan established and maintained for its employees by the government of a State or political subdivision thereof, or by any agency or instrumentality thereof.
 
 #### (C) Actions under contractual agreements between issuers and indenture trustees
 
@@ -162,7 +162,7 @@ The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 193
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to rights and remedies provided by this chapter and applicability of certain State securities laws.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §210\], inserted "subject to this chapter" after "privilege, or other security", substituted "any such security" for "any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title", and inserted atend "No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability."
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §210\], inserted "subject to this chapter" after "privilege, or other security", substituted "any such security" for "any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title", and inserted at end "No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except thatthis sentence shall not be construed as limiting any State antifraud law of general applicability."
 
 Subsec. (e)(4). Pub. L. 106–554, §1(a)(5) \[title II, §203(a)(2)\], added par. (4).
 

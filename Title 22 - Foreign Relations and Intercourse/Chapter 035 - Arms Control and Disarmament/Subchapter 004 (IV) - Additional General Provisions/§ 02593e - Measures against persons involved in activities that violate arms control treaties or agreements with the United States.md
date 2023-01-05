@@ -40,7 +40,7 @@ Except as provided in subsections (d), (e), and (f), the President shall impose 
 
 #### (2) Exception for major routes of supply
 
-&emsp;The requirement to impose measures under paragraph (1) shall not apply with respect to any contract for the procurement of goods orservices along a major route of supply to a zone of active combat or major contingency operation.
+&emsp;The requirement to impose measures under paragraph (1) shall not apply with respect to any contract for the procurement of goods or services along a major route of supply to a zone of active combat or major contingency operation.
 
 #### (3) Requirement to revise regulations
 
@@ -110,7 +110,7 @@ The President may waive the application of measures on a case-by-case basis unde
 
 #### (3) Report
 
-&emsp;Not later than 60 days after the submittal to Congress of the report identifying a personpursuant to subsection (a)(1), the President shall submit to the appropriate congressional committees a report on the status of consultations, if any, with the government concerned under this subsection, and the basis for any determination under paragraph (1).
+&emsp;Not later than 60 days after the submittal to Congress of the report identifying a person pursuant to subsection (a)(1), the President shall submit to the appropriate congressional committees a report on the status of consultations, if any, with the government concerned under this subsection, and the basis for any determination under paragraph (1).
 
 #### (g) Termination
 

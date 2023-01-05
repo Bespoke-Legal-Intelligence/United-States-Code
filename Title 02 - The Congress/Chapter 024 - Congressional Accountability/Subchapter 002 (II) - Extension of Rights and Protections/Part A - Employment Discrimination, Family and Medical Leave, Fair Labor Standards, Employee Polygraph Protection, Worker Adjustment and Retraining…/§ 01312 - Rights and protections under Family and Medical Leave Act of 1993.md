@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The rights and protections established by sections 101 through 105 of the Family andMedical Leave Act of 1993 (29 U.S.C. 2611 through 2615) shall apply to covered employees. In applying section 102 of such Act \[29 U.S.C. 2612\] with respect to leave for an event described in subsection (a)(1)(A) or (B) of such section to covered employees, subsection (d) of this section shall apply. Paragraphs (1) and (4) of section 102(a) of such Act \[29 U.S.C. 2612(a)(1), (4)\] shall be subject to subsection (d) of this section.
+&emsp;The rights and protections established by sections 101 through 105 of the Family and Medical Leave Act of 1993 (29 U.S.C. 2611 through 2615) shall apply to covered employees. In applying section 102 of such Act \[29 U.S.C. 2612\] with respect to leave for an event described in subsection (a)(1)(A) or (B) of such section to covered employees, subsection (d) of this section shall apply. Paragraphs (1) and (4) of section 102(a) of such Act \[29 U.S.C. 2612(a)(1), (4)\] shall be subject to subsection (d) of this section.
 
 #### (2) Definitions
 
@@ -76,7 +76,7 @@ The remedy for a violation of subsection (a) shall be such remedy, including liq
 
 #### References in Text
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 Subsection (c) of this section, referred to in subsec. (f)(2), amended section 6381 of Title 5, Government Organization and Employees, and sections 2611 and 2617 of Title 29, Labor.
 
@@ -100,7 +100,7 @@ Subsecs. (d) to (f). Pub. L. 116–92, §7603(a)(2), (3), added subsec. (d) and 
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 116–283, div. A, title XI, §1103(g)(2), Jan. 1, 2021, 134 Stat. 3889, provided that: "The amendment made by this subsection \[amending this section\] shall apply with respect to any event for which leave may be taken under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1995 \[probably means Family and Medical Leave Act of 1993\] (29 U.S.C. 2612(a)(1)) and occurring on or after October 1, 2020."
+Pub. L. 116–283, div. A, title XI, §1103(g)(2), Jan. 1, 2021, 134 Stat. 3889, provided that: "The amendment made by this subsection \[amending this section\] shallapply with respect to any event for which leave may be taken under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1995 \[probably means Family and Medical Leave Act of 1993\] (29 U.S.C. 2612(a)(1)) and occurring on or after October 1, 2020."
 
 #### Effective Date of 2019 Amendment
 

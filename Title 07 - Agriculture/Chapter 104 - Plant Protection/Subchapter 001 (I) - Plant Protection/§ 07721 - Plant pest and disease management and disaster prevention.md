@@ -34,9 +34,9 @@ In this section:
 
 &emsp;&emsp;(B) other interested parties.
 
-#### (3) Federal Advisory Committee Act
+#### (3) Chapter 10 of title 5
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations under this subsection.
+&emsp;Chapter 10 of title 5 shall not apply to consultations under this subsection.
 
 #### (4) Application
 
@@ -94,7 +94,7 @@ In this section:
 
 #### (7) Reporting requirement
 
-&emsp;Not later than 90 days after the date of completion of an early plant pest detection andsurveillance activity conducted by a State department of agriculture using funds provided under this section, the State department of agriculture shall submit to the Secretary a report that describes the purposes and results of the activities.
+&emsp;Not later than 90 days after the date of completion of an early plant pest detection and surveillance activity conducted by a State department of agriculture using funds provided under this section, the State department of agriculture shall submit to the Secretary a report that describes the purposes and results of the activities.
 
 #### (c) Threat identification and mitigation program
 
@@ -200,13 +200,11 @@ Indirect costs charged against a cooperative agreement under this section shall 
 
 &emsp;(2) the indirect cost rate applicable to the recipient as otherwise established by law.
 
-(Pub. L. 106–224, title IV, §420, as added Pub. L. 110–234, title X, §10201(a), May 22, 2008, 122 Stat. 1339, and Pub. L. 110–246, §4(a), title X, §10201(a), June 18, 2008, 122 Stat. 1664, 2101; Pub. L. 113–79,title X, §10007(a), (b), (d), Feb. 7, 2014, 128 Stat. 947, 948.)
+(Pub. L. 106–224, title IV, §420, as added Pub. L. 110–234, title X, §10201(a), May 22, 2008, 122 Stat. 1339, and Pub. L. 110–246, §4(a), title X, §10201(a), June 18, 2008, 122 Stat. 1664, 2101; Pub. L. 113–79, title X, §10007(a), (b), (d), Feb. 7, 2014, 128 Stat. 947, 948; Pub. L. 117–286, §4(a)(40), Dec. 27, 2022, 136 Stat. 4309.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of enactment of this paragraph, referred to in subsec. (c)(3), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -215,6 +213,8 @@ The date of enactment of this paragraph, referred to in subsec. (c)(3), is the d
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2014</b>—Subsecs. (e), (f). Pub. L. 113–79, §10007(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 

@@ -1,0 +1,106 @@
+### §3334k. Report on protocols for certain intelligence community employees and dependents
+
+#### (a) In general
+
+Beginning not later than 180 days after March 15, 2022, the President shall develop, for uniform implementation across the elements of the intelligence community, each of the protocols described in subsections (c) through (f). Such protocols shall be subject to review and revision on a periodic basis, and any implementation of such protocols shall be conducted in accordance with applicable laws and current clinical and professional practices of the interagency medical community.
+
+#### (b) Privacy
+
+No data collected pursuant to any protocol under this section may be used for research or analytical purposes without the written consent of the individual from whom such data was collected with respect to such use.
+
+#### (c) Protocol on baseline medical testing
+
+The protocol described in this subsection is a protocol for conducting voluntary baseline medical testing of covered employees, covered individuals, and the dependents of covered employees who are included on the overseas travel orders of the covered employee. Such protocol shall set forth the required elements of such baseline medical testing, such as—
+
+&emsp;(1) standard lab collection and testing of relevant biofluids;
+
+&emsp;(2) the conduct of relevant visual and auditory examinations;
+
+&emsp;(3) the conduct of Acquired Brain Injury Tool assessments, or other relevant assessments for balance, eye motion, and cognition;
+
+&emsp;(4) the assessment of relevant medical histories; and
+
+&emsp;(5) the conduct of any other standard relevant medical or neurological examinations, testing, or assessments.
+
+#### (d) Protocols on post-incident medical testing
+
+The protocols described in this subsection are protocols to enable voluntary medical testing and the coordination of treatment for covered employees, covered individuals, and the dependents of covered employees, following a reported anomalous health incident, such as—
+
+&emsp;(1) a protocol that sets forth elements, similar to the elements described in subsection (c), of such testing;
+
+&emsp;(2) a protocol pertaining to the voluntary testing and treatment for victims of anomalous health incidents who are children;
+
+&emsp;(3) a protocol for ensuring that all victims of anomalous health incidents receive access to prompt and consistent medical treatment, including from medical professionals holding appropriate security clearances and medical professionals with expertise in child care;
+
+&emsp;(4) a protocol for ensuring that all victims of anomalous health incidents are offered options for psychological treatment for the effects of such incidents; and
+
+&emsp;(5) a protocol for ensuring that any testing, evaluation, or collection of biofluids or other samples following a reported anomaloushealth incident may be compared against the baseline for the victim of the anomalous health incident, to the extent the individual participated in the baseline medical testing, consistent with subsections (b) and (c).
+
+#### (e) Protocol on information collection, storage, and safeguarding
+
+The protocol described in this subsection is a protocol for the collection, storage, and safeguarding of information acquired as a result of the protocols described in subsections (c) and (d).
+
+#### (f) Protocol on reporting mechanisms
+
+The protocol described in this subsection is a protocol for the reporting of matters relating to anomalous health incidents by covered employees, covered individuals, and the dependents of covered employees, including the development of a system for the adjudication of complaints regarding medical treatment received by such covered employees, covered individuals, and dependents of covered employees.
+
+#### (g) Report and briefings
+
+#### (1) Report
+
+&emsp;Not later than 180 days after March 15, 2022, the Director of National Intelligence shall submit to the appropriate congressional committees a report on the protocols described in subsections (c) through (f).
+
+#### (2) Elements
+
+&emsp;Such report shall include the following elements:
+
+&emsp;&emsp;(A) A copy of each protocol under this section.
+
+&emsp;&emsp;(B) A description of the following:
+
+&emsp;&emsp;&emsp;(i) Any interagency agreements, authorities, or policies required to effectively implement the protocols under this section.
+
+&emsp;&emsp;&emsp;(ii) Any new facilities, medical equipment, tools, training, or other resources required to effectively implement such protocols.
+
+&emsp;&emsp;(C) A timeline for the implementation of the protocols under this section, including a proposal for the prioritization of implementation with respect to various categories of covered employees and the dependents of covered employees.
+
+#### (3) Briefing
+
+&emsp;Not later than 60 days following the date of submission of the report under paragraph (1), and biannually thereafter, the Director shall provide to the appropriate congressional committees a briefing regarding the implementation of the protocols under this section.
+
+#### (h) Definitions
+
+In this section:
+
+#### (1) Appropriate congressional committees
+
+&emsp;The term "appropriate congressional committees" means—
+
+&emsp;&emsp;(A) the congressional intelligence committees; and
+
+&emsp;&emsp;(B) the Committees on Armed Services of the House of Representatives and the Senate.
+
+#### (2) Covered employee
+
+&emsp;The term "covered employee" means an individual who is an employee, assignee, or detailee of an element of the intelligence community.
+
+#### (3) Covered individual
+
+&emsp;The term "covered individual" means a contractor to an element of the intelligence community.
+
+#### (4) Dependent of a covered employee
+
+&emsp;The term "dependent of a covered employee" means, with respect to a covered employee, a family member (including a child), as defined by the Director of National Intelligence.
+
+#### (5) Victim of an anomalous health incident
+
+&emsp;The term "victim of an anomalous health incident" means a covered employee, covered individual, or dependent of a covered employee, who is, or is suspected to have been, affected by an anomalous health incident.
+
+(Pub. L. 117–103, div. X, title VI, §605, Mar. 15, 2022, 136 Stat. 996.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Definitions
+
+For definitions of "congressional intelligence committees" and "intelligence community", referred to in text, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.
+

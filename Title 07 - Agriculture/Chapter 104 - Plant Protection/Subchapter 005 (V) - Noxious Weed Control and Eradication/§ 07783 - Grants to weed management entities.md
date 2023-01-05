@@ -46,7 +46,7 @@ Projects funded by grants under this section include the following:
 
 #### (e) Application
 
-To be eligible to receive assistance under this section, a weed management entity shall prepare and submit to the Secretary an application containing such information as the Secretary shall by regulation require.
+To be eligible to receive assistance under this section, a weed management entity shall prepare and submit to the Secretary an applicationcontaining such information as the Secretary shall by regulation require.
 
 #### (f) Selection of projects
 

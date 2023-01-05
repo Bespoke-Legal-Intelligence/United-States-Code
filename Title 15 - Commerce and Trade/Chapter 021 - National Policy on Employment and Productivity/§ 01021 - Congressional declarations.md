@@ -34,7 +34,7 @@ The Congress further declares that it is the purpose of the Full Employment and 
 
 #### (g) Trade deficits
 
-The Congress further declares that trade deficits are a major national problem requiring a strong national export policy including improved Government policies relating to the promotion, facilitation, and financing of commercial and agricultural exports, Government policies designed to reduce foreign barriers to exports through international negotiation and agreement, Federal support for research, development, and diffusion of new technologies to promote innovation in agriculture, business, and industry, the elimination or modification of Government rules or regulations that burden or disadvantage exports and the national and international competitiveness of agriculture, business, and industry, the reexamination of antitrust laws and policies when necessary to enable agriculture, business, and industry to meet foreign competition in the United States and abroad, and the achievement of a free and fair international trading system and a sound and stable international monetary order.
+The Congress further declares that trade deficits are a major national problem requiring a strong national export policy including improved Government policies relating to the promotion, facilitation, and financing of commercial and agricultural exports, Government policies designed to reduce foreign barriers to exports through international negotiation and agreement, Federal support for research, development, and diffusion of new technologies to promote innovation in agriculture, business, and industry, the elimination or modification ofGovernment rules or regulations that burden or disadvantage exports and the national and international competitiveness of agriculture, business, and industry, the reexamination of antitrust laws and policies when necessary to enable agriculture, business, and industry to meet foreign competition in the United States and abroad, and the achievement of a free and fair international trading system and a sound and stable international monetary order.
 
 #### (h) Balanced Federal budget
 
@@ -54,7 +54,7 @@ The Congress further declares that it is the purpose of the Full Employment and 
 
 #### References in Text
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d), (e), (f), (h), and (j), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d), (e), (f), (h), and (j), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(B) a request to the Secretary to approve a change to an application approved under section 360b(c)(2) of this title for which data with respect to safety or effectiveness are required.
 
-&emsp;(3) The term "animal drug product" means each specific strength or potency of a particular active ingredient or ingredients in final dosage form marketed by a particular manufacturer or distributor, which is uniquely identified by the labeler code and product code portions of the national drug code, and for which an animal drug application or a supplemental animal drug application has been approved.
+&emsp;(3) The term "animal drug product" means each specific strength or potency of a particular active ingredient or ingredients in final dosage form marketed by a particularmanufacturer or distributor, which is uniquely identified by the labeler code and product code portions of the national drug code, and for which an animal drug application or a supplemental animal drug application has been approved.
 
 &emsp;(4) The term "animal drug establishment" means a foreign or domestic place of business which is at one general physical location consisting of one or more buildings all of which are within 5 miles of each other, at which one or more animal drug products are manufactured in final dosage form.
 
@@ -34,7 +34,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(A) The activities necessary for the review of animal drug applications, supplemental animal drug applications, and investigational animal drug submissions.
 
-&emsp;&emsp;(B) The issuance of action letters which approve animal drug applications or supplemental animal drug applications or which set forth in detail the specific deficiencies inanimal drug applications, supplemental animal drug applications, or investigational animal drug submissions and, where appropriate, the actions necessary to place such applications, supplements or submissions in condition for approval.
+&emsp;&emsp;(B) The issuance of action letters which approve animal drug applications or supplemental animal drug applications or which set forth in detail the specific deficiencies in animal drug applications, supplemental animal drug applications, or investigational animal drug submissions and, where appropriate, the actions necessary to place such applications, supplements or submissions in condition for approval.
 
 &emsp;&emsp;(C) The inspection of animal drug establishments and other facilities undertaken as part of the Secretary's review of pending animal drug applications, supplemental animal drug applications, and investigational animal drug submissions.
 
@@ -136,7 +136,7 @@ Pub. L. 108–130, §2, Nov. 18, 2003, 117 Stat. 1361, provided that: "Congress 
 
 &emsp;"(2) Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for review of new animal drug applications.
 
-&emsp;"(3) The fees authorized by this Act \[enacting this subpart and provisions set out as notes under thissection and section 301 of this title\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
+&emsp;"(3) The fees authorized by this Act \[enacting this subpart and provisions set out as notes under this section and section 301 of this title\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 
 #### Accountability and Reports
 

@@ -22,5 +22,5 @@ Historical and Revision Notes
 
 46:621
 
-Section 10701 provides that the provisions in chapter 107 apply to vessels on voyages between U.S. ports and foreign countries (except Canada, Mexico, or the West Indies) and between United States ports on the Atlantic and United States ports on the Pacific. It does not apply to foreign vessels or vessels on which the seamen share the profits.
+Section 10701 provides that the provisions in chapter 107 apply to vessels on voyages between U.S. ports andforeign countries (except Canada, Mexico, or the West Indies) and between United States ports on the Atlantic and United States ports on the Pacific. It does not apply to foreign vessels or vessels on which the seamen share the profits.
 

@@ -56,7 +56,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;(A) the Sudan Armed Forces;
 
-&emsp;&emsp;(B) the Rapid Support Forces,
+&emsp;&emsp;(B) the Rapid Support Forces,<sup>1</sup>
 
 &emsp;&emsp;(C) Sudan's Popular Defense Forces and other paramilitary units;
 
@@ -87,4 +87,6 @@ This chapter, referred to in text, was in the original "this subtitle", meaning 
 #### Short Title
 
 Pub. L. 116–283, div. A, title XII, §1261, Jan. 1, 2021, 134 Stat. 3967, provided that: "This subtitle \[subtitle G (§§1261–1270E) of title XII of div. A of Pub. L. 116–283, enacting this chapter and amending and repealing provisions set out as notes under section 1701 of Title 50, War and National Defense\] may be cited as the 'Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020'."
+
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

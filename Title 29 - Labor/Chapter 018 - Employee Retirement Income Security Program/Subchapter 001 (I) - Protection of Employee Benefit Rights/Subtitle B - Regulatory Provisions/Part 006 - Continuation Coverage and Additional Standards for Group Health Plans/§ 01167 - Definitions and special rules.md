@@ -54,7 +54,7 @@ For purposes of this part—
 
 #### Amendments
 
-<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
+<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employerhealth reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
 
 <b>1996</b>—Par. (1). Pub. L. 104–191, §321(d)(2), inserted at end "Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26)."
 
@@ -98,7 +98,7 @@ Pub. L. 101–239, title VII, §7862(c)(6)(B), Dec. 19, 1989, 103 Stat. 2433, pr
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Amendment by section 7891(d)(2)(B)(i) of Pub. L. 101–239 applicable with respect to plan years beginningon or after Jan. 1, 1990, see section 7891(d)(2)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26, Internal Revenue Code.
+Amendment by section 7891(d)(2)(B)(i) of Pub. L. 101–239 applicable with respect to plan years beginning on or after Jan. 1, 1990, see section 7891(d)(2)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1988 Amendment
 

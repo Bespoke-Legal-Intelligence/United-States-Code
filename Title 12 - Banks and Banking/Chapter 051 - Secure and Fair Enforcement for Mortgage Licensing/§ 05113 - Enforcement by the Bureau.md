@@ -24,7 +24,7 @@ The Director may—
 
 #### (4) Administration of oaths and affirmations; evidence
 
-&emsp;In connection with examinations of loan originators operating in any State which is subject to a licensing system established by the Director under section 5107 of this title, or with other types of investigations to determine compliance with applicable law and regulations, the Director and examiners appointed by the Director may administer oaths and affirmations and examine and take and preserve testimony under oath as to any matter in respect to the affairs of any such loan originator.
+&emsp;In connection with examinations of loan originators operating in any State which is subject to a licensing system established bythe Director under section 5107 of this title, or with other types of investigations to determine compliance with applicable law and regulations, the Director and examiners appointed by the Director may administer oaths and affirmations and examine and take and preserve testimony under oath as to any matter in respect to the affairs of any such loan originator.
 
 #### (5) Assessments
 

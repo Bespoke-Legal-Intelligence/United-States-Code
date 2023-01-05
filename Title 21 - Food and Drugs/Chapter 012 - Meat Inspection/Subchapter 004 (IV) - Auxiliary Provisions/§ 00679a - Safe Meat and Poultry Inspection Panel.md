@@ -38,7 +38,7 @@ Not later than 90 days after the publication of a panel report under subsection 
 
 #### (d) Composition of panel
 
-The panel shall be composed of 7 members, not fewer than 5 of whom shall be from the food science, meat science, or poultry science profession, appointed to staggered terms not to exceed 3 years by the Secretary from nominations received from the National Institutes of Health and the Federation of American Societies of Food Animal Science and based on the professional qualifications of the nominees.
+The panel shall be composed of 7 members, not fewer than 5 of whom shall be from the food science, meat science, or poultry science profession, appointed to staggered terms not to exceed3 years by the Secretary from nominations received from the National Institutes of Health and the Federation of American Societies of Food Animal Science and based on the professional qualifications of the nominees.
 
 #### (e) Nominations
 
@@ -74,27 +74,29 @@ The Secretary shall promulgate regulations regarding conflicts of interest with 
 
 #### (h) Exemption
 
-The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to the panel.
+Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to the panel.
 
 #### (i) Funding
 
 From funds available to the Secretary to carry out this chapter and the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), the Secretary shall allocate such sums as may be necessary to carry out this section.
 
-(Mar. 4, 1907, ch. 2907, title IV, §410, as added Pub. L. 104–127, title IX, §918(a)(1)(B), Apr. 4, 1996, 110 Stat. 1188.)
+(Mar. 4, 1907, ch. 2907, title IV, §410, as added Pub. L. 104–127, title IX, §918(a)(1)(B), Apr. 4, 1996, 110 Stat. 1188; amended Pub. L. 117–286, §4(a)(161), Dec. 27, 2022, 136 Stat. 4323.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Food and Agriculture Act of 1977, referred to in subsec. (h), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
 
-The Food and Agriculture Act of 1977, referred to in subsec. (h), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
-
-The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to section 680 of this title.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

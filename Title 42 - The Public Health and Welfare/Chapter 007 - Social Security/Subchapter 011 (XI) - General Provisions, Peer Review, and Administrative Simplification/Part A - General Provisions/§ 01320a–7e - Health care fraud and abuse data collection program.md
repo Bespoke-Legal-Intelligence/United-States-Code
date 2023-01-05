@@ -232,7 +232,7 @@ Special provision for access to the national practitioner data bank by the depar
 
 &emsp;"(A)
 
-In general.—Notwithstanding any other provision of law, during the 1-year period that begins on the effective date specified in paragraph (6), the information described in subparagraph (B) shall be available from the National Practitioner Data Bank to the Secretary of Veterans Affairs without charge.
+In general.—Notwithstanding any other provision of law, during the 1-year period that begins onthe effective date specified in paragraph (6), the information described in subparagraph (B) shall be available from the National Practitioner Data Bank to the Secretary of Veterans Affairs without charge.
 
 &emsp;"(B)
 

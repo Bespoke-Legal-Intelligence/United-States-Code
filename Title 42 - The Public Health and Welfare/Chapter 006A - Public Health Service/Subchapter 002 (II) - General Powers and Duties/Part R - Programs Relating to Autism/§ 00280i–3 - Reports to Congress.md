@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) information on the average age of diagnosis for children with autism spectrum disorder and other disabilities, including how that age may have changed over the 4-year period beginning on September 30, 2019, and, as appropriate, how this age varies across population subgroups;
 
-&emsp;&emsp;(E) information on the average age for intervention for individuals diagnosed with autism spectrum disorder and other developmental disabilities, including how that agemay have changed over the 4-year period beginning on September 30, 2019, and, as appropriate, how this age varies across population subgroups;
+&emsp;&emsp;(E) information on the average age for intervention for individuals diagnosed with autism spectrum disorder and other developmental disabilities, including how that age may have changed over the 4-year period beginning on September 30, 2019, and, as appropriate, how this age varies across population subgroups;
 
 &emsp;&emsp;(F) information on the average time between initial screening and then diagnosis or rule out for individuals with autism spectrum disorder or other developmental disabilities, as well as information on the average time between diagnosis and evidence-based intervention for individuals with autism spectrum disorder or other developmental disabilities and, as appropriate, on how such average time varies across population subgroups;
 

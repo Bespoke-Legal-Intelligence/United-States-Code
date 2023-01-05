@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 (D)(i) The requirement of ineligibility for educational assistance under chapter 34 of this title, prescribed in subparagraph (A), shall be waived in the case of a veteran described in division (ii) of this subparagraph who elects to receive benefits under this chapter instead of assistance under such chapter 34. A veteran who makes such an election shall be ineligible for assistance under such chapter. Such an election is irrevocable.
 
-(ii) A veteran referred to in division (i) of this subparagraph is a veteran who before January 1, 1977, performed military service described in subparagraph (C)(iii), is entitled under section 3452(a)(3)(C) of this title to have such service considered to be "active duty" for the purposes of chapter 34 of this title, and is eligible for assistance under such chapter only by reason of having such service considered to be active duty.
+(ii) A veteran referred to in division (i) of this subparagraph is a veteran who before January 1, 1977, performed military service described in subparagraph (C)(iii), is entitled under section3452(a)(3)(C) of this title to have such service considered to be "active duty" for the purposes of chapter 34 of this title, and is eligible for assistance under such chapter only by reason of having such service considered to be active duty.
 
 (2) The term "program of education"—
 

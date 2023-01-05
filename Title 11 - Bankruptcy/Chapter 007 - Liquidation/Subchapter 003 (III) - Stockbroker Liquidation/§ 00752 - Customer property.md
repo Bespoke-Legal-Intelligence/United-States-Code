@@ -14,7 +14,7 @@
 
 #### senate report no. 95–989
 
-Section 752(a) requires the trustee to distribute customer property to customers based on the amount oftheir net equity claims. Customer property is to be distributed in priority to all claims except expenses of administration entitled to priority under §507(1). It is anticipated that the court will apportion such administrative claims on an equitable basis between the general estate and the customer property of the debtor.
+Section 752(a) requires the trustee to distribute customer property to customers based on the amount of their net equity claims. Customer property is to be distributed in priority to all claims except expenses of administration entitled to priority under §507(1). It is anticipated that the court will apportion such administrative claims on an equitable basis between the general estate and the customer property of the debtor.
 
 Subsection (b)(1) indicates that in the event customer property exceeds customers net equity claims and administrative expenses, the excess pours over into the general estate. This event would occur if the value of securities increased dramatically after the order for relief but before liquidation by the trustee. Subsection (b)(2) indicates that the unpaid portion of a customer's net equity claim is entitled to share in the general estate as an unsecured claim unless subordinated by the court under proposed 11 U.S.C. 501. A net equity claim of a customer that is subordinated under section 747 is entitled to share in distribution under section 726(a)(2) unless subordinated under section 510 independently of the subordination under section 747.
 

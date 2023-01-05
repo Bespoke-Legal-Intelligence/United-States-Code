@@ -22,7 +22,7 @@ Nothing in this chapter or in section 514 of the International Claims Settlement
 
 &emsp;(1) to require or otherwise authorize the claims of Cuban nationals who became United States citizens after their property was confiscated to be included in the claims certified to the Secretary of State by the Foreign Claims Settlement Commission for purposes of future negotiation and espousal of claims with a friendly government in Cuba when diplomatic relations are restored; or
 
-&emsp;(2) as superseding, amending, or otherwise altering certifications that have been madeunder title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] before March 12, 1996.
+&emsp;(2) as superseding, amending, or otherwise altering certifications that have been made under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] before March 12, 1996.
 
 (Pub. L. 104–114, title III, §303, Mar. 12, 1996, 110 Stat. 819.)
 
@@ -30,7 +30,7 @@ Nothing in this chapter or in section 514 of the International Claims Settlement
 
 #### References in Text
 
-The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1), (2) and (c)(2), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1), (2) and (c)(2), is act Mar. 10, 1950, ch. 54, 64 Stat. 12. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 

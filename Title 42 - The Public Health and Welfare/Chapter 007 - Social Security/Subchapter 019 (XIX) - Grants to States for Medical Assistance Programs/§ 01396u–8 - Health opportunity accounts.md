@@ -80,7 +80,7 @@
 
 #### (B) On enrollees in Medicaid managed care organizations
 
-&emsp;&emsp;Insofar as the State provides for eligibility of individuals who are enrolled in Medicaidmanaged care organizations, such individuals may participate in the State demonstration program only if the State provides assurances satisfactory to the Secretary that the following conditions are met with respect to any such organization:
+&emsp;&emsp;Insofar as the State provides for eligibility of individuals who are enrolled in Medicaid managed care organizations, such individuals may participate in the State demonstration program only if the State provides assurances satisfactory to the Secretary that the following conditions are met with respect to any such organization:
 
 &emsp;&emsp;&emsp;(i) In no case may the number of such individuals enrolled in the organization who participate in the program exceed 5 percent of the total number of individuals enrolled in such organization.
 

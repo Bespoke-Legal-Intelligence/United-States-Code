@@ -10,7 +10,7 @@ Required Display.—The POW/MIA flag shall be displayed at the locations specifi
 
 &emsp;(1) as the symbol of the Nation's concern and commitment to achieving the fullest possible accounting of Americans who, having been prisoners of war or missing in action, still remain unaccounted for; and
 
-&emsp;(2) as the symbol of the Nation's commitment to achieving the fullest possible accounting for Americans who in the future may become prisoners of war, missing in action, or otherwise unaccounted for as a result of hostile action.
+&emsp;(2) as the symbol of the Nation's commitment to achieving the fullest possible accounting for Americans who in the future may become prisoners of war, missing in action, orotherwise unaccounted for as a result of hostile action.
 
 (c)
 
@@ -98,7 +98,7 @@ Section 1082(g) of that Act, which defined "POW/MIA flag" as used in section 108
 
 Section 1082(h), which required that regulations be prescribed no later than 180 days after enactment of Public law 105–85, is repealed as executed.
 
-Section 1082(i), which required that the Administrator of GSA procure and distribute POW/MIA flags nolater than 30 days after enactment of Public Law 105–85, is repealed as executed.
+Section 1082(i), which required that the Administrator of GSA procure and distribute POW/MIA flags no later than 30 days after enactment of Public Law 105–85, is repealed as executed.
 
 Section 1082(j), which repealed section 1084 of Public Law 102–190 (previously restated as subsections (b) and (c) of section 902 of title 36), is repealed as executed.
 

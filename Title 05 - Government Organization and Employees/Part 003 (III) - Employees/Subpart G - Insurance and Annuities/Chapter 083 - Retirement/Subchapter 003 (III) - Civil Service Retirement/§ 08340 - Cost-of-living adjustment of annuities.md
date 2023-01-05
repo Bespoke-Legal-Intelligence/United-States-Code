@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(ii) ending on the effective date of the adjustment under this section.
 
-(2) For the purposes of paragraph (1) of this subsection, "pay" means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
+(2) For the purposes of paragraph (1) of this subsection, "pay" means the rate of salary or basic pay as payable under any provision of law,including any provision of law limiting the expenditure of appropriated funds.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 576; Pub. L. 90–83, §1(79), Sept. 11, 1967, 81 Stat. 215; Pub. L. 91–93, title II, §204, Oct. 20, 1969, 83 Stat. 139; Pub. L. 93–136, §1, Oct. 24, 1973, 87 Stat. 490; Pub. L. 94–126, §2(b), Nov. 12, 1975, 89 Stat. 679; Pub. L. 94–183, §2(35), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–440, title XIII, §1306(a), (c)(1), Oct. 1, 1976, 90 Stat. 1462; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–499, title IV, §401(a), Dec. 5, 1980, 94 Stat. 2605; Pub. L. 97–35, title XVII, §1702(a), (b), Aug. 13, 1981, 95 Stat. 754; Pub. L. 97–253, title III, §§304(a), 309(a), Sept. 8, 1982, 96 Stat. 795, 798; Pub. L. 98–270, title II, §201(a), Apr. 18, 1984, 98 Stat. 157; Pub. L. 98–369, div. B, title II, §2201(b), July 18, 1984, 98 Stat. 1058; Pub. L. 99–251, title II, §204, Feb. 27, 1986, 100 Stat. 25.)
 
@@ -162,7 +162,7 @@ Subsec. (c)(3). Pub. L. 94–183 substituted "after October 31, 1969" for "on or
 
 <b>1969</b>—Subsec. (b). Pub. L. 91–93, §204(a), increased the annuity payable from the Fund by 1 percent.
 
-Subsec. (c)(2). Pub. L. 91–93, §204(b), increased the minimum survivor annuity for children of a deceased Federal employee, substituting dollar and percentagereferences to $900, $1,080, $2,700, $3,240, and 60 and 75 percent for prior references to $600, $720, $1,800, $2,160 and 40 and 50 percent respectively, such new increases to commence on or after the first day of the first month that begins on or after Oct. 20, 1969, the date of enactment of the Civil Service Retirement Amendments of 1969, whereas prior provisions were for computation of a child's annuity commencing after effective date of first increase under this section based on employee annuity that commenced after Oct. 1, 1956, or was payable at death.
+Subsec. (c)(2). Pub. L. 91–93, §204(b), increased the minimum survivor annuity for children of a deceased Federal employee, substituting dollar and percentage references to $900, $1,080, $2,700, $3,240, and 60 and 75 percent for prior references to $600, $720, $1,800, $2,160 and 40 and 50 percent respectively, such new increases to commence on or after the first day of the first month that begins on or after Oct. 20, 1969, the date of enactment of the Civil Service Retirement Amendments of 1969, whereas prior provisions were for computation of a child's annuity commencing after effective date of first increase under this section based on employee annuity that commenced after Oct. 1, 1956, or was payable at death.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -240,7 +240,7 @@ Pub. L. 98–369, div. B, title II, §2201(a), July 18, 1984, 98 Stat. 1058, pro
 
 #### Cost-of-Living Adjustments During Fiscal Years 1983, 1984, and 1985
 
-Pub. L. 97–253, title III, §301(a)–(c), Sept. 8, 1982, 96 Stat. 790, 791, as amended by Pub. L. 98–270, title I,§201(c), Apr. 18, 1984, 98 Stat. 158; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403, provided that:
+Pub. L. 97–253, title III, §301(a)–(c), Sept. 8, 1982, 96 Stat. 790, 791, as amended by Pub. L. 98–270, title I, §201(c), Apr. 18, 1984, 98 Stat. 158; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403, provided that:
 
 "(a)(1) Except as provided in paragraph (3), the cost-of-living increase under any Government retirement system in annuity or retired or retainer pay of any early retiree taking effect in each of fiscal years 1983, 1984, and 1985, shall be equal to one-half of the assumed increase in the price index for that year.
 

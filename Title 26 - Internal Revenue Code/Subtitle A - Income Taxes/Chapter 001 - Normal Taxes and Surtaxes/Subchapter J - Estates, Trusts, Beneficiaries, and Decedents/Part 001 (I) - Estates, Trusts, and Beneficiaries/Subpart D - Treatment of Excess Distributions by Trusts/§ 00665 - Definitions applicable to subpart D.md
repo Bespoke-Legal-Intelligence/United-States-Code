@@ -86,7 +86,7 @@ Subsec. (d)(2). Pub. L. 104–188, §1904(b)(1), inserted at end "Under rules or
 
 &emsp;"(2) in the case of a foreign trust created by a United States person, such term does not include any taxable year of the trust to which this part does not apply.
 
-> In the case of a preceding taxable year with respect to which a trust qualifies (without regard to this subpart) under the provisions of subpart B, for purposes of the application of this subpart to such trust for such taxable year, such trust shall, in accordance with regulations prescribed by the Secretary, be treated as a trust to which subpart C applies."
+> In the case of a preceding taxable year with respect to which a trust qualifies (without regard to this subpart) under the provisions of subpart B, for purposes of theapplication of this subpart to such trust for such taxable year, such trust shall, in accordance with regulations prescribed by the Secretary, be treated as a trust to which subpart C applies."
 
 <b>1986</b>—Subsec. (d)(1). Pub. L. 99–514 substituted "part IV" for "subpart A of part IV".
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §701(q)(3)(A), Nov. 6, 1978, 92 Stat. 2910, provided that: "The amendments made byparagraph (1) \[amending this section and section 667 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975."
+Pub. L. 95–600, title VII, §701(q)(3)(A), Nov. 6, 1978, 92 Stat. 2910, provided that: "The amendments made by paragraph (1) \[amending this section and section 667 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975."
 
 #### Effective Date of 1976 Amendment
 
@@ -156,7 +156,7 @@ General rule.—Except as otherwise provided in this subsection, the amendments 
 
 Exceptions.—
 
-&emsp;"(A) Amounts paid, credited, or required to be distributed by a trust (other than a foreign trust created by a United States person) on or before the last day of a taxable year of the trust beginning before January 1, 1974, shall not be deemed to be accumulation distributions to the extent that such amounts were accumulated by a trust in taxable years of such trust beginning before January 1, 1969, and would have been excepted from the definition of an accumulation distribution by reason of paragraph (1), (2), (3), or (4) of section 665(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as in effect on December 31, 1968, if they had been distributed on the last day of the last taxable year of the trust beginning before January 1, 1969.
+&emsp;"(A) Amounts paid, credited, or required to be distributed by a trust (other than a foreign trust createdby a United States person) on or before the last day of a taxable year of the trust beginning before January 1, 1974, shall not be deemed to be accumulation distributions to the extent that such amounts were accumulated by a trust in taxable years of such trust beginning before January 1, 1969, and would have been excepted from the definition of an accumulation distribution by reason of paragraph (1), (2), (3), or (4) of section 665(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as in effect on December 31, 1968, if they had been distributed on the last day of the last taxable year of the trust beginning before January 1, 1969.
 
 &emsp;"(B) For taxable years of a trust beginning before January 1, 1970, the first sentence of section 666(a) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply, and the amount of the accumulation distribution of the trust for such taxable years shall be deemed to be an amount within the meaning of paragraph (2) of section 661(a) distributed on the last day of each of the preceding taxable years to the extent that such amount exceeds the total of any undistributed net income for any taxable years intervening between the taxable year with respect of which the accumulation distribution is determined and such preceding taxable year.
 

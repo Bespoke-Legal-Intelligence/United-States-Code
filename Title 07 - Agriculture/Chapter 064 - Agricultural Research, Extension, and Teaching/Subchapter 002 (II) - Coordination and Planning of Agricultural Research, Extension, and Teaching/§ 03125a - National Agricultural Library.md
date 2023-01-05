@@ -48,7 +48,7 @@ Funds received from sales under subsection (e) shall be deposited in the Treasur
 
 #### (1) In general
 
-&emsp;The Director may enter into agreement with, and receive funds from any State, and other political subdivision, organization, business, or individual for the purpose of conducting activities to carry out this section.
+&emsp;The Director may enter into agreement with, and receive funds from any State, andother political subdivision, organization, business, or individual for the purpose of conducting activities to carry out this section.
 
 #### (2) Funds
 
@@ -68,7 +68,7 @@ Pub. L. 103–354, title III, §308, as added by Pub. L. 110–234, title VII, �
 
 "(a)
 
-Establishment.—To enhance the use of real property administered by agencies of the Department,the Secretary may establish a program, in accordance with this section, at the Beltsville Agricultural Research Center of the Agricultural Research Service and the National Agricultural Library to lease nonexcess property of the Center or the Library to any individual or entity, including agencies or instrumentalities of State or local governments.
+Establishment.—To enhance the use of real property administered by agencies of the Department, the Secretary may establish a program, in accordance with this section, at the Beltsville Agricultural Research Center of the Agricultural Research Service and the National Agricultural Library to lease nonexcess property of the Center or the Library to any individual or entity, including agencies or instrumentalities of State or local governments.
 
 "(b)
 

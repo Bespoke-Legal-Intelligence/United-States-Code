@@ -38,7 +38,7 @@ Pub. L. 98–419, §1, Sept. 25, 1984, 98 Stat. 1607, provided: "That this Act \
 
 #### Short Title
 
-Pub. L. 93–627, §1, Jan. 3, 1975, 88 Stat. 2126, provided: "That this Act \[enacting this chapter and amending section 1333 of Title 43, Public Lands\] may be cited as the 'Deepwater Port Act of 1974'."
+Pub. L. 93–627, §1, Jan. 3, 1975, 88 Stat. 2126, provided: "That this Act \[enacting this chapter and amendingsection 1333 of Title 43, Public Lands\] may be cited as the 'Deepwater Port Act of 1974'."
 
 #### Congressional Purposes for 1996 Amendments
 

@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(i) documents the areas where the provider—
 
-&emsp;&emsp;&emsp;&emsp;(I) has actually built out the broadband network infrastructure of the provider such that the provider is able to provide that service; and
+&emsp;&emsp;&emsp;&emsp;(I) has actually built out the broadband network infrastructure of theprovider such that the provider is able to provide that service; and
 
 &emsp;&emsp;&emsp;&emsp;(II) could provide that service, as determined by identifying where the provider is capable of performing a standard broadband installation, if applicable;
 
@@ -242,7 +242,7 @@
 
 #### (D) Report to Congress
 
-&emsp;&emsp;Not earlier than 1 year, and not later than 18 months, after the date on which the rulesissued under subsection (a)(1) take effect, the Commission shall, after an opportunity for notice and comment, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
+&emsp;&emsp;Not earlier than 1 year, and not later than 18 months, after the date on which the rules issued under subsection (a)(1) take effect, the Commission shall, after an opportunity for notice and comment, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
 
 &emsp;&emsp;&emsp;(i) evaluates the challenge process described in subparagraph (A); and
 
@@ -276,7 +276,7 @@
 
 #### (7) Sharing data with NTIA
 
-&emsp;The Commission shall establish a process to make the data collected under paragraph (2) available to the National Telecommunications and Information Administration.
+&emsp;The Commission shall establish a process to make the data collected under paragraph (2)available to the National Telecommunications and Information Administration.
 
 #### (c) Maps
 
@@ -320,7 +320,7 @@ The Commission shall—
 
 Any requirement of a rule issued under subsection (a)(1) that relates to quality of service shall take effect not earlier than the date that is 180 days after the date on which the Commission issues that rule.
 
-(June 19, 1934, ch. 652, title VIII, §802, as added Pub. L. 116–130, §2, Mar. 23, 2020, 134 Stat. 229;amended Pub. L. 117–58, div. F, title I, §§60102(h)(2)(E)(i), 60103(d)(1), (e), Nov. 15, 2021, 135 Stat. 1198, 1205.)
+(June 19, 1934, ch. 652, title VIII, §802, as added Pub. L. 116–130, §2, Mar. 23, 2020, 134 Stat. 229; amended Pub. L. 117–58, div. F, title I, §§60102(h)(2)(E)(i), 60103(d)(1), (e), Nov. 15, 2021, 135 Stat. 1198, 1205.)
 
 #### <b>Editorial Notes</b>
 
@@ -333,6 +333,24 @@ Subsec. (b)(5)(C)(i). Pub. L. 117–58, §60102(h)(2)(E)(i), substituted "challe
 Subsec. (c)(6). Pub. L. 117–58, §60103(e), inserted ", including on a publicly available website," after "make public" in introductory provisions. Directory language amending "the matter preceding paragraph (6)" was executed as if it had referred to the matter preceding subpar. (A), to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Data Mapping to Save Moms' Lives
+
+Pub. L. 117–247, Dec. 20, 2022, 136 Stat. 2347, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Data Mapping to Save Moms' Lives Act'.
+
+#### "SEC. 2. MAPPING BROADBAND CONNECTIVITY AND MATERNAL HEALTH OUTCOMES.
+
+"(a)
+
+Incorporation of Maternal Mortality and Severe Maternal Morbidity Data.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2022\], the Federal Communications Commission shall incorporate publicly available data on maternal mortality and severe maternal morbidity, including for not less than 1 year postpartum, into the Mapping Broadband Health in America platform of the Commission.
+
+"(b)
+
+Consultation With CDC.—The Federal Communications Commission shall consult with the Director of the Centers for Disease Control and Prevention regarding the maternal mortality and severe maternal morbidity data that should be incorporated under subsection (a)."
 
 #### Implementation
 

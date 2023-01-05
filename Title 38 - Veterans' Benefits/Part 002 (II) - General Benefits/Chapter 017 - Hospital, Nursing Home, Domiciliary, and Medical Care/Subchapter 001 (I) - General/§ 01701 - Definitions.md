@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(A)(i) medical services rendered in the course of the hospitalization of any veteran, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title;
 
-&emsp;(B) such mental health services, consultation, professional counseling, marriage and family counseling, and training for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
+&emsp;(B) such mental health services, consultation, professional counseling, marriage andfamily counseling, and training for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
 
 &emsp;(C)(i) medical services rendered in the course of the hospitalization of a dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title, and (ii) travel and incidental expenses for such dependent or survivor under the terms and conditions set forth in section 111 of this title.
 
@@ -47,6 +47,8 @@ For the purposes of this chapter—
 &emsp;(G) Travel and incidental expenses pursuant to section 111 of this title.
 
 &emsp;(H) Chiropractic services.
+
+&emsp;(I) The provision of medically necessary van lifts, raised doors, raised roofs, air conditioning, and wheelchair tiedowns for passenger use.
 
 (7) The term "domiciliary care" includes necessary medical services and travel and incidental expenses pursuant to the provisions of section 111 of this title.
 
@@ -80,7 +82,7 @@ For the purposes of this chapter—
 
 (10) The term "recommended adult immunization schedule" means the schedule established (and periodically reviewed and, as appropriate, revised) by the Advisory Committee on Immunization Practices established by the Secretary of Health and Human Services and delegated to the Centers for Disease Control and Prevention.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, §2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, §2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, §101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, §102, title II, §202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, §5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, §102(c), title II, §201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, §101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, §4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, §106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, §103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, §2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, §203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, §131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, §14(b)(8), June 13, 1991, 105 Stat. 283; renumbered §1701 and amended Pub. L. 102–83, §§4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, §101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, §208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, §308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045; Pub. L. 110–387, title III, §301(a)(1), title VIII, §801, Oct. 10, 2008, 122 Stat. 4120, 4140; Pub. L. 114–315, title VI, §602(a), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–141, div. J, title II, §245(b), Mar. 23, 2018, 132 Stat. 823.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, §2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, §2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, §101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, §102, title II, §202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, §5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, §102(c), title II, §201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, §101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, §4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, §106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, §103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, §2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, §203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, §131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, §14(b)(8), June 13, 1991, 105 Stat. 283; renumbered §1701 and amended Pub. L. 102–83, §§4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, §101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, §208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, §308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045; Pub. L. 110–387, title III, §301(a)(1), title VIII, §801, Oct. 10, 2008, 122 Stat. 4120, 4140; Pub. L. 114–315, title VI, §602(a), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–141, div. J, title II, §245(b), Mar. 23, 2018, 132 Stat. 823; Pub. L. 117–333, §22, Jan. 5, 2023, 136 Stat. 6138.)
 
 #### <b>Editorial Notes</b>
 
@@ -93,6 +95,8 @@ The text of section 1762 of this title, which was transferred to the end of this
 Prior sections 1700 and 1701 were renumbered sections 3500 and 3501 of this title, respectively.
 
 #### Amendments
+
+<b>2023</b>—Par. (6)(I). Pub. L. 117–333 added subpar. (I).
 
 <b>2018</b>—Par. (6)(H). Pub. L. 115–141, §245(b)(1), added subpar. (H).
 
@@ -116,7 +120,7 @@ Par. (10). Pub. L. 110–387, §801(1), struck out par. (10) which read as follo
 
 <b>2003</b>—Par. (8). Pub. L. 108–170, §104(a), struck out "(other than those types of vocational rehabilitation services provided under chapter 31 of this title)" after "programs".
 
-Par. (10)(A). Pub. L. 108–170, §106(a), substituted "November 30, 1999, and ending on December 31, 2008," for"the date of the enactment of the Veterans Millennium Health Care and Benefits Act and ending on December 31, 2003,".
+Par. (10)(A). Pub. L. 108–170, §106(a), substituted "November 30, 1999, and ending on December 31, 2008," for "the date of the enactment of the Veterans Millennium Health Care and Benefits Act and ending on December 31, 2003,".
 
 <b>2002</b>—Par. (5). Pub. L. 107–135, §208(e)(2), substituted "1781(b)" for "1713(b)" in subpars. (B) and (C)(i).
 
@@ -271,6 +275,390 @@ Pub. L. 93–82, title V, §501, Aug. 2, 1973, 87 Stat. 196, provided that: "The
 #### Construction of 2016 Amendment
 
 Pub. L. 114–315, title VI, §602(d), Dec. 16, 2016, 130 Stat. 1570, provided that: "Nothing in this section \[amending this section and section 1704 of this title\] or the amendments made by this section may be construed to require a veteran to receive an immunization that the veteran does not want to receive."
+
+#### Department of Veterans Affairs Treatment and Research of Prostate Cancer
+
+Pub. L. 117–328, div. U, title I, §102, Dec. 29, 2022, 136 Stat. 5408, provided that:
+
+"(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;"(1) Prostate cancer is the number one cancer diagnosed in the Veterans Health Administration.
+
+&emsp;"(2) A 1996 report published by the National Academy of Sciences, Engineering, and Medicine established a link between prostate cancer and exposure to herbicides, such as Agent Orange.
+
+&emsp;"(3) It is essential to acknowledge that due to these circumstances, certain veterans are made aware that they are high-risk individuals when it comes to the potential to develop prostate cancer.
+
+&emsp;"(4) In being designated as 'high risk', it is essential that veterans are proactive in seeking earlier preventative clinical services for the early detection and successful treatment of prostate cancer, whether that be through the Veterans Health Administration or through a community provider.
+
+&emsp;"(5) Clinical preventative services and initial detection are some of the most important components in the early detection of prostate cancer for veterans at high risk of prostate cancer.
+
+&emsp;"(6) For veterans with prostate cancer, including prostate cancer that has metastasized, precision oncology, including biomarker-driven clinical trials and innovations underway through the Prostate Cancer Foundation and Department of Veterans Affairs partnership, represents one of the most promising areas of interventions, treatments, and cures for such veterans and their families.
+
+"(b)
+
+Establishment of Clinical Pathway.—
+
+&emsp;"(1)
+
+In general.—Not later than 365 days after the date of the enactment of this Act \[Dec. 29, 2022\], theSecretary of Veterans Affairs shall establish an interdisciplinary clinical pathway for all stages of prostate cancer, from early detection to end of life care. The clinical pathway shall be established in the National Surgery Office of the Department of Veterans Affairs in close collaboration with the National Program Office of Oncology, the Office of Research and Development, and other relevant entities of the Department, including Primary Care.
+
+&emsp;"(2)
+
+Elements.—The national clinical pathway established under this subsection shall include the following elements:
+
+&emsp;&emsp;"(A) A diagnosis pathway for prostate cancer that includes early screening and diagnosis protocol, including screening recommendations for veterans with evidence-based risk factors.
+
+&emsp;&emsp;"(B) A treatment pathway that details the respective roles of each office of the Department that will interact with veterans receiving prostate cancer care, including treatment protocol recommendations for veterans with evidence-based risk factors.
+
+&emsp;&emsp;"(C) Treatment recommendations for all stages of prostate cancer that reflect nationally recognized standards for oncology, including National Comprehensive Cancer Network guidelines.
+
+&emsp;&emsp;"(D) A suggested protocol timeframe for each point of care, from early screening to treatment and end-of-life care, based on severity and stage of cancer.
+
+&emsp;&emsp;"(E) A plan that includes, as appropriate, both Department medical facilities and community-based partners and providers and research centers specializing in prostate cancer, especially such centers that have entered into partnerships with the Department.
+
+&emsp;"(3)
+
+Collaboration and coordination.—In establishing the clinical pathway required under this section, the Secretary may collaborate and coordinate with—
+
+&emsp;&emsp;"(A) the National Institutes of Health;
+
+&emsp;&emsp;"(B) the National Cancer Institute;
+
+&emsp;&emsp;"(C) the National Institute on Minority Health and Health Disparities;
+
+&emsp;&emsp;"(D) the Centers for Disease Control and Prevention;
+
+&emsp;&emsp;"(E) the Centers for Medicare and Medicaid Services;
+
+&emsp;&emsp;"(F) the Patient-Centered Outcomes Research Institute;
+
+&emsp;&emsp;"(G) the Food and Drug Administration;
+
+&emsp;&emsp;"(H) the Department of Defense; and
+
+&emsp;&emsp;"(I) other Institutes and Centers as the Secretary determines necessary.
+
+&emsp;"(4)
+
+Consultation requirement.—In establishing the clinical pathway required under this section, the Secretary shall consult with, and incorporate feedback from, veterans who have received prostate cancer care at Department medical facilities as well as experts in multi-disciplinary cancer care and clinical research.
+
+&emsp;"(5)
+
+Publication.—The Secretary shall—
+
+&emsp;&emsp;"(A) publish the clinical pathway established under this subsection on a publicly available Department website; and
+
+&emsp;&emsp;"(B) update the clinical pathway as needed by review of the medical literature and available evidence-based guidelines at least annually, in accordance with the criteria under paragraph (2).
+
+"(c)
+
+Development of Comprehensive Prostate Cancer Program and Implementation of the Prostate Cancer Clinical Pathway.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to Congress a plan to establish a prostate cancer program using the comprehensive prostate cancer clinical pathway developed under subsection (b).
+
+&emsp;"(2)
+
+Program requirements.—The comprehensive prostate cancer program shall—
+
+&emsp;&emsp;"(A) receive direct oversight from the Deputy Undersecretary for Health of the Department of Veterans Affairs;
+
+&emsp;&emsp;"(B) include a yearly program implementation evaluation to facilitate replication for other disease states or in other healthcare institutions;
+
+&emsp;&emsp;"(C) be metric driven and include the development of biannual reports on the quality of prostate cancer care, which shall be provided to the leadership of the Department, medical centers, and providers and made publicly available in an electronic form; and
+
+&emsp;&emsp;"(D) include an education plan for patients and providers.
+
+&emsp;"(3)
+
+Program implementation evaluation.—The Secretary shall establish a program evaluation tool to learn best practices and to inform the Department and Congress regarding further use of the disease specific model of care delivery.
+
+&emsp;"(4)
+
+Prostate cancer research.—The Secretary shall submit to Congress a plan that provides for continual funding through the Office of Research and Development of the Department of Veterans for supporting prostate cancer research designed to position the Department as a national resource for prostate cancer detection and treatment. Such plan shall—
+
+&emsp;&emsp;"(A) include details regarding the funding of and coordination between the National Precision Oncology Program of the Department and the PCF–VA Precision Oncology Centers of Excellence as related to the requirements of this Act \[div. U of Pub. L. 117–328, see Tables for classification\]; and
+
+&emsp;&emsp;"(B) affirm that no funding included in such funding plan is duplicative in nature.
+
+"(d)
+
+Report on National Registry.—The Secretary of Veterans Affairs shall submit to Congress a report on the barriers and challenges associated with creating a national prostate cancer registry. Such report shall include recommendations for centralizing data about veterans with prostate cancer for the purpose of improving outcomes and serving as a resource for providers.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Clinical pathway.—The term 'clinical pathway' means a health care management tool designed around research and evidence-backed practices that provides direction for the clinical care and treatment of a specific episode of a condition or ailment.
+
+&emsp;"(2)
+
+Evidence-based risk factors.—The term 'evidence-based risk factors' includes race, ethnicity, socioeconomic status, geographic location, exposure risks, genetic risks, including family history, and such other factors as the Secretary determines appropriate."
+
+#### Strategic Plan To Ensure Continuity of Care in the Case of the Realignment of a Medical Facility of the Department
+
+Pub. L. 117–328, div. U, title I, §126, Dec. 29, 2022, 136 Stat. 5418, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that the Veterans Health Administration should ensure that veterans do not experience a lapse of care when transitioning in receiving care due to the realignment of a medical facility of the Department of Veterans Affairs.
+
+"(b)
+
+Development of Strategic Plan.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Veterans Affairs, acting through the Office of Integrated Veteran Care, the Chief Strategy Office, the Office of Asset Enterprise Management, or any successor office that has similar and related functions, shall develop and periodically update a strategic plan to ensure continuity of health care through care furnished at a facility of the Department or through the Community Care Program for veterans impacted by the realignment of a medical facility of the Department.
+
+&emsp;"(2)
+
+Elements.—The strategic plan required under paragraph (1) shall include, at a minimum, the following:
+
+&emsp;&emsp;"(A) An assessment of the progress of the Department in identifying impending realignments of medical facilities of the Department and the impact of such realignments on access of veterans to care, including any impact on the network of health care providers under the Community Care Program.
+
+&emsp;&emsp;"(B) The progress of the Department in establishing operated sites of care and related activities to address the impact of such a realignment.
+
+&emsp;&emsp;"(C) An outline of collaborative actions and processes the Department can take to address potential gaps in health care created by such a realignment, including actions and processes to be taken by the Office of Integrated Veteran Care, the Chief Strategy Office, and the Office of Asset Enterprise Management of the Department.
+
+&emsp;&emsp;"(D) A description of how the Department can identify to Third Party Administrators changes in the catchment areas of medical facilities to be realigned and develop a process with Third Party Administrators to strengthen provider coverage in advance of such realignments.
+
+&emsp;"(3)
+
+Submittal to congress.—Not later than 180 days after the date of the enactment of this Act \[Dec. 29, 2022\], the Under Secretary for Health of the Department shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives the plan developed under paragraph (1).
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Community care program.—The term 'Community Care Program' means the Veterans Community Care Program under section 1703 of title 38, United States Code.
+
+&emsp;"(2)
+
+Realignment.—The term 'realignment', with respect to a facility of the Department of Veterans Affairs, includes—
+
+&emsp;&emsp;"(A) any action that changes the number of facilities or relocates services, functions, or personnel positions; and
+
+&emsp;&emsp;"(B) strategic collaborations between the Department and non-Federal Government entities, including tribal organizations and Urban Indian Organizations.
+
+&emsp;"(3)
+
+Third party administrator.—The term 'Third Party Administrator' means an entity that manages a provider network and performs administrative services related to such network within the Veterans Community Care Program under section 1703 of title 38, United States Code.
+
+&emsp;"(4)
+
+Tribal organization.—The term 'tribal organization' has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+&emsp;"(5)
+
+Urban indian organization.—The term 'Urban Indian Organization' has the meaning given that term in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603)."
+
+#### Establishment of Strategic Plan Requirement for Office of Connected Care of Department of Veterans Affairs
+
+Pub. L. 117–328, div. U, title I, §151, Dec. 29, 2022, 136 Stat. 5425, provided that:
+
+"(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;"(1) The COVID–19 pandemic caused the Department of Veterans Affairs to exponentially increase telehealth and virtual care modalities, including VA Video Connect, to deliver health care services to veteran patients.
+
+&emsp;"(2) Between January 2020 and January 2021, the number of telehealth appointments offered by the Department increased by 1,831 percent.
+
+&emsp;"(3) The Department maintains strategic partnerships, such as the Digital Divide Consult, with a goal of ensuring veterans who reside in rural, highly rural, or medically underserved areas have access to high-quality telehealth services offered by the Department.
+
+&emsp;"(4) As of 2019, veterans who reside in rural and highly rural areas make up approximately 1/3 of veteran enrollees in the patient enrollment system, and are on average, older than their veteran peers in urban areas, experience higher degrees of financial instability, and live with a greater number of complex health needs and comorbidities.
+
+&emsp;"(5) The Federal Communications Commission estimated in 2020 that 15 percent of veteran households do not have an internet connection.
+
+&emsp;"(6) Under the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) \[see Tables for classification\], Congress granted the Department additional authority to enter into short-term agreements or contracts with private sector telecommunications companies to provide certain broadband services for the purposes of providing expanded mental health services to isolated veterans through telehealth or VA Video Connect during a public health emergency.
+
+&emsp;"(7) The authority described in paragraph (6) was not utilized to the fullest extent by the Department.
+
+&emsp;"(8) Though the Department has made significant progress in expanding telehealth services offered to veterans who are enrolled in the patient enrollment system, significant gaps still exist to ensure all veterans receive equal and high-quality access to virtual care.
+
+&emsp;"(9) Questions regarding the efficacy of using telehealth for certain health care services and specialties remain, and should be further studied.
+
+&emsp;"(10) The Department continues to expand telehealth and virtual care offerings for primary care, mental health care, specialty care, urgent care, and even remote intensive care units.
+
+"(b)
+
+Sense of Congress.—It is the sense of Congress that the telehealth services offered by the Department of Veterans Affairs should be routinely measured and evaluated to ensure the telehealth technologies and modalities delivered to veteran patients to treat a wide variety of health conditions are as effective as in-person treatment for primary care, mental health care, and other forms of specialty care.
+
+"(c)
+
+Development of Strategic Plan.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs, acting through the Office of Connected Care of the Department of Veterans Affairs, shall develop a strategic plan to ensure the effectiveness of the telehealth technologies and modalities delivered by the Department to veterans who are enrolled in the patient enrollment system.
+
+&emsp;"(2)
+
+Update.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall update the strategic plan required under paragraph (1) not less frequently than once every three years following development of the plan.
+
+&emsp;&emsp;"(B)
+
+Consultation.—The Secretary shall prepare any update required under subparagraph (A) in consultation with the following:
+
+&emsp;&emsp;&emsp;"(i) The Chief Officer of the Office of Connected Care of the Department.
+
+&emsp;&emsp;&emsp;"(ii) The Executive Director of Telehealth Services of the Office of Connected Care.
+
+&emsp;&emsp;&emsp;"(iii) The Executive Director of Connected Health of the Office of Connected Care.
+
+&emsp;&emsp;&emsp;"(iv) The Executive Director of the Office of Rural Health of the Department.
+
+&emsp;&emsp;&emsp;"(v) The Executive Director of Solution Delivery, IT Operations and Services of the Office of Information and Technology of the Department.
+
+&emsp;"(3)
+
+Elements.—The strategic plan required under paragraph (1), and any update to that plan under paragraph (2), shall include, at a minimum, the following:
+
+&emsp;&emsp;"(A) A comprehensive list of all health care specialties the Department is currently delivering by telehealth or virtual care.
+
+&emsp;&emsp;"(B) An assessment of the effectiveness and patient outcomes for each type of health care specialty delivered by telehealth or virtual care by the Department.
+
+&emsp;&emsp;"(C) An assessment of satisfaction of veterans in receiving care through telehealth or virtual care disaggregated by age group and by Veterans Integrated Service Network.
+
+&emsp;&emsp;"(D) An assessment of the percentage of virtual visits delivered by the Department through each modality including standard telephone telehealth, VA Video Connect, and the Accessing Telehealth through Local Area Stations program of the Department.
+
+&emsp;&emsp;"(E) An outline of all current partnerships maintained by the Department to bolster telehealth or virtual care services for veterans.
+
+&emsp;&emsp;"(F) An assessment of the barriers faced by the Department in delivering telehealth or virtual care services to veterans residing in rural and highly rural areas, and the strategies the Department is deploying beyond purchasing hardware for veterans who are enrolled in the patient enrollment system.
+
+&emsp;&emsp;"(G) A detailed plan illustrating how the Department is working with other Federal agencies, including the Department of Health and Human Services, the Department of Agriculture, the Federal Communications Commission, and the National Telecommunications and Information Administration, to enhance connectivity in rural, highly rural, and medically underserved areas to better reach all veterans.
+
+&emsp;&emsp;"(H) The feasibility and advisability of partnering with Federally qualified health centers, rural health clinics, and critical access hospitals to fill the gap for health care services that exists for veterans who reside in rural and highly rural areas.
+
+&emsp;&emsp;"(I) An evaluation of the number of veterans who are enrolled in the patient enrollment system who have previously received care under the Veterans Community Care Program under section 1703 of title 38, United States Code.
+
+"(d)
+
+Submittal to Congress.—Not later than 180 days after the development of the strategic plan under paragraph (1) of subsection (c), and not later than 180 days after each update under paragraph (2) of such subsection thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report that includes the following:
+
+&emsp;"(1) The completed strategic plan or update, as the case may be.
+
+&emsp;"(2) An identification of areas of improvement by the Department in the delivery of telehealth and virtual care services to veterans who are enrolled in the patient enrollment system, with a timeline for improvements to be implemented.
+
+"(e)
+
+Definitions.—
+
+&emsp;"(1)
+
+Patient enrollment system.—The term 'patient enrollment system' means the system of annual patient enrollment of the Department of Veterans Affairs established and operated under section 1705(a) of title 38, United States Code.
+
+&emsp;"(2)
+
+Rural; highly rural.—The terms 'rural' and 'highly rural' have the meanings given those terms in the Rural-Urban Commuting Areas coding system of the Department of Agriculture.
+
+&emsp;"(3)
+
+VA video connect.—The term 'VA Video Connect' means the program of the Department of Veterans Affairs to connect veterans with their health care team from anywhere, using encryption to ensure a secure and private connection."
+
+#### Improved Accessibility and Accuracy of Data Provided by Department of Veterans Affairs
+
+Pub. L. 117–328, div. U, title I, §195(b), (c), Dec. 29, 2022, 136 Stat. 5445, provided that:
+
+"(b)
+
+Requirements of Website.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], in addition to the requirements of section 206(b)(4) of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 128 Stat. 1781) \[38 U.S.C. 1701 note\], the Secretary shall ensure that the Website meets the following requirements:
+
+&emsp;&emsp;"(A) The Website is directly accessible from—
+
+&emsp;&emsp;&emsp;"(i) the main homepage of the publicly accessible internet website of the Department; and
+
+&emsp;&emsp;&emsp;"(ii) the main homepage of the publicly accessible internet website of each medical center of the Department.
+
+&emsp;&emsp;"(B) Where practicable, the Website is organized and searchable by each medical center of the Department.
+
+&emsp;&emsp;"(C) The Website is easily understandable and usable by the general public.
+
+&emsp;"(2)
+
+Consultation and contract authority.—In carrying out the requirements of paragraph (1)(C), the Secretary—
+
+&emsp;&emsp;"(A) shall consult with—
+
+&emsp;&emsp;&emsp;"(i) veterans service organizations; and
+
+&emsp;&emsp;&emsp;"(ii) veterans and caregivers of veterans from geographically diverse areas and representing different eras of service in the Armed Forces; and
+
+&emsp;&emsp;"(B) may enter into a contract to design the Website with a company, non-profit entity, or other entity specializing in website design that has substantial experience in presenting health care data and information in a easily understandable and usable manner to patients and consumers.
+
+"(c)
+
+Accuracy of Data.—
+
+&emsp;"(1)
+
+Annual process.—Not later than 18 months after the date of the enactment of this Act, the Secretary shall develop and implement a process to annually audit a generalizable subset of the data contained on the Website to assess the accuracy and completeness of the data.
+
+&emsp;"(2)
+
+Criteria.—The Secretary shall ensure that each audit under paragraph (1)—
+
+&emsp;&emsp;"(A) determines the extent that the medical record information, clinical information, data, and documentation provided by each medical facility of the Department that is used to calculate the information on the Website is accurate and complete;
+
+&emsp;&emsp;"(B) identifies any deficiencies in the recording of medical record information, clinical information, or data by medical facilities of the Department that affects the accuracy and completeness of the information on the Website; and
+
+&emsp;&emsp;"(C) provides recommendations to medical facilities of the Department on how to—
+
+&emsp;&emsp;&emsp;"(i) improve the accuracy and completeness of the medical record information, clinical information, data, and documentation that is used to calculate the information on the Website; and
+
+&emsp;&emsp;&emsp;"(ii) ensure that each medical facility of the Department provides such information in a uniform manner.
+
+&emsp;"(3)
+
+Annual report.—Not later than two years after the date of the enactment of this Act, and annually thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the findings of each audit under paragraph (1)."
+
+#### Improvement of Sleep Disorder Care Furnished by Department of Veterans Affairs
+
+Pub. L. 117–328, div. V, title V, §502, Dec. 29, 2022, 136 Stat. 5514, provided that:
+
+"(a)
+
+In General.—Pursuant to the analysis conducted under subsection (b), the Secretary of Veterans Affairs shall take such action as the Secretary considers appropriate to improve the assessment and treatment of veterans with sleep disorders, including by conducting in-home sleep studies for veterans.
+
+"(b)
+
+Analysis.—The Secretary shall conduct an analysis of the ability of the Department of Veterans Affairs to treat sleep disorders among veterans, including—
+
+&emsp;"(1) assessment and treatment options for such disorders;
+
+&emsp;"(2) barriers to care for such disorders, such as wait time, travel time, and lack of staffing;
+
+&emsp;"(3) the efficacy of the clinical practice guidelines of the Department of Veterans Affairs and the Department of Defense for such disorders; and
+
+&emsp;"(4) the availability of and efficacy of the use by the Department of Veterans Affairs of cognitive behavioral therapy for insomnia.
+
+"(c)
+
+Report.—Not later than two years after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on—
+
+&emsp;"(1) the findings from the analysis conducted under subsection (b); and
+
+&emsp;"(2) any actions taken under subsection (a) to improve the assessment and treatment of veterans with sleep disorders.
+
+"(d)
+
+Authorization of Appropriations for In-Home Sleep Studies.—There is authorized to be appropriated to the Secretary of Veterans Affairs $5,000,000 to be used to conduct in-home sleep studies for veterans, as part of sleep disorder assessment and treatment conducted by the Department of Veterans Affairs."
 
 #### Strengthening and Amplifying Vaccination Efforts to Locally Immunize All Veterans and Every Spouse
 
@@ -492,7 +880,7 @@ Certification.—Not later than one year after the date of the enactment of this
 
 New employees.—The Secretary shall require each employee hired by the Department on or after the date of the enactment of this Act who is to be involved in the scheduling of appointments for health care from the Department or health care described in subsection (a)(1)(A)(ii)—
 
-&emsp;&emsp;"(A) to undergo training on the process and requirements established under subsection (a) as partof training for the position for which the employee has been hired; and
+&emsp;&emsp;"(A) to undergo training on the process and requirements established under subsection (a) as part of training for the position for which the employee has been hired; and
 
 &emsp;&emsp;"(B) to make the certification to the Secretary required under paragraph (1).
 
@@ -582,7 +970,7 @@ Elements.—Each audit conducted under subsection (a) shall include the followin
 
 &emsp;"(2) An identification of such recommendations for corrective action as the Secretary considers necessary, including additional training, increased personnel, and other resources.
 
-&emsp;"(3) A certification that the director of each medical center of the Department covered by the audit is in compliance with the process and requirements established under section 3101(a) and such other requirements relating to the scheduling of appointments and management of consultations as the Secretary considers appropriate.
+&emsp;"(3) A certification that the director of each medical center of the Department covered by the audit is in compliance with the process and requirements established under section 3101(a) \[set out as a note above\] and such other requirements relating to the scheduling of appointments and management of consultations as the Secretary considers appropriate.
 
 &emsp;"(4) With respect to referrals for health care between health care providers or facilities of the Department, a measurement of, for each medical facility of the Department covered by the audit—
 
@@ -610,7 +998,7 @@ Elements.—Each audit conducted under subsection (a) shall include the followin
 
 &emsp;&emsp;&emsp;"(iv) the date that the referral to a non-Department health care provider is completed and the date that an appointment with a non-Department health care provider is made; and
 
-&emsp;&emsp;&emsp;"(v) the date that an appointment with a non-Department health care provider is made and thedate that an appointment with a non-Department health care provider occurs; and
+&emsp;&emsp;&emsp;"(v) the date that an appointment with a non-Department health care provider is made and the date that an appointment with a non-Department health care provider occurs; and
 
 &emsp;&emsp;"(B) any other period of time that the Secretary determines necessary to measure.
 
@@ -704,7 +1092,7 @@ Pub. L. 116–171, title VII, §701, Oct. 17, 2020, 134 Stat. 825, provided that
 
 "(a)
 
-In General.—The Secretary of Veterans Affairs shall enter into agreements, and expand existing agreements, with organizations that represent or serve veterans, nonprofit organizations, private businesses, andother interested parties for the expansion of telehealth capabilities and the provision of telehealth services to veterans through the award of grants under subsection (b).
+In General.—The Secretary of Veterans Affairs shall enter into agreements, and expand existing agreements, with organizations that represent or serve veterans, nonprofit organizations, private businesses, and other interested parties for the expansion of telehealth capabilities and the provision of telehealth services to veterans through the award of grants under subsection (b).
 
 "(b)
 
@@ -854,7 +1242,7 @@ Sense of Congress on Use of Authorities to Investigate Medical Centers of the De
 
 #### Prevention of Certain Health Care Providers From Providing Non-Department Health Care Services to Veterans
 
-Pub. L. 115–182, title I, §108, June 6, 2018, 132 Stat. 1416, provided that:
+Pub. L. 115–182, title I, §108, June 6, 2018, 132 Stat. 1416, as amended by Pub. L. 117–328, div. U, title I, §144, Dec. 29, 2022, 136 Stat. 5425, provided that:
 
 "(a)
 
@@ -874,6 +1262,10 @@ Suspension.—The Secretary shall suspend the eligibility of a health care provi
 
 "(d)
 
+Application.—The requirement to deny or revoke the eligibility of a health care provider to provide non-Department health care services to veterans under subsection (a) shall apply to any removal under paragraph (1) of such subsection or violation under paragraph (2) of such subsection that occurred on or after a date determined by the Secretary that is not less than five years before the date of the enactment of this Act.
+
+"(e)
+
 Comptroller General Report.—Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the implementation by the Secretary of this section, including the following:
 
 &emsp;"(1) The aggregate number of health care providers denied or suspended under this section from participation in providing non-Department health care services.
@@ -884,7 +1276,7 @@ Comptroller General Report.—Not later than 2 years after the date of the enact
 
 &emsp;"(4) Such recommendations as the Comptroller General considers appropriate regarding harmonizing eligibility criteria between health care providers of the Department and health care providers eligible to provide non-Department health care services.
 
-"(e)
+"(f)
 
 Non-Department Health Care Services Defined.—In this section, the term 'non-Department health care services' means services—
 
@@ -1120,15 +1512,15 @@ Effective Date.—This section shall take effect on the day that is 1 year after
 
 #### Program on Establishment of Peer Specialists in Patient Aligned Care Team Settings Within Medical Centers of Department of Veterans Affairs
 
-Pub. L. 115–182, title V, §506, June 6, 2018, 132 Stat. 1477, provided that:
+Pub. L. 115–182, title V, §506, June 6, 2018, 132 Stat. 1477, as amended by Pub. L. 117–328, div. V, title IV, §401(a), Dec. 29, 2022, 136 Stat. 5509, provided that:
 
 "(a)
 
-Program Required.—The Secretary of Veterans Affairs shall carry out a program to establish not fewer than two peer specialists in patient aligned care teams at medical centers of the Department of Veterans Affairs to promote the use and integration of services for mental health, substance use disorder, and behavioral health in a primary care setting.
+Program Required.—The Secretary of Veterans Affairs shall carry out a program to establish not fewer than two peer specialists in patient aligned care teams at medical centers of the Department of Veterans Affairs to promote the use and integration of services for mental health, substance use disorder, and behavioral health in a primary care setting. Each such peer specialist shall be a full-time employee whose primary function is to serve as a peer specialist and shall be in addition to all other employees of such medical center.
 
 "(b)
 
-Timeframe for Establishment of Program.—The Secretary shall carry out the program at medical centers of the Department as follows:
+Initial Timeframe for Establishment of Program.—The Secretary shall carry out the program at medical centers of the Department as follows:
 
 &emsp;"(1) Not later than May 31, 2019, at not fewer than 15 medical centers of the Department.
 
@@ -1136,11 +1528,11 @@ Timeframe for Establishment of Program.—The Secretary shall carry out the prog
 
 "(c)
 
-Selection of Locations.—
+Initial Selection of Locations.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall select medical centers for the program as follows:
+In general.—In establishing the program at initial locations, the Secretary shall select medical centers for the program as follows:
 
 &emsp;&emsp;"(A) Not fewer than five shall be medical centers of the Department that are designated by the Secretary as polytrauma centers.
 
@@ -1158,17 +1550,39 @@ Considerations.—In selecting medical centers for the program under paragraph (
 
 "(d)
 
-Gender-Specific Services.—In carrying out the program at each location selected under subsection (c), the Secretary shall ensure that—
+Timeframe for Expansion of Program; Selection of Additional Locations.—
 
-&emsp;"(1) the needs of female veterans are specifically considered and addressed; and
+&emsp;"(1)
 
-&emsp;"(2) female peer specialists are made available to female veterans who are treated at each location.
+Timeframe for expansion.—The Secretary shall make permanent and expand the program to additional medical centers of the Department as follows:
+
+&emsp;&emsp;"(A) As of the date of the enactment of the STRONG Veterans Act of 2022 \[Dec. 29, 2022\], the Secretary shall make such program permanent at each medical center participating in the program on the day before such date of enactment.
+
+&emsp;&emsp;"(B) During the seven-year period following such date of enactment, the Secretary shall expand the program to an additional 25 medical centers per year until the program is carried out at each medical center of the Department.
+
+&emsp;"(2)
+
+Selection of additional locations.—In selecting medical centers for the expansion of the program under paragraph (1)(B), until such time as each medical center of the Department is participating in the program by establishing not fewer than two peer specialists at the medical center, the Secretary shall prioritize medical centers in the following areas:
+
+&emsp;&emsp;"(A) Rural areas and other areas that are underserved by the Department.
+
+&emsp;&emsp;"(B) Areas that are not in close proximity to an active duty military installation.
+
+&emsp;&emsp;"(C) Areas representing different geographic locations, such as census tracts established by the Bureau of the Census.
 
 "(e)
 
-Engagement With Community Providers.—At each location selected under subsection (c), the Secretary shall consider ways in which peer specialists can conduct outreach to health care providers in the community who are known to be serving veterans to engage with those providers and veterans served by those providers.
+Considerations for Hiring Peer Specialists.—In carrying out the program at each medical center, the Secretary shall ensure that—
+
+&emsp;"(1) the needs of female veterans are specifically considered and addressed;
+
+&emsp;"(2) female peer specialists are hired and made available to support female veterans who are treated at each medical center.
 
 "(f)
+
+Engagement With Community Providers.—At each location selected under subsection (c), the Secretary shall consider ways in which peer specialists can conduct outreach to health care providers in the community who are known to be serving veterans to engage with those providers and veterans served by those providers.
+
+"(g)
 
 Reports.—
 
@@ -1178,21 +1592,27 @@ Periodic reports.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[June 6, 2018\], and not less frequently than once every 180 days thereafter until the Secretary determines that the program is being carried out at the last location to be selected under subsection (c), the Secretary shall submit to Congress a report on the program.
+In general.—Not later than one year after the date of the enactment of the STRONG Veterans Act of 2022 \[Dec. 29, 2022\], and annually thereafter for five years, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on the program, including the expansion of the program under subsection (d)(1).
 
 &emsp;&emsp;"(B)
 
-Elements.—Each report required by subparagraph (A) shall, with respect to the 180-day period preceding the submittal of the report, include the following:
+Elements.—Each report under subparagraph (A) shall include, with respect to the one-year period preceding the submission of the report, the following:
 
 &emsp;&emsp;&emsp;"(i) The findings and conclusions of the Secretary with respect to the program.
 
 &emsp;&emsp;&emsp;"(ii) An assessment of the benefits of the program to veterans and family members of veterans.
 
-&emsp;&emsp;&emsp;"(iii) An assessment of the effectiveness of peer specialists in engaging under subsection (e) withhealth care providers in the community and veterans served by those providers.
+&emsp;&emsp;&emsp;"(iii) An assessment of the effectiveness of peer specialists in engaging under subsection (f) with health care providers in the community and veterans served by such providers.
+
+&emsp;&emsp;&emsp;"(iv) The name and location of each medical center where new peer specialists were hired.
+
+&emsp;&emsp;&emsp;"(v) The number of new peer specialists hired at each medical center pursuant to this section and the total number of peer specialists within the Department hired pursuant to this section.
+
+&emsp;&emsp;&emsp;"(vi) An assessment of any barriers confronting the recruitment, training, or retention of peer specialists.
 
 &emsp;"(2)
 
-Final report.—Not later than 180 days after the Secretary determines that the program is being carried out at the last location to be selected under subsection (c), the Secretary shall submit to Congress a report detailing the recommendations of the Secretary as to the feasibility and advisability of expanding the program to additional locations."
+Final report.—Not later than one year after the Secretary determines that the program is being carried out at each medical center of the Department, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report notifying such committees of such determination."
 
 #### Department of Veterans Affairs Medical Scribe Pilot Program.
 
@@ -1300,7 +1720,7 @@ In general.—Subject to coordination under paragraph (2), the Secretary shall d
 
 &emsp;"(2)
 
-Coordination.—Before entering into a contract under paragraph (1), the Director of a Veterans Integrated Service Network or the director of a medical center, as the case may be, shall notify the Secretary of Veterans Affairs, the Inspector General of the Department of Veterans Affairs, and the Comptroller General of the United States for purposes of coordinating any investigation conducted pursuant to such contract with any other investigations that may be ongoing.
+Coordination.—Before entering into a contract under paragraph (1), the Director of a Veterans Integrated Service Network or the director of a medicalcenter, as the case may be, shall notify the Secretary of Veterans Affairs, the Inspector General of the Department of Veterans Affairs, and the Comptroller General of the United States for purposes of coordinating any investigation conducted pursuant to such contract with any other investigations that may be ongoing.
 
 "(c)
 

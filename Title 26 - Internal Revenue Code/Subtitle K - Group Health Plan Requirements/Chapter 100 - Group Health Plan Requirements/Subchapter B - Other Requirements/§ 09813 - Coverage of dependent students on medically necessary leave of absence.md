@@ -26,7 +26,7 @@ In this section, the term "medically necessary leave of absence" means, with res
 
 &emsp;&emsp;(A) is a dependent child, under the terms of the plan, of a participant or beneficiary under the plan; and
 
-&emsp;&emsp;(B) was enrolled in the plan, on the basis of being a student at a postsecondary educational institution (as described in subsection (a)), immediately before the first day of the medically necessary leave of absence involved.
+&emsp;&emsp;(B) was enrolled in the plan, on the basis of being a student at a postsecondary educational institution (as described in subsection (a)), immediately before the first dayof the medically necessary leave of absence involved.
 
 #### (3) Certification by physician
 
@@ -50,7 +50,7 @@ If—
 
 &emsp;(3) the coverage as so changed continues to provide coverage of beneficiaries as dependent children,
 
-> this section shall apply to coverage of the child under the changed coverage for the remainder ofthe period of the medically necessary leave of absence of the dependent child under the plan in the same manner as it would have applied if the changed coverage had been the previous coverage.
+> this section shall apply to coverage of the child under the changed coverage for the remainder of the period of the medically necessary leave of absence of the dependent child under the plan in the same manner as it would have applied if the changed coverage had been the previous coverage.
 
 (Added Pub. L. 110–381, §2(c)(1), Oct. 9, 2008, 122 Stat. 4084.)
 

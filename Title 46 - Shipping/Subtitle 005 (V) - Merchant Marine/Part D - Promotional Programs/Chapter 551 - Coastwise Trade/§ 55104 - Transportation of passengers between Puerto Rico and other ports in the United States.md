@@ -30,7 +30,7 @@ When non-coastwise-qualified vessel offering service.—On a showing to the Secr
 
 (d)
 
-Delaying Expiration.—If the vessel offering or advertising the service described in subsection (c) has not begun that service within 270days after the Secretary's notification, the expiration provided by subsection (c) is delayed until 90 days after the vessel offering or advertising the service begins that service.
+Delaying Expiration.—If the vessel offering or advertising the service described in subsection (c) has not begun that service within 270 days after the Secretary's notification, the expiration provided by subsection (c) is delayed until 90 days after the vessel offering or advertising the service begins that service.
 
 (e)
 

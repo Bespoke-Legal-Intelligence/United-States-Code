@@ -146,7 +146,7 @@ For purposes of this subchapter—
 
 #### (D) Special rule for groundwater treatment
 
-&emsp;&emsp;In the case of corrective action requiring groundwater treatment, such action shall be treated as completed as of the close of the 10-year period beginning on the date such action is required if such treatment complies with the permit or order applicable under subparagraph (C)(i) throughout such period. The preceding sentence shall cease to apply beginning on the date such treatment ceases to comply with such permit or order.
+&emsp;&emsp;In the case of corrective action requiring groundwater treatment, such action shall betreated as completed as of the close of the 10-year period beginning on the date such action is required if such treatment complies with the permit or order applicable under subparagraph (C)(i) throughout such period. The preceding sentence shall cease to apply beginning on the date such treatment ceases to comply with such permit or order.
 
 #### (E) Solid waste
 
@@ -266,7 +266,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) any person uses such chemical as a qualified fuel substance,
 
-> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard tosubsection (b)(5) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
+> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard to subsection (b)(5) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
 #### (4) Use in the production of animal feed
 

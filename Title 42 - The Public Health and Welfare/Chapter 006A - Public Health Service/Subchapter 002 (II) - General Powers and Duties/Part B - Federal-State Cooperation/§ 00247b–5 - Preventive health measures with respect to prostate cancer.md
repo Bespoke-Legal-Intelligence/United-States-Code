@@ -36,7 +36,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (2) Determination of amount of non-Federal contribution
 
-&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairlyevaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 &emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the applicant involved toward the purpose described in subsection (a) for the 2-year period preceding the fiscal year for which the applicant involved is applying to receive a grant under such subsection.
 
@@ -82,7 +82,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant inv
 
 #### (4) Coordination with other prostate cancer programs
 
-&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involvedagrees that the services and activities funded through the grant will be coordinated with other Federal, State, and local prostate cancer programs.
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that the services and activities funded through the grant will be coordinated with other Federal, State, and local prostate cancer programs.
 
 #### (5) Limitation on administrative expenses
 
@@ -102,7 +102,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant inv
 
 #### (f) Reports to Secretary
 
-The Secretary may not make a grant under subsection (a) unless the applicant involved agrees to submit to the Secretary such reports as the Secretary may require with respect to the grant.
+The Secretary may not make a grant under subsection (a) unless the applicant involvedagrees to submit to the Secretary such reports as the Secretary may require with respect to the grant.
 
 #### (g) Description of intended uses of grant
 
@@ -150,13 +150,13 @@ For purposes of this section, the term "units of local government" includes Indi
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1).
 
-(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub.L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
+(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

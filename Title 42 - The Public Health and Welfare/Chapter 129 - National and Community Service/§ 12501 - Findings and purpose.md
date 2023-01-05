@@ -12,7 +12,7 @@ The Congress finds the following:
 
 &emsp;(4) Americans of all ages can improve their communities and become better citizens through service to the United States.
 
-&emsp;(5) Nonprofit organizations, local governments, States, and the Federal Government are already supporting a wide variety of national service programs that deliver needed services in a cost-effective manner.
+&emsp;(5) Nonprofit organizations, local governments, States, and the Federal Governmentare already supporting a wide variety of national service programs that deliver needed services in a cost-effective manner.
 
 &emsp;(6) Residents of low-income communities, especially youth and young adults, can be empowered through their service, and can help provide future community leadership.
 
@@ -92,7 +92,7 @@ Pub. L. 111–13, §1(a), Apr. 21, 2009, 123 Stat. 1460, provided that: "This Ac
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–117, div. B, §1301(a), Jan. 10, 2002, 115 Stat. 2339, provided that: "This section \[enacting subchapter III of this chapter\] may be cited as the 'Unity in the Spirit of America Act' or the 'USA Act'."
+Pub. L. 107–117, div. B, §1301(a), Jan. 10, 2002, 115 Stat. 2339, provided that: "This section \[enacting subchapterIII of this chapter\] may be cited as the 'Unity in the Spirit of America Act' or the 'USA Act'."
 
 #### Short Title of 1994 Amendment
 
@@ -234,7 +234,7 @@ Sec. 3. <i>USA Freedom Corps Council</i>. (a) <i>Establishment and Mission</i>. 
 
 &emsp;(vii) tracking progress in participation in public service programs.
 
-(b) <i>Membership</i>. In addition to the Chair, the members of the Council shall be the heads of the executive branch departments, agencies, and offices listed below, or their designees, and such other officers of the executive branch as the President may from time to time designate. Every member of the Council or designee shall be a full-time or permanent part-time officer oremployee of the Federal Government. Members shall not be compensated for their service on the Council in addition to the salaries they receive as employees or officers of the Federal Government.
+(b) <i>Membership</i>. In addition to the Chair, the members of the Council shall be the heads of the executive branch departments, agencies, and offices listed below, or their designees, and such other officers of the executive branch as the President may from time to time designate. Every member of the Council or designee shall be a full-time or permanent part-time officer or employee of the Federal Government. Members shall not be compensated for their service on the Council in addition to the salaries they receive as employees or officers of the Federal Government.
 
 &emsp;(i) Vice President;
 
@@ -264,7 +264,7 @@ Sec. 3. <i>USA Freedom Corps Council</i>. (a) <i>Establishment and Mission</i>. 
 
 (c) <i>Chair</i>. The President shall be the Chair of the USA Freedom Corps Council, and in his absence, the Vice President shall serve as Chair. The Director of the USA Freedom Corps Office may, at the President's direction, preside over meetings of the Council in the President's and Vice President's absence.
 
-(d) <i>Honorary Co-Chair</i>. The President may, from time to time, designate an Honorary Co-Chair or Co-Chairs, who shall serve in an advisory role to the Council and to the President on matters considered by the Council. Any Honorary Co-Chair shall be a full-time or permanent part-time employee or officer of the Federal Government.
+(d) <i>Honorary Co-Chair</i>. The President may, from time to time, designate an Honorary Co-Chair or Co-Chairs,who shall serve in an advisory role to the Council and to the President on matters considered by the Council. Any Honorary Co-Chair shall be a full-time or permanent part-time employee or officer of the Federal Government.
 
 (e) <i>Meetings</i>. The Council shall meet at the President's direction. The Director of the USA Freedom Corps Office shall be responsible, at the President's direction, for determining the agenda, ensuring that necessary papers are prepared, and recording Council actions and Presidential decisions.
 
@@ -332,7 +332,7 @@ Sec. 3. <i>Agency Implementation</i>. (a) The Chief Executive Officer of the Cor
 
 &emsp;(iv) National and community service programs should adopt performance measures to identify those practices that merit replication and further investment, as well as to ensure accountability;
 
-&emsp;(v) National and community service programs should, consistent with the principles of Federalism and the constitutional role of the States and Indian tribes, promote innovation, flexibility, and results at all levels of government;
+&emsp;(v) National and community service programs should, consistent with the principles of Federalismand the constitutional role of the States and Indian tribes, promote innovation, flexibility, and results at all levels of government;
 
 &emsp;(vi) National and community service programs based in schools should employ tutors who meet required paraprofessional qualifications, and use such practices and methodologies as are required for supplemental educational services;
 
@@ -426,7 +426,7 @@ Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall:
 
 (iv) identify and develop public-private partnerships to support the expansion of national service and volunteering;
 
-(v) identify and develop strategies to use innovation and technology to facilitate the ability of the public to participate in national service and volunteering activities; and
+(v) identify and develop strategies to use innovation and technology to facilitate the ability of the public toparticipate in national service and volunteering activities; and
 
 (vi) develop a mechanism to evaluate the effectiveness and cost-effectiveness of national service and volunteering interventions in achieving agency priorities, and aggregate and disseminate the results of that evaluation.
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) COVID–19 emergency
 
-&emsp;The term "COVID–19 emergency" means the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020under the National Emergencies Act (50 U.S.C. 1601 et seq.).
+&emsp;The term "COVID–19 emergency" means the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act (50 U.S.C. 1601 et seq.).
 
 #### (2) Federally backed mortgage loan
 
@@ -76,7 +76,7 @@ Section 1. <i>Purpose</i>. The 2019 novel coronavirus (COVID–19) pandemic, whi
 
 The Centers for Disease Control and Prevention (CDC) of the Department of Health and Human Services have concluded that "growing and disproportionate unemployment rates for some racial and ethnic minority groups during the COVID–19 pandemic may lead to greater risk of eviction and homelessness or sharing of housing."
 
-This trend is concerning for many reasons, including that homeless shelters have proven to be particularly susceptible to outbreaks of COVID–19. CDC has observed that "\[h\]omelessness poses multiple challenges that can exacerbate and amplify the spread of COVID–19. Homeless shelters are often crowded, making social distancing difficult. Many persons experiencing homelessness are older or have underlying medical conditions, placing them at higher risk for severe COVID–19-associated illness." Increased shared housing is also potentially problematic to the extent it resultsin increased in-person interactions between older, higher-risk individuals and their younger relatives or friends.
+This trend is concerning for many reasons, including that homeless shelters have proven to be particularly susceptible to outbreaks of COVID–19. CDC has observed that "\[h\]omelessness poses multiple challenges that can exacerbate and amplify the spread of COVID–19. Homeless shelters are often crowded, making social distancing difficult. Many persons experiencing homelessness are older or have underlying medical conditions, placing them at higher risk for severe COVID–19-associated illness." Increased shared housing is also potentially problematic to the extent it results in increased in-person interactions between older, higher-risk individuals and their younger relatives or friends.
 
 My Administration has taken bold steps to help renters and homeowners have safe and secure places to call home during the COVID–19 crisis. Prior to passage of the Coronavirus Aid, Relief, and Economic Security Act (CARES Act) (Public Law 116–136), the Secretary of Housing and Urban Development implemented a foreclosure and eviction moratorium for all single-family mortgages insured by the Federal Housing Administration. Furthermore, prior to passage of the CARES Act, the Federal Housing Finance Agency (FHFA) announced that it had instructed the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation (the Enterprises) to suspend foreclosures for at least 60 days. FHFA has since announced that the Enterprises will extend the foreclosure suspension until at least August 31, 2020.
 

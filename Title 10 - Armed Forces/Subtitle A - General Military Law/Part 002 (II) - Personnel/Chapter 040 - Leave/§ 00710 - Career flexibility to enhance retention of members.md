@@ -2,7 +2,7 @@
 
 (a)
 
-Programs Authorized.—Each Secretary of a military department may carry out programs under which members of the regular components and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the end of such period of inactivation from active service.
+Programs Authorized.—Each Secretary of a military department may carry out programs under which members of the regular components and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the endof such period of inactivation from active service.
 
 (b)
 
@@ -58,11 +58,11 @@ Pay and Allowances.—(1) During each month of participation in a program under 
 
 (C) A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
 
-(D) Any service required of a member under an agreement covered by this paragraph after the member returns to active service as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
+(D) Any service required of a member under an agreement covered by this paragraph after themember returns to active service as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
 
-(4)(A) Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 <sup>1</sup> of title 37 for—
+(4)(A) Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 452 of title 37 for—
 
-&emsp;(i) travel performed from the residence of the member, at the time of release from active service to participate in the program, to thelocation in the United States designated by the member as his residence during the period of participation in the program; and
+&emsp;(i) travel performed from the residence of the member, at the time of release from active service to participate in the program, to the location in the United States designated by the member as his residence during the period of participation in the program; and
 
 &emsp;(ii) travel performed to the residence of the member upon return to active service at the end of the participation of the member in the program.
 
@@ -96,27 +96,23 @@ Continued Entitlements.—A member participating in a program under this section
 
 &emsp;(3) the entitlement of the member and of the survivors of the member to all death benefits under the provisions of chapter 75 of this title;
 
-&emsp;(4) the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 481f <sup>1</sup> of title 37; and
+&emsp;(4) the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 453(f) of title 37; and
 
 &emsp;(5) the eligibility of the member for general benefits as provided in part II of title 38.
 
-(Added Pub. L. 115–232, div. A, title V, §551(a), Aug. 13, 2018, 132 Stat. 1766; amended Pub. L. 116–92, div. A, title VI, §602, Dec. 20, 2019, 133 Stat. 1423; Pub. L. 116–283, div. A, title IX, §924(b)(18), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–81, div. A, title V, §521, Dec. 27, 2021, 135 Stat. 1686.)
+(Added Pub. L. 115–232, div. A, title V, §551(a), Aug. 13, 2018, 132 Stat. 1766; amended Pub. L. 116–92, div. A, title VI, §602, Dec. 20, 2019, 133 Stat. 1423; Pub. L. 116–283, div. A, title IX, §924(b)(18), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–81, div. A, title V, §521, Dec. 27, 2021, 135 Stat. 1686; Pub. L. 117–263, div. A, title VI, §626(c)(1), Dec. 23, 2022, 136 Stat. 2628.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 474 of title 37, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
-Section 481f of title 37, referred to in subsec. (h)(4), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(4)(A). Pub. L. 117–263, §626(c)(1)(A), substituted "section 452" for "section 474".
+
+Subsec. (h)(4). Pub. L. 117–263, §626(c)(1)(B), substituted "section 453(f)" for "section 481f".
 
 <b>2021</b>—Subsec. (c)(1). Pub. L. 116–283 substituted "an armed force" for "the armed force concerned".
 
 Subsec. (c)(3). Pub. L. 117–81 substituted "one month" for "two months".
 
 <b>2019</b>—Subsec. (h)(3) to (5). Pub. L. 116–92 added pars. (3) to (5).
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

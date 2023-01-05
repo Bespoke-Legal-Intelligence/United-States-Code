@@ -12,7 +12,7 @@ It is the purpose and policy of this chapter, in order to promote the full flow 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "This Act" meaning act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to this subchapter and subchapters III (§171 et seq.) and IV (§185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original "This Act" meaning act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to this subchapter and subchapters III (§171 et seq.) and IV (§185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -36,7 +36,7 @@ Ex. Ord. No. 11710, Apr. 4, 1973, 38 F.R. 9071, as amended by Ex. Ord. No. 11729
 
 #### Executive Order No. 11809
 
-Ex. Ord. No. 11809, Sept. 30, 1974, 39 F.R. 35565, which established the President's Labor-Management Committee, was revoked by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11809, Sept. 30, 1974, 39 F.R. 35565, which established the President's Labor-Management Committee, was revoked by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 14025. Worker Organizing and Empowerment
 
@@ -44,7 +44,7 @@ Ex. Ord. No. 14025, Apr. 26, 2021, 86 F.R. 22829, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy and Findings</i>. The National Labor Relations Act (29 U.S.C. 151 \[et seq.\]) proclaims that the policy of the United States is to encourage worker organizing and collective bargaining and to promote equality of bargaining power between employers and employees. In the Federal Service Labor-Management Relations Statute \[probably should be "Act"\] (5 U.S.C. 7101(a)(1)), the Congress found that "experience in both private and public employment indicates that the statutory protection of the right of employees to organize, bargain collectively, and participate through labor organizations of their own choosing in decisions which affect them . . . safeguards the public interest, . . . contributes to the effective conduct of public business, and . . . facilitates and encourages the amicable settlements of disputes between employees and their employers involving conditions of employment."
+Section 1. <i>Policy and Findings</i>. The National Labor Relations Act (29 U.S.C. 151 \[et seq.\]) proclaims that the policy of the United States is to encourage worker organizing and collective bargaining and to promoteequality of bargaining power between employers and employees. In the Federal Service Labor-Management Relations Statute (5 U.S.C. 7101(a)(1)), the Congress found that "experience in both private and public employment indicates that the statutory protection of the right of employees to organize, bargain collectively, and participate through labor organizations of their own choosing in decisions which affect them . . . safeguards the public interest, . . . contributes to the effective conduct of public business, and . . . facilitates and encourages the amicable settlements of disputes between employees and their employers involving conditions of employment."
 
 In the past few decades, the Federal Government has not used its full authority to promote and implement this policy of support for workers organizing unions and bargaining collectively with their employers. During this period, economic change in the United States and globally, technological developments, and the failure to modernize Federal organizing and labor-management relations laws to respond appropriately to the reality found in American workplaces, have made worker organizing exceedingly difficult.
 
@@ -126,7 +126,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this order:
 
 (c) the term "agency" refers to all agencies described in section 3502(1) of title 44, United States Code, except for the agencies described in section 3502(5) of title 44.
 
-Sec. 4. <i>Revocations</i>. (a) Executive Order 13845 of July 19, 2018 (Establishing the President's National Council for the American Worker) \[former 29 U.S.C. 3101 note\], and Executive Order 13931 of June 26, 2020 (Continuing the President's National Council for the American Worker and the American Workforce Policy Advisory Board) \[former 29 U.S.C. 3101 note\], are revoked.
+Sec. 4. <i>Revocations</i>. (a) Executive Order 13845 of July 19, 2018 (Establishing the President's National Council for the American Worker) \[former 29 U.S.C. 3101 note\],and Executive Order 13931 of June 26, 2020 (Continuing the President's National Council for the American Worker and the American Workforce Policy Advisory Board) \[former 29 U.S.C. 3101 note\], are revoked.
 
 (b) The Director of the Office of Management and Budget and the heads of executive departments and agencies shall promptly consider taking steps to rescind any orders, rules, regulations, guidelines, or policies, or portions thereof, implementing or enforcing Executive Order 13845 or Executive Order 13931, as appropriate and consistent with applicable law, including the Administrative Procedure Act (5 U.S.C. 551 <i>et seq</i>.). In addition, they shall abolish any personnel positions, committees, task forces, or other entities established pursuant to Executive Order 13845 or Executive Order 13931, as appropriate and consistent with applicable law.
 

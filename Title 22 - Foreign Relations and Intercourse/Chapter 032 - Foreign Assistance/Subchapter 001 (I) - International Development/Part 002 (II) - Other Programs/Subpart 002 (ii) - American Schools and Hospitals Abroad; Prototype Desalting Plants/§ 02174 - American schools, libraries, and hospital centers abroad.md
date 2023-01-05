@@ -6,7 +6,7 @@ The President is authorized to furnish assistance, on such terms and conditions 
 
 #### (b) Assistance for hospital centers
 
-The President is authorized, notwithstanding the provisions of the Mutual Defense Assistance Control Act of 1951 \[22 U.S.C. 1611 et seq.\], to furnish assistance, on such terms and conditions as he may specify, to institutions referred to in subsection (a) of this section, and to hospital centers for medical education and research outside the United States, founded or sponsored by United States citizens.
+The President is authorized, notwithstanding the provisions of the Mutual Defense Assistance Control Act of 1951 \[22 U.S.C. 1611 et seq.\], to furnish assistance, on such terms and conditions as he may specify, to institutions referred to in subsection (a) of this section, and to hospitalcenters for medical education and research outside the United States, founded or sponsored by United States citizens.
 
 #### (c) Authorization of appropriations
 
@@ -24,7 +24,7 @@ Notwithstanding the provisions of subsection (b), funds appropriated under this 
 
 #### References in Text
 
-The Mutual Defense Assistance Control Act of 1951, referred to in subsec. (b), is act Oct. 26, 1951, ch. 575, 65 Stat. 644, as amended, which was classified generally to chapter 20A (§1611 et seq.) of this title prior to its supersedure by former section 4619(e) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Mutual Defense Assistance Control Act of 1951, referred to in subsec. (b), is act Oct. 26, 1951, ch. 575, 65 Stat. 644, which was classified generally to chapter 20A (§1611 et seq.) of this title prior to its supersedure by former section 4619(e) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 90–554, §102(c)(2), substituted authorization of $5,100,
 
 Subsec. (d). Pub. L. 90–137, §103(c)(2), substituted authorization of $2,986,000 for fiscal year 1968 for sum of $1,000,000 for fiscal year 1967.
 
-<b>1966</b>—Subsec. (b). Pub. L. 89–583, §103(c)(1), substituted "to institutions referred to in subsection (a) of this section, and to hospital centers for medical education and research outside the United States, founded or sponsored by United States citizens" for "to hospitals outside the United States founded or sponsored by United States citizens and serving as centers for medical education and research".
+<b>1966</b>—Subsec. (b). Pub. L. 89–583, §103(c)(1), substituted "to institutions referred to in subsection (a) ofthis section, and to hospital centers for medical education and research outside the United States, founded or sponsored by United States citizens" for "to hospitals outside the United States founded or sponsored by United States citizens and serving as centers for medical education and research".
 
 Subsec. (c). Pub. L. 89–583, §103(c)(2), substituted authorization of $10,989,000 for fiscal year 1967 for sum of $7,000,000 for fiscal year 1966.
 

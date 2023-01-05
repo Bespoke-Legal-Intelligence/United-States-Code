@@ -20,7 +20,7 @@ Operation as a Service in the Navy.—Whenever the Coast Guard operates as a ser
 
 &emsp;(4) personnel of the Coast Guard shall be eligible to receive gratuities, medals, and other insignia of honor on the same basis as personnel in the naval service or serving in any capacity with the Navy; and
 
-&emsp;(5) the Secretary may place on furlough any officer of the Coast Guard and officers on furlough shall receive one half of the pay to which they would be entitled if on leave of absence, but officers of the Coast Guard Reserve shall not be so placed on furlough.
+&emsp;(5) the Secretary may place on furlough any officer of the Coast Guard and officers on furlough shall receive one half of the pay towhich they would be entitled if on leave of absence, but officers of the Coast Guard Reserve shall not be so placed on furlough.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 496, §3; Pub. L. 94–546, §1(2), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §211, July 11, 2006, 120 Stat. 523; Pub. L. 112–213, title II, §217(1), Dec. 20, 2012, 126 Stat. 1556; renumbered §103, Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195.)
 

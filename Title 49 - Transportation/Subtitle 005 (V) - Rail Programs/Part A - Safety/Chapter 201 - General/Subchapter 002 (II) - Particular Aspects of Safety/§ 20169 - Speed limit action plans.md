@@ -6,7 +6,7 @@ In General.—Not later than March 3, 2016, each railroad carrier providing inte
 
 (b)
 
-Action Plans.—Not later than 120 days after the date that the survey under subsection (a) is complete, a railroad carrier described insubsection (a) shall submit to the Secretary of Transportation an action plan that—
+Action Plans.—Not later than 120 days after the date that the survey under subsection (a) is complete, a railroad carrier described in subsection (a) shall submit to the Secretary of Transportation an action plan that—
 
 &emsp;(1) identifies each main track location where there is a reduction of more than 20 miles per hour from the approach speed to a curve, bridge, or tunnel and the maximum authorized operating speed for passenger trains at that curve, bridge, or tunnel;
 
@@ -36,7 +36,7 @@ Approval.—Not later than 90 days after the date on which an action plan is sub
 
 Periodic Reviews and Updates.—Each railroad carrier that submits an action plan to the Secretary pursuant to subsection (b) shall—
 
-&emsp;(1) not later than 1 year after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, and annually thereafter, review such plan to ensure the effectiveness of actions taken to enable warning and enforcement of the maximum authorized speed for passenger trains at each location identified pursuant to subsection (b)(1); and
+&emsp;(1) not later than 1 year after the date of enactment of the Passenger Rail Expansion andRail Safety Act of 2021, and annually thereafter, review such plan to ensure the effectiveness of actions taken to enable warning and enforcement of the maximum authorized speed for passenger trains at each location identified pursuant to subsection (b)(1); and
 
 &emsp;(2) not later than 90 days before implementing any significant operational or territorial operating change, including initiating a new service or route, submit to the Secretary a revised action plan, after consultation with any applicable host railroad, that addresses such operational or territorial operating change.
 

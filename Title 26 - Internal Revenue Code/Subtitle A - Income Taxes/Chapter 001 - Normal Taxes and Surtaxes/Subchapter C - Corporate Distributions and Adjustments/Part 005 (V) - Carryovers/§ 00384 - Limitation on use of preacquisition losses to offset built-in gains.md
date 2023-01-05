@@ -30,7 +30,7 @@ If—
 
 #### (3) Shorter period where corporations not in existence for 5 years
 
-&emsp;If either of the corporations referred to in paragraph (1) was not in existence throughoutthe 5-year period referred to in paragraph (1), the period during which such corporation was in existence (or if both, the shorter of such periods) shall be substituted for such 5-year period.
+&emsp;If either of the corporations referred to in paragraph (1) was not in existence throughout the 5-year period referred to in paragraph (1), the period during which such corporation was in existence (or if both, the shorter of such periods) shall be substituted for such 5-year period.
 
 #### (c) Definitions
 
@@ -128,7 +128,7 @@ Rules similar to the rules of subsection (a) shall also apply in the case of any
 
 #### (f) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the purposes ofthis section, including regulations to ensure that the purposes of this section may not be circumvented through—
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to ensure that the purposes of this section may not be circumvented through—
 
 &emsp;(1) the use of any provision of law or regulations (including subchapter K of this chapter), or
 
@@ -180,5 +180,5 @@ Pub. L. 100–203, title X, §10226(c), Dec. 22, 1987, 101 Stat. 1330–416, pro
 
 #### Election To Have Amendments by Pub. L. 100–647 Not Apply
 
-Pub. L. 100–647, title II, §2004(m)(5), Nov. 10, 1988, 102 Stat. 3607, provided that: "In any case where the acquisition date (as defined in section 384(c)(2) of the 1986 Code as amended by this subsection) is before March 31, 1988, the acquiring corporation may elect to have the amendments made by this subsection not apply. Such an election shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe and shall be made not later than the later of the due date (including extensions) for filing the return for the taxable year of the acquiring corporation in which the acquisition date occurs or the date 120 days after the date of the enactment of this Act \[Nov. 10, 1989\]. Such an election, once made, shall be irrevocable."
+Pub. L. 100–647, title II, §2004(m)(5), Nov. 10, 1988, 102 Stat. 3607, provided that: "In any case where the acquisition date (as defined in section 384(c)(2) of the 1986 Code as amended by this subsection) is before March 31,1988, the acquiring corporation may elect to have the amendments made by this subsection not apply. Such an election shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe and shall be made not later than the later of the due date (including extensions) for filing the return for the taxable year of the acquiring corporation in which the acquisition date occurs or the date 120 days after the date of the enactment of this Act \[Nov. 10, 1989\]. Such an election, once made, shall be irrevocable."
 

@@ -32,7 +32,7 @@ Each counseling agency certified pursuant by <sup>1</sup> the Secretary to prov
 
 #### (d) Training
 
-Training provided the Department of Housing and Urban Development for housing counselingagencies, whether such training is provided directly by the Department or otherwise, shall include—
+Training provided the Department of Housing and Urban Development for housing counseling agencies, whether such training is provided directly by the Department or otherwise, shall include—
 
 &emsp;(1) providing information on counseling potential homebuyers of the availability and importance of getting an independent home inspection;
 

@@ -16,7 +16,7 @@
 
 (B) Except as provided in subparagraph (C)—
 
-&emsp;(i) in order to be eligible for continued enrollment under this paragraph, notification under subparagraph (A) shall be made beforethe first day of the open enrollment period preceding the calendar year referred to in clause (ii)(II); and
+&emsp;(i) in order to be eligible for continued enrollment under this paragraph, notification under subparagraph (A) shall be made before the first day of the open enrollment period preceding the calendar year referred to in clause (ii)(II); and
 
 &emsp;(ii) if such notification is timely made, the retired judge shall be eligible for continued enrollment under this paragraph for the period—
 

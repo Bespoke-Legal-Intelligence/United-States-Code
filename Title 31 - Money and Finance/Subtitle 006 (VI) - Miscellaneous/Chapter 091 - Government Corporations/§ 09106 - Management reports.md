@@ -12,7 +12,7 @@
 
 &emsp;(D) a reconciliation to the budget report of the Government corporation, if applicable;
 
-&emsp;(E) a statement on internal accounting and administrative control systems by the head ofthe management of the corporation, consistent with the requirements for agency statements on internal accounting and administrative control systems under the amendments made by the Federal Managers' Financial Integrity Act of 1982 (Public Law 97–255);
+&emsp;(E) a statement on internal accounting and administrative control systems by the head of the management of the corporation, consistent with the requirements for agency statements on internal accounting and administrative control systems under the amendments made by the Federal Managers' Financial Integrity Act of 1982 (Public Law 97–255);
 
 &emsp;(F) the report resulting from an audit of the financial statements of the corporation conducted under section 9105 of this title; and
 

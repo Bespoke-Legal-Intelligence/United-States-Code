@@ -2,7 +2,7 @@
 
 #### (a) Subsidy payment
 
-In order to reduce premium levels applicable to qualified prescription drug coverage for part D eligible individuals consistent with an overall subsidy level of 74.5 percent for basic prescription drug coverage, to reduce adverse selection among prescription drug plans and MA–PD plans, and to promote the participation of PDP sponsors under this part and MA organizations under part C, the Secretary shall provide for payment to a PDP sponsor that offers a prescription drug plan and an MA organization that offers an MA–PD plan of the following subsidies in accordance with this section:
+In order to reduce premium levels applicable to qualified prescription drug coverage for part D eligible individuals consistent with an overall subsidy level of 74.5 percent (or, for each of 2024 through 2029, the percent applicable as a result of the application of section 1395w–113(a)(8) of this title, or, for 2030 and each subsequent year, 100 percent minus the percent specified under section 1395w–113(a)(9) of this title) for basic prescription drug coverage, to reduce adverse selection among prescription drug plans and MA–PD plans, and to promote the participation of PDP sponsors under this part and MA organizations under part C, the Secretary shall provide for payment to a PDP sponsor that offers a prescription drug plan and an MA organization that offers an MA–PD plan of the following subsidies in accordance with this section:
 
 #### (1) Direct subsidy
 
@@ -10,7 +10,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;(A) the amount of the plan's standardized bid amount (as defined in section 1395w–113(a)(5) of this title), adjusted under subsection (c)(1), reduced by
 
-&emsp;&emsp;(B) the base beneficiary premium (as computed under paragraph (2) of section 1395w–113(a) of this title and as adjusted under paragraph (1)(B) of such section).
+&emsp;&emsp;(B) the base beneficiary premium (as computed under paragraph (2) or (8) of section 1395w–113(a) of this title (as applicable) and as adjusted under paragraph (1)(B) of such section).
 
 #### (2) Subsidy through reinsurance
 
@@ -22,15 +22,29 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (1) In general
 
-&emsp;The reinsurance payment amount under this subsection for a part D eligible individual enrolled in a prescription drug plan or MA–PD plan for a coverage year is an amount equal to 80 percent of the allowable reinsurance costs (as specified in paragraph (2)) attributable to that portion of gross covered prescription drug costs as specified in paragraph (3) incurred in the coverage year after such individual has incurred costs that exceed the annual out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title.
+&emsp;The reinsurance payment amount under this subsection for a part D eligible individual enrolled in a prescription drug plan or MA–PD plan for a coverage year is an amount equal to—
+
+&emsp;&emsp;(A) for a year preceding 2025, 80 percent of the allowable reinsurance costs (as specified in paragraph (2)) attributable to that portion of gross covered prescription drug costs as specified in paragraph (3) incurred in the coverage year after such individual has incurred costs that exceed the annual out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title; and
+
+&emsp;&emsp;(B) for 2025 and each subsequent year, the sum of—
+
+&emsp;&emsp;&emsp;(i) with respect to applicable drugs (as defined in section 1395w–114c(g)(2) of this title), an amount equal to 20 percent of such allowable reinsurance costs attributable to that portion of gross covered prescription drug costs as specified in paragraph (3) incurred in the coverage year after such individual has incurred costs that exceed the annual out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title; and
+
+&emsp;&emsp;&emsp;(ii) with respect to covered part D drugs that are not applicable drugs (as so defined), an amount equal to 40 percent of such allowable reinsurance costs attributable to that portion of gross covered prescription drug costs as specified in paragraph (3) incurred in the coverage year after such individual has incurred costs that exceed the annual out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title.
 
 #### (2) Allowable reinsurance costs
 
-&emsp;For purposes of this section, the term "allowable reinsurance costs" means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), for purposes of this section, the term "allowable reinsurance costs" means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
+
+#### (B) Inclusion of manufacturer discounts on applicable drugs
+
+&emsp;&emsp;For purposes of applying subparagraph (A), the term "allowable reinsurance costs" shall include the portion of the negotiated price (as defined in section 1395w–114c(g)(6) of this title) of an applicable drug (as defined in section 1395w–114c(g)(2) of this title) that was paid by a manufacturer under the manufacturer discount program under section 1395w–114c of this title.
 
 #### (3) Gross covered prescription drug costs
 
-&emsp;For purposes of this section, the term "gross covered prescription drug costs" means, with respect to a part D eligible individual enrolled in a prescription drug plan or MA–PD plan during a coverage year, the costs incurred under the plan, not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year and costs relating to the deductible. Such costs shall be determined whether they are paid by the individual or under the plan, regardless of whether the coverage under the plan exceeds basic prescription drug coverage.
+&emsp;Subject to paragraph (2)(B), for purposes of this section, the term "gross covered prescription drug costs" means, with respect to a part D eligible individual enrolled in a prescription drug plan or MA–PD plan during a coverage year, the costs incurred under the plan, not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year and costs relating to the deductible. Such costs shall be determined whether they are paid by the individual or under the plan (or, with respect to 2025 and subsequent years, in the case of an applicable drug, as defined in section 1395w–114c(g)(2) of this title, by a manufacturer), regardless of whether the coverage under the plan exceeds basic prescription drug coverage.
 
 #### (4) Coverage year defined
 
@@ -54,7 +68,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;&emsp;(i) PDP sponsors to submit data regarding drug claims that can be linked at the individual level to part A and part B data and such other information as the Secretary determines necessary; and
 
-&emsp;&emsp;&emsp;(ii) MA organizations that offer MA–PD plans to submit data regarding drug claims that can be linked at the individual level to other data that such organizations are required to submit to the Secretaryand such other information as the Secretary determines necessary.
+&emsp;&emsp;&emsp;(ii) MA organizations that offer MA–PD plans to submit data regarding drug claims that can be linked at the individual level to other data that such organizations are required to submit to the Secretary and such other information as the Secretary determines necessary.
 
 #### (D) Publication
 
@@ -154,7 +168,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;&emsp;&emsp;(I) 50 percent (or, for 2006 and 2007, 75 percent) of the difference between the first threshold lower limit and the second threshold lower limit; and
 
-&emsp;&emsp;&emsp;&emsp;(II) 80 percent of the difference between the second threshold upper limit of the risk corridor and such adjusted allowable risk corridor costs.
+&emsp;&emsp;&emsp;&emsp;(II) 80 percent of the difference between the second threshold upper limitof the risk corridor and such adjusted allowable risk corridor costs.
 
 #### (3) Establishment of risk corridors
 
@@ -248,13 +262,15 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;(A) by officers, employees, and contractors of the Department of Health and Human Services for the purposes of, and to the extent necessary in—
 
-&emsp;&emsp;&emsp;(i) carrying out this section; and
+&emsp;&emsp;&emsp;(i) carrying out this section or part E of subchapter XI; and
 
 &emsp;&emsp;&emsp;(ii) conducting oversight, evaluation, and enforcement under this subchapter;
 
-&emsp;&emsp;(B) by the Attorney General and the Comptroller General of the United States for the purposes of, and to the extent necessary in, carrying out health oversight activities; and
+&emsp;&emsp;(B) by the Attorney General and the Comptroller General of the United States for the purposes of, and to the extent necessary in, carrying out health oversight activities;
 
-&emsp;&emsp;(C) by the Executive Director of the Medicare Payment Advisory Commission for purposes of monitoring, making recommendations for, and analysis of the program under this subchapter and by the Executive Director of the Medicaid and CHIP Payment and Access Commission for purposes of monitoring, making recommendations for, and analysis of the Medicaid program established under subchapter XIX and the Children's Health Insurance Program under subchapter XXI.
+&emsp;&emsp;(C) by the Executive Director of the Medicare Payment Advisory Commission for purposes of monitoring, making recommendations for, and analysis of the program under this subchapter and by the Executive Director of the Medicaid and CHIP Payment and Access Commission for purposes of monitoring, making recommendations for, and analysis of the Medicaid program established under subchapter XIX and the Children's Health Insurance Program under subchapter XXI; and
+
+&emsp;&emsp;(D) by the Director of the Congressional Budget Office for the purposes of analysis of programs authorized under this chapter, as applicable, and the fulfilment of such Director's duties under the Congressional Budget and Impoundment Control Act of 1974.
 
 #### (3) Additional restrictions on disclosure of information
 
@@ -276,21 +292,61 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 In lieu of the amounts otherwise payable under this section to a PDP sponsor offering a fallback prescription drug plan (as defined in section 1395w–111(g)(4) of this title <sup>2</sup>), the amount payable shall be the amounts determined under the contract for such plan pursuant to section 1395w–111(g)(5) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–15, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2113; amended Pub. L. 111–148, title VI, §6402(b)(1), Mar. 23, 2010, 124 Stat. 756; Pub. L. 116–260, div. CC, title I, §112(a), Dec. 27, 2020, 134 Stat. 2946.)
+#### (h) Temporary retrospective subsidy for reduction in cost-sharing and deductible for adult vaccines recommended by the Advisory Committee on Immunization Practices and Insulin During 2023
+
+#### (1) In general
+
+&emsp;In addition to amounts otherwise payable under this section to a PDP sponsor of a prescription drug plan or an MA organization offering an MA–PD plan, for plan year 2023, the Secretary shall provide the PDP sponsor or MA organization offering the plan subsidies in an amount equal to the aggregate reduction in cost-sharing and deductible by reason of the application of paragraph (8) or (9) of section 1395w–102(b) of this title for individuals under the plan during the year.
+
+#### (2) Timing
+
+&emsp;The Secretary shall provide a subsidy under paragraph (1), as applicable, not later than 18 months following the end of the applicable plan year.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–15, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2113; amended Pub. L. 111–148, title VI, §6402(b)(1), Mar. 23, 2010, 124 Stat. 756; Pub. L. 116–260, div. CC, title I, §112(a), Dec. 27, 2020, 134 Stat. 2946; Pub. L. 117–169, title I, §§11001(b)(1)(H)(ii), 11201(b), (d)(3)(D), 11401(c)(1), 11406(c), Aug. 16, 2022, 136 Stat. 1853, 1879, 1891, 1897, 1904; Pub. L. 117–328, div. FF, title IV, §4132, Dec. 29, 2022, 136 Stat. 5918.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
+This chapter, referred to in subsec. (f)(2)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, was in the original "the Social Security Act", which is classified generally to this chapter. For complete classification of the Social Security Act to the Code, see section 1305 of this title and Tables.
+
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (f)(2)(D), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+
 Section 1395w–111(g)(4) of this title, referred to in subsec. (g), was in the original "section 1860D–3(c)(4)", and was translated as reading "section 1860D–11(g)(4)", meaning section 1860D–11(g)(4) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (c), and section 1395w–111(g)(4) of this title defines "fallback prescription drug plan" for purposes of this part.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–169, §11201(d)(3)(D)(i), inserted "(or, for each of 2024 through 2029, the percent applicable as a result of the application of section 1395w–113(a)(8) of this title, or, for 2030 and each subsequent year, 100 percent minus the percent specified under section 1395w–113(a)(9) of this title)" after "74.5 percent" in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 117–169, §11201(d)(3)(D)(ii), substituted "paragraph (2) or (8) of section 1395w–113(a) of this title (as applicable)" for "paragraph (2) of section 1395w–113(a) of this title".
+
+Subsec. (b)(1). Pub. L. 117–169, §11201(b)(1), inserted dash after "equal to", designated remainder of existing provisions as subpar. (A), substituted "for a year preceding 2025, 80 percent" for "80 percent", and added subpar. (B).
+
+Subsec. (b)(2). Pub. L. 117–169, §11201(b)(2), designated existing provisions as subpar. (A) and inserted heading, substituted "Subject to subparagraph (B), for purposes" for "For purposes", and added subpar. (B).
+
+Subsec. (b)(3). Pub. L. 117–169, §11201(b)(3), substituted "Subject to paragraph (2)(B), for purposes" for "For purposes" and inserted "(or, with respect to 2025 and subsequent years, in the case of an applicable drug, asdefined in section 1395w–114c(g)(2) of this title, by a manufacturer)" after "by the individual or under the plan".
+
+Subsec. (f)(2)(A)(i). Pub. L. 117–169, §11001(b)(1)(H)(ii), inserted "or part E of subchapter XI" after "this section".
+
+Subsec. (f)(2)(D). Pub. L. 117–328 added subpar. (D).
+
+Subsec. (h). Pub. L. 117–169, §11406(c)(1), inserted "and Insulin" after "Practices" in heading.
+
+Pub. L. 117–169, §11401(c)(1), added subsec. (h).
+
+Subsec. (h)(1). Pub. L. 117–169, §11406(c)(2), substituted "paragraph (8) or (9) of section 1395w–102(b) of this title" for "section 1395w–102(b)(8) of this title".
 
 <b>2020</b>—Subsec. (f)(2)(C). Pub. L. 116–260, §112(a)(1), added subpar. (C).
 
 Subsec. (f)(3). Pub. L. 116–260, §112(a)(2), added par. (3).
 
 <b>2010</b>—Subsec. (f)(2). Pub. L. 111–148 substituted "may be used—" for "may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this section." in introductory provisions and added subpars. (A) and (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Construction of 2022 Amendment
+
+Nothing in amendment by section 11401(c)(1) of Pub. L. 117–169 to be construed as limiting coverage under this part for vaccines that are not recommended by the Advisory Committee on Immunization Practices, see section 11401(d) of Pub. L. 117–169, set out as a note under section 1395w–102 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

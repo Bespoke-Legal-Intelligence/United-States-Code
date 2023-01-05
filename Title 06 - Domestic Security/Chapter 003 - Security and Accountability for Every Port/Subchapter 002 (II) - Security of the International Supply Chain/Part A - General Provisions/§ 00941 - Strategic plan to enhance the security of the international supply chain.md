@@ -28,7 +28,7 @@ The strategic plan required under subsection (a) shall—
 
 &emsp;(10) provide protocols for the expeditious resumption of the flow of trade in accordance with section 942 of this title;
 
-&emsp;(11) consider the linkages between supply chain security and security programs within other systems of movement, including travel security and terrorism finance programs; and
+&emsp;(11) consider the linkages between supply chain security and security programs withinother systems of movement, including travel security and terrorism finance programs; and
 
 &emsp;(12) expand upon and relate to existing strategies and plans, including the National Response Plan, the National Maritime Transportation Security Plan, the National Strategy for Maritime Security, and the 8 supporting plans of the Strategy, as required by Homeland Security Presidential Directive 13.
 

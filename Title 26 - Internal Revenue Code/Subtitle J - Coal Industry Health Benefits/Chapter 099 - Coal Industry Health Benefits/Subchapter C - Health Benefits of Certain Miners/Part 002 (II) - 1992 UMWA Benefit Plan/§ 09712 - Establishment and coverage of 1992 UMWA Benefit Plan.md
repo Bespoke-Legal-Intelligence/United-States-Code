@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) but for the enactment of this chapter, would be eligible to receive benefits from the 1950 UMWA Benefit Plan or the 1974 UMWA Benefit Plan, based upon age and service earned as of February 1, 1993; or
 
-&emsp;&emsp;(B) with respect to whom coverage is required to be provided under section 9711, butwho does not receive such coverage from the applicable last signatory operator or any related person,
+&emsp;&emsp;(B) with respect to whom coverage is required to be provided under section 9711, but who does not receive such coverage from the applicable last signatory operator or any related person,
 
 > &emsp;and any individual who is eligible for benefits by reason of a relationship to an individual described in subparagraph (A) or (B). In no event shall the 1992 UMWA Benefit Plan provide health benefits coverage to any eligible beneficiary who is a coal industry retiree who retired from the coal industry after September 30, 1994, or any beneficiary of such individual.
 
@@ -136,7 +136,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

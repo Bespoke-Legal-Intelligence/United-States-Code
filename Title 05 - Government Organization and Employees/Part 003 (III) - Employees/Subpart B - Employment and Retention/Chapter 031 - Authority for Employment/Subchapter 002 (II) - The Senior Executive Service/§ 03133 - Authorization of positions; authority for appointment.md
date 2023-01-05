@@ -80,7 +80,7 @@ In general.—The Secretary of Defense shall develop a plan to achieve the limit
 
 &emsp;&emsp;"(B) the by-year reductions to Senior Executive Service positions consistent with the distribution required under subparagraph (A); and
 
-&emsp;&emsp;"(C) recommendations for any legislative action that may be necessary for personnel managementand shaping authorities to achieve the required limitation.
+&emsp;&emsp;"(C) recommendations for any legislative action that may be necessary for personnel management and shaping authorities to achieve the required limitation.
 
 &emsp;"(2)
 
@@ -134,7 +134,7 @@ Pub. L. 95–454, title IV, §413, Oct. 13, 1978, 92 Stat. 1175, provided that:
 
 > in a position which is designated as a Senior Executive Service position shall be appointed as a career appointee to such Senior Executive Service position without regard to section 3393(b)–(e) of title 5, United States Code (as added by this title).
 
-"(e) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section and who is serving under an excepted appointment in a position which is not designated a career reserved position in the Senior Executive Service, but is—
+"(e) Each employee who has elected conversion to a Senior Executive Service position under subsection\(c)(1)(B) of this section and who is serving under an excepted appointment in a position which is not designated a career reserved position in the Senior Executive Service, but is—
 
 &emsp;"(1) a position in Schedule C of subpart C of part 213 of title 5, Code of Federal Regulations;
 

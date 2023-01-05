@@ -126,7 +126,7 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 
 (2) Within 10 years after October 26, 1992, each Federal agency providing housing to Federal employees or housing assistance shall submit a report to Congress on the progress of that agency in implementing subsection (c) and on plans for continuing such implementation.
 
-(3)(A) The National Institute of Standards and Technology shall conduct a study and submit a report to Congress on the use, in combination, offire detection systems, fire suppression systems, and compartmentation. Such study shall—
+(3)(A) The National Institute of Standards and Technology shall conduct a study and submit a report to Congress on the use, in combination, of fire detection systems, fire suppression systems, and compartmentation. Such study shall—
 
 &emsp;(i) quantify performance and reliability for fire detection systems, fire suppression systems, and compartmentation, including a field assessment of performance and determination of conditions under which a reduction or elimination of 1 or more of those systems would result in an unacceptable risk of fire loss; and
 
@@ -144,7 +144,7 @@ In the implementation of this section, the process for meeting space needs in ur
 
 #### References in Text
 
-The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
 
 Section 1441a(c) of title 12, referred to in subsec. (a)(5)(B), was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 

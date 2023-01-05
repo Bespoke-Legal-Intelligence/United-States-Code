@@ -88,7 +88,7 @@ Evidentiary process.—The evidentiary process of the voluntary and binding arbi
 
 &emsp;(3)
 
-Decision.—The arbitrator or panel of arbitrators, as applicable, shall issue a decision not later than 30 days after the date on which the evidentiary record is closed.
+Decision.—The arbitrator or panel of arbitrators, as applicable, shall issue a decisionnot later than 30 days after the date on which the evidentiary record is closed.
 
 &emsp;(4)
 

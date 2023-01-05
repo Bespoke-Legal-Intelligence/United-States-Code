@@ -56,7 +56,7 @@ In this subchapter—
 
 &emsp;&emsp;(B) with respect to a foreign futures commission merchant—
 
-&emsp;&emsp;&emsp;(i) entity for or with whom such foreign futures commission merchant deals and that holds a claim against such foreign futures commission merchant on account of a commodity contract made, received, acquired, or held by or through such foreign futures commission merchant in the ordinary course of such foreign futures commission merchant's business as a foreign futures commission merchant from or for the foreign futures account of such entity; or
+&emsp;&emsp;&emsp;(i) entity for or with whom such foreign futures commission merchant deals and that holds a claim against such foreign futures commission merchant on account of a commodity contract made, received, acquired, or held by or through such foreign futures commission merchant in the ordinary course of such foreign futures commission merchant's business as a foreign futures commission merchant from or forthe foreign futures account of such entity; or
 
 &emsp;&emsp;&emsp;(ii) entity that holds a claim against such foreign futures commission merchant arising out of—
 
@@ -82,7 +82,7 @@ In this subchapter—
 
 &emsp;&emsp;(E) with respect to a commodity options dealer—
 
-&emsp;&emsp;&emsp;(i) entity for or with whom such commodity options dealer deals and that holdsa claim on account of a commodity contract made, received, acquired, or held by or through such commodity options dealer in the ordinary course of such commodity options dealer's business as a commodity options dealer from or for the commodity options account of such entity; or
+&emsp;&emsp;&emsp;(i) entity for or with whom such commodity options dealer deals and that holds a claim on account of a commodity contract made, received, acquired, or held by or through such commodity options dealer in the ordinary course of such commodity options dealer's business as a commodity options dealer from or for the commodity options account of such entity; or
 
 &emsp;&emsp;&emsp;(ii) entity that holds a claim against such commodity options dealer arising out of—
 
@@ -194,7 +194,7 @@ Paragraph (15) \[enacted as (17)\] defines "net equity" to include the value of 
 
 #### References in Text
 
-The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 
@@ -220,7 +220,7 @@ Par. (13). Pub. L. 103–394, §501(d)(29)(C), struck out "(7 U.S.C. 23)" after 
 
 <b>1982</b>—Par. (2). Pub. L. 97–222, §16(1), inserted "made" after "commodity contracts".
 
-Par. (4). Pub. L. 97–222, §16(2), substituted "with respect to" for "if the debtor is" wherever appearing, and substituted "cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization" for "cleared by the debtor" in subpar. (D).
+Par. (4). Pub. L. 97–222, §16(2), substituted "with respect to" for "if the debtor is" wherever appearing, and substituted "cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared bysuch clearing organization" for "cleared by the debtor" in subpar. (D).
 
 Par. (9). Pub. L. 97–222, §16(3), substituted "with respect to" for "if the debtor is" wherever appearing, in subpar. (A) substituted "such futures commission merchant" for "the debtor" wherever appearing and "such futures commission merchant's" for "the debtor's", in subpar. (B) substituted "such foreign futures commission merchant" for "the debtor" wherever appearing and "such foreign futures commission merchant's" for "the debtor's", in subpar. (C) substituted "such leverage transaction merchant" for "the debtor" wherever appearing and "such leverage transaction merchant's" for "the debtor's", inserted "or" after the semicolon in cl. (i), and substituted "holds" for "hold" in cl. (ii), in subpar. (D) substituted "such clearing organization" for "the debtor" wherever appearing, and in subpar. (E) substituted "such commodity options dealer" for "the debtor" wherever appearing and "such commodity options dealer's" for "the debtor's".
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date,except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

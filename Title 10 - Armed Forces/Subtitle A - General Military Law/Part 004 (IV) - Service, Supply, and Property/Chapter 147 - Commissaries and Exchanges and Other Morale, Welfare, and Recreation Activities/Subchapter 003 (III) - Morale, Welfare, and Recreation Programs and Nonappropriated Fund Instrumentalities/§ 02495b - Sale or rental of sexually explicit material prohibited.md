@@ -20,7 +20,7 @@ Resale Activities Review Board.—(1) The Secretary of Defense shall establish a
 
 (3) The Secretary of Defense may detail persons to serve as staff for the board. At a minimum, the Secretary shall ensure that the board is assisted at meetings by military resale and legal advisors.
 
-(4) The recommendations made by the board under paragraph (1) shall be made available to the public. The Secretary of Defense shall publicize the availability of such recommendations by such means as the Secretary considers appropriate.
+(4) The recommendations made by the board under paragraph (1) shall be made available tothe public. The Secretary of Defense shall publicize the availability of such recommendations by such means as the Secretary considers appropriate.
 
 (5) Members of the board shall be allowed travel expense, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the board.
 

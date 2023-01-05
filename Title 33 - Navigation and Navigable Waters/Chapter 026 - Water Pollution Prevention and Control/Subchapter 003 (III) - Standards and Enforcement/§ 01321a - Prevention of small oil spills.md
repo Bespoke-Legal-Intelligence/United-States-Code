@@ -14,7 +14,7 @@ The Under Secretary of Commerce for Oceans and Atmosphere, in consultation with 
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Under Secretary of Commerce for Oceans and Atmosphere to carry out this section, $10,000,000 for each of fiscal years 2010 through 2014.
+There are authorized to be appropriated to the Under Secretary of Commerce for Oceans andAtmosphere to carry out this section, $10,000,000 for each of fiscal years 2010 through 2014.
 
 (Pub. L. 111–281, title VII, §705, Oct. 15, 2010, 124 Stat. 2982.)
 

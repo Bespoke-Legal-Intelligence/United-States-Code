@@ -10,6 +10,8 @@ Establishment.—There are established the following regional Commissions:
 
 &emsp;(3) The Northern Border Regional Commission.
 
+&emsp;(4) The Great Lakes Authority.
+
 (b)
 
 Membership.—
@@ -86,7 +88,7 @@ No Federal Employee Status.—No member, alternate, officer, or employee of a Co
 
 Succession.—Subject to the time limitations under section 3346 of title 5, the Federal Cochairperson may designate a Federal employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1469, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2231; amended Pub. L. 115–334, title VI, §6304(f), Dec. 20, 2018, 132 Stat. 4752.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1469, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2231; amended Pub. L. 115–334, title VI, §6304(f), Dec. 20, 2018, 132 Stat. 4752; Pub. L. 117–328, div. O, title IV, §401(a)(1), Dec. 29, 2022, 136 Stat. 5228.)
 
 #### <b>Editorial Notes</b>
 
@@ -95,6 +97,8 @@ Succession.—Subject to the time limitations under section 3346 of title 5, the
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(4). Pub. L. 117–328 added par. (4).
 
 <b>2018</b>—Subsec. (f). Pub. L. 115–334 added subsec. (f).
 

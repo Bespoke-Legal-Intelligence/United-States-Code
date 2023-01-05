@@ -16,7 +16,7 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;&emsp;(i) reviewing and acting upon any application for such a permit,
 
-&emsp;&emsp;(ii) if the owner or operator receives a permit for such source, whether before or afterNovember 15, 1990, implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
+&emsp;&emsp;(ii) if the owner or operator receives a permit for such source, whether before or after November 15, 1990, implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
 
 &emsp;&emsp;(iii) emissions and ambient monitoring,
 
@@ -64,11 +64,11 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;&emsp;(F) assure that no permit will be issued if the Administrator objects to its issuance in a timely manner under this subchapter.
 
-&emsp;(6) Adequate, streamlined, and reasonable procedures for expeditiously determining when applications are complete, for processing such applications, for public notice, including offering an opportunity for public comment and a hearing, and for expeditious review of permit actions, including applications, renewals, or revisions, and including an opportunity for judicial review in State court of the final permitaction by the applicant, any person who participated in the public comment process, and any other person who could obtain judicial review of that action under applicable law.
+&emsp;(6) Adequate, streamlined, and reasonable procedures for expeditiously determining when applications are complete, for processing such applications, for public notice, including offering an opportunity for public comment and a hearing, and for expeditious review of permit actions, including applications, renewals, or revisions, and including an opportunity for judicial review in State court of the final permit action by the applicant, any person who participated in the public comment process, and any other person who could obtain judicial review of that action under applicable law.
 
 &emsp;(7) To ensure against unreasonable delay by the permitting authority, adequate authority and procedures to provide that a failure of such permitting authority to act on a permit application or permit renewal application (in accordance with the time periods specified in section 7661b of this title or, as appropriate, subchapter IV–A) shall be treated as a final permit action solely for purposes of obtaining judicial review in State court of an action brought by any person referred to in paragraph (6) to require that action be taken by the permitting authority on such application without additional delay.
 
-&emsp;(8) Authority, and reasonable procedures consistent with the need for expeditious action by the permitting authority on permit applications and related matters, to make available to the public any permit application, compliance plan, permit, and monitoring or compliance report under section 7661b(e) of this title, subject to the provisions of section 7414(c) of this title.
+&emsp;(8) Authority, and reasonable procedures consistent with the need for expeditious action by the permitting authority on permit applications and related matters, to make available to the public any permit application, compliance plan, permit, and monitoring orcompliance report under section 7661b(e) of this title, subject to the provisions of section 7414(c) of this title.
 
 &emsp;(9) A requirement that the permitting authority, in the case of permits with a term of 3 or more years for major sources, shall require revisions to the permit to incorporate applicable standards and regulations promulgated under this chapter after the issuance of such permit. Such revisions shall occur as expeditiously as practicable and consistent with the procedures established under paragraph (6) but not later than 18 months after the promulgation of such standards and regulations. No such revision shall be required if the effective date of the standards or regulations is a date after the expiration of the permit term. Such permit revision shall be treated as a permit renewal if it complies with the requirements of this subchapter regarding renewals.
 

@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (3) Tax shelter defined
 
-&emsp;The term "tax shelter" has the meaning given such term by section 461(i)(3) (determined after application of paragraph (4) thereof). An S corporation shall not be treated as a tax shelter for purposes of this section merely by reason of being required to file a notice of exemption from registration with a State agency described in section 461(i)(3)(A), but only if there is a requirement applicable to all corporations offering securities for sale in theState that to be exempt from such registration the corporation must file such a notice.
+&emsp;The term "tax shelter" has the meaning given such term by section 461(i)(3) (determined after application of paragraph (4) thereof). An S corporation shall not be treated as a tax shelter for purposes of this section merely by reason of being required to file a notice of exemption from registration with a State agency described in section 461(i)(3)(A), but only if there is a requirement applicable to all corporations offering securities for sale in the State that to be exempt from such registration the corporation must file such a notice.
 
 #### (4) Special rules for application of paragraph (2)
 

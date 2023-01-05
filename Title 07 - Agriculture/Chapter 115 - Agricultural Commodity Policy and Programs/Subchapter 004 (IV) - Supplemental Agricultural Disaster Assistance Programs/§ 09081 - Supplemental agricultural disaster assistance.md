@@ -156,7 +156,7 @@ In this section:
 
 #### (D) Normal carrying capacity
 
-&emsp;&emsp;The term "normal carrying capacity", with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expected from the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
+&emsp;&emsp;The term "normal carrying capacity", with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expectedfrom the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
 
 #### (E) Normal grazing period
 
@@ -198,7 +198,7 @@ In this section:
 
 #### (ii) Partial compensation
 
-&emsp;&emsp;&emsp;In the case of an eligible livestock producer that sold or otherwise disposed of covered livestock due to drought conditions in 1 or both of the 2 production years immediately preceding the current production year, as determined by the Secretary, the payment rate shall be 80 percent of thepayment rate otherwise calculated in accordance with clause (i).
+&emsp;&emsp;&emsp;In the case of an eligible livestock producer that sold or otherwise disposed of covered livestock due to drought conditions in 1 or both of the 2 production years immediately preceding the current production year, as determined by the Secretary, the payment rate shall be 80 percent of the payment rate otherwise calculated in accordance with clause (i).
 
 #### (C) Monthly feed cost
 
@@ -248,7 +248,7 @@ In this section:
 
 #### (I) D2
 
-&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having a D2 (severe drought) intensity in any area of the county for at least 8 consecutive weeks during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph in an amount equal to 1 monthly payment using the monthly payment rate determined under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having a D2 (severe drought) intensity in any area of the county for at least 8 consecutive weeks during the normal grazing period for the county, as determined by the Secretary,shall be eligible to receive assistance under this paragraph in an amount equal to 1 monthly payment using the monthly payment rate determined under subparagraph (B).
 
 #### (II) D3
 
@@ -336,7 +336,7 @@ In this section:
 
 #### (A) Loss
 
-&emsp;&emsp;Subject to subparagraph (B), for fiscal year 2012 and each succeeding fiscal year, the Secretary shall use such sums as are necessary of the funds of the Commodity Credit Corporation to provide assistance—
+&emsp;&emsp;Subject to subparagraph (B), for fiscal year 2012 and each succeeding fiscal year,the Secretary shall use such sums as are necessary of the funds of the Commodity Credit Corporation to provide assistance—
 
 &emsp;&emsp;&emsp;(i) under paragraph (3) to eligible orchardists and nursery tree growers that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary; and
 

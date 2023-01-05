@@ -28,7 +28,7 @@
 
 (e)(1) If an employee or Member (or former employee or Member) dies without having made an election under this section or after having elected an annuity under this section but before making an election under section 8434 of this title, an amount equal to the value of that individual's account (as of death) shall, subject to any decree, order, or agreement referred to in section 8435(c)(2) of this title be paid in a manner consistent with section 8424(d) of this title.
 
-(2) Notwithstanding section 8424(d), if an employee, Member, former employee, or former Member dies and has designated as sole or partial beneficiary his or her spouse at the time ofdeath, or, if an employee, Member, former employee, or former Member, dies with no designated beneficiary and is survived by a spouse, the spouse may maintain the portion of the employee's or Member's account to which the spouse is entitled in accordance with the following terms:
+(2) Notwithstanding section 8424(d), if an employee, Member, former employee, or former Member dies and has designated as sole or partial beneficiary his or her spouse at the time of death, or, if an employee, Member, former employee, or former Member, dies with no designated beneficiary and is survived by a spouse, the spouse may maintain the portion of the employee's or Member's account to which the spouse is entitled in accordance with the following terms:
 
 &emsp;(A) Subject to the limitations of subparagraph (B), the spouse shall have the same withdrawal options under subsection (b) as the employee or Member were the employee or Member living.
 
@@ -42,7 +42,7 @@
 
 (f) Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee's or Member's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred.
 
-(g)(1) At any time before separation, an employee or Member may apply to the Board for permission to borrow from the employee's or Member's account an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member. Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.
+(g)(1) At any time before separation, an employee or Member may apply to the Board for permission to borrow from the employee's or Member's account an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member. Before a loan is issued, the Executive Director shall provide in writing theemployee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.
 
 (2) Loans under this subsection shall be available to all employees and Members on a reasonably equivalent basis, and shall be subject to such other conditions as the Board may by regulation prescribe. The restrictions of section 8477(c)(1) of this title shall not apply to loans made under this subsection.
 
@@ -86,7 +86,7 @@ Subsec. (f). Pub. L. 115–84, §2(c), struck out par. (1) designation before "N
 
 &emsp;"(B) the employee, Member, former employee, or former Member separates from Government employment."
 
-Subsec. (h)(2). Pub. L. 115–84, §2(d)(1), (2), redesignated par. (3) as (2) and struck out former par. (2) whichread as follows: "A withdrawal under paragraph (1)(A) shall be available to each eligible participant one time only."
+Subsec. (h)(2). Pub. L. 115–84, §2(d)(1), (2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "A withdrawal under paragraph (1)(A) shall be available to each eligible participant one time only."
 
 Subsec. (h)(3). Pub. L. 115–84, §2(d)(2), (3), redesignated par. (4) as (3) and inserted "limitations or" before "conditions". Former par. (3) redesignated (2).
 
@@ -110,7 +110,7 @@ Subsec. (h)(4), (5). Pub. L. 115–84, §2(d)(2), redesignated pars. (4) and (5)
 
 Subsec. (c). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(1)\]\], added subsec. (c) and struck out former subsec. (c) which read as follows:
 
-"(1) The Executive Director shall make each transfer elected under subsection (b)(4) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by the employee, Member, former employee, or former Member for whom the transfer is made.
+"(1) The Executive Director shall make each transfer elected under subsection (b)(4) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by theemployee, Member, former employee, or former Member for whom the transfer is made.
 
 "(2) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (1) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made."
 
@@ -150,7 +150,7 @@ Subsec. (c)(1). Pub. L. 103–226, §9(b)(3), substituted "directly to an eligib
 
 Subsec. (d). Pub. L. 103–353, §4(b)(1), inserted before period at end ", unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred".
 
-Pub. L. 103–226, §9(b)(2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: "Subject to section 8435 of this title, any employee or Member who separates from Government employment before becoming entitled to a deferred annuity under subchapter II of this chapter shall transfer the amountof the balance in the employee's or Member's account to an eligible retirement plan as provided in subsection (e), unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred."
+Pub. L. 103–226, §9(b)(2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: "Subject to section 8435 of this title, any employee or Member who separates from Government employment before becoming entitled to a deferred annuity under subchapter II of this chapter shall transfer the amount of the balance in the employee's or Member's account to an eligible retirement plan as provided in subsection (e), unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred."
 
 Subsec. (d)(1). Pub. L. 103–226, §9(i)(4), substituted "(c) of section 8435" for "(d) of section 8435".
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 102–484 applicable with respect to separations occurring 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–335, §5(d), July 17, 1990, 104 Stat. 322, provided that: "The amendments made by this section\[amending this section and sections 8434, and 8435 of this title\] shall be effective as of April 1, 1987."
+Pub. L. 101–335, §5(d), July 17, 1990, 104 Stat. 322, provided that: "The amendments made by this section \[amending this section and sections 8434, and 8435 of this title\] shall be effective as of April 1, 1987."
 
 Amendment by section 6(a)(2) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 

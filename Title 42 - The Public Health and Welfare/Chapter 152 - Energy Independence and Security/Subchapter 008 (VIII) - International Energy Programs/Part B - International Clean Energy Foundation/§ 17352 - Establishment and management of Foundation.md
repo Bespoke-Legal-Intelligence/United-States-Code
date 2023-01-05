@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(A) the Secretary of State (or the Secretary's designee), the Secretary of Energy (or the Secretary's designee), and the Administrator of the United States Agency for International Development (or the Administrator's designee); and
 
-&emsp;&emsp;(B) four other individuals with relevant experience in matters relating to energy security (such as individuals who represent institutions of energy policy, business organizations, foreign policy organizations, or other relevant organizations) who shall be appointed by the President, by and with the advice and consent of the Senate, of whom—
+&emsp;&emsp;(B) four other individuals with relevant experience in matters relating to energy security (such as individuals who represent institutions of energy policy, business organizations, foreign policy organizations, or otherrelevant organizations) who shall be appointed by the President, by and with the advice and consent of the Senate, of whom—
 
 &emsp;&emsp;&emsp;(i) one individual shall be appointed from among a list of individuals submitted by the Majority Leader of the House of Representatives;
 
@@ -90,7 +90,7 @@
 
 #### (D) Acting members
 
-&emsp;&emsp;A vacancy in the Board may be filled with an appointment of an acting member by theChairperson of the Board for up to 1 year while a nominee is named and awaits confirmation in accordance with paragraph (3)(B).
+&emsp;&emsp;A vacancy in the Board may be filled with an appointment of an acting member by the Chairperson of the Board for up to 1 year while a nominee is named and awaits confirmation in accordance with paragraph (3)(B).
 
 #### (6) Chairperson
 

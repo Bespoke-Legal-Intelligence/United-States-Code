@@ -220,7 +220,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 #### (1) In general
 
-&emsp;The Administrator shall arrange for a mass balance study to be carried out by the National Academy of Sciences using mass balance information collected by the Administrator under paragraph (3). The Administratorshall submit to Congress a report on such study no later than 5 years after October 17, 1986.
+&emsp;The Administrator shall arrange for a mass balance study to be carried out by the National Academy of Sciences using mass balance information collected by the Administrator under paragraph (3). The Administrator shall submit to Congress a report on such study no later than 5 years after October 17, 1986.
 
 #### (2) Purposes
 

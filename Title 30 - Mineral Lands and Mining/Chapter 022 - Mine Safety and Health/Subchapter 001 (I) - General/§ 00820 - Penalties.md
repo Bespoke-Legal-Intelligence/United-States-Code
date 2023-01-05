@@ -36,7 +36,7 @@ Whoever knowingly makes any false statement, representation, or certification in
 
 #### (g) Violation by miners of safety standards relating to smoking
 
-Any miner who willfully violates the mandatory safety standards relating to smoking or the carrying of smoking materials, matches, or lighters shall be subject to a civil penalty assessed by the Commission, which penalty shall not be more than $250 for each occurrence of such violation.
+Any miner who willfully violates the mandatory safety standards relating to smoking or the carrying of smoking materials, matches, orlighters shall be subject to a civil penalty assessed by the Commission, which penalty shall not be more than $250 for each occurrence of such violation.
 
 #### (h) Equipment falsely represented as complying with statute, specification, or regulations
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 #### Effective Date
 
-Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for inPub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
 #### Regulations
 

@@ -14,7 +14,7 @@ To be eligible to obtain assistance under this section for a project, an entity 
 
 &emsp;(1) submit to the Secretary an application—
 
-&emsp;&emsp;(A) that describes a project designed to decrease the cost of broadband deployment, and substantially increase broadband speedto not less than the maximum <sup>1</sup> broadband buildout requirements established under section 950bb(e)(4) of this title, in a rural area to be served by the project; and
+&emsp;&emsp;(A) that describes a project designed to decrease the cost of broadband deployment, and substantially increase broadband speed to not less than the maximum <sup>1</sup> broadband buildout requirements established under section 950bb(e)(4) of this title, in a rural area to be served by the project; and
 
 &emsp;&emsp;(B) at such time, in such manner, and containing such other information as the Secretary may require;
 

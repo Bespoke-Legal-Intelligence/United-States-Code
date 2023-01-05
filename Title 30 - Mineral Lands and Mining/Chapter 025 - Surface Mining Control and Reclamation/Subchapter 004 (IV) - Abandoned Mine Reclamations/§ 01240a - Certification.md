@@ -2,7 +2,7 @@
 
 #### (a) Certification of completion of coal reclamation
 
-(1) The Governor of a State, or the head of a governing body of an Indian tribe, with an approved abandoned mine reclamation program under section 1235 of this title may certify to the Secretary that all of the priorities stated in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title have been achieved. The Secretary, after notice in the Federal Register and opportunity for public comment, shall concur with such certification if the Secretary determines that such certification is correct.
+(1) The Governor of a State, or the head of a governing body of an Indian tribe, with an approved abandoned mine reclamation program under section 1235 of this title may certify to the Secretary that all of the priorities stated in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title have been achieved. The Secretary, after notice in theFederal Register and opportunity for public comment, shall concur with such certification if the Secretary determines that such certification is correct.
 
 (2)(A) The Secretary may, on the initiative of the Secretary, make the certification referred to in paragraph (1) on behalf of any State or Indian tribe referred to in paragraph (1) if on the basis of the inventory referred to in section 1233(c) of this title all reclamation projects relating to the priorities described in section 1233(a) of this title for eligible land and water pursuant to section 1234 of this title in the State or tribe have been completed.
 
@@ -14,7 +14,7 @@ If the Secretary has concurred in a State or tribal certification under subsecti
 
 &emsp;(1) which were mined or processed for minerals or which were affected by such mining or processing, and abandoned or left in an inadequate reclamation status prior to August 3, 1977; and
 
-&emsp;(2) for which there is no continuing reclamation responsibility under State or other Federal laws. In determining the eligibility under this subsection of Federal lands, waters, and facilities under the jurisdiction of the Forest Service or Bureau of Land Management, inlieu of the August 3, 1977, date referred to in paragraph (1) the applicable date shall be August 28, 1974, and November 26, 1980, respectively.
+&emsp;(2) for which there is no continuing reclamation responsibility under State or other Federal laws. In determining the eligibility under this subsection of Federal lands, waters, and facilities under the jurisdiction of the Forest Service or Bureau of Land Management, in lieu of the August 3, 1977, date referred to in paragraph (1) the applicable date shall be August 28, 1974, and November 26, 1980, respectively.
 
 #### (c) Priorities
 
@@ -68,7 +68,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### (ii) Certain payments required
 
-&emsp;&emsp;&emsp;Not withstanding any other provision of this chapter, as soon as practicable, but not later than December 10, 2015, of the 7 equal installments referred to in clause (i), the Secretary shall pay to any certified State or Indian tribe to which the total annual payment under this subsection was limited to $15,000,000 in 2013 and $28,000,000 in fiscal year 2014—
+&emsp;&emsp;&emsp;Not withstanding any other provision of this chapter, as soon as practicable, but not later than December 10, 2015, of the 7equal installments referred to in clause (i), the Secretary shall pay to any certified State or Indian tribe to which the total annual payment under this subsection was limited to $15,000,000 in 2013 and $28,000,000 in fiscal year 2014—
 
 &emsp;&emsp;&emsp;&emsp;(I) the final 2 installments in 2 separate payments of $82,700,000 each; and
 
@@ -88,7 +88,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 1231(f)(3)(B) of this title, from funds referred to in section1232(i)(2) of this title, the Secretary shall pay to each certified State or Indian tribe an amount equal to the sum of the aggregate unappropriated amount allocated on or after October 1, 2007, to the certified State or Indian tribe under subparagraph (A) or (B) of section 1232(g)(1) of this title.
+&emsp;&emsp;Notwithstanding section 1231(f)(3)(B) of this title, from funds referred to in section 1232(i)(2) of this title, the Secretary shall pay to each certified State or Indian tribe an amount equal to the sum of the aggregate unappropriated amount allocated on or after October 1, 2007, to the certified State or Indian tribe under subparagraph (A) or (B) of section 1232(g)(1) of this title.
 
 #### (B) Certified State or Indian tribe defined
 
@@ -124,7 +124,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### References in Text
 
-The Uranium Mill Tailings Radiation Control Act of 1978, referred to in subsec. (d), is Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, as amended, which is classified principally to chapter 88 (§7901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of Title 42 and Tables.
+The Uranium Mill Tailings Radiation Control Act of 1978, referred to in subsec. (d), is Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, which is classified principally to chapter 88 (§7901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of Title 42 and Tables.
 
 The Comprehensive Environmental Response Compensation and Liability Act of 1980, referred to in subsec. (d), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 

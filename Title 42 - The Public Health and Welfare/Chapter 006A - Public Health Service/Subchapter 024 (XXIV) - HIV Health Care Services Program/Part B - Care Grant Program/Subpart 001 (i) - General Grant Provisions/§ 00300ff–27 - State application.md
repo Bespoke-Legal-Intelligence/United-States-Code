@@ -52,7 +52,7 @@ The application submitted under subsection (a) shall contain—
 
 &emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under paragraph (2)) and the needs of such population (as determined under paragraph (3));
 
-&emsp;&emsp;&emsp;(ii) availability of other governmental and non-governmental resources, including the State medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] and the State Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] to cover health care costs of eligible individuals and families with HIV/AIDS;
+&emsp;&emsp;&emsp;(ii) availability of other governmental and non-governmental resources, including the State medicaid plan under title XIX ofthe Social Security Act \[42 U.S.C. 1396 et seq.\] and the State Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] to cover health care costs of eligible individuals and families with HIV/AIDS;
 
 &emsp;&emsp;&emsp;(iii) capacity development needs resulting from disparities in the availability of HIV-related services in historically underserved communities and rural communities; and
 
@@ -74,7 +74,7 @@ The application submitted under subsection (a) shall contain—
 
 &emsp;(7) an assurance by the State that—
 
-&emsp;&emsp;(A) the public health agency that is administering the grant for the State engagesin a public advisory planning process, including public hearings, that includes the participants under paragraph (6), and the types of entities described in section 300ff–12(b)(2) of this title, in developing the comprehensive plan under paragraph (5) and commenting on the implementation of such plan;
+&emsp;&emsp;(A) the public health agency that is administering the grant for the State engages in a public advisory planning process, including public hearings, that includes the participants under paragraph (6), and the types of entities described in section 300ff–12(b)(2) of this title, in developing the comprehensive plan under paragraph (5) and commenting on the implementation of such plan;
 
 &emsp;&emsp;(B) the State will—
 
@@ -100,7 +100,7 @@ The application submitted under subsection (a) shall contain—
 
 &emsp;&emsp;&emsp;(i) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
-&emsp;&emsp;&emsp;(ii) by an entity that provides health services on a prepaid basis (except for a program administered by or providing the services of the Indian Health Service); and
+&emsp;&emsp;&emsp;(ii) by an entity that provides health services on a prepaid basis (except for aprogram administered by or providing the services of the Indian Health Service); and
 
 &emsp;&emsp;(G) entities within areas in which activities under the grant are carried out will maintain appropriate relationships with entities in the area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>3</sup> 300ff–22(c) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care; and
 
@@ -130,7 +130,7 @@ The application submitted under subsection (a) shall contain—
 
 &emsp;&emsp;&emsp;(ii) will impose charges according to a schedule of charges that is made available to the public;
 
-&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the provider will not, forany calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
+&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
 
 &emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
@@ -162,7 +162,7 @@ The application submitted under subsection (a) shall contain—
 
 #### (1) In general
 
-&emsp;In the case of any State to which the criterion described in paragraph (3) applies, the Secretary may not make a grant under section 300ff–21 of this title unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the program for which the grant was awarded, the State will, subject to subsection (b)(2),<sup>4</sup> make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
+&emsp;In the case of any State to which the criterion described in paragraph (3) applies, theSecretary may not make a grant under section 300ff–21 of this title unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the program for which the grant was awarded, the State will, subject to subsection (b)(2),<sup>4</sup> make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
 
 &emsp;&emsp;(A) for the first fiscal year of payments under the grant, not less than 162/3 percent of such costs ($1 for each $5 of Federal funds provided in the grant);
 
@@ -280,7 +280,7 @@ Subsec. (b)(4)(B)(iv). Pub. L. 104–146, §12(c)(3), which directed amendment o
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by section 9 of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by section 9 of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

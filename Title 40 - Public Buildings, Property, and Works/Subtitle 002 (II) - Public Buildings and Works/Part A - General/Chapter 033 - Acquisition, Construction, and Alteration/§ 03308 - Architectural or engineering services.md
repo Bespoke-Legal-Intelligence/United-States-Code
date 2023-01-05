@@ -6,7 +6,7 @@ Employment by Administrator.—When the Administrator of General Services decide
 
 (b)
 
-Employment on Permanent Basis Not Permitted.—A corporation, firm, or individual shall not be employed under authority of subsection (a) on a permanent basis.
+Employment on Permanent Basis Not Permitted.—A corporation, firm, or individualshall not be employed under authority of subsection (a) on a permanent basis.
 
 (c)
 

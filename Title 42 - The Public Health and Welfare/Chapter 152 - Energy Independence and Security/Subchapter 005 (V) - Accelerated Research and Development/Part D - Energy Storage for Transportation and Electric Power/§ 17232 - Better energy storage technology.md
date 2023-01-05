@@ -130,7 +130,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the accomplishment of relevant objectives under current programs of the Department relating to energy storage systems; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the commencement of any new initiatives within the Department relating to energy storage systems to accomplish those objectives; and
+&emsp;&emsp;&emsp;&emsp;(II) the commencement of any new initiatives within the Department relatingto energy storage systems to accomplish those objectives; and
 
 &emsp;&emsp;&emsp;(v) incorporate relevant activities described in the Grid Modernization Initiative Multi-Year Program Plan.
 
@@ -226,7 +226,7 @@ In this section:
 
 #### (D) Objectives
 
-&emsp;&emsp;Each demonstration project carried out by a grant awarded under subparagraph (B) shall have 1 or more of the following objectives:
+&emsp;&emsp;Each demonstration project carried out by a grant awarded under subparagraph (B)shall have 1 or more of the following objectives:
 
 &emsp;&emsp;&emsp;(i) To improve the security of critical infrastructure and emergency response systems.
 

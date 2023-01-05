@@ -25,3 +25,5 @@ Part A—Financial Safety and Soundness Regulator
 - [&sect; 04524 - Audits by GAO](%C2%A7%2004524%20-%20Audits%20by%20GAO.md)
 - [&sect; 04525 - Information, records, and meetings](%C2%A7%2004525%20-%20Information%2C%20records%2C%20and%20meetings.md)
 - [&sect; 04526 - Regulations and orders](%C2%A7%2004526%20-%20Regulations%20and%20orders.md)
+- [&sect; 04527 - Data standards](%C2%A7%2004527%20-%20Data%20standards.md)
+- [&sect; 04528 - Open data publication](%C2%A7%2004528%20-%20Open%20data%20publication.md)

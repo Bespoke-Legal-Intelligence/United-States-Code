@@ -124,7 +124,7 @@ Except as otherwise expressly provided, in this section:
 
 &emsp;&emsp;An eligible entity shall include in the application—
 
-&emsp;&emsp;&emsp;(i) information that demonstrates significant impact on the community by problems related to opioid abuse or another substance use disorder, by—
+&emsp;&emsp;&emsp;(i) information that demonstrates significant impact on the community byproblems related to opioid abuse or another substance use disorder, by—
 
 &emsp;&emsp;&emsp;&emsp;(I) identifying the counties, communities, regions, or local areas that have been significantly impacted and will be served through the grant (each referred to in this section as a "service area"); and
 
@@ -372,7 +372,7 @@ Except as otherwise expressly provided, in this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) initial education and skills assessments;
 
-&emsp;&emsp;&emsp;&emsp;(II) traditional classroom training funded through individual training accounts under chapter 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act (29 U.S.C. 3171 et seq.);
+&emsp;&emsp;&emsp;&emsp;(II) traditional classroom training funded through individual training accounts under chapter 3 of subtitle B oftitle I of the Workforce Innovation and Opportunity Act (29 U.S.C. 3171 et seq.);
 
 &emsp;&emsp;&emsp;&emsp;(III) services to promote employability skills such as punctuality, personal maintenance skills, and professional conduct;
 

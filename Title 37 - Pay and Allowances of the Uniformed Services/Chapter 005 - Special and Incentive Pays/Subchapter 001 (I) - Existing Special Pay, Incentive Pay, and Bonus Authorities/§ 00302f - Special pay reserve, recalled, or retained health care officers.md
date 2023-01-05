@@ -20,7 +20,7 @@ Health Care Officers Described.—A health care officer referred to in subsectio
 
 &emsp;&emsp;(A) officers are involuntarily retained on active duty under section 12305 of title 10; or
 
-&emsp;&emsp;(B) the Secretary of Defense determines (pursuant to regulations prescribed by theSecretary) that special circumstances justify the payment of special pay under this section.
+&emsp;&emsp;(B) the Secretary of Defense determines (pursuant to regulations prescribed by the Secretary) that special circumstances justify the payment of special pay under this section.
 
 (c)
 
@@ -76,7 +76,7 @@ Health Care Officers Described.—A health care officer referred to in subsectio
 
 "(c)
 
-Monthly Payments.—Payment of special pay pursuant to this section may be made on a monthly basis. If the service on active duty of an officer described in subsection (b) is terminated before the end of the period for which a payment is made to the officer under subsection (a), the officer is entitled to special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code (whichever applies), only for the portion of that period that the officer actually served on active duty. The officer shall refund any amount received in excess of the amount that corresponds to the period of active duty of the officer.
+Monthly Payments.—Payment of special pay pursuant to this section may be made on a monthly basis. If the service on active duty of an officer described in subsection (b) is terminated before the end of the period for which a payment is made to the officerunder subsection (a), the officer is entitled to special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code (whichever applies), only for the portion of that period that the officer actually served on active duty. The officer shall refund any amount received in excess of the amount that corresponds to the period of active duty of the officer.
 
 "(d)
 

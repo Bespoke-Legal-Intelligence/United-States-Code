@@ -14,7 +14,7 @@ The Administrator shall establish a Suborbital Research Program within the Scien
 
 #### (d) Report
 
-The Administrator shall report to the appropriate committees of Congress on the numberand type of suborbital missions conducted in each fiscal year and the number of undergraduate and graduate students participating in the missions. The report shall be made annually for each fiscal year under this section.
+The Administrator shall report to the appropriate committees of Congress on the number and type of suborbital missions conducted in each fiscal year and the number of undergraduate and graduate students participating in the missions. The report shall be made annually for each fiscal year under this section.
 
 #### (e) Authorization
 

@@ -16,7 +16,7 @@ Subject to the provisions of subsections (a), (b), and (c) of this section, the 
 
 (4) The Secretary of the Interior shall, upon application by a State, issue patents to the State for the lands granted by this section and section 871 of this title, in accordance with section 871a <sup>1</sup> of this title. Such patent shall, if the lease is then outstanding, include a statement that the State succeeded to the position of the United States as lessor at the time the title vested in the State.
 
-(5) Where at the time rents, royalties, and bonuses accrue the lands or deposits covered by a single lease are owned in part by the State andin part by the United States, the rents, royalties, and bonuses shall be allocated between them in proportion to the acreage in said lease owned by each.
+(5) Where at the time rents, royalties, and bonuses accrue the lands or deposits covered by a single lease are owned in part by the State and in part by the United States, the rents, royalties, and bonuses shall be allocated between them in proportion to the acreage in said lease owned by each.
 
 (6) As used in this subsection, "lease" includes "permit" and "lessor" includes "grantor".
 

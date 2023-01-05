@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) a capital loss carryover to each of the 10 taxable years succeeding the loss year, but only to the extent such loss is attributable to a foreign expropriation loss,
 
-> &emsp;and shall be treated as a short-term capital loss in each such taxable year. The entire amount of the net capital loss for any taxable year shall be carried to the earliest of the taxable years to which such loss may be carried, and the portion of such loss which shall be carried to each of the other taxable years to which such loss may be carried shall be the excess, if any, of such loss over the total of the capital gain net income for each of the prior taxable years to which such loss may be carried. For purposes of the preceding sentence,the capital gain net income for any such prior taxable year shall be computed without regard to the net capital loss for the loss year or for any taxable year thereafter. In the case of any net capital loss which cannot be carried back in full to a preceding taxable year by reason of clause (ii) of subparagraph (A), the capital gain net income for such prior taxable year shall in no case be treated as greater than the amount of such loss which can be carried back to such preceding taxable year upon the application of such clause (ii).
+> &emsp;and shall be treated as a short-term capital loss in each such taxable year. The entire amount of the net capital loss for any taxable year shall be carried to the earliest of the taxable years to which such loss may be carried, and the portion of such loss which shall be carried to each of the other taxable years to which such loss may be carried shall be the excess, if any, of such loss over the total of the capital gain net income for each of the prior taxable years to which such loss may be carried. For purposes of the preceding sentence, the capital gain net income for any such prior taxable year shall be computed without regard to the net capital loss for the loss year or for any taxable year thereafter. In the case of any net capital loss which cannot be carried back in full to a preceding taxable year by reason of clause (ii) of subparagraph (A), the capital gain net income for such prior taxable year shall in no case be treated as greater than the amount of such loss which can be carried back to such preceding taxable year upon the application of such clause (ii).
 
 #### (2) Definitions and special rules
 
@@ -30,7 +30,7 @@
 
 #### (B) Portion of loss attributable to foreign expropriation capital loss
 
-&emsp;&emsp;For purposes of paragraph (1), the portion of any net capital loss for any taxable year attributable to a foreign expropriation capital loss is the amount of the foreign expropriation capital loss for such year (but not in excess of the net capital loss for such year).
+&emsp;&emsp;For purposes of paragraph (1), the portion of any net capital loss for any taxable yearattributable to a foreign expropriation capital loss is the amount of the foreign expropriation capital loss for such year (but not in excess of the net capital loss for such year).
 
 #### (C) Priority of application
 
@@ -260,7 +260,7 @@ In general.—Except as provided in subparagraph (B), for purposes of section 49
 
 &emsp;"(B)
 
-Election.—A regulated investment company may elect to apply subparagraph (A) by substituting'2011' for '2010'. Such election shall be made at such time and in such form and manner as the Secretary of the Treasury (or the Secretary's delegate) shall prescribe."
+Election.—A regulated investment company may elect to apply subparagraph (A) by substituting '2011' for '2010'. Such election shall be made at such time and in such form and manner as the Secretary of the Treasury (or the Secretary's delegate) shall prescribe."
 
 #### Effective Date of 2004 Amendment
 

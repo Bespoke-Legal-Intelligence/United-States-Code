@@ -38,7 +38,7 @@ It shall be the policy of the United States to conduct research, development, de
 
 #### (1) In general
 
-&emsp;There is authorized United States participation in the construction and operations of the ITER project, as agreed to under the April 25, 2007 "Agreement on the Establishment of the ITER International Fusion Energy Organization for the Joint Implementation of the ITER Project". The Director shall coordinate and carry out the responsibilities of the United States with respect to this Agreement.
+&emsp;There is authorized United States participation in the construction and operations of theITER project, as agreed to under the April 25, 2007 "Agreement on the Establishment of the ITER International Fusion Energy Organization for the Joint Implementation of the ITER Project". The Director shall coordinate and carry out the responsibilities of the United States with respect to this Agreement.
 
 #### (2) Report
 
@@ -48,11 +48,19 @@ It shall be the policy of the United States to conduct research, development, de
 
 &emsp;Out of funds authorized to be appropriated under section 18645(o) of this title, there shall be made available to the Secretary to carry out the construction of ITER—
 
-&emsp;&emsp;(A) $374,000,000 for fiscal year 2021; and
+&emsp;&emsp;(A) $374,000,000 for fiscal year 2021;
 
-&emsp;&emsp;(B) $281,000,000 for each of fiscal years 2022 through 2025.
+&emsp;&emsp;(B) $379,700,000 for fiscal year 2023;
 
-(Pub. L. 109–58, title IX, §972, Aug. 8, 2005, 119 Stat. 899; Pub. L. 116–260, div. Z, title II, §2008(b), Dec. 27, 2020, 134 Stat. 2478.)
+&emsp;&emsp;(C) $419,250,000 for fiscal year 2024;
+
+&emsp;&emsp;(D) $415,000,000 for fiscal year 2025;
+
+&emsp;&emsp;(E) $370,500,000 for fiscal year 2026; and
+
+&emsp;&emsp;(F) $411,078,000 for fiscal year 2027.
+
+(Pub. L. 109–58, title IX, §972, Aug. 8, 2005, 119 Stat. 899; Pub. L. 116–260, div. Z, title II, §2008(b), Dec. 27, 2020, 134 Stat. 2478; Pub. L. 117–167, div. B, title I, §10105(b), Aug. 9, 2022, 136 Stat. 1445.)
 
 #### <b>Editorial Notes</b>
 
@@ -61,6 +69,8 @@ It shall be the policy of the United States to conduct research, development, de
 The date of enactment of this section, referred to in subsec. (c)(2), probably means the date of enactment of Pub. L. 116–260, which enacted subsec. (c) of this section and was approved Dec. 27, 2020.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(3)(B) to (F). Pub. L. 117–167 added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: "$281,000,000 for each of fiscal years 2022 through 2025."
 
 <b>2020</b>—Subsec. (c). Pub. L. 116–260 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to United States participation in ITER.
 

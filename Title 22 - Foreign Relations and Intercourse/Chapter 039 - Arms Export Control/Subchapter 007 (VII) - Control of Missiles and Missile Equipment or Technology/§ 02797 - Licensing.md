@@ -36,7 +36,7 @@ This chapter, referred to in subsec. (d), was in the original "this Act", meanin
 
 Subsec. (b)(1). Pub. L. 105–277, §1225(a)(5), struck out "and the Director of the United States Arms Control and Disarmament Agency" after "Secretary of Defense".
 
-Subsec. (b)(2). Pub. L. 105–277, §1225(a)(6), substituted "and the Secretary of Commerce" for "the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency" and struck out "or the Director" after "the relevant Secretary".
+Subsec. (b)(2). Pub. L. 105–277, §1225(a)(6), substituted "and the Secretary of Commerce" for "the Secretary of Commerce, and the Director of the United States ArmsControl and Disarmament Agency" and struck out "or the Director" after "the relevant Secretary".
 
 Subsec. (c). Pub. L. 105–277, §1225(a)(7), struck out "with the Director of the United States Arms Control and Disarmament Agency," after "Director of Central Intelligence,".
 

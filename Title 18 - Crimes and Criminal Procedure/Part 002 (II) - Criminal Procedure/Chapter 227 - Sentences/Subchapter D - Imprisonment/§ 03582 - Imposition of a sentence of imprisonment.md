@@ -2,7 +2,7 @@
 
 (a)
 
-Factors To Be Considered in Imposing a Term of Imprisonment.—The court, in determining whether to impose a term of imprisonment, and, if a term of imprisonment is to be imposed, in determining the length of the term, shall consider the factors set forth in section 3553(a) to the extent that they are applicable, recognizing that imprisonment is not an appropriate means of promoting correction and rehabilitation. In determining whether to make a recommendation concerning the type of prisonfacility appropriate for the defendant, the court shall consider any pertinent policy statements issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(2).
+Factors To Be Considered in Imposing a Term of Imprisonment.—The court, in determining whether to impose a term of imprisonment, and, if a term of imprisonment is to be imposed, in determining the length of the term, shall consider the factors set forth in section 3553(a) to the extent that they are applicable, recognizing that imprisonment is not an appropriate means of promoting correction and rehabilitation. In determining whether to make a recommendation concerning the type of prison facility appropriate for the defendant, the court shall consider any pertinent policy statements issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(2).
 
 (b)
 
@@ -32,7 +32,7 @@ Modification of an Imposed Term of Imprisonment.—The court may not modify a te
 
 &emsp;&emsp;(B) the court may modify an imposed term of imprisonment to the extent otherwise expressly permitted by statute or by Rule 35 of the Federal Rules of Criminal Procedure; and
 
-&emsp;(2) in the case of a defendant who has been sentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission pursuant to 28 U.S.C. 994(o), upon motion of the defendant or the Director of the Bureau of Prisons, or on its own motion, the court may reduce the term of imprisonment, after considering the factors set forth in section 3553(a) to the extent that they are applicable, if such a reduction is consistent with applicable policy statements issued by the Sentencing Commission.
+&emsp;(2) in the case of a defendant who has been sentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission pursuant to 28 U.S.C. 994(o), upon motion of the defendant or the Director of the Bureau of Prisons, or on its own motion, the court may reduce the term of imprisonment, after considering the factors set forth in section 3553(a) to the extent that they are applicable, if such a reduction is consistent with applicable policystatements issued by the Sentencing Commission.
 
 (d)
 
@@ -96,7 +96,7 @@ Annual report.—Not later than 1 year after December 21, 2018, and once every y
 
 &emsp;&emsp;(J) the number of visits to terminally ill prisoners that were denied by the Bureau of Prisons due to security or other concerns, and the reasons given for each denial; and
 
-&emsp;&emsp;(K) the number of motions filed by defendants with the court after all administrative rights to appeal a denial of a sentence reduction had been exhausted, the outcome of each motion, and the time that had elapsed between the date the request was first received by the Bureau of Prisons and the date the defendant filed the motion with the court.
+&emsp;&emsp;(K) the number of motions filed by defendants with the court after all administrative rights to appeal a denial of a sentence reduction had been exhausted, the outcome of each motion, and the time that had elapsedbetween the date the request was first received by the Bureau of Prisons and the date the defendant filed the motion with the court.
 
 (e)
 
@@ -110,7 +110,7 @@ Inclusion of an Order To Limit Criminal Association of Organized Crime and Drug 
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), are set out in the Appendix to this title.
 
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (e), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§801 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (e), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§801 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
 

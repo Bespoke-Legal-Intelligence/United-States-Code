@@ -2,7 +2,11 @@
 
 (a)
 
-Standards.—The Commandant shall require each Coast Guard child development center to meet standards that the Commandant considers appropriate to ensure the health, safety, and welfare of the children and employees at the center.
+Standards.—The Commandant shall require each Coast Guard child development center to meet standards of operation—
+
+&emsp;(1) that the Commandant considers appropriate to ensure the health, safety, and welfare of the children and employees at the center; and
+
+&emsp;(2) necessary for accreditation by an appropriate national early childhood programs accrediting entity.
 
 (b)
 
@@ -46,11 +50,13 @@ Anonymous reporting.—The Commandant shall ensure that an individual making a r
 
 Procedures.—The Commandant shall establish procedures for investigating reports made pursuant to paragraph (1).
 
-(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3031, §553; renumbered §2923, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8237(a), Jan. 1, 2021, 134 Stat. 4664.)
+(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3031, §553; renumbered §2923, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8237(a), Jan. 1, 2021, 134 Stat. 4664; Pub. L. 117–263, div. K, title CXIV, §11401(b), Dec. 23, 2022, 136 Stat. 4106.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–263 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Commandant shall require each Coast Guard child development center to meet standards that the Commandant considers appropriate to ensure the health, safety, and welfare of the children and employees at the center."
 
 <b>2021</b>—Subsec. (b). Pub. L. 116–283 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Commandant shall provide for regular and unannounced inspections of each Coast Guard child development center to ensure compliance with this section."
 

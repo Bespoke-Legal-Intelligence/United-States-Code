@@ -32,5 +32,5 @@ Pub. L. 114–322, title I, §1174, Dec. 16, 2016, 130 Stat. 1673, provided that
 
 #### Transfer of Functions
 
-For transfer of certain personal property and functions relating thereto, insofar as they pertain to Air Force, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order No. 39, eff. May 18, 1949, and 40 \[App. B (98)\], July 22, 1949.
+For transfer of certain personal property and functions relating thereto, insofar as they pertain to Air Force, from Secretary of the Army and Department ofthe Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order No. 39, eff. May 18, 1949, and 40 \[App. B (98)\], July 22, 1949.
 

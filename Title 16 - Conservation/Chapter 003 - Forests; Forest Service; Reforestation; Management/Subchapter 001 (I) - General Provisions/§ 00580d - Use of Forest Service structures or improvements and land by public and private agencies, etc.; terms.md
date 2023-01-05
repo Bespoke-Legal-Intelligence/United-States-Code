@@ -8,7 +8,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for "recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for"recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -200,7 +200,7 @@ In general.—Notwithstanding any provision of law relating to the mitigation or
 
 &emsp;&emsp;"(B)
 
-Procedures.—With respect to an administrative site to be leased under this section that has lead-based paint or asbestos-containing building materials, the Secretary shall—
+Procedures.—With respect to an administrative site to be leased under this section that haslead-based paint or asbestos-containing building materials, the Secretary shall—
 
 &emsp;&emsp;&emsp;"(i) provide notice to the person to which the administrative site will be leased of the presence of the lead-based paint or asbestos-containing building material; and
 
@@ -276,7 +276,7 @@ Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 11
 
 Administrative site.—The term 'administrative site' means—
 
-&emsp;&emsp;"(A) any facility or improvement, including curtilage, that was acquired or is used specificallyfor purposes of administration of the National Forest System;
+&emsp;&emsp;"(A) any facility or improvement, including curtilage, that was acquired or is used specifically for purposes of administration of the National Forest System;
 
 &emsp;&emsp;"(B) any Federal land associated with a facility or improvement described in subparagraph (A) that was acquired or is used specifically for purposes of administration of Forest Service activities and underlies or abuts the facility or improvement; or
 
@@ -506,9 +506,15 @@ Use.—Amounts deposited under paragraph (1) shall be available to the Secretary
 
 Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
 
-\[Pub. L. 116–260, div. G, title IV, §420, Dec. 27, 2020, 134 Stat. 1540, provided that: "Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) \[set out above\] shall be applied by substituting 'September 30, 2021' for 'September 30, 2019'."\]
+\[Pub. L. 117–328, div. G, title IV, §418, Dec. 29, 2022, 136 Stat. 4825, provided that: "Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) \[set out above\] shall be applied by substituting 'September 30, 2023' for 'September 30, 2019'."\]
 
-\[Pub. L. 116–94, div. D, title IV, §420, Dec. 20, 2019, 133 Stat. 2747, provided that: "Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) \[set out above\] shall be applied by substituting 'September 30, 2020' for 'September 30, 2019'."\]
+\[Similar provisions were contained in the following prior appropriation acts:
+
+\[Pub. L. 117–103, div. G, title IV, §418, Mar. 15, 2022, 136 Stat. 414.\]
+
+\[Pub. L. 116–260, div. G, title IV, §420, Dec. 27, 2020, 134 Stat. 1540.\]
+
+\[Pub. L. 116–94, div. D, title IV, §420, Dec. 20, 2019, 133 Stat. 2747.\]
 
 \[Pub. L. 115–334, title VIII, §8504, Dec. 20, 2018, 132 Stat. 4847, which directed amendment of section 503(f) of Pub. L. 109–54, set out above, by substituting "2023" for "2016", could not be executed because of the intervening amendment by Pub. L. 115–141.\]
 

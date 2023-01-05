@@ -82,7 +82,7 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 &emsp;&emsp;&emsp;(IV) the Administrator has determined that based on existing data, such extension would not significantly increase the risk of any unreasonable adverse effect on the environment. If the Administrator grants an extension under this clause, the Administrator shall monitor the development of the data and shall ensure that the registrant is meeting the schedule for the production of the data. If the Administrator determines that the registrant is not meeting or has not met the schedule for the production of such data, the Administrator may proceed in accordance with clause (iv) regarding the continued registration of the affected products with the minor use and shall inform the public of such action. Notwithstanding the provisions of this clause, the Administrator may take action to modify or revoke the extension under this clause if the Administrator determines that the extension for the minor use may cause an unreasonable adverse effect on the environment. In such circumstance, the Administrator shall provide, in writing to the registrant, a notice revoking the extension of time for submission of data. Such data shall instead be due in accordance with the date established by the Administrator for the submission of the data.
 
-&emsp;&emsp;(vii) If the registrant does not commit to support a specific minor use of the pesticide, but is supporting and providing data in a timely and adequate fashion to support uses of the pesticide on a food, or if all uses of the pesticide are nonfood uses and the registrant does not commit to support a specific minor use of the pesticide but is supporting and providing data in a timely and adequate fashion to support other nonfood uses of the pesticide, the Administrator, at the written request of the registrant, shall not take any action pursuant to this clause in regard to such unsupported minor use until the final deadline established as of August 3, 1996, for the submission of data under section 136a–1 of this title for the supported uses identified pursuant to this clause unless the Administrator determines that the absence of the data is significant enough to cause human health or environmental concerns. On the basis of such determination, the Administrator may refuse the request for extension by the registrant. Upon receipt of the request from the registrant, the Administrator shall publish in the Federal Register a notice of the receipt of the request and the effective date upon which the uses not being supported will be voluntarily deleted from the registration pursuant to section 136d(f)(1) of this title. If the Administrator grants an extension under this clause, the Administrator shall monitor the development of the data for the uses being supported and shall ensure that the registrant is meeting the schedule for the production of such data. If the Administrator determines that the registrant is not meeting or has not met the schedule for the production of such data, the Administrator may proceed in accordance with clause (iv) of this subparagraph regarding the continued registration of the affected products with the minor and other uses and shall inform the public of such action in accordance with section 136d(f)(2) of this title. Notwithstanding the provisions of this clause, the Administratormay deny, modify, or revoke the temporary extension under this subparagraph if the Administrator determines that the continuation of the minor use may cause an unreasonable adverse effect on the environment. In the event of modification or revocation, the Administrator shall provide, in writing, to the registrant a notice revoking the temporary extension and establish a new effective date by which the minor use shall be deleted from the registration.
+&emsp;&emsp;(vii) If the registrant does not commit to support a specific minor use of the pesticide, but is supporting and providing data in a timely and adequate fashion to support uses of the pesticide on a food, or if all uses of the pesticide are nonfood uses and the registrant does not commit to support a specific minor use of the pesticide but is supporting and providing data in a timely and adequate fashion to support other nonfood uses of the pesticide, the Administrator, at the written request of the registrant, shall not take any action pursuant to this clause in regard to such unsupported minor use until the final deadline established as of August 3, 1996, for the submission of data under section 136a–1 of this title for the supported uses identified pursuant to this clause unless the Administrator determines that the absence of the data is significant enough to cause human health or environmental concerns. On the basis of such determination, the Administrator may refuse the request for extension by the registrant. Upon receipt of the request from the registrant, the Administrator shall publish in the Federal Register a notice of the receipt of the request and the effective date upon which the uses not being supported will be voluntarily deleted from the registration pursuant to section 136d(f)(1) of this title. If the Administrator grants an extension under this clause, the Administrator shall monitor the development of the data for the uses being supported and shall ensure that the registrant is meeting the schedule for the production of such data. If the Administrator determines that the registrant is not meeting or has not met the schedule for the production of such data, the Administrator may proceed in accordance with clause (iv) of this subparagraph regarding the continued registration of the affected products with the minor and other uses and shall inform the public of such action in accordance with section 136d(f)(2) of this title. Notwithstanding the provisions of this clause, the Administrator may deny, modify, or revoke the temporary extension under this subparagraph if the Administrator determines that the continuation of the minor use may cause an unreasonable adverse effect on the environment. In the event of modification or revocation, the Administrator shall provide, in writing, to the registrant a notice revoking the temporary extension and establish a new effective date by which the minor use shall be deleted from the registration.
 
 &emsp;&emsp;(viii)(I) If data required to support registration of a pesticide under subparagraph (A) is requested by a Federal or State regulatory authority, the Administrator shall, to the extent practicable, coordinate data requirements, test protocols, timetables, and standards of review and reduce burdens and redundancy caused to the registrant by multiple requirements on the registrant.
 
@@ -142,9 +142,9 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 &emsp;&emsp;(ii) For the purposes of clause (i)—
 
-&emsp;&emsp;&emsp;(I) the term "as expeditiously as possible" means that the Administrator shall, to the greatest extent practicable, complete a review and evaluation of all data, submitted with a complete application, within 12 months after the submission of the complete application, and the failure of the Administrator to complete such a review and evaluation under clause (i) shall not be subject to judicial review; and
+&emsp;&emsp;&emsp;(I) the term "as expeditiously as possible" means that the Administrator shall, to the greatest extent practicable, complete a review and evaluation of all data, submitted with a complete application, within 12 months after the submission of the complete application, and the failure of the Administrator to complete such areview and evaluation under clause (i) shall not be subject to judicial review; and
 
-&emsp;&emsp;&emsp;(II) the term "significant minor uses" means 3 or more minor uses proposed for every nonminor use, a minor use that would, in the judgment of the Administrator, serve as a replacement for any use which has been canceled in the 5 years preceding the receipt of the application, or aminor use that in the opinion of the Administrator would avoid the reissuance of an emergency exemption under section 136p of this title for that minor use.
+&emsp;&emsp;&emsp;(II) the term "significant minor uses" means 3 or more minor uses proposed for every nonminor use, a minor use that would, in the judgment of the Administrator, serve as a replacement for any use which has been canceled in the 5 years preceding the receipt of the application, or a minor use that in the opinion of the Administrator would avoid the reissuance of an emergency exemption under section 136p of this title for that minor use.
 
 #### (D) Adequate time for submission of minor use data
 
@@ -232,7 +232,7 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 #### (10) Expedited registration of pesticides
 
-&emsp;(A) Not later than 1 year after August 3, 1996, the Administrator shall, utilizing publiccomment, develop procedures and guidelines, and expedite the review of an application for registration of a pesticide or an amendment to a registration that satisfies such guidelines.
+&emsp;(A) Not later than 1 year after August 3, 1996, the Administrator shall, utilizing public comment, develop procedures and guidelines, and expedite the review of an application for registration of a pesticide or an amendment to a registration that satisfies such guidelines.
 
 &emsp;(B) Any application for registration or an amendment, including biological and conventional pesticides, will be considered for expedited review under this paragraph. An application for registration or an amendment shall qualify for expedited review if use of the pesticide proposed by the application may reasonably be expected to accomplish 1 or more of the following:
 
@@ -362,9 +362,9 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 &emsp;&emsp;&emsp;(ii) take into consideration factors, such as actual and potential differences in interest between, and the views of, those stakeholders and organizations.
 
-#### (F) Federal Advisory Committee Act
+#### (F) Chapter 10 of title 5
 
-&emsp;&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this paragraph.
+&emsp;&emsp;Chapter 10 of title 5 shall not apply to the working group established under this paragraph.
 
 #### (G) Savings clause
 
@@ -380,7 +380,7 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 &emsp;(A) As a part of the registration of a pesticide the Administrator shall classify it as being for general use or for restricted use. If the Administrator determines that some of the uses for which the pesticide is registered should be for general use and that other uses for which it is registered should be for restricted use, the Administrator shall classify it for both general use and restricted use. Pesticide uses may be classified by regulation on the initial classification, and registered pesticides may be classified prior to reregistration. If some of the uses of the pesticide are classified for general use, and other uses are classified for restricted use, the directions relating to its general uses shall be clearly separated and distinguished from those directions relating to its restricted uses. The Administrator may require that its packaging and labeling for restricted uses shall be clearly distinguishable from its packaging and labeling for general uses.
 
-&emsp;(B) If the Administrator determines that the pesticide, when applied in accordance with its directions for use, warnings and cautions and for the uses for which it is registered, or for one or more of such uses, or in accordance with a widespread and commonly recognized practice, will not generally cause unreasonable adverse effects on the environment, the Administrator will classify the pesticide, or the particular use or uses of the pesticide to which the determination applies, for general use.
+&emsp;(B) If the Administrator determines that the pesticide, when applied in accordance with its directions for use, warnings and cautions andfor the uses for which it is registered, or for one or more of such uses, or in accordance with a widespread and commonly recognized practice, will not generally cause unreasonable adverse effects on the environment, the Administrator will classify the pesticide, or the particular use or uses of the pesticide to which the determination applies, for general use.
 
 &emsp;(C) If the Administrator determines that the pesticide, when applied in accordance with its directions for use, warnings and cautions and for the uses for which it is registered, or for one or more of such uses, or in accordance with a widespread and commonly recognized practice, may generally cause, without additional regulatory restrictions, unreasonable adverse effects on the environment, including injury to the applicator, the Administrator shall classify the pesticide, or the particular use or uses to which the determination applies, for restricted use:
 
@@ -423,6 +423,116 @@ Products which have the same formulation, are manufactured by the same person, t
 &emsp;&emsp;(B) 1 or more fertilizer products,
 
 > &emsp;shall not be subject to the provisions of this section or sections 136a–1, 136c, 136e, 136m, and 136o(a)(2) of this title if the mixture or other combination is accompanied by the labeling required under this subchapter for the nitrogen stabilizer contained in the mixture or other combination, the mixture or combination is mixed or combined in accordance with such labeling, and the mixture or combination does not contain any active ingredient other than the nitrogen stabilizer.
+
+#### (5) Bilingual labeling
+
+#### (A) Requirement
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), not later than the applicable deadline described in subparagraph (B), each registered pesticide product released for shipment shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) the translation of the parts of the labeling contained in the Spanish Translation Guide described in subparagraph (G) on the product container; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a link to such translation via scannable technology or other electronic methods readily accessible on the product label.
+
+#### (ii) Exceptions
+
+&emsp;&emsp;&emsp;Notwithstanding clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) an antimicrobial pesticide product may, in lieu of including a translation or a link under clause (i), provide a link to the safety data sheets in Spanish via scannable technology or other electronic methods readily accessible on the product label; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a non-agricultural pesticide product that is not classified by the Administrator as restricted use under subsection (d)(1)(A) may, in lieu of including a translation or a link under clause (i), provide a link to the safety data sheets in Spanish via scannable technology or other electronic methods readily accessible on the product label.
+
+#### (B) Deadlines for bilingual labeling
+
+#### (i) Pesticide products classified as restricted use
+
+&emsp;&emsp;&emsp;In the case of pesticide products classified by the Administrator as restricted use under subsection (d)(1)(A), the deadline specified in this subparagraph is the date that is 3 years following December 29, 2022.
+
+#### (ii) Pesticide products not classified as restricted use
+
+&emsp;&emsp;&emsp;In the case of pesticide products not classified by the Administrator as restricted use under subsection (d)(1)(A), the deadline specified in this subparagraph shall be as follows:
+
+#### (I) Agricultural
+
+#### (aa) Acute Toxicity Category I
+
+&emsp;&emsp;&emsp;&emsp;&emsp;For agricultural pesticides classified as Acute Toxicity Category I, the date that is 3 years after December 29, 2022.
+
+#### (bb) Acute Toxicity Category II
+
+&emsp;&emsp;&emsp;&emsp;&emsp;For agricultural pesticides classified as Acute Toxicity Category II, the date that is 5 years after December 29, 2022.
+
+#### (II) Antimicrobial and non-agricultural
+
+#### (aa) Acute Toxicity Category I
+
+&emsp;&emsp;&emsp;&emsp;&emsp;For antimicrobial and non-agricultural pesticide products classified as Acute Toxicity Category I, the date that is 4 years after December 29, 2022.
+
+#### (bb) Acute Toxicity Category II
+
+&emsp;&emsp;&emsp;&emsp;&emsp;For antimicrobial and non-agricultural pesticide products classified as Acute Toxicity Category II, the date that is 6 years after December 29, 2022.
+
+#### (III) Other pesticide products
+
+&emsp;&emsp;&emsp;&emsp;With respect to pesticide products not described in subclause (I) or (II), the date that is 8 years after December 29, 2022.
+
+#### (C) Implementation
+
+#### (i) Non-notification
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;In carrying out this paragraph, the Administrator shall allow translations of the parts of the label of a pesticide contained in the Spanish Translation Guide described in subparagraph (G) and scannable technology or other electronic methods to be added using non-notification procedures.
+
+#### (II) Non-notification procedure defined
+
+&emsp;&emsp;&emsp;&emsp;In this clause, the term "non-notification procedure" refers to a procedure under which a change may be made to a pesticide label without notifying the Administrator.
+
+#### (ii) Cooperation and consultation
+
+&emsp;&emsp;&emsp;In carrying out this paragraph, the Administrator shall cooperate and consult with State lead agencies for pesticide regulation for the purpose of implementing bilingual labeling as provided in this paragraph as expeditiously as possible.
+
+#### (iii) End use labeling
+
+&emsp;&emsp;&emsp;The labeling requirements of this paragraph shall apply to end use product labels.
+
+#### (iv) Incorporation timeframe
+
+&emsp;&emsp;&emsp;After initial translation deadlines provided in subparagraph (B), updates to the Spanish Translation Guide described in subparagraph (G) shall be incorporated into labeling on the earlier of—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of agricultural use pesticide labels, as determined by the Administrator—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) 1 year after the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G); or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the released for shipment date specified on the EPA Stamped Approved Label after the pesticide label is next changed or amended following the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G); and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of antimicrobial and non-agricultural use pesticide labels, as determined by the Administrator—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) 2 years after the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G); or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the released for shipment date specified on the EPA Stamped Approved Label after the pesticide label is next changed or amended following the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G).
+
+#### (v) Notification of updates to the Spanish Translation Guide for Pesticide Labeling
+
+&emsp;&emsp;&emsp;Not later than 10 days after updating the Spanish Translation Guide described insubparagraph (G), the Administrator shall notify registrants of the update to such guide.
+
+#### (D) Accessibility of bilingual labeling for farm workers
+
+&emsp;&emsp;Not later than 180 days after December 29, 2022, to the maximum extent practicable, the Administrator shall seek stakeholder input on ways to make bilingual labeling required under this paragraph accessible to farm workers.
+
+#### (E) Plan
+
+&emsp;&emsp;Not later than 3 years after December 29, 2022, the Administrator shall implement a plan to ensure that farm workers have access to the bilingual labeling required under this paragraph.
+
+#### (F) Reporting
+
+&emsp;&emsp;Not later than 2 years after December 29, 2022, the Administrator shall develop and implement, and make publicly available, a plan for tracking the adoption of the bilingual labeling required under this paragraph.
+
+#### (G) Spanish Translation Guide described
+
+&emsp;&emsp;The Spanish Translation Guide described in this subparagraph is the Spanish Translation Guide for Pesticide Labeling issued in October 2019, as in effect on December 29, 2022, and any successor guides or amendments to such guide.
 
 #### (g) Registration review
 
@@ -588,7 +698,7 @@ Products which have the same formulation, are manufactured by the same person, t
 
 #### (E) Wood preservatives
 
-&emsp;&emsp;An application for the registration, or for an amendment to the registration, of a wood preservative product for which a claim of pesticidal activity listed in section 136(mm) of this title is made (regardless of any other pesticidal claim that is made with respect to the product) shall be reviewed by the Administrator within the same period as that established under this paragraph for an antimicrobial pesticide product application, consistent with the degree of risk posed by the use of the wood preservative product, if the application requires the applicant to satisfy the same data requirements as are required to support an application for a wood preservative product that is an antimicrobial pesticide.
+&emsp;&emsp;An application for the registration, or for an amendment to the registration, of a woodpreservative product for which a claim of pesticidal activity listed in section 136(mm) of this title is made (regardless of any other pesticidal claim that is made with respect to the product) shall be reviewed by the Administrator within the same period as that established under this paragraph for an antimicrobial pesticide product application, consistent with the degree of risk posed by the use of the wood preservative product, if the application requires the applicant to satisfy the same data requirements as are required to support an application for a wood preservative product that is an antimicrobial pesticide.
 
 #### (F) Notification
 
@@ -628,7 +738,7 @@ Products which have the same formulation, are manufactured by the same person, t
 
 &emsp;&emsp;&emsp;(iii) recommendations to improve the activities of the Agency pertaining to antimicrobial registrations.
 
-(June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§2, 3, Oct. 9, 2007, 121 Stat. 1000; Pub. L. 115–334, title X, §10115, Dec. 20, 2018, 132 Stat. 4914.)
+(June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§2, 3, Oct. 9, 2007, 121 Stat. 1000; Pub. L. 115–334, title X, §10115, Dec. 20, 2018, 132 Stat. 4914; Pub. L. 117–286, §4(a)(21), Dec. 27, 2022, 136 Stat. 4307; Pub. L. 117–328, div. HH, title VI, §702, Dec. 29, 2022, 136 Stat. 5996.)
 
 #### <b>Editorial Notes</b>
 
@@ -636,13 +746,15 @@ Products which have the same formulation, are manufactured by the same person, t
 
 The Endangered Species Act of 1973, referred to in subsec. (c)(11)(C)(i)(I), (II), (v), (vi), (G)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(11)(F), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 
 A prior section 3 of act June 25, 1947, was classified to section 135a of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(11)(F). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
+
+Subsec. (f)(5). Pub. L. 117–328 added par. (5).
 
 <b>2018</b>—Subsec. (c)(11). Pub. L. 115–334 added par. (11).
 
@@ -708,7 +820,7 @@ Subsec. (c)(5). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator"
 
 Subsec. (c)(6). Pub. L. 102–237, §1006(b)(1), (2), substituted "the Administrator" for "he" before "shall notify" in two places and "the Administrator's" for "his" in four places.
 
-Subsec. (d)(1). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator" for "he" before "shall classify itfor both" in subpar. (A), before "will classify" in subpar. (B), and before "shall classify" in subpar. (C).
+Subsec. (d)(1). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator" for "he" before "shall classify it for both" in subpar. (A), before "will classify" in subpar. (B), and before "shall classify" in subpar. (C).
 
 Subsec. (d)(2). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator" for "he" before "shall notify".
 
@@ -742,7 +854,7 @@ Subsec. (f)(2). Pub. L. 100–532, §801(b)(8), substituted "this subchapter. As
 
 Subsec. (g). Pub. L. 100–532, §801(b)(9), struck out subsec. (g) which read as follows: "The Administrator shall accomplish the reregistration of all pesticides in the most expeditious manner practicable: <i>Provided</i>, That, to the extent appropriate, any pesticide that results in a postharvest residue in or on food or feed crops shall be given priority in the reregistration process."
 
-<b>1978</b>—Subsec. (c)(1)(D). Pub. L. 95–396, §2(a)(1), added subpar. (D), and struck out provisions which required the applicant for registration of a pesticide to file with the Administrator a statement containing "if requested by the Administrator, a full description of the tests made and the results thereof upon which the claims are based, except that data submitted on or after January 1, 1970, in support of an application shall not, without permission of the applicant, be considered by the Administrator in support of any other application for registration unless such other applicant shall have first offered to pay reasonable compensation for producing the test data to be relied upon and such data is not protected from disclosure by section 136h(b) of this title. This provision with regard to compensation for producing the test data to be relied upon shall apply with respect to all applications for registration or reregistration submitted on or after October 21, 1972. If the parties cannot agree on the amount and method of payment, the Administrator shall make such determination and may fix such other terms and conditions as may be reasonable under the circumstances. The Administrator's determination shall be made on the record after notice and opportunity for hearing. If either party does not agree with said determination, he may, within thirty days, take an appeal to the Federal district court for the district in which he resides with respect to either the amount of the payment or the terms of payment, or both. Registration shall not be delayed pending the determination of reasonable compensation between the applicants, by the Administrator or by the court.".
+<b>1978</b>—Subsec. (c)(1)(D). Pub. L. 95–396, §2(a)(1), added subpar. (D), and struck out provisions which required the applicant for registration of a pesticide to file with the Administrator a statement containing "if requested by the Administrator, a full description of the tests made and the results thereof upon which the claims are based, except that data submitted on or after January 1, 1970, in support of an application shall not, without permission of the applicant, be considered by the Administrator in support of any other application for registration unless such other applicant shallhave first offered to pay reasonable compensation for producing the test data to be relied upon and such data is not protected from disclosure by section 136h(b) of this title. This provision with regard to compensation for producing the test data to be relied upon shall apply with respect to all applications for registration or reregistration submitted on or after October 21, 1972. If the parties cannot agree on the amount and method of payment, the Administrator shall make such determination and may fix such other terms and conditions as may be reasonable under the circumstances. The Administrator's determination shall be made on the record after notice and opportunity for hearing. If either party does not agree with said determination, he may, within thirty days, take an appeal to the Federal district court for the district in which he resides with respect to either the amount of the payment or the terms of payment, or both. Registration shall not be delayed pending the determination of reasonable compensation between the applicants, by the Administrator or by the court.".
 
 Subsec. (c)(2). Pub. L. 95–396, §§2(a)(2)(A)–(D), 3, 4, designated existing provisions as subpar. (A), inserted in second sentence "under subparagraph (B) of this paragraph" after "kind of information", struck out from introductory text of third sentence "subsection (c)(1)(D) of this section and" after "Except as provided by", and inserted provisions relating to establishment of standards for data requirements for registration of pesticides with respect to minor uses and consideration of economic factors in development of standards and cost of development, and added subpars. (B) to (D).
 
@@ -782,6 +894,40 @@ Pub. L. 95–396, §2(b), Sept. 30, 1978, 92 Stat. 824, provided that: "The amen
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
+#### Registration Review Deadline Extension
+
+Pub. L. 117–328, div. HH, title VI, §711, Dec. 29, 2022, 136 Stat. 6083, provided that:
+
+"(a)
+
+In General.—Notwithstanding section 3(g)(1)(A)(iii)(I) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(g)(1)(A)(iii)(I)), the Administrator of the Environmental Protection Agency (referred to in this section as the 'Administrator') shall complete the initial registration review of each pesticide or pesticide case covered by that section not later than October 1, 2026.
+
+"(b)
+
+Interim Registration Review Decision Requirements.—
+
+&emsp;"(1)
+
+Definition of covered interim registration review decision.—In this subsection, the term 'covered interim registration review decision' means an interim registration review decision—
+
+&emsp;&emsp;"(A) that is associated with an initial registration review described in subsection (a);
+
+&emsp;&emsp;"(B) that is noticed in the Federal Register during the period beginning on the date of enactment of this Act \[Dec. 29, 2022\] and ending on October 1, 2026; and
+
+&emsp;&emsp;"(C) for which the Administrator has not, as of the date on which the decision is noticed in the Federal Register, made effects determinations or completed any necessary consultation under section 7(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1536(a)(2)).
+
+&emsp;"(2)
+
+Requirements.—Any covered interim registration review decision shall include, where applicable, measures to reduce the effects of the applicable pesticide on—
+
+&emsp;&emsp;"(A) species listed under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); or
+
+&emsp;&emsp;"(B) any designated critical habitat.
+
+&emsp;"(3)
+
+Consultation.—In developing measures described in paragraph (2), the Administrator shall take into account the input received from the Secretary of Agriculture and other members of the interagency working group established under section 3(c)(11) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(c)(11))."
+
 #### Biological Pesticide Handling Study
 
 Pub. L. 101–624, title XIV, §1498, Nov. 28, 1990, 104 Stat. 3631, provided that the National Academy of Sciences would conduct a study of the biological control programs and registration procedures utilized by the Food and Drug Administration, the Animal and Plant Health Inspection Service, and the Environmental Protection Agency, and within 1 year after completion of the study, develop and implement a common process for reviewing and approving biological control applications submitted to such agencies and offices based on the study conducted, the recommendation of the National Academy of Sciences, and other public comment.
@@ -792,7 +938,7 @@ Pub. L. 100–478, title I, §1010, Oct. 7, 1988, 102 Stat. 2313, provided that:
 
 "(a)
 
-Education.—The Administrator of the Environmental Protection Agency in cooperation with the Secretary of Agriculture and the Secretary of the Interior, promptly upon enactment of this Act \[Oct. 7, 1988\], shall conduct a program to inform and educate fully persons engaged in agricultural food and fiber commodity production of any proposed pesticide labeling program or requirements that may be imposed by the Administrator in compliance with the Endangered Species Act \[of 1973\] (16 U.S.C. 1531 et seq.). The Administrator also shall provide the public with notice of, and opportunity for comment on, the elements of any such program and requirements based on compliance with the Endangered Species Act \[of 1973\], including (but not limited to) an identification of any pesticides affected by the program; an explanation of the restriction or prohibition on the user or applicator of any such pesticide; an identification of those geographic areas affected by any pesticide restriction or prohibition; an identification of the effects of any restricted or prohibited pesticide on endangered or threatened species; and an identification of the endangered or threatened species along with a general description of the geographic areas in which such species are located wherein the application of a pesticide will be restricted, prohibited, or its use otherwise limited, unless the Secretary of the Interior determines that the disclosure of such information may create a substantial risk of harm to such species or its habitat.
+Education.—The Administrator of the Environmental Protection Agency in cooperation with the Secretary of Agriculture and the Secretary of the Interior,promptly upon enactment of this Act \[Oct. 7, 1988\], shall conduct a program to inform and educate fully persons engaged in agricultural food and fiber commodity production of any proposed pesticide labeling program or requirements that may be imposed by the Administrator in compliance with the Endangered Species Act \[of 1973\] (16 U.S.C. 1531 et seq.). The Administrator also shall provide the public with notice of, and opportunity for comment on, the elements of any such program and requirements based on compliance with the Endangered Species Act \[of 1973\], including (but not limited to) an identification of any pesticides affected by the program; an explanation of the restriction or prohibition on the user or applicator of any such pesticide; an identification of those geographic areas affected by any pesticide restriction or prohibition; an identification of the effects of any restricted or prohibited pesticide on endangered or threatened species; and an identification of the endangered or threatened species along with a general description of the geographic areas in which such species are located wherein the application of a pesticide will be restricted, prohibited, or its use otherwise limited, unless the Secretary of the Interior determines that the disclosure of such information may create a substantial risk of harm to such species or its habitat.
 
 "(b)
 

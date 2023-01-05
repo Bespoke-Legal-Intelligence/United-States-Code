@@ -42,7 +42,7 @@ Pub. L. 116–92, div. B, title XXX, §3063, Dec. 20, 2019, 133 Stat. 1947, as a
 
 "(a)
 
-Suspension Required.—The Secretary of Defense shall suspend the initiative of the Department of Defense known as the Resident Energy Conservation Program and instruct the Secretary of each military department to suspend any program carried out by such Secretary that measures the energy usage for individual units of privatized military housing on installations of the Department of Defense.
+Suspension Required.—The Secretary of Defense shall suspend the initiative of the Department of Defense known as the Resident Energy Conservation Program and instruct the Secretary of each military department to suspend any program carried out by suchSecretary that measures the energy usage for individual units of privatized military housing on installations of the Department of Defense.
 
 "(b)
 

@@ -56,7 +56,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (d) Morris K. Udall Awards for Excellence in Parkinson's Disease Research
 
-The Director of NIH is authorized to establish a grant program to support investigators with aproven record of excellence and innovation in Parkinson's disease research and who demonstrate potential for significant future breakthroughs in the understanding of the pathogensis,<sup>1</sup> diagnosis, and treatment of Parkinson's disease. Grants under this subsection shall be available for a period of not to exceed 5 years.
+The Director of NIH is authorized to establish a grant program to support investigators with a proven record of excellence and innovation in Parkinson's disease research and who demonstrate potential for significant future breakthroughs in the understanding of the pathogensis,<sup>1</sup> diagnosis, and treatment of Parkinson's disease. Grants under this subsection shall be available for a period of not to exceed 5 years.
 
 (July 1, 1944, ch. 373, title IV, §409B, as added Pub. L. 105–78, title VI, §603(c), Nov. 13, 1997, 111 Stat. 1520; amended Pub. L. 109–482, title I, §103(b)(8), Jan. 15, 2007, 120 Stat. 3687.)
 

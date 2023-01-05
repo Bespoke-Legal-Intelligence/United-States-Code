@@ -50,7 +50,7 @@ Acquisition of Interests in Land When Need Is Urgent.—(1) The Secretary of a m
 
 (e)
 
-Survey Authority; Acquisition Methods.—Authority provided the Secretary of a military department by law to acquire an interest in real property (including a temporary interest) includes authority—
+Survey Authority; Acquisition Methods.—Authority provided the Secretary of amilitary department by law to acquire an interest in real property (including a temporary interest) includes authority—
 
 &emsp;(1) to make surveys; and
 

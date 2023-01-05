@@ -10,7 +10,7 @@ Establishment.—At each agency, the head of the agency, in consultation with th
 
 &emsp;(2)
 
-Function.—Each Performance Improvement Officer shall report directly to the Chief Operating Officer. Subject to the direction of the Chief Operating Officer, each Performance Improvement Officer shall—
+Function.—Each Performance Improvement Officer shall report directly to the Chief Operating Officer. Subject to the direction ofthe Chief Operating Officer, each Performance Improvement Officer shall—
 
 &emsp;&emsp;(A) advise and assist the head of the agency and the Chief Operating Officer to ensure that the mission and goals of the agency are achieved through strategic and performance planning, measurement, analysis, regular assessment of progress, and use of performance information to improve the results achieved;
 
@@ -18,9 +18,9 @@ Function.—Each Performance Improvement Officer shall report directly to the Ch
 
 &emsp;&emsp;(C) assist the head of the agency and the Chief Operating Officer in overseeing the implementation of the agency strategic planning, performance planning, and reporting requirements provided under sections 1115 through 1122 of this title and sections 306 of title 5, including the contributions of the agency to the Federal Government priority goals;
 
-&emsp;&emsp;(D) support the head of agency and the Chief Operating Officer in the conduct of regular reviews of agency performance, including at least quarterly reviews of progress achieved toward agency priority goals, if applicable;
+&emsp;&emsp;(D) support the head of agency <sup>1</sup> and the Chief Operating Officer in the conduct of regular reviews of agency performance, including at least quarterly reviews of progress achieved toward agency priority goals, if applicable;
 
-&emsp;&emsp;(E) assist the head of the agency and the Chief Operating Officer in the developmentand use within the agency of performance measures in personnel performance appraisals, and, as appropriate, other agency personnel and planning processes and assessments; and
+&emsp;&emsp;(E) assist the head of the agency and the Chief Operating Officer in the development and use within the agency of performance measures in personnel performance appraisals, and, as appropriate, other agency personnel and planning processes and assessments; and
 
 &emsp;&emsp;(F) ensure that agency progress toward the achievement of all goals is communicated to leaders, managers, and employees in the agency and Congress, and made available on a public website of the agency.
 
@@ -77,4 +77,6 @@ In general.—The Administrator of General Services shall provide administrative
 Personnel.—The heads of agencies with Performance Improvement Officers serving on the Council shall, as appropriate and to the extent permitted by law, provide at the request of the chairperson of the Performance Improvement Council up to 2 personnel authorizations to serve at the direction of the chairperson.
 
 (Added Pub. L. 111–352, §9, Jan. 4, 2011, 124 Stat. 3878.)
+
+<i><sup>1</sup></i><i> So in original.</i>
 

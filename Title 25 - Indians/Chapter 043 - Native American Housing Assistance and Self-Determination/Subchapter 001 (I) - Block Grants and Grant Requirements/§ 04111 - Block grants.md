@@ -34,7 +34,7 @@ Notwithstanding any other provision of this chapter, grant amounts provided unde
 
 #### (d) Exemption from taxation
 
-Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for affordable housing activities under this chapter for rental or lease-purchase dwelling units developed under the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) or with amounts provided under this chapter that are owned by the recipient for the tribe unless—
+Notwithstanding any other provision of this chapter, grant amounts provided under thischapter on behalf of an Indian tribe may not be used for affordable housing activities under this chapter for rental or lease-purchase dwelling units developed under the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) or with amounts provided under this chapter that are owned by the recipient for the tribe unless—
 
 &emsp;(1) such dwelling units (which, in the case of units in a multi-unit project, shall be exclusive of any portions of the project not developed under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] or with amounts provided under this chapter) are exempt from all real and personal property taxes levied or imposed by any State, tribe, city, county, or other political subdivision; and
 

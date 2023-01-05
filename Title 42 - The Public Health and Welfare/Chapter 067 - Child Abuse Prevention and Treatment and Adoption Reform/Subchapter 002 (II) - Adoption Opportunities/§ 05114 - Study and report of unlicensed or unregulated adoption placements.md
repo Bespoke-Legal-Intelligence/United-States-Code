@@ -14,7 +14,7 @@ The Secretary shall provide for a study (the results of which shall be reported 
 
 #### (b) Dynamics of successful adoption
 
-The Secretary shall conduct research (directly or by grant to, or contract with, public or private nonprofit research agencies or organizations) about adoption outcomes and the factors affecting those outcomes. The Secretary shall submit a report containing the results of such research to the appropriate committees of the Congress not later than the date that is 36 months after June 25, 2003.
+The Secretary shall conduct research (directly or by grant to, or contract with, public or private nonprofit research agencies or organizations) about adoption outcomes and the factorsaffecting those outcomes. The Secretary shall submit a report containing the results of such research to the appropriate committees of the Congress not later than the date that is 36 months after June 25, 2003.
 
 #### (c) Interjurisdictional adoption
 

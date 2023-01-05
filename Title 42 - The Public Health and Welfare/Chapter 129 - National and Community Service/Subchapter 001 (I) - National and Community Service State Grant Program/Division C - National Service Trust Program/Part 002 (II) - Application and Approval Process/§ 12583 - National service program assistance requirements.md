@@ -64,7 +64,7 @@ An application submitted under section 12582 of this title shall also include an
 
 #### (e) Living allowances and other inservice benefits
 
-Except as provided in section 12594(c) of this title, an application submitted under section12582 of this title shall also include an assurance by the applicant that the applicant will—
+Except as provided in section 12594(c) of this title, an application submitted under section 12582 of this title shall also include an assurance by the applicant that the applicant will—
 
 &emsp;(1) ensure the provision of a living allowance and other benefits specified in section 12594 of this title to participants in any national service program carried out by the applicant using assistance provided under section 12571 of this title; and
 

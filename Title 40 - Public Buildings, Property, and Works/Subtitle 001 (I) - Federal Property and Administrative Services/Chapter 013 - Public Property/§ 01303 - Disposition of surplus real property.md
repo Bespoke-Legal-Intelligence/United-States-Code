@@ -14,7 +14,7 @@ Actions of administrator.—When the President, on the recommendation of the Adm
 
 &emsp;&emsp;(A) may assign space in the property to any federal agency;
 
-&emsp;&emsp;(B) pending a sale, may lease the property for not more than 5 years and on terms theAdministrator considers to be in the public interest; or
+&emsp;&emsp;(B) pending a sale, may lease the property for not more than 5 years and on terms the Administrator considers to be in the public interest; or
 
 &emsp;&emsp;(C) may sell the property at public sale to the highest responsible bidder on terms and after public advertisement that the Administrator considers to be in the public interest.
 
@@ -114,7 +114,7 @@ In this chapter, the words "Administrator of General Services" are substituted f
 
 In subsection (a), the words "wholly owned Government corporations" are substituted for "corporations wholly owned by the United States" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1), before subclause (A), the words "Notwithstanding any other provision of law", "heretofore or hereafter", and "by judicial process or otherwise in the collection of debts, purchase, donation, condemnation, devise, forfeiture, lease, or in any othermanner" are omitted as unnecessary. In subclause (A), the words "or reassign" are omitted as unnecessary.
+In subsection (b)(1), before subclause (A), the words "Notwithstanding any other provision of law", "heretofore or hereafter", and "by judicial process or otherwise in the collection of debts, purchase, donation, condemnation, devise, forfeiture, lease, or in any other manner" are omitted as unnecessary. In subclause (A), the words "or reassign" are omitted as unnecessary.
 
 In subsection (e), the words "General Services Administration", "Administrator", and "Administration" are substituted for "Public Buildings Administration" because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
 
@@ -402,7 +402,7 @@ Additional Personnel.—Subject to subsection (b), the Executive Director may re
 
 "(b)
 
-Requests for Detail Employees.—Upon request of the Executive Director and approval of the Board and the Director of OMB, the head of any Federal agency shall detail the requested personnel of that agencyto the Board to assist the Board in carrying out its duties under this Act.
+Requests for Detail Employees.—Upon request of the Executive Director and approval of the Board and the Director of OMB, the head of any Federal agency shall detail the requested personnel of that agency to the Board to assist the Board in carrying out its duties under this Act.
 
 "(c)
 
@@ -490,7 +490,7 @@ Factors.—In developing the standards and criteria under paragraph (1), the Dir
 
 "(c)
 
-Special Rule for Utilization Rates.—Standards developed by the Director of OMB pursuant to subsection (b) shall incorporate and apply clear standard utilization rates to the extent that such standard rates increase efficiency and provide performance data. The utilization rates shall be consistent throughout each applicable category of space and with nongovernment space utilization rates. To the extent the space utilization rate of a given agency exceeds the utilization rates to be applied under this subsection, the Director of OMB may recommend realignment, co-location, consolidation, or other type of action to improve space utilization.
+Special Rule for Utilization Rates.—Standards developed by the Director of OMB pursuant to subsection (b) shall incorporate and apply clear standardutilization rates to the extent that such standard rates increase efficiency and provide performance data. The utilization rates shall be consistent throughout each applicable category of space and with nongovernment space utilization rates. To the extent the space utilization rate of a given agency exceeds the utilization rates to be applied under this subsection, the Director of OMB may recommend realignment, co-location, consolidation, or other type of action to improve space utilization.
 
 "(d)
 
@@ -616,7 +616,7 @@ Schedule and limitations.—
 
 &emsp;&emsp;"(A)
 
-First round.—Not later than 2 years after the date of transmittal of the list of properties recommended pursuant to subsection (b), the Board shall transmit to the Director of OMB the first report required under paragraph (1). The total value of transactions contained in the first report may not exceed $2,500,000,000.
+First round.—Not later than 2 years after the date of transmittal of the list of properties recommended pursuant to subsection (b), the Boardshall transmit to the Director of OMB the first report required under paragraph (1). The total value of transactions contained in the first report may not exceed $2,500,000,000.
 
 &emsp;&emsp;"(B)
 
@@ -654,7 +654,7 @@ Approval.—If the Director of OMB approves the Board's recommendations, the Dir
 
 &emsp;"(2)
 
-Disapproval.—If the Director of OMB disapproves the Board's recommendations, in whole or in part, the Director of OMB shall transmit a copy of the recommendations to Congress and the reasons fordisapproval of the recommendations to the Board and Congress.
+Disapproval.—If the Director of OMB disapproves the Board's recommendations, in whole or in part, the Director of OMB shall transmit a copy of the recommendations to Congress and the reasons for disapproval of the recommendations to the Board and Congress.
 
 &emsp;"(3)
 
@@ -882,7 +882,7 @@ Additional Requirement for Budget Contents.—The President shall transmit along
 
 #### "SEC. 19. IMPLEMENTATION REVIEW BY GAO.
 
-"Upon transmittal of the Board's recommendations from the Director of OMB to Congress under section 13, the Comptroller General of the United States at least annually shall monitor and review the implementationactivities of Federal agencies pursuant to section 14, and report to Congress any findings and recommendations.
+"Upon transmittal of the Board's recommendations from the Director of OMB to Congress under section 13, the Comptroller General of the United States at least annually shall monitor and review the implementation activities of Federal agencies pursuant to section 14, and report to Congress any findings and recommendations.
 
 #### "SEC. 20. AGENCY RETENTION OF PROCEEDS.
 
@@ -984,7 +984,7 @@ Requirement.—Notwithstanding any other provision of law, the sale of the prope
 
 "(d)
 
-Net Proceeds.—Any net proceeds received shall be paid into an account in the Federal Buildings Fund established under section 592 of title 40, United States Code. Upon deposit, the net proceeds from the sale may be expended only subject to a specific future appropriation.
+Net Proceeds.—Any net proceeds received shall be paid into an account in the Federal Buildings Fundestablished under section 592 of title 40, United States Code. Upon deposit, the net proceeds from the sale may be expended only subject to a specific future appropriation.
 
 #### "SEC. 25. SALE OF COTTON ANNEX.
 

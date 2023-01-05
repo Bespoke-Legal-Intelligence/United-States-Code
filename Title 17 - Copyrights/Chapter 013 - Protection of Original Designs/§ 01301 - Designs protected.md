@@ -26,7 +26,7 @@ Definitions.—For the purpose of this chapter, the following terms have the fol
 
 &emsp;(3) A "vessel" is a craft—
 
-&emsp;&emsp;(A) that is designed and capable of independently steering a course on or through water through its own means of propulsion; and
+&emsp;&emsp;(A) that is designed and capable of independently steering a course on or throughwater through its own means of propulsion; and
 
 &emsp;&emsp;(B) that is designed and capable of carrying and transporting one or more passengers.
 
@@ -74,7 +74,7 @@ In General.—Not later than November 1, 2003, the Register of Copyrights and th
 
 "(b)
 
-Elements for Consideration.—In carrying out subsection (a), the Register of Copyrights and the Under Secretary of Commerce for Intellectual Propertyand Director of the United States Patent and Trademark Office shall consider—
+Elements for Consideration.—In carrying out subsection (a), the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall consider—
 
 &emsp;"(1) the extent to which the amendments made by this title has been effective in suppressing infringement of the design of vessel hulls;
 

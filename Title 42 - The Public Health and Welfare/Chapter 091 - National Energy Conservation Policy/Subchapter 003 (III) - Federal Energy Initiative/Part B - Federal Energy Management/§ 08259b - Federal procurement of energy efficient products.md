@@ -60,7 +60,7 @@ Energy Star products and FEMP designated products shall be clearly identified an
 
 &emsp;(B) determined by the Administrator of the Environmental Protection Agency to be environmentally safe; and
 
-&emsp;(C) shown to increase seasonal energy efficiency ratio (SEER) or energy efficiency ratio (EER) when tested by the National Institute of Standards and Technology according to Department of Energy test procedures without causing any adverse impact on the system, system components, the refrigerant or lubricant, or other materials in the system.
+&emsp;(C) shown to increase seasonal energy efficiency ratio (SEER) or energy efficiency ratio (EER) when tested by the National Institute ofStandards and Technology according to Department of Energy test procedures without causing any adverse impact on the system, system components, the refrigerant or lubricant, or other materials in the system.
 
 > &emsp;Results of testing described in subparagraph (C) shall be published in the Federal Register for public review and comment. For purposes of this section, a hardware device or primary refrigerant shall not be considered an additive.
 

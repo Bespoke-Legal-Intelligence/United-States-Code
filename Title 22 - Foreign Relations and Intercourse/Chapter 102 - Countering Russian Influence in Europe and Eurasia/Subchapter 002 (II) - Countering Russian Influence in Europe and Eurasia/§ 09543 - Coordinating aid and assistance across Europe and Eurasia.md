@@ -32,7 +32,7 @@ Amounts in the Countering Russian Influence Fund shall be used to effectively im
 
 #### (c) Revision of activities for which amounts may be used
 
-The Secretary of State may modify the goals described in subsection (b) if, not later than 15days before revising such a goal, the Secretary notifies the appropriate congressional committees of the revision.
+The Secretary of State may modify the goals described in subsection (b) if, not later than 15 days before revising such a goal, the Secretary notifies the appropriate congressional committees of the revision.
 
 #### (d) Implementation
 
@@ -48,7 +48,7 @@ The Secretary of State may modify the goals described in subsection (b) if, not 
 
 &emsp;&emsp;(B) Federal grant programs such as the Information Access Fund; or
 
-&emsp;&emsp;(C) nongovernmental or international organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, the Black Sea Trust, the Balkan Trust for Democracy, the Prague Civil Society Centre, the North Atlantic Treaty Organization Strategic Communications Centre of Excellence, the European Endowment for Democracy, and related organizations.
+&emsp;&emsp;(C) nongovernmental or international organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, the Black Sea Trust, the Balkan Trust for Democracy, the Prague Civil Society Centre, the NorthAtlantic Treaty Organization Strategic Communications Centre of Excellence, the European Endowment for Democracy, and related organizations.
 
 #### (3) Report on implementation
 
@@ -114,5 +114,5 @@ Subsec. (b)(7). Pub. L. 116–94, §2004(d)(2)(B), added par. (7).
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 

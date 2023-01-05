@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-As part of the ongoing activities of the Engineer Research and Development Center to address the spread and impacts of aquatic invasive species, the Secretary shall undertake research on the prevention, management, and eradication of aquatic invasive species, including Asian carp, elodea, quagga mussels, and zebra mussels.
+As part of the ongoing activities of the Engineer Research and Development Center to address the spread and impacts of aquatic invasive species, the Secretary shall undertake research on the prevention, management, and eradication of aquatic invasive species, including Asian carp, elodea, hydrilla, quagga mussels, and zebra mussels.
 
 #### (b) Locations
 
@@ -12,7 +12,7 @@ In carrying out subsection (a), the Secretary shall work with Corps of Engineers
 
 Not later than 180 days after October 23, 2018, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report recommending a plan to address the spread and impacts of aquatic invasive species.
 
-(Pub. L. 115–270, title I, §1108, Oct. 23, 2018, 132 Stat. 3774; Pub. L. 116–260, div. AA, title V, §502, Dec. 27, 2020, 134 Stat. 2744.)
+(Pub. L. 115–270, title I, §1108, Oct. 23, 2018, 132 Stat. 3774; Pub. L. 116–260, div. AA, title V, §502, Dec. 27, 2020, 134 Stat. 2744; Pub. L. 117–263, div. H, title LXXXI, §8305(a), Dec. 23, 2022, 136 Stat. 3778.)
 
 #### <b>Editorial Notes</b>
 
@@ -22,9 +22,11 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a). Pub. L. 117–263 inserted ", hydrilla" after "elodea".
+
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §502(1), substituted "prevention, management," for "management" and inserted ", elodea, quagga mussels," after "Asian carp".
 
-Subsec. (b). Pub. L. 116–260, §502(2), inserted "or could be impacted in the future" after "that are impacted" and substituted "Pacific, Arctic, and Gulf Coasts, theGreat Lakes, and reservoirs operated and maintained by the Secretary." for "Pacific, and Gulf coasts and the Great Lakes."
+Subsec. (b). Pub. L. 116–260, §502(2), inserted "or could be impacted in the future" after "that are impacted" and substituted "Pacific, Arctic, and Gulf Coasts, the Great Lakes, and reservoirs operated and maintained by the Secretary." for "Pacific, and Gulf coasts and the Great Lakes."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

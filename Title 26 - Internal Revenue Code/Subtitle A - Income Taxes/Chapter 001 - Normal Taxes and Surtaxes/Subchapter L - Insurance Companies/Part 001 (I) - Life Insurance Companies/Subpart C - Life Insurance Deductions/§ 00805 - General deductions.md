@@ -244,7 +244,7 @@ Amendment by section 13512(b)(5), (6) of Pub. L. 115–97 applicable to taxable 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined inthe same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
 
 Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10221(e)(2) of Pub. L. 100–203, as amended, set out as a note under section 243 of this title.
+Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section10221(e)(2) of Pub. L. 100–203, as amended, set out as a note under section 243 of this title.
 
 #### Effective Date of 1986 Amendment
 

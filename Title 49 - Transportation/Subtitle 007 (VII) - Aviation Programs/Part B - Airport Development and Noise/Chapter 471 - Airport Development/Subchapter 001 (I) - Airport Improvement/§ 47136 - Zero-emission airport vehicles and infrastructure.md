@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation may establish a pilot program under which the sponsors of public-use airports mayuse funds made available under this chapter or section 48103 for use at such airports to carry out—
+In General.—The Secretary of Transportation may establish a pilot program under which the sponsors of public-use airports may use funds made available under this chapter or section 48103 for use at such airports to carry out—
 
 &emsp;(1) activities associated with the acquisition, by purchase or lease, and operation of eligible zero-emission vehicles and equipment, including removable power sources for such vehicles; and
 
@@ -90,7 +90,7 @@ Eligible zero-emission vehicle and equipment.—The term "eligible zero-emission
 
 &emsp;(2)
 
-Removable power source.—The term "removable power source" means a power source that is separately installed in, and removable from, a zero-emission vehicle and may include a battery, a fuel cell, an ultra-capacitor, or other power source used in a zero-emission vehicle.
+Removable power source.—The term "removable power source" means a powersource that is separately installed in, and removable from, a zero-emission vehicle and may include a battery, a fuel cell, an ultra-capacitor, or other power source used in a zero-emission vehicle.
 
 &emsp;(3)
 
@@ -112,7 +112,7 @@ A prior section 47136, added Pub. L. 106–181, title I, §133(a), Apr. 5, 2000,
 
 <b>2018</b>—Pub. L. 115–254, §166(b)(1), renumbered section 47136a of this title as this section.
 
-Subsecs. (a), (b). Pub. L. 115–254, §192(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and\(b) which related to the establishment of a zero-emission vehicle pilot program and location in air quality nonattainment areas, respectively.
+Subsecs. (a), (b). Pub. L. 115–254, §192(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment of a zero-emission vehicle pilot program and location in air quality nonattainment areas, respectively.
 
 Subsecs. (d) to (j). Pub. L. 115–254, §192(a)(2), added subsecs. (d) to (j) and struck out former subsecs. (d) to (f) which related to Federal share of project costs, technical assistance, and materials identifying best practices, respectively.
 

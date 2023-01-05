@@ -68,7 +68,7 @@ Applicability of Amendments.—(1) An amendment made by this Act shall apply, in
 
 &emsp;"(C) any other proceeding or action that is ongoing on the date described in paragraph (3).
 
-"(3) The date referred to in paragraphs (1) and (2) is the date specified in such final regulations \[Oct. 1, 1995, see 60 F.R. 48231, Sept. 18, 1995\]. The date so specified shall be October 1, 1995, or any earlier date that is not within 30 days after the date on which such final regulations are published.
+"(3) The date referred to in paragraphs (1) and (2) is the date specified in such final regulations \[Oct. 1, 1995,see 60 F.R. 48231, Sept. 18, 1995\]. The date so specified shall be October 1, 1995, or any earlier date that is not within 30 days after the date on which such final regulations are published.
 
 "(c)
 

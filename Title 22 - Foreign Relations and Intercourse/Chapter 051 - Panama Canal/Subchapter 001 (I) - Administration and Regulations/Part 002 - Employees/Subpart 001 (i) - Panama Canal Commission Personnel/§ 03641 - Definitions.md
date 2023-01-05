@@ -16,7 +16,7 @@ As used in this part—
 
 #### Employment of Commission Employees by Government of Panama
 
-Pub. L. 103–160, div. C, title XXXV, §3504, Nov. 30, 1993, 107 Stat. 1965, provided that:
+Pub. L. 103–160, div. C, title XXXV, §3504, Nov. 30, 1993, 107 Stat. 1965, as amended by Pub. L. 117–286, §4(c)(32), Dec. 27, 2022, 136 Stat. 4358, provided that:
 
 "(a)
 
@@ -24,5 +24,5 @@ Consent of Congress.—Subject to subsection (b), the Congress consents to emplo
 
 "(b)
 
-Condition.—Employees described in subsection (a) may accept employment described in such subsection (and compensation for that employment) only if the employment is approved by the designated agency ethics official of the Panama Canal Commission designated pursuant to the Ethics in Government Act of 1978 (5 U.S.C. App.), and by the Administrator of the Panama Canal Commission."
+Condition.—Employees described in subsection (a) may accept employment described in such subsection (and compensation for that employment) only if the employment is approved by the designated agency ethics official of the Panama Canal Commission designated pursuant to chapter 131 of title 5, United States Code, and by the Administrator of the Panama Canal Commission."
 

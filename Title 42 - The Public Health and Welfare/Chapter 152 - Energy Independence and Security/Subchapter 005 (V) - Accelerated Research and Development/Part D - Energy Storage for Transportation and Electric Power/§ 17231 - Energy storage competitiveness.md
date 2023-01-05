@@ -50,7 +50,7 @@ In this section:
 
 #### (c) Program
 
-The Secretary shall carry out a research, development, and demonstration program to support the ability of the United States to remain globally competitive in energy storage systemsfor electric drive vehicles, stationary applications, and electricity transmission and distribution.
+The Secretary shall carry out a research, development, and demonstration program to support the ability of the United States to remain globally competitive in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
 
 #### (d) Coordination
 
@@ -82,9 +82,9 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 &emsp;&emsp;The Council shall meet not less than once a year.
 
-#### (B) Federal Advisory Committee Act
+#### (B) Chapter 10 of title 5
 
-&emsp;&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to a meeting of the Council.
+&emsp;&emsp;Chapter 10 of title 5 shall apply to a meeting of the Council.
 
 #### (4) Plans
 
@@ -122,7 +122,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (3) Funding
 
-&emsp;For activities carried out under this subsection, in addition to funding activities at National Laboratories, the Secretary shall award funds to, and coordinate activities with, a range of stakeholders including the public, private, and academic sectors.
+&emsp;For activities carried out under this subsection, in addition to funding activities atNational Laboratories, the Secretary shall award funds to, and coordinate activities with, a range of stakeholders including the public, private, and academic sectors.
 
 #### (g) Applied research program
 
@@ -162,7 +162,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (3) Participation agreements
 
-&emsp;As a condition of participating in a center, a participant shall enter into a participationagreement with the center that requires that activities conducted by the participant for the center promote the goal of enabling the United States to compete successfully in global energy storage markets.
+&emsp;As a condition of participating in a center, a participant shall enter into a participation agreement with the center that requires that activities conducted by the participant for the center promote the goal of enabling the United States to compete successfully in global energy storage markets.
 
 #### (4) Plans
 
@@ -422,7 +422,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (ii) Report
 
-&emsp;&emsp;&emsp;Not later than 1 year after November 15, 2021, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and any other relevant committee of Congress a report containing the results of the study under clause (i), including a description of—
+&emsp;&emsp;&emsp;Not later than 1 year after November 15, 2021, the Secretary shall submit to theCommittee on Energy and Natural Resources of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and any other relevant committee of Congress a report containing the results of the study under clause (i), including a description of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the ability of relevant businesses or other entities to competitively manufacture electric drive vehicle batteries and recycle electric drive vehicle batteries in the United States;
 
@@ -518,19 +518,17 @@ There are authorized to be appropriated to carry out—
 
 &emsp;Not later than 2 years after December 27, 2020, and every 3 years thereafter, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report summarizing the activities, findings, and progress of the program.
 
-(Pub. L. 110–140, title VI, §641, Dec. 19, 2007, 121 Stat. 1688; Pub. L. 116–260, div. Z, title III, §3201(f), formerly §3201(e), Dec. 27, 2020, 134 Stat. 2523, renumbered §3201(f), Pub. L. 117–58, div. D, title III, §40334(1), Nov. 15, 2021, 135 Stat. 1025; Pub. L. 117–58, div. D, title II, §40208, Nov. 15, 2021, 135 Stat. 971.)
+(Pub. L. 110–140, title VI, §641, Dec. 19, 2007, 121 Stat. 1688; Pub. L. 116–260, div. Z, title III, §3201(f), formerly §3201(e), Dec. 27, 2020, 134 Stat. 2523, renumbered §3201(f), Pub. L. 117–58, div. D, title III, §40334(1), Nov. 15, 2021, 135 Stat. 1025; Pub. L. 117–58, div. D, title II, §40208, Nov. 15, 2021, 135 Stat. 971; Pub. L. 117–286, §4(a)(280), Dec. 27, 2022, 136 Stat. 4336.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Section 40334(1) of Pub. L. 117–58, which directed amendment of section 3201 of the Energy Policy Act of 2020 by redesignating subsection (e) as subsection (f), was executed by making the amendment to section 3201 of div. Z of Pub. L. 116–260, known as the Energy Act of 2020, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(3)(B). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2021</b>—Subsec. (k). Pub. L. 117–58, §40208(1), added subsec. (k) and struck out former subsec. (k) which related to secondary applications and disposal of electric drive vehicle batteries.
 

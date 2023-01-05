@@ -2,7 +2,7 @@
 
 #### (a) Project Safe Neighborhoods Block Grant Program
 
-The purpose of the Program is to foster and improve existing partnerships between Federal, State, and local agencies, including the United States Attorney in each Federal judicial district, entities representing members of the community affected by increased violence, victims' advocates, and researchers to create safer neighborhoods through sustained reductions in violent crimes by—
+The purpose of the Program is to foster and improve existing partnerships between Federal,State, and local agencies, including the United States Attorney in each Federal judicial district, entities representing members of the community affected by increased violence, victims' advocates, and researchers to create safer neighborhoods through sustained reductions in violent crimes by—
 
 &emsp;(1) developing and executing comprehensive strategic plans to reduce violent crimes, including the enforcement of gun laws, and prioritizing efforts focused on identified subsets of individuals or organizations responsible for increasing violence in a particular geographic area;
 

@@ -12,7 +12,7 @@
 
 #### (2) Coordination with existing programs
 
-&emsp;The training program established with the grants authorized under paragraph (1) shall beconsistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29.
+&emsp;The training program established with the grants authorized under paragraph (1) shall be consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29.
 
 #### (b) Requirements for grants
 

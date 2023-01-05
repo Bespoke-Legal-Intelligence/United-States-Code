@@ -66,7 +66,7 @@ This subchapter does not apply to any discharge—
 
 &emsp;&emsp;&emsp;(i) in accordance with section 2713 of this title, shall pay removal costs and damages to any claimant; and
 
-&emsp;&emsp;&emsp;(ii) shall be entitled by subrogation to all rights of the United States Governmentand the claimant to recover removal costs or damages from the third party or the Fund paid under this subsection.
+&emsp;&emsp;&emsp;(ii) shall be entitled by subrogation to all rights of the United States Government and the claimant to recover removal costs or damages from the third party or the Fund paid under this subsection.
 
 #### (2) Limitation applied
 
@@ -84,9 +84,9 @@ This subchapter does not apply to any discharge—
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
 The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 

@@ -86,7 +86,7 @@ A plan under this section for an Indian tribe may be prepared and submitted on b
 
 #### (d) Coordination of plans
 
-A plan under this section may cover more than 1 Indian tribe, but only if the certificationrequirements under subsection (c) are complied with by each such grant beneficiary covered.
+A plan under this section may cover more than 1 Indian tribe, but only if the certification requirements under subsection (c) are complied with by each such grant beneficiary covered.
 
 #### (e) Regulations
 

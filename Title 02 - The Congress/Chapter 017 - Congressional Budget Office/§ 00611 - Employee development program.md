@@ -20,5 +20,5 @@ Section was enacted as part of the Legislative Branch Appropriations Act, 2003, 
 
 #### Executive Exchange Program for the Congressional Budget Office
 
-Pub. L. 110–161, div. H, title I, §1201, Dec. 26, 2007, 121 Stat. 2238, as amended by Pub. L. 111–68, div. A, title I, §1201, Oct. 1, 2009, 123 Stat. 2032, which established an executive exchange program and was formerly set out as a note under this section, was transferred to section 612 of this title.
+Pub. L. 110–161, div. H, title I, §1201, Dec. 26, 2007, 121 Stat. 2238, as amended by Pub. L. 111–68, div. A, title I,§1201, Oct. 1, 2009, 123 Stat. 2032, which established an executive exchange program and was formerly set out as a note under this section, was transferred to section 612 of this title.
 

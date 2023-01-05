@@ -18,7 +18,7 @@ The internship and fellowship programs shall be managed by the Office of Environ
 
 #### (e) Length of internships and fellowships; funding
 
-Interns shall be hired on a temporary, full-time basis for not to exceed 6 months and shall be compensated appropriately. Fellows shall be hired on a temporary full-time basis for not to exceed 12 months and shall be compensated appropriately. Federal agencies hiring internsshall provide the funds necessary to support salaries and related costs.
+Interns shall be hired on a temporary, full-time basis for not to exceed 6 months and shall be compensated appropriately. Fellows shall be hired on a temporary full-time basis for not to exceed 12 months and shall be compensated appropriately. Federal agencies hiring interns shall provide the funds necessary to support salaries and related costs.
 
 #### (f) Eligible individuals
 

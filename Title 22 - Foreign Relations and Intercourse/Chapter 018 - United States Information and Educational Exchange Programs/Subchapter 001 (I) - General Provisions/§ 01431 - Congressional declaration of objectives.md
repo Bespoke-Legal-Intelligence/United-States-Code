@@ -80,7 +80,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;"(A) Freedom of speech and freedom of the press are fundamental human rights.
 
-&emsp;&emsp;"(B) The United States has a national interest in promoting these freedoms by supporting free media abroad, which is essential to the development offree and democratic societies consistent with our own.
+&emsp;&emsp;"(B) The United States has a national interest in promoting these freedoms by supporting free media abroad, which is essential to the development of free and democratic societies consistent with our own.
 
 &emsp;&emsp;"(C) Free media is undermined, endangered, or nonexistent in many repressive and transitional societies around the world, including in Eurasia, Africa, and the Middle East.
 

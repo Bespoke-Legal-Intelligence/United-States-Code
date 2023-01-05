@@ -16,7 +16,7 @@ The purpose of this program is to enable States to develop and establish, or exp
 
 #### References in Text
 
-The Adoption and Safe Families Act of 1997, referred to in par. (3), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115, as amended. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1305 of this title and Tables.
+The Adoption and Safe Families Act of 1997, referred to in par. (3), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1305 of this title and Tables.
 
 #### Prior Provisions
 
@@ -28,7 +28,7 @@ A prior section 430 of act Aug. 14, 1935, was classified to section 630 of this 
 
 <b>2006</b>—Pub. L. 109–288 substituted "Purpose" for "Findings and purpose" in section catchline, struck out subsec. (a) relating to findings, and struck out subsec. (b) designation and heading before "The purpose".
 
-<b>2002</b>—Pub. L. 107–133 amended section generally, substituting subsecs. (a) and (b) relating to findings and purpose for former subsecs. (a) to (d) relating to purposes, limitations on authorizations of appropriations, description of amounts, inflation percentage, and reservation of certain amounts.
+<b>2002</b>—Pub. L. 107–133 amended section generally, substituting subsecs. (a) and (b) relating to findings andpurpose for former subsecs. (a) to (d) relating to purposes, limitations on authorizations of appropriations, description of amounts, inflation percentage, and reservation of certain amounts.
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–89, §305(b)(3)(A), substituted ", community-based family support services, time-limited family reunification services, and adoption promotion and support services" for "and community-based family support services".
 

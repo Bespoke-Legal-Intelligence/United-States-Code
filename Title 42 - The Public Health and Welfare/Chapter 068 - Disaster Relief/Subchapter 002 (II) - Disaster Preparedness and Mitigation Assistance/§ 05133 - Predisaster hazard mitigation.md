@@ -192,9 +192,9 @@ Not later than 18 months after October 30, 2000, the President, in consultation 
 
 #### (m) Latest published editions
 
-For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term "latest published editions"means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.
+For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term "latest published editions" means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.
 
-(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864; Pub. L. 115–254, div. D, §1234(a), (d), Oct. 5, 2018, 132 Stat. 3461, 3463.)
+(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan.23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864; Pub. L. 115–254, div. D, §1234(a), (d), Oct. 5, 2018, 132 Stat. 3461, 3463.)
 
 #### Amendment of Section
 
@@ -311,4 +311,42 @@ Purpose.—The purpose of this title \[enacting this section and sections 5134, 
 &emsp;"(1) to reduce the loss of life and property, human suffering, economic disruption, and disaster assistance costs resulting from natural disasters; and
 
 &emsp;"(2) to provide a source of predisaster hazard mitigation funding that will assist States and local governments (including Indian tribes) in implementing effective hazard mitigation measures that are designed to ensure the continued functionality of critical services and facilities after a natural disaster."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Definitions; Red Flag Warnings and Predisaster Actions
+
+Pub. L. 117–251, §§2, 4, Dec. 20, 2022, 136 Stat. 2354, 2356, provided that:
+
+"SEC. 2.
+
+Definitions.—In this Act \[see section 1 of Pub. L. 117–251, set out as a Short Title of 2022 Amendment note under section 5121 of this title\]—
+
+&emsp;"(1) the term 'Administrator' means the Administrator of the Agency;
+
+&emsp;"(2) the term 'Agency' means the Federal Emergency Management Agency;
+
+&emsp;"(3) the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives;
+
+&emsp;"(4) the term 'emergency' means an emergency declared or determined to exist by the President under section 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191);
+
+&emsp;"(5) the terms 'Indian tribal government', 'local government', and 'State' have the meanings given such terms in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122); and
+
+&emsp;"(6) the term 'major disaster' means a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
+
+"SEC. 4.
+
+Red Flag Warnings and Predisaster Actions.—Not later than 1 year after the date of enactment of this Act \[Dec. 20, 2022\], the Administrator, in coordination with the National Weather Service of the National Oceanic and Atmospheric Administration, shall—
+
+&emsp;"(1) conduct a study of, develop recommendations for, and initiate a process for the use of forecasts and data, including information that supports the Red Flag Warnings of the National Oceanic and Atmospheric Administration and similar weather alert and notification methods, to establish—
+
+&emsp;&emsp;"(A) plans and actions, consistent with law, that can be implemented prior to a wildfire event, including pre-impact disaster declarations and surge operations, that can limit the impact, duration, or severity of the fire; and
+
+&emsp;&emsp;"(B) mechanisms to increase interagency collaboration to expedite the delivery of disaster assistance; and
+
+&emsp;"(2) submit to the appropriate committees of Congress a comprehensive report regarding the study described in paragraph (1), including any recommendations of the Administrator, and the activities of the Administrator to carry out paragraph (1)."
 

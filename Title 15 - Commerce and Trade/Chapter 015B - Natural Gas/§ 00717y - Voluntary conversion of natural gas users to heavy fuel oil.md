@@ -32,7 +32,7 @@
 
 (1) No transfer of contractual interests authorized by the rule required under subsection (a)(1) may take effect unless the Commission issues a certificate of public convenience and necessity for such transfer if such natural gas is to be resold by the person to whom such contractual interests are to be transferred. Such certificate shall be issued by the Commission in accordance with the requirements of this subsection and those of section 7 of the Natural Gas Act \[15 U.S.C. 717f\], and the provisions of such Act \[15 U.S.C. 717 et seq.\] applicable to the determination of satisfaction of the public convenience and necessity requirements of such section.
 
-(2) The rule required under subsection (a)(1) shall set forth guidelines for the application on a regional or national basis (as the Commission determines appropriate) of the criteria specifiedin subsection (e)(2) and (3) to determine the maximum consideration permitted as just compensation under this section.
+(2) The rule required under subsection (a)(1) shall set forth guidelines for the application on a regional or national basis (as the Commission determines appropriate) of the criteria specified in subsection (e)(2) and (3) to determine the maximum consideration permitted as just compensation under this section.
 
 #### (c) Restrictions on transfers unenforceable
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 &emsp;(1) The term "natural gas" has the same meaning as provided by section 2(5) of the Natural Gas Act \[15 U.S.C. 717a(5)\].
 
-&emsp;(2) The term "just compensation", when used with respect to any contractual interests pursuant to the rule required under subsection (a)(1), means the maximum amount of, or method of determining, consideration which does not exceed the amount by which—
+&emsp;(2) The term "just compensation", when used with respect to any contractual interests pursuant to the rule required under subsection (a)(1), means the maximum amount of, ormethod of determining, consideration which does not exceed the amount by which—
 
 &emsp;&emsp;(A) the reasonable costs (not including capital costs) incurred, during the remainder of the period of the contract with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1), in direct association with the use of heavy petroleum fuel oil as a fuel in the applicable facility, exceeds
 
@@ -110,11 +110,11 @@ No supplier of natural gas under any contract, with respect to which contractual
 
 #### References in Text
 
-The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(5), (9), (11), (12), (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to this chapter (§717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(5), (9), (11), (12), (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to this chapter (§717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
-The Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (e)(10), is Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3291, as amended, which is classified principally to chapter 92 (§8301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 42 and Tables.
+The Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (e)(10), is Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3291, which is classified principally to chapter 92 (§8301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 42 and Tables.
 
-The Natural Gas Policy Act of 1978, referred to in subsec. (e)(11), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (e)(11), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 #### Codification
 

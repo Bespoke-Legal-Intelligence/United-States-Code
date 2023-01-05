@@ -34,7 +34,7 @@ This chapter, referred to in subsecs. (a), (b), and (e), was in the original, "t
 
 Subsec. (a)(2). Pub. L. 103–236, §162(h)(2)(B), substituted "the Administrator" for "the Bureau of Consular Affairs".
 
-Subsec. (b). Pub. L. 103–236, §162(h)(2)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There is established in the Department of State a Bureau of Consular Affairs, to be headed by an Assistant Secretary of State for Consular Affairs. The Assistant Secretary of State for Consular Affairs shall be a citizen of the United States, qualified by experience, and shall maintain close liaison with the appropriate committees of Congress in order that they may be advised regarding the administration of this chapter by consular officers. He shall be charged with any and all responsibility and authority in the administration of the Bureau and of this chapter which are conferred on the Secretary of State as may be delegated to him by the Secretary of State or which may be prescribed by the Secretary of State. He shall also perform such other duties as the Secretary of State may prescribe."
+Subsec. (b). Pub. L. 103–236, §162(h)(2)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There is established in the Department of State a Bureau of Consular Affairs, to be headed by an Assistant Secretary of State for Consular Affairs. The Assistant Secretary of State for Consular Affairs shall be a citizen of the United States, qualified by experience, and shall maintain close liaison with the appropriate committees of Congress in order that theymay be advised regarding the administration of this chapter by consular officers. He shall be charged with any and all responsibility and authority in the administration of the Bureau and of this chapter which are conferred on the Secretary of State as may be delegated to him by the Secretary of State or which may be prescribed by the Secretary of State. He shall also perform such other duties as the Secretary of State may prescribe."
 
 Subsec. (c). Pub. L. 103–236, §162(h)(2)(D), substituted "Department of State" for "Bureau".
 
@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 103–236, §162(h)(2)(E), struck out before period at end 
 
 <b>1977</b>—Subsec. (a)(2). Pub. L. 95–105, §109(b)(1)(A), struck out "Security and" after "Bureau of".
 
-Subsec. (b). Pub. L. 95–105, §109(b)(1)(B), substituted "Consular Affairs, to be headed by an Assistant Secretary of State for Consular Affairs" for "Security and Consular Affairs, to be headed by an administrator (with an appropriate title to be designated by the Secretary of State), with rank equal to that of an Assistant Secretary of State" and "Assistant Secretary ofState for Consular Affairs" for "administrator" and struck out provision that the administrator shall be appointed by the President by and with the advice and consent of the Senate.
+Subsec. (b). Pub. L. 95–105, §109(b)(1)(B), substituted "Consular Affairs, to be headed by an Assistant Secretary of State for Consular Affairs" for "Security and Consular Affairs, to be headed by an administrator (with an appropriate title to be designated by the Secretary of State), with rank equal to that of an Assistant Secretary of State" and "Assistant Secretary of State for Consular Affairs" for "administrator" and struck out provision that the administrator shall be appointed by the President by and with the advice and consent of the Senate.
 
 Subsec. (d). Pub. L. 95–105, §109(b)(1)(C), struck out "Security and" after "Bureau of".
 

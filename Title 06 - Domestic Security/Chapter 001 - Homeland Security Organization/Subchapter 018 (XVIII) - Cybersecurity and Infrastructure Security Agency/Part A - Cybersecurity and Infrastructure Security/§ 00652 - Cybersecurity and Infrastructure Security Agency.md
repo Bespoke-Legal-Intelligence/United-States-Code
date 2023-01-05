@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The National Protection and Programs Directorate of the Department shall, on and after November 16, 2018, be known as the "Cybersecurity and Infrastructure Security Agency" (in this part referred to as the "Agency").
+&emsp;The National Protection and Programs Directorate of the Department shall, on and after November 16, 2018, be known as the "Cybersecurity and Infrastructure Security Agency".
 
 #### (2) References
 
@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Agency shall be headed by a Director of Cybersecurity and Infrastructure Security (inthis part referred to as the "Director"), who shall report to the Secretary.
+&emsp;The Agency shall be headed by the Director, who shall report to the Secretary.
 
 #### (2) Qualifications
 
@@ -38,7 +38,7 @@
 
 #### (3) Reference
 
-&emsp;Any reference to an Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and any other related program of the Department as described in section 113(a)(1)(H) of this title as in effect on the day before November 16, 2018, in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Director of Cybersecurity and Infrastructure Security of the Department.
+&emsp;Any reference to an Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and any other related program of the Department as described in section 113(a)(1)(H) of this title as in effect on the day before November 16, 2018, in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Director of the Cybersecurity and Infrastructure Security Agency.
 
 #### (c) Responsibilities
 
@@ -78,7 +78,7 @@ The Director shall—
 
 #### (d) Deputy Director
 
-There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructure Security who shall—
+There shall be in the Agency a Deputy Director of the Cybersecurity and Infrastructure Security Agency who shall—
 
 &emsp;(1) assist the Director in the management of the Agency; and
 
@@ -200,11 +200,11 @@ There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructu
 
 The Agency shall be composed of the following divisions:
 
-&emsp;(1) The Cybersecurity Division, headed by an Assistant Director.
+&emsp;(1) The Cybersecurity Division, headed by an Executive Assistant Director.
 
-&emsp;(2) The Infrastructure Security Division, headed by an Assistant Director.
+&emsp;(2) The Infrastructure Security Division, headed by an Executive Assistant Director.
 
-&emsp;(3) The Emergency Communications Division under subchapter XIII, headed by an Assistant Director.
+&emsp;(3) The Emergency Communications Division under subchapter XIII, headed by an Executive Assistant Director.
 
 #### (g) Co-location
 
@@ -236,9 +236,9 @@ The Agency shall be composed of the following divisions:
 
 #### (i) Savings
 
-Nothing in this subchapter may be construed as affecting in any manner the authority, existing on the day before November 16, 2018, of any other component of the Department or anyother Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note; Public Law 114–94).
+Nothing in this subchapter may be construed as affecting in any manner the authority, existing on the day before November 16, 2018, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note; Public Law 114–94).
 
-(Pub. L. 107–296, title XXII, §2202, as added Pub. L. 115–278, §2(a), Nov. 16, 2018, 132 Stat. 4169; amended Pub. L. 116–260, div. U, title IX, §904(b)(1)(A), Dec. 27, 2020, 134 Stat. 2298; Pub. L. 116–283, div. A, title XVII, §§1717(a)(1)(A), 1719(a), (b), div. H, title XC, §§9001(a), 9002(c)(2)(D), Jan. 1, 2021, 134 Stat. 4099, 4105, 4766, 4773; Pub. L. 117–81, div. A, title XV, §§1547(b)(1)(A)(i), (B), 1549(a), Dec. 27, 2021, 135 Stat. 2060, 2061, 2063.)
+(Pub. L. 107–296, title XXII, §2202, as added Pub. L. 115–278, §2(a), Nov. 16, 2018, 132 Stat. 4169; amended Pub. L. 116–260, div. U, title IX, §904(b)(1)(A), Dec. 27, 2020, 134 Stat. 2298; Pub. L. 116–283, div. A, title XVII, §§1717(a)(1)(A), 1719(a), (b), div. H, title XC, §§9001(a), 9002(c)(2)(D), Jan. 1, 2021, 134 Stat. 4099, 4105, 4766, 4773; Pub. L. 117–81, div. A, title XV, §§1547(b)(1)(A)(i), (B), 1549(a), Dec. 27, 2021, 135 Stat. 2060, 2061, 2063; Pub. L. 117–263, div. G, title LXXI, §7143(a)(1), (b)(2)(C), (c)(5), Dec. 23, 2022, 136 Stat. 3654, 3659, 3663.)
 
 #### <b>Editorial Notes</b>
 
@@ -249,6 +249,18 @@ The Cybersecurity Act of 2015, referred to in subsec. (c)(3), is div. N of Pub. 
 This chapter, referred to in subsecs. (c)(7) and (e)(1)(J), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, §7143(a)(1), made amendment identical to that made by Pub. L. 117–81, §1547(b)(1)(B). See 2021 Amendment note below.
+
+Subsec. (a)(1). Pub. L. 117–263, §7143(b)(2)(C)(i), which directed striking out "(in this part referred to as the Agency)", was executed by striking out "(in this part referred to as the 'Agency')" before period at end, to reflect the probable intent of Congress.
+
+Subsec. (b)(1). Pub. L. 117–263, §7143(b)(2)(C)(ii), substituted "the Director" for "a Director of Cybersecurity and Infrastructure Security (in this part referred to as the 'Director')".
+
+Subsec. (b)(3). Pub. L. 117–263, §7143(c)(5)(A), substituted "Director of the Cybersecurity and Infrastructure Security Agency" for "Director of Cybersecurity and Infrastructure Security of the Department".
+
+Subsec. (d). Pub. L. 117–263, §7143(c)(5)(B), substituted "Director of the Cybersecurity and Infrastructure Security Agency" for "Director of Cybersecurity and Infrastructure Security" in introductory provisions.
+
+Subsec. (f). Pub. L. 117–263, §7143(b)(2)(C)(iii), inserted "Executive" before "Assistant Director" in pars. (1) to (3).
 
 <b>2021</b>—Pub. L. 117–81, §1547(b)(1)(B), made technical amendment to directory language of Pub. L. 116–260, §904(b)(1). See 2020 Amendment notes below.
 
@@ -264,11 +276,15 @@ Pub. L. 116–283, §1719(b)(3), added par. (11) relating to providing education
 
 Pub. L. 116–283, §1717(a)(1)(A)(iii), added par. (11) relating to appointment of a Cybersecurity State Coordinator. Former par. (11), relating to the .gov internet domain, redesignated (12).
 
-Subsec. (c)(12). Pub. L. 117–81, §1547(b)(1)(A)(i)(II), struck out "and" at end and made technical amendment to reference in original Act which appears in text of par. (12), relating to appointment of a Cybersecurity State Coordinator, as reference to section 665c of this title.
+Subsec. (c)(12). Pub. L. 117–81, §1547(b)(1)(A)(i)(II), struck out "and" at end and made technical amendment to reference in original Act which appears in text as reference to section 665c of this title.
+
+Pub. L. 116–283, §1719(b)(2), redesignated par. (11) relating to appointment of a Cybersecurity State Coordinator as (12).
+
+Pub. L. 116–283, §1717(a)(1)(A)(ii), redesignated par. (11) relating to the .gov internet domain as (12).
 
 Subsec. (c)(13). Pub. L. 117–81, §1547(b)(1)(A)(i)(III), redesignated par. (12) relating to the .gov internet domain as (13).
 
-Subsec. (c)(14). Pub. L. 117–81, §1547(b)(1)(A)(i)(IV), redesignated par. (12) relating to carrying out such other duties and responsibilities as (14).
+Subsec. (c)(14). Pub. L. 117–81, §1547(b)(1)(A)(i)(IV), redesignated par. (12) relating to carrying out such other duties and powers as (14).
 
 Subsec. (e)(1)(R). Pub. L. 116–283, §1719(a), added subpar. (R).
 
@@ -276,13 +292,151 @@ Subsec. (i). Pub. L. 116–283, §9002(c)(2)(D), substituted "Sector Risk Manage
 
 <b>2020</b>—Subsec. (c)(10). Pub. L. 116–260, §904(b)(1)(A)(i), as amended by Pub. L. 117–81, §1547(b)(1)(B), struck out "and" at end.
 
-Subsec. (c)(11), (12). Pub. L. 116–260, §904(b)(1)(A)(ii), (iii), as amended by Pub. L. 117–81, §1547(b)(1)(B), added par. (11) relating to the .gov internet domain and redesignated former par. (11) as (12).
+Subsec. (c)(11), (12). Pub. L. 116–260, §904(b)(1)(A)(ii), (iii), as amended by Pub. L. 117–81, §1547(b)(1)(B), added par. (11) relating to the .gov internet domain and redesignated former par. (11) relating to carrying out such other duties and powers as (12).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. G, title LXXI, §7143(a)(2), Dec. 23, 2022, 136 Stat. 3654, provided that: "The amendment made by paragraph (1) \[amending this section and section 665 of this title\] shall take effect as if enacted as part of the DOTGOV Act of 2020 (title IX of division U of Public Law 116–260)."
+
+#### Construction of 2022 Amendment
+
+Nothing in amendment made by Pub. L. 117–263 to be construed to alter the authorities, responsibilities, functions, or activities of any agency (as such term is defined in 44 U.S.C. 3502) or officer or employee of the United States on or before Dec. 23, 2022, see section 7143(f)(1) of Pub. L. 117–263, set out as a note under section 650 of this title.
 
 #### Construction of 2021 Amendment
 
 Amendment by section 1717(a)(1)(A) of Pub. L. 116–283 not to be construed to affect or otherwise modify the authority of Federal law enforcement agencies with respect to investigations relating to cybersecurity incidents, see section 1717(a)(4) of Pub. L. 116–283, set out as a note under section 665c of this title.
+
+#### National Cybersecurity Preparedness Consortium
+
+Pub. L. 117–122, May 12, 2022, 136 Stat. 1193, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'National Cybersecurity Preparedness Consortium Act of 2021'.
+
+#### "SEC. 2. NATIONAL CYBERSECURITY PREPAREDNESS CONSORTIUM.
+
+"(a)
+
+In General.—The Secretary may work with one or more consortia to support efforts to address cybersecurity risks and incidents.
+
+"(b)
+
+Assistance to DHS.—The Secretary may work with one or more consortia to carry out the Secretary's responsibility pursuant to section 2202(e)(1)(P) of the Homeland Security Act of 2002 (6 U.S.C. 652(e)(1)(P)) to—
+
+&emsp;"(1) provide training and education to State, Tribal, and local first responders and officials specifically for preparing for and responding to cybersecurity risks and incidents, in accordance with applicable law;
+
+&emsp;"(2) develop and update a curriculum utilizing existing training and educational programs and models in accordance with section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659), for State, Tribal, and local first responders and officials, related to cybersecurity risks and incidents;
+
+&emsp;"(3) provide technical assistance services, training, and educational programs to build and sustain capabilities in support of preparedness for and response to cybersecurity risks and incidents, including threats of acts of terrorism, in accordance with such section 2209;
+
+&emsp;"(4) conduct cross-sector cybersecurity training, education, and simulation exercises for entities, including State and local governments and Tribal organizations, critical infrastructure owners and operators, and private industry, to encourage community-wide coordination in defending against and responding to cybersecurity risks and incidents, in accordance with section 2210(c) of the Homeland Security Act of 2002 (6 U.S.C. 660(c));
+
+&emsp;"(5) help States, Tribal organizations, and communities develop cybersecurity information sharing programs, in accordance with section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659), for the dissemination of homeland security information related to cybersecurity risks and incidents;
+
+&emsp;"(6) help incorporate cybersecurity risk and incident prevention and response into existing State, Tribal, and local emergency plans, including continuity of operations plans; and
+
+&emsp;"(7) assist State governments and Tribal organizations in developing cybersecurity plans.
+
+"(c)
+
+Considerations Regarding Selection of a Consortium.—In selecting a consortium with which to work under this Act, the Secretary shall take into consideration the following:
+
+&emsp;"(1) Prior experience conducting cybersecurity training, education, and exercises for State and local entities.
+
+&emsp;"(2) Geographic diversity of the members of any such consortium so as to maximize coverage of the different regions of the United States.
+
+&emsp;"(3) The participation in such consortium of one or more historically Black colleges and universities, Hispanic-serving institutions, Tribal Colleges and Universities, other minority-serving institutions, and community colleges that participate in the National Centers of Excellence in Cybersecurity program, as carried out by the Department of Homeland Security.
+
+"(d)
+
+Metrics.—If the Secretary works with a consortium under subsection (a), the Secretary shall measure the effectiveness of the activities undertaken by the consortium under this Act.
+
+"(e)
+
+Outreach.—The Secretary shall conduct outreach to universities and colleges, including, in particular, outreach to historically Black colleges and universities, Hispanic-serving institutions, Tribal Colleges and Universities, other minority-serving institutions, and community colleges, regarding opportunities to support efforts to address cybersecurity risks and incidents, by working with the Secretary under subsection (a).
+
+"(f)
+
+Rule of Construction.—Nothing in this section may be construed to authorize a consortium to control or direct any law enforcement agency in the exercise of the duties of the law enforcement agency.
+
+"(g)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'community college' has the meaning given the term 'junior or community college' in section 312 of the Higher Education Act of 1965 (20 U.S.C. 1058);
+
+&emsp;"(2) the term 'consortium' means a group primarily composed of nonprofit entities, including academic institutions, that develop, update, and deliver cybersecurity training and education in support of homeland security;
+
+&emsp;"(3) the terms 'cybersecurity risk' and 'incident' have the meanings given those terms in section 2209(a) of the Homeland Security Act of 2002 (6 U.S.C. 659(a)) \[see 6 U.S.C. 650(7), (12)\];
+
+&emsp;"(4) the term 'Department' means the Department of Homeland Security;
+
+&emsp;"(5) the term 'Hispanic-serving institution' has the meaning given the term in section 502 of the Higher Education Act of 1965 (20 U.S.C. 1101a);
+
+&emsp;"(6) the term 'historically Black college and university' has the meaning given the term 'part B institution' in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061);
+
+&emsp;"(7) the term 'minority-serving institution' means an institution of higher education described in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a));
+
+&emsp;"(8) the term 'Secretary' means the Secretary of Homeland Security;
+
+&emsp;"(9) The term 'State' means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States;
+
+&emsp;"(10) the term 'Tribal Colleges and Universities' has the meaning given the term in section 316 of the Higher Education Act of 1965 (20 U.S.C. 1059c); and
+
+&emsp;"(11) the term 'Tribal organization' has the meaning given the term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e))."
+
+#### Ransomware Vulnerability Warning Pilot Program
+
+Pub. L. 117–103, div. Y, §105, Mar. 15, 2022, 136 Stat. 1055, provided that:
+
+"(a)
+
+Program.—Not later than 1 year after the date of enactment of this Act \[Mar. 15, 2022\], the Director \[of the Cybersecurity and Infrastructure Security Agency\] shall establish a ransomware vulnerability warning pilot program to leverage existing authorities and technology to specifically develop processes and procedures for, and to dedicate resources to, identifying information systems that contain security vulnerabilities associated with common ransomware attacks, and to notify the owners of those vulnerable systems of their security vulnerability.
+
+"(b)
+
+Identification of Vulnerable Systems.—The pilot program established under subsection (a) shall—
+
+&emsp;"(1) identify the most common security vulnerabilities utilized in ransomware attacks and mitigation techniques; and
+
+&emsp;"(2) utilize existing authorities to identify information systems that contain the security vulnerabilities identified in paragraph (1).
+
+"(c)
+
+Entity Notification.—
+
+&emsp;"(1)
+
+Identification.—If the Director is able to identify the entity at risk that owns or operates a vulnerable information system identified in subsection (b), the Director may notify the owner of the information system.
+
+&emsp;"(2)
+
+No identification.—If the Director is not able to identify the entity at risk that owns or operates a vulnerable information system identified in subsection (b), the Director may utilize the subpoena authority pursuant to section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659) to identify and notify the entity at risk pursuant to the procedures under that section.
+
+&emsp;"(3)
+
+Required information.—A notification made under paragraph (1) shall include information on the identified security vulnerability and mitigation techniques.
+
+"(d)
+
+Prioritization of Notifications.—To the extent practicable, the Director shall prioritize covered entities for identification and notification activities under the pilot program established under this section.
+
+"(e)
+
+Limitation on Procedures.—No procedure, notification, or other authorities utilized in the execution of the pilot program established under subsection (a) shall require an owner or operator of a vulnerable information system to take any action as a result of a notice of a security vulnerability made pursuant to subsection (c).
+
+"(f)
+
+Rule of Construction.—Nothing in this section shall be construed to provide additional authorities to the Director to identify vulnerabilities or vulnerable systems.
+
+"(g)
+
+Termination.—The pilot program established under subsection (a) shall terminate on the date that is 4 years after the date of enactment of this Act."
+
+\[For definitions of terms used in section 105 of div. Y of Pub. L. 117–103, set out above, see section 681 of this title, as made applicable by section 102(1) of div. Y of Pub. L. 117–103, which is set out as a note under section 665j of this title, and see section 650 of this title, as made applicable by section 7143(f)(2) of div. G of Pub. L. 117–263, which is set out as a note under section 650 of this title.\]
 
 #### Pilot Program on Public-Private Partnerships With Internet Ecosystem Companies To Detect and Disrupt Adversary Cyber Operations
 
@@ -334,7 +488,7 @@ Authorized Activities.—In carrying out the pilot program under subsection (a),
 
 "(d)
 
-Competition Concerns.—Consistent with section 1905 of title 18, United States Code, the Secretary shall ensure that any trade secret or proprietary information of a participating internet ecosystem company made known to the Federal Government pursuant to a public-private partnership under the pilot program remains private and protected unless explicitly authorized by such company.
+Competition Concerns.—Consistent with section 1905 of title 18, United States Code, the Secretary shallensure that any trade secret or proprietary information of a participating internet ecosystem company made known to the Federal Government pursuant to a public-private partnership under the pilot program remains private and protected unless explicitly authorized by such company.
 
 "(e)
 
@@ -488,7 +642,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Cybersecurity risk.—The term 'cybersecurity risk' has the meaning given the term in section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659).
+Cybersecurity risk.—The term 'cybersecurity risk' has the meaning given the term in section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659) \[see 6 U.S.C. 650\].
 
 &emsp;"(2)
 
@@ -576,7 +730,7 @@ In general.—In the course of the conduction of the study required under subsec
 
 &emsp;"(2)
 
-Inapplicability of faca.—The Federal Advisory Committee Act (5 U.S.C App.) shall not apply to any consultation under paragraph (1)."
+Inapplicability of faca.—The Federal Advisory Committee Act (\[former\] 5 U.S.C App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to any consultation under paragraph (1)."
 
 #### Under Secretary Responsible for Overseeing Critical Infrastructure Protection, Cybersecurity and Related Programs Authorized To Serve as Director of Cybersecurity and Infrastructure Security
 

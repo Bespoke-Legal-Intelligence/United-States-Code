@@ -12,7 +12,7 @@
 
 &emsp;(3) the availability and reliability of data concerning Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands, and the extent to which such territories may properly be made part of the regular allocation system applicable to the several States.
 
-> The results of such investigation shall be submitted to the Congress not later than March 1, 1978, in order that such results may be available during congressional consideration of any extension of this chapter beyond the fiscal year ending September 30, 1978.
+> The results of such investigation shall be submitted to the Congress not later than March 1,1978, in order that such results may be available during congressional consideration of any extension of this chapter beyond the fiscal year ending September 30, 1978.
 
 (Pub. L. 94–369, title II, §215, July 22, 1976, 90 Stat. 1010; Pub. L. 95–30, title VI, §606, May 23, 1977, 91 Stat. 167.)
 

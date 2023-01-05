@@ -52,7 +52,7 @@ Amount of insurance.—For the total claims related to one launch or reentry, a 
 
 &emsp;(4)
 
-Coverage.—An insurance policy or demonstration of financial responsibility underthis subsection shall protect the following, to the extent of their potential liability for involvement in launch services or reentry services:
+Coverage.—An insurance policy or demonstration of financial responsibility under this subsection shall protect the following, to the extent of their potential liability for involvement in launch services or reentry services:
 
 &emsp;&emsp;(A) The Government.
 

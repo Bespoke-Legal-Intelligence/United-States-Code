@@ -8,7 +8,7 @@ Not later than 2 years after October 17, 2000, the Secretary shall, after consul
 
 The report under subsection (a) shall be based on data collected from existing Federal and State surveys regarding the treatment of co-occurring mental illness and substance abuse disorders and shall include—
 
-&emsp;(1) a summary of the manner in which individuals with co-occurring disorders are receiving treatment, including the most up-to-date information available regarding the number of children and adults with co-occurring mental illness and substance abuse disorders and the manner in which funds provided under sections 300x and 300x–21 of this title are beingutilized, including the number of such children and adults served with such funds;
+&emsp;(1) a summary of the manner in which individuals with co-occurring disorders are receiving treatment, including the most up-to-date information available regarding the number of children and adults with co-occurring mental illness and substance abuse disorders and the manner in which funds provided under sections 300x and 300x–21 of this title are being utilized, including the number of such children and adults served with such funds;
 
 &emsp;(2) a summary of improvements necessary to ensure that individuals with co-occurring mental illness and substance abuse disorders receive the services they need;
 
@@ -26,5 +26,5 @@ The Secretary may obligate funds to carry out this section with such appropriati
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over mattersrelating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

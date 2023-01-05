@@ -24,7 +24,7 @@
 
 (B) Persons eligible for coverage under subparagraph (A) shall be limited to:
 
-&emsp;(i) persons who retired from active employment at one of the gaseous diffusion plants onor before the privatization date as vested participants in a pension plan maintained either by the Corporation's operating contractor or by a contractor employed prior to July 1, 1993, by the Department of Energy to operate a gaseous diffusion plant; and
+&emsp;(i) persons who retired from active employment at one of the gaseous diffusion plants on or before the privatization date as vested participants in a pension plan maintained either by the Corporation's operating contractor or by a contractor employed prior to July 1, 1993, by the Department of Energy to operate a gaseous diffusion plant; and
 
 &emsp;(ii) persons who are employed by the Corporation's operating contractor on or before the privatization date and are vested participants in a pension plan maintained either by the Corporation's operating contractor or by a contractor employed prior to July 1, 1993, by the Department of Energy to operate a gaseous diffusion plant.
 
@@ -36,7 +36,7 @@
 
 (B) Any charge under this subsection alleging an unfair labor practice violative of section 8 of the National Labor Relations Act (29 U.S.C. 158) shall be pursued in accordance with section 10 of the National Labor Relations Act (29 U.S.C. 160).
 
-(C) Any suit alleging a violation of any provision of this subsection, to the extent it does not allege a violation of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], may be brought in any district court of the United States having jurisdiction over the parties, without regard to the amount in controversy or the citizenship of the parties.
+(C) Any suit alleging a violation of any provision of this subsection, to the extent it does not allege a violation of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], may be brought in any district court of the United States havingjurisdiction over the parties, without regard to the amount in controversy or the citizenship of the parties.
 
 (8)
 
@@ -86,7 +86,7 @@ Continuity of benefits.—To the extent appropriations are provided in advance f
 
 #### References in Text
 
-The National Labor Relations Act, referred to in subsec. (a)(3), (7)(C), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+The National Labor Relations Act, referred to in subsec. (a)(3), (7)(C), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
 Sections 3161 and 3162 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (a)(5), were classified to sections 7274h and 7274i, respectively, of this title and were renumbered sections 4604 and 4643, respectively, of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(5)(A)–(C), (14)(A)–(C), Nov. 24, 2003, 117 Stat. 1777, 1779, 1780, which are classified to sections 2704 and 2733, respectively, of Title 50, War and National Defense.
 

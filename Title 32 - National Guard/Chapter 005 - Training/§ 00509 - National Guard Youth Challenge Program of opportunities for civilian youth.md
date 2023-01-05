@@ -32,7 +32,7 @@ Matching Funds Required.—(1) The amount of assistance provided by the Secretar
 
 (e)
 
-Persons Eligible To Participate in Program.—A school dropout from secondary school shall be eligible to participate in the Program. The Secretary of Defense shall prescribe the standards and procedures for selecting participants from among school dropouts.
+Persons Eligible To Participate in Program.—A school dropout from secondary schoolshall be eligible to participate in the Program. The Secretary of Defense shall prescribe the standards and procedures for selecting participants from among school dropouts.
 
 (f)
 
@@ -68,7 +68,7 @@ Program Personnel.—(1) Personnel of the National Guard of a State in which the
 
 (h)
 
-Equipment and Facilities.—(1) Equipment and facilities of the National Guard, including military property of the United States issued tothe National Guard, may be used in carrying out the Program.
+Equipment and Facilities.—(1) Equipment and facilities of the National Guard, including military property of the United States issued to the National Guard, may be used in carrying out the Program.
 
 (2) Equipment and facilities of the Department of Defense may be used by the National Guard for purposes of carrying out the Program.
 
@@ -134,7 +134,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (f)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle E of title I of the Act is classified generally to division E (§12611 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (f)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle E of title I of the Act is classified generally to division E (§12611 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
 

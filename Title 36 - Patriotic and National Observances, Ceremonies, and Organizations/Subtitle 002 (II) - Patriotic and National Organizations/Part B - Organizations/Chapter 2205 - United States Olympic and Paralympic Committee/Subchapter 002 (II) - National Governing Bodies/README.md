@@ -15,3 +15,4 @@
 - [&sect; 220528 - Applications to replace an incumbent national governing body](%C2%A7%20220528%20-%20Applications%20to%20replace%20an%20incumbent%20national%20governing%20body.md)
 - [&sect; 220529 - Arbitration of corporation determinations](%C2%A7%20220529%20-%20Arbitration%20of%20corporation%20determinations.md)
 - [&sect; 220530 - Other amateur sports organizations](%C2%A7%20220530%20-%20Other%20amateur%20sports%20organizations.md)
+- [&sect; 220530A - Annual report on equal treatment of athletes](%C2%A7%20220530A%20-%20Annual%20report%20on%20equal%20treatment%20of%20athletes.md)

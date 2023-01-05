@@ -94,7 +94,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (5) Treatment of charter schools and their students
 
-&emsp;In carrying out this subchapter with respect to charter schools that are public schools ofthe local educational agency, the local educational agency—
+&emsp;In carrying out this subchapter with respect to charter schools that are public schools of the local educational agency, the local educational agency—
 
 &emsp;&emsp;(A) serves children with disabilities attending those charter schools in the same manner as the local educational agency serves children with disabilities in its other schools, including providing supplementary and related services on site at the charter school to the same extent to which the local educational agency has a policy or practice of providing such services on the site to its other public schools; and
 
@@ -108,7 +108,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 2 years after December 3, 2004, a local educational agency that chooses to coordinate with the National Instructional Materials Access Center, when purchasing print instructional materials, shall acquire the print instructional materials in the same manner and subject to the same conditions as a State educational agency acquires print instructional materials under section 1412(a)(23) of this title.
+&emsp;&emsp;Not later than 2 years after December 3, 2004, a local educational agency that chooses to coordinate with the National Instructional Materials Access Center, when purchasing print instructional materials, shall acquire the print instructional materials in the same manner and subject to the sameconditions as a State educational agency acquires print instructional materials under section 1412(a)(23) of this title.
 
 #### (B) Rights of local educational agency
 
@@ -148,7 +148,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (1) In general
 
-&emsp;If the State educational agency, after reasonable notice and an opportunity for a hearing, finds that a local educational agency or State agency that has been determined to be eligible under this section is failing to comply with any requirement described in subsection\(a), the State educational agency shall reduce or shall not provide any further payments to the local educational agency or State agency until the State educational agency is satisfied that the local educational agency or State agency, as the case may be, is complying with that requirement.
+&emsp;If the State educational agency, after reasonable notice and an opportunity for a hearing, finds that a local educational agency or State agency that has been determined to be eligible under this section is failing to comply with any requirement described in subsection (a), the State educational agency shall reduce or shall not provide any further payments to the local educational agency or State agency until the State educational agency is satisfied that the local educational agency or State agency, as the case may be, is complying with that requirement.
 
 #### (2) Additional requirement
 
@@ -164,7 +164,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (A) In general
 
-&emsp;&emsp;A State educational agency may require a local educational agency to establish its eligibility jointly with another local educational agency if the State educational agency determines that the local educational agency will be ineligible under this section because the local educational agency will not be able to establish and maintain programs of sufficient size and scope to effectively meet the needs of children with disabilities.
+&emsp;&emsp;A State educational agency may require a local educational agency to establish its eligibility jointly with another local educational agency if the State educational agency determines that the local educational agency will be ineligible under thissection because the local educational agency will not be able to establish and maintain programs of sufficient size and scope to effectively meet the needs of children with disabilities.
 
 #### (B) Charter school exception
 
@@ -220,7 +220,7 @@ If the State educational agency determines that a local educational agency or St
 
 &emsp;&emsp;(A) the number of students served under this subsection; and
 
-&emsp;&emsp;(B) the number of students served under this subsection who subsequently receive special education and related services underthis chapter during the preceding 2-year period.
+&emsp;&emsp;(B) the number of students served under this subsection who subsequently receive special education and related services under this chapter during the preceding 2-year period.
 
 #### (5) Coordination with Elementary and Secondary Education Act of 1965
 
@@ -232,7 +232,7 @@ If the State educational agency determines that a local educational agency or St
 
 &emsp;A State educational agency shall use the payments that would otherwise have been available to a local educational agency or to a State agency to provide special education and related services directly to children with disabilities residing in the area served by that local educational agency, or for whom that State agency is responsible, if the State educational agency determines that the local educational agency or State agency, as the case may be—
 
-&emsp;&emsp;(A) has not provided the information needed to establish the eligibility of such local educational agency or State agency under this section;
+&emsp;&emsp;(A) has not provided the information needed to establish the eligibility of such localeducational agency or State agency under this section;
 
 &emsp;&emsp;(B) is unable to establish and maintain programs of free appropriate public education that meet the requirements of subsection (a);
 
@@ -272,7 +272,7 @@ The State may require that a local educational agency include in the records of 
 
 #### (4) Report
 
-&emsp;For each fiscal year for which a State educational agency exercises the authority under paragraph (1), the State educational agency shall report to the Secretary the amount ofexpenditures reduced pursuant to such paragraph and the activities that were funded pursuant to paragraph (3).
+&emsp;For each fiscal year for which a State educational agency exercises the authority under paragraph (1), the State educational agency shall report to the Secretary the amount of expenditures reduced pursuant to such paragraph and the activities that were funded pursuant to paragraph (3).
 
 #### (5) Limitation
 
@@ -284,7 +284,7 @@ The State may require that a local educational agency include in the records of 
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(C)(ii), (f)(5), and (j)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(C)(ii), (f)(5), and (j)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 For the effective date of the Individuals with Disabilities Education Improvement Act of 2004, referred to in subsec. (b)(1), (3), see section 302(a), (b) of Pub. L. 108–446, set out as an Effective Date note under section 1400 of this title.
 

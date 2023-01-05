@@ -24,9 +24,9 @@ This part does not apply to information exchange activities conducted by agencie
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Codification
 
@@ -60,7 +60,7 @@ Subsec. (f). Pub. L. 104–132, §328(a)(3), struck out subsec. (f) which read a
 
 "(2) Personnel of the United States Government authorized to advise eligible foreign countries on antiterrorism matters shall carry out their responsibilities, to the maximum extent possible, within the United States. Such personnel may provide advice outside the United States on antiterrorism matters to eligible foreign countries for periods not to exceed thirty consecutive calendar days.
 
-"(3) Employees of the Department of State shall not engage in the training of law enforcement personnel or provision of services under this part, except that employees of the Office of Security of the Department of State may provide training and services to law enforcement personnel for the physical protection of internationally protected persons and related facilities."
+"(3) Employees of the Department of State shall not engage in the training of law enforcement personnel orprovision of services under this part, except that employees of the Office of Security of the Department of State may provide training and services to law enforcement personnel for the physical protection of internationally protected persons and related facilities."
 
 <b>1986</b>—Subsec. (d)(4). Pub. L. 99–399, in amending par. (4) generally, included articles in category X and articles in par. (b), (c), or (d) of category XIII as articles on the United States Munitions List which could be made available, struck out availability of articles only for fiscal years 1986 and 1987, substituted provision that the value in any fiscal year not exceed 25 percent of the funds available to carry out this part for that fiscal year for provision that the value not exceed $325,000 in fiscal year 1986 or 1987, and provided that no shock batons or similar devices be provided under this part.
 
@@ -86,5 +86,5 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

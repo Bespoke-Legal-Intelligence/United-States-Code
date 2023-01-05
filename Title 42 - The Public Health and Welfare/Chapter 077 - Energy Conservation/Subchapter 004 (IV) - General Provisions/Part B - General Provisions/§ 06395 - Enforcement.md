@@ -14,7 +14,7 @@ Any person who knowingly and willfully violates section 6394 of this title with 
 
 #### (d) Injunction action by Attorney General
 
-Whenever it appears to any officer or agency of the United States in whom is vested, or to whom is delegated, authority under this chapterthat any person has engaged, is engaged, or is about to engage in acts or practices constituting a violation of section 6394 of this title, such officer or agency may request the Attorney General to bring an action in an appropriate district court of the United States to enjoin such acts or practices, and upon a proper showing a temporary restraining order or a preliminary or permanent injunction shall be granted without bond. Any such court may also issue mandatory injunctions commanding any person to comply with any rule, regulation, or order described in section 6394 of this title.
+Whenever it appears to any officer or agency of the United States in whom is vested, or to whom is delegated, authority under this chapter that any person has engaged, is engaged, or is about to engage in acts or practices constituting a violation of section 6394 of this title, such officer or agency may request the Attorney General to bring an action in an appropriate district court of the United States to enjoin such acts or practices, and upon a proper showing a temporary restraining order or a preliminary or permanent injunction shall be granted without bond. Any such court may also issue mandatory injunctions commanding any person to comply with any rule, regulation, or order described in section 6394 of this title.
 
 #### (e) Private right of action
 
@@ -40,7 +40,7 @@ Whenever it appears to any officer or agency of the United States in whom is ves
 
 #### References in Text
 
-This chapter, referred to in subsecs. (d) and (e), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsecs. (d) and (e), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 Section 6262 of this title, referred to in subsec. (e)(2)(A), was repealed by Pub. L. 106–469, title I, §104(1), Nov. 9, 2000, 114 Stat. 2033.
 

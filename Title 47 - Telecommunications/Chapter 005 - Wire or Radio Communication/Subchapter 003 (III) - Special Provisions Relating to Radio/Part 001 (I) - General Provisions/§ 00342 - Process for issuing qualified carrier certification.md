@@ -22,7 +22,7 @@ Any entity seeking the certification provided for in subsection (a) shall submit
 
 &emsp;&emsp;(A) Identification of each such designated market area and the location of its local receive facility.
 
-&emsp;&emsp;(B) Data showing the number of households, and maps showing the geographic distribution thereof, in each such designatedmarket area based on the most recent census data released by the United States Census Bureau.
+&emsp;&emsp;(B) Data showing the number of households, and maps showing the geographic distribution thereof, in each such designated market area based on the most recent census data released by the United States Census Bureau.
 
 &emsp;&emsp;(C) Maps, with superimposed effective isotropically radiated power predictions obtained in the satellite manufacturer's pre-launch tests, showing that the contours of the carrier's satellite beams as designed and the geographic area that the carrier's satellite beams are designed to cover are predicted to provide a good quality satellite signal to at least 90 percent of the households in such designated market area based on the most recent census data released by the United States Census Bureau.
 

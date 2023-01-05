@@ -186,7 +186,7 @@ Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (g)(2). Pub. L. 113–188 substituted "The Comptroller General shall make each list availablethrough the public website of the Government Accountability Office." for "A copy of each list shall be sent to each committee of Congress and each member of Congress." and inserted "of Congress" after "committee or member".
+<b>2014</b>—Subsec. (g)(2). Pub. L. 113–188 substituted "The Comptroller General shall make each list available through the public website of the Government Accountability Office." for "A copy of each list shall be sent to each committee of Congress and each member of Congress." and inserted "of Congress" after "committee or member".
 
 <b>2004</b>—Subsec. (b)(1)(C), (3). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
@@ -213,6 +213,24 @@ Committee on Government Operations of House of Representatives treated as referr
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsecs. (a) and (g)(2) (1st sentence) of this section are listed on pages 9 and 7, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Reporting Requirements
+
+Pub. L. 117–263, div. G, title LXXII, §7211, Dec. 23, 2022, 136 Stat. 3668, provided that:
+
+"(a)
+
+In General.—The Comptroller General of the United States shall, as part of the Comptroller General's annual reporting to committees of Congress—
+
+&emsp;"(1) consolidate Matters for Congressional Consideration from the Government Accountability Office in one report organized by policy topic that includes the amount of time such Matters have been unimplemented and submit such report to congressional leadership and the oversight committees of each House;
+
+&emsp;"(2) with respect to the annual letters sent by the Comptroller General to individual agency heads and relevant congressional committees on the status of unimplemented priority recommendations, identify any additional congressional oversight actions that can help agencies implement such priority recommendations and address any underlying issues relating to such implementation;
+
+&emsp;"(3) make publicly available the information described in paragraphs (1) and (2); and
+
+&emsp;"(4) publish any known costs of unimplemented priority recommendations, if applicable.
+
+"(b)
+
+Rule of Construction.—Nothing in this section shall be construed to require reporting relating to unimplemented priority recommendations or any other report, recommendation, information, or item relating to any element of the intelligence community, as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
 
 Pub. L. 108–271, §11, July 7, 2004, 118 Stat. 815, provided that:
 

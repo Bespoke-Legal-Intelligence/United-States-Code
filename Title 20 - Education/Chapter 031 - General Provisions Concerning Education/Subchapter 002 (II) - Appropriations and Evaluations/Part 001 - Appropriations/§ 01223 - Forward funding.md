@@ -24,5 +24,5 @@ A prior section 420 of Pub. L. 90–247 was renumbered section 426, and was clas
 
 Pub. L. 93–380, title VIII, §802, Aug. 21, 1974, 88 Stat. 597, provided that: "The Congress declares it to be the policy of the United States to implement immediately and continually section 411 \[now 420\] of the General Education Provisions Act \[this section\], relating to advance funding for education programs, so as to afford responsible State, local, and Federal officers adequate notice of available Federal financial assistance for education authorized under this \[Act, Pub. L. 93–380, see Short Title of 1974 Amendment note set out under section 6301 of this title\] and other Acts of Congress."
 
-Provision effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as an Effective Date note under section 1221–1 of this title.
+Provision effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set outas an Effective Date note under section 1221–1 of this title.
 

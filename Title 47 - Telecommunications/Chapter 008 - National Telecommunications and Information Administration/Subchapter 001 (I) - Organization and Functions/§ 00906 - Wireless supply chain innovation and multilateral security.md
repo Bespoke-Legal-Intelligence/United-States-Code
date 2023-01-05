@@ -60,7 +60,7 @@
 
 #### (i) Establishment
 
-&emsp;&emsp;&emsp;The Secretary, acting through the NTIA Administrator, and in consultation with the Under Secretary of Commerce for Standards and Technology, shall establish a Federal advisory committee, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), composed of government and private sector experts, to advise the Secretary and the NTIA Administrator on the administration of the Innovation Fund.
+&emsp;&emsp;&emsp;The Secretary, acting through the NTIA Administrator, and in consultation with the Under Secretary of Commerce for Standards and Technology, shall establish a Federal advisory committee, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.),<sup>1</sup> composed of government and private sector experts, to advise the Secretary and the NTIA Administrator on the administration of the Innovation Fund.
 
 #### (ii) Composition
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;For each fiscal year for which amounts in the Innovation Fund are available under this paragraph, the Secretary, acting through the NTIA Administrator, shall submit to Congress a report that—
 
-&emsp;&emsp;&emsp;&emsp;(I) describes how, and to whom, amounts in the Innovation Fund have been deployed;
+&emsp;&emsp;&emsp;&emsp;(I) describes how, and to whom (including whether recipients are majority owned and controlled by minority individuals and majority owned and controlled by women), amounts in the Innovation Fund have been deployed;
 
 &emsp;&emsp;&emsp;&emsp;(II) details the progress of the Secretary and the NTIA Administrator in meeting the objectives described in subparagraph (C); and
 
@@ -260,15 +260,21 @@ In this section:
 
 &emsp;(7) The term "Secretary" means the Secretary of Commerce.
 
-(Pub. L. 116–283, div. H, title XCII, §9202, Jan. 1, 2021, 134 Stat. 4788.)
+(Pub. L. 116–283, div. H, title XCII, §9202, Jan. 1, 2021, 134 Stat. 4788; Pub. L. 117–167, div. A, §105(b), Aug. 9, 2022, 136 Stat. 1392.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(1)(F)(i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(1)(F)(i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Codification
 
 Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 and not as part of the National Telecommunications and Information Administration Organization Act which comprises this chapter.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(G)(ii)(I). Pub. L. 117–167 inserted "(including whether recipients are majority owned and controlled by minority individuals and majority owned and controlled by women)" after "to whom".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

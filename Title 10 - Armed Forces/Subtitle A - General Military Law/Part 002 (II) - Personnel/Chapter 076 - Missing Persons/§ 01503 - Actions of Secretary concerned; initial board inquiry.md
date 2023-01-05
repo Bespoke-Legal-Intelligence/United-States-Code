@@ -6,7 +6,7 @@ Determination by Secretary.—Upon receiving a recommendation under section 1502
 
 (b)
 
-Inquiries Involving More Than One Missing Person.—If it appears to the Secretary whoappoints a board under this section that the absence or missing status of two or more persons is factually related, the Secretary may appoint a single board under this section to conduct the inquiry into the whereabouts and status of all such persons.
+Inquiries Involving More Than One Missing Person.—If it appears to the Secretary who appoints a board under this section that the absence or missing status of two or more persons is factually related, the Secretary may appoint a single board under this section to conduct the inquiry into the whereabouts and status of all such persons.
 
 (c)
 
@@ -58,7 +58,7 @@ Counsel for Missing Person.—(1) The Secretary appointing a board to conduct an
 
 &emsp;(B) have a security clearance that affords the counsel access to all information relating to the whereabouts and status of the person or persons covered by the inquiry; and
 
-&emsp;(C) have expertise in the law relating to missing persons, the determination of the death of such persons, and the rights of family members and dependents of such persons.
+&emsp;(C) have expertise in the law relating to missing persons, the determination of thedeath of such persons, and the rights of family members and dependents of such persons.
 
 (3) A missing person's counsel—
 

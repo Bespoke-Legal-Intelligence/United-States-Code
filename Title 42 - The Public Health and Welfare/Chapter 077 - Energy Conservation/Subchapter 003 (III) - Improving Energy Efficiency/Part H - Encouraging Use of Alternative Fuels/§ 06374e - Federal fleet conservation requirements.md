@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The regulations under subsection (a) shall require each Federal agency to develop a plan, and implement the measures specified in the plan by dates specified in the plan, to meet the required petroleum reduction levels and the alternative fuel consumption increases, including the milestones specified by the Secretary.
+&emsp;&emsp;The regulations under subsection (a) shall require each Federal agency to develop a plan, and implement the measures specifiedin the plan by dates specified in the plan, to meet the required petroleum reduction levels and the alternative fuel consumption increases, including the milestones specified by the Secretary.
 
 #### (B) Inclusions
 

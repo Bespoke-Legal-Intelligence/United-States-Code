@@ -22,7 +22,7 @@ It is the policy of Congress that—
 
 #### (c) Appointment and compensation of Director, Deputy Director, and other necessary personnel; minimum grade for Senior Specialists; classification above GS–15 of Specialists and Senior Specialists; appointment without regard to civil service laws and political affiliation and on basis of fitness to perform duties
 
-(1) After consultation with the Joint Committee on the Library, the Librarian of Congress shall appoint the Director of the Congressional Research Service. The Director shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title.
+(1) After consultation with the Joint Committee on the Library, the Librarian of Congress shall appoint the Director of the CongressionalResearch Service. The Director shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title.
 
 (2) The Librarian of Congress, upon the recommendation of the Director, shall appoint a Deputy Director of the Congressional Research Service and all other necessary personnel thereof. The basic pay of the Deputy Director shall be fixed in accordance with chapter 51 (relating to classification) and section 5376 of title 5. The basic pay of all other necessary personnel of the Congressional Research Service shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, except that—
 
@@ -146,7 +146,7 @@ The Director of the Congressional Research Service will submit to the Librarian 
 
 #### (i) Special report to Joint Committee on the Library
 
-The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the Congressional Research Service for the immediately preceding fiscal year, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 <sup>1</sup> of the Legislative Branch Appropriations Act, 2018.
+The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the CongressionalResearch Service for the immediately preceding fiscal year, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 <sup>1</sup> of the Legislative Branch Appropriations Act, 2018.
 
 #### (j) Authorization of appropriations
 
@@ -166,7 +166,7 @@ Section 124 of the Legislative Branch Appropriations Act, 2018, referred to in s
 
 Subsec. (c)(2). Pub. L. 116–94, §1404(b)(1)(A), substituted "section 5376 of title 5." for "subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, but without regard to section 5108(a) of such title." in introductory provisions.
 
-Subsec. (c)(2)(B). Pub. L. 116–94, §1404(b)(1)(B), substituted "may be classified above GS–15 in accordancewith section 5108(c) of title 5, and the rate of basic pay for such positions may be fixed in accordance with section 5376 of such title, subject to the prior approval of the Joint Committee on the Library." for "may be placed in GS–16, 17, and 18 of the General Schedule of section 5332 of title 5, without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades."
+Subsec. (c)(2)(B). Pub. L. 116–94, §1404(b)(1)(B), substituted "may be classified above GS–15 in accordance with section 5108(c) of title 5, and the rate of basic pay for such positions may be fixed in accordance with section 5376 of such title, subject to the prior approval of the Joint Committee on the Library." for "may be placed in GS–16, 17, and 18 of the General Schedule of section 5332 of title 5, without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades."
 
 <b>2018</b>—Subsec. (d)(9). Pub. L. 115–141, §154(d), added par. (9).
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 106–57 applicable with respect to the first pay period wh
 
 #### Effective Date of 1970 Amendment
 
-Amendment of provisions, other than enactment of subsecs. (d)(2), (3) and (i) of this section, and enactment of subsecs. (d)(2), (3) and (i) by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, at the close of the first session of the Ninety-second Congress, andwith respect to fiscal years beginning on or after July 1, 1970, respectively, see section 601(1), (3), and (4) of Pub. L. 91–510, set out as a note under section 4301 of this title.
+Amendment of provisions, other than enactment of subsecs. (d)(2), (3) and (i) of this section, and enactment of subsecs. (d)(2), (3) and (i) by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, at the close of the first session of the Ninety-second Congress, and with respect to fiscal years beginning on or after July 1, 1970, respectively, see section 601(1), (3), and (4) of Pub. L. 91–510, set out as a note under section 4301 of this title.
 
 #### Effective Date
 

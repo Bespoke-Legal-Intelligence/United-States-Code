@@ -106,7 +106,7 @@ Response to waivers.—
 
 &emsp;(i)
 
-Response.—Not later than 60 days after the date of receiving a request for a waiverunder subparagraph (A), the Secretary shall provide a response that—
+Response.—Not later than 60 days after the date of receiving a request for a waiver under subparagraph (A), the Secretary shall provide a response that—
 
 &emsp;&emsp;(I) approves the waiver request;
 
@@ -128,7 +128,7 @@ Notice of denial.—On denial of a waiver request under clause (i)(III), the Sec
 
 (B) Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under section 2015(d) of this title to permit a State to operate an employment and training program for supplemental nutrition assistance program recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F <sup>1</sup> of title IV of the Social Security Act (42 U.S.C. 681 et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) <sup>1</sup> of such Act (42 U.S.C. 682(f)).
 
-(C) A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to "aid to families with dependent children" in such sections shall be deemed to be a reference to supplemental nutrition assistance program benefits for purposes of the demonstration project.
+(C) A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits underclauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to "aid to families with dependent children" in such sections shall be deemed to be a reference to supplemental nutrition assistance program benefits for purposes of the demonstration project.
 
 (D) Notwithstanding the other provisions of this paragraph, participation in an employment and training activity in which supplemental nutrition assistance program benefits are converted to cash shall occur only with the consent of the participant.
 
@@ -210,7 +210,7 @@ The Secretary shall conduct a study of the effects of reductions made in benefit
 
 #### (f) Demonstration projects for development and use of intelligent benefit cards to pay benefits
 
-In order to encourage States to plan, design, develop, and implement a system for making supplemental nutrition assistance program benefits available through the use of intelligentbenefit cards or other automated or electronic benefit delivery systems, the Secretary may conduct one or more pilot or experimental projects, subject to the restrictions imposed by subsection (b)(1) and section 2016(f)(2) of this title, designed to test whether the use of such cards or systems can enhance the efficiency and effectiveness of program operations while ensuring that individuals receive correct benefit amounts on a timely basis. Intelligent benefit cards developed under such a demonstration project shall contain information, encoded on a computer chip embedded in a credit card medium, including the eligibility of the individual and the amount of benefits to which such individual is entitled. Any other automated or electronic benefit delivery system developed under such a demonstration project shall be able to use a plastic card to access such information from a data file.
+In order to encourage States to plan, design, develop, and implement a system for making supplemental nutrition assistance program benefits available through the use of intelligent benefit cards or other automated or electronic benefit delivery systems, the Secretary may conduct one or more pilot or experimental projects, subject to the restrictions imposed by subsection (b)(1) and section 2016(f)(2) of this title, designed to test whether the use of such cards or systems can enhance the efficiency and effectiveness of program operations while ensuring that individuals receive correct benefit amounts on a timely basis. Intelligent benefit cards developed under such a demonstration project shall contain information, encoded on a computer chip embedded in a credit card medium, including the eligibility of the individual and the amount of benefits to which such individual is entitled. Any other automated or electronic benefit delivery system developed under such a demonstration project shall be able to use a plastic card to access such information from a data file.
 
 #### (g) Study of effectiveness of employment and training programs
 
@@ -292,7 +292,7 @@ The Secretary shall use up to $4,000,000 of the funds provided in advance in app
 
 &emsp;&emsp;(E) provide incentives at the point of purchase to encourage households participating in the supplemental nutrition assistance program to purchase fruits, vegetables, or other healthful foods; or
 
-&emsp;&emsp;(F) provide to participating households integrated communication and education programs, including the provision of funding for a portion of a school-based nutrition coordinator to implement a broad nutrition action plan and parent nutrition education programs in elementary schools, separately or in combination with pilot projects carried out under subparagraphs (A) through (E).
+&emsp;&emsp;(F) provide to participating households integrated communication and education programs, including the provision of funding for a portion of a school-based nutrition coordinator to implement a broad nutrition action plan and parent nutrition education programs in elementary schools, separately orin combination with pilot projects carried out under subparagraphs (A) through (E).
 
 #### (4) Evaluation and reporting
 
@@ -740,7 +740,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Amendment by sections 4001(b), 4002(a)(9), 4115(b)(12), 4141, and 4406(a)(5) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+Amendment by sections 4001(b), 4002(a)(9), 4115(b)(12), 4141, and 4406(a)(5) of Pub. L. 110–246 effective Oct. 1,2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 

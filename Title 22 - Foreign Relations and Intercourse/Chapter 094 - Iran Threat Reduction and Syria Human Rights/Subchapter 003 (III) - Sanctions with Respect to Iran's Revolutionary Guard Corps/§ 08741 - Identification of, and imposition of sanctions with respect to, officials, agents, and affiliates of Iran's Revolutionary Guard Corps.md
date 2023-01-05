@@ -10,7 +10,7 @@ Not later than 90 days after August 10, 2012, and as appropriate thereafter, the
 
 &emsp;&emsp;(A) designate that foreign person for the imposition of sanctions pursuant to that Act; and
 
-&emsp;&emsp;(B) block and prohibit all transactions in all property and interests in property of thatforeign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+&emsp;&emsp;(B) block and prohibit all transactions in all property and interests in property of that foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 #### (b) Priority for investigation
 

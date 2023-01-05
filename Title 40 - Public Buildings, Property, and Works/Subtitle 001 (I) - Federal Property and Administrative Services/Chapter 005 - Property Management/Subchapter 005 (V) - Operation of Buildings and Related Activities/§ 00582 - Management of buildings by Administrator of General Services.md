@@ -10,7 +10,7 @@ Transfer of Functions by Director of the Office of Management and Budget.—
 
 &emsp;(1)
 
-In general.—When the Director of the Office of Management and Budget determines that it is in the interest of economy or efficiency, the Director shall transfer to the Administrator all functions vested in a federal agency with respect to the operation, maintenance, and custody of an office building owned by the Government or a wholly owned Government corporation, or an office building, or part of an office building, that is occupied by a federal agency under a lease.
+In general.—When the Director of the Office of Management and Budget determinesthat it is in the interest of economy or efficiency, the Director shall transfer to the Administrator all functions vested in a federal agency with respect to the operation, maintenance, and custody of an office building owned by the Government or a wholly owned Government corporation, or an office building, or part of an office building, that is occupied by a federal agency under a lease.
 
 &emsp;(2)
 

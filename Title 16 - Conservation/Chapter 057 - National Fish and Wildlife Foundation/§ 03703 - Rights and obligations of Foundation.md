@@ -64,7 +64,7 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 #### (d) Certain lands, waters, and interests not subject to condemnation
 
-No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Director of the United States Fishand Wildlife Service or the Migratory Bird Conservation Commission, as the case may be, to be valuable for purposes of fish and wildlife conservation or management shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
+No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Director of the United States Fish and Wildlife Service or the Migratory Bird Conservation Commission, as the case may be, to be valuable for purposes of fish and wildlife conservation or management shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
 
 #### (e) Acquisition, management, and disposal of real property
 
@@ -122,7 +122,7 @@ Subsec. (c)(1)(D). Pub. L. 116–188, §107(b)(1)(C), substituted "at 1 or more 
 
 Subsec. (c)(1)(E). Pub. L. 116–188, §107(b)(1)(D), substituted "subparagraph (C) or (D)" for "paragraph (3) or (4)".
 
-Subsec. (c)(1)(K), (L). Pub. L. 116–188, §107(b)(1)(E), (F), added subpars. (K) and (L) and struck out formersubpar. (K) which read as follows: "to do any and all acts necessary and proper to carry out the purposes of the Foundation."
+Subsec. (c)(1)(K), (L). Pub. L. 116–188, §107(b)(1)(E), (F), added subpars. (K) and (L) and struck out former subpar. (K) which read as follows: "to do any and all acts necessary and proper to carry out the purposes of the Foundation."
 
 Subsec. (c)(2), (3). Pub. L. 116–188, §107(b)(1)(G), added pars. (2) and (3).
 

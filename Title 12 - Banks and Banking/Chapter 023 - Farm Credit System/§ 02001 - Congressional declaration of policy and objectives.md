@@ -34,7 +34,7 @@ Pub. L. 104–105, §1(a), Feb. 10, 1996, 110 Stat. 162, provided that: "This Ac
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–376, §1, Oct. 19, 1994, 108 Stat. 3497, provided that: "This Act \[enacting section 2206a of this title and amending sections 2122, 2128, and 2129 of this title\] may be cited as the 'Farm Credit System Agricultural Export and Risk Management Act'."
+Pub. L. 103–376, §1, Oct. 19, 1994, 108 Stat. 3497, provided that: "This Act \[enacting section 2206a of this title and amending sections 2122, 2128, and 2129 of thistitle\] may be cited as the 'Farm Credit System Agricultural Export and Risk Management Act'."
 
 #### Short Title of 1992 Amendment
 
@@ -104,7 +104,7 @@ The repealed provisions constituted the bulk of chapter 7 of this title. Pub. L.
 
 #### Savings Provision
 
-Pub. L. 92–181, §5.40(b), formerly §5.26(b), Dec. 10, 1971, 85 Stat. 625, renumbered §5.40(b), Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: "All regulations of the Farm Credit Administration or the institutions of the System and all charters, bylaws, resolutions, stock classifications, and policy directives issued or approved by the Farm Credit Administration, and all elections held and appointments made under the Acts repealed by subsection (a) of this section \[see Repeals note above\] shall be continuing and remain valid until superseded, modified, or replaced under the authority of this Act \[this chapter\]. All stock, notes, bonds, debentures, and other obligations issued under the repealed acts shall be valid and enforceable upon the terms and conditions under which they were issued, including the pledge of collateral against which they were issued, and all loans made and security or collateral therefor held by, and all contracts entered into by, institutions of the System shall remain enforceable according to their terms unless and until modified in accordance with the provisions of this Act; it being the purpose of this subsection to avoid disruption in the effective operation of the System by reason of said repeals."
+Pub. L. 92–181, §5.40(b), formerly §5.26(b), Dec. 10, 1971, 85 Stat. 625, renumbered §5.40(b), Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: "All regulations of the Farm Credit Administration or the institutions of the System and all charters, bylaws, resolutions, stock classifications, and policy directives issued or approved by the Farm Credit Administration, and all elections held and appointments made under the Acts repealed by subsection (a) of this section \[see Repeals note above\] shall be continuing and remainvalid until superseded, modified, or replaced under the authority of this Act \[this chapter\]. All stock, notes, bonds, debentures, and other obligations issued under the repealed acts shall be valid and enforceable upon the terms and conditions under which they were issued, including the pledge of collateral against which they were issued, and all loans made and security or collateral therefor held by, and all contracts entered into by, institutions of the System shall remain enforceable according to their terms unless and until modified in accordance with the provisions of this Act; it being the purpose of this subsection to avoid disruption in the effective operation of the System by reason of said repeals."
 
 #### Separability
 
@@ -176,7 +176,7 @@ Pub. L. 100–71, title V, §519(b), July 11, 1987, 101 Stat. 475, authorized an
 
 #### Loan Review by Local Lending Institutions
 
-Pub. L. 99–205, title III, §307, Dec. 23, 1985, 99 Stat. 1709, required each local lending institution of Farm Credit System established under this chapter to (1) review each loan that had been placed in non-accrual status by such institution to determine whether such loan could be restructured based on changes in circumstances of such institution as the result of this Act and the amendments made by this Act, and (2) notify in writing borrower of each such loan of provisions of this section.
+Pub. L. 99–205, title III, §307, Dec. 23, 1985, 99 Stat. 1709, required each local lending institution of FarmCredit System established under this chapter to (1) review each loan that had been placed in non-accrual status by such institution to determine whether such loan could be restructured based on changes in circumstances of such institution as the result of this Act and the amendments made by this Act, and (2) notify in writing borrower of each such loan of provisions of this section.
 
 #### National Commission on Agricultural Finance
 

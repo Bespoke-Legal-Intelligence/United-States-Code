@@ -148,7 +148,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (3) Security interests taken into account
 
-&emsp;For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
+&emsp;For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amountof the qualified preretirement survivor annuity.
 
 #### (d) Survivor annuities need not be provided if participant and spouse married less than 1 year
 
@@ -220,7 +220,7 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;&emsp;&emsp;(i) the first day of the first period for which an amount is payable as an annuity, or
 
-&emsp;&emsp;&emsp;(ii) in the case of a benefit not payable in the form of an annuity, the first day onwhich all events have occurred which entitle the participant to such benefit.
+&emsp;&emsp;&emsp;(ii) in the case of a benefit not payable in the form of an annuity, the first day on which all events have occurred which entitle the participant to such benefit.
 
 #### (B) Special rule for disability benefits
 
@@ -232,7 +232,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (4) Plan may take into account increased costs
 
-&emsp;A plan may take into account in any equitable manner (as determined by the Secretary) any increased costs resulting from providing a qualified joint or survivor annuity or a qualified preretirement survivor annuity.
+&emsp;A plan may take into account in any equitable manner (as determined by the Secretary)any increased costs resulting from providing a qualified joint or survivor annuity or a qualified preretirement survivor annuity.
 
 #### (5) Distributions by reason of security interests
 
@@ -300,7 +300,7 @@ Subsec. (g). Pub. L. 109–280, §1004(a)(2), added subsec. (g).
 
 <b>2002</b>—Subsec. (e)(1). Pub. L. 107–147, §411(r)(1)(A), substituted "exceed the amount that can be distributed without the participant's consent under section 411(a)(11)" for "exceed the dollar limit under section 411(a)(11)(A)".
 
-Subsec. (e)(2)(A). Pub. L. 107–147, §411(r)(1)(B), substituted "exceeds the amount that can be distributedwithout the participant's consent under section 411(a)(11)" for "exceeds the dollar limit under section 411(a)(11)(A)".
+Subsec. (e)(2)(A). Pub. L. 107–147, §411(r)(1)(B), substituted "exceeds the amount that can be distributed without the participant's consent under section 411(a)(11)" for "exceeds the dollar limit under section 411(a)(11)(A)".
 
 <b>1997</b>—Subsec. (e)(1), (2). Pub. L. 105–34 substituted "dollar limit" for "$3,500" in headings of pars. (1) and (2) and "the dollar limit under section 411(a)(11)(A)" for "$3,500" in text of pars. (1) and (2)(A).
 
@@ -308,7 +308,7 @@ Subsec. (e)(2)(A). Pub. L. 107–147, §411(r)(1)(B), substituted "exceeds the a
 
 <b>1994</b>—Subsec. (e)(3). Pub. L. 103–465 amended par. (3) generally, substituting present provisions for provisions directing that present value be calculated by using a rate no greater than the applicable interest rate or 120 percent of such rate, depending upon amount of vested accrued benefit, and defining "applicable interest rate".
 
-<b>1989</b>—Subsec. (a)(3)(B)(ii). Pub. L. 101–239 added sentence at end and struck out former subcl. (V) which read as follows: "A reasonable period after separation from service in case of a participant who separates before attaining age 35."
+<b>1989</b>—Subsec. (a)(3)(B)(ii). Pub. L. 101–239 added sentence at end and struck out former subcl. (V) which read as follows: "A reasonable period after separationfrom service in case of a participant who separates before attaining age 35."
 
 <b>1988</b>—Subsec. (e)(3)(A). Pub. L. 100–647 substituted "clause (ii)" for "subclause (II)" in last sentence.
 
@@ -400,7 +400,7 @@ Amendment by Pub. L. 103–465 applicable to plan years and limitation years beg
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of this title.
+Amendment by Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of this title.
 
 #### Effective Date of 1988 Amendment
 

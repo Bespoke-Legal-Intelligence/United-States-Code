@@ -10,7 +10,7 @@ For the purpose of any such investigation, or any other proceeding under this su
 
 #### (c) Contempt
 
-In the case of contumacy by, or refusal to obey a subpena issued to, any person, the corporation may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, and other records. The court may issue an order requiring such person to appear before the corporation, or memberor officer designated by the corporation, and to produce records or to give testimony related to the matter under investigation or in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in the judicial district in which such person is an inhabitant or may be found.
+In the case of contumacy by, or refusal to obey a subpena issued to, any person, the corporation may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, and other records. The court may issue an order requiring such person to appear before the corporation, or member or officer designated by the corporation, and to produce records or to give testimony related to the matter under investigation or in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in the judicial district in which such person is an inhabitant or may be found.
 
 #### (d) Cooperation with other governmental agencies
 
@@ -72,7 +72,7 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 (7) In any suit, action, or proceeding in which the corporation is a party, or intervenes under section 1451 of this title, in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States district court for the district or division in which such suit, action, or proceeding is pending by following any procedure for removal now or hereafter in effect.
 
-(Pub. L. 93–406, title IV, §4003, Sept. 2, 1974, 88 Stat. 1006; Pub. L. 96–364, title IV, §§402(a)(2), 403(k), Sept. 26, 1980, 94 Stat. 1297, 1302; Pub. L. 98–620, title IV, §402(33), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 99–272, title XI, §§11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, 100 Stat. 262, 264, 274; Pub. L. 103–465, title VII, §§773(a), 776(b)(1), Dec. 8, 1994, 108 Stat. 5044, 5048; Pub. L. 109–280, title I, §108(b)(2), formerly §107(b)(2), title IV, §411(a)(2), Aug. 17, 2006, 120 Stat. 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 113–97, title I, §102(b)(7), Apr. 7, 2014, 128 Stat. 1117; Pub. L. 113–235, div. O, title II, §201(a)(7)(C), Dec. 16, 2014, 128 Stat. 2810.)
+(Pub. L. 93–406, title IV, §4003, Sept. 2, 1974, 88 Stat. 1006; Pub. L. 96–364, title IV, §§402(a)(2), 403(k), Sept. 26, 1980, 94 Stat. 1297, 1302; Pub. L. 98–620, title IV, §402(33), Nov. 8, 1984, 98 Stat.3360; Pub. L. 99–272, title XI, §§11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, 100 Stat. 262, 264, 274; Pub. L. 103–465, title VII, §§773(a), 776(b)(1), Dec. 8, 1994, 108 Stat. 5044, 5048; Pub. L. 109–280, title I, §108(b)(2), formerly §107(b)(2), title IV, §411(a)(2), Aug. 17, 2006, 120 Stat. 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 113–97, title I, §102(b)(7), Apr. 7, 2014, 128 Stat. 1117; Pub. L. 113–235, div. O, title II, §201(a)(7)(C), Dec. 16, 2014, 128 Stat. 2810.)
 
 #### <b>Editorial Notes</b>
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

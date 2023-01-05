@@ -242,7 +242,7 @@ In this section:
 
 #### (ii) Description of States
 
-&emsp;&emsp;&emsp;A State referred to in clause (i) is a State that, by not later than 45 days after November 15, 2021, submits to the Secretary a notice of the intent of the State to submit an application under subparagraph (B), including a description of the factors described in clause (iii) with respect to the State.
+&emsp;&emsp;&emsp;A State referred to in clause (i) is a State that, by not later than 45 days afterNovember 15, 2021, submits to the Secretary a notice of the intent of the State to submit an application under subparagraph (B), including a description of the factors described in clause (iii) with respect to the State.
 
 #### (iii) Factors
 
@@ -506,7 +506,7 @@ In this section:
 
 #### (e) Technical assistance
 
-The Secretary of Energy, in cooperation with the Secretary and the Interstate Oil and Gas Compact Commission, shall provide technical assistance to the Federal land management agencies and oil and gas producing States and Indian Tribes to support practical and economical remedies for environmental problems causedby orphaned wells on Federal land, Tribal land, and State and private land, including the sharing of best practices in the management of oil and gas well inventories to ensure the availability of funds to plug, remediate, and restore oil and gas well sites on cessation of operation.
+The Secretary of Energy, in cooperation with the Secretary and the Interstate Oil and Gas Compact Commission, shall provide technical assistance to the Federal land management agencies and oil and gas producing States and Indian Tribes to support practical and economical remedies for environmental problems caused by orphaned wells on Federal land, Tribal land, and State and private land, including the sharing of best practices in the management of oil and gas well inventories to ensure the availability of funds to plug, remediate, and restore oil and gas well sites on cessation of operation.
 
 #### (f) Report to Congress
 

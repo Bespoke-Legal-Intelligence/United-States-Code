@@ -10,7 +10,7 @@ For purposes of complying with subsection (a), the Secretary of Housing and Urba
 
 #### (c) Report to Congress
 
-Before the expiration of the period referred to in subsection (b), the Secretary of Housing and Urban Development shall report to the Congress on housing subdivision approval policies and practices, if any, of the Departments of Housing and Urban Development and Agriculture and the Department of Veterans Affairs. The report shall focus on the administration of environmental laws in connection with any such policies and practices, and shall recommend any statutory, regulatory, and administrative changes needed to achieve total reciprocity for such housing subdivision approvals. The Secretary of Housing and Urban Development shall consult with the foregoing agencies, and such other agencies as the Secretary selects, in preparing the report.
+Before the expiration of the period referred to in subsection (b), the Secretary of Housing andUrban Development shall report to the Congress on housing subdivision approval policies and practices, if any, of the Departments of Housing and Urban Development and Agriculture and the Department of Veterans Affairs. The report shall focus on the administration of environmental laws in connection with any such policies and practices, and shall recommend any statutory, regulatory, and administrative changes needed to achieve total reciprocity for such housing subdivision approvals. The Secretary of Housing and Urban Development shall consult with the foregoing agencies, and such other agencies as the Secretary selects, in preparing the report.
 
 #### (d) Approval by local, county, or State agencies
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 102–54, §13(q)(5)(B), substituted "Department of Veteran
 
 #### Retroactivity of Approval of Housing Subdivisions Among Federal Agencies
 
-Pub. L. 103–120, §8(b), Oct. 27, 1993, 107 Stat. 1151, provided that: "An administrative approval of a housing subdivision made after June 15, 1993, and before thedate of the enactment of this Act \[Oct. 27, 1993\] is approved and shall be considered to have been lawfully made, but only if otherwise made in accordance with the provisions of section 535(b) of the Housing Act of 1949 \[42 U.S.C. 1490o(b)\]."
+Pub. L. 103–120, §8(b), Oct. 27, 1993, 107 Stat. 1151, provided that: "An administrative approval of a housing subdivision made after June 15, 1993, and before the date of the enactment of this Act \[Oct. 27, 1993\] is approved and shall be considered to have been lawfully made, but only if otherwise made in accordance with the provisions of section 535(b) of the Housing Act of 1949 \[42 U.S.C. 1490o(b)\]."
 
 Pub. L. 102–550, title VII, §716(b), Oct. 28, 1992, 106 Stat. 3842, provided that: "Any administrative approval of any housing subdivision made after the expiration of the 18-month period beginning on the date of the enactment of the Department of Housing and Urban Development Reform Act of 1989 \[Dec. 15, 1989\] and before the date of the enactment of this Act \[Oct. 28, 1992\] is approved and shall be considered to have been lawfully made, but only if otherwise made in accordance with the provisions of section 535(b) of the Housing Act of 1949 \[42 U.S.C. 1490o(b)\]."
 

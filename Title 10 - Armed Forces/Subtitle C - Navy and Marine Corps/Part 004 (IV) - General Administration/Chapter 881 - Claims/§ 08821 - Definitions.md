@@ -6,7 +6,7 @@
 
 &emsp;(2) when the Coast Guard is operating as a service in the Navy, any vessel of the Coast Guard, manned by the Coast Guard, or chartered on bareboat charter to the Coast Guard.
 
-(b) In this chapter "settle" means consider, ascertain, adjust, determine, and dispose of aclaim, whether by full or partial allowance or by disallowance.
+(b) In this chapter "settle" means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or by disallowance.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 472, §7621; renumbered §8821, Pub. L. 115–232, div. A, title VIII, §807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

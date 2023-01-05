@@ -4,15 +4,15 @@
 
 The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants or cooperative agreements to eligible entities to—
 
-&emsp;(1) develop and implement State-sponsored statewide or tribal youth suicide early intervention and prevention strategies in schools, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
+&emsp;(1) develop and implement State-sponsored statewide or Tribal youth suicide early intervention and prevention strategies in schools, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, pediatric health programs, and other child and youth support organizations;
 
-&emsp;(2) support public organizations and private nonprofit organizations actively involved in State-sponsored statewide or tribal youth suicide early intervention and prevention strategies and in the development and continuation of State-sponsored statewide youth suicide early intervention and prevention strategies;
+&emsp;(2) support public organizations and private nonprofit organizations actively involved in State-sponsored statewide or Tribal youth suicide early intervention and prevention strategies and in the development and continuation of State-sponsored statewide youth suicide early intervention and prevention strategies;
 
-&emsp;(3) provide grants to institutions of higher education to coordinate the implementation of State-sponsored statewide or tribal youth suicide early intervention and prevention strategies;
+&emsp;(3) provide grants to institutions of higher education to coordinate the implementation of State-sponsored statewide or Tribal youth suicide early intervention and prevention strategies;
 
-&emsp;(4) collect and analyze data on State-sponsored statewide or tribal youth suicide early intervention and prevention services that can be used to monitor the effectiveness of such services and for research, technical assistance, and policy development; and
+&emsp;(4) collect and analyze data on State-sponsored statewide or Tribal youth suicide early intervention and prevention services that can be used to monitor the effectiveness of such services and for research, technical assistance, and policy development; and
 
-&emsp;(5) assist eligible entities, through State-sponsored statewide or tribal youth suicide early intervention and prevention strategies, in achieving targets for youth suicide reductions under title V of the Social Security Act \[42 U.S.C. 701 et seq.\].
+&emsp;(5) assist eligible entities, through State-sponsored statewide or Tribal youth suicide early intervention and prevention strategies, in achieving targets for youth suicide reductions under title V of the Social Security Act \[42 U.S.C. 701 et seq.\].
 
 #### (b) Eligible entity
 
@@ -22,9 +22,9 @@ The Secretary, acting through the Assistant Secretary for Mental Health and Subs
 
 &emsp;&emsp;(A) a State;
 
-&emsp;&emsp;(B) a public organization or private nonprofit organization designated by a State to develop or direct the State-sponsored statewide youth suicide early intervention and prevention strategy; or
+&emsp;&emsp;(B) a public organization or private nonprofit organization designated by a State or Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5304\]) to develop or direct the State-sponsored statewide or Tribal youth suicide early intervention and prevention strategy; or
 
-&emsp;&emsp;(C) a Federally recognized Indian tribe or tribal organization (as defined in the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\]) or an urban Indian organization (as defined in the Indian Health Care Improvement Act \[25 U.S.C. 1601 et seq.\]) that is actively involved in the development and continuation of a tribal youth suicide early intervention and prevention strategy.
+&emsp;&emsp;(C) a Federally recognized Indian Tribe or Tribal organization (as defined in the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\]) or an urban Indian organization (as defined in the Indian Health Care Improvement Act \[25 U.S.C. 1601 et seq.\]) that is actively involved in the development and continuation of a Tribal youth suicide early intervention and prevention strategy.
 
 #### (2) Limitation
 
@@ -40,25 +40,25 @@ The Secretary, acting through the Assistant Secretary for Mental Health and Subs
 
 #### (c) Preference
 
-In providing assistance under a grant or cooperative agreement under this section, an eligible entity shall give preference to public organizations, private nonprofit organizations, political subdivisions, institutions of higher education, and tribal organizations actively involved with the State-sponsored statewide or tribal youth suicide early intervention and prevention strategy that—
+In providing assistance under a grant or cooperative agreement under this section, an eligible entity shall give preference to public organizations, private nonprofit organizations, political subdivisions, institutions of higher education, and Tribal organizations actively involved with the State-sponsored statewide or Tribal youth suicide early intervention and prevention strategy that—
 
-&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
+&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, pediatric health programs, and other child and youth support organizations;
 
 &emsp;(2) demonstrate collaboration among early intervention and prevention services or certify that entities will engage in future collaboration;
 
 &emsp;(3) employ or include in their applications a commitment to evaluate youth suicide early intervention and prevention practices and strategies adapted to the local community;
 
-&emsp;(4) provide timely referrals for appropriate community-based mental health care andtreatment of youth who are at risk for suicide in child-serving settings and agencies;
+&emsp;(4) provide timely referrals for appropriate community-based mental health care and treatment of youth who are at risk for suicide in child-serving settings and agencies;
 
 &emsp;(5) provide immediate support and information resources to families of youth who are at risk for suicide;
 
 &emsp;(6) offer access to services and care to youth with diverse linguistic and cultural backgrounds;
 
-&emsp;(7) offer appropriate postsuicide intervention services, care, and information to families, friends, schools, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations of youth who recently completed suicide;
+&emsp;(7) offer appropriate postsuicide intervention services, care, and information to families, friends, schools, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, pediatric health programs, and other child and youth support organizations of youth who recently completed suicide;
 
 &emsp;(8) offer continuous and up-to-date information and awareness campaigns that target parents, family members, child care professionals, community care providers, and the general public and highlight the risk factors associated with youth suicide and the life-saving help and care available from early intervention and prevention services;
 
-&emsp;(9) ensure that information and awareness campaigns on youth suicide risk factors, and early intervention and prevention services, use effective communication mechanisms that are targeted to and reach youth, families, schools, educational institutions, and youth organizations;
+&emsp;(9) ensure that information and awareness campaigns on youth suicide risk factors, and early intervention and prevention services, use effective communication mechanisms that are targeted to and reach youth, families, schools, educational institutions, pediatric health programs, and youth organizations;
 
 &emsp;(10) provide a timely response system to ensure that child-serving professionals and providers are properly trained in youth suicide early intervention and prevention strategies and that child-serving professionals and providers involved in early intervention and prevention services are properly trained in effectively identifying youth who are at risk for suicide;
 
@@ -66,13 +66,15 @@ In providing assistance under a grant or cooperative agreement under this sectio
 
 &emsp;(12) conduct annual self-evaluations of outcomes and activities, including consulting with interested families and advocacy organizations;
 
-&emsp;(13) provide services in areas or regions with rates of youth suicide that exceed the national average as determined by the Centers for Disease Control and Prevention; and
+&emsp;(13) provide services in areas or regions with rates of youth suicide that exceed the national average as determined by the Centers for Disease Control and Prevention;
 
-&emsp;(14) obtain informed written consent from a parent or legal guardian of an at-risk child before involving the child in a youth suicide early intervention and prevention program.
+&emsp;(14) obtain informed written consent from a parent or legal guardian of an at-risk child before involving the child in a youth suicide early intervention and prevention program; and
 
-#### (d) Requirement for direct services
+&emsp;(15) provide to parents, legal guardians, and family members of youth, supplies to securelystore means commonly used in suicide, if applicable, within the household.
 
-Not less than 85 percent of grant funds received under this section shall be used to provide direct services, of which not less than 5 percent shall be used for activities authorized under subsection (a)(3).
+#### (d) Requirement for suicide prevention activities
+
+Not less than 85 percent of grant funds received under this section shall be used to provide suicide prevention activities.
 
 #### (e) Coordination and collaboration
 
@@ -102,9 +104,9 @@ Not less than 85 percent of grant funds received under this section shall be use
 
 &emsp;In carrying out this section, the Secretary shall—
 
-&emsp;&emsp;(A) coordinate and collaborate on policy development at the Federal level with the relevant Department of Health and Human Services agencies and suicide working groups; and
+&emsp;&emsp;(A) coordinate and collaborate on policy development at the Federal level with the relevant Department of Health and Human Services agencies and suicide working groups and the Department of Education, as appropriate; and
 
-&emsp;&emsp;(B) consult on policy development at the Federal level with the private sector, including consumer, medical, suicide prevention advocacy groups, and other health and education professional-based organizations, with respect to State-sponsored statewide or tribal youth suicide early intervention and prevention strategies.
+&emsp;&emsp;(B) consult on policy development at the Federal level with the private sector, including consumer, medical, suicide prevention advocacy groups, and other health and education professional-based organizations, with respect to State-sponsored statewide or Tribal youth suicide early intervention and prevention strategies.
 
 #### (f) Rule of construction; religious and moral accommodation
 
@@ -114,11 +116,11 @@ Nothing in this section shall be construed to require suicide assessment, early 
 
 #### (1) Evaluations by eligible entities
 
-&emsp;Not later than 18 months after receiving a grant or cooperative agreement under this section, an eligible entity shall submit to the Secretary the results of an evaluation to be conducted by the entity concerning the effectiveness of the activities carried out under the grant or agreement.
+&emsp;Not later than 24 months after receiving a grant or cooperative agreement under this section, an eligible entity shall submit to the Secretary the results of an evaluation to be conducted by the entity concerning the effectiveness of the activities carried out under the grant or agreement.
 
 #### (2) Report
 
-&emsp;Not later than 2 years after December 13, 2016, the Secretary shall submit to the appropriate committees of Congress a report concerning the results of—
+&emsp;Not later than December 31, 2025, the Secretary shall submit to the appropriate committees of Congress a report concerning the results of—
 
 &emsp;&emsp;(A) the evaluations conducted under paragraph (1); and
 
@@ -168,23 +170,23 @@ In this section:
 
 #### (4) Youth
 
-&emsp;The term "youth" means individuals who are between 10 and 24 years of age.
+&emsp;The term "youth" means individuals who are up to 24 years of age.
 
 #### (m) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for each of fiscal years 2018 through 2022.
+For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for each of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 108–355, §3(c), Oct. 21, 2004, 118 Stat. 1409; amended Pub. L. 114–95, title IX, §9215(kkk)(3), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 114–255, div. B, title VI, §6001(c)(1), title IX, §9008(b), Dec. 13, 2016, 130 Stat. 1203, 1242; Pub. L. 116–260, div. BB, title III, §315, Dec. 27, 2020, 134 Stat. 2932.)
+(July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 108–355, §3(c), Oct. 21, 2004, 118 Stat. 1409; amended Pub. L. 114–95, title IX, §9215(kkk)(3), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 114–255, div. B, title VI, §6001(c)(1), title IX, §9008(b), Dec. 13, 2016, 130 Stat. 1203, 1242; Pub. L. 116–260, div. BB, title III, §315, Dec. 27, 2020, 134 Stat. 2932; Pub. L. 117–328, div. FF, title I, §1422, Dec. 29, 2022, 136 Stat. 5702.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(5) and (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(5) and (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (b)(1)(C), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (b)(1)(C), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (k), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -195,6 +197,34 @@ The No Child Left Behind Act of 2001, referred to in subsec. (k), is Pub. L. 107
 A prior section 290bb–36, act July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 106–310, div. B, title XXXI, §3111, Oct. 17, 2000, 114 Stat. 1186, and amended, which related to suicide prevention for children and adolescents, was renumbered section 520E–1 of act July 1, 1944, by Pub. L. 108–355, §3(b)(2), Oct. 21, 2004, 118 Stat. 1409, and transferred to section 290bb–36a of this title.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, §1422(2), substituted "Tribal" for "tribal" wherever appearing.
+
+Subsec. (a)(1). Pub. L. 117–328, §1422(3), inserted "pediatric health programs," after "foster care systems,".
+
+Subsec. (b)(1)(B). Pub. L. 117–328, §1422(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a public organization or private nonprofit organization designated by a State to develop or direct the State-sponsored statewide youth suicide early intervention and prevention strategy; or".
+
+Subsec. (b)(1)(C). Pub. L. 117–328, §1422(1), substituted "Tribe" for "tribe".
+
+Subsec. (c)(1). Pub. L. 117–328, §1422(5)(A), inserted "pediatric health programs," after "foster care systems,".
+
+Subsec. (c)(7). Pub. L. 117–328, §1422(5)(B), inserted "pediatric health programs," after "foster care systems,".
+
+Subsec. (c)(9). Pub. L. 117–328, §1422(5)(C), inserted "pediatric health programs," after "educational institutions,".
+
+Subsec. (c)(15). Pub. L. 117–328, §1422(5)(D)–(F), added par. (15).
+
+Subsec. (d). Pub. L. 117–328, §1422(6), substituted "suicide prevention activities" for "direct services" in heading and "suicide prevention activities" for "direct services, of which not less than 5 percent shall be used for activities authorized under subsection (a)(3)" in text.
+
+Subsec. (e)(3)(A). Pub. L. 117–328, §1422(7), inserted "and the Department of Education, as appropriate" after "agencies and suicide working groups".
+
+Subsec. (g)(1). Pub. L. 117–328, §1422(8)(A), substituted "24" for "18".
+
+Subsec. (g)(2). Pub. L. 117–328, §1422(8)(B), substituted "December 31, 2025" for "2 years after December 13, 2016".
+
+Subsec. (l)(4). Pub. L. 117–328, §1422(9), substituted "up to 24 years of age" for "between 10 and 24 years of age".
+
+Subsec. (m). Pub. L. 117–328, §1422(10), substituted "$40,000,000 for each of fiscal years 2023 through 2027" for "$30,000,000 for each of fiscal years 2018 through 2022".
 
 <b>2020</b>—Subsec. (b)(4). Pub. L. 116–260 added par. (4).
 

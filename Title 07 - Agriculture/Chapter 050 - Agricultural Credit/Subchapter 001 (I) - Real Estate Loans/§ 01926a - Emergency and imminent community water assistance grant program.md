@@ -112,7 +112,7 @@ Subject to subsection (e), grants under this section shall be made in an amount 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i), in response to an eligible community where the drinking water supplies are inadequate, as determined by the Secretary, due to anevent, including drought, severe weather, or contamination, the Secretary may use funds described in subparagraph (A) from July 1 through September 30 each fiscal year to provide potable water under this section in order to protect public health.
+&emsp;&emsp;&emsp;Notwithstanding clause (i), in response to an eligible community where the drinking water supplies are inadequate, as determined by the Secretary, due to an event, including drought, severe weather, or contamination, the Secretary may use funds described in subparagraph (A) from July 1 through September 30 each fiscal year to provide potable water under this section in order to protect public health.
 
 #### (2) Authorization of appropriations
 
@@ -126,7 +126,7 @@ Subject to subsection (e), grants under this section shall be made in an amount 
 
 The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(C), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (d)(1)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (d)(1)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (h)(2)(B), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 

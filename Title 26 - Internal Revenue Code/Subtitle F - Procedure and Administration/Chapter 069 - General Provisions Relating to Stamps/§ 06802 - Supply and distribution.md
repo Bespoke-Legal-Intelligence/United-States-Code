@@ -4,7 +4,7 @@ The Secretary shall furnish, without prepayment, to—
 
 #### (1) Postmaster General
 
-&emsp;The Postmaster General a suitable quantity of adhesive stamps, coupons, tickets, or suchother devices as may be prescribed by the Secretary pursuant to section 6302(b) or this chapter, to be distributed to, and kept on sale by, the various postmasters in the United States in all post offices of the first and second classes, and such post offices of the third and fourth classes as—
+&emsp;The Postmaster General a suitable quantity of adhesive stamps, coupons, tickets, or such other devices as may be prescribed by the Secretary pursuant to section 6302(b) or this chapter, to be distributed to, and kept on sale by, the various postmasters in the United States in all post offices of the first and second classes, and such post offices of the third and fourth classes as—
 
 &emsp;&emsp;(A) are located in county seats, or
 

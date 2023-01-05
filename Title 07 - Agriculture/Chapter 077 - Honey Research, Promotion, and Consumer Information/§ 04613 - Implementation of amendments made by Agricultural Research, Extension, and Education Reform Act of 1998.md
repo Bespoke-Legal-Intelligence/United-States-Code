@@ -2,7 +2,7 @@
 
 #### (a) Issuance of amended order
 
-To implement the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998 (other than subsection (m) of that section),the Secretary shall issue an amended order under section 4603 of this title that reflects those amendments.
+To implement the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998 (other than subsection (m) of that section), the Secretary shall issue an amended order under section 4603 of this title that reflects those amendments.
 
 #### (b) Proposal of amended order
 
@@ -44,7 +44,7 @@ Not later than 240 days after publication of the proposed order, the Secretary s
 
 #### (C) Attributed quantity for handlers
 
-&emsp;&emsp;The quantity of honey and honey products attributed to the vote of a handler shall be the quantity handled in the representative period described in paragraph (2) for which the handler would have owed assessments had the amended order been in effect.
+&emsp;&emsp;The quantity of honey and honey products attributed to the vote of a handler shall bethe quantity handled in the representative period described in paragraph (2) for which the handler would have owed assessments had the amended order been in effect.
 
 #### (4) Effectiveness of order
 

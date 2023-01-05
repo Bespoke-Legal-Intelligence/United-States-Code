@@ -54,7 +54,7 @@ Operating expenses.—Each grant request to use Federal funds for operating expe
 
 &emsp;&emsp;(B)
 
-Debt service.—A grant request to use Federal funds for expenses related to debt, including payment of principle and interest, as allowed under section 205 of the Passenger Rail Investment and Improvement Act of2008 (Public Law 110–432; 49 U.S.C. 24101 note).
+Debt service.—A grant request to use Federal funds for expenses related to debt, including payment of principle and interest, as allowed under section 205 of the Passenger Rail Investment and Improvement Act of 2008 (Public Law 110–432; 49 U.S.C. 24101 note).
 
 &emsp;&emsp;(C)
 
@@ -140,7 +140,7 @@ Exceptions.—The Secretary may make a payment to Amtrak of appropriated funds�
 
 (f)
 
-Availability of Amounts and Early Appropriations.—Amounts appropriated to the Secretary for the use of Amtrak shall remainavailable until expended. Amounts for capital acquisitions and improvements may be appropriated for a fiscal year before the fiscal year in which the amounts will be obligated.
+Availability of Amounts and Early Appropriations.—Amounts appropriated to the Secretary for the use of Amtrak shall remain available until expended. Amounts for capital acquisitions and improvements may be appropriated for a fiscal year before the fiscal year in which the amounts will be obligated.
 
 (g)
 
@@ -160,7 +160,7 @@ Regulations and guidance.—The Secretary of Transportation may apply some or al
 
 (i)
 
-Amtrak Grant Reporting.—The Secretary of Transportation shall determine the varying levels of detail and information that will be included in reports for operations, services, program, projects, program income, cash on hand, and other activities within each of the grant categories described in subsection (c)(2).
+Amtrak Grant Reporting.—The Secretary of Transportation shall determine the varyinglevels of detail and information that will be included in reports for operations, services, program, projects, program income, cash on hand, and other activities within each of the grant categories described in subsection (c)(2).
 
 (j)
 

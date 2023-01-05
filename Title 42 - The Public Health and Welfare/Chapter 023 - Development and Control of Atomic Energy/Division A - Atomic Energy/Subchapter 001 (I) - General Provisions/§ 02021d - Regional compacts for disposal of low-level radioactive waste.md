@@ -28,7 +28,7 @@
 
 #### (3) Effect of compacts on Federal law
 
-&emsp;Nothing contained in sections 2021b to 2021j of this title or any compact may be construed to confer any new authority on any compact commission or State—
+&emsp;Nothing contained in sections 2021b to 2021j of this title or any compact may be construedto confer any new authority on any compact commission or State—
 
 &emsp;&emsp;(A) to regulate the packaging, generation, treatment, storage, disposal, or transportation of low-level radioactive waste in a manner incompatible with the regulations of the Nuclear Regulatory Commission or inconsistent with the regulations of the Department of Transportation;
 
@@ -42,7 +42,7 @@
 
 #### (4) Federal authority
 
-&emsp;Except as expressly provided in sections 2021b to 2021j of this title, nothing containedin sections 2021b to 2021j of this title or any compact may be construed to limit the applicability of any Federal law or to diminish or otherwise impair the jurisdiction of any Federal agency, or to alter, amend, or otherwise affect any Federal law governing the judicial review of any action taken pursuant to any compact.
+&emsp;Except as expressly provided in sections 2021b to 2021j of this title, nothing contained in sections 2021b to 2021j of this title or any compact may be construed to limit the applicability of any Federal law or to diminish or otherwise impair the jurisdiction of any Federal agency, or to alter, amend, or otherwise affect any Federal law governing the judicial review of any action taken pursuant to any compact.
 
 #### (5) State authority preserved
 
@@ -134,7 +134,7 @@ Pub. L. 100–712, Nov. 23, 1988, 102 Stat. 4773, provided that:
 
 #### "SEC. 4. CONGRESSIONAL REVIEW.
 
-"The Congress may alter, amend, or repeal this Act with respect to the compact set forth in section 5 after the expiration of the 10-year period following the date of enactment of this Act \[Nov. 23, 1988\], and at such intervals thereafter as may be provided in such compact.
+"The Congress may alter, amend, or repeal this Act with respect to the compact set forth in section 5 afterthe expiration of the 10-year period following the date of enactment of this Act \[Nov. 23, 1988\], and at such intervals thereafter as may be provided in such compact.
 
 #### "SEC. 5. SOUTHWESTERN LOW-LEVEL RADIOACTIVE WASTE COMPACT.
 

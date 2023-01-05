@@ -14,7 +14,7 @@ Section 668cc–2, Pub. L. 91–135, §2, Dec. 5, 1969, 83 Stat. 275, covered im
 
 Section 668cc–3, Pub. L. 91–135, §3, Dec. 5, 1969, 83 Stat. 275, provided for determination by the Secretary of the species threatened with extinction, methods to be used and factors determinative of Secretary's determination, and rule making procedures to be used.
 
-Section 668cc–4, Pub. L. 91–135, §4, Dec. 5, 1969, 83 Stat. 276, set out penalties for violation of sections 668cc–2 and 668cc–3 of this title and provisions for their enforcement.
+Section 668cc–4, Pub. L. 91–135, §4, Dec. 5, 1969, 83 Stat. 276, set out penalties for violation of sections668cc–2 and 668cc–3 of this title and provisions for their enforcement.
 
 Section 668cc–5, Pub. L. 91–135, §5, Dec. 5, 1969, 83 Stat. 278, covered international agreements for fish and wildlife preservation.
 

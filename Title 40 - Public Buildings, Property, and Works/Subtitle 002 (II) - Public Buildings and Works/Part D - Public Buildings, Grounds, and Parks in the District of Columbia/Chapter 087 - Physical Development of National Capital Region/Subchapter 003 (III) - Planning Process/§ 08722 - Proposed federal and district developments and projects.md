@@ -18,7 +18,7 @@ Exceptions.—
 
 &emsp;&emsp;(A)
 
-In general.—Paragraph (1) does not apply to projects within the Capitol grounds or to structures erected by the Department of Defense during wartime or national emergency within existing military, naval, or Air Force reservations, except that the appropriate defense agency shall consult with the Commission as to any developments which materially affect traffic or require coordinated planning of the surrounding area.
+In general.—Paragraph (1) does not apply to projects within the Capitol grounds or to structures erected by the Department of Defense during wartime or national emergency within existing military, naval, or Air Force reservations, except that the appropriate defense agency shall consult with theCommission as to any developments which materially affect traffic or require coordinated planning of the surrounding area.
 
 &emsp;&emsp;(B)
 
@@ -114,7 +114,7 @@ In subsection (e), the words "the boundaries of" and "and from time to time rede
 
 #### References in Text
 
-The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 534, 52 Stat. 797, as amended. While the Act was not classified to the Code, section 16 of the Act was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§1, 6, Aug. 21, 2002, 116 Stat. 1062, 1304. See Historical and Revision Notes above.
+The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 534, 52 Stat. 797. While the Act was not classified to the Code, section 16 of the Act was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§1, 6, Aug. 21, 2002, 116 Stat. 1062, 1304. See Historical and Revision Notes above.
 
 #### Amendments
 

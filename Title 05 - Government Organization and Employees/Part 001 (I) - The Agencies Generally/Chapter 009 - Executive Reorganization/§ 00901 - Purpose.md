@@ -10,7 +10,7 @@
 
 &emsp;(4) to group, coordinate, and consolidate agencies and functions of the Government, as nearly as may be, according to major purposes;
 
-&emsp;(5) to reduce the number of agencies by consolidating those having similar functionsunder a single head, and to abolish such agencies or functions thereof as may not be necessary for the efficient conduct of the Government; and
+&emsp;(5) to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions thereof as may not be necessary for the efficient conduct of the Government; and
 
 &emsp;(6) to eliminate overlapping and duplication of effort.
 
@@ -250,7 +250,7 @@ A provision of this section transferring the administration of national cemeteri
 
 #### Effective Date
 
-See section 22 of this Ex. Ord. The transfer of national cemeteries located in the insular possessions tothe Bureau of Insular Affairs, as provided in this section, was postponed until further order by Ex. Ord. No. 6228, §3, of July 28, 1933.
+See section 22 of this Ex. Ord. The transfer of national cemeteries located in the insular possessions to the Bureau of Insular Affairs, as provided in this section, was postponed until further order by Ex. Ord. No. 6228, §3, of July 28, 1933.
 
 #### §3.
 
@@ -282,7 +282,7 @@ Claims By or Against the United States
 
 The functions of prosecuting in the courts of the United States claims and demands by, and offenses against, the Government of the United States and of defending claims and demands against the Government, and of supervising the work of United States attorneys, marshals, and clerks in connection therewith, now exercised by any agency or officer, are transferred to the Department of Justice.
 
-As to any case referred to the Department of Justice for prosecution or defense in the courts, the function of decision whether and in what manner to prosecute, or to defend, or to compromise, or to appeal, or to abandon prosecution or defense, now exercised by any agency or officer, is transferred to the Department of Justice.
+As to any case referred to the Department of Justice for prosecution or defense in the courts, the function ofdecision whether and in what manner to prosecute, or to defend, or to compromise, or to appeal, or to abandon prosecution or defense, now exercised by any agency or officer, is transferred to the Department of Justice.
 
 For the exercise of such of his functions as are not transferred to the Department of Justice by the foregoing two paragraphs, the Solicitor of the Treasury is transferred from the Department of Justice to the Treasury Department.
 
@@ -326,7 +326,7 @@ The effective date of section 8 of Ex. Ord. No. 6166, originally fixed by sectio
 
 Assistant Secretary of Commerce
 
-The Assistant Secretary of Commerce for Aeronautics shall be an Assistant Secretary of Commerceand shall perform such functions as the Secretary of Commerce may designate.
+The Assistant Secretary of Commerce for Aeronautics shall be an Assistant Secretary of Commerce and shall perform such functions as the Secretary of Commerce may designate.
 
 #### §10.
 
@@ -400,7 +400,7 @@ All personnel employed in connection with the work of an abolished agency or fun
 
 #### Effective Date
 
-The effective date of the last paragraph of this section, originally fixed by section 22, post, was deferred as to employees separated from service under sections 2 and 15, ante, until Sept. 30, 1933, by Ex. Ord. No. 6227 of July 27, 1933. As to employees separated under section 12, ante, a similar deferment to Sept. 30, 1933, was made by Ex. Ord. No. 6245 of Aug. 9, 1933.
+The effective date of the last paragraph of this section, originally fixed by section 22, post, was deferredas to employees separated from service under sections 2 and 15, ante, until Sept. 30, 1933, by Ex. Ord. No. 6227 of July 27, 1933. As to employees separated under section 12, ante, a similar deferment to Sept. 30, 1933, was made by Ex. Ord. No. 6245 of Aug. 9, 1933.
 
 #### §20.
 
@@ -434,19 +434,11 @@ In accordance with law, this order shall become effective 61 days from its date:
 
 Executive Order No. 7261, promulgated December 31, 1935, provided that "except as hereinafter provided, the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, which are not effected prior to December 31, 1935, pursuant to Executive Order No. 6224 of July 27, 1933, Executive Order No. 6540 of December 28, 1933, Executive Order No. 6727 of May 29, 1934, Executive Order No. 6927 of December 21, 1934, and Executive Order No. 7077 of June 15, 1935, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, in so far as they relate to said section 4, be further delayed until June 30, 1936: Provided, that any transfer, consolidation, or elimination, in whole or in part, under said section 4, including any other provisions of the said order of June 10, 1933, in so far as they relate to section 4 thereof, may be made operative and effective between December 31, 1935, and June 30, 1936, by order of the Secretary of the Treasury, approved by the President."
 
-Executive Order No. 7980, promulgated September 29, 1938, provided: "That the transfers, consolidations, andeliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, so far as they relate to the said section 4, be further delayed until December 31, 1938, with respect to the function of disbursement now exercised by United States Marshals under the Department of Justice."
+Executive Order No. 7980, promulgated September 29, 1938, provided: "That the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, so far as they relate to the said section 4, be further delayed until December 31, 1938, with respect to the function of disbursement now exercised by United States Marshals under the Department of Justice."
 
 Functions relating to disbursement by United States marshals which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, were transferred to and vested in Department of Justice to be exercised by United States marshals under supervision of Attorney General in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, §3, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 
 Functions relating to disbursement of postal revenues and all other funds under jurisdiction of Post Office Department, Postmaster General, and Board of Trustees of Postal Savings System which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, set out in note under this section, were transferred to and vested in (a) said Board of Trustees as to postal savings disbursements, and (b) Post Office Department as to all other disbursements involved, such functions to be exercised by postmasters and other authorized disbursing agents of Post Office Department and of Postal Savings System in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, §4, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 
 Public Buildings Branch of Procurement Division and its functions and personnel were transferred to Public Buildings Administration, and functions of Secretary of Agriculture and Director of Procurement Division relating to administration thereof and to selection of sites for public buildings were transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, §§301, 303, effective July 1, 1939. See also sections 307–310 of said plan for provisions relating to transfer of records, property, funds, and personnel.
-
-#### Executive Order No. 11007
-
-Ex. Ord. No. 11007, Feb. 27, 1962, 27 F.R. 1875, which related to regulations for formation and use of advisory committees, was superseded by Ex. Ord. No. 11671, June 5, 1972, 37 F.R. 11307.
-
-#### Executive Order No. 11671
-
-Ex. Ord. No. 11671, June 5, 1972, 37 F.R. 11307, which related to committee management, was superseded by Ex. Ord. No. 11686, Oct. 7, 1972, 37 F.R. 21421, set out in the Appendix to this title.
 

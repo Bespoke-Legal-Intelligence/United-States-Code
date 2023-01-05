@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(ii) the Secretary shall reinstate the Secretary's obligation to—
 
-&emsp;&emsp;&emsp;&emsp;(I) reimburse the guaranty agency for the amount that the agency may, in the future, expend to discharge the guaranty agency's insurance obligation; and
+&emsp;&emsp;&emsp;&emsp;(I) reimburse the guaranty agency for the amount that the agency may, in thefuture, expend to discharge the guaranty agency's insurance obligation; and
 
 &emsp;&emsp;&emsp;&emsp;(II) pay to the holder of such loan a special allowance pursuant to section 1087–1 of this title.
 
@@ -66,7 +66,7 @@
 
 #### (4) Applicability of general loan conditions
 
-&emsp;A loan that is sold or assigned under paragraph (1) shall, so long as the borrower continues to make scheduled repayments thereon,be subject to the same terms and conditions and qualify for the same benefits and privileges as other loans made under this part.
+&emsp;A loan that is sold or assigned under paragraph (1) shall, so long as the borrower continues to make scheduled repayments thereon, be subject to the same terms and conditions and qualify for the same benefits and privileges as other loans made under this part.
 
 #### (5) Limitation
 

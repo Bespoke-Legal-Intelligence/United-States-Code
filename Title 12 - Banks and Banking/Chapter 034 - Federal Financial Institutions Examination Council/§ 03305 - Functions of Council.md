@@ -64,7 +64,7 @@ Pub. L. 116–92, div. F, title LXXI, §7154(c), (d), Dec. 20, 2019, 133 Stat. 2
 
 "(c)
 
-Required Review of Procedures.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Federal Financial Institutions Examination Council, in consultation with the Secretary of the Treasury, victims of severe forms of trafficking in persons, advocates of persons at risk of becoming victims of severe forms of trafficking in persons, the United States Advisory Council on Trafficking, civil society organizations, the private sector, and appropriate law enforcement agencies, shall—
+Required Review of Procedures.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Federal Financial InstitutionsExamination Council, in consultation with the Secretary of the Treasury, victims of severe forms of trafficking in persons, advocates of persons at risk of becoming victims of severe forms of trafficking in persons, the United States Advisory Council on Trafficking, civil society organizations, the private sector, and appropriate law enforcement agencies, shall—
 
 &emsp;"(1) review and enhance training and examination procedures to improve the surveillance capabilities of anti-money laundering programs and programs countering the financing of terrorism to detect human trafficking-related financial transactions;
 
@@ -102,7 +102,7 @@ Requirements.—An examination improvement program meets the requirements of thi
 
 #### Study on Regulatory Burden
 
-Pub. L. 102–242, title II, §221, Dec. 19, 1991, 105 Stat. 2305, required the Federal Financial Institutions Examination Council, by 1 year after Dec. 19, 1991, and in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, to undertake a comprehensive study of the regulatory burden on insured depository institutions of compliance with Federalbanking agencies and their regulations and policies, and report to Congress on any revisions of such policies, procedures, and requirements that could reduce unnecessary burdens on insured depository institutions.
+Pub. L. 102–242, title II, §221, Dec. 19, 1991, 105 Stat. 2305, required the Federal Financial Institutions Examination Council, by 1 year after Dec. 19, 1991, and in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, to undertake a comprehensive study of the regulatory burden on insured depository institutions of compliance with Federal banking agencies and their regulations and policies, and report to Congress on any revisions of such policies, procedures, and requirements that could reduce unnecessary burdens on insured depository institutions.
 
 #### Study and Report Assessing Feasibility and Usefulness of Depository Institutions Making Small Business Loans To Compile and Disclose Loan Information
 

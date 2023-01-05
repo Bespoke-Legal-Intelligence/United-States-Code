@@ -22,7 +22,7 @@ Each local exchange carrier has the following duties:
 
 #### (3) Dialing parity
 
-&emsp;The duty to provide dialing parity to competing providers of telephone exchange serviceand telephone toll service, and the duty to permit all such providers to have nondiscriminatory access to telephone numbers, operator services, directory assistance, and directory listing, with no unreasonable dialing delays.
+&emsp;The duty to provide dialing parity to competing providers of telephone exchange service and telephone toll service, and the duty to permit all such providers to have nondiscriminatory access to telephone numbers, operator services, directory assistance, and directory listing, with no unreasonable dialing delays.
 
 #### (4) Access to rights-of-way
 
@@ -70,7 +70,7 @@ In addition to the duties contained in subsection (b), each incumbent local exch
 
 #### (6) Collocation
 
-&emsp;The duty to provide, on rates, terms, and conditions that are just, reasonable, and nondiscriminatory, for physical collocation of equipment necessary for interconnection or access to unbundled network elements at the premises of the local exchange carrier, except that the carrier may provide for virtual collocation if the local exchange carrier demonstrates to the State commission that physical collocation is not practical for technical reasons or because of space limitations.
+&emsp;The duty to provide, on rates, terms, and conditions that are just, reasonable, and nondiscriminatory, for physical collocation of equipment necessary for interconnection or access to unbundled network elements at thepremises of the local exchange carrier, except that the carrier may provide for virtual collocation if the local exchange carrier demonstrates to the State commission that physical collocation is not practical for technical reasons or because of space limitations.
 
 #### (d) Implementation
 

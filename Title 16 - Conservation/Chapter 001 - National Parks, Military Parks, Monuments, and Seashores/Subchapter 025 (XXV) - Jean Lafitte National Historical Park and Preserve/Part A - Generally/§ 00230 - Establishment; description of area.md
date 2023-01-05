@@ -10,7 +10,7 @@ In order to preserve for the education, inspiration, and benefit of present and 
 
 <b>2009</b>—Pub. L. 111–11, §7105(f)(2)(B), which directed amendment of title IX of Pub. L. 95–625 by substituting "Jean Lafitte National Historical Park and Preserve" for "Jean Lafitte National Historical Park" each place it appears, was not executed to first sentence or cl. (1) of second sentence of this section, to reflect the probable intent of Congress, because "Jean Lafitte National Historical Park" already appeared in those places preceding "and Preserve".
 
-Pub. L. 111–11, §7105(a), in second sentence, substituted "generally depicted on the map entitled 'Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve', numbered 467/80100A, and dated December 2007," for "of approximately twenty thousand acres generally depicted on the map entitled 'Barataria Marsh Unit-Jean Lafitte National Historical Park and Preserve' numbered 90,000B and dated April 1978,".
+Pub. L. 111–11, §7105(a), in second sentence, substituted "generally depicted on the map entitled 'Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve', numbered 467/80100A, and dated December 2007," for "of approximately twenty thousand acres generally depicted on the map entitled 'Barataria Marsh Unit-Jean LafitteNational Historical Park and Preserve' numbered 90,000B and dated April 1978,".
 
 <b>1988</b>—Pub. L. 100–250 added cl. (4) and redesignated former cls. (4) and (5) as (5) and (6), respectively.
 
@@ -27,6 +27,52 @@ Pub. L. 111–11, title VII, §7105(f)(1), Mar. 30, 2009, 123 Stat. 1193, provid
 "Jean Lafitte National Historical Park and Preserve" substituted for "Jean Lafitte National Historical Park" in cl. (5) pursuant to section 7105(f)(1)(B) of Pub. L. 111–11, set out above.
 
 "Chalmette Unit of the Jean Lafitte National Historical Park" substituted for "Chalmette National Historical Park" pursuant to section 230h of this title.
+
+#### Save the Liberty Theatre
+
+Pub. L. 117–112, Apr. 19, 2022, 136 Stat. 1171, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Save the Liberty Theatre Act of 2021'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+City.—The term 'City' means the City of Eunice, Louisiana.
+
+&emsp;"(2)
+
+Map.—The term 'map' means the map entitled 'Jean Lafitte National Historical Park and Preserve, Proposed Boundary Revision and Disposal', numbered 467/168813, and dated December 2020.
+
+&emsp;"(3)
+
+Secretary.—The term 'Secretary' means the Secretary of the Interior.
+
+#### "SEC. 3. LAND CONVEYANCE.
+
+"(a)
+
+Conveyance Authority.—The Secretary shall convey to the City, by quitclaim deed and without consideration, all right, title, and interest of the United States in and to the parcels of land described in subsection (b).
+
+"(b)
+
+Description of Land.—The parcels of land referred to in subsection (a) are Lots 5 and 6, less the North 27 feet of Lot 5, Block 22, of the Original Townsite of Eunice, generally depicted as 'Proposed Disposal Area' on the map.
+
+"(c)
+
+Availability of Map.—The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+#### "SEC. 4. BOUNDARY ADJUSTMENTS.
+
+"Upon the conveyance to the City of the land described in section 3(b), the boundary of the Jean Lafitte National Historical Park and Preserve shall be adjusted to exclude—
+
+&emsp;"(1) the conveyed land; and
+
+&emsp;"(2) Lots 7 and 8 of the Original Townsite of Eunice generally depicted as 'Non-NPS in Current Boundary' on the map."
 
 #### Laura C. Hudson Visitor Center
 

@@ -166,7 +166,7 @@ Section applicable to taxable years ending after Dec. 31, 1963, see section 220(
 
 #### Regulations
 
-Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
+Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1114 of Pub. L. 99–514,see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

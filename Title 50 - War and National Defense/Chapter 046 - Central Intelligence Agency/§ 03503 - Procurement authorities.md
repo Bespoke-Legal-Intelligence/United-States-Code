@@ -14,7 +14,7 @@ The determinations and decisions provided in subsection (a) of this section to b
 
 #### (d) Powers not delegable; written findings
 
-The power of the Agency head to make the determinations or decisions specified in paragraphs (12) and (15) of section 2304(a) and section 2307(a) of title 10 <sup>1</sup> shall not be delegable. Each determination or decision required by paragraphs (12) and (15) of section 2304(a), by sections 2306 and 2313, or by section 2307(a) of title 10,<sup>1</sup> shall be based upon written findings made by the official making such determinations, which findings shall be final and shall be available within the Agency for a period of at least six years following the date of the determination.
+The power of the Agency head to make the determinations or decisions specified in paragraphs (12) and (15) of section 2304(a) and section 2307(a) of title 10 <sup>1</sup> shall not be delegable. Each determination or decision required by paragraphs (12) and (15) of section 2304(a), by sections 2306 and 2313, or by section 2307(a) of title 10,<sup>1</sup> shall be based upon written findings made bythe official making such determinations, which findings shall be final and shall be available within the Agency for a period of at least six years following the date of the determination.
 
 (June 20, 1949, ch. 227, §3, 63 Stat. 208; Pub. L. 97–269, title V, §502(a), Sept. 27, 1982, 96 Stat. 1145; Pub. L. 104–106, div. E, title LVI, §5607(f), Feb. 10, 1996, 110 Stat. 702.)
 
@@ -24,7 +24,7 @@ The power of the Agency head to make the determinations or decisions specified i
 
 Section was formerly classified to section 403c of this title prior to editorial reclassification and renumbering as this section.
 
-In subsecs. (a) and (d), references to the appropriate sections of title 10 were substituted for references to sections 2(c)(1) to (6), (10), (12), (15), (17), 3, 4, 5, 6, and 10 of the Armed Services Procurement Act of 1947 (Public Law 413, 80th Congress), on authority of section 49(b) of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, section 1 of which enacted Title 10, Armed Forces. Prior to the enactment of Title 10, sections 2 to 6 and 10 of the Armed Services Procurement Act of 1947 were classified to sections 151 to 155 and 159 of former Title 41, PublicContracts. Cited sections of the Act were restated in sections of Title 10 as follows:
+In subsecs. (a) and (d), references to the appropriate sections of title 10 were substituted for references to sections 2(c)(1) to (6), (10), (12), (15), (17), 3, 4, 5, 6, and 10 of the Armed Services Procurement Act of 1947 (Public Law 413, 80th Congress), on authority of section 49(b) of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, section 1 of which enacted Title 10, Armed Forces. Prior to the enactment of Title 10, sections 2 to 6 and 10 of the Armed Services Procurement Act of 1947 were classified to sections 151 to 155 and 159 of former Title 41, Public Contracts. Cited sections of the Act were restated in sections of Title 10 as follows:
 
 &nbsp;
 

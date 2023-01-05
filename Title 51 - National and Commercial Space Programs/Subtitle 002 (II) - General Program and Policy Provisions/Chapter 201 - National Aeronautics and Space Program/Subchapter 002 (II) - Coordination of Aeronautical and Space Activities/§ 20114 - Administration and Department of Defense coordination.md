@@ -2,7 +2,7 @@
 
 (a)
 
-Advise and Consult.—The Administration and the Department of Defense, through the President, shall advise and consult with each other on all matters within their respective jurisdictions related to aeronautical and space activities and shall keep each other fully and currently informed with respect to such activities.
+Advise and Consult.—The Administration and the Department of Defense, through thePresident, shall advise and consult with each other on all matters within their respective jurisdictions related to aeronautical and space activities and shall keep each other fully and currently informed with respect to such activities.
 
 (b)
 

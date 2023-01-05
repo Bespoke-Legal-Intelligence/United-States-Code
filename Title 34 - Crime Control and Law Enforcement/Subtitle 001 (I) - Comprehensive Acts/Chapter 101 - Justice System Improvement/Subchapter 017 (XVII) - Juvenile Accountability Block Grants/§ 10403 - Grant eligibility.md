@@ -10,7 +10,7 @@ To be eligible to receive a grant under this subchapter, a State shall submit to
 
 &emsp;&emsp;(B) the criteria by which the State proposes to assess the effectiveness of such activities on achieving the purposes of this subchapter, including the extent to which evidence-based approaches are utilized; and
 
-&emsp;(2) assurances that the State and any unit of local government to which the State provides funding under section 10404(b) of this title, has in effect (or shall have in effect, not later than 1 year after the date that the State submits such application) laws, or has implemented (or shall implement, not later than 1 year after the date that the State submits such application) policies and programs, that provide for a system of graduated sanctions described in subsection (d).
+&emsp;(2) assurances that the State and any unit of local government to which the State providesfunding under section 10404(b) of this title, has in effect (or shall have in effect, not later than 1 year after the date that the State submits such application) laws, or has implemented (or shall implement, not later than 1 year after the date that the State submits such application) policies and programs, that provide for a system of graduated sanctions described in subsection (d).
 
 #### (b) Local eligibility
 
@@ -80,7 +80,7 @@ In this section:
 
 #### (1) Discretionary
 
-&emsp;The term "discretionary" means that a system of graduated sanctions is not required tobe imposed by each and every juvenile court in a State or unit of local government.
+&emsp;The term "discretionary" means that a system of graduated sanctions is not required to be imposed by each and every juvenile court in a State or unit of local government.
 
 #### (2) Sanctions
 

@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) $3 ($0.33 for qualified natural gas production).
 
-> &emsp;&emsp;The applicable reference price for a taxable year is the reference price of the calendar year preceding the calendar year in which the taxable year begins.
+> &emsp;&emsp;The applicable reference price for a taxable year is the reference price of the calendaryear preceding the calendar year in which the taxable year begins.
 
 #### (B) Inflation adjustment
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (ii) Wells not in production entire year
 
-&emsp;&emsp;&emsp;In the case of a well which is not capable of production during each day of a taxable year, the limitations under this paragraph applicable to the well shall be proportionately reduced to reflect the ratio which the number of days of production bears tothe total number of days in the taxable year.
+&emsp;&emsp;&emsp;In the case of a well which is not capable of production during each day of a taxable year, the limitations under this paragraph applicable to the well shall be proportionately reduced to reflect the ratio which the number of days of production bears to the total number of days in the taxable year.
 
 #### (3) Definitions
 
@@ -131,6 +131,8 @@ Section applicable to production in taxable years beginning after Dec. 31, 2004,
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2021</b>—Internal Revenue Notice 2022–18.
 
 <b>2020</b>—Internal Revenue Notice 2021–34.
 

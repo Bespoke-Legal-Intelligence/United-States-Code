@@ -42,7 +42,7 @@ Quarterly Briefings.—(1) The Secretary of Defense shall ensure that the congre
 
 &emsp;(C) the proposed timeline for action and resources required to address such gaps or vulnerabilities.
 
-(Added Pub. L. 104–201, div. A, title VIII, §829(e), Sept. 23, 1996, 110 Stat. 2614, §2504; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–239, div. A, title XVI,§1603(b), Jan. 2, 2013, 126 Stat. 2063; Pub. L. 116–92, div. A, title VIII, §846(b), Dec. 20, 2019, 133 Stat. 1503; renumbered §4814 and amended Pub. L. 116–283, div. A, title VIII, §842(a), (b)(1), title XVIII, §1867(b), (d)(3), Jan. 1, 2021, 134 Stat. 3764, 3765, 4281; Pub. L. 117–81, div. A, title III, §333, title XVII, §1701(b)(22)(A), (d)(15), Dec. 27, 2021, 135 Stat. 1638, 2135, 2137.)
+(Added Pub. L. 104–201, div. A, title VIII, §829(e), Sept. 23, 1996, 110 Stat. 2614, §2504; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–239, div. A, title XVI, §1603(b), Jan. 2, 2013, 126 Stat. 2063; Pub. L. 116–92, div. A, title VIII, §846(b), Dec. 20, 2019, 133 Stat. 1503; renumbered §4814 and amended Pub. L. 116–283, div. A, title VIII, §842(a), (b)(1), title XVIII, §1867(b), (d)(3), Jan. 1, 2021, 134 Stat. 3764, 3765, 4281; Pub. L. 117–81, div. A, title III, §333, title XVII, §1701(b)(22)(A), (d)(15), Dec. 27, 2021, 135 Stat. 1638, 2135, 2137.)
 
 #### <b>Editorial Notes</b>
 
@@ -87,8 +87,4 @@ Amendment by section 1701(b)(22)(A) of Pub. L. 117–81 applicable as if include
 Amendment by section 1701(d)(15) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by section 1867(b), (d)(3) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
-
-#### Termination of Reporting Requirements
-
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 

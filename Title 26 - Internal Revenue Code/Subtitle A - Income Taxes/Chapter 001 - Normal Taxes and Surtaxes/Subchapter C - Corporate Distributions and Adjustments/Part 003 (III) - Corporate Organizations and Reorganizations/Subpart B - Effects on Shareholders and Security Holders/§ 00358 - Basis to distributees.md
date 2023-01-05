@@ -134,7 +134,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §309(d)\], Dec. 21, 2000, 114 Stat. 2
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section and section 357 of this title\] shall apply to assumptions of liability after October 18, 1999.
+In general.—The amendments made by this section \[amending this section and section 357 of this title\]shall apply to assumptions of liability after October 18, 1999.
 
 "(2)
 
@@ -170,7 +170,7 @@ Pub. L. 85–866, §21(b), Sept. 2, 1958, 72 Stat. 1620, as amended by Pub. L. 9
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Abolition of United States Railway Association and Transfer of Functions
 

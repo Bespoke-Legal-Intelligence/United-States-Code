@@ -74,7 +74,7 @@ For purposes of this chapter—
 
 #### (12) Rollover contract
 
-&emsp;The term "rollover contract" means any contract, entered into on or after November 9,1978, for the first sale of natural gas that was previously subject to an existing contract which expired at the end of a fixed term (not including any extension thereof taking effect on or after November 9, 1978) specified by the provisions of such existing contract, as such contract was in effect on November 9, 1978, whether or not there is an identity of parties or terms with those of such existing contract.
+&emsp;The term "rollover contract" means any contract, entered into on or after November 9, 1978, for the first sale of natural gas that was previously subject to an existing contract which expired at the end of a fixed term (not including any extension thereof taking effect on or after November 9, 1978) specified by the provisions of such existing contract, as such contract was in effect on November 9, 1978, whether or not there is an identity of parties or terms with those of such existing contract.
 
 #### (13) Existing contract
 
@@ -82,7 +82,7 @@ For purposes of this chapter—
 
 #### (14) Successor to an existing contract
 
-&emsp;The term "successor to an existing contract" means any contract, other than a rollover contract, entered into on or after November 9, 1978, for the first sale of natural gas which was previously subject to an existing contract, whether or not there is an identity of parties or terms with those of such existing contract.
+&emsp;The term "successor to an existing contract" means any contract, other than a rollover contract, entered into on or after November 9, 1978, for the first sale of natural gaswhich was previously subject to an existing contract, whether or not there is an identity of parties or terms with those of such existing contract.
 
 #### (15) Interstate pipeline
 
@@ -150,7 +150,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(iv) which precedes any sale described in clauses (i), (ii), or (iii); and
 
-&emsp;&emsp;&emsp;(v) which precedes or follows any sale described in clauses (i), (ii), (iii), or (iv) and is defined by the Commission as a first sale in order to prevent circumvention ofany maximum lawful price established under this chapter.
+&emsp;&emsp;&emsp;(v) which precedes or follows any sale described in clauses (i), (ii), (iii), or (iv) and is defined by the Commission as a first sale in order to prevent circumvention of any maximum lawful price established under this chapter.
 
 #### (B) Certain sales not included
 
@@ -158,7 +158,7 @@ For purposes of this chapter—
 
 #### (22) Deliver
 
-&emsp;The term "deliver", when used with respect to any first sale of natural gas, means the physical delivery from the seller; except that in the case of the sale of proven reserves in place to any interstate pipeline, any intrastate pipeline, any local distribution company, or any user of such natural gas, such term means the transfer of title to such reserves.
+&emsp;The term "deliver", when used with respect to any first sale of natural gas, means the physical delivery from the seller; except that in the case of the sale of proven reserves inplace to any interstate pipeline, any intrastate pipeline, any local distribution company, or any user of such natural gas, such term means the transfer of title to such reserves.
 
 #### (23) Certificate
 
@@ -226,17 +226,17 @@ For purposes of this chapter—
 
 #### References in Text
 
-The Natural Gas Act, and such Act, referred to in pars. (15), (16), (18)(A)(ii), (B)(i), (iii)(II), (23), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, and such Act, referred to in pars. (15), (16), (18)(A)(ii), (B)(i), (iii)(II), (23), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
 Section 6 of the Emergency Natural Gas Act of 1977, referred to in par. (18)(B)(i)(I), is Pub. L. 95–2, §6, Feb. 2, 1977, 91 Stat. 7, which was formerly set out in a note under section 717 of this title.
 
-The Sherman Act (15 U.S.C. 1 et seq.), referred to in par. (37), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
+The Sherman Act (15 U.S.C. 1 et seq.), referred to in par. (37), is act July 2, 1890, ch. 647, 26 Stat. 209, which is classified to sections 1 to 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
-The Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+The Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
-The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in par. (37), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in par. (37), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Act of June 19, 1936, chapter 592, referred to in par. (37), means act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 13 of this title and Tables.
+Act of June 19, 1936, chapter 592, referred to in par. (37), means act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -246,5 +246,5 @@ Pub. L. 101–60, §1, July 26, 1989, 103 Stat. 157, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 95–621, §1, Nov. 9, 1978, 92 Stat. 3351, provided that: "This Act \[enacting this chapter and amending section 7255 of Title 42, The Public Health and Welfare\] may be cited as the 'Natural Gas Policy Act of 1978'."
+Pub. L. 95–621, §1, Nov. 9, 1978, 92 Stat. 3351, provided that: "This Act \[enacting this chapter and amendingsection 7255 of Title 42, The Public Health and Welfare\] may be cited as the 'Natural Gas Policy Act of 1978'."
 

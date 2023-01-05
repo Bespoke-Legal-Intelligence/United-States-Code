@@ -124,7 +124,7 @@ For purposes of this section, the term "emergency declaration" means a declarati
 
 &emsp;&emsp;&nbsp;except that this clause shall not apply to pleural thickening or pleural plaques unless there are symptoms or conditions requiring medical treatment as a result of these diagnoses.
 
-&emsp;&emsp;&emsp;(ii) Mesothelioma, or malignancies of the lung, colon, rectum, larynx, stomach,esophagus, pharynx, or ovary, as established by—
+&emsp;&emsp;&emsp;(ii) Mesothelioma, or malignancies of the lung, colon, rectum, larynx, stomach, esophagus, pharynx, or ovary, as established by—
 
 &emsp;&emsp;&emsp;&emsp;(I) pathologic examination of biopsy tissue;
 

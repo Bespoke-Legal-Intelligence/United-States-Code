@@ -14,7 +14,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;&emsp;(B) in the case of a letter, memorandum, or similar property, a taxpayer for whom such property was prepared or produced, or
 
-&emsp;&emsp;(C) a taxpayer in whose hands the basis of such property is determined, for purposes of determining gain from a sale or exchange, in whole or part by reference to the basis of such property in the hands of a taxpayer described in subparagraph (A) or (B);
+&emsp;&emsp;(C) a taxpayer in whose hands the basis of such property is determined, for purposes ofdetermining gain from a sale or exchange, in whole or part by reference to the basis of such property in the hands of a taxpayer described in subparagraph (A) or (B);
 
 &emsp;(4) accounts or notes receivable acquired in the ordinary course of trade or business for services rendered or from the sale of property described in paragraph (1);
 
@@ -68,7 +68,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;&emsp;&emsp;(i) to manage risk of price changes or currency fluctuations with respect to ordinary property which is held or to be held by the taxpayer,
 
-&emsp;&emsp;&emsp;(ii) to manage risk of interest rate or price changes or currency fluctuationswith respect to borrowings made or to be made, or ordinary obligations incurred or to be incurred, by the taxpayer, or
+&emsp;&emsp;&emsp;(ii) to manage risk of interest rate or price changes or currency fluctuations with respect to borrowings made or to be made, or ordinary obligations incurred or to be incurred, by the taxpayer, or
 
 &emsp;&emsp;&emsp;(iii) to manage such other risks as the Secretary may prescribe in regulations.
 
@@ -88,7 +88,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of paragraph (6) and (7) of subsection (a) in the case of transactions involving related parties.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 91–172, title V, §514(a), Dec. 30, 1969, 83 Stat. 643; Pub. L. 94–455, title XIX, §1901(c)(9), title XXI, §2132(a), Oct. 4, 1976, 90 Stat. 1803, 1925; Pub. L. 97–34, title V, §505(a), Aug. 13, 1981, 95 Stat. 331; Pub. L. 106–170, title V, §532(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 107–16, title V, §542(e)(2)(A), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(20), Mar. 9, 2002, 116 Stat. 57; Pub. L. 109–222, title II, §204(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §412(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 115–97, title I, §13314(a), Dec. 22, 2017, 131 Stat. 2133.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 91–172, title V, §514(a), Dec. 30, 1969, 83 Stat. 643; Pub. L. 94–455, title XIX, §1901(c)(9), title XXI, §2132(a), Oct. 4, 1976, 90 Stat. 1803, 1925; Pub. L. 97–34, title V, §505(a), Aug. 13, 1981, 95 Stat. 331; Pub. L. 106–170, title V, §532(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 107–16, title V, §542(e)(2)(A), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV,§417(20), Mar. 9, 2002, 116 Stat. 57; Pub. L. 109–222, title II, §204(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §412(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 115–97, title I, §13314(a), Dec. 22, 2017, 131 Stat. 2133.)
 
 #### <b>Editorial Notes</b>
 

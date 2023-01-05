@@ -6,7 +6,7 @@ The Secretary of Energy shall take such steps as are feasible to assure that sma
 
 #### (b) Reservation of funds
 
-To assist in accomplishing the objectives of subsection (a), the Secretary of Energy shall reserve, for contracts with small business concerns, a reasonable portion of the funds made available pursuant to this chapter for research, development, or demonstration of electric or hybrid vehicles.
+To assist in accomplishing the objectives of subsection (a), the Secretary of Energy shall reserve, for contracts with small business concerns, a reasonable portion of the funds made available pursuant to this chapter for research,development, or demonstration of electric or hybrid vehicles.
 
 #### (c) Contract terms and conditions; planning grants
 

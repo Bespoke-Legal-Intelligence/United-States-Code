@@ -18,7 +18,7 @@ No deduction shall be allowed for—
 
 #### (4) Interest related to exempt-interest dividends
 
-&emsp;Interest on indebtedness incurred or continued to purchase or carry shares of stock of a regulated investment company which duringthe taxable year of the holder thereof distributes exempt-interest dividends.
+&emsp;Interest on indebtedness incurred or continued to purchase or carry shares of stock of a regulated investment company which during the taxable year of the holder thereof distributes exempt-interest dividends.
 
 #### (5) Special rules for application of paragraph (2) in the case of short sales
 
@@ -294,7 +294,7 @@ Pars. (3), (4). Pub. L. 94–455, §2137(e), added pars. (3) and (4).
 
 Pub. L. 111–5, div. B, title I, §1501(c), Feb. 17, 2009, 123 Stat. 353, provided that: "The amendments made by this section \[amending this section and section 291 of this title\] shall apply to obligations issued after December 31, 2008."
 
-Pub. L. 111–5, div. B, title I, §1502(b), Feb. 17, 2009, 123 Stat. 354, provided that: "The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2008."
+Pub. L. 111–5, div. B, title I, §1502(b), Feb. 17, 2009, 123 Stat. 354, provided that: "The amendment made by thissection \[amending this section\] shall apply to obligations issued after December 31, 2008."
 
 #### Effective Date of 1997 Amendment
 
@@ -350,7 +350,7 @@ Obligations acquired pursuant to certain commitments.—For purposes of sections
 
 "(3)
 
-Transitional rules.—For purposes of sections 265(b) and 291(e)(1)(B) of the Internal Revenue Code of1986, obligations with respect to any of the following projects shall be treated as obligations acquired before August 8, 1986, in the hands of the first and any subsequent financial institution acquiring such obligations:
+Transitional rules.—For purposes of sections 265(b) and 291(e)(1)(B) of the Internal Revenue Code of 1986, obligations with respect to any of the following projects shall be treated as obligations acquired before August 8, 1986, in the hands of the first and any subsequent financial institution acquiring such obligations:
 
 &emsp;"(A) Park Forest, Illinois, redevelopment project.
 

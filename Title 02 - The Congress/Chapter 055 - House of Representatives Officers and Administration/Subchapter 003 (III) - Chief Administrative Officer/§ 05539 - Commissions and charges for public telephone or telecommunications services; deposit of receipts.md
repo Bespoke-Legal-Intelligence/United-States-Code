@@ -8,7 +8,7 @@ Effective October 1, 1988, the Chief Administrative Officer of the House of Repr
 
 Receipts from the commissions and charges set forth in subsection (a) of this section shall be deposited in the United States Treasury for credit to the appropriation for "Salaries and Expenses of the United States House of Representatives", and shall be available for expenditure upon the approval of the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 100–458, title III, §306, Oct. 1, 1988, 102 Stat. 2182; Pub. L. 104–186, title II, §204(64), Aug. 20, 1996, 110 Stat. 1739; Pub. L. 108–447, div. G, title I, §102(d), Dec. 8, 2004, 118 Stat. 3174.)
+(Pub. L. 100–458, title III, §306, Oct. 1, 1988, 102 Stat. 2182; Pub. L. 104–186, title II, §204(64), Aug.20, 1996, 110 Stat. 1739; Pub. L. 108–447, div. G, title I, §102(d), Dec. 8, 2004, 118 Stat. 3174.)
 
 #### <b>Editorial Notes</b>
 

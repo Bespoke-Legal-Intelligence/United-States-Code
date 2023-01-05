@@ -70,7 +70,7 @@ A project that receives assistance under this section shall be carried out subje
 
 #### (A) Green projects
 
-&emsp;&emsp;To the extent there are sufficient eligible project applications, the Administrator shall ensure that a State uses not less than 20 percent of the amount of the grants made to the State under subsection (a) in a fiscal year to carry out projects to intercept, transport, control, treat, or reuse municipal combined sewer overflows, sanitary sewer overflows, or stormwater through the use of green infrastructure, water and energy efficiency improvements, and other environmentally innovative activities.
+&emsp;&emsp;To the extent there are sufficient eligible project applications, the Administrator shallensure that a State uses not less than 20 percent of the amount of the grants made to the State under subsection (a) in a fiscal year to carry out projects to intercept, transport, control, treat, or reuse municipal combined sewer overflows, sanitary sewer overflows, or stormwater through the use of green infrastructure, water and energy efficiency improvements, and other environmentally innovative activities.
 
 #### (B) Rural or financially distressed community allocation
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;A procedure developed under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) ensure that a supervisory or senior staff person with training in restraint andseclusion who is competent to conduct a face-to-face assessment (as defined in regulations promulgated by the Secretary), will assess the mental and physical well-being of the child or youth being restrained or secluded and assure that the restraint or seclusion is being done in a safe manner;
+&emsp;&emsp;&emsp;(i) ensure that a supervisory or senior staff person with training in restraint and seclusion who is competent to conduct a face-to-face assessment (as defined in regulations promulgated by the Secretary), will assess the mental and physical well-being of the child or youth being restrained or secluded and assure that the restraint or seclusion is being done in a safe manner;
 
 &emsp;&emsp;&emsp;(ii) ensure that the assessment required under clause (i) take place as soon as practicable, but in no case later than 1 hour after the initiation of the restraint or seclusion; and
 
@@ -58,7 +58,7 @@
 
 #### (1) In general
 
-&emsp;Nothing in this section shall be construed as prohibiting the use of restraints for medical immobilization, adaptive support, or medical protection.
+&emsp;Nothing in this section shall be construed as prohibiting the use of restraints for medicalimmobilization, adaptive support, or medical protection.
 
 #### (2) Current law
 
@@ -94,7 +94,7 @@ In this section:
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
 

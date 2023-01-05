@@ -84,7 +84,7 @@ Funds provided pursuant to this section may be used for—
 
 &emsp;(C) projected number of cases per month; and
 
-&emsp;(D) special circumstances warranting additional program resources, such as high incidence of child sexual abuse, high incidence ofviolent crimes against women, or the existence of a significant victim population within the community.
+&emsp;(D) special circumstances warranting additional program resources, such as high incidence of child sexual abuse, high incidence of violent crimes against women, or the existence of a significant victim population within the community.
 
 (4) The formula established pursuant to this subsection shall provide funding necessary to support—
 

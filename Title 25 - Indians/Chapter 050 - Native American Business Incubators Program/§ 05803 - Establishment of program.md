@@ -114,7 +114,7 @@ The Secretary shall establish a program in the Office of Indian Energy and Econo
 
 &emsp;&emsp;&emsp;&emsp;(I) consider the program goal of achieving broad geographic distribution of business incubators; and
 
-&emsp;&emsp;&emsp;&emsp;(II) except as provided in clause (ii), give priority to eligible applicants thatwill provide business incubation services on or near the reservation of the 1 or more communities that were described in the application.
+&emsp;&emsp;&emsp;&emsp;(II) except as provided in clause (ii), give priority to eligible applicants that will provide business incubation services on or near the reservation of the 1 or more communities that were described in the application.
 
 #### (ii) Exception
 
@@ -298,7 +298,7 @@ The Secretary shall establish a program in the Office of Indian Energy and Econo
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 2 years after the date on which the Secretary first awards fundingunder the program, and biennially thereafter, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report on the performance and effectiveness of the program.
+&emsp;&emsp;Not later than 2 years after the date on which the Secretary first awards funding under the program, and biennially thereafter, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report on the performance and effectiveness of the program.
 
 #### (B) Contents
 

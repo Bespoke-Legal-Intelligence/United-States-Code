@@ -36,7 +36,7 @@ Status of Federal Employees Assigned to Private-sector Organizations.—(1) An e
 
 &emsp;(A) ensure that the normal duties and functions of such employee can be reasonably performed by other employees of the Department of Defense without the permanent transfer or reassignment of other personnel of the Department of Defense, including members of the armed forces;
 
-&emsp;(B) ensure that the normal duties and functions of such employees are not, as a result ofand during the course of such temporary assignment, performed or augmented by contractor personnel in violation of the provisions of section 2461 of this title; and
+&emsp;(B) ensure that the normal duties and functions of such employees are not, as a result of and during the course of such temporary assignment, performed or augmented by contractor personnel in violation of the provisions of section 2461 of this title; and
 
 &emsp;(C) certify that the temporary assignment of such employee shall not have an adverse or negative impact on mission attainment, warfighter support, or organizational capabilities associated with the assignment.
 
@@ -86,7 +86,7 @@ Conflicts of Interest.—A private-sector organization that is temporarily assig
 
 (j)
 
-Funding; Use of Defense Acquisition Workforce Development Fund.—Funds for the expenses for the program established under this section may be provided from amounts in the Department of Defense Acquisition Workforce Development Fund. Expenses for the program include—
+Funding; Use of Defense Acquisition Workforce Development Fund.—Funds for the expenses for the program established under this section may be provided from amounts in theDepartment of Defense Acquisition Workforce Development Fund. Expenses for the program include—
 
 &emsp;(1) notwithstanding section 1705(e)(5) of this title, the base salary of a civilian member of the acquisition workforce assigned to a private-sector organization under this section, during the period of that assignment;
 
@@ -94,7 +94,11 @@ Funding; Use of Defense Acquisition Workforce Development Fund.—Funds for the 
 
 &emsp;(3) expenses for the administration of the program.
 
-(Added Pub. L. 114–328, div. A, title XI, §1104(a), Dec. 23, 2016, 130 Stat. 2445; amended Pub. L. 116–92, div. A, title VIII, §863(a), title XI, §1116, Dec. 20, 2019, 133 Stat. 1522, 1604; Pub. L. 116–283, div. A, title XI, §1102(a), Jan. 1, 2021, 134 Stat. 3885.)
+(k)
+
+Report.—Each member of the acquisition workforce that participates in the program established under this section shall, upon completion of such participation, submit to the President of the Defense Acquisition University for inclusion in the report required under section 1746a(e) a description and evaluation of such participation.
+
+(Added Pub. L. 114–328, div. A, title XI, §1104(a), Dec. 23, 2016, 130 Stat. 2445; amended Pub. L. 116–92, div. A, title VIII, §863(a), title XI, §1116, Dec. 20, 2019, 133 Stat. 1522, 1604; Pub. L. 116–283, div. A, title XI, §1102(a), Jan. 1, 2021, 134 Stat. 3885; Pub. L. 117–263, div. A, title VIII, §831(c), Dec. 23, 2022, 136 Stat. 2712.)
 
 #### <b>Editorial Notes</b>
 
@@ -102,9 +106,11 @@ Funding; Use of Defense Acquisition Workforce Development Fund.—Funds for the 
 
 The Federal Tort Claims Act, referred to in subsec. (f)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
-The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§13101 et seq.) of Title 5 by Pub. L. 117–286, §§3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (k). Pub. L. 117–263 added subsec. (k).
 
 <b>2021</b>—Subsec. (b)(1)(C). Pub. L. 116–283, §1102(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "shall contain language ensuring that such employee of the Department does not improperly use pre-decisional or draft deliberative information that such employee may be privy to or aware of related to Department programing, budgeting, resourcing, acquisition, or procurement for the benefit or advantage of the private-sector organization."
 

@@ -48,7 +48,7 @@ The Administrator, in consultation with the Secretary of the Interior, shall con
 
 The Administrator shall undertake a comprehensive study and publish a report on sludge. Such study shall include an analysis of—
 
-&emsp;(1) what types of solid waste (including but not limited to sewage and pollution treatment residues and other residues from industrial operations such as extraction of oil from shale,liquefaction and gasification of coal and coal slurry pipeline operations) shall be classified as sludge;
+&emsp;(1) what types of solid waste (including but not limited to sewage and pollution treatment residues and other residues from industrial operations such as extraction of oil from shale, liquefaction and gasification of coal and coal slurry pipeline operations) shall be classified as sludge;
 
 &emsp;(2) the effects of air and water pollution legislation on the creation of large volumes of sludge;
 
@@ -110,7 +110,7 @@ The Administrator shall complete the research and studies, and submit the report
 
 #### (m) Drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy
 
-(1) The Administrator shall conduct a detailed and comprehensive study and submit a report on the adverse effects, if any, of drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy on human health and the environment, including, but not limited to, the effects of such wastes on humans, water, air, health, welfare, and naturalresources and on the adequacy of means and measures currently employed by the oil and gas and geothermal drilling and production industry, Government agencies, and others to dispose of and utilize such wastes and to prevent or substantially mitigate such adverse effects. Such study shall include an analysis of—
+(1) The Administrator shall conduct a detailed and comprehensive study and submit a report on the adverse effects, if any, of drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy on human health and the environment, including, but not limited to, the effects of such wastes on humans, water, air, health, welfare, and natural resources and on the adequacy of means and measures currently employed by the oil and gas and geothermal drilling and production industry, Government agencies, and others to dispose of and utilize such wastes and to prevent or substantially mitigate such adverse effects. Such study shall include an analysis of—
 
 &emsp;(A) the sources and volume of discarded material generated per year from such wastes;
 
@@ -178,7 +178,7 @@ The Administrator shall conduct a detailed and comprehensive study of the advers
 
 #### (p) Materials generated from extraction, beneficiation, and processing of ores and minerals, including phosphate rock and overburden from uranium mining
 
-The Administrator shall conduct a detailed and comprehensive study on the adverse effects on human health and the environment, if any, of the disposal and utilization of solid waste from the extraction, beneficiation, and processing of ores and minerals, including phosphate rock and overburden from uranium mining. Such study shall be conducted in conjunction with thestudy of mining wastes required by subsection (f) of this section and shall include an analysis of—
+The Administrator shall conduct a detailed and comprehensive study on the adverse effects on human health and the environment, if any, of the disposal and utilization of solid waste from the extraction, beneficiation, and processing of ores and minerals, including phosphate rock and overburden from uranium mining. Such study shall be conducted in conjunction with the study of mining wastes required by subsection (f) of this section and shall include an analysis of—
 
 &emsp;(1) the source and volumes of such materials generated per year;
 

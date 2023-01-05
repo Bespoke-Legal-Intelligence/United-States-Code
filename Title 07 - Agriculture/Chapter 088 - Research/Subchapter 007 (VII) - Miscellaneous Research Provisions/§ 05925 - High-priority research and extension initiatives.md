@@ -436,7 +436,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (5) Consultation
 
-&emsp;The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
+&emsp;The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shallpublish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
 
 &emsp;&emsp;(A) allowing for managed honey bees to forage on National Forest System lands where compatible with other natural resource management priorities; and
 
@@ -468,7 +468,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(F), is act June 25, 1938, ch. 675, 52Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(F), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Agricultural Act of 2014, referred to in subsec. (f)(3)(F), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
@@ -566,7 +566,7 @@ Subsec. (h). Pub. L. 107–171, §7119, substituted "2007" for "2002".
 
 <b>1998</b>—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsecs. (a) to (f) which authorized specialized research programs relating to, respectively, brown citrus aphid and citrus tristeza virus, ethanol, aflatoxin, mesquite, prickly pear, and deer tick ecology and related research, and for provisions in subsec. (g) subjecting research to peer review, setting limitation on use of funds, and providing for general eligibility to participate in programs.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §§863(1), 888, added subsec. (a) and struck out heading and text of formersubsec. (a). Text read as follows: "The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption."
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §§863(1), 888, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption."
 
 Subsecs. (d)(4), (e)(4). Pub. L. 104–127, §836, substituted "1997" for "1995".
 
@@ -700,7 +700,7 @@ Sec. 2. <i>Mission and Function of the Task Force</i>. Within 180 days of the da
 
 Sec. 3. <i>Increasing and Improving Pollinator Habitat</i>. Unless otherwise specified, within 180 days of the date of this memorandum:
 
-(a) Task Force member agencies shall develop and provide to the Task Force plans to enhance pollinator habitat, and subsequently implement, as appropriate, such plans on their managed lands and facilities, consistent with their missions and public safety. These plans may include: facility landscaping, including easements; land management; policies with respect to road and other rights-of-way; educational gardens; use of integrated vegetation and pest management; increased native vegetation; and application of pollinator-friendly best management practices and seed mixes. Task Force member agencies shall also review any new or renewing land management contracts and grants for the opportunity to include requirements for enhancing pollinator habitat.
+(a) Task Force member agencies shall develop and provide to the Task Force plans to enhance pollinator habitat, and subsequently implement, as appropriate, such plans on their managed lands and facilities, consistent with their missions and public safety. These plans may include: facility landscaping, including easements; land management; policies with respect to roadand other rights-of-way; educational gardens; use of integrated vegetation and pest management; increased native vegetation; and application of pollinator-friendly best management practices and seed mixes. Task Force member agencies shall also review any new or renewing land management contracts and grants for the opportunity to include requirements for enhancing pollinator habitat.
 
 (b) Task Force member agencies shall evaluate permit and management practices on power line, pipeline, utility, and other rights-of-way and easements, and, consistent with applicable law, make any necessary and appropriate changes to enhance pollinator habitat on Federal lands through the use of integrated vegetation and pest management and pollinator-friendly best management practices, and by supplementing existing agreements and memoranda of understanding with rights-of-way holders, where appropriate, to establish and improve pollinator habitat.
 

@@ -16,7 +16,7 @@ The Secretary of the Interior and the Secretary of Agriculture, in consultation 
 
 #### (b) Extended trails
 
-For purposes of this section, the term "extended trails" means trails or trail segments which total at least one hundred miles in length, except that historic trails of less than one hundred miles may be designated as extended trails. While it is desirable that extended trails be continuous, studies of such trails may conclude that it is feasible to propose one or more trail segments which, in the aggregate, constitute at least one hundred miles in length.
+For purposes of this section, the term "extended trails" means trails or trail segments which total at least one hundred miles in length, except that historic trails of less thanone hundred miles may be designated as extended trails. While it is desirable that extended trails be continuous, studies of such trails may conclude that it is feasible to propose one or more trail segments which, in the aggregate, constitute at least one hundred miles in length.
 
 (Pub. L. 90–543, §3, Oct. 2, 1968, 82 Stat. 919; Pub. L. 95–625, title V, §551(4), (5), Nov. 10, 1978, 92 Stat. 3511, 3512; Pub. L. 98–11, title II, §203, Mar. 28, 1983, 97 Stat. 42; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(E), Nov. 12, 1996, 110 Stat. 4196.)
 

@@ -50,7 +50,7 @@ Whoever falsely certifies past compliance with the requirements of section 636(j
 
 #### (1) In general
 
-&emsp;Whoever violates a requirement established under section 657s of this title shall be subjectto the penalties prescribed in subsection (d), except that, for an entity that exceeded a limitation on subcontracting under such section, the fine described in subsection (d)(2)(A) shall be treated as the greater of—
+&emsp;Whoever violates a requirement established under section 657s of this title shall be subject to the penalties prescribed in subsection (d), except that, for an entity that exceeded a limitation on subcontracting under such section, the fine described in subsection (d)(2)(A) shall be treated as the greater of—
 
 &emsp;&emsp;(A) $500,000; or
 
@@ -66,13 +66,13 @@ Whoever falsely certifies past compliance with the requirements of section 636(j
 
 #### References in Text
 
-The Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801–3812), referred to in subsec. (d)(2)(B), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, as amended, which is classified generally to chapter 38 (§3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of Title 31 and Tables.
+The Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801–3812), referred to in subsec. (d)(2)(B), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, which is classified generally to chapter 38 (§3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of Title 31 and Tables.
 
-The Small Business Investment Act of 1958, referred to in subsec. (d)(2)(D), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (d)(2)(D), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 #### Prior Provisions
 
-Prior similar provisions were contained in section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, which was previously classified to section 638 of this title. The provisions of section 216 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[8\] of Pub. L. 85–536, which was classified to section 637(c) of this title prior to repeal by Pub. L. 102–191. See section 656 of this title.
+Prior similar provisions were contained in section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, whichwas previously classified to section 638 of this title. The provisions of section 216 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[8\] of Pub. L. 85–536, which was classified to section 637(c) of this title prior to repeal by Pub. L. 102–191. See section 656 of this title.
 
 #### Amendments
 
@@ -124,7 +124,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Regulations
 
-Pub. L. 112–239, div. A, title XVI, §1681(b), Jan. 2, 2013, 126 Stat. 2085, provided that: "Not later than 270 daysafter the date of enactment of this part \[Jan. 2, 2013\], the Administrator of the Small Business Administration shall issue rules defining what constitutes an adequate advisory opinion for purposes of section 16(d)(3) of the Small Business Act \[15 U.S.C. 645(d)(3)\]."
+Pub. L. 112–239, div. A, title XVI, §1681(b), Jan. 2, 2013, 126 Stat. 2085, provided that: "Not later than 270 days after the date of enactment of this part \[Jan. 2, 2013\], the Administrator of the Small Business Administration shall issue rules defining what constitutes an adequate advisory opinion for purposes of section 16(d)(3) of the Small Business Act \[15 U.S.C. 645(d)(3)\]."
 
 #### Development and Promulgation of Guidance
 

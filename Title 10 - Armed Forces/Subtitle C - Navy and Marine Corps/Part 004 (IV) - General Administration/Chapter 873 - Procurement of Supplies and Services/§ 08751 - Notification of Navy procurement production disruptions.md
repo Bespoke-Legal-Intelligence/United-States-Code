@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Contractor To Provide Notice of Delays.—The Secretary of the Navy shall require prime contractors of any Navy procurement program funded under either the Shipbuilding and Conversion, Navy account or the Other Procurement, Navy account to report within 15 calendar days any stop work order or other manufacturing disruption of 15 calendar days or more, by the prime contractor or any subcontractor, to the respective program manager and Navy technical authority.
+Requirement for Contractor To Provide Notice of Delays.—The Secretary of the Navyshall require prime contractors of any Navy procurement program funded under either the Shipbuilding and Conversion, Navy account or the Other Procurement, Navy account to report within 15 calendar days any stop work order or other manufacturing disruption of 15 calendar days or more, by the prime contractor or any subcontractor, to the respective program manager and Navy technical authority.
 
 (b)
 

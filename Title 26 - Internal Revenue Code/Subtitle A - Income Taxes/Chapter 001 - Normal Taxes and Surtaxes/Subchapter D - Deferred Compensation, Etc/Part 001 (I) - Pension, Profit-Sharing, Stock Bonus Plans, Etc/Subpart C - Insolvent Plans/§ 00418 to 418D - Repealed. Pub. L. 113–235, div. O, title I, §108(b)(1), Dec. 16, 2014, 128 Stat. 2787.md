@@ -14,5 +14,5 @@ Section 418D, added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Sta
 
 #### Effective Date of Repeal
 
-Pub. L. 113–235, div. O, title I, §108(c), Dec. 16, 2014, 128 Stat. 2789, provided that: "The amendments made bythis section \[amending sections 418E and 431 of this title and sections 1084, 1301, and 1426 of Title 29, Labor, and repealing sections 418 to 418D of this title and sections 1421 to 1425 of Title 29\] shall apply with respect to plan years beginning after December 31, 2014."
+Pub. L. 113–235, div. O, title I, §108(c), Dec. 16, 2014, 128 Stat. 2789, provided that: "The amendments made by this section \[amending sections 418E and 431 of this title and sections 1084, 1301, and 1426 of Title 29, Labor, and repealing sections 418 to 418D of this title and sections 1421 to 1425 of Title 29\] shall apply with respect to plan years beginning after December 31, 2014."
 

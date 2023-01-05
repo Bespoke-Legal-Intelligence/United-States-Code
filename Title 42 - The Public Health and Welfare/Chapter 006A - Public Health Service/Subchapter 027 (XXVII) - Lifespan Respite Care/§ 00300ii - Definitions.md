@@ -58,7 +58,7 @@ In this subchapter:
 
 #### (7) Respite care
 
-&emsp;The term "respite care" means planned or emergency care provided to a child or adultwith a special need in order to provide temporary relief to the family caregiver of that child or adult.
+&emsp;The term "respite care" means planned or emergency care provided to a child or adult with a special need in order to provide temporary relief to the family caregiver of that child or adult.
 
 #### (8) State
 

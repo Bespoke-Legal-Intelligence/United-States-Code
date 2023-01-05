@@ -18,7 +18,7 @@
 
 &emsp;(1) preside over the Air Staff;
 
-&emsp;(2) transmit the plans and recommendations of the Air Staff to the Secretary and advise the Secretary with regard to such plans and recommendations;
+&emsp;(2) transmit the plans and recommendations of the Air Staff to the Secretary and advisethe Secretary with regard to such plans and recommendations;
 
 &emsp;(3) after approval of the plans or recommendations of the Air Staff by the Secretary, act as the agent of the Secretary in carrying them into effect;
 
@@ -116,7 +116,7 @@ Pub. L. 114–92, §802(d)(4)(D), substituted "sections 171 and 2547" for "secti
 
 <b>1986</b>—Pub. L. 99–433 renumbered section 8034 of this title as this section, substituted "Chief of Staff" for "Chief of Staff: appointment; duties" in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
-"(a) The Chief of Staff shall be appointed for a period of four years by the President, by and with the advice and consent of the Senate, from the general officers of the Air Force. He serves during the pleasure of the President. In time of war or national emergency declared by the Congress after December 31, 1968, he may be reappointed for a term of not more than four years.
+"(a) The Chief of Staff shall be appointed for a period of four years by the President, by and with the advice and consent of the Senate, from the general officers ofthe Air Force. He serves during the pleasure of the President. In time of war or national emergency declared by the Congress after December 31, 1968, he may be reappointed for a term of not more than four years.
 
 "(b) The Chief of Staff, while so serving, has the grade of general without vacating his regular or reserve grade.
 
@@ -130,7 +130,7 @@ Pub. L. 114–92, §802(d)(4)(D), substituted "sections 171 and 2547" for "secti
 
 &emsp;"(3) after approval of the plans or recommendations of the Air Staff by the Secretary, act as the agent of the Secretary in carrying them into effect;
 
-&emsp;"(4) exercise supervision over such of the members and organizations of the Air Force as the Secretaryof the Air Force determines. Such supervision shall be exercised in a manner consistent with the full operational command vested in unified or specified combatant commanders under section 124 of this title.
+&emsp;"(4) exercise supervision over such of the members and organizations of the Air Force as the Secretary of the Air Force determines. Such supervision shall be exercised in a manner consistent with the full operational command vested in unified or specified combatant commanders under section 124 of this title.
 
 &emsp;"(5) perform the duties prescribed for him by sections 141 and 171 of this title and other provisions of law; and
 

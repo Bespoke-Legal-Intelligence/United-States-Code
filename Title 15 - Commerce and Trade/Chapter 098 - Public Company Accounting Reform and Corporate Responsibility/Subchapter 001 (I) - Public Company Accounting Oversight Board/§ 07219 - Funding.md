@@ -6,7 +6,7 @@ The Board, and the standard setting body designated pursuant to section 77s(b) o
 
 #### (b) Annual budgets
 
-The Board and the standard setting body referred to in subsection (a) shall each establish a budget for each fiscal year, which shall be reviewed and approved according to their respective internal procedures not less than 1 month prior to the commencement of the fiscal year to which the budget pertains (or at the beginning of the Board's first fiscal year, which may be a short fiscal year). The budget of the Board shall be subject to approval by the Commission. Thebudget for the first fiscal year of the Board shall be prepared and approved promptly following the appointment of the initial five Board members, to permit action by the Board of the organizational tasks contemplated by section 7211(d) of this title.
+The Board and the standard setting body referred to in subsection (a) shall each establish a budget for each fiscal year, which shall be reviewed and approved according to their respective internal procedures not less than 1 month prior to the commencement of the fiscal year to which the budget pertains (or at the beginning of the Board's first fiscal year, which may be a short fiscal year). The budget of the Board shall be subject to approval by the Commission. The budget for the first fiscal year of the Board shall be prepared and approved promptly following the appointment of the initial five Board members, to permit action by the Board of the organizational tasks contemplated by section 7211(d) of this title.
 
 #### (c) Sources and uses of funds
 
@@ -46,7 +46,7 @@ The amount of fees collected under this section for a fiscal year on behalf of t
 
 #### (g) Allocation of accounting support fees among issuers
 
-Any amount due from issuers (or a particular class of issuers) under this section to fund the budget of the Board or the standard setting body referred to in subsection (a) shall be allocated among and payable by each issuer (or each issuer in a particular class, as applicable) in an amount equal to the total of such amount, multiplied by a fraction—
+Any amount due from issuers (or a particular class of issuers) under this section to fund thebudget of the Board or the standard setting body referred to in subsection (a) shall be allocated among and payable by each issuer (or each issuer in a particular class, as applicable) in an amount equal to the total of such amount, multiplied by a fraction—
 
 &emsp;(1) the numerator of which is the average monthly equity market capitalization of the issuer for the 12-month period immediately preceding the beginning of the fiscal year to which such budget relates; and
 

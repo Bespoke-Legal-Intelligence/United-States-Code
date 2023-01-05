@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Upon receiving a certification from the Secretary of Health and Human Services, under section 452(b) of the Social Security Act with respect to any individual, the Secretary shall assess and collect the amount certified by the Secretary of Health and Human Services, in the same manner, with the same powers, and (exceptas provided in this section) subject to the same limitations as if such amount were a tax imposed by subtitle C the collection of which would be jeopardized by delay, except that—
+Upon receiving a certification from the Secretary of Health and Human Services, under section 452(b) of the Social Security Act with respect to any individual, the Secretary shall assess and collect the amount certified by the Secretary of Health and Human Services, in the same manner, with the same powers, and (except as provided in this section) subject to the same limitations as if such amount were a tax imposed by subtitle C the collection of which would be jeopardized by delay, except that—
 
 &emsp;(1) no interest or penalties shall be assessed or collected,
 

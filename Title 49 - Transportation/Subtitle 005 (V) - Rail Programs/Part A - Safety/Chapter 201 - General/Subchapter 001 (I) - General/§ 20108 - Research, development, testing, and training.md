@@ -22,7 +22,7 @@ Offsetting Collections.—The Secretary may collect fees or rents from facility 
 
 (f)
 
-Revolving Fund.—Amounts appropriated to carry out subsection (d) and all fees and rents collected pursuant to subsection (e) shall be credited to a revolving fund and remain available until expended. The Secretary may use such fees and rents for operation, maintenance, repair, or improvement of the Transportation Technology Center.
+Revolving Fund.—Amounts appropriated to carry out subsection (d) and all fees and rents collected pursuant to subsection (e) shall becredited to a revolving fund and remain available until expended. The Secretary may use such fees and rents for operation, maintenance, repair, or improvement of the Transportation Technology Center.
 
 (g)
 
@@ -60,7 +60,7 @@ Selection criteria.—In awarding a grant under this subsection, the Secretary s
 
 &emsp;(4)
 
-Use of funds.—Grant funds awarded pursuant to this subsection shall be used for basic and applied research, evaluation, education, workforce development, and training efforts related to safety, project delivery, efficiency, reliability, resiliency, and sustainability of urban commuter, intercity high-speed, and freight rail transportation, to include advances in rolling stock, advanced positive train control, human factors, rail infrastructure, shared corridors, grade crossing safety, inspection technology, remote sensing, rail systems maintenance, network resiliency,operational reliability, energy efficiency, and other advanced technologies.
+Use of funds.—Grant funds awarded pursuant to this subsection shall be used for basic and applied research, evaluation, education, workforce development, and training efforts related to safety, project delivery, efficiency, reliability, resiliency, and sustainability of urban commuter, intercity high-speed, and freight rail transportation, to include advances in rolling stock, advanced positive train control, human factors, rail infrastructure, shared corridors, grade crossing safety, inspection technology, remote sensing, rail systems maintenance, network resiliency, operational reliability, energy efficiency, and other advanced technologies.
 
 &emsp;(5)
 

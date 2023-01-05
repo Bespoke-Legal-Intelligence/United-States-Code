@@ -12,7 +12,7 @@
 
 (f) Biomedical science functions, including physician assistant functions and chiropractic functions, in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as biomedical science officers.
 
-(g) Judge advocate functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as judge advocates.
+(g) Judge advocate functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by theSecretary, and who are designated as judge advocates.
 
 (h) Chaplain functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as chaplains.
 
@@ -78,7 +78,7 @@ June 24, 1952, ch. 457 (less 1st and last provisos), 66 Stat. 156.
 
 10:81–2 (less 1st and last provisos).
 
-The references in clauses (4), (6), and (7) of 10:1837(a) are omitted, since the laws to which reference is made deal with qualifications for appointment as commissioned officers and do not specify professional qualifications prerequisite to designation to duties requiringspecial training or experience. The reference in clause (8) is omitted as executed.
+The references in clauses (4), (6), and (7) of 10:1837(a) are omitted, since the laws to which reference is made deal with qualifications for appointment as commissioned officers and do not specify professional qualifications prerequisite to designation to duties requiring special training or experience. The reference in clause (8) is omitted as executed.
 
 10:1837(b) and (c) are omitted, since, except in the case of a reference to a law not presently in effect, their substance is covered by including the laws referred to in various revised sections of this title (see the distribution tables). 10:81–2 (less 1st and last provisos) is omitted as unnecessary.
 

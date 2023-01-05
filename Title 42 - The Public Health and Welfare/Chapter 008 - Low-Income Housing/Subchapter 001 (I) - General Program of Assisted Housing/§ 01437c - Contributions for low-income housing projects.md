@@ -10,7 +10,7 @@
 
 #### (b) Maximum amount of contributions; regulations; criteria for rates of contribution
 
-The Secretary may prescribe regulations fixing the maximum contributions available under different circumstances, giving consideration to cost, location, size, rent-paying ability of prospective tenants, or other factors bearing upon the amounts and periods of assistance needed to achieve and maintain low rentals. Such regulations may provide for rates of contribution based upon development, acquisition, or operation costs, number of dwelling units, number of persons housed, interest charges, or other appropriate factors.
+The Secretary may prescribe regulations fixing the maximum contributions available under different circumstances, giving consideration to cost, location, size, rent-paying ability of prospective tenants, or other factors bearing uponthe amounts and periods of assistance needed to achieve and maintain low rentals. Such regulations may provide for rates of contribution based upon development, acquisition, or operation costs, number of dwelling units, number of persons housed, interest charges, or other appropriate factors.
 
 #### (c) Limitation on aggregate contractual contributions; contracts for preliminary loans; payments of annual contributions; limitations on specific authorities
 
@@ -48,7 +48,7 @@ The Secretary may prescribe regulations fixing the maximum contributions availab
 
 &emsp;(x) for grants under section 1437v of this title for revitalization of severely distressed public housing, not more than $300,000,000.
 
-(B) Using the additional budget authority provided under paragraph (6) and the balances of budget authority that become available during fiscal year 1994, the Secretary shall, to the extent approved in appropriation Acts, reserve authority to enter into obligations aggregating—
+(B) Using the additional budget authority provided under paragraph (6) and the balances ofbudget authority that become available during fiscal year 1994, the Secretary shall, to the extent approved in appropriation Acts, reserve authority to enter into obligations aggregating—
 
 &emsp;(i) for public housing grants under subsection (a)(2), not more than $865,798,634, of which amount not more than $268,127,440 shall be available for Indian housing;
 
@@ -94,7 +94,7 @@ Subject to the specific limitations or standards in this chapter governing the t
 
 #### (g) Pledge of annual contributions as guarantee of payment of obligations issued by public housing agency; exception
 
-In addition to the authority of the Secretary under subsection (a) to pledge annual contributions as security for obligations issued by a public housing agency, the Secretary is authorizedto pledge annual contributions as a guarantee of payment by a public housing agency of all principal and interest on obligations issued by it to assist the development or acquisition of the project to which the annual contributions relate, except that no obligation shall be guaranteed under this subsection if the income thereon is exempt from Federal taxation.
+In addition to the authority of the Secretary under subsection (a) to pledge annual contributions as security for obligations issued by a public housing agency, the Secretary is authorized to pledge annual contributions as a guarantee of payment by a public housing agency of all principal and interest on obligations issued by it to assist the development or acquisition of the project to which the annual contributions relate, except that no obligation shall be guaranteed under this subsection if the income thereon is exempt from Federal taxation.
 
 #### (h) Audits
 
@@ -138,7 +138,7 @@ Subsec. (h). Pub. L. 105–276, §566, added subsec. (h).
 
 Pub. L. 105–276, §518(a)(1)(A), struck out subsec. (h) which read as follows: "Notwithstanding any other provision of law, a public housing agency may sell a low-income housing project to its lower income tenants, on such terms and conditions as the agency may determine, without affecting the Secretary's commitment to pay annual contributions with respect to that project, but such contributions shall not exceed the maximum contributions authorized under subsection (a) of this section."
 
-Subsec. (i). Pub. L. 105–276, §518(a)(1), redesignated subsec. (l) as (i) and struck out former subsec. (i) which read as follows: "In entering into contracts for assistance with respect to newly constructed or substantiallyrehabilitated projects under this section (other than for projects assisted pursuant to section 1437f of this title), the Secretary shall require the installation of a passive or active solar energy system in any such project where the Secretary determines that such installation would be cost effective over the estimated life of the system."
+Subsec. (i). Pub. L. 105–276, §518(a)(1), redesignated subsec. (l) as (i) and struck out former subsec. (i) which read as follows: "In entering into contracts for assistance with respect to newly constructed or substantially rehabilitated projects under this section (other than for projects assisted pursuant to section 1437f of this title), the Secretary shall require the installation of a passive or active solar energy system in any such project where the Secretary determines that such installation would be cost effective over the estimated life of the system."
 
 Subsecs. (j), (k). Pub. L. 105–276, §518(a)(1)(A), struck out subsecs. (j) and (k), which had: in subsec. (j), placed conditions upon reservation of funds for development of public housing after Sept. 30, 1987, and placed limitations on amounts used for redesign, reconstruction, redevelopment, or operational improvement of existing projects, but directed that not less than 5 percent of certain amounts appropriated in fiscal years 1993 and 1994 be reserved for public housing projects designated for elderly or disabled families; and in subsec. (k), prohibited recapture of amounts of public housing development funds reserved to a public housing agency for failure to begin construction or rehabilitation, or to complete acquisition, during 30-month period following date of reservation.
 
@@ -242,7 +242,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–19, title I, §1002(d), July 27, 1995, 109 Stat. 236, as amended by Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(1)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §201(b), Sept. 26, 1996, 110 Stat. 2892; Pub. L. 105–65, title II, §201(a), Oct. 27, 1997, 111 Stat. 1364, provided that: Subsections (a), (b), and (c) \[amending this section and sections 1437p and 1437aaa–3 of this title\] shall be effective for applications for the demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken, on, before, or after September 30, 1995 and on or before September 30, 1998."
+Pub. L. 104–19, title I, §1002(d), July 27, 1995, 109 Stat. 236, as amended by Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(1)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §201(b), Sept. 26,1996, 110 Stat. 2892; Pub. L. 105–65, title II, §201(a), Oct. 27, 1997, 111 Stat. 1364, provided that: Subsections (a), (b), and (c) \[amending this section and sections 1437p and 1437aaa–3 of this title\] shall be effective for applications for the demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken, on, before, or after September 30, 1995 and on or before September 30, 1998."
 
 #### Effective Date of 1992 Amendment
 
@@ -254,7 +254,7 @@ Pub. L. 101–625, title IV, §417(b), Nov. 28, 1990, 104 Stat. 4161, provided t
 
 #### Effective Date of 1988 Amendment
 
-For date on which Secretary of Housing and Urban Development may carry out programs to provide lowerincome housing on Indian reservations and other Indian areas only in accordance with amendment by Pub. L. 100–358, see section 6 of Pub. L. 100–358, set out as a note under section 1437a of this title.
+For date on which Secretary of Housing and Urban Development may carry out programs to provide lower income housing on Indian reservations and other Indian areas only in accordance with amendment by Pub. L. 100–358, see section 6 of Pub. L. 100–358, set out as a note under section 1437a of this title.
 
 #### Effective Date of 1981 Amendment
 

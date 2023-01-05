@@ -18,5 +18,5 @@ The Secretary of Health and Human Services, acting through the Commissioner of F
 
 #### Codification
 
-Section was enacted as part of the Accelerating Access to Critical Therapies for ALS Act, and not as partof the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+Section was enacted as part of the Accelerating Access to Critical Therapies for ALS Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 

@@ -46,7 +46,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;&emsp;(ii) the implications of unintended or unintentional disturbances to critical infrastructures; and
 
-&emsp;&emsp;&emsp;(iii) responses to incidents or crises involving critical infrastructures, including the continuity of government and privatesector activities through and after such incidents or crises.
+&emsp;&emsp;&emsp;(iii) responses to incidents or crises involving critical infrastructures, including the continuity of government and private sector activities through and after such incidents or crises.
 
 &emsp;&emsp;(D) Utilization of modeling, simulation, and analysis under subparagraph (A) to provide recommendations to policymakers, and to departments and agencies of the Federal Government and private sector persons and entities upon request, regarding means of enhancing the stability of, and preserving, critical infrastructures.
 

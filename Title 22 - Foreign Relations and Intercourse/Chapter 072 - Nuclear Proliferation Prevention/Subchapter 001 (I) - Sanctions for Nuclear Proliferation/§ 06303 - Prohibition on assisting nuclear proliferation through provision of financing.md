@@ -82,7 +82,7 @@ Any sanction imposed on any person pursuant to an order issued under subsection 
 
 #### (g) Waiver
 
-The President may waive the continued application of any sanction imposed on any person pursuant to an order issued under subsection (c) if the President determines, and certifies in writing to the Congress, that the continued imposition of the sanction would have a serious adverse effect on the safety and soundness of thedomestic or international financial system or on domestic or international payments systems.
+The President may waive the continued application of any sanction imposed on any person pursuant to an order issued under subsection (c) if the President determines, and certifies in writing to the Congress, that the continued imposition of the sanction would have a serious adverse effect on the safety and soundness of the domestic or international financial system or on domestic or international payments systems.
 
 #### (h) Enforcement action
 

@@ -20,7 +20,7 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;(8) Grants and other assistance management programs.
 
-&emsp;(9) The management integration and transformation within each functional management discipline of the Department, including information technology, financial management, acquisition management, and human capitalmanagement, to ensure an efficient and orderly consolidation of functions and personnel in the Department, including—
+&emsp;(9) The management integration and transformation within each functional management discipline of the Department, including information technology, financial management, acquisition management, and human capital management, to ensure an efficient and orderly consolidation of functions and personnel in the Department, including—
 
 &emsp;&emsp;(A) the development of centralized data sources and connectivity of information systems to the greatest extent practicable to enhance program visibility, transparency, and operational effectiveness and coordination;
 
@@ -126,7 +126,7 @@ Not later than five days after the date on which the Chief Procurement Officer o
 
 #### (5) Guidance to develop fleet management plans
 
-&emsp;The Under Secretary for Management shall provide guidance, pursuant to paragraph (1)(B) on how component heads may achieve optimal fleet size in accordance with paragraph (4), including processes for the following:
+&emsp;The Under Secretary for Management shall provide guidance, pursuant to paragraph (1)(B)on how component heads may achieve optimal fleet size in accordance with paragraph (4), including processes for the following:
 
 &emsp;&emsp;(A) Leasing or acquiring additional vehicles or replacing existing vehicles, if determined necessary.
 
@@ -216,7 +216,7 @@ The Under Secretary for Management shall—
 
 #### (e) <sup>1</sup> System for Award Management consultation
 
-The Under Secretary for Management shall require that all Department contracting and grant officials consult the System for Award Management (or successor system) as maintained by the General Services Administration prior to awarding a contract or grant or entering into other transactions to ascertain whether the selected contractor is excluded from receiving Federal contracts, certain subcontracts, and certain types of Federal financial and non-financial assistance and benefits.
+The Under Secretary for Management shall require that all Department contracting and grantofficials consult the System for Award Management (or successor system) as maintained by the General Services Administration prior to awarding a contract or grant or entering into other transactions to ascertain whether the selected contractor is excluded from receiving Federal contracts, certain subcontracts, and certain types of Federal financial and non-financial assistance and benefits.
 
 #### (e) <sup>1</sup> Interoperable communications defined
 
@@ -232,7 +232,7 @@ In this section, the term "interoperable communications" has the meaning given t
 
 Subsecs. (c) to (e). Pub. L. 115–38, §2(2), (3), added subsec. (c), redesignated former subsec. (c) as (d), and redesignated former subsec. (d), relating to System for Award Management consultation, as (e).
 
-<b>2016</b>—Subsec. (a)(9) to (13). Pub. L. 114–328, §1903(b)(1), added pars. (9) to (11), redesignated former pars. (10) and (11) as (12) and (13), respectively, and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: "The management integration and transformation process, as well as the transition process, to ensure an efficient and orderly consolidation offunctions and personnel in the Department and transition, including—
+<b>2016</b>—Subsec. (a)(9) to (13). Pub. L. 114–328, §1903(b)(1), added pars. (9) to (11), redesignated former pars. (10) and (11) as (12) and (13), respectively, and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: "The management integration and transformation process, as well as the transition process, to ensure an efficient and orderly consolidation of functions and personnel in the Department and transition, including—
 
 &emsp;"(A) the development of a management integration strategy for the Department, and
 

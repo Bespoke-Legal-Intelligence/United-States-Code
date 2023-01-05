@@ -56,7 +56,7 @@ Required.—Each executive agency shall—
 
 &emsp;&emsp;&emsp;(xi) any additional information required by the Administrator of General Services to carry out section 623;
 
-&emsp;(12) provide to the Federal Real Property Council and the Administrator of General Services the information described in paragraph (11)(B) to be used for the establishment and maintenance of the database described in section 21 of the Federal Assets Sale and Transfer Act of 2016; and
+&emsp;(12) provide to the Federal Real Property Council and the Administrator of GeneralServices the information described in paragraph (11)(B) to be used for the establishment and maintenance of the database described in section 21 of the Federal Assets Sale and Transfer Act of 2016; and
 
 &emsp;(13) in accordance with guidance from the Administrator of General Services—
 

@@ -80,7 +80,7 @@ Pub. L. 91–616, §1, Dec. 31, 1970, 84 Stat. 1848, provided that: "This Act \[
 
 Pub. L. 96–180, §18, Jan. 2, 1980, 93 Stat. 1306, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979; Pub. L. 98–24, §5(a)(2), Apr. 26, 1983, 97 Stat. 183, 93 Stat. 695, provided that:
 
-"(a)(1) There is established a Commission to be known as the National Commission on Alcoholism andOther Alcohol-Related Problems (hereinafter in this section referred to as the 'Commission'). The Commission shall be composed of—
+"(a)(1) There is established a Commission to be known as the National Commission on Alcoholism and Other Alcohol-Related Problems (hereinafter in this section referred to as the 'Commission'). The Commission shall be composed of—
 
 &emsp;"(A) four Members of the Senate appointed by the President of the Senate upon the recommendation of the majority and minority leaders;
 

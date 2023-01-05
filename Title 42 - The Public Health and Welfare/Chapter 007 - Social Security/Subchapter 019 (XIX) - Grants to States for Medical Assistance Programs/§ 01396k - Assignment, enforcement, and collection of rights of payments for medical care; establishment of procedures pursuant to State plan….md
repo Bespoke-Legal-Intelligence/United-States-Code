@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–123, §53102(b)(1), repealed Pub. L. 113–67, §202(b)(2), and provided that the provisions amended by section 202(b) shall be appliedand administered as if such amendment had never been enacted. See 2013 Amendment note below.
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–123, §53102(b)(1), repealed Pub. L. 113–67, §202(b)(2), and provided that the provisions amended by section 202(b) shall be applied and administered as if such amendment had never been enacted. See 2013 Amendment note below.
 
 <b>2013</b>—Subsec. (a)(1)(A). Pub. L. 113–67, §202(b)(2), which directed substitution of "any payment from a third party that has a legal liability to pay for care and services available under the plan" for "payment for medical care from any third party", was repealed by Pub. L. 115–123, §53102(b)(1).
 

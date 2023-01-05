@@ -12,7 +12,7 @@ The antitrust laws, referred to in text, are defined in section 12 of this title
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–88 substituted "for injunctive relief against any common carrier subject to the jurisdictionof the Surface Transportation Board under subtitle IV of title 49" for "in equity for injunctive relief against any common carrier subject to the provisions of the Act to regulate commerce, approved February fourth, eighteen hundred and eighty-seven, in respect of any matter subject to the regulation, supervision, or other jurisdiction of the Interstate Commerce Commission."
+<b>1995</b>—Pub. L. 104–88 substituted "for injunctive relief against any common carrier subject to the jurisdiction of the Surface Transportation Board under subtitle IV of title 49" for "in equity for injunctive relief against any common carrier subject to the provisions of the Act to regulate commerce, approved February fourth, eighteen hundred and eighty-seven, in respect of any matter subject to the regulation, supervision, or other jurisdiction of the Interstate Commerce Commission."
 
 <b>1976</b>—Pub. L. 94–435 inserted provision authorizing court to award costs, including attorneys' fees, to a successful plaintiff.
 

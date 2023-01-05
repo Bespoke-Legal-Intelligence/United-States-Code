@@ -30,11 +30,43 @@ The Attorney General shall register an applicant to distribute a controlled subs
 
 &emsp;(5) such other factors as may be relevant to and consistent with the public health and safety.
 
-#### (c) Limits of authorized activities
+#### (c) Manufacturers of marijuana for research purposes
+
+(1)(A) As it relates to applications to manufacture marijuana for research purposes, when the Attorney General places a notice in the FederalRegister to increase the number of entities registered under this chapter to manufacture marijuana to supply appropriately registered researchers in the United States, the Attorney General shall, not later than 60 days after the date on which the Attorney General receives a completed application—
+
+&emsp;(i) approve the application; or
+
+&emsp;(ii) request supplemental information.
+
+(B) For purposes of subparagraph (A), an application shall be deemed complete when the applicant has submitted documentation showing each of the following:
+
+&emsp;(i) The requirements designated in the notice in the Federal Register are satisfied.
+
+&emsp;(ii) The requirements under this chapter are satisfied.
+
+&emsp;(iii) The applicant will limit the transfer and sale of any marijuana manufactured under this subsection—
+
+&emsp;&emsp;(I) to researchers who are registered under this chapter to conduct research with controlled substances in schedule I; and
+
+&emsp;&emsp;(II) for purposes of use in preclinical research or in a clinical investigation pursuant to an investigational new drug exemption under 355(i) <sup>1</sup> of this title.
+
+&emsp;(iv) The applicant will transfer or sell any marijuana manufactured under this subsection only with prior, written consent for the transfer or sale by the Attorney General.
+
+&emsp;(v) The applicant has completed the application and review process under subsection (a) for the bulk manufacture of controlled substances in schedule I.
+
+&emsp;(vi) The applicant has established and begun operation of a process for storage and handling of controlled substances in schedule I, including for inventory control and monitoring security in accordance with section 105 of the Medical Marijuana and Cannabidiol Research Expansion Act.
+
+&emsp;(vii) The applicant is licensed by each State in which the applicant will conduct operations under this subsection, to manufacture marijuana, if that State requires such a license.
+
+(C) Not later than 30 days after the date on which the Attorney General receives supplemental information requested under subparagraph (A)(ii) with respect to an application, the Attorney General shall approve or deny the application.
+
+(2) If an application described in this subsection is denied, the Attorney General shall provide a written explanation of the basis of denial to the applicant.
+
+#### (d) Limits of authorized activities
 
 Registration granted under subsections (a) and (b) of this section shall not entitle a registrant to (1) manufacture or distribute controlled substances in schedule I or II other than those specified in the registration, or (2) manufacture any quantity of those controlled substances in excess of the quota assigned pursuant to section 826 of this title.
 
-#### (d) Manufacturers of controlled substances in schedule III, IV, or V
+#### (e) Manufacturers of controlled substances in schedule III, IV, or V
 
 The Attorney General shall register an applicant to manufacture controlled substances in schedule III, IV, or V, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
 
@@ -50,7 +82,7 @@ The Attorney General shall register an applicant to manufacture controlled subst
 
 &emsp;(6) such other factors as may be relevant to and consistent with the public health and safety.
 
-#### (e) Distributors of controlled substances in schedule III, IV, or V
+#### (f) Distributors of controlled substances in schedule III, IV, or V
 
 The Attorney General shall register an applicant to distribute controlled substances in schedule III, IV, or V, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
 
@@ -64,175 +96,121 @@ The Attorney General shall register an applicant to distribute controlled substa
 
 &emsp;(5) such other factors as may be relevant to and consistent with the public health and safety.
 
-#### (f) Research by practitioners; pharmacies; research applications; construction of Article 7 of the Convention on Psychotropic Substances
+#### (g) Research by practitioners; pharmacies; research applications; construction of Article 7 of the Convention on Psychotropic Substances
 
-The Attorney General shall register practitioners (including pharmacies, as distinguished from pharmacists) to dispense, or conduct research with, controlled substances in schedule II, III, IV, or V and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet, if the applicant is authorized to dispense, or conduct research with respect to, controlled substances under the laws of the State in which he practices. The Attorney General may deny an application for such registration or such modification of registration if the Attorney General determines that the issuance of such registration or modification would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
+(1) The Attorney General shall register practitioners (including pharmacies, as distinguished from pharmacists) to dispense, or conduct research with, controlled substances in schedule II, III, IV, or V and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet, if the applicant is authorized to dispense, or conduct research with respect to, controlled substances under the laws of the State in which he practices. The Attorney General may deny an application for such registration or such modification of registration if the Attorney General determines that the issuance of such registration or modification would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
 
-&emsp;(1) The recommendation of the appropriate State licensing board or professional disciplinary authority.
+&emsp;(A) The recommendation of the appropriate State licensing board or professional disciplinary authority.
 
-&emsp;(2) The applicant's experience in dispensing, or conducting research with respect to controlled substances.
+&emsp;(B) The applicant's experience in dispensing, or conducting research with respect to controlled substances.
 
-&emsp;(3) The applicant's conviction record under Federal or State laws relating to the manufacture, distribution, or dispensing of controlled substances.
+&emsp;(C) The applicant's conviction record under Federal or State laws relating to the manufacture, distribution, or dispensing of controlled substances.
 
-&emsp;(4) Compliance with applicable State, Federal, or local laws relating to controlled substances.
+&emsp;(D) Compliance with applicable State, Federal, or local laws relating to controlled substances.
 
-&emsp;(5) Such other conduct which may threaten the public health and safety.
+&emsp;(E) Such other conduct which may threaten the public health and safety.
 
-> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
+> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required.
 
-#### (g) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications; waiver
+(2)(A) Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title.
 
-(1) Except as provided in paragraph (2), practitioners who dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment shall obtain annually a separate registration for that purpose. The Attorney General shall register an applicant to dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment (or both)
+(B)(i) The Attorney General shall register a practitioner to conduct research with marijuana (including any derivative, extract, preparation, and compound thereof) if—
 
-&emsp;(A) if the applicant is a practitioner who is determined by the Secretary to be qualified (under standards established by the Secretary) to engage in the treatment with respect to which registration is sought;
+&emsp;(I) the applicant's research protocol has been reviewed and allowed—
 
-&emsp;(B) if the Attorney General determines that the applicant will comply with standards established by the Attorney General respecting (i) security of stocks of narcotic drugs for such treatment, and (ii) the maintenance of records (in accordance with section 827 of this title) on such drugs; and
+&emsp;&emsp;(aa) by the Secretary of Health and Human Services under section 355(i) of this title;
 
-&emsp;(C) if the Secretary determines that the applicant will comply with standards established by the Secretary (after consultation with the Attorney General) respecting the quantities of narcotic drugs which may be provided for unsupervised use by individuals in such treatment.
+&emsp;&emsp;(bb) by the National Institutes of Health or another Federal agency that funds scientific research; or
 
-(2)(A) Subject to subparagraphs (D) and (J), the requirements of paragraph (1) are waived in the case of the dispensing (including the prescribing), by a practitioner, of narcotic drugs in schedule III, IV, or V or combinations of such drugs if the practitioner meets the conditions specified in subparagraph (B) and the narcotic drugs or combinations of such drugs meet the conditions specified in subparagraph (C).
+&emsp;&emsp;(cc) pursuant to sections 1301.18 and 1301.32 of title 21, Code of Federal Regulations, or any successors thereto; and
 
-(B) For purposes of subparagraph (A), the conditions specified in this subparagraph with respect to a practitioner are that, before the initial dispensing of narcotic drugs in schedule III, IV, or V or combinations of such drugs to patients for maintenance or detoxification treatment, the practitioner submit to the Secretary a notification of the intent of the practitioner to begin dispensing the drugs or combinations for such purpose, and that the notification contain the following certifications by the practitioner:
+&emsp;(II) the applicant has demonstrated to the Attorney General that there are effective procedures in place to adequately safeguard against diversion of the controlled substance for legitimate medical or scientific use pursuant to section 105 of the Medical Marijuana and Cannabidiol Research Expansion Act, including demonstrating that the security measures are adequate for storing the quantity of marijuana the applicant would be authorized to possess.
 
-&emsp;(i) The practitioner is a qualifying practitioner (as defined in subparagraph (G)).
+(ii) The Attorney General may deny an application for registration under this subparagraph only if the Attorney General determines that the issuance of the registration would be inconsistent with the public interest. In determining the public interest, the Attorney General shall consider the factors listed in—
 
-&emsp;(ii) With respect to patients to whom the practitioner will provide such drugs or combinations of drugs, the practitioner has the capacity to provide directly, by referral, or in such other manner as determined by the Secretary—
+&emsp;(I) subparagraphs (B) through (E) of paragraph (1); and
 
-&emsp;&emsp;(I) all drugs approved by the Food and Drug Administration for the treatment of opioid use disorder, including for maintenance, detoxification, overdose reversal, and relapse prevention; and
+&emsp;(II) subparagraph (A) of paragraph (1), if the applicable State requires practitioners conducting research to register with a board or authority described in such subparagraph (A).
 
-&emsp;&emsp;(II) appropriate counseling and other appropriate ancillary services.
+(iii)(I) Not later than 60 days after the date on which the Attorney General receives a complete application for registration under this subparagraph, the Attorney General shall—
 
-&emsp;(iii)(I) The total number of such patients of the practitioner at any one time will not exceed the applicable number. Except as provided in subclause (II), the applicable number is 30.
+&emsp;(aa) approve the application; or
 
-&emsp;(II) The applicable number is—
+&emsp;(bb) request supplemental information.
 
-&emsp;&emsp;(aa) 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients;
+(II) For purposes of subclause (I), an application shall be deemed complete when the applicant has submitted documentation showing that the requirements under clause (i) are satisfied.
 
-&emsp;&emsp;(bb) 100 if the practitioner holds additional credentialing, as defined in section 8.2 of title 42, Code of Federal Regulations (or successor regulations);
+(iv) Not later than 30 days after the date on which the Attorney General receives supplemental information as described in clause (iii)(I)(bb) in connection with an application described in this subparagraph, the Attorney General shall approve or deny the application.
 
-&emsp;&emsp;(cc) 100 if the practitioner provides medication-assisted treatment (MAT) using covered medications (as such terms are defined in section 8.2 of title 42, Code of Federal Regulations (or successor regulations)) in a qualified practice setting (as described in section 8.615 of title 42, Code of Federal Regulations (or successor regulations)); or
+(v) If an application described in this subparagraph is denied, the Attorney General shall provide a written explanation of the basis of denial to the applicant.
 
-&emsp;&emsp;(dd) 275 if the practitioner meets the requirements specified in sections 8.610 through 8.655 of title 42, Code of Federal Regulations (or successor regulations).
+(vi)(I) If the Attorney General grants an application for registration under clause (i), the registrant may amend or supplement the research protocol without notification to, or review by, the Drug Enforcement Administration if the registrant does not change—
 
-&emsp;(III) The Secretary may by regulation change such applicable number.
+&emsp;(aa) the quantity or type of marijuana or cannabidiol (including any derivative, extract, preparation, and compound thereof);
 
-&emsp;(IV) The Secretary may exclude from the applicable number patients to whom such drugs or combinations of drugs are directly administered by the qualifying practitioner in the office setting.
+&emsp;(bb) the source of such marijuana or cannabidiol; or
 
-(C) For purposes of subparagraph (A), the conditions specified in this subparagraph with respect to narcotic drugs in schedule III, IV, or V or combinations of such drugs are as follows:
+&emsp;(cc) the conditions under which such marijuana or cannabidiol is stored, tracked, or administered.
 
-&emsp;(i) The drugs or combinations of drugs have, under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] or section 262 of title 42, been approved for use in maintenance or detoxification treatment.
+(II)(aa) If a registrant under clause (i) seeks to change the type of marijuana or cannabidiol (including any derivative, extract, preparation, and compound thereof), the source of such marijuana or cannabidiol, or the conditions under which such marijuana or cannabidiol is stored, tracked, or administered, the registrant shall notify the Attorney General via registered mail, or an electronic means permitted by the Attorney General, not later than 30 days before implementing an amended or supplemental research protocol.
 
-&emsp;(ii) The drugs or combinations of drugs have not been the subject of an adverse determination. For purposes of this clause, an adverse determination is a determination published in the Federal Register and made by the Secretary, after consultation with the Attorney General, that the use of the drugs or combinations of drugs for maintenance or detoxification treatment requires additional standards respecting the qualifications of practitioners to provide such treatment, or requires standards respecting the quantities of the drugs that may be provided for unsupervised use.
+(bb) A registrant may proceed with an amended or supplemental research protocol described in item (aa) if the Attorney General does not explicitly object during the 30-day period beginning on the date on which the Attorney General receives the notice under item (aa).
 
-(D)(i) A waiver under subparagraph (A) with respect to a practitioner is not in effect unless (in addition to conditions under subparagraphs (B) and (C)) the following conditions are met:
+(cc) The Attorney General may only object to an amended or supplemental research protocol under this subclause if additional security measures are needed to safeguard against diversion or abuse.
 
-&emsp;(I) The notification under subparagraph (B) is in writing and states the name of the practitioner.
+(dd) If a registrant under clause (i) seeks to address additional security measures identified by the Attorney General under item (cc), the registrant shall notify the Attorney General via registered mail, or an electronic means permitted by the Attorney General, not later than 30 days before implementing an amended or supplemental research protocol.
 
-&emsp;(II) The notification identifies the registration issued for the practitioner pursuant to subsection (f).
+(ee) A registrant may proceed with an amended or supplemental research protocol described in item (dd) if the Attorney General does not explicitly object during the 30-day period beginning on the date on which the Attorney General receives the notice under item (dd).
 
-&emsp;(III) If the practitioner is a member of a group practice, the notification states the names of the other practitioners in the practice and identifies the registrations issued for the other practitioners pursuant to subsection (f).
+(III)(aa) If a registrant under clause (i) seeks to change the quantity of marijuana needed for research and the change in quantity does not impact the factors described in item (bb) or (cc) of subclause (I) of this clause, the registrant shall notify the Attorney General via registered mail or using an electronic means permitted by the Attorney General.
 
-(ii) Upon receiving a determination from the Secretary under clause (iii) finding that a practitioner meets all requirements for a waiver under subparagraph (B), the Attorney General shall assign the practitioner involved an identification number under this paragraph for inclusion with the registration issued for the practitioner pursuant to subsection (f). The identification number so assigned shall be appropriate to preserve the confidentiality of patients for whom the practitioner has dispensed narcotic drugs under a waiver under subparagraph (A).
+(bb) A notification under item (aa) shall include—
 
-(iii) Not later than 45 days after the date on which the Secretary receives a notification under subparagraph (B), the Secretary shall make a determination of whether the practitioner involved meets all requirements for a waiver under subparagraph (B) and shall forward such determination to the Attorney General. If the Secretary fails to make such determination by the end of the such 45-day period, the Attorney General shall assign the practitioner an identification number described in clause (ii) at the end of such period.
+&emsp;(AA) the Drug Enforcement Administration registration number of the registrant;
 
-(E)(i) If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of section 824(a)(4) of this title, consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (f) to be inconsistent with the public interest.
+&emsp;(BB) the quantity of marijuana or cannabidiol already obtained;
 
-(ii)(I) Upon the expiration of 45 days from the date on which the Secretary receives a notification under subparagraph (B), a practitioner who in good faith submits a notification under subparagraph (B) and reasonably believes that the conditions specified in subparagraphs (B) through (D) have been met shall, in dispensing narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, be consideredto have a waiver under subparagraph (A) until notified otherwise by the Secretary, except that such a practitioner may commence to prescribe or dispense such narcotic drugs for such purposes prior to the expiration of such 45-day period if it facilitates the treatment of an individual patient and both the Secretary and the Attorney General are notified by the practitioner of the intent to commence prescribing or dispensing such narcotic drugs.
+&emsp;(CC) the quantity of additional marijuana or cannabidiol needed to complete the research; and
 
-(II) For purposes of subclause (I), the publication in the Federal Register of an adverse determination by the Secretary pursuant to subparagraph (C)(ii) shall (with respect to the narcotic drug or combination involved) be considered to be a notification provided by the Secretary to practitioners, effective upon the expiration of the 30-day period beginning on the date on which the adverse determination is so published.
+&emsp;(DD) an attestation that the change in quantity does not impact the source of the marijuana or cannabidiol or the conditions under which the marijuana or cannabidiol is stored, tracked, or administered.
 
-(F)(i) With respect to the dispensing of narcotic drugs in schedule III, IV, or V or combinations of such drugs to patients for maintenance or detoxification treatment, a practitioner may, in his or her discretion, dispense such drugs or combinations for such treatment under a registration under paragraph (1) or a waiver under subparagraph (A) (subject to meeting the applicable conditions).
+(cc) The Attorney General shall ensure that—
 
-(ii) This paragraph may not be construed as having any legal effect on the conditions for obtaining a registration under paragraph (1), including with respect to the number of patients who may be served under such a registration.
+&emsp;(AA) any registered mail return receipt with respect to a notification under item (aa) is submitted for delivery to the registrant providing the notification not later than 3 days after receipt of the notification by the Attorney General; and
 
-(G) For purposes of this paragraph:
+&emsp;(BB) notice of receipt of a notification using an electronic means permitted under item (aa) is provided to the registrant providing the notification not later than 3 days after receipt of the notification by the Attorney General.
 
-&emsp;(i) The term "group practice" has the meaning given such term in section 1395nn(h)(4) of title 42.
+(dd)(AA) On and after the date described in subitem (BB), a registrant that submits a notification in accordance with item (aa) may proceed with the research as if the change in quantity has been approved on such date, unless the Attorney General notifies the registrant of an objection described in item (ee).
 
-&emsp;(ii) The term "qualifying physician" means a physician who is licensed under State law and who meets one or more of the following conditions:
+(BB) The date described in this subitem is the date on which a registrant submitting a notification under item (aa) receives the registered mail return receipt with respect to the notification or the date on which the registrant receives notice that the notification using an electronic means permitted under item (aa) was received by the Attorney General, as the case may be.
 
-&emsp;&emsp;(I) The physician holds a board certification in addiction psychiatry or addiction medicine from the American Board of Medical Specialties.
+(ee) A notification submitted under item (aa) shall be deemed to be approved unless the Attorney General, not later than 10 days after receiving the notification, explicitly objects based on a finding that the change in quantity—
 
-&emsp;&emsp;(II) The physician holds an addiction certification or board certification from the American Society of Addiction Medicine or the American Board of Addiction Medicine.
+&emsp;(AA) does impact the source of the marijuana or cannabidiol or the conditions under which the marijuana or cannabidiol is stored, tracked, or administered; or
 
-&emsp;&emsp;(III) The physician holds a board certification in addiction medicine from the American Osteopathic Association.
+&emsp;(BB) necessitates that the registrant implement additional security measures to safeguard against diversion or abuse.
 
-&emsp;&emsp;(IV) The physician has, with respect to the treatment and management of opiate-dependent patients, completed not less than 8 hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause. Such training shall include—
+(IV) Nothing in this clause shall limit the authority of the Secretary of Health and Human Services over requirements related to research protocols, including changes in—
 
-&emsp;&emsp;&emsp;(aa) opioid maintenance and detoxification;
+&emsp;(aa) the method of administration of marijuana or cannabidiol;
 
-&emsp;&emsp;&emsp;(bb) appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of opioid use disorder;
+&emsp;(bb) the dosing of marijuana or cannabidiol; and
 
-&emsp;&emsp;&emsp;(cc) initial and periodic patient assessments (including substance use monitoring);
+&emsp;(cc) the number of individuals or patients involved in research.
 
-&emsp;&emsp;&emsp;(dd) individualized treatment planning, overdose reversal, and relapse prevention;
+(3) Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
 
-&emsp;&emsp;&emsp;(ee) counseling and recovery support services;
+#### (h) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications
 
-&emsp;&emsp;&emsp;(ff) staffing roles and considerations;
+Practitioners who dispense narcotic drugs (other than narcotic drugs in schedule III, IV, or V) to individuals for maintenance treatment or detoxification treatment shall obtain annually a separate registration for that purpose. The Attorney General shall register an applicant to dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment (or both)—
 
-&emsp;&emsp;&emsp;(gg) diversion control; and
+&emsp;(1) if the applicant is a practitioner who is determined by the Secretary to be qualified (under standards established by the Secretary) to engage in the treatment with respect to which registration is sought;
 
-&emsp;&emsp;&emsp;(hh) other best practices, as identified by the Secretary.
+&emsp;(2) if the Attorney General determines that the applicant will comply with standards established by the Attorney General respecting (A) security of stocks of narcotic drugs for such treatment, and (B) the maintenance of records (in accordance with section 827 of this title) on such drugs; and
 
-&emsp;&emsp;(V) The physician has participated as an investigator in one or more clinical trials leading to the approval of a narcotic drug in schedule III, IV, or V for maintenance or detoxification treatment, as demonstrated by a statement submitted to the Secretary by the sponsor of such approved drug.
+&emsp;(3) if the Secretary determines that the applicant will comply with standards established by the Secretary (after consultation with the Attorney General) respecting the quantities of narcotic drugs which may be provided for unsupervised use by individuals in such treatment.
 
-&emsp;&emsp;(VI) The physician has such other training or experience as the State medical licensing board (of the State in which the physician will provide maintenance or detoxification treatment) considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients.
-
-&emsp;&emsp;(VII) The physician has such other training or experience as the Secretary considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients. Any criteria of the Secretary under this subclause shall be established by regulation. Any such criteria are effective only for 3 years after the date on which the criteria are promulgated, but may be extended for such additional discrete 3-year periods as the Secretary considers appropriate for purposes of this subclause. Such an extension of criteria may only be effectuated through a statement published in the Federal Register by the Secretary during the 30-day period preceding the end of the 3-year period involved.
-
-&emsp;&emsp;(VIII) The physician graduated in good standing from an accredited school of allopathic medicine or osteopathic medicine in the United States during the 5-year period immediately preceding the date on which the physician submits to the Secretary a written notification under subparagraph (B) and successfully completed a comprehensive allopathic or osteopathic medicine curriculum or accredited medical residency that—
-
-&emsp;&emsp;&emsp;(aa) included not less than 8 hours of training on treating and managing opioid-dependent patients; and
-
-&emsp;&emsp;&emsp;(bb) included, at a minimum—
-
-&emsp;&emsp;&emsp;&emsp;(AA) the training described in items (aa) through (gg) of subclause (IV); and
-
-&emsp;&emsp;&emsp;&emsp;(BB) training with respect to any other best practice the Secretary determines should be included in the curriculum, which may include training on pain management, including assessment and appropriate use of opioid and non-opioid alternatives.
-
-&emsp;(iii) The term "qualifying practitioner" means—
-
-&emsp;&emsp;(I) a qualifying physician, as defined in clause (ii);
-
-&emsp;&emsp;(II) a qualifying other practitioner, as defined in clause (iv), who is a nurse practitioner or physician assistant; or
-
-&emsp;&emsp;(III) for the period beginning on October 1, 2018, and ending on October 1, 2023, a qualifying other practitioner, as defined in clause (iv), who is a clinical nurse specialist, certified registered nurse anesthetist, or certified nurse midwife.
-
-&emsp;(iv) The term "qualifying other practitioner" means a nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant who satisfies each of the following:
-
-&emsp;&emsp;(I) The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
-
-&emsp;&emsp;(II) The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant has—
-
-&emsp;&emsp;&emsp;(aa) completed not fewer than 24 hours of initial training addressing each of the topics listed in clause (ii)(IV) (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Nurses Credentialing Center, the American Psychiatric Association, the American Association of Nurse Practitioners, the American Academy of Physician Assistants, or any other organization that the Secretary determines is appropriate for purposes of this subclause; or
-
-&emsp;&emsp;&emsp;(bb) has such other training or experience as the Secretary determines will demonstrate the ability of the nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant to treat and manage opiate-dependent patients.
-
-&emsp;&emsp;(III) The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is supervised by, or works in collaboration with, a qualifying physician, if the nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
-
-> &emsp;The Secretary may, by regulation, revise the requirements for being a qualifying other practitioner under this clause.
-
-(H)(i) In consultation with the Administrator of the Drug Enforcement Administration, the Administrator of the Substance Abuse and Mental Health Services Administration, the Director of the National Institute on Drug Abuse, and the Commissioner of Food and Drugs, the Secretary shall issue regulations (through notice and comment rulemaking) or issue practice guidelines to address the following:
-
-&emsp;(I) Approval of additional credentialing bodies and the responsibilities of additional credentialing bodies.
-
-&emsp;(II) Additional exemptions from the requirements of this paragraph and any regulations under this paragraph.
-
-&emsp;(III) Such other elements of the requirements under this paragraph as the Secretary determines necessary for purposes of implementing such requirements.
-
-> Nothing in such regulations or practice guidelines may authorize any Federal official or employee to exercise supervision or control over the practice of medicine or the manner in which medical services are provided.
-
-(ii) Not later than 18 months after the date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act,<sup>1</sup> the Secretary shall update the treatment improvement protocol containing best practice guidelines for the treatment of opioid-dependent patients in office-based settings. The Secretary shall update such protocol in consultation with experts in opioid use disorder research and treatment.
-
-(I) Notwithstanding section 903 of this title, nothing in this paragraph shall be construed to preempt any State law that—
-
-&emsp;(i) permits a qualifying practitioner to dispense narcotic drugs in schedule III, IV, or V, or combinations of such drugs, for maintenance or detoxification treatment in accordance with this paragraph to a total number of patients that is more than 30 or less than the total number applicable to the qualifying practitioner under subparagraph (B)(iii)(II) if a State enacts a law modifying such total number and the Attorney General is notified by the State of such modification; or
-
-&emsp;(ii) requires a qualifying practitioner to comply with additional requirements relating to the dispensing of narcotic drugs in schedule III, IV, or V, or combinations of such drugs, including requirements relating to the practice setting in which the qualifying practitioner practices and education, training, and reporting requirements.
-
-#### (h) Applicants for distribution of list I chemicals
+#### (i) Applicants for distribution of list I chemicals
 
 The Attorney General shall register an applicant to distribute a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under clause (iv) or (v) of section 802(39)(A) of this title. In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
 
@@ -246,13 +224,13 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;(5) such other factors as are relevant to and consistent with the public health and safety.
 
-#### (i) Registration to manufacture certain controlled substances for use only in a clinical trial
+#### (j) Registration to manufacture certain controlled substances for use only in a clinical trial
 
-(1) For purposes of registration to manufacture a controlled substance under subsection (d) for use only in a clinical trial, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title, not later than 180 days after the date on which the application is accepted for filing.
+(1) For purposes of registration to manufacture a controlled substance under subsection (e) for use only in a clinical trial, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title, not later than 180 days after the date on which the application is accepted for filing.
 
 (2) For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title, unless the Attorney General has granted a hearing on the application under section 958(i) of this title.
 
-#### (j) Emergency medical services that administer controlled substances
+#### (k) Emergency medical services that administer controlled substances
 
 #### (1) Registration
 
@@ -260,7 +238,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;&emsp;(A) shall register an emergency medical services agency if the agency submits an application demonstrating it is authorized to conduct such activity under the laws of each State in which the agency practices; and
 
-&emsp;&emsp;(B) may deny an application for such registration if the Attorney General determines that the issuance of such registration would be inconsistent with the requirements of this subsection or the public interest based on the factors listed in subsection (f).
+&emsp;&emsp;(B) may deny an application for such registration if the Attorney General determines that the issuance of such registration would be inconsistent with the requirements of this subsection or the public interest based on the factors listed in subsection (g).
 
 #### (2) Option for single registration
 
@@ -268,7 +246,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 #### (3) Hospital-based agency
 
-&emsp;If a hospital-based emergency medical services agency is registered under subsection (f), the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
+&emsp;If a hospital-based emergency medical services agency is registered under subsection (g), the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
 
 #### (4) Administration outside physical presence of medical director or authorizing medical professional
 
@@ -410,7 +388,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;&emsp;(G) The term "hospital-based" means, with respect to an agency, owned or operated by a hospital.
 
-&emsp;&emsp;(H) The term "medical director" means a physician who is registered under subsection (f) and provides medical oversight for an emergency medical services agency.
+&emsp;&emsp;(H) The term "medical director" means a physician who is registered under subsection (g) and provides medical oversight for an emergency medical services agency.
 
 &emsp;&emsp;(I) The term "medical oversight" means supervision of the provision of medical care by an emergency medical services agency.
 
@@ -418,9 +396,9 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;&emsp;&emsp;(i) an emergency medical services agency that is registered pursuant to this subsection; or
 
-&emsp;&emsp;&emsp;(ii) a hospital-based emergency medical services agency that is covered by the registration of the hospital under subsection (f).
+&emsp;&emsp;&emsp;(ii) a hospital-based emergency medical services agency that is covered by the registration of the hospital under subsection (g).
 
-&emsp;&emsp;(K) The term "registered location" means a location that appears on the certificate of registration issued to an emergency medical services agency under this subsection or subsection (f), which shall be where the agency receives controlled substances from distributors.
+&emsp;&emsp;(K) The term "registered location" means a location that appears on the certificate of registration issued to an emergency medical services agency under this subsection or subsection (g), which shall be where the agency receives controlled substances from distributors.
 
 &emsp;&emsp;(L) The term "specific State authority" means a governmental agency or other such authority, including a regional oversight and coordinating body, that, pursuant to State law or regulation, develops clinical protocols regarding the delivery of emergency medical services in the geographic jurisdiction of such agency or authority within the State that may be adopted by medical directors.
 
@@ -428,27 +406,123 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;&emsp;(N) The term "verbal order" means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneously administer a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
 
-#### (k) "Factors as may be relevant to and consistent with the public health and safety" defined
+#### (l) <sup>2</sup> "Factors as may be relevant to and consistent with the public health and safety" defined
 
 In this section, the phrase "factors as may be relevant to and consistent with the public health and safety" means factors that are relevant to and consistent with the findings contained in section 801 of this title.
 
-(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, §712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, §1102, Dec. 29, 2006, 120 Stat. 3540; Pub. L. 110–425, §3(b), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 114–89, §3, Nov. 25, 2015, 129 Stat. 701; Pub. L. 114–145, §2(a)(1), Apr. 19, 2016, 130 Stat. 354; Pub. L. 114–198, title III, §303(a)(1), (b), July 22, 2016, 130 Stat. 720, 723; Pub. L. 115–83, §2, Nov. 17, 2017, 131 Stat. 1267; Pub. L. 115–271, title III, §§3201(a)–(d), 3202(a), Oct. 24, 2018, 132 Stat. 3943, 3944.)
+#### (l) <sup>2</sup> Required training for prescribers
+
+#### (1) Training required
+
+&emsp;As a condition on registration under this section to dispense controlled substances in schedule II, III, IV, or V, the Attorney General shall require any qualified practitioner, beginning with the first applicable registration for the practitioner, to meet the following:
+
+&emsp;&emsp;(A) If the practitioner is a physician (as defined under section 1395x(r) of title 42) and the practitioner meets one or more of the following conditions:
+
+&emsp;&emsp;&emsp;(i) The physician holds a board certification in addiction psychiatry or addiction medicine from the American Board of Medical Specialties.
+
+&emsp;&emsp;&emsp;(ii) The physician holds a board certification from the American Board of Addiction Medicine.
+
+&emsp;&emsp;&emsp;(iii) The physician holds a board certification in addiction medicine from the American Osteopathic Association.
+
+&emsp;&emsp;&emsp;(iv) The physician has, with respect to the treatment and management of patients with opioid or other substance use disorders, or the safe pharmacological management of dental pain and screening, brief intervention, and referral for appropriate treatment of patients with or at risk of developing opioid or other substance use disorders, completed not less than 8 hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by—
+
+&emsp;&emsp;&emsp;&emsp;(I) the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Dental Association, the American Association of Oral and Maxillofacial Surgeons, the American Psychiatric Association, or any other organization accredited by the Accreditation Council for Continuing Medical Education (ACCME) or the Commission for Continuing Education Provider Recognition (CCEPR);
+
+&emsp;&emsp;&emsp;&emsp;(II) any organization accredited by a State medical society accreditor that is recognized by the ACCME or the CCEPR;
+
+&emsp;&emsp;&emsp;&emsp;(III) any organization accredited by the American Osteopathic Association to provide continuing medical education; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) any organization approved by the Assistant Secretary for Mental Healthand Substance Use, the ACCME, or the CCEPR.
+
+&emsp;&emsp;&emsp;(v) The physician graduated in good standing from an accredited school of allopathic medicine, osteopathic medicine, dental surgery, or dental medicine in the United States during the 5-year period immediately preceding the date on which the physician first registers or renews under this section and has successfully completed a comprehensive allopathic or osteopathic medicine curriculum or accredited medical residency or dental surgery or dental medicine curriculum that included not less than 8 hours of training on—
+
+&emsp;&emsp;&emsp;&emsp;(I) treating and managing patients with opioid or other substance use disorders, including the appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of a substance use disorder; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the safe pharmacological management of dental pain and screening, brief intervention, and referral for appropriate treatment of patients with or at risk of developing opioid and other substance use disorders.
+
+&emsp;&emsp;(B) If the practitioner is not a physician (as defined under section 1395x(r) of title 42), the practitioner is legally authorized by the State to dispense controlled substances under schedule II, III, IV, or V and is dispensing such substances within such State in accordance with all applicable State laws, and the practitioner meets one or more of the following conditions:
+
+&emsp;&emsp;&emsp;(i) The practitioner has completed not fewer than 8 hours of training with respect to the treatment and management of patients with opioid or other substance use disorders (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Nurses Credentialing Center, the American Psychiatric Association, the American Association of Nurse Practitioners, the American Academy of Physician Associates, or any other organization approved or accredited by the Assistant Secretary for Mental Health and Substance Use or the Accreditation Council for Continuing Medical Education.
+
+&emsp;&emsp;&emsp;(ii) The practitioner has graduated in good standing from an accredited physician assistant school or accredited school of advanced practice nursing in the United States during the 5-year period immediately preceding the date on which the practitioner first registers or renews under this section and has successfully completed a comprehensive physician assistant or advanced practice nursing curriculum that included not fewer than 8 hours of training on treating and managing patients with opioid and other substance use disorders, including the appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of a substance use disorder.
+
+#### (2) One-time training
+
+#### (A) In general
+
+&emsp;&emsp;The Attorney General shall not require any qualified practitioner to complete the training described in clause (iv) or (v) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B) more than once.
+
+#### (B) Notification
+
+&emsp;&emsp;Not later than 90 days after December 29, 2022, the Attorney General shall provide to qualified practitioners a single written, electronic notification of the training described in clauses (iv) and (v) of paragraph (1)(A) or clauses (i) and (ii) of paragraph (1)(B).
+
+#### (3) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed—
+
+&emsp;&emsp;(A) to preclude the use, by a qualified practitioner, of training received pursuant to this subsection to satisfy registration requirements of a State or for some other lawful purpose; or
+
+&emsp;&emsp;(B) to preempt any additional requirements by a State related to the dispensing of controlled substances under schedule II, III, IV, or V.
+
+#### (4) Definitions
+
+&emsp;In this section:
+
+#### (A) First applicable registration
+
+&emsp;&emsp;The term "first applicable registration" means the first registration or renewal of registration by a qualified practitioner under this section that occurs on or after the date that is 180 days after December 29, 2022.
+
+#### (B) Qualified practitioner
+
+&emsp;&emsp;In this subsection, the term "qualified practitioner" means a practitioner who—
+
+&emsp;&emsp;&emsp;(i) is licensed under State law to prescribe controlled substances; and
+
+&emsp;&emsp;&emsp;(ii) is not solely a veterinarian.
+
+(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, §712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, §1102, Dec. 29, 2006, 120 Stat. 3540; Pub. L. 110–425, §3(b), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 114–89, §3, Nov. 25, 2015, 129 Stat. 701; Pub. L. 114–145, §2(a)(1), Apr. 19, 2016, 130 Stat. 354; Pub. L. 114–198, title III, §303(a)(1), (b), July 22, 2016, 130 Stat. 720, 723; Pub. L. 115–83, §2, Nov. 17, 2017, 131 Stat. 1267; Pub. L. 115–271, title III, §§3201(a)–(d), 3202(a), Oct. 24, 2018, 132 Stat. 3943, 3944; Pub. L. 117–215, title I, §§101, 102(a), 103(a), Dec. 2, 2022, 136 Stat. 2258, 2260, 2261; Pub.L. 117–328, div. FF, title I, §§1262(a), 1263(a), Dec. 29, 2022, 136 Stat. 5681, 5683.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (f), (g)(2), and (j)(1), (4), are set out in section 812(c) of this title.
+Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (g)(2), (k)(1), (4), and (l)(1), (3)(B), are set out in section 812(c) of this title.
 
-This subchapter, referred to in subsecs. (f) and (j)(12)(A), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1)(A), (B) and (k)(13)(A)(i), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+Section 105 of the Medical Marijuana and Cannabidiol Research Expansion Act, referred to in subsecs. (c)(1)(B)(vi) and (g)(2)(B)(i)(II), is section 105 of Pub. L. 117–215, which is set out as a note below.
 
-The date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act, referred to in subsec. (g)(2)(H)(ii), probably means the date of enactment of Pub. L. 114–198, known as the Comprehensive Addiction and Recovery Act of 2016, which was approved July 22, 2016. The Opioid Use Disorder Treatment Expansion and Modernization Act was H.R. 4981 of the 114th Congress, as introduced on Apr. 18, 2016. Amendatory provisions of H.R. 4981 were incorporated into Pub. L. 114–198, but no such Short Title was enacted.
-
-This chapter, referred to in subsec. (j)(13)(A)(i), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsecs. (g)(3) and (k)(12)(A), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsecs. (c) to (e). Pub. L. 117–215, §103(a)(1), (2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 117–215, §103(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Pub. L. 117–215, §101, designated introductory provisions through first sentence of concluding provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), designated second to fourth sentences of concluding provisions as subpar. (A) of par. (2), added subpar. (B) of par. (2), and designated last sentence of concluding provisions as par. (3).
+
+Subsec. (f)(2)(B)(vi). Pub. L. 117–215, §102(a), added cl. (vi).
+
+Subsec. (g). Pub. L. 117–215, §103(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 117–328, §1262(a), which directed amendment of subsec. (g) by substituting "Practitioners who dispense narcotic drugs (other than narcotic drugs in schedule III, IV, or V) to individuals for maintenance treatment or detoxification treatment" for "(1) Except as provided in paragraph (2), practitioners who dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment", redesignating subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, redesignating cls. (i) and (ii) of par. (2) as subpars. (A) and (B), respectively, and striking former par. (2) which related to waiver of registration requirements, was executed to subsec. (h) to reflect the probable intent of Congress and the redesignation of subsec. (g) as (h) by Pub. L. 117–215, §103(a)(1). See Amendment note below.
+
+Pub. L. 117–215, §103(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (h)(2). Pub. L. 117–215, §103(a)(3), substituted "subsection (g)" for "subsection (f)" wherever appearing.
+
+Subsec. (i). Pub. L. 117–215, §103(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 117–215, §103(a)(1), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+
+Subsec. (j)(1). Pub. L. 117–215, §103(a)(4), substituted "subsection (e)" for "subsection (d)".
+
+Subsec. (k). Pub. L. 117–215, §103(a)(1), (5), redesignated subsec. (j) as (k) and substituted "subsection (g)" for "subsection (f)" wherever appearing. Former subsec. (k) redesignated (l).
+
+Subsec. (l). Pub. L. 117–328, §1263(a), added subsec. (l) relating to required training for prescribers.
+
+Pub. L. 117–215, §103(a)(1), redesignated subsec. (k) as (l).
 
 <b>2018</b>—Subsec. (g)(2)(B)(iii)(II). Pub. L. 115–271, §3201(a), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients."
 
@@ -546,13 +620,67 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
+#### Regulations
+
+Pub. L. 117–215, title I, §102(b), Dec. 2, 2022, 136 Stat. 2261, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 2, 2022\], the Attorney General shall promulgate regulations to carry out the amendment made by this section \[amending this section\]."
+
 #### Update Regulations
+
+Pub. L. 117–328, div. FF, title I, §1252(b), Dec. 29, 2022, 136 Stat. 5681, provided that: "Not later than 18 months after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary of Health and Human Services shall revise section 8.12(e)(1) of title 42, Code of Federal Regulations (or successor regulations), to eliminate the requirement that an opioid treatment program only admit an individual for treatment under the program if the individual has been addicted to opioids for at least 1 year before being so admitted for treatment."
 
 Pub. L. 114–198, title III, §303(c), July 22, 2016, 130 Stat. 723, provided that: "Not later than 18 months after the date of enactment of this Act \[July 22, 2016\], the Attorney General and the Secretary of Health and Human Services, as appropriate, shall update regulations regarding practitioners described in subsection (a)(3)(B)(vii) (as amended by this section) \[probably means subsec. (a)(3)(B)(vii) "of this section", set out as a note below\] to include nurse practitioners and physician assistants to ensure the quality of patient care and prevent diversion."
 
+#### Adequate and Uninterrupted Supply
+
+Pub. L. 117–215, title I, §104, Dec. 2, 2022, 136 Stat. 2263, provided that:
+
+"(a)
+
+In General.—On an annual basis, the Attorney General, in consultation with the Secretary of Health and Human Services, shall assess whether there is an adequate and uninterrupted supply of marijuana, including of specific strains, for research purposes.
+
+"(b)
+
+Report to Congress.—If the Attorney General, in consultation with the Secretary of Health and Human Services, determines there is an inadequate or interrupted supply of marijuana, including of specific strains for research purposes, the Attorney General shall report to Congress within 60 days of the determination on at least—
+
+&emsp;"(1) the factors contributing to the inadequate or interrupted supply of marijuana;
+
+&emsp;"(2) expected impacts of the inadequate or interrupted supply on ongoing research protocols; and
+
+&emsp;"(3) specific steps the Attorney General will take to restore an adequate and uninterrupted supply of marijuana, including of specific strains, for research purposes."
+
+\[For definition of "marijuana" as used in section 104 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under section 801 of this title.\]
+
+#### Security Requirements
+
+Pub. L. 117–215, title I, §105, Dec. 2, 2022, 136 Stat. 2264, provided that:
+
+"(a)
+
+In General.—An individual or entity engaged in researching marijuana or its components shall store it in a securely locked, substantially constructed cabinet.
+
+"(b)
+
+Requirements for Other Measures.—Any other security measures required by the Attorney General to safeguard against diversion shall be consistent with those required for practitioners conducting research on other controlled substances in schedules I and II in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) that have a similar risk of diversion and abuse."
+
+\[For definitions of "marijuana", "controlled substances", and "practitioners" as used in section 105 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under section 801 of this title.\]
+
+#### Development of Food and Drug Administration-Approved Drugs Using Cannabidiol and Marijuana
+
+Pub. L. 117–215, title II, Dec. 2, 2022, 136 Stat. 2264, provided that:
+
+#### "SEC. 201. MEDICAL RESEARCH ON CANNABIDIOL.
+
+"Notwithstanding any provision of the Controlled Substances Act (21 U.S.C. 801 et seq.), the Safe and Drug-Free Schools and Communities Act (20 U.S.C. 7101 et seq.), chapter 81 of title 41, United States Code, or any other Federal law, an appropriately registered covered institution of higher education, practitioner, or manufacturer may manufacture, distribute, dispense, or possess marijuana or cannabidiol if the marijuana or cannabidiol is manufactured, distributed, dispensed, or possessed, respectively, for purposes of medical research for drug development or subsequent commercial production in accordance with section 202.
+
+#### "SEC. 202. REGISTRATION FOR THE COMMERCIAL PRODUCTION AND DISTRIBUTION OF FOOD AND DRUG ADMINISTRATION-APPROVED DRUGS.
+
+"The Attorney General shall register an applicant to manufacture or distribute cannabidiol or marijuana for the purpose of commercial production of a drug containing or derived from marijuana that is approved by the Secretary of Health and Human Services under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), in accordance with the applicable requirements under subsection (a) or (b) of section 303 of the Controlled Substances Act (21 U.S.C. 823)."
+
+\[For definitions of terms used in title II of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under section 801 of this title.\]
+
 #### Treatment for Children
 
-Pub. L. 115–271, title III, §3202(b), Oct. 24, 2018, 132 Stat. 3945, provided that: "The Secretary of Health and Human Services shall consider ways to ensure that an adequate number of qualified practitioners, as defined in subparagraph (G)(ii) of section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)), who have a specialty in pediatrics or the treatment of children or adolescents, are granted a waiver under such section 303(g)(2) to treat children and adolescents with substance use disorders."
+Pub. L. 115–271, title III, §3202(b), Oct. 24, 2018, 132 Stat. 3945, provided that: "The Secretary of Health and Human Services shall consider ways to ensure that an adequate number of qualified practitioners, as defined in \[former\] subparagraph (G)(ii) of section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)) \[former 21 U.S.C. 823(h)(2)\], who have a specialty in pediatrics or the treatment of children or adolescents, are granted a waiver under such section 303(g)(2) to treat children and adolescents with substance use disorders."
 
 #### Grants To Enhance Access to Substance Use Disorder Treatment
 
@@ -560,7 +688,7 @@ Pub. L. 115–271, title III, §3203, Oct. 24, 2018, 132 Stat. 3945, provided th
 
 "(a)
 
-In General.—The Secretary of Health and Human Services shall establish a grant program under which the Secretary may make grants to accredited schools of allopathic medicine or osteopathic medicine and teaching hospitals located in the United States to support the development of curricula that meet the requirements under subclause (VIII) of section 303(g)(2)(G)(ii) of the Controlled Substances Act \[21 U.S.C. 823(g)(2)(G)(ii)\], as added by section 3202(a) of this Act.
+In General.—The Secretary of Health and Human Services shall establish a grant program under which the Secretary may make grants to accredited schools of allopathic medicine or osteopathic medicine and teaching hospitals located in the United States to support the development of curricula that meet the requirements under \[former\] subclause (VIII) of section 303(g)(2)(G)(ii) of the Controlled Substances Act \[former 21 U.S.C. 823(h)(2)(G)(ii)\], as added by section 3202(a) of this Act.
 
 "(b)
 
@@ -582,11 +710,11 @@ In general.—Not later than 3 years after the date of enactment of this Act \[J
 
 Contents.—Each report under subparagraph (A) shall include an assessment of—
 
-&emsp;"(i) compliance with the requirements of section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)), as amended by this section;
+&emsp;"(i) compliance with the requirements of \[former\] section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)) \[former 21 U.S.C. 823(h)(2)\], as amended by this section;
 
 &emsp;"(ii) the measures taken by the Secretary of Health and Human Services to ensure such compliance;
 
-&emsp;"(iii) whether there is further need to increase or decrease the number of patients a practitioner, pursuant to a waiver under section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)), is permitted to treat;
+&emsp;"(iii) whether there is further need to increase or decrease the number of patients a practitioner, pursuant to a waiver under \[former\] section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)) \[former 21 U.S.C. 823(h)(2)\], is permitted to treat;
 
 &emsp;"(iv) the extent to which, and proportions with which, the full range of Food and Drug Administration-approved treatments for opioid use disorder are used in routine health care settings and specialty substance use disorder treatment settings;
 
@@ -594,7 +722,7 @@ Contents.—Each report under subparagraph (A) shall include an assessment of—
 
 &emsp;"(vi) changes in State or local policies and legislation relating to opioid use disorder treatment;
 
-&emsp;"(vii) the use of prescription drug monitoring programs by practitioners who are permitted to dispensenarcotic drugs to individuals pursuant to a waiver described in clause (iii);
+&emsp;"(vii) the use of prescription drug monitoring programs by practitioners who are permitted to dispense narcotic drugs to individuals pursuant to a waiver described in clause (iii);
 
 &emsp;"(viii) the findings resulting from inspections by the Drug Enforcement Administration of practitioners described in clause (vii); and
 
@@ -604,5 +732,7 @@ Contents.—Each report under subparagraph (A) shall include an assessment of—
 
 For provisional registration of persons engaged in manufacturing, distributing, or dispensing of controlled substances on the day before the effective date of section 822 of this title who are registered on such date under section 360 of this title or section 4722 of Title 26, Internal Revenue Code, see section 703 of Pub. L. 91–513, set out as a note under section 822 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (l) have been enacted.</i>
 

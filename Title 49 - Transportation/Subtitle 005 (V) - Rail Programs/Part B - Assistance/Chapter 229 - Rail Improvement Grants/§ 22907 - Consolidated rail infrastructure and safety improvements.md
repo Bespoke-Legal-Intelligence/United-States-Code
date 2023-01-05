@@ -152,7 +152,7 @@ Availability.—Amounts appropriated for carrying out this section shall remain 
 
 (k)
 
-Limitation.—The requirements under sections 22902, 22903, and 22904, and the definitioncontained in section 22901(1) shall not apply to this section.
+Limitation.—The requirements under sections 22902, 22903, and 22904, and the definition contained in section 22901(1) shall not apply to this section.
 
 (l)
 
@@ -168,7 +168,7 @@ In general.—In carrying out this chapter, the Secretary shall allocate an appr
 
 &emsp;(2)
 
-Definition.—For the purposes of this subsection, the term "appropriate portion" means a share, for each State subject to paragraph (1), not less than the share of the total railroad route miles in such State of the total railroad route miles in the United States, excluding from all totals the route miles exclusively used for tourist, scenic, and excursion railroad operations.
+Definition.—For the purposes of this subsection, the term "appropriate portion" means a share, for each State subject to paragraph\(1), not less than the share of the total railroad route miles in such State of the total railroad route miles in the United States, excluding from all totals the route miles exclusively used for tourist, scenic, and excursion railroad operations.
 
 (Added Pub. L. 114–94, div. A, title XI, §11301(a), Dec. 4, 2015, 129 Stat. 1644, §24407; renumbered §22907 and amended Pub. L. 115–420, §7(a)(1), (b)(2)(D), Jan. 3, 2019, 132 Stat. 5445, 5446; Pub. L. 117–58, div. B, title II, §22303(a), (c)(1), Nov. 15, 2021, 135 Stat. 718.)
 
@@ -478,7 +478,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[Oc
 
 "(b)
 
-Review and Approval.—Not later than 60 days after the Secretary receives a plan under subsection (a), the Secretary shall review and approve or disapprove it. If the proposed plan is disapproved, the Secretary shall notify the affected State as to the specific areas in which the proposed plan is deficient, and theState shall correct all deficiencies within 30 days following receipt of written notice from the Secretary."
+Review and Approval.—Not later than 60 days after the Secretary receives a plan under subsection (a), the Secretary shall review and approve or disapprove it. If the proposed plan is disapproved, the Secretary shall notify the affected State as to the specific areas in which the proposed plan is deficient, and the State shall correct all deficiencies within 30 days following receipt of written notice from the Secretary."
 
 \[For definitions of "Secretary", "State", and "crossing", as used in section 202 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 
@@ -492,7 +492,7 @@ Grant.—The Federal Railroad Administration shall make a grant or grants to Ope
 
 "(b)
 
-Pilot Program.—The Secretary may allow funds provided under subsection (a) also to be used by Operation Lifesaver to implement a pilot program, to be known as the Railroad Safety Public Awareness Program, that addresses the need for targeted and sustained community outreach on the subjects described in subsection (a). Such a pilot program shall be established in 1 or more States identified under section 202 of this division \[set out above\]. In carrying out such a pilot program Operation Lifesaver shall work with the State, community leaders, school districts, and public and private partners to identify the communities at greatest risk, to develop appropriate measures to reduce such risks, and shall coordinate the pilot program with the State grade crossing action plan.
+Pilot Program.—The Secretary may allow funds provided under subsection (a) also to be used by Operation Lifesaver to implement a pilot program, to be known as the Railroad Safety Public Awareness Program, that addresses the need for targeted and sustained community outreach on the subjects describedin subsection (a). Such a pilot program shall be established in 1 or more States identified under section 202 of this division \[set out above\]. In carrying out such a pilot program Operation Lifesaver shall work with the State, community leaders, school districts, and public and private partners to identify the communities at greatest risk, to develop appropriate measures to reduce such risks, and shall coordinate the pilot program with the State grade crossing action plan.
 
 "(c)
 

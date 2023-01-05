@@ -20,7 +20,7 @@ Contents of Notification.—Notification by a manufacturer required under sectio
 
 (b)
 
-Earliest Remedy Date.—The date specified by a manufacturer in a notification under subsection (a)(5) of this section or section 30121(c)(2) of this title is the earliest date that parts and facilities reasonably can be expected to be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
+Earliest Remedy Date.—The date specified by a manufacturer in a notification under subsection (a)(5) of this section or section 30121(c)(2) of this title is the earliest date that parts and facilities reasonably can be expectedto be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
 
 (c)
 
@@ -144,7 +144,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §153(d), (e); added Dec. 18, 199
 
 In this section, the text of 15:1397(a)(1)(D) (related to 15:1413(a)–(c) (1st sentence cls. (1)–(5), last sentence), 1414(b)(2) (2d, last sentences), and 1416) is omitted as surplus.
 
-In subsection (a), before clause (1), the words "a motor vehicle or item of replacement equipment" are omitted as surplus. The words "by a manufacturer" areadded for clarity. In clause (3), the words "a statement of" are omitted as surplus. In clause (4), the word "remedy" is substituted for "cause . . . to be remedied" to eliminate unnecessary words. In clause (5), the words "(specified in accordance with the second and third sentences of section 1414(b)(2) of this title)" are omitted as surplus. In clause (6), the words "a description of" are omitted as surplus. The words "under section 30120 of this title" are added for consistency with the source provisions restated in this subsection. In clause (7), the words "in addition to such . . . as" are omitted as surplus.
+In subsection (a), before clause (1), the words "a motor vehicle or item of replacement equipment" are omitted as surplus. The words "by a manufacturer" are added for clarity. In clause (3), the words "a statement of" are omitted as surplus. In clause (4), the word "remedy" is substituted for "cause . . . to be remedied" to eliminate unnecessary words. In clause (5), the words "(specified in accordance with the second and third sentences of section 1414(b)(2) of this title)" are omitted as surplus. In clause (6), the words "a description of" are omitted as surplus. The words "under section 30120 of this title" are added for consistency with the source provisions restated in this subsection. In clause (7), the words "in addition to such . . . as" are omitted as surplus.
 
 In subsection (b), the words "in a notification under subsection (a)(5) of this section or section 30121(c) of this title" are substituted for "In either case" because of the restatement. The words "may disapprove" are substituted for "shall be subject to disapproval by" to eliminate unnecessary words.
 

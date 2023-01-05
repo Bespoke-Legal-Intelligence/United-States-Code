@@ -4,7 +4,7 @@
 
 #### (1) Establishment of moratorium
 
-&emsp;The importation of any exotic bird of a species identified as a category B species in thereport entitled "Report of the Animals Committee", adopted by the 8th meeting of the Conference of the Parties to the Convention, is prohibited.
+&emsp;The importation of any exotic bird of a species identified as a category B species in the report entitled "Report of the Animals Committee", adopted by the 8th meeting of the Conference of the Parties to the Convention, is prohibited.
 
 #### (2) Termination of moratorium
 

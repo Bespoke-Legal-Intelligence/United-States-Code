@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) in the case of a credit transaction with a fixed rate of interest, the annual percentage rate and the amount of the regular monthly payment; or
 
-&emsp;&emsp;(B) in the case of any other credit transaction, the annual percentage rate of the loan, the amount of the regular monthly payment, a statement that the interest rateand monthly payment may increase, and the amount of the maximum monthly payment, based on the maximum interest rate allowed pursuant to section 3806 of title 12.
+&emsp;&emsp;(B) in the case of any other credit transaction, the annual percentage rate of the loan, the amount of the regular monthly payment, a statement that the interest rate and monthly payment may increase, and the amount of the maximum monthly payment, based on the maximum interest rate allowed pursuant to section 3806 of title 12.
 
 #### (b) Time of disclosures
 
@@ -44,7 +44,7 @@
 
 #### (3) No wait for lower rate
 
-&emsp;If a creditor extends to a consumer a second offer of credit with a lower annual percentage rate, the transaction may be consummated without regard to the period specified in paragraph (1) with respect to the second offer.
+&emsp;If a creditor extends to a consumer a second offer of credit with a lower annual percentagerate, the transaction may be consummated without regard to the period specified in paragraph (1) with respect to the second offer.
 
 #### (4) Modifications
 
@@ -118,7 +118,7 @@ No creditor shall recommend or encourage default on an existing loan or other de
 
 #### (l) Acceleration of debt
 
-No high-cost mortgage may contain a provision which permits the creditor to accelerate the indebtedness, except when repayment of the loan has been accelerated by default in payment, or pursuant to a due-on-sale provision, or pursuant to a material violation of some other provision of the loan document unrelated to payment schedule.
+No high-cost mortgage may contain a provision which permits the creditor to acceleratethe indebtedness, except when repayment of the loan has been accelerated by default in payment, or pursuant to a due-on-sale provision, or pursuant to a material violation of some other provision of the loan document unrelated to payment schedule.
 
 #### (m) Restriction on financing points and fees
 
@@ -202,7 +202,7 @@ A creditor, successor in interest, assignee, or any agent of any of the above, m
 
 #### (2) Disclosures required prior to counseling
 
-&emsp;No counselor may certify that a consumer has received counseling on the advisability of the high-cost mortgage unless the counselor can verify that the consumer has received each statement required (in connection with such loan) by this section or the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] with respect to the transaction.
+&emsp;No counselor may certify that a consumer has received counseling on the advisability of the high-cost mortgage unless the counselor can verify that the consumer has received each statement required (in connection withsuch loan) by this section or the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] with respect to the transaction.
 
 #### (3) Regulations
 
@@ -252,7 +252,7 @@ Subsecs. (j) to (l). Pub. L. 111–203, §1433(a)(2), added subsecs. (j) to (l).
 
 Subsec. (m). Pub. L. 111–203, §1433(a)(2), added subsec. (m). Former subsec. (m) redesignated (q).
 
-Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: "For purposes of enforcement bythe Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices."
+Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: "For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices."
 
 Subsecs. (n) to (q). Pub. L. 111–203, §1433(a)(1), redesignated former subsecs. (j) to (m) as (n) to (q), respectively.
 

@@ -118,7 +118,7 @@ Excluded contracts.—A contract entered into under this subchapter may not be f
 
 (3) The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct.24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659; Pub. L. 111–383, div. A, title VIII, §828(a), Jan. 7, 2011, 124 Stat. 4271; Pub. L. 116–260, div. Z, title I, §1002(c), (d), Dec. 27, 2020, 134 Stat. 2422; Pub. L. 117–81, div. A, title XVII, §1702(j)(5), Dec. 27, 2021, 135 Stat. 2159.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659; Pub. L. 111–383, div. A, title VIII, §828(a), Jan. 7, 2011, 124 Stat. 4271; Pub. L. 116–260, div. Z, title I, §1002(c), (d), Dec. 27, 2020, 134 Stat. 2422; Pub. L. 117–81, div. A, title XVII, §1702(j)(5), Dec. 27, 2021, 135 Stat. 2159.)
 
 #### <b>Editorial Notes</b>
 
@@ -136,11 +136,9 @@ In subsec. (a)(2)(D)(iii), "section 1303 of title 41" substituted for "section 2
 
 In subsec. (b)(1)(A), "section 1302(a) of title 41" substituted for "section 25(a) of the Office of Federal Procurement Policy Act".
 
-In subsec. (c)(2), "section 4106(d) of title 41" substituted for "section 303J(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253j(d))".
-
 #### Amendments
 
-<b>2021</b>—Subsec. (c)(2). Pub. L. 117–81 substituted "section 3406(d) of title 10 and section 4106(d) of title 41." for "section 2304c(d) of title 10 and section 4106(d) of title 41."
+<b>2021</b>—Subsec. (c)(2). Pub. L. 117–81 substituted "section 3406(d) of title 10 and section 4106(d) of title 41." for "section 2304c(d) of title 10 and section 303J(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253j(d))."
 
 <b>2020</b>—Subsec. (a)(2)(F)(iii). Pub. L. 116–260, §1002(c), added cl. (iii).
 

@@ -20,7 +20,8 @@
 | [6612\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006612%20-%20Director%3B%20Associate%20Directors.md) | Director; Associate Directors. |
 | [6613\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006613%20-%20Functions%20of%20the%20Director.md) | Functions of the Director. |
 | [6614\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006614%20-%20Policy%20planning%3B%20analysis%3B%20advice%3B%20establishment%20of%20advisory%20panel.md) | Policy planning; analysis; advice; establishment of advisory panel. |
-| [6615\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006615%20-%20Science%20and%20technology%20report%20and%20outlook.md) | Science and technology report and outlook. |
+| [6615\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006615%20-%20National%20science%20and%20technology%20strategy.md) | National science and technology strategy. |
+| [6615b.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006615b%20-%20Quadrennial%20science%20and%20technology%20review.md) | Quadrennial science and technology review. |
 | [6616\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006616%20-%20Additional%20functions%20of%20Director.md) | Additional functions of Director. |
 | [6617\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006617%20-%20Coordination%20with%20other%20organizations.md) | Coordination with other organizations. |
 | [6618\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006618%20-%20Major%20science%20and%20technology%20proposals.md) | Major science and technology proposals. |
@@ -32,6 +33,7 @@
 | [6624\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006624%20-%20Federal%20scientific%20collections.md) | Federal scientific collections. |
 | [6625\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006625%20-%20Coordination%20of%20international%20science%20and%20technology%20partnerships.md) | Coordination of international science and technology partnerships. |
 | [6626\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006626%20-%20Working%20group%20on%20inclusion%20in%20STEM%20fields.md) | Working group on inclusion in STEM fields. |
+| [6627\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006627%20-%20Federally-funded%20research%20with%20enhanced%20pathogens%20of%20pandemic%20potential.md) | Federally-funded research with enhanced pathogens of pandemic potential. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

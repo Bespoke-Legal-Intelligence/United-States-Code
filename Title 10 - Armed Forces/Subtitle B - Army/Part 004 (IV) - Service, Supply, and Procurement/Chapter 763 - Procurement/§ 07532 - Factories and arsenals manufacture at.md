@@ -1,6 +1,6 @@
 ### §7532. Factories and arsenals: manufacture at
 
-The Secretary of the Army shall have supplies needed for the Department of the Army made in factories or arsenals owned by the UnitedStates, so far as those factories or arsenals can make those supplies on an economical basis.
+The Secretary of the Army shall have supplies needed for the Department of the Army made in factories or arsenals owned by the United States, so far as those factories or arsenals can make those supplies on an economical basis.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 254, §4532; Pub. L. 113–291, div. A, title III, §323(a), Dec. 19, 2014, 128 Stat. 3343; renumbered §7532, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 

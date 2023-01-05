@@ -38,7 +38,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (E) Underwriting standards
 
-&emsp;&emsp;The Secretary shall allow any qualified participating entity to use its own underwriting standards and loan terms and conditions for purposes of underwriting loans to be insured under this subsection, except as provided in this section, without further review by the Secretary, except that the Secretary may impose additional underwriting criteria and loan terms and conditions for contractual agreements where the Secretary retains more than 50 percent of the risk of loss. Any financing permitted on property insured under this subsection other than the first mortgage shall be expressly subordinate to the insured mortgage.
+&emsp;&emsp;The Secretary shall allow any qualified participating entity to use its own underwriting standards and loan terms and conditions for purposes of underwriting loans to be insured under this subsection, except as provided in this section, without further review by the Secretary, except that the Secretary may impose additional underwritingcriteria and loan terms and conditions for contractual agreements where the Secretary retains more than 50 percent of the risk of loss. Any financing permitted on property insured under this subsection other than the first mortgage shall be expressly subordinate to the insured mortgage.
 
 #### (F) Authority of Secretary
 
@@ -82,7 +82,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (8) Prohibition on Ginnie Mae securitization
 
-&emsp;The Government National Mortgage Association shall not securitize any multifamilyloans insured or reinsured under this subsection.
+&emsp;The Government National Mortgage Association shall not securitize any multifamily loans insured or reinsured under this subsection.
 
 #### (9) Qualification as affordable housing
 
@@ -90,7 +90,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (10) Certification of subsidy layering compliance
 
-&emsp;The requirements of section 3545(d) of title 42 may be satisfied in connection with a commitment to insure a mortgage under this subsection by a certification by a housing credit agency (including an entity established by a State that provides mortgage insurance) to the Secretary that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which a mortgage is to be insured shall not be any greater than is necessary to provide affordable housing.
+&emsp;The requirements of section 3545(d) of title 42 may be satisfied in connection with a commitment to insure a mortgage under this subsection by a certification by a housing creditagency (including an entity established by a State that provides mortgage insurance) to the Secretary that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which a mortgage is to be insured shall not be any greater than is necessary to provide affordable housing.
 
 #### (11) Implementation
 
@@ -166,7 +166,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;(I) In order to assure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the insurance of mortgages under subsection (c)(2), and to assure to the public undiminished protection of the environment, the Secretary may, under such regulations, in lieu of the environmental protection procedures otherwise applicable, provide for agreements to endorse for insurance mortgages under subsection (c)(2) upon the request of qualified housing finance agencies under this subsection, if the State or unit of general local government, as designated by the Secretary in accordance with regulations, assumes all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary may specify, that would otherwise apply to the Secretary with respect to the insurance of mortgages on particular properties.
+&emsp;&emsp;&emsp;(I) In order to assure that the policies of the National Environmental Policy Act of1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the insurance of mortgages under subsection (c)(2), and to assure to the public undiminished protection of the environment, the Secretary may, under such regulations, in lieu of the environmental protection procedures otherwise applicable, provide for agreements to endorse for insurance mortgages under subsection (c)(2) upon the request of qualified housing finance agencies under this subsection, if the State or unit of general local government, as designated by the Secretary in accordance with regulations, assumes all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary may specify, that would otherwise apply to the Secretary with respect to the insurance of mortgages on particular properties.
 
 &emsp;&emsp;&emsp;(II) The Secretary shall issue regulations to carry out this subparagraph only after consultation with the Council on Environmental Quality. Such regulations shall, among other matters, provide—
 
@@ -204,7 +204,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (C) Certification of subsidy layering compliance
 
-&emsp;&emsp;The requirements of section 3545(d) of title 42 may be satisfied in connection with a commitment to insure a mortgage under this subsection by a certification by a housing credit agency (including an entity established by a State that provides mortgage insurance) to the Secretary that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which a mortgage is to be insured shall not be any greater than is necessary to provide affordable housing.
+&emsp;&emsp;The requirements of section 3545(d) of title 42 may be satisfied in connection with a commitment to insure a mortgage under this subsection by a certification by a housing credit agency (including an entity established by a State that provides mortgage insurance) to the Secretary that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which a mortgage is to be insured shallnot be any greater than is necessary to provide affordable housing.
 
 #### (10) Definitions
 
@@ -236,11 +236,11 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### References in Text
 
-The National Housing Act, referred to in subsecs. (b)(5) and (c)(4), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (b)(5) and (c)(4), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(9)(A)(i)(I), (ii), (iii)(IV), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(9)(A)(i)(I), (ii), (iii)(IV), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Lead-Based Paint Poisoning Prevention Act, referred to in subsec. (c)(9)(B), is Pub. L. 91–695, Jan. 13, 1971, 84 Stat. 2078, as amended, which is classified generally to chapter 63 (§4801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 42 and Tables.
+The Lead-Based Paint Poisoning Prevention Act, referred to in subsec. (c)(9)(B), is Pub. L. 91–695, Jan. 13, 1971, 84 Stat. 2078, which is classified generally to chapter 63 (§4801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 42 and Tables.
 
 #### Codification
 

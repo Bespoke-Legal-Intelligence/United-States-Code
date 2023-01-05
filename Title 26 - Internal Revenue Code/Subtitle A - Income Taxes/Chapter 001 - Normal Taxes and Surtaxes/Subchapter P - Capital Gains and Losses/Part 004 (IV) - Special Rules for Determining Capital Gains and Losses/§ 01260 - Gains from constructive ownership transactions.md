@@ -12,11 +12,11 @@ If the taxpayer has gain from a constructive ownership transaction with respect 
 
 #### (1) In general
 
-&emsp;If any gain is treated as ordinary income for any taxable year by reason of subsection (a)(1), the tax imposed by this chapter for such taxable year shall be increased by the amountof interest determined under paragraph (2) with respect to each prior taxable year during any portion of which the constructive ownership transaction was open. Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
+&emsp;If any gain is treated as ordinary income for any taxable year by reason of subsection (a)(1), the tax imposed by this chapter for such taxable year shall be increased by the amount of interest determined under paragraph (2) with respect to each prior taxable year during any portion of which the constructive ownership transaction was open. Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
 
 #### (2) Amount of interest
 
-&emsp;The amount of interest determined under this paragraph with respect to a prior taxable year is the amount of interest which would have been imposed under section 6601 on the underpayment of tax for such year which would have resulted if the gain (which is treated as ordinary income by reason of subsection (a)(1)) had been included in gross income in the taxable years in which it accrued (determined by treating the income as accruing at a constant rate equal to the applicable Federal rate as in effect on the day the transaction closed). The period during which such interest shall accrue shall end on the due date (without extensions) for the return of tax imposed by this chapter for the taxable year in which such transaction closed.
+&emsp;The amount of interest determined under this paragraph with respect to a prior taxable year is the amount of interest which would have been imposed under section 6601 on the underpayment of tax for such year which would have resulted if the gain (which is treated as ordinary income by reason of subsection (a)(1)) had been included in gross income inthe taxable years in which it accrued (determined by treating the income as accruing at a constant rate equal to the applicable Federal rate as in effect on the day the transaction closed). The period during which such interest shall accrue shall end on the due date (without extensions) for the return of tax imposed by this chapter for the taxable year in which such transaction closed.
 
 #### (3) Applicable Federal rate
 
@@ -110,11 +110,11 @@ For purposes of this section, in the case of any constructive ownership transact
 
 #### (f) Special rule where taxpayer takes delivery
 
-Except as provided in regulations prescribed by the Secretary, if a constructive ownershiptransaction is closed by reason of taking delivery, this section shall be applied as if the taxpayer had sold all the contracts, options, or other positions which are part of such transaction for fair market value on the closing date. The amount of gain recognized under the preceding sentence shall not exceed the amount of gain treated as ordinary income under subsection (a). Proper adjustments shall be made in the amount of any gain or loss subsequently realized for gain recognized and treated as ordinary income under this subsection.
+Except as provided in regulations prescribed by the Secretary, if a constructive ownership transaction is closed by reason of taking delivery, this section shall be applied as if the taxpayer had sold all the contracts, options, or other positions which are part of such transaction for fair market value on the closing date. The amount of gain recognized under the preceding sentence shall not exceed the amount of gain treated as ordinary income under subsection (a). Proper adjustments shall be made in the amount of any gain or loss subsequently realized for gain recognized and treated as ordinary income under this subsection.
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations—
 
 &emsp;(1) to permit taxpayers to mark to market constructive ownership transactions in lieu of applying this section, and
 

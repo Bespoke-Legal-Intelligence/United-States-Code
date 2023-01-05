@@ -5,7 +5,7 @@
 | [9131\.](%C2%A7%2009131%20-%20Definition.md) | Definition. |
 | [9132\.](%C2%A7%2009132%20-%20Regular%20Air%20Force%20and%20Regular%20Space%20Force%20gender-free%20basis%20for%20acceptance%20of%20original%20enlistments.md) | Regular Air Force and Regular Space Force: gender-free basis for acceptance of original enlistments. |
 | [9137\.](%C2%A7%2009137%20-%20Regular%20Air%20Force%20aviation%20cadets%3B%20qualifications%2C%20grade%2C%20limitations.md) | Regular Air Force: aviation cadets; qualifications, grade, limitations. |
-| [9138\.](%C2%A7%2009138%20-%20Regular%20Air%20Force%20and%20Regular%20Space%20Force%20reenlistment%20after%20service%20as%20an%20officer.md) | Regular Air Force and Regular Space Force: reenlistment after service as an officer. |
+| [9138\.](%C2%A7%2009138%20-%20Regular%20Air%20Force%20and%20Regular%20Space%20Force%20reenlistment%20after%20service%20as%20an%20officer.md) | Regular Air Force and Regular Space Force: reenlistment after service as an officer.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

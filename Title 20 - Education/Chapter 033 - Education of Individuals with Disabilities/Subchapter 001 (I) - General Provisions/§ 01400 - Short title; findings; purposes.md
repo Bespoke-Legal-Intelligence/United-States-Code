@@ -98,7 +98,7 @@ The purposes of this chapter are—
 
 &emsp;(2) to assist States in the implementation of a statewide, comprehensive, coordinated, multidisciplinary, interagency system of early intervention services for infants and toddlers with disabilities and their families;
 
-&emsp;(3) to ensure that educators and parents have the necessary tools to improve educational results for children with disabilities by supporting system improvement activities;coordinated research and personnel preparation; coordinated technical assistance, dissemination, and support; and technology development and media services; and
+&emsp;(3) to ensure that educators and parents have the necessary tools to improve educational results for children with disabilities by supporting system improvement activities; coordinated research and personnel preparation; coordinated technical assistance, dissemination, and support; and technology development and media services; and
 
 &emsp;(4) to assess, and ensure the effectiveness of, efforts to educate children with disabilities.
 
@@ -118,7 +118,7 @@ Section is comprised of section 601 of Pub. L. 91–230. Subsec. (b) of section 
 
 #### Prior Provisions
 
-A prior section 1400, Pub. L. 91–230, title VI, §601, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37, contained short title for this chapter and related to congressional findings and purposes, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1400, Pub. L. 91–230, title VI, §601, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.37, contained short title for this chapter and related to congressional findings and purposes, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1400, Pub. L. 91–230, title VI, §601, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, §3, Nov. 29, 1975, 89 Stat. 774; Pub. L. 101–476, title IX, §901(a)(1), (b)(1)–(9), Oct. 30, 1990, 104 Stat. 1141, 1142; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, contained short title for this chapter and related to congressional statements and declarations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17. This section had been classified as a note under former section 1401 of this title prior to being amended by Pub. L. 94–142.
 
@@ -174,7 +174,7 @@ Pub. L. 100–630, §1, Nov. 7, 1988, 102 Stat. 3289, provided that: "This Act \
 
 Pub. L. 99–457, §1(a), Oct. 8, 1986, 100 Stat. 1145, provided that: "This Act \[enacting sections 1408, 1461, 1462, and 1471 to 1485 of this title, amending sections 1401, 1406, 1411 to 1413, 1418, 1419, 1421 to 1424, 1424a, 1425, 1427, 1431 to 1433, 1435, 1441, 1443, 1444, 1452, and 1454 of this title, repealing sections 1403 and 1453 of this title, and enacting provisions set out as notes under sections 1419 and 1485 of this title\] may be cited as the 'Education of the Handicapped Act Amendments of 1986'."
 
-Pub. L. 99–372, §1, Aug. 5, 1986, 100 Stat. 796, provided that: "This Act \[amending section 1415 of this title andenacting provisions set out as notes under section 1415 of this title\] may be cited as the 'Handicapped Children's Protection Act of 1986'."
+Pub. L. 99–372, §1, Aug. 5, 1986, 100 Stat. 796, provided that: "This Act \[amending section 1415 of this title and enacting provisions set out as notes under section 1415 of this title\] may be cited as the 'Handicapped Children's Protection Act of 1986'."
 
 #### Short Title of 1983 Amendment
 
@@ -190,7 +190,7 @@ Pub. L. 94–142, §1, Nov. 29, 1975, 89 Stat. 773, provided: "That this Act \[e
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–380, title VI, §611, Aug. 21, 1974, 88 Stat. 579, provided that: "This title \[enacting section 1424a of this title, amending sections 1402, 1403, 1411 to 1413, 1426, 1436, 1444, 1452, 1454, and 1461 of this title, and enacting provisions set out as notes under sections 1402 and 1411 to 1413 of this title\] may be cited as the 'Education of the Handicapped Amendments of 1974'."
+Pub. L. 93–380, title VI, §611, Aug. 21, 1974, 88 Stat. 579, provided that: "This title \[enacting section 1424a ofthis title, amending sections 1402, 1403, 1411 to 1413, 1426, 1436, 1444, 1452, 1454, and 1461 of this title, and enacting provisions set out as notes under sections 1402 and 1411 to 1413 of this title\] may be cited as the 'Education of the Handicapped Amendments of 1974'."
 
 #### Regulations
 

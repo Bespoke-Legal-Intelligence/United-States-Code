@@ -158,7 +158,7 @@ Implementation.—Not later than February 1, 2021, the Secretary of the military
 
 &emsp;"(2)
 
-Report.—Not later than March 1, 2021, the Secretary of Defense shall submit to the congressionaldefense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the findings of the inspections and assessments conducted under paragraph (1).
+Report.—Not later than March 1, 2021, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the findings of the inspections and assessments conducted under paragraph (1).
 
 "(d)
 
@@ -246,7 +246,7 @@ Briefing required.—Not later than March 1, 2020, and each year thereafter, the
 
 "(b)
 
-Plan for MHPI Housing.—Not later than December 1, 2018, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a long-range plan to developmeasures to consistently address the future sustainment, recapitalization, and financial condition of MHPI housing. The plan shall include—
+Plan for MHPI Housing.—Not later than December 1, 2018, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a long-range plan to develop measures to consistently address the future sustainment, recapitalization, and financial condition of MHPI housing. The plan shall include—
 
 &emsp;"(1) efforts to mitigate the losses incurred by MHPI housing projects because of the reductions to BAH under section 603 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114-92; \[which amended\] 37 U.S.C. 403(b)(3)(B)); and
 

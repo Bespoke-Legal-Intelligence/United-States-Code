@@ -40,7 +40,7 @@
 
 #### Effective Date
 
-Pub. L. 98–94, title III, §305(b), Sept. 24, 1983, 97 Stat. 629, provided that: "Section 2546 \[now 2556\] of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983."
+Pub. L. 98–94, title III, §305(b), Sept. 24, 1983, 97 Stat. 629, provided that: "Section 2546 \[now 2556\] of title 10,United States Code, as added by subsection (a), shall take effect on October 1, 1983."
 
 #### Prior Certification Required for Use of Department of Defense Facilities by Other Federal Agencies for Temporary Housing Support
 

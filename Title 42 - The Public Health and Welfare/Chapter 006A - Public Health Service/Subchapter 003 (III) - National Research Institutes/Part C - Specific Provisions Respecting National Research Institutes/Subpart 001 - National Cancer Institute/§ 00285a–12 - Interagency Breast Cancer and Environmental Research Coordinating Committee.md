@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(D) not later than 2 years after the date of the establishment of the Committee, make recommendations to the Secretary—
 
-&emsp;&emsp;&emsp;(i) regarding any appropriate changes to research activities, including recommendations to improve the research portfolio of the National Institutes ofHealth to ensure that scientifically-based strategic planning is implemented in support of research priorities that impact breast cancer research activities;
+&emsp;&emsp;&emsp;(i) regarding any appropriate changes to research activities, including recommendations to improve the research portfolio of the National Institutes of Health to ensure that scientifically-based strategic planning is implemented in support of research priorities that impact breast cancer research activities;
 
 &emsp;&emsp;&emsp;(ii) to ensure that the activities of the National Institutes of Health and other Federal agencies, including the Department of Defense, are free of unnecessary duplication of effort;
 

@@ -24,7 +24,7 @@ The Secretary shall not have the authority to mandate, direct, or control the sp
 
 #### (d) Construction
 
-Nothing in this section shall be construed to prevent a State from adopting, or to override a State law, regulation, or policy that provides, greater or additional protections to prohibit any individual who is a school employee, contractor, or agent, or any State educational agency or local educational agency, from assisting a school employee who engaged in sexual misconduct regarding a minor or student in violation of the law in obtaining a new job.
+Nothing in this section shall be construed to prevent a State from adopting, or to override aState law, regulation, or policy that provides, greater or additional protections to prohibit any individual who is a school employee, contractor, or agent, or any State educational agency or local educational agency, from assisting a school employee who engaged in sexual misconduct regarding a minor or student in violation of the law in obtaining a new job.
 
 (Pub. L. 89–10, title VIII, §8546, as added Pub. L. 114–95, title VIII, §8038, Dec. 10, 2015, 129 Stat. 2120.)
 

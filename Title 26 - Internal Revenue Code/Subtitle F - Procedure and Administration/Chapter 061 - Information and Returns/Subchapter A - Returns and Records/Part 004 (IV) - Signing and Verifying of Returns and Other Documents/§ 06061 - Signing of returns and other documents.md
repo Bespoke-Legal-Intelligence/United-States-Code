@@ -28,7 +28,7 @@ Except as otherwise provided by subsection (b) and sections 6062 and 6063, any r
 
 #### (B) Electronic signatures for disclosure authorizations to, and other authorizations of, practitioners
 
-&emsp;&emsp;Not later than 6 months after the date of the enactment of this subparagraph, the Secretary shall publish guidance to establish uniform standards and procedures for the acceptance of taxpayers' signatures appearing in electronic form with respect to any request for disclosure of a taxpayer's return or return information under section 6103(c) to apractitioner or any power of attorney granted by a taxpayer to a practitioner.
+&emsp;&emsp;Not later than 6 months after the date of the enactment of this subparagraph, the Secretary shall publish guidance to establish uniform standards and procedures for the acceptance of taxpayers' signatures appearing in electronic form with respect to any request for disclosure of a taxpayer's return or return information under section 6103(c) to a practitioner or any power of attorney granted by a taxpayer to a practitioner.
 
 #### (C) Practitioner
 

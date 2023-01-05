@@ -32,7 +32,7 @@
 
 #### (4) Training for statewide workforce systems personnel
 
-&emsp;The Commissioner may make grants to and enter into contracts under this subsection with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training to personnel providing services to individuals withdisabilities under subtitle B of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\]. Under this paragraph, personnel may be trained—
+&emsp;The Commissioner may make grants to and enter into contracts under this subsection with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training to personnel providing services to individuals with disabilities under subtitle B of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\]. Under this paragraph, personnel may be trained—
 
 &emsp;&emsp;(A) in evaluative skills to determine whether an individual with a disability may be served by the State vocational rehabilitation program or another component of a statewide workforce development system; or
 
@@ -162,11 +162,11 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (2) Application
 
-&emsp;A grant may not be awarded to an agency or organization under paragraph (1) unless the agency or organization has submitted an application to the Commissioner at such time, in such form, in accordance with such procedures, and containing such information as the Commissioner may require, including—
+&emsp;A grant may not be awarded to an agency or organization under paragraph (1) unless theagency or organization has submitted an application to the Commissioner at such time, in such form, in accordance with such procedures, and containing such information as the Commissioner may require, including—
 
 &emsp;&emsp;(A) a description of the manner in which an interpreter training program will be developed and operated during the 5-year period following the date on which a grant is received by the applicant under this subsection;
 
-&emsp;&emsp;(B) a demonstration of the applicant's capacity or potential for providing training for interpreters for individuals who are deaf orhard of hearing, and individuals who are deaf-blind;
+&emsp;&emsp;(B) a demonstration of the applicant's capacity or potential for providing training for interpreters for individuals who are deaf or hard of hearing, and individuals who are deaf-blind;
 
 &emsp;&emsp;(C) assurances that any interpreter trained or retrained under a program funded under the grant will meet such minimum standards of competency as the Commissioner may establish for purposes of this subsection; and
 
@@ -196,7 +196,7 @@ There are authorized to be appropriated to carry out this section $33,657,000 fo
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -234,7 +234,7 @@ Subsec. (g)(3). Pub. L. 113–128, §441(b)(3)(C), struck out par. (3) which rel
 
 Subsec. (h). Pub. L. 113–128, §441(b)(4), made technical amendment to reference in original act which appears in text as reference to section 776 of this title.
 
-Subsec. (i). Pub. L. 113–128, §441(b)(5), substituted "$33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscalyear 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020." for "such sums as may be necessary for each of the fiscal years 1999 through 2003."
+Subsec. (i). Pub. L. 113–128, §441(b)(5), substituted "$33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscal year 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020." for "such sums as may be necessary for each of the fiscal years 1999 through 2003."
 
 <b>2004</b>—Subsec. (f)(1)(D)(ii). Pub. L. 108–446 made technical amendment to reference in original act which appears in text as reference to section 1402 of title 20.
 

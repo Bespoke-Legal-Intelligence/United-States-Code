@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 46:599
 
-Section 10315 lists the persons to whom a seaman may allot wages, specifies the conditions which makean allotment valid, and provides a civil penalty of $500 for falsely claiming qualification as an allottee. It also requires that this section be complied with before a vessel can be cleared from a United States port. This section applies to foreign vessels.
+Section 10315 lists the persons to whom a seaman may allot wages, specifies the conditions which make an allotment valid, and provides a civil penalty of $500 for falsely claiming qualification as an allottee. It also requires that this section be complied with before a vessel can be cleared from a United States port. This section applies to foreign vessels.
 
 #### <b>Editorial Notes</b>
 

@@ -10,7 +10,7 @@ Civil Penalty.—(1) A person that violates this chapter or a regulation prescri
 
 &emsp;(A) the nature, circumstances, extent, and gravity of the violation;
 
-&emsp;(B) with respect to the violator, the degree of culpability, any history of prior violations,the ability to pay, and any effect on the ability to continue doing business; and
+&emsp;(B) with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on the ability to continue doing business; and
 
 &emsp;(C) other matters that justice requires.
 

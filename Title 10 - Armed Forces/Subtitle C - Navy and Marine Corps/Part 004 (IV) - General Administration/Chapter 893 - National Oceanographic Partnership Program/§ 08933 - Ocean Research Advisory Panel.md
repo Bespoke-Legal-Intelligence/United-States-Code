@@ -36,13 +36,13 @@ Administrative and Technical Support.—The Administrator of the National Oceani
 
 (e)
 
-Termination.—Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Panel shall terminate on January 1, 2040.
+Termination.—Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.),<sup>1</sup> the Advisory Panel shall terminate on January 1, 2040.
 
 (Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2473, §7903; amended Pub. L. 105–85, div. A, title II, §241(b)(1), Nov. 18, 1997, 111 Stat. 1666; Pub. L. 114–92, div. A, title X, §1084, Nov. 25, 2015, 129 Stat. 1004; renumbered §8933, Pub. L. 115–232, div. A, title VIII, §807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, §1055(c), Jan. 1, 2021, 134 Stat. 3854.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 #### <b>Editorial Notes</b>
 
@@ -68,7 +68,7 @@ Responsibilities.—The Council shall assign to the Advisory Panel responsibilit
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -76,5 +76,7 @@ Amendment by Pub. L. 105–85 effective as of Sept. 23, 1996, as if included in 
 
 #### Initial Appointments of Panel Members
 
-Pub. L. 104–201, div. A, title II, §282(b), formerly §282(c), Sept. 23, 1996, 110 Stat. 2473, as renumbered and amended by Pub. L. 105–85, div. A, title II, §241(b)(2), (c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that: "The National Ocean Research Leadership Council established by section 7902 \[now 8932\] of title 10, United States Code, as added by subsection (a)(1), shall make the appointments required by section 7903 \[now 8933\] of such title not later than January 1, 1998."
+Pub. L. 104–201, div. A, title II, §282(b), formerly §282(c), Sept. 23, 1996, 110 Stat. 2473, as renumbered and amended by Pub. L. 105–85, div. A, title II, §241(b)(2), (c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that the National Ocean Research Leadership Council established by 10 U.S.C. 8932 was to make the appointments required by this section not later than Jan. 1, 1998.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

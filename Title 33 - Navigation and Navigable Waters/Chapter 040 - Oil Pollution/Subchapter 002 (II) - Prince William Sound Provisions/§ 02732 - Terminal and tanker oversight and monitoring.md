@@ -10,7 +10,7 @@
 
 &emsp;The Congress finds that—
 
-&emsp;&emsp;(A) the March 24, 1989, grounding and rupture of the fully loaded oil tanker, the EXXON VALDEZ, spilled 11 million gallons of crude oil in Prince William Sound, an environmentally sensitive area;
+&emsp;&emsp;(A) the March 24, 1989, grounding and rupture of the fully loaded oil tanker, the EXXON VALDEZ, spilled 11 million gallonsof crude oil in Prince William Sound, an environmentally sensitive area;
 
 &emsp;&emsp;(B) many people believe that complacency on the part of the industry and government personnel responsible for monitoring the operation of the Valdez terminal and vessel traffic in Prince William Sound was one of the contributing factors to the EXXON VALDEZ oil spill;
 
@@ -46,7 +46,7 @@
 
 #### (4) Suits barred
 
-&emsp;No program, association, council, committee or other organization created by this section may sue any person or entity, public or private, concerning any matter arising under thissection except for the performance of contracts.
+&emsp;No program, association, council, committee or other organization created by this section may sue any person or entity, public or private, concerning any matter arising under this section except for the performance of contracts.
 
 #### (c) Oil Terminal Facilities and Oil Tanker Operations Association
 
@@ -86,7 +86,7 @@
 
 #### (A) Voting members
 
-&emsp;&emsp;Voting members shall be Alaska residents and, except as provided in clause (vii) of this paragraph, shall be appointed by the Governor of the State of Alaska from a list of nominees provided by each of the following interests, with one representative appointed to represent each of the following interests, taking into consideration the need for regional balance on the Council:
+&emsp;&emsp;Voting members shall be Alaska residents and, except as provided in clause (vii) of thisparagraph, shall be appointed by the Governor of the State of Alaska from a list of nominees provided by each of the following interests, with one representative appointed to represent each of the following interests, taking into consideration the need for regional balance on the Council:
 
 &emsp;&emsp;&emsp;(i) Local commercial fishing industry organizations, the members of which depend on the fisheries resources of the waters in the vicinity of the terminal facilities.
 
@@ -198,7 +198,7 @@
 
 &emsp;In fulfilling its responsibilities, the Monitoring Committee shall—
 
-&emsp;&emsp;(A) advise the Council on a monitoring strategy that will permit early detection of environmental impacts of terminal facilityoperations and crude oil tanker operations while in Prince William Sound and Cook Inlet;
+&emsp;&emsp;(A) advise the Council on a monitoring strategy that will permit early detection of environmental impacts of terminal facility operations and crude oil tanker operations while in Prince William Sound and Cook Inlet;
 
 &emsp;&emsp;(B) develop monitoring programs and make recommendations to the Council on the implementation of those programs;
 
@@ -266,7 +266,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 #### (2) Prince William Sound Program
 
-&emsp;The owners or operators of terminal facilities or crude oil tankers operating in PrinceWilliam Sound shall provide, on an annual basis, an aggregate amount of not more than $2,000,000, as determined by the Secretary. Such amount—
+&emsp;The owners or operators of terminal facilities or crude oil tankers operating in Prince William Sound shall provide, on an annual basis, an aggregate amount of not more than $2,000,000, as determined by the Secretary. Such amount—
 
 &emsp;&emsp;(A) shall provide for the establishment and operation on the environmental oversight and monitoring program in Prince William Sound;
 
@@ -330,7 +330,7 @@ As used in this section, the term—
 
 #### (o) Alternative voluntary advisory group in lieu of Council
 
-The requirements of subsections (c) through (l), as such subsections apply respectively to thePrince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
+The requirements of subsections (c) through (l), as such subsections apply respectively to the Prince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
 
 #### (1) Prince William Sound
 

@@ -1185,7 +1185,17 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 This section shall not apply to a bank holding company that is subject to the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company.
 
-(June 13, 1933, ch. 64, §10, as added Pub. L. 100–86, title IV, §404(a), Aug. 10, 1987, 101 Stat. 609; amended Pub. L. 101–73, title III, §§301, 303(a), title IX, §§905(j), 907(k), Aug. 9, 1989, 103 Stat. 318, 343, 462, 475; Pub. L. 102–242, title II, §211, title IV, §§437–440, title V, §502(a), Dec. 19, 1991, 105 Stat. 2298, 2381, 2392; Pub. L. 102–550, title XVI, §§1606(f)(4), 1607(b), Oct. 28, 1992, 106 Stat. 4088, 4089; Pub. L. 104–201, div. A, title X, §1077, Sept. 23, 1996, 110 Stat. 2664; Pub. L. 104–208, div. A, title II, §§2201(b)(2), 2203(a)–(c), 2303(e), (g), 2704(d)(12)(B), Sept. 30, 1996, 110 Stat. 3009–403, 3009–404, 3009–424, 3009–425, 3009–490; Pub. L. 106–102, title IV, §401(a), (b), title VI, §604(d), Nov. 12, 1999, 113 Stat. 1434, 1436, 1452; Pub. L. 106–569, title XII, §§1201(b)(2), 1202, Dec. 27, 2000, 114 Stat. 3032; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(e)(2), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 111–203, title III, §369(8), title VI, §§604(g), (h)(2), (i), 606(b), 616(b), 623(c)–625(a), July 21, 2010, 124 Stat. 1564, 1602–1604, 1607, 1615, 1635, 1636.)
+#### (u) Data standards
+
+#### (1) Requirement
+
+&emsp;The Board shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board by any savings and loan holding company, or subsidiary of a savings and loan holding company, other than a depository institution, under this section.
+
+#### (2) Consistency
+
+&emsp;The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(June 13, 1933, ch. 64, §10, as added Pub. L. 100–86, title IV, §404(a), Aug. 10, 1987, 101 Stat. 609;amended Pub. L. 101–73, title III, §§301, 303(a), title IX, §§905(j), 907(k), Aug. 9, 1989, 103 Stat. 318, 343, 462, 475; Pub. L. 102–242, title II, §211, title IV, §§437–440, title V, §502(a), Dec. 19, 1991, 105 Stat. 2298, 2381, 2392; Pub. L. 102–550, title XVI, §§1606(f)(4), 1607(b), Oct. 28, 1992, 106 Stat. 4088, 4089; Pub. L. 104–201, div. A, title X, §1077, Sept. 23, 1996, 110 Stat. 2664; Pub. L. 104–208, div. A, title II, §§2201(b)(2), 2203(a)–(c), 2303(e), (g), 2704(d)(12)(B), Sept. 30, 1996, 110 Stat. 3009–403, 3009–404, 3009–424, 3009–425, 3009–490; Pub. L. 106–102, title IV, §401(a), (b), title VI, §604(d), Nov. 12, 1999, 113 Stat. 1434, 1436, 1452; Pub. L. 106–569, title XII, §§1201(b)(2), 1202, Dec. 27, 2000, 114 Stat. 3032; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(e)(2), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 111–203, title III, §369(8), title VI, §§604(g), (h)(2), (i), 606(b), 616(b), 623(c)–625(a), July 21, 2010, 124 Stat. 1564, 1602–1604, 1607, 1615, 1635, 1636; Pub. L. 117–263, div. E, title LVIII, §5861(b), Dec. 23, 2022, 136 Stat. 3434.)
 
 #### <b>Editorial Notes</b>
 
@@ -1210,6 +1220,8 @@ The National Bank Act, referred to in subsec. (s)(5), is act June 3, 1864, ch. 1
 The directory language of sections 905(j) and 907(k) of Pub. L. 101–73 amending subsec. (i) of this section resulted in the enactment of two virtually identical pars. (2) and (3) both relating to civil money penalties and a par. (5) identical to former par. (4). See 1989 Amendment notes below.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (u). Pub. L. 117–263 added subsec. (u).
 
 <b>2010</b>—Subsec. (a)(1)(A). Pub. L. 111–203, §369(8)(A), substituted "appropriate Federal banking agency" for "Director".
 
@@ -1451,7 +1463,7 @@ Pub. L. 111–203, title VI, §606(c), July 21, 2010, 124 Stat. 1607, provided t
 
 \[For definition of "transfer date" as used in section 606(c) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 
-Pub. L. 111–203, title VI, §616(e), July 21, 2010, 124 Stat. 1616, provided that: "The amendments made by this section \[enacting section 1831o–1 of this title andamending this section and sections 1844 and 3907 of this title\] shall take effect on the transfer date."
+Pub. L. 111–203, title VI, §616(e), July 21, 2010, 124 Stat. 1616, provided that: "The amendments made by this section \[enacting section 1831o–1 of this title and amending this section and sections 1844 and 3907 of this title\] shall take effect on the transfer date."
 
 \[For definition of "transfer date" as used in section 616(e) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 
@@ -1491,6 +1503,10 @@ Pub. L. 101–73, title III, §302, Aug. 9, 1989, 103 Stat. 343, as amended by P
 
 &emsp;"(2) any plan approved by the Federal Savings and Loan Insurance Corporation under such section 416 for any State savings association shall continue in effect as long as such association adheres to the plan and continues to submit to the Federal Deposit Insurance Corporation regular and complete reports on the association's progress in meeting the savings association's goals under the plan."
 
+#### Rule of Construction Regarding No New Disclosure Requirements
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5864 of Pub. L. 117–263, set out as a note under section 253 of this title.
+
 #### Rule of Construction for Certain Applications
 
 Pub. L. 106–102, title IV, §401(c), Nov. 12, 1999, 113 Stat. 1436, provided that:
@@ -1511,7 +1527,7 @@ Definitions.—For purposes of paragraph (1), the terms 'company', 'control', 's
 
 #### Associations That Have Previously Failed to Remain Qualified Thrift Lenders
 
-Pub. L. 101–73, title III, §303(c), Aug. 9, 1989, 103 Stat. 351, provided that: "If, as of June 30, 1991, any savings association is subject to any provision of section 10(m)(3) of the Home Owners' Loan Act \[12 U.S.C. 1467a(m)(3)\] as in effect on that date, the amendment to this subsection made by section 303 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\], shall not be construed as reducing the period specified in section 10(m)(3) of such Act."
+Pub. L. 101–73, title III, §303(c), Aug. 9, 1989, 103 Stat. 351, provided that: "If, as of June 30, 1991, any savingsassociation is subject to any provision of section 10(m)(3) of the Home Owners' Loan Act \[12 U.S.C. 1467a(m)(3)\] as in effect on that date, the amendment to this subsection made by section 303 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\], shall not be construed as reducing the period specified in section 10(m)(3) of such Act."
 
 #### Capital Recovery; Submission of Proposed Regulations to Congress; Effective Date; Study, Report, and Congressional Review
 
@@ -1519,7 +1535,7 @@ Pub. L. 100–86, title IV, §404(c)–(e), Aug. 10, 1987, 101 Stat. 612, requir
 
 #### Sunset and Savings Provision
 
-Section ceases to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register \[Mar. 30, 1992, 57 F.R. 10763\], with such termination not to be construed to affect or limit any authority of Federal Home Loan Bank Board or Federal Savings and Loan Insurance Corporation to prescribe any regulation or engagein any activity with respect to any association or insured institution under any other provision of law, see section 416 of Pub. L. 100–86, set out as a note under section 1441 of this title.
+Section ceases to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register \[Mar. 30, 1992, 57 F.R. 10763\], with such termination not to be construed to affect or limit any authority of Federal Home Loan Bank Board or Federal Savings and Loan Insurance Corporation to prescribe any regulation or engage in any activity with respect to any association or insured institution under any other provision of law, see section 416 of Pub. L. 100–86, set out as a note under section 1441 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by another closing parenthesis.</i>
 

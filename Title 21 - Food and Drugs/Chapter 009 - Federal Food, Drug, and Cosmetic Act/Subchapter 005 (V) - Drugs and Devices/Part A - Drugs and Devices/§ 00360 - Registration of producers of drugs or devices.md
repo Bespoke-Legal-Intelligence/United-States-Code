@@ -34,7 +34,7 @@ The Secretary may assign a registration number to any person or any establishmen
 
 #### (f) Availability of registrations for inspection
 
-The Secretary shall make available for inspection, to any person so requesting, any registration filed pursuant to this section; except that any list submitted pursuant to paragraph (3) of subsection (j) and the information accompanying any list or notice filed under paragraph\(1) or (2) of that subsection shall be exempt from such inspection unless the Secretary finds that such an exemption would be inconsistent with protection of the public health.
+The Secretary shall make available for inspection, to any person so requesting, any registration filed pursuant to this section; except that any list submitted pursuant to paragraph (3) ofsubsection (j) and the information accompanying any list or notice filed under paragraph (1) or (2) of that subsection shall be exempt from such inspection unless the Secretary finds that such an exemption would be inconsistent with protection of the public health.
 
 #### (g) Exclusions from application of section
 
@@ -90,7 +90,9 @@ The foregoing subsections of this section shall not apply to—
 
 &emsp;&emsp;(E) Whether the establishment has been inspected by a foreign government or an agency of a foreign government recognized under section 384e of this title.
 
-&emsp;&emsp;(F) Any other criteria deemed necessary and appropriate by the Secretary for purposes of allocating inspection resources.
+&emsp;&emsp;(F) The compliance history of establishments in the country or region in which the establishment is located that are subject to regulation under this chapter, including the history of violations related to products exported from such country or region that are subject to such regulation.
+
+&emsp;&emsp;(G) Any other criteria deemed necessary and appropriate by the Secretary for purposes of allocating inspection resources.
 
 #### (5) Effect of status
 
@@ -98,15 +100,31 @@ The foregoing subsections of this section shall not apply to—
 
 #### (6) Annual report on inspections of establishments
 
-&emsp;Beginning in 2014, not later than May 1 of each year, the Secretary shall make available on the Internet Web site of the Food and Drug Administration a report regarding—
+&emsp;Not later than May 1 of each year, the Secretary shall make available on the InternetWeb site of the Food and Drug Administration a report regarding—
 
-&emsp;&emsp;(A)(i) the number of domestic and foreign establishments registered pursuant to this section in the previous calendar year; and
+&emsp;&emsp;(A)(i) the number of domestic and foreign establishments registered pursuant to this section in the previous fiscal year;
 
-&emsp;&emsp;(ii) the number of such domestic establishments and the number of such foreign establishments that the Secretary inspected in the previous calendar year;
+&emsp;&emsp;(ii) the number of such registered establishments in each region of interest;
 
-&emsp;&emsp;(B) with respect to establishments that manufacture, prepare, propagate, compound,or process an active ingredient of a drug or a finished drug product, the number of each such type of establishment; and
+&emsp;&emsp;(iii) the number of such domestic establishments and the number of such foreign establishments, including the number of establishments in each region of interest, that the Secretary inspected in the previous fiscal year;
 
-&emsp;&emsp;(C) the percentage of the budget of the Food and Drug Administration used to fund the inspections described under subparagraph (A).
+&emsp;&emsp;(iv) the number of inspections to support actions by the Secretary on applications under section 355 of this title or section 262 of title 42, including the number of inspections to support actions by the Secretary on supplemental applications, including changes to manufacturing processes, the Secretary conducted in the previous fiscal year;
+
+&emsp;&emsp;(v) the number of routine surveillance inspections the Secretary conducted in the previous fiscal year, including in each region of interest;
+
+&emsp;&emsp;(vi) the number of for-cause inspections the Secretary conducted in the previous fiscal year, not including inspections described in clause (iv), including in each region of interest; and
+
+&emsp;&emsp;(vii) the number of inspections the Secretary has recognized pursuant to an agreement entered into pursuant to section 384e of this title, or otherwise recognized, for each of the types of inspections described in clauses (v) and (vi), including for inspections of establishments in each region of interest.<sup>2</sup>
+
+&emsp;&emsp;(B) with respect to establishments that manufacture, prepare, propagate, compound, or process an active ingredient of a drug or a finished drug product, the number of each such type of establishment;
+
+&emsp;&emsp;(C) the percentage of the budget of the Food and Drug Administration used to fund the inspections described under subparagraph (A); and
+
+&emsp;&emsp;(D) the status of the efforts of the Food and Drug Administration to expand its recognition of inspections conducted or recognized by foreign regulatory authorities under section 384e of this title, including any obstacles to expanding the use of such recognition.
+
+#### (7) Region of interest
+
+&emsp;For purposes of paragraph (6)(A), the term "region of interest" means a foreign geographic region or country, including the People's Republic of China, India, the European Union, the United Kingdom, and any other country or geographic region, as the Secretary determines appropriate.
 
 #### (i) Registration of foreign establishments
 
@@ -125,6 +143,8 @@ The foregoing subsections of this section shall not apply to—
 (3) The Secretary is authorized to enter into cooperative arrangements with officials of foreign countries to ensure that adequate and effective means are available for purposes of determining, from time to time, whether drugs or devices manufactured, prepared, propagated, compounded, or processed by an establishment described in paragraph (1), if imported or offered for import into the United States, shall be refused admission on any of the grounds set forth in section 381(a) of this title.
 
 (4) The Secretary shall specify the unique facility identifier system that shall be used by registrants under paragraph (1) with respect to drugs. The requirement to include a unique facility identifier in a registration under paragraph (1) with respect to drugs shall not apply until the date that the identifier system is specified by the Secretary under the preceding sentence.
+
+(5) The requirements of paragraphs (1) and (2) shall apply regardless of whether the drug or device undergoes further manufacture, preparation, propagation, compounding, or processing at a separate establishment outside the United States prior to being imported or offered for import into the United States.
 
 #### (j) Filing of lists of drugs and devices manufactured, prepared, propagated and compounded by registrants; statements; accompanying disclosures
 
@@ -174,7 +194,7 @@ Each person who is required to register under this section and who proposes to b
 
 #### (l) Exemption from reporting requirements
 
-(1) A report under subsection (k) is not required for a device intended for human use that is exempted from the requirements of this subsection under subsection (m) or is within a type that has been classified into class I under section 360c of this title. The exception established in the preceding sentence does not apply to any class I device that is intended for a use which is of substantial importance in preventing impairment of human health, or to any class I device that presents a potential unreasonable risk of illness or injury.
+(1) A report under subsection (k) is not required for a device intended for human use that is exempted from the requirements of this subsection under subsection (m) or is within a type that has been classified into class I under section 360c of this title, or with respect to a change that is consistent with a predetermined change control plan cleared under section 360e–4 of this title. The exception established in the preceding sentence does not apply to any class I device that is intended for a use which is of substantial importance in preventing impairment of human health, or to any class I device that presents a potential unreasonable risk of illness or injury.
 
 (2) Not later than 120 calendar days after December 13, 2016, and at least once every 5 years thereafter, as the Secretary determines appropriate, the Secretary shall identify, through publication in the Federal Register, any type of class I device that the Secretary determines no longer requires a report under subsection (k) to provide reasonable assurance of safety and effectiveness. Upon such publication—
 
@@ -244,7 +264,7 @@ Each person who is required to register under this section and who proposes to b
 
 #### (1) In general
 
-&emsp;Registrations and listings under this section (including the submission of updated information) shall be submitted to the Secretary byelectronic means unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.
+&emsp;Registrations and listings under this section (including the submission of updated information) shall be submitted to the Secretary by electronic means unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.
 
 #### (2) Electronic database
 
@@ -272,13 +292,13 @@ Each person who is required to register under this section and who proposes to b
 
 #### (2) Revision of list
 
-&emsp;The Secretary shall revise the list under paragraph (2),<sup>2</sup> as the Secretary determines appropriate, with notice in the Federal Register.
+&emsp;The Secretary shall revise the list under paragraph (2),<sup>3</sup> as the Secretary determines appropriate, with notice in the Federal Register.
 
 #### (3) Content of reports
 
 &emsp;Reports under subsection (k) that are submitted after the publication of the list described in paragraph (1), for devices or types of devices included on such list, shall include such instructions for use and validation data.
 
-(June 25, 1938, ch. 675, §510, as added Pub. L. 87–781, title III, §302, Oct. 10, 1962, 76 Stat. 794; amended Pub. L. 89–74, §4, July 15, 1965, 79 Stat. 231; Pub. L. 91–513, title II, §701(e), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 92–387, §§3, 4(a)–(c), Aug. 16, 1972, 86 Stat. 560–562; Pub. L. 94–295, §4(a), May 28, 1976, 90 Stat. 579; Pub. L. 105–115, title I, §125(a)(2)(C), title II, §§206(a), 209(a), 213(b), title IV, §417, Nov. 21, 1997, 111 Stat. 2325, 2338, 2341, 2347, 2379; Pub. L. 107–188, title III, §321(a), June 12, 2002, 116 Stat. 675; Pub. L. 107–250, title II, §§201(e), 207, 211, title III, §302(b), Oct. 26, 2002, 116 Stat. 1609, 1613, 1614, 1616; Pub. L. 108–214, §2(c)(2), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title II, §§222–224, title VIII, §801(b)(3)(C), Sept. 27, 2007, 121 Stat. 853, 921; Pub. L. 112–144, title VI, §604, title VII, §§701, 702(b)–705, July 9, 2012, 126 Stat. 1052, 1064–1066; Pub. L. 114–255, div. A, title III, §§3054, 3059(a), 3101(a)(2)(H), Dec. 13, 2016, 130 Stat. 1126, 1130, 1154; Pub. L. 115–52, title VII, §701(a), title IX, §901(e), Aug. 18, 2017, 131 Stat. 1054, 1076; Pub. L. 116–136, div. A, title III, §3112(e), Mar. 27, 2020, 134 Stat. 363.)
+(June 25, 1938, ch. 675, §510, as added Pub. L. 87–781, title III, §302, Oct. 10, 1962, 76 Stat. 794; amended Pub. L. 89–74, §4, July 15, 1965, 79 Stat. 231; Pub. L. 91–513, title II, §701(e), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 92–387, §§3, 4(a)–(c), Aug. 16, 1972, 86 Stat. 560–562; Pub. L. 94–295, §4(a), May 28, 1976, 90 Stat. 579; Pub. L. 105–115, title I, §125(a)(2)(C), title II, §§206(a), 209(a), 213(b), title IV, §417, Nov. 21, 1997, 111 Stat. 2325, 2338, 2341, 2347, 2379; Pub. L. 107–188, title III, §321(a), June 12, 2002, 116 Stat. 675; Pub. L. 107–250, title II, §§201(e), 207, 211, title III, §302(b), Oct. 26, 2002, 116 Stat. 1609, 1613, 1614, 1616; Pub. L. 108–214, §2(c)(2), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title II, §§222–224, title VIII, §801(b)(3)(C), Sept. 27, 2007, 121 Stat. 853, 921; Pub. L. 112–144, title VI, §604, title VII, §§701, 702(b)–705, July 9, 2012, 126 Stat. 1052, 1064–1066; Pub. L. 114–255, div. A,title III, §§3054, 3059(a), 3101(a)(2)(H), Dec. 13, 2016, 130 Stat. 1126, 1130, 1154; Pub. L. 115–52, title VII, §701(a), title IX, §901(e), Aug. 18, 2017, 131 Stat. 1054, 1076; Pub. L. 116–136, div. A, title III, §3112(e), Mar. 27, 2020, 134 Stat. 363; Pub. L. 117–328, div. FF, title II, §§2511(a), 2515(a)(3), title III, §§3308(b)(1), 3613(a), 3616(c), Dec. 29, 2022, 136 Stat. 5803, 5806, 5836, 5872, 5875.)
 
 #### <b>Editorial Notes</b>
 
@@ -288,7 +308,27 @@ The effective date of this subsection, referred to in subsec. (o)(2)(C), probabl
 
 #### Amendments
 
-<b>2020</b>—Subsec. (j)(3) to (5). Pub. L. 116–136 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Amendment was executed to reflect the probable intent of Congress, notwithstanding omission of the word "and" in name of Act being amended.
+<b>2022</b>—Subsec. (h)(4)(F), (G). Pub. L. 117–328, §3613(a), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+Subsec. (h)(6). Pub. L. 117–328, §3616(c)(1)(A), substituted "Not" for "Beginning in 2014, not" in introductory provisions.
+
+Subsec. (h)(6)(A). Pub. L. 117–328, §3616(c)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+
+"(A)(i) the number of domestic and foreign establishments registered pursuant to this section in the previous calendar year; and
+
+"(ii) the number of such domestic establishments and the number of such foreign establishments that the Secretary inspected in the previous calendar year;".
+
+Subsec. (h)(6)(D). Pub. L. 117–328, §3616(c)(1)(C)–(E), added subpar. (D).
+
+Subsec. (h)(7). Pub. L. 117–328, §3616(c)(2), added par. (7).
+
+Subsec. (i)(5). Pub. L. 117–328, §2511(a), added par. (5).
+
+Subsec. (j)(3) to (5). Pub. L. 117–328, §2515(a)(3), made technical amendment to directory language of Pub. L. 116–136, §3112(e). See 2020 Amendment note below.
+
+Subsec. (l)(1). Pub. L. 117–328, §3308(b)(1), inserted ", or with respect to a change that is consistent with a predetermined change control plan cleared under section 360e–4 of this title" after "section 360c of this title".
+
+<b>2020</b>—Subsec. (j)(3) to (5). Pub. L. 116–136, §3112(e), as amended by Pub. L. 117–328, §2515(a)(3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 <b>2017</b>—Subsec. (h)(2). Pub. L. 115–52, §701(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Every establishment described in paragraph (1), in any State, that is engaged in the manufacture, propagation, compounding, or processing of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by persons accredited to conduct inspections under section 374(g) of this title, at least once in the 2-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive 2-year period thereafter."
 
@@ -324,7 +364,7 @@ Subsec. (c). Pub. L. 112–144, §701(2), substituted "with the Secretary—" an
 
 Subsec. (h). Pub. L. 112–144, §705, amended subsec. (h) generally. Prior to amendment, text read as follows: "Every establishment in any State registered with the Secretary pursuant to this section shall be subject to inspection pursuant to section 374 of this title and every such establishment engaged in the manufacture, propagation, compounding, or processing of a drug or drugs or of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by persons accredited to conduct inspections under section 374(g) of this title, at least once in the two-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive two-year period thereafter."
 
-Subsec. (i)(1). Pub. L. 112–144, §702(b)(1)(A), amended introductory provisions generally. Prior to amendment, text read as follows: "Any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device that is imported or offered for import into the United States shall, through electronic means in accordance with the criteria of the Secretary—".
+Subsec. (i)(1). Pub. L. 112–144, §702(b)(1)(A), amended introductory provisions generally. Prior to amendment, text read as follows: "Any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of adrug or device that is imported or offered for import into the United States shall, through electronic means in accordance with the criteria of the Secretary—".
 
 Subsec. (i)(1)(A). Pub. L. 112–144, §702(b)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "upon first engaging in any such activity, immediately register with the Secretary the name and place of business of the establishment, the name of the United States agent for the establishment, the name of each importer of such drug or device in the United States that is known to the establishment, and the name of each person who imports or offers for import such drug or device to the United States for purposes of importation; and".
 
@@ -464,6 +504,10 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 Amendment by Pub. L. 89–74 effective Feb. 1, 1966, subject to registration with Secretary of names, places of business, establishments, and other prescribed information prior to Feb. 1, 1966, see section 11 of Pub. L. 89–74, set out as a note under section 321 of this title.
 
+#### Updating Regulations
+
+Pub. L. 117–328, div. FF, title II, §2511(b), Dec. 29, 2022, 136 Stat. 5804, provided that: "Not later than 2 years after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary of Health and Human Services shall update regulations, as appropriate, to implement the amendment made by subsection (a) \[amending this section\]."
+
 #### Savings Provision
 
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
@@ -486,5 +530,7 @@ Pub. L. 87–781, title III, §303, Oct. 10, 1962, 76 Stat. 795, provided that a
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "paragraph (1),".</i>
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "paragraph (1),".</i>
 

@@ -8,7 +8,7 @@
 
 #### (2) Ratable share
 
-&emsp;For purposes of paragraph (1), the ratable share for any taxable year during the period described in such paragraph is the amount equal to 20 percent of the qualified rehabilitation expenditures with respect to the qualified rehabilitated building, as allocated ratably to each year during such period.
+&emsp;For purposes of paragraph (1), the ratable share for any taxable year during the perioddescribed in such paragraph is the amount equal to 20 percent of the qualified rehabilitation expenditures with respect to the qualified rehabilitated building, as allocated ratably to each year during such period.
 
 #### (b) When expenditures taken into account
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (within the meaning of section 168(h), except that "50 percent" shall be substituted for "35 percent" in paragraph (1)(B)(iii) thereof).
+&emsp;&emsp;&emsp;&emsp;Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (withinthe meaning of section 168(h), except that "50 percent" shall be substituted for "35 percent" in paragraph (1)(B)(iii) thereof).
 
 #### (II) Clause not to apply for purposes of paragraph (1)(C)
 
@@ -266,7 +266,7 @@ Subsec. (c)(2)(B)(iv). Pub. L. 115–97, §13402(b)(1)(B), amended cl. (iv) gene
 
 <b>2008</b>—Subsec. (c)(2)(B)(v)(I). Pub. L. 110–289 substituted "section 168(h), except that '50 percent' shall be substituted for '35 percent' in paragraph (1)(B)(iii) thereof" for "section 168(h)".
 
-<b>1990</b>—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: "Certain dispositions, etc., of section 38 property" and in text substituting present provisions for provisions relating to general rules regarding disposition of section 38 property, nonapplicability of section in certain cases, the treatment of any increase in tax underthe section, increases in nonqualified nonrecourse financing, and transfers between spouses or incident to divorce.
+<b>1990</b>—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: "Certain dispositions, etc., of section 38 property" and in text substituting present provisions for provisions relating to general rules regarding disposition of section 38 property, nonapplicability of section in certain cases, the treatment of any increase in tax under the section, increases in nonqualified nonrecourse financing, and transfers between spouses or incident to divorce.
 
 Subsec. (b)(1) to (3). Pub. L. 101–508, §11801(c)(8)(A), inserted "or" at end of par. (1), substituted a period for ", or" at end of par. (2), and struck out par. (3) which related to nonapplicability of subsec. (a) in the case of a transfer of section 38 property related to exchanges under final system plan for ConRail.
 
@@ -412,7 +412,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to agreements entered into after July 1, 1982, or to property placed in service after that date, but not to transitional safe harbor lease property, nor to qualified leased property described in section 168(f)(8)(D)(v) of this title which is placed in service before Jan. 1, 1988, or is placed in service after such date pursuant to a binding contract or commitment entered into before April 1, 1983, and solely because of conditions which, as determined by the Secretary of the Treasury or his delegate, are not within the control of the lessor or lessee, see section 208(d)(1), (2)(A), (5) of Pub. L. 97–248, set out as a note under section 168 of this title.
+Amendment by Pub. L. 97–248 applicable to agreements entered into after July 1, 1982, or to property placed in service after that date, but not to transitional safe harbor lease property, nor to qualified leased property described in section 168(f)(8)(D)(v) of this title which is placed in service before Jan. 1, 1988, or is placed in service after such date pursuant to a binding contract or commitment entered into beforeApril 1, 1983, and solely because of conditions which, as determined by the Secretary of the Treasury or his delegate, are not within the control of the lessor or lessee, see section 208(d)(1), (2)(A), (5) of Pub. L. 97–248, set out as a note under section 168 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -434,7 +434,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1
 
 #### Effective Date of 1971 Amendment
 
-In redetermining qualified investment for purposes of subsec. (a) of this section in the case of any propertywhich ceases to be section 38 property with respect to the taxpayer after Aug. 15, 1971, or which becomes public utility property after such date, section 46(c)(2) of this title as amended by section 102(a) of Pub. L. 92–178 as applicable, see section 102(d)(2) of Pub. L. 92–178, set out as a note under section 46 of this title.
+In redetermining qualified investment for purposes of subsec. (a) of this section in the case of any property which ceases to be section 38 property with respect to the taxpayer after Aug. 15, 1971, or which becomes public utility property after such date, section 46(c)(2) of this title as amended by section 102(a) of Pub. L. 92–178 as applicable, see section 102(d)(2) of Pub. L. 92–178, set out as a note under section 46 of this title.
 
 Amendment by section 107(a)(1) of Pub. L. 92–178 applicable to casualties and thefts occurring after Aug. 15, 1971, see section 107(a)(2) of Pub. L. 92–178, set out as a note under section 46 of this title.
 

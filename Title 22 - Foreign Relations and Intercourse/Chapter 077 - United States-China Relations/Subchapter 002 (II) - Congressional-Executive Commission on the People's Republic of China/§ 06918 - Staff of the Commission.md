@@ -20,7 +20,7 @@ All staff appointments shall be made without regard to the provisions of title 5
 
 #### (d) Qualifications of professional staff
 
-The personnel and administration committee shall ensure that the professional staff of theCommission consists of persons with expertise in areas including human rights, internationally recognized worker rights, international economics, law (including international law), rule of law and other foreign assistance programming, Chinese politics, economy and culture, and the Chinese language.
+The personnel and administration committee shall ensure that the professional staff of the Commission consists of persons with expertise in areas including human rights, internationally recognized worker rights, international economics, law (including international law), rule of law and other foreign assistance programming, Chinese politics, economy and culture, and the Chinese language.
 
 #### (e) Commission employees as congressional employees
 

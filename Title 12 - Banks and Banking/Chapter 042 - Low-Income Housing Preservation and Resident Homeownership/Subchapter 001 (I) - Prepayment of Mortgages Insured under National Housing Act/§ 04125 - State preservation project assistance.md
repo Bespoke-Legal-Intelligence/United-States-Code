@@ -2,7 +2,7 @@
 
 #### (1) In general
 
-Upon application by a State or local housing authority (including public housing agencies), the Secretary of Housing and Urban Development may make available, from sources of assistance appropriated to preserve the low and moderate income status of projects with expiring Federal use restrictions, assistance to such State or local housing authorities for use in preventing the loss of housing affordable for low and moderate income families that is assisted under a State program under the terms of which the owner may prepay a State assisted or subsidized mortgage on such housing. The application of the State or local housing authority shall demonstrate to the Secretary that the total amount of incentives provided to the owner to induce the owner to preserve the low and moderate income status of the project shallnot exceed the level of incentives which may be provided to a similarly situated project with expiring Federal use restrictions under subtitle B of title II of the Housing and Community Development Act of 1987 \[12 U.S.C. 4101 et seq.\].
+Upon application by a State or local housing authority (including public housing agencies), the Secretary of Housing and Urban Development may make available, from sources of assistance appropriated to preserve the low and moderate income status of projects with expiring Federal use restrictions, assistance to such State or local housing authorities for use in preventing the loss of housing affordable for low and moderate income families that is assisted under a State program under the terms of which the owner may prepay a State assisted or subsidized mortgage on such housing. The application of the State or local housing authority shall demonstrate to the Secretary that the total amount of incentives provided to the owner to induce the owner to preserve the low and moderate income status of the project shall not exceed the level of incentives which may be provided to a similarly situated project with expiring Federal use restrictions under subtitle B of title II of the Housing and Community Development Act of 1987 \[12 U.S.C. 4101 et seq.\].
 
 #### (2) Section 1437f
 
@@ -18,7 +18,7 @@ Assistance may be provided under this section only to State and local housing au
 
 #### References in Text
 
-The Housing and Community Development Act of 1987, referred to in pars. (1) and (2), is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815, as amended. Subtitle B of title II of the Act is classified generally to this subchapter (§4101 et seq.). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1987, referred to in pars. (1) and (2), is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815. Subtitle B of title II of the Act is classified generally to this subchapter (§4101 et seq.). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Codification
 

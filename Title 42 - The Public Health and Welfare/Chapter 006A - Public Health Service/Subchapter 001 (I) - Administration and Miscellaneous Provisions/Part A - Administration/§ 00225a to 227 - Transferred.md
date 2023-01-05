@@ -10,5 +10,5 @@ A prior section 507 of act July 1, 1944, ch. 373, title V, providing for settlem
 
 Section 226, act July 1, 1944, ch. 373, title V, §508, 58 Stat. 711; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, which related to transfer of funds between appropriations, was successively renumbered by subsequent acts and transferred, see section 238e of this title.
 
-Section 227, acts July 1, 1944, ch. 373, title V, §509 58 Stat. 711; June 16, 1948, ch. 481, §6(b), 62 Stat. 469; June 25, 1948, ch. 654, §7, 62 Stat. 1018; Reorg. Plan No. 1 of 1953 §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, which related to availability of appropriations for carrying out purposes of this chapter, was successively renumbered by subsequent acts and transferred, see section 238f of this title.
+Section 227, acts July 1, 1944, ch. 373, title V, §509 58 Stat. 711; June 16, 1948, ch. 481, §6(b), 62 Stat. 469; June 25, 1948, ch. 654, §7, 62 Stat. 1018; Reorg. Plan No. 1 of 1953 §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631,which related to availability of appropriations for carrying out purposes of this chapter, was successively renumbered by subsequent acts and transferred, see section 238f of this title.
 

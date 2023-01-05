@@ -148,7 +148,7 @@ Program outcomes.—A recipient of assistance under this subsection shall demons
 
 &emsp;&emsp;(E)
 
-Report to congress.—The Secretary shall make publicly available a report on the Frontline Workforce Development Program for each fiscal year, not later than December 31 of the calendar year in which that fiscal year ends. The report shall include a detailed description of activities carried out under this paragraph, an evaluation of the program, and policy recommendations to improve program effectiveness.
+Report to congress.—The Secretary shall make publicly available a report on the Frontline Workforce Development Program for each fiscal year, not later than December 31 of the calendar year in which that fiscal year ends. The report shall include a detailed description of activities carried out under this paragraph, an evaluation of theprogram, and policy recommendations to improve program effectiveness.
 
 &emsp;(3)
 
@@ -218,7 +218,7 @@ Provision for education and training.—Education and training of Government, St
 
 &emsp;&emsp;(A) by the Secretary at no cost to the States and local governments for subjects that are a Government program responsibility; or
 
-&emsp;&emsp;(B) when the education and training are paid under paragraph (4), by the State, withthe approval of the Secretary, through grants and contracts with public and private agencies, other institutions, individuals, and the institute.
+&emsp;&emsp;(B) when the education and training are paid under paragraph (4), by the State, with the approval of the Secretary, through grants and contracts with public and private agencies, other institutions, individuals, and the institute.
 
 &emsp;(4)
 

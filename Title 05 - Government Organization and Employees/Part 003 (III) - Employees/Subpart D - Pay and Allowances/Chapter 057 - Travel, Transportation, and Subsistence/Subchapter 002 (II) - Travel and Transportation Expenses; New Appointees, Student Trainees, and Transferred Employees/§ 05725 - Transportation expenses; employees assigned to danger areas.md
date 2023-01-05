@@ -16,9 +16,9 @@
 
 &emsp;(A) the head of the agency shall by regulation prescribe; and
 
-&emsp;(B) shall, to the extent practicable, be the same as would apply under regulations prescribed under section 476(b)(1)(H)(iii) <sup>1</sup> of title 37 in connection with the transport of family household pets of members of the uniformed services, including regulations relating to the types, size, and number of pets for which such payment or reimbursement may be provided.
+&emsp;(B) shall, to the extent practicable, be the same as would apply under regulations prescribed under subsections (c) and (d) of section 453 of title 37 in connection with the transport of family household pets of members of the uniformed services, including regulations relating to the types, size, and number of pets for which such payment or reimbursement may be provided.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 503; Pub. L. 105–264, §6(6), Oct. 19, 1998, 112 Stat. 2356; Pub. L. 112–239, div. A, title XI, §1106, Jan. 2, 2013, 126 Stat. 1973.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 503; Pub. L. 105–264, §6(6), Oct. 19, 1998, 112 Stat. 2356; Pub. L. 112–239, div. A, title XI, §1106, Jan. 2, 2013, 126 Stat. 1973; Pub. L. 117–263, div. A, title VI, §626(b)(2), Dec. 23, 2022, 136 Stat. 2628.)
 
 Historical and Revision Notes
 
@@ -40,17 +40,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 476 of title 37, referred to in subsec. (c)(2)(B), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2)(B). Pub. L. 117–263 substituted "subsections (c) and (d) of section 453" for "section 476(b)(1)(H)(iii)".
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1106(1), substituted ", personal effects, and family household pets," for "and personal effects," in concluding provisions.
 
 Subsec. (c). Pub. L. 112–239, §1106(2), added subsec. (c).
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–264 substituted "Government" for "United States" in introductory provisions.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

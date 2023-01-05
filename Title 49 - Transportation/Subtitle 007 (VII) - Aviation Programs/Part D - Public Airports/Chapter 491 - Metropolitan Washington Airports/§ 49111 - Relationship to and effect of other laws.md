@@ -108,7 +108,7 @@ In subsection (e), the text of section 6009(e)(2) of the Metropolitan Washington
 
 Section 6005 of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (a), is section 6005 of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–375, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–378, which was classified to section 2454 of former Title 49, Transportation, and was repealed and reenacted as this section by Pub. L. 105–102, §§2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217.
 
-Act of June 29, 1940, ch. 444, 54 Stat. 686, referred to in subsec. (a)(2), was classified to subchapter I (§2401 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III,and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
+Act of June 29, 1940, ch. 444, 54 Stat. 686, referred to in subsec. (a)(2), was classified to subchapter I (§2401 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
 
 The First Supplemental Civil Functions Appropriations Act, 1941, referred to in subsec. (a)(2), is act Oct. 9, 1940, ch. 780, 54 Stat. 1030. For complete classification of this Act to the Code, see Tables.
 

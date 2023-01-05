@@ -40,7 +40,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 &emsp;&emsp;Activities within the plan may focus on (but not be limited to)—
 
-&emsp;&emsp;&emsp;(i) creating healthier school environments, including increasing healthy food options, physical activity opportunities, promotion of healthy lifestyle, emotional wellness, and prevention curricula, and activities to prevent chronic diseases;
+&emsp;&emsp;&emsp;(i) creating healthier school environments, including increasing healthy foodoptions, physical activity opportunities, promotion of healthy lifestyle, emotional wellness, and prevention curricula, and activities to prevent chronic diseases;
 
 &emsp;&emsp;&emsp;(ii) creating the infrastructure to support active living and access to nutritious foods in a safe environment;
 
@@ -108,7 +108,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 #### (1) In general
 
-&emsp;The Director shall develop a program to provide training for eligible entities on effectivestrategies for the prevention and control of chronic disease and the link between physical, emotional, and social well-being.
+&emsp;The Director shall develop a program to provide training for eligible entities on effective strategies for the prevention and control of chronic disease and the link between physical, emotional, and social well-being.
 
 #### (2) Community transformation plan
 

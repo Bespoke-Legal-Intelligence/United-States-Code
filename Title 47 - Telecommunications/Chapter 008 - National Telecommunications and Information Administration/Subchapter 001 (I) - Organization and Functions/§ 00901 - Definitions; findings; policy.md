@@ -52,7 +52,7 @@ The NTIA shall seek to advance the following policies:
 
 This chapter, referred to in subsec. (a), was in the original, "this title", meaning title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Title III of the Act is classified generally to subchapter III (§731 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419. Title III of the Act is classified generally to subchapter III (§731 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under section 305 of this title.
 
@@ -480,7 +480,7 @@ Form.—The Strategy and Implementation Plan shall be submitted to the appropria
 
 Ex. Ord. No. 12382, Sept. 13, 1982, 47 F.R. 40531, as amended by Ex. Ord. No. 13286, Feb. 28, 2003, 68 F.R. 10628; Ex. Ord. No. 13618, §7(c), July 6, 2012, 77 F.R. 40783; Ex. Ord. No. 14048, §5, Sept. 30, 2021, 86 F.R. 55466, provided:
 
-By the authority vested in me as President by the Constitution of the United States of America, and in order to establish, in accordance with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), an advisory committee on National Security Telecommunications, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution of the United States of America, and in order to establish, in accordance with the provisions of the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], an advisory committee on National Security Telecommunications, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. (a) There is established the President's National Security Telecommunications Advisory Committee, which shall be composed of no more than 30 members. These members shall have particular knowledge and expertise in the fields of cybersecurity and of information and communications technology (ICT) and shall represent various elements of the Nation's telecommunications industry. Members of the Committee shall be appointed by the President.
 
@@ -504,13 +504,13 @@ Administration. (a) The heads of Executive agencies shall, to the extent permitt
 
 (c) Any expenses of the Committee shall, to the extent permitted by law, be paid from funds available to the Secretary of Homeland Security.
 
-Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive Order, the functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), which are applicable to the Committee, except that of reporting annually to the Congress, shall be performed by the Secretary of Homeland Security, in accord with guidelines and procedures established by the Administrator of General Services.
+Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive Order, the functions of the President under the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], which are applicable to the Committee, except that of reporting annually to the Congress, shall be performed by the Secretary of Homeland Security, in accord with guidelines and procedures established by the Administrator of General Services.
 
 (b) In accordance with the Federal Advisory Committee Act, as amended, the Committee shall terminate on December 31, 1982, unless sooner extended.
 
 #### Extension of Term of President's National Security Telecommunications Advisory Committee
 
-Term of President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's National Security Telecommunications Advisory Committee were contained in the following prior Executive Orders:
 

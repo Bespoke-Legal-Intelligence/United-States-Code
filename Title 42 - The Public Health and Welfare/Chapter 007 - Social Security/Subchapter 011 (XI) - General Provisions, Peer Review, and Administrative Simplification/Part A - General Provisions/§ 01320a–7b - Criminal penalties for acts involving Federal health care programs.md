@@ -44,7 +44,7 @@ Whoever—
 
 &emsp;(C) any amount paid by a vendor of goods or services to a person authorized to act as a purchasing agent for a group of individuals or entities who are furnishing services reimbursed under a Federal health care program if—
 
-&emsp;&emsp;(i) the person has a written contract, with each such individual or entity, which specifies the amount to be paid the person, which amount may be a fixed amount or a fixed percentage of the value of the purchasesmade by each such individual or entity under the contract, and
+&emsp;&emsp;(i) the person has a written contract, with each such individual or entity, which specifies the amount to be paid the person, which amount may be a fixed amount or a fixed percentage of the value of the purchases made by each such individual or entity under the contract, and
 
 &emsp;&emsp;(ii) in the case of an entity that is a provider of services (as defined in section 1395x(u) of this title), the person discloses (in such form and manner as the Secretary requires) to the entity and, upon request, to the Secretary the amount received from each such vendor with respect to purchases made by or on behalf of the entity;
 
@@ -60,9 +60,53 @@ Whoever—
 
 &emsp;(I) any remuneration between a health center entity described under clause (i) or (ii) of section 1396d(l)(2)(B) of this title and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity pursuant to a contract, lease, grant, loan, or other agreement, if such agreement contributes to the ability of the health center entity to maintain or increase the availability, or enhance the quality, of services provided to a medically underserved population served by the health center entity;
 
-&emsp;(J) a discount in the price of an applicable drug (as defined in paragraph (2) of section 1395w–114a(g) of this title) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under section 1395w–114a of this title; and
+&emsp;(J) a discount in the price of an applicable drug (as defined in paragraph (2) of section 1395w–114a(g) of this title) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under section 1395w–114a of this title;
 
-&emsp;(K) an incentive payment made to a Medicare fee-for-service beneficiary by an ACO under an ACO Beneficiary Incentive Program established under subsection (m) of section 1395jjj of this title, if the payment is made in accordance with the requirements of such subsection and meets such other conditions as the Secretary may establish.
+&emsp;(K) an incentive payment made to a Medicare fee-for-service beneficiary by an ACO under an ACO Beneficiary Incentive Program established under subsection (m) of section 1395jjj of this title, if the payment is made in accordance with the requirements of such subsection and meets such other conditions as the Secretary may establish; and
+
+&emsp;(L) a bona fide mental health or behavioral health improvement or maintenance program, if—
+
+&emsp;&emsp;(i) such program—
+
+&emsp;&emsp;&emsp;(I) consists of counseling, mental health services, a suicide prevention program, or a substance use disorder prevention and treatment program;
+
+&emsp;&emsp;&emsp;(II) is made available to a physician or other clinician for the primary purpose of preventing suicide, improving mental health and resiliency, or providing training in appropriate strategies to promote the mental health and resiliency of such physician or other clinician;
+
+&emsp;&emsp;&emsp;(III) is set out in a written policy, approved in advance of the operation of the program by the governing body of the entity providing such program (and which shall be updated accordingly in advance to substantial changes to the operation of such program), that includes—
+
+&emsp;&emsp;&emsp;&emsp;(aa) a description of the content and duration of the program;
+
+&emsp;&emsp;&emsp;&emsp;(bb) a description of the evidence-based support for the design of the program;
+
+&emsp;&emsp;&emsp;&emsp;(cc) the estimated cost of the program;
+
+&emsp;&emsp;&emsp;&emsp;(dd) the personnel (including the qualifications of such personnel) implementing the program; and
+
+&emsp;&emsp;&emsp;&emsp;(ee) the method by which such entity will evaluate the use and success of the program;
+
+&emsp;&emsp;&emsp;(IV) is offered by an entity described in clause (ii) with a formal medical staff to all physicians and other clinicians who practice in the geographic area served by such entity, including physicians who hold bona fide appointments to the medical staff of such entity or otherwise have clinical privileges at such entity;
+
+&emsp;&emsp;&emsp;(V) is offered to all such physicians and clinicians on the same terms and conditions and without regard to the volume or value of referrals or other business generated by a physician or clinician for such entity;
+
+&emsp;&emsp;&emsp;(VI) is evidence-based and conducted by a qualified health professional; and
+
+&emsp;&emsp;&emsp;(VII) meets such other requirements the Secretary may impose by regulation as needed to protect against program or patient abuse;
+
+&emsp;&emsp;(ii) such entity is—
+
+&emsp;&emsp;&emsp;(I) a hospital;
+
+&emsp;&emsp;&emsp;(II) an ambulatory surgical center;
+
+&emsp;&emsp;&emsp;(III) a community health center;
+
+&emsp;&emsp;&emsp;(IV) a rural emergency hospital;
+
+&emsp;&emsp;&emsp;(V) a skilled nursing facility; or
+
+&emsp;&emsp;&emsp;(VI) any similar entity, as determined by the Secretary; and
+
+&emsp;&emsp;(iii) neither the provision of such program, nor the value of such program, are contingent upon the number or value of referrals made by a physician or other clinician to such entity or the amount or value of other business generated by such physician for the entity.
 
 (4) Whoever without lawful authority knowingly and willfully purchases, sells or distributes, or arranges for the purchase, sale, or distribution of a beneficiary identification number or unique health identifier for a health care provider under subchapter XVIII, subchapter XIX, or subchapter XXI shall be imprisoned for not more than 10 years or fined not more than $500,000 ($1,000,000 in the case of a corporation), or both.
 
@@ -76,7 +120,7 @@ Whoever knowingly and willfully—
 
 &emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
 
-&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX, any gift, money, donation, orother consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
+&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
 &emsp;&emsp;(A) as a precondition of admitting a patient to a hospital, nursing facility, or intermediate care facility for the mentally retarded, or
 
@@ -106,13 +150,13 @@ In addition to the penalties provided for in this section or section 1320a–7a 
 
 With respect to violations of this section, a person need not have actual knowledge of this section or specific intent to commit a violation of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287; Pub. L. 111–148, title III, §3301(d)(1), title VI, §6402(f), Mar. 23, 2010, 124 Stat. 468, 759; Pub. L. 114–115, §8, Dec. 28, 2015, 129 Stat. 3134; Pub. L. 115–123, div. E, title III, §50341(b), title IV, §50412(a)(2), (b), Feb. 9, 2018, 132 Stat. 208, 220.)
+(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287; Pub. L. 111–148, title III, §3301(d)(1), title VI, §6402(f), Mar. 23, 2010, 124 Stat. 468, 759; Pub. L. 114–115, §8, Dec. 28, 2015, 129 Stat. 3134; Pub. L. 115–123, div. E, title III, §50341(b), title IV, §50412(a)(2), (b), Feb. 9, 2018, 132 Stat. 208, 220; Pub. L. 117–328, div. FF, title IV, §4126(b), Dec. 29, 2022, 136 Stat. 5914.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (b)(3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (b)(3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, whichis classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 Section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987, referred to in subsec. (b)(3)(E), is section 14(a) of Pub. L. 100–93, which is set out below.
 
@@ -123,6 +167,8 @@ Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(3)(E), was i
 Prior to redesignation by Pub. L. 100–93, subsecs. (a) to (d) of this section were subsecs. (a) to (d) of section 1909 of act Aug. 14, 1935, which was classified to section 1396h of this title, and subsec. (e) of this section was subsec. (d) of section 1877 of act Aug. 14, 1935, which was classified to section 1395nn of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3)(L). Pub. L. 117–328 added subpar. (L).
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–123, §50412(a)(2)(A), (b)(1), in concluding provisions, substituted "$100,000" for "$25,000", "not more than 10 years or both, or (ii)" for "not more than five years or both, or (ii)", and "$20,000" for "$10,000".
 
@@ -224,7 +270,7 @@ Subsec. (e). Pub. L. 100–93, §4(c), redesignated subsec. (d) of section 1395n
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–142, §4(b), designated existing provisions following par. (4) as cl. (ii) and, as so designated, inserted provisions relating to activities of other persons, and inserted provisions authorizing the State to limit, restrict, or suspend, the eligibility of any convicted persons for benefits, and added cl. (i). See Codification note above.
 
-Subsec. (b). Pub. L. 95–142, §4(b), redesignated existing provisions as par. (1), substituted provisions relating to solicitation or receiving of any remuneration in return for referring an individual to a person for the furnishing or arranging the furnishing of any item orservice, or in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, etc., as constituting a felony punishable by a fine of not more than $25,000 and/or imprisonment for not more than five years, for provisions relating to furnishing items or services and soliciting, offering or receiving any kickback, bribe, or rebate in connection with furnishing, etc. items or services as constituting a misdemeanor punishable by a fine of not more than $10,000 and/or imprisonment for not more than one year, and added pars. (2) and (3). See Codification note above.
+Subsec. (b). Pub. L. 95–142, §4(b), redesignated existing provisions as par. (1), substituted provisions relating to solicitation or receiving of any remuneration in return for referring an individual to a person for the furnishing or arranging the furnishing of any item or service, or in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, etc., as constituting a felony punishable by a fine of not more than $25,000 and/or imprisonment for not more than five years, for provisions relating to furnishing items or services and soliciting, offering or receiving any kickback, bribe, or rebate in connection with furnishing, etc. items or services as constituting a misdemeanor punishable by a fine of not more than $10,000 and/or imprisonment for not more than one year, and added pars. (2) and (3). See Codification note above.
 
 Subsec. (c). Pub. L. 95–142, §4(b), substituted provisions setting forth felony nature of criminal activities with a fine of not more than $25,000, or imprisonment for not more than five years, or both, for provisions setting forth misdemeanor nature of criminal activities with a fine of not more than $2,000, or imprisonment for not more than six months, or both. See Codification note above.
 
@@ -270,7 +316,7 @@ Amendment by section 4164(b)(2) of Pub. L. 101–508 applicable with respect to 
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget ReconciliationAct of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendments
 
@@ -288,7 +334,11 @@ Pub. L. 92–603, title II, §242(d), Oct. 30, 1972, 86 Stat. 1420, provided tha
 
 #### Moratorium on Implementation of Rule Relating to Eliminating the Anti-Kickback Statute Safe Harbor Protection for Prescription Drug Rebates
 
-Pub. L. 117–58, div. I, §90006, Nov. 15, 2021, 135 Stat. 1346, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services shall not, prior to January 1, 2026, implement, administer, or enforce the provisions of the final rule published by the Office of the Inspector General of the Department of Health and Human Services on November 30, 2020, and titled 'Fraud and Abuse; Removal of Safe Harbor Protection for Rebates Involving Prescription Pharmaceuticals and Creation of New Safe Harbor Protection for Certain Point-of-Sale Reductions in Price on Prescription Pharmaceuticals and Certain Pharmacy Benefit Manager Service Fees' (85 Fed. Reg. 76666)."
+Pub. L. 117–169, title I, §11301, Aug. 16, 2022, 136 Stat. 1896, provided that: "The Secretary of Health and Human Services shall not, prior to January 1, 2032, implement, administer, or enforce the provisions of the final rule published by the Office of the Inspector General of the Department of Health and Human Services on November 30, 2020, and titled 'Fraud and Abuse; Removal of Safe Harbor Protection for Rebates Involving Prescription Pharmaceuticals and Creation of New Safe Harbor Protection for Certain Point-of-Sale Reductions in Price on Prescription Pharmaceuticals and Certain Pharmacy Benefit Manager Service Fees' (85 Fed. Reg. 76666)."
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 117–58, div. I, §90006, Nov. 15, 2021, 135 Stat. 1346, as amended by Pub. L. 117–159, div. A, title III, §13101, June 25, 2022, 136 Stat. 1333.
 
 #### Rulemaking for Exception for Health Center Entity Arrangements
 

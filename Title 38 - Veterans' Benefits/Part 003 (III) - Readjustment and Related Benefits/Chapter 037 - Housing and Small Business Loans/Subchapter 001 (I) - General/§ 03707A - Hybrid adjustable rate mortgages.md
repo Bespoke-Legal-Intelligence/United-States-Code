@@ -24,7 +24,7 @@
 
 &emsp;(4) in the case of any single annual interest rate adjustment after the initial contract interest rate adjustment, be limited to a maximum increase or decrease of such percentage points as the Secretary may prescribe; and
 
-&emsp;(5) be limited, over the term of the mortgage, to a maximum increase of such number of percentage points as the Secretary shall prescribe for purposes of this section.
+&emsp;(5) be limited, over the term of the mortgage, to a maximum increase of such numberof percentage points as the Secretary shall prescribe for purposes of this section.
 
 (d) The Secretary shall promulgate underwriting standards for loans guaranteed under this section, taking into account—
 
@@ -44,7 +44,7 @@
 
 #### References in Text
 
-The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classified to section 1715z–16 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classified to section 1715z–16 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 #### Amendments
 

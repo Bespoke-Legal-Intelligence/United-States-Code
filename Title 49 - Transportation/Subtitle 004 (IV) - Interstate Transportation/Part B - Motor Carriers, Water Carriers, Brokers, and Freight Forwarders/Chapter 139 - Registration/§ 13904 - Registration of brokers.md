@@ -30,7 +30,7 @@ In general.—A broker for transportation may not provide transportation as a mo
 
 &emsp;(2)
 
-Limitation.—This subsection does not apply to a motor carrier registered under this chapter or to an employee or agent of the motor carrier to the extent the transportation is to be provided entirely by the motor carrier, with other registered motor carriers, or with rail or water carriers.
+Limitation.—This subsection does not apply to a motor carrier registered under thischapter or to an employee or agent of the motor carrier to the extent the transportation is to be provided entirely by the motor carrier, with other registered motor carriers, or with rail or water carriers.
 
 (e)
 
@@ -82,7 +82,7 @@ Household Goods.—The Secretary shall register, subject to section 13906(b), a 
 
 "(2)
 
-Others.—The Secretary may register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a broker (other than a broker of household goods) if the Secretary finds that such registration is needed for the protection of shippers and that the person is fit, willing, and able to provide theservice and to comply with this part and applicable regulations of the Secretary and Board."
+Others.—The Secretary may register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a broker (other than a broker of household goods) if the Secretary finds that such registration is needed for the protection of shippers and that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and Board."
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §4142(c)(1), (3), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

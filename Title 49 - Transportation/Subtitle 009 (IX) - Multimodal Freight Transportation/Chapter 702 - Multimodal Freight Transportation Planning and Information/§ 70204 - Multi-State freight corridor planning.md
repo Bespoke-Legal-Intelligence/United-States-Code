@@ -2,7 +2,7 @@
 
 (a)
 
-Consent to Multi-State Freight Mobility Compacts.—Congress recognizes the right of States, cities, regional planning organizations, federally recognized Indian Tribes, and local public authorities (including public port authorities) that are regionally linked with an interest in a specific nationally or regionally significant multi-State freight corridor to enter into multi-State compacts to promote the improved mobility of goods, including—
+Consent to Multi-State Freight Mobility Compacts.—Congress recognizes the right ofStates, cities, regional planning organizations, federally recognized Indian Tribes, and local public authorities (including public port authorities) that are regionally linked with an interest in a specific nationally or regionally significant multi-State freight corridor to enter into multi-State compacts to promote the improved mobility of goods, including—
 
 &emsp;(1) identifying projects along the corridor that benefit multiple States;
 
@@ -134,7 +134,7 @@ In general.—The Secretary may award a grant to multi-State freight compacts th
 
 Requirements.—To be eligible to receive a grant under this paragraph, a multi-State freight compact shall—
 
-&emsp;&emsp;&emsp;(i) submit to the Secretary an application at such time, in such manner, andcontaining such information as the Secretary may require;
+&emsp;&emsp;&emsp;(i) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require;
 
 &emsp;&emsp;&emsp;(ii) provide a non-Federal match of not less than 50 percent of the operating costs of the compact; and
 

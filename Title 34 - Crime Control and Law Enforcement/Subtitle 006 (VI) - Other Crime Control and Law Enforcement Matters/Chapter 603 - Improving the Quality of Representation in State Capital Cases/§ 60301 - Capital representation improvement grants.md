@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall award grants to States for the purpose of improving the quality of legal representation provided to indigent defendants in State capital cases.
+The Attorney General shall award grants to States for the purpose of improving the qualityof legal representation provided to indigent defendants in State capital cases.
 
 #### (b) Defined term
 

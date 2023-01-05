@@ -32,7 +32,7 @@ The Secretary may accept on behalf of the Job Corps or individual Job Corps cent
 
 #### (g) Sale of property
 
-Notwithstanding any other provision of law, if the Administrator of General Services sells aJob Corps center facility, the Administrator shall transfer the proceeds from the sale to the Secretary, who shall use the proceeds to carry out the Job Corps program.
+Notwithstanding any other provision of law, if the Administrator of General Services sells a Job Corps center facility, the Administrator shall transfer the proceeds from the sale to the Secretary, who shall use the proceeds to carry out the Job Corps program.
 
 (Pub. L. 113–128, title I, §158, July 22, 2014, 128 Stat. 1553.)
 

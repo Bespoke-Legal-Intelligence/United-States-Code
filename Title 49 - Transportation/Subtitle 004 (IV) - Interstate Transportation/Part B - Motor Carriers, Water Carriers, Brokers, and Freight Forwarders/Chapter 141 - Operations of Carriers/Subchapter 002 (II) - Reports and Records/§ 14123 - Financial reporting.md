@@ -58,7 +58,7 @@ Period of exemptions.—Exemptions granted under this subsection shall be for 3-
 
 (d)
 
-Streamlining and Simplification.—The Secretary shall streamline and simplify, to themaximum extent practicable, any reporting requirements the Secretary imposes under this section.
+Streamlining and Simplification.—The Secretary shall streamline and simplify, to the maximum extent practicable, any reporting requirements the Secretary imposes under this section.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 893; amended Pub. L. 105–102, §2(11), Nov. 20, 1997, 111 Stat. 2205.)
 

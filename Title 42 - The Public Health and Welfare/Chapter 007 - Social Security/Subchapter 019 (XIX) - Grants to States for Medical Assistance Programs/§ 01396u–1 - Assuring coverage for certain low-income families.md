@@ -118,7 +118,7 @@ Subsec. (h)(4). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(2)\], struc
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §602(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 114 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2177)."
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §602(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, provided that:"The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 114 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2177)."
 
 #### Effective Date
 

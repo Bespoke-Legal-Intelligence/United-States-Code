@@ -20,7 +20,7 @@ All data reported to or acquired by the Secretary pursuant to this section shall
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–357, §611(j)(2)(B), substituted "$500." for "$500; and any tobacco warehouseman or dealer who fails to remedy such violation by making a complete and accurate report or keeping a complete and accurate record as required by this subsection within fifteen days after notice to him of such violation shall be subject to an additional fine of $100 for each ten thousand pounds of tobacco, or fraction thereof, bought or sold by him after the date of such violation: <i>Provided</i>, That such fine shall not exceed $5,000; and notice of such violation shall be served upon the tobacco warehouseman or dealer by mailing the same to him by registered mail or by certified mail or by posting the same at any established place of business operated by him, or both."
 
-Pub. L. 108–357, §611(j)(2)(A), which directed that "all persons engaged in the business of redrying, prizing, or stemming tobacco for producers," be struck out in first sentence, was executed by striking out ", and all persons engaged in the business of redrying, prizing, orstemming tobacco for producers" before period at end of first sentence, to reflect the probable intent of Congress.
+Pub. L. 108–357, §611(j)(2)(A), which directed that "all persons engaged in the business of redrying, prizing, or stemming tobacco for producers," be struck out in first sentence, was executed by striking out ", and all persons engaged in the business of redrying, prizing, or stemming tobacco for producers" before period at end of first sentence, to reflect the probable intent of Congress.
 
 Pub. L. 108–357, §611(j)(1), substituted "or rice" for "rice, or tobacco" in two places in first sentence.
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 #### Effective and Termination Dates of 1996 Amendment
 
-Pub. L. 104–127, title I, §171(a)(2), Apr. 4, 1996, 110 Stat. 937, provided that the amendment made by section 171(a)(2) is effective only for the 1996 through 2002 crops of peanuts.
+Pub. L. 104–127, title I, §171(a)(2), Apr. 4, 1996, 110 Stat. 937, provided that the amendment made by section171(a)(2) is effective only for the 1996 through 2002 crops of peanuts.
 
 #### Effective and Termination Dates of 1990 Amendment
 

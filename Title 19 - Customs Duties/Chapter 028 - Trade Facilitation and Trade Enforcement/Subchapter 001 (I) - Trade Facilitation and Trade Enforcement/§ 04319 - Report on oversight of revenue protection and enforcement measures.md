@@ -16,7 +16,7 @@ Not later than June 30, 2016, and not later than March 31 of each second year th
 
 &emsp;(2) The effectiveness of actions taken by U.S. Customs and Border Protection to measure accountability and performance with respect to protection of revenue.
 
-&emsp;(3) The number and outcome of investigations instituted by U.S. Customs and BorderProtection with respect to the underpayment of duties.
+&emsp;(3) The number and outcome of investigations instituted by U.S. Customs and Border Protection with respect to the underpayment of duties.
 
 &emsp;(4) The effectiveness of training with respect to the collection of duties provided for personnel of U.S. Customs and Border Protection.
 

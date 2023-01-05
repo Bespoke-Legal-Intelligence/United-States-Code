@@ -10,7 +10,7 @@ Section 944, act May 20, 1936, ch. 432, title IV, §404, as added Pub. L. 92–1
 
 Section 944a, Pub. L. 100–203, title I, §1414, Dec. 22, 1987, 101 Stat. 1330–27, provided for publication of rural telephone bank policies and regulations.
 
-Section 945, act May 20, 1936, ch. 432, title IV, §405, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 32; amended Pub. L. 93–32, §4, May 11, 1973, 87 Stat. 70; Pub. L. 101–624, title XXIII, §2363(a), (b)(1), (c), Nov. 28, 1990, 104 Stat. 4042–4044; Pub. L. 103–354, title II, §235(a)(7), Oct. 13, 1994, 108 Stat. 3221, created a board of directors for the telephone bank and set out its membership requirements.
+Section 945, act May 20, 1936, ch. 432, title IV, §405, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 32; amendedPub. L. 93–32, §4, May 11, 1973, 87 Stat. 70; Pub. L. 101–624, title XXIII, §2363(a), (b)(1), (c), Nov. 28, 1990, 104 Stat. 4042–4044; Pub. L. 103–354, title II, §235(a)(7), Oct. 13, 1994, 108 Stat. 3221, created a board of directors for the telephone bank and set out its membership requirements.
 
 Section 946, act May 20, 1936, ch. 432, title IV, §406, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 33; amended Pub. L. 93–32, §5, May 11, 1973, 87 Stat. 70; Pub. L. 94–273, §2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 97–98, title XVI, §1607, Dec. 22, 1981, 95 Stat. 1347; Pub. L. 100–203, title I, §1413(a), (c), Dec. 22, 1987, 101 Stat. 1330–26; Pub. L. 101–624, title XXIII, §§2364, 2367(a), Nov. 28, 1990, 104 Stat. 4044; Pub. L. 103–129, §2(c)(9), Nov. 1, 1993, 107 Stat. 1365; Pub. L. 103–354, title II, §235(a)(11), (13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §772(b)(3), Apr. 4, 1996, 110 Stat. 1149, related to capitalization of the telephone bank.
 
@@ -34,5 +34,5 @@ Pub. L. 100–203, title I, §1411(a), Dec. 22, 1987, 101 Stat. 1330–22, which
 
 #### Prepayment Regulations
 
-Pub. L. 100–203, title I, §1411(b)(2), Dec. 22, 1987, 101 Stat. 1330–23, which directed the Governor of the RuralTelephone Bank to issue regulations to carry out the amendment to this section by section 1411(b)(1) of Pub. L. 100–203 and was formerly set out as a note under section 948 of this title, was repealed by Pub. L. 115–334, title VI, §6602(b)(16), Dec. 20, 2018, 132 Stat. 4777.
+Pub. L. 100–203, title I, §1411(b)(2), Dec. 22, 1987, 101 Stat. 1330–23, which directed the Governor of the Rural Telephone Bank to issue regulations to carry out the amendment to this section by section 1411(b)(1) of Pub. L. 100–203 and was formerly set out as a note under section 948 of this title, was repealed by Pub. L. 115–334, title VI, §6602(b)(16), Dec. 20, 2018, 132 Stat. 4777.
 

@@ -76,6 +76,30 @@ For transfer of functions, personnel, assets, and liabilities of the Department 
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Integrated and Authenticated Access to Department of Defense Systems for Certain Congressional Staff for Oversight Purposes
+
+Pub. L. 117–263, div. A, title X, §1046, Dec. 23, 2022, 136 Stat. 2773, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall develop processes and procedures under which the Secretary shall issue access tokens to staff of the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] to facilitate the performance of required congressional oversight activities. Such access tokens shall—
+
+&emsp;"(1) provide designated and authenticated staff with access to designated Department of Defense information systems, including—
+
+&emsp;&emsp;"(A) the reporting system described in section 805(b) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81) \[135 Stat. 1816\] that will replace the Selected Acquisition Report requirements under section 4351 of title 10, United States Code; and
+
+&emsp;&emsp;"(B) the process referred to in section 908 of the William (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[10 U.S.C. 111 note\] that is used by the Department of Defense to identify reports to Congress required by annual national defense authorization Acts, assign responsibility for preparation of such reports, and manage the completion and delivery of such reports to Congress; and
+
+&emsp;"(2) to the extent feasible, be integrated with the provision of Pentagon Facilities Alternative Credentials.
+
+"(b)
+
+Implementation.—The Secretary shall implement the processes and procedures developed under subsection (a) not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\].
+
+"(c)
+
+Interim Briefing.—Not later than 90 days after the date of the enactment of the Act, the Secretary of Defense shall provide to the congressional defense committees an interim briefing on the status of the processes and procedures required to be developed under subsection (a), including any updates to applicable policies, instructions, and guidance issued by the Department."
+
 #### Modernization of Process Used by the Department of Defense To Identify, Task, and Manage Congressional Reporting Requirements
 
 Pub. L. 116–283, div. A, title IX, §908, Jan. 1, 2021, 134 Stat. 3799, provided that:
@@ -174,13 +198,9 @@ Pub. L. 115–91, div. A, title X, §1051(x), Dec. 12, 2017, 131 Stat. 1567, pro
 
 &emsp;"(4) Section 2432 \[now 10 U.S.C. 4351\]."
 
-#### Exemption to Report Termination Requirements
-
-Pub. L. 115–91, div. A, title VIII, §811(d)(2), Dec. 12, 2017, 131 Stat. 1460, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note), as amended by section 1061(j) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2405; 10 U.S.C. 111 note), does not apply to the report required to be submitted to Congress under section 2313a of title 10, United States Code \[now 10 U.S.C. 3847\]."
-
 #### Organizational Strategy for the Department of Defense
 
-Pub. L. 117–81, div. A, title IX, §910, Dec. 27, 2021, 135 Stat. 1877, provided that:
+Pub. L. 117–81, div. A, title IX, §910, Dec. 27, 2021, 135 Stat. 1877, as amended by Pub. L. 117–263, div. A, title X, §1044(a), Dec. 23, 2022, 136 Stat. 2771, provided that:
 
 "(a)
 
@@ -190,9 +210,11 @@ Establishment.—Using the authority provided pursuant to section 911(c) of the 
 
 Duties.—The duties of the cross-functional team established under subsection (a) shall be—
 
-&emsp;"(1) to assist the Secretary of Defense with addressing the challenges posed by anomalous health incidents and any other efforts regarding such incidents that the Secretary determines necessary; and
+&emsp;"(1) to assist the Secretary of Defense with addressing the challenges posed by anomalous health incidents, including the causation, attribution, mitigation, identification, and treatment for such incidents;
 
-&emsp;"(2) to integrate the efforts of the Department of Defense regarding anomalous health incidents with the efforts of other departments or agency of the Federal Government regarding such incidents.
+&emsp;"(2) to integrate and deconflict the efforts of the Department of Defense regarding anomalous health incidents with the efforts of other departments or agencies of the Federal Government regarding such incidents; and
+
+&emsp;"(3) any other efforts regarding such incidents that the Secretary considers appropriate.
 
 "(c)
 
@@ -220,7 +242,7 @@ Initial briefing.—Not later than 45 days after the date of the enactment of th
 
 &emsp;"(2)
 
-Updates.—Not later than 90 days after the date of the enactment of this Act, and once every 60 days thereafter during the one-year period following such date of enactment, the Secretary shall provide to the appropriate congressional committees a briefing containing updates with respect to the efforts of the Department regarding anomalous health incidents.
+Updates.—Not later than March 1, 2023, and not less frequently than once every 180 days thereafter until March 1, 2026, the Secretary shall provide to the appropriate congressional committees a briefing containing updates with respect to the efforts of the Department regarding anomalous health incidents.
 
 "(f)
 
@@ -338,7 +360,7 @@ Guidance on teams.—Not later than September 30, 2017, the Secretary shall issu
 
 &emsp;&emsp;"(C) providing that the leaders of functional components of the Department that provide personnel to such teams respect and respond to team needs and activities; and
 
-&emsp;&emsp;"(D) emphasizing that personnel selected for assignment to such teams shall faithfully representthe views and expertise of their functional components while contributing to the best of their ability to the success of the team concerned.
+&emsp;&emsp;"(D) emphasizing that personnel selected for assignment to such teams shall faithfully represent the views and expertise of their functional components while contributing to the best of their ability to the success of the team concerned.
 
 &emsp;"(4)
 
@@ -394,7 +416,7 @@ Directive on Collaborative Culture and Behavior.—The guidance issued by the Se
 
 "(e)
 
-Streamlining of Organizational Structure and Processes of OSD.—Not later than 18 months after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall take such actions as the Secretary considers appropriate to streamline the organizational structure and processes of the Office of the Secretary of Defense in order to increase spans of control, achieve a reduction in layers of management, eliminate unnecessary duplication between the Office and the Joint Staff, and reduce the time required to complete standard processes and activities.
+Streamlining of Organizational Structure and Processes of OSD.—Not later than 18 monthsafter the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall take such actions as the Secretary considers appropriate to streamline the organizational structure and processes of the Office of the Secretary of Defense in order to increase spans of control, achieve a reduction in layers of management, eliminate unnecessary duplication between the Office and the Joint Staff, and reduce the time required to complete standard processes and activities.
 
 "(f)
 
@@ -420,9 +442,25 @@ Biannual report on assessments.—Not later than six months after the date of th
 
 Assessment team.—The Comptroller General may establish within the Government Accountability Office a team of analysts to assist the Comptroller General in the performance assessments required by this subsection."
 
-#### Temporary Continuation of Certain Department of Defense Reporting Requirements
+#### Continuation of Reporting Requirements
 
-Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, as amended by Pub. L. 115–91, div. A, title X, §§1051(u)–(w), 1081(d)(11), (12), Dec. 12, 2017, 131 Stat. 1566, 1567, 1600; Pub. L. 115–232, div. A, title III, §314(b)(2), title VIII, §813(i)(1), Aug. 13, 2018, 132 Stat. 1712, 1851; Pub. L. 117–81, div. A, title X, §§1011(b), 1064, Dec. 27, 2021, 135 Stat. 1890, 1909, provided that:
+Pub. L. 117–263, div. A, title III, §314(c)(1), Dec. 23, 2022, 136 Stat. 2505, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note) does not apply to the following reports:
+
+&emsp;"(A) The report required to be submitted to Congress under section 2711 of title 10, United States Code.
+
+&emsp;"(B) The report required to be submitted to Congress under section 2925 of title 10, United States Code."
+
+Pub. L. 117–263, div. A, title III, §375(a), Dec. 23, 2022, 136 Stat. 2542, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note) does not apply to the report required to be submitted to Congress under section 2464(d) of title 10, United States Code."
+
+Pub. L. 117–263, div. A, title III, §376(a), Dec. 23, 2022, 136 Stat. 2542, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note) does not apply to the report required to be submitted to Congress under section 2466(d) of title 10, United States Code."
+
+Pub. L. 117–263, div. A, title X, §1053(b)(1), Dec. 23, 2022, 136 Stat. 2778, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note) does not apply to the report required to be submitted to Congress under section 2561(c) of title 10, United States Code."
+
+Pub. L. 117–263, div. A, title X, §1059(a), Dec. 23, 2022, 136 Stat. 2780, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note) does not apply to the report required to be submitted to Congress under section 10541 of title 10, United States Code."
+
+Pub. L. 115–91, div. A, title VIII, §811(d)(2), Dec. 12, 2017, 131 Stat. 1460, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note), as amended by section 1061(j) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2405; 10 U.S.C. 111 note), does not apply to the report required to be submitted to Congress under section 2313a of title 10, United States Code \[now 10 U.S.C. 3847\]."
+
+Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, as amended by Pub. L. 115–91, div. A, title X, §§1051(u)–(w), 1081(d)(11), (12), Dec. 12, 2017, 131 Stat. 1566, 1567, 1600; Pub. L. 115–232, div. A, title III, §314(b)(2), title VIII, §813(i)(1), Aug. 13, 2018, 132 Stat. 1712, 1851; Pub. L. 117–81, div. A, title X, §§1011(b), 1064, Dec. 27, 2021, 135 Stat. 1890, 1909; Pub. L. 117–263, div. A, title III, §§314(c)(2), 375(b), 376(b), title X, §§1053(b)(2), 1059(b), title XVI, §1633(e), Dec. 23, 2022, 136 Stat. 2505, 2542, 2778, 2780, 2938, provided that:
 
 "(a)
 
@@ -476,7 +514,7 @@ Reports Required by Title 10
 
 &emsp;"(9) Section 171a(e) and (g)(2).
 
-&emsp;"(10) Section 179(f).
+&emsp;"\[(10) Repealed. Pub. L. 117–263, div. A, title XVI, §1633(e), Dec. 23, 2022, 136 Stat. 2938.\]
 
 &emsp;"(11) Section 196(d)(1), (d)(4), and (e)(3) \[now 10 U.S.C. 4173(d)(1), (4), (e)(3)\].
 
@@ -546,25 +584,25 @@ Reports Required by Title 10
 
 &emsp;"(44) \[Former\] Section 2445b.
 
-&emsp;"(45) Section 2464(d).
+&emsp;"\[(45) Repealed. Pub. L. 117–263, div. A, title III, §375(b), Dec. 23, 2022, 136 Stat. 2542.\]
 
-&emsp;"(46) Section 2466(d).
+&emsp;"\[(46) Repealed. Pub. L. 117–263, div. A, title III, §376(b), Dec. 23, 2022, 136 Stat. 2542.\]
 
 &emsp;"\[(47) Repealed. Pub. L. 117–81, div. A, title X, §1064(2), Dec. 27, 2021, 135 Stat. 1909.\]
 
-&emsp;"(48) Section 2561(c).
+&emsp;"\[(48) Repealed. Pub. L. 117–263, div. A, title X, §1053(b)(2), Dec. 23, 2022, 136 Stat. 2778.\]
 
 &emsp;"(49) Section 2684a(g).
 
 &emsp;"(50) Section 2687a.
 
-&emsp;"(51) Section 2711.
+&emsp;"\[(51) Repealed. Pub. L. 117–263, div. A, title III, §314(c)(2), Dec. 23, 2022, 136 Stat. 2505.\]
 
 &emsp;"(52) Sections \[sic\] 2884(b) and (c).
 
 &emsp;"(53) Section 2911(a) and (b)(3) \[now 10 U.S.C. 2911(c) and (d)(3)\].
 
-&emsp;"(54) Section 2925.
+&emsp;"\[(54) Repealed. Pub. L. 117–263, div. A, title III, §314(c)(2), Dec. 23, 2022, 136 Stat. 2505.\]
 
 &emsp;"(55) Section 2926(e)(4) \[now 10 U.S.C. 2926(f)(4)\].
 
@@ -580,7 +618,7 @@ Reports Required by Title 10
 
 &emsp;"(61) Section 10216(c).
 
-&emsp;"(62) Section 10541.
+&emsp;"\[(62) Repealed. Pub. L. 117–263, div. A, title X, §1059(b), Dec. 23, 2022, 136 Stat. 2780.\]
 
 &emsp;"(63) Section 10543.
 
@@ -886,7 +924,7 @@ Certifications on cost savings achieved.—Not later than 120 days after the dat
 
 &emsp;&emsp;"(A) The validity of the cost savings achieved for each major Department of Defense headquarters activity during the previous fiscal year, including the cost of personnel detailed by another Department entity to the headquarters activity.
 
-&emsp;&emsp;"(B) Whether the cost savings achieved for each major Department of Defense headquarters activity during that fiscal year met the savings objective for the headquarters activity for that fiscal year, as established pursuant to paragraph (1).
+&emsp;&emsp;"(B) Whether the cost savings achieved for each major Department of Defense headquarters activityduring that fiscal year met the savings objective for the headquarters activity for that fiscal year, as established pursuant to paragraph (1).
 
 "(d)
 
@@ -1130,7 +1168,7 @@ Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623,
 
 #### Commission on Roles and Missions of Armed Forces
 
-Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, as amended by Pub. L. 103–337, div. A, title IX, §923(a)(1), (2), (b)–(d), Oct. 5, 1994, 108 Stat. 2830, 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacyand appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than 30 days after submission of comments by the Secretary of Defense.
+Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, as amended by Pub. L. 103–337, div. A, title IX, §923(a)(1), (2), (b)–(d), Oct. 5, 1994, 108 Stat. 2830, 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacy and appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than 30 days after submission of comments by the Secretary of Defense.
 
 #### Termination of Department of Defense Reporting Requirements Determined by Secretary of Defense To Be Unnecessary or Incompatible With Efficient Management of Department of Defense
 
@@ -1144,7 +1182,7 @@ Termination of Report Requirements.—Unless otherwise provided by a law enacted
 
 Preparation of List.—(1) The Secretary of Defense shall submit to Congress a list of each provision of law that, as of the date specified in subsection (c), imposes upon the Secretary of Defense (or any other officer of the Department of Defense) a reporting requirement described in paragraph (2). The list of provisions of law shall include a statement or description of the report required under each such provision of law.
 
-"(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit that report is unnecessary or incompatible with the efficient management of the Department of Defense.
+"(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit thatreport is unnecessary or incompatible with the efficient management of the Department of Defense.
 
 "(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary or incompatible with the efficient management of the Department of Defense.
 

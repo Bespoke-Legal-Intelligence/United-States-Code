@@ -312,7 +312,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;The term "shortage of standard rental units both affordable and available to extremely low-income renter households" means for any State or other geographical area the gap between—
 
-&emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 30 percent of the adjusted area median income as determined by the Secretary that are occupied by extremely low-income renter households or are vacant for rent; and
+&emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with arent that is 30 percent or less of 30 percent of the adjusted area median income as determined by the Secretary that are occupied by extremely low-income renter households or are vacant for rent; and
 
 &emsp;&emsp;&emsp;(ii) the number of extremely low-income renter households.
 
@@ -390,7 +390,7 @@ Any grant under this section to a grantee by a State or State designated entity,
 
 #### References in Text
 
-Section 4103 of title 25, referred to in subsec. (c)(2), was in the original "section 4 of the Native American Housing Assistance and Self-Determination Act of 1997 (25 U.S.C. 4103)", and was translated as meaning section4 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
+Section 4103 of title 25, referred to in subsec. (c)(2), was in the original "section 4 of the Native American Housing Assistance and Self-Determination Act of 1997 (25 U.S.C. 4103)", and was translated as meaning section 4 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(7)(B)(i)(II), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 

@@ -2,19 +2,23 @@
 
 #### (a) In general
 
-The President, in coordination with the Interagency Committee on Ocean and Coastal Mapping and affected coastal states, shall establish a program to develop a coordinated and comprehensive Federal ocean and coastal mapping plan for the Great Lakes and coastal state waters, the territorial sea, the exclusive economic zone, and the continental shelf of the United States that enhances ecosystem approaches in decision-making for conservation and management of marine resources and habitats, establishes research and mapping priorities, supports the siting of research and other platforms, and advances ocean and coastal science.
+The President, in coordination with the Interagency Working Group on Ocean and Coastal Mapping under section 3502 of this title and affected coastal states, shall establish and maintain a program to coordinate comprehensive Federal ocean and coastal mapping efforts for the Great Lakes and coastal state waters, the territorial sea, the exclusive economic zone, and the continental shelf of the United States that—
 
-#### (b) Membership
+&emsp;(1) enhances ecosystem approaches in decisionmaking for natural resource and habitat management restoration and conservation, emergency response, and coastal resilience and adaptation;
 
-The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department of the Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.
+&emsp;(2) establishes research and mapping priorities;
 
-#### (c) Program parameters
+&emsp;(3) supports the siting of research and other platforms; and
 
-In developing such a program, the President, through the Committee, shall—
+&emsp;(4) advances ocean and coastal science.
+
+#### (b) Program parameters
+
+In maintaining such a program, the President, through the Working Group, shall—
 
 &emsp;(1) identify all Federal and federally-funded programs conducting shoreline delineation and ocean or coastal mapping, noting geographic coverage, frequency, spatial coverage, resolution, and subject matter focus of the data and location of data archives;
 
-&emsp;(2) facilitate cost-effective, cooperative mapping efforts that incorporate policies for contracting with non-governmental entities among all Federal agencies conducting ocean and coastal mapping, by increasing data sharing, developing appropriate data acquisition and metadata standards, and facilitating the interoperability of in situ data collection systems, data processing, archiving, and distribution of data products;
+&emsp;(2) facilitate cost-effective, cooperative mapping efforts that incorporate policies for contracting with non-governmental entities among all Federal agencies conducting ocean and coastal mapping and for leveraging existing Federal geospatial services capacities and contract vehicles for efficiencies, by increasing data sharing, developing appropriate data acquisition and metadata standards, and facilitating the interoperability of in situ data collection systems, data processing, archiving, and distribution of data products;
 
 &emsp;(3) facilitate the adaptation of existing technologies as well as foster expertise in new ocean and coastal mapping technologies, including through research, development, and training conducted among Federal agencies and in cooperation with non-governmental entities;
 
@@ -22,17 +26,49 @@ In developing such a program, the President, through the Committee, shall—
 
 &emsp;(5) provide for the archiving, management, and distribution of data sets through a national registry as well as provide mapping products and services to the general public in service of statutory requirements;
 
-&emsp;(6) develop data standards and protocols consistent with standards developed by the Federal Geographic Data Committee for use by Federal, coastal state, and other entities in mapping and otherwise documenting locationsof federally permitted activities, living and nonliving coastal and marine resources, marine ecosystems, sensitive habitats, submerged cultural resources, undersea cables, offshore aquaculture projects, offshore energy projects, and any areas designated for purposes of environmental protection or conservation and management of living and nonliving coastal and marine resources;
+&emsp;(6) develop data standards and protocols consistent with standards developed by the Federal Geographic Data Committee for use by Federal, coastal state, and other entities in mapping and otherwise documenting locations of federally permitted activities, living and nonliving coastal and marine resources, marine ecosystems, sensitive habitats, submerged cultural resources, undersea cables, offshore aquaculture projects, offshore energy projects, and any areas designated for purposes of environmental protection or conservation and management of living and nonliving coastal and marine resources;
 
-&emsp;(7) identify the procedures to be used for coordinating the collection and integration of Federal ocean and coastal mapping data with coastal state and local government programs;
+&emsp;(7) identify the procedures to be used for coordinating the collection and integration of Federal ocean and coastal mapping data with mapping programs, in conjunction with Federal and State agencies, Tribal governments, private industry, academia, and nongovernmental organizations;
 
-&emsp;(8) facilitate, to the extent practicable, the collection of real-time tide data and the development of hydrodynamic models for coastal areas to allow for the application of V-datum tools that will facilitate the seamless integration of onshore and offshore maps and charts;
+&emsp;(8) facilitate, to the extent practicable, the collection of tide data and water-level data and the development and dissemination of hydrodynamic models for coastal areas to allow for the application of V-datum tools that will facilitate the seamless integration of onshore and offshore maps and charts;
 
-&emsp;(9) establish a plan for the acquisition and collection of ocean and coastal mapping data; and
+&emsp;(9) establish a plan for the acquisition and collection of ocean and coastal mapping data;
 
-&emsp;(10) set forth a timetable for completion and implementation of the plan.
+&emsp;(10) set forth a timetable for completion and implementation of the plan; and
 
-(Pub. L. 111–11, title XII, §12202, Mar. 30, 2009, 123 Stat. 1421.)
+&emsp;(11) support—
+
+&emsp;&emsp;(A) the Ocean Science and Technology Subcommittee of the Ocean Policy Committee established under section 8932(c) of title 10; and
+
+&emsp;&emsp;(B) the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the National Ocean Exploration Act.<sup>1</sup>
+
+(Pub. L. 111–11, title XII, §12202, Mar. 30, 2009, 123 Stat. 1421; Pub. L. 117–263, div. J, title CIII, §10307(a), (b)(1)(A), Dec. 23, 2022, 136 Stat. 3974, 3975.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 5405 of the National Ocean Exploration Act, referred to in subsec. (b)(11)(B), probably means section 10304 of Pub. L. 117–263, which established the National Ocean Mapping, Exploration, and Characterization Council and is classified to section 3408 of this title. Prior versions of the bill that was enacted into law as title CIII of div. J of Pub. L. 117–263 included such Short Title, but it was not enacted as part of Pub. L. 117–263. Pub. L. 117–263 does not contain a section 5405.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §10307(b)(1)(A)(i), substituted "Interagency Working Group on Ocean and Coastal Mapping under section 3502 of this title" for "Interagency Committee on Ocean and Coastal Mapping" in introductory provisions.
+
+Pub. L. 117–263, §10307(a)(1), substituted "establish and maintain a program to coordinate" for "establish a program to develop a coordinated and", "efforts" for "plan", and "that—" for "that enhances ecosystem approaches in decision-making for conservation and management of marine resources and habitats, establishes research and mapping priorities, supports the siting of research and other platforms, and advances ocean and coastal science." and added pars. (1) to (4).
+
+Subsec. (b). Pub. L. 117–263, §10307(a)(3)(A), (b)(1)(A)(ii), substituted "maintaining" for "developing" and "Working Group" for "Committee" in introductory provisions.
+
+Pub. L. 117–263, §10307(a)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department of the Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping."
+
+Subsec. (b)(2). Pub. L. 117–263, §10307(a)(3)(B), inserted "and for leveraging existing Federal geospatial services capacities and contract vehicles for efficiencies" after "coastal mapping".
+
+Subsec. (b)(7). Pub. L. 117–263, §10307(a)(3)(C), substituted "with mapping programs, in conjunction with Federal and State agencies, Tribal governments, private industry, academia, and nongovernmental organizations" for "with coastal state and local government programs".
+
+Subsec. (b)(8). Pub. L. 117–263, §10307(a)(3)(D), substituted "of tide data and water-level data and the development and dissemination" for "of real-time tide data and the development".
+
+Subsec. (b)(11). Pub. L. 117–263, §10307(a)(3)(E)–(G), added par. (11).
+
+Subsec. (c). Pub. L. 117–263, §10307(a)(2), redesignated subsec. (c) as (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -58,7 +94,7 @@ The Nation is poised to harness cutting-edge science, new technologies, and part
 
 Maps and charts that present accurate and contemporary coastal elevation data support economic growth, resource management, and the safety and security of coastal residents. Completed mapping is especially lacking for Alaska and for the Alaskan Arctic, which lack the comprehensive shoreline and nearshore maps available for much of the rest of the Nation.
 
-To improve our Nation's understanding of our vast ocean resources and to advance the economic, security, and environmental interests of the United States, it is the policy of the United States to support the conservation, management, and balanced use of America's oceans by exploring, mapping, and characterizing the U.S. EEZ, including mapping the Arctic and Sub-Arctic shoreline and nearshore of Alaska. Further, to ensure that these activities produce the broadest possible benefits and provide the greatest return on investment of Federal resources, it is the policy of the United States to support these activities, when appropriate, in collaboration with non-United States Government entities.
+To improve our Nation's understanding of our vast ocean resources and to advance the economic, security,and environmental interests of the United States, it is the policy of the United States to support the conservation, management, and balanced use of America's oceans by exploring, mapping, and characterizing the U.S. EEZ, including mapping the Arctic and Sub-Arctic shoreline and nearshore of Alaska. Further, to ensure that these activities produce the broadest possible benefits and provide the greatest return on investment of Federal resources, it is the policy of the United States to support these activities, when appropriate, in collaboration with non-United States Government entities.
 
 Sec. 2. <i>National Strategy for Mapping, Exploring, and Characterizing the U.S. EEZ</i>. Mapping, exploring, and characterizing the U.S. EEZ is necessary for a systematic and efficient approach to understanding our resources. Mapping will reveal the terrain of the ocean floor and identify areas of particular interest; exploration and characterization will identify and evaluate natural and cultural resources within these areas. This knowledge will inform conservation, management, and balanced use of the U.S. EEZ.
 
@@ -81,4 +117,6 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this memorandum shall be const
 (d) The Secretary of Commerce is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

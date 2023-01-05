@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of anindividual unless the taxpayer includes the name and taxpayer identification number of such individual on the return of tax for the taxable year.
+&emsp;&emsp;No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of an individual unless the taxpayer includes the name and taxpayer identification number of such individual on the return of tax for the taxable year.
 
 #### (B) Additional identification requirements with respect to American Opportunity Tax Credit
 
@@ -206,13 +206,13 @@ For purposes of this section—
 
 #### (i) Portion of American Opportunity Tax Credit made refundable
 
-Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph <sup>2</sup> and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
+Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph <sup>2</sup> and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer isa child to whom subsection (g) of section 1 applies for such taxable year.
 
 #### (j) Regulations
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(l)(1)–(9), (11)–(14), title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1162–1165, 1201; Pub. L. 116–260, div. EE, title I, §104(a), Dec. 27, 2020, 134 Stat. 3040.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(l)(1)–(9), (11)–(14), title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1162–1165, 1201; Pub. L. 116–260, div. EE, title I, §104(a), Dec. 27, 2020, 134 Stat. 3040.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -294,7 +294,7 @@ Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. 
 
 "(1)
 
-In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
+In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to thequalified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
 
 "(2)
 
@@ -304,7 +304,7 @@ Coordination with exclusions.—An election under this subsection shall not take
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §104(c), Dec. 27, 2020, 134 Stat. 3041, provided that: "The amendments made by this section \[amending this section and sections 62, 74, 86, 135, 137, 219, 221, and 469 of this title and repealingsection 222 of this title\] shall apply to taxable years beginning after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §104(c), Dec. 27, 2020, 134 Stat. 3041, provided that: "The amendments made by this section \[amending this section and sections 62, 74, 86, 135, 137, 219, 221, and 469 of this title and repealing section 222 of this title\] shall apply to taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2018 Amendment
 
@@ -386,11 +386,11 @@ Payments to possessions.—
 
 &emsp;"(A)
 
-Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) \[now 25A(i)\] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) \[now 25A(i)\] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008.Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
 &emsp;"(B)
 
-Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) \[now 25A(i)\] of such Code (as so added) for taxable years beginning after 2008 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession willpromptly distribute such payments to the residents of such possession.
+Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) \[now 25A(i)\] of such Code (as so added) for taxable years beginning after 2008 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
 "(2)
 

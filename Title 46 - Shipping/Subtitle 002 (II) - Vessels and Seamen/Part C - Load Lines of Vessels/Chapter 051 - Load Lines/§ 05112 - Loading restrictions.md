@@ -1,6 +1,6 @@
 ### §5112. Loading restrictions
 
-(a) A vessel may not be loaded in a way that submerges the assigned load line or the place at which the load line is required to be marked on the vessel.
+(a) A vessel may not be loaded in a way that submerges the assigned load line or the place atwhich the load line is required to be marked on the vessel.
 
 (b) If the loading or stability conditions of a vessel change, the master or individual in charge of the vessel, before moving the vessel, shall record in the official logbook or other permanent record of the vessel—
 

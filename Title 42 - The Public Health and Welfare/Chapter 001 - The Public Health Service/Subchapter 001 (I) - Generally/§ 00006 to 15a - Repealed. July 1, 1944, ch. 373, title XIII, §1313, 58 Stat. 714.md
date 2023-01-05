@@ -22,9 +22,9 @@ Section 11a, act Apr. 9, 1930, ch. 125, §10(b), 46 Stat. 152, provided for pay 
 
 Section 11b, act Aug. 9, 1939, ch. 606, 53 Stat. 1266, provided for rank and pay of Assistant to Surgeon General. See sections 206 and 207 of this title.
 
-Section 12, acts Jan. 4, 1889, ch. 19, §1, 25 Stat. 639; July 1, 1902, ch. 1370, §1, 32 Stat. 712; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309, provided for appointment of medical officers after examination. See section 209 of this title.
+Section 12, acts Jan. 4, 1889, ch. 19, §1, 25 Stat. 639; July 1, 1902, ch. 1370, §1, 32 Stat. 712; Aug. 14, 1912, ch.288, §1, 37 Stat. 309, provided for appointment of medical officers after examination. See section 209 of this title.
 
-Section 13, act Jan. 4, 1889, ch. 19, §2, 25 Stat. 639, provided for original appointments as assistant surgeonsand promotion of passed assistant surgeon. See sections 209 and 211 of this title.
+Section 13, act Jan. 4, 1889, ch. 19, §2, 25 Stat. 639, provided for original appointments as assistant surgeons and promotion of passed assistant surgeon. See sections 209 and 211 of this title.
 
 Section 14, act Aug. 14, 1912, ch. 288, §2, 37 Stat. 309, provided for help as provided by Congress. See section 209 of this title.
 

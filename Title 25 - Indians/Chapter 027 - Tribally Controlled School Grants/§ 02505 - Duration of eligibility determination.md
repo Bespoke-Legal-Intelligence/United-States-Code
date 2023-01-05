@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If the Secretary determines that a tribally controlled school is eligible for assistance underthis chapter, the eligibility determination shall remain in effect until the determination is revoked by the Secretary, and the requirements of subsection (b) or (c) of section 2504 of this title, if applicable, shall be considered to have been met with respect to such school until the eligibility determination is revoked by the Secretary.
+If the Secretary determines that a tribally controlled school is eligible for assistance under this chapter, the eligibility determination shall remain in effect until the determination is revoked by the Secretary, and the requirements of subsection (b) or (c) of section 2504 of this title, if applicable, shall be considered to have been met with respect to such school until the eligibility determination is revoked by the Secretary.
 
 #### (b) Annual reports
 
@@ -62,7 +62,7 @@ If the Secretary determines that a tribally controlled school is eligible for as
 
 #### (2) Notice requirements for revocation
 
-&emsp;The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter, or reassume control of aschool that was a Bureau school prior to approval of an application submitted under section 2505(b)(1)(A) <sup>2</sup> of this title until the Secretary—
+&emsp;The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter, or reassume control of a school that was a Bureau school prior to approval of an application submitted under section 2505(b)(1)(A) <sup>2</sup> of this title until the Secretary—
 
 &emsp;&emsp;(A) provides notice to the tribally controlled school and the tribal governing body (within the meaning of section 2021 of this title) of the tribally controlled school which states—
 

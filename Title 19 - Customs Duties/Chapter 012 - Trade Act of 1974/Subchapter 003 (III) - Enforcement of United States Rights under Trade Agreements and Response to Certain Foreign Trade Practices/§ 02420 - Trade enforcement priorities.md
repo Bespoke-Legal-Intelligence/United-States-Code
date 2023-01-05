@@ -56,7 +56,7 @@
 
 #### (3) Active investigations
 
-&emsp;The semiannual enforcement consultations required by paragraph (1) shall address acts,policies, or practices that the Trade Representative is actively investigating with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, including—
+&emsp;The semiannual enforcement consultations required by paragraph (1) shall address acts, policies, or practices that the Trade Representative is actively investigating with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, including—
 
 &emsp;&emsp;(A) strategies for addressing concerns raised by such acts, policies, or practices;
 
@@ -192,7 +192,7 @@ Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the su
 
 Sec. 2. <i>Resolution</i>. Upon submission of the report required by paragraph (a) of section 1 of this part, the Trade Representative shall, with respect to any priority foreign country practice identified therein, engage the country concerned for the purpose of seeking a satisfactory resolution, for example, by obtaining compliance with a trade agreement or the elimination of the practice as quickly as possible, or, if this is not feasible, by providing for compensatory trade benefits.
 
-Sec. 3. <i>Initiation of Investigations</i>. Within 90 days of the submission of the report required by paragraph (a) of section 1 of this part, the Trade Representative shallinitiate under section 302(b)(1) of the Act (19 U.S.C. 2412(b)(1)) investigations with respect to all of the priority foreign country practices identified, unless during the 90-day period the Trade Representative determines that a satisfactory resolution of the matter to be investigated has been achieved.
+Sec. 3. <i>Initiation of Investigations</i>. Within 90 days of the submission of the report required by paragraph (a) of section 1 of this part, the Trade Representative shall initiate under section 302(b)(1) of the Act (19 U.S.C. 2412(b)(1)) investigations with respect to all of the priority foreign country practices identified, unless during the 90-day period the Trade Representative determines that a satisfactory resolution of the matter to be investigated has been achieved.
 
 #### Part II: Identification of Discriminatory Government Procurement Practices
 
@@ -206,7 +206,7 @@ Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the su
 
 Sec. 2. <i>Considerations in Making Identifications</i>. In making the identifications required by section 1 of this part, the Trade Representative shall: (a) consider the requirements of the GPA, NAFTA, or other procurement agreements, government procurement practices, and the effects of such practices on U.S. businesses as a basis for evaluating whether the procurement practices of foreign governments do not provide fair market opportunities for U.S. products or services;
 
-(b) take into account, among other factors, whether and to what extent countries that are parties to the GPA, NAFTA, or other procurement agreements, and other countries described in section 1 of this part:
+(b) take into account, among other factors, whether and to what extent countries that are parties to theGPA, NAFTA, or other procurement agreements, and other countries described in section 1 of this part:
 
 &emsp;(1) use sole-sourcing or otherwise noncompetitive procedures for procurement that could have been conducted using competitive procedures;
 

@@ -8,6 +8,34 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 117–351, §1, Jan. 5, 2023, 136 Stat. 6265, provided that: "This Act \[amending section 2441 of this title\] may be cited as the 'Justice for Victims of War Crimes Act'."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–328, div. O, title VIII, §801(a), Dec. 29, 2022, 136 Stat. 5232, provided that: "This section \[enacting provisions set out as notes under section 3551 of this title\] may be cited as the 'United States Parole Commission Additional Extension Act of 2022'."
+
+Pub. L. 117–272, §1, Dec. 27, 2022, 136 Stat. 4181, provided that: "This Act \[amending section 879 of this title\] may be cited as the '21st Century President Act'."
+
+Pub. L. 117–264, div. B, title I, §103(a), Dec. 23, 2022, 136 Stat. 4168, provided that: This section \[enacting provisions set out as notes under section 3551 of this title\] may be cited as the 'United States Parole Commission Further Additional Extension Act of 2022'."
+
+Pub. L. 117–229, div. B, title I, §103(a), Dec. 16, 2022, 136 Stat. 2309, which provided that section 103 of Pub. L. 117–229 could be cited as the "United States Parole Commission Further Extension Act of 2022", was rendered ineffective by Pub. L. 117–264, div. B, title I, §103(d), Dec. 23, 2022, 136 Stat. 4168, set out as a note under section 3551 of this title.
+
+Pub. L. 117–180, div. C, title I, §103(a), Sept. 30, 2022, 136 Stat. 2133, provided that: "This section \[enacting provisions set out as a note under section 3551 of this title\] may be cited as the 'United States Parole Commission Extension Act of 2022'."
+
+Pub. L. 117–176, §1, Sept. 16, 2022, 136 Stat. 2108, provided that: "This Act \[amending section 2255 of this title and enacting provisions set out as a note under section 2255 of this title\] may be cited as the 'Eliminating Limits to Justice for Child Sex Abuse Victims Act of 2022'."
+
+Pub. L. 117–159, §3(a), June 25, 2022, 136 Stat. 1313, provided that: "This Act \[see Tables for classification\] may be cited as the 'Bipartisan Safer Communities Act'."
+
+Pub. L. 117–107, §1, Mar. 29, 2022, 136 Stat. 1125, provided that: "This Act \[amending section 249 of this title\] may be cited as the 'Emmett Till Antilynching Act'."
+
+Pub. L. 117–103, div. W, title X, §1001(a), Mar. 15, 2022, 136 Stat. 912, provided that: "This section \[enacting section 4051 of this title, amending section 3621 of this title, and enacting provisions set out as a note under section 3621 of this title\] may be cited as the 'Ramona Brant Improvement of Conditions for Women in Federal Custody Act'."
+
+Pub. L. 117–103, div. W, title XI, §1101(a), Mar. 15, 2022, 136 Stat. 919, provided that: "This section \[enacting section 925B of this title and amending section 921 of this title\] may be cited as the 'NICS Denial Notification Act of 2022'."
+
+Pub. L. 117–103, div. W, title XII, §1201, Mar. 15, 2022, 136 Stat. 923, provided that: "This title \[enacting section 250 of this title and section 60106 of Title 34, Crime Control and Law Enforcement, amending sections 2242 to 2244 and 2246 of this title, and enacting provisions set out as notes under section 60106 of Title 34\] may be cited as the 'Closing the Law Enforcement Consent Loophole Act of 2022'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–59, §1, Nov. 18, 2021, 135 Stat. 1468, provided that: "This Act \[amending sections 111, 115, and 1114 of this title and enacting provisions set out as a note under section 1114 of this title\] may be cited as the 'Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act'."
@@ -18,7 +46,7 @@ Pub. L. 116–309, §1, Jan. 5, 2021, 134 Stat. 4922, provided that: "This Act \
 
 Pub. L. 116–260, div. O, title X, §1001, Dec. 27, 2020, 134 Stat. 2155, provided that: "This title \[repealing chapter 89 and sections 46, 511A, 707, 708, 711, 711a, 715, and 1921 of this title\] may be cited as the 'Clean Up the Code Act of 2019'."
 
-Pub. L. 116–249, §1, Dec. 22, 2020, 134 Stat. 1126, provided that: "This Act \[enacting section 2261B of this title and amending section 2261A of this title\] may be cited as the 'Combat Online Predators Act'."
+Pub. L. 116–249, §1, Dec. 22, 2020, 134 Stat. 1126, provided that: "This Act \[enacting section 2261B of thistitle and amending section 2261A of this title\] may be cited as the 'Combat Online Predators Act'."
 
 Pub. L. 116–179, §1, Oct. 20, 2020, 134 Stat. 855, provided that: "This Act \[amending section 1030 of this title\] may be cited as the 'Defending the Integrity of Voting Systems Act'."
 
@@ -46,7 +74,7 @@ Pub. L. 115–271, title VIII, §8121, Oct. 24, 2018, 132 Stat. 4108, provided t
 
 Pub. L. 115–253, §1, Oct. 3, 2018, 132 Stat. 3183, provided that: "This Act \[amending sections 2331, 2333 and 2334 of this title and enacting provisions set out as notes under sections 2331, 2332 and 2334 of this title\] may be cited as the 'Anti-Terrorism Clarification Act of 2018'."
 
-Pub. L. 115–249, §1, Sept. 28, 2018, 132 Stat. 3162, provided that: "This Act \[amending section 247 of thistitle\] may be cited as the 'Protecting Religiously Affiliated Institutions Act of 2018'."
+Pub. L. 115–249, §1, Sept. 28, 2018, 132 Stat. 3162, provided that: "This Act \[amending section 247 of this title\] may be cited as the 'Protecting Religiously Affiliated Institutions Act of 2018'."
 
 Pub. L. 115–164, §1, Apr. 11, 2018, 132 Stat. 1253, provided that: "This Act \[enacting section 2421A of this title, amending sections 1591 and 1595 of this title and section 230 of Title 47, Telecommunications, and enacting provisions set out as notes under section 230 of Title 47\] may be cited as the 'Allow States and Victims to Fight Online Sex Trafficking Act of 2017'."
 
@@ -114,7 +142,7 @@ Pub. L. 111–272, §1, Oct. 12, 2010, 124 Stat. 2855, provided that: "This Act 
 
 Pub. L. 111–225, §1, Aug. 10, 2010, 124 Stat. 2387, provided that: "This Act \[amending section 1791 of this title\] may be cited as the 'Cell Phone Contraband Act of 2010'."
 
-Pub. L. 111–174, §1, May 27, 2010, 124 Stat. 1216, provided that: "This Act \[enacting section 114 of Title 28, Judiciary and Judicial Procedure, amending sections2519, 3006A, 3154, and 3553 of this title and section 631 of Title 28, and repealing section 114 of Title 28\] may be cited as the 'Federal Judiciary Administrative Improvements Act of 2010'."
+Pub. L. 111–174, §1, May 27, 2010, 124 Stat. 1216, provided that: "This Act \[enacting section 114 of Title 28, Judiciary and Judicial Procedure, amending sections 2519, 3006A, 3154, and 3553 of this title and section 631 of Title 28, and repealing section 114 of Title 28\] may be cited as the 'Federal Judiciary Administrative Improvements Act of 2010'."
 
 #### Short Title of 2009 Amendment
 
@@ -148,7 +176,7 @@ Pub. L. 110–22, §1, May 3, 2007, 121 Stat. 88, provided that: "This Act \[ena
 
 Pub. L. 109–481, §1, Jan. 12, 2007, 120 Stat. 3673, provided that: "This Act \[enacting section 706a of this title\] may be cited as the 'Geneva Distinctive Emblems Protection Act of 2006'."
 
-Pub. L. 109–476, §1, Jan. 12, 2007, 120 Stat. 3568, provided that: "This Act \[enacting section 1039 of this title and provisions set out as a note under section 1039 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Telephone Records and Privacy Protection Act of 2006'."
+Pub. L. 109–476, §1, Jan. 12, 2007, 120 Stat. 3568, provided that: "This Act \[enacting section 1039 of this titleand provisions set out as a note under section 1039 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Telephone Records and Privacy Protection Act of 2006'."
 
 #### Short Title of 2006 Amendment
 
@@ -174,7 +202,7 @@ Pub. L. 109–177, title VI, §601, Mar. 9, 2006, 120 Stat. 251, provided that: 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6701, Dec. 17, 2004, 118 Stat. 3764, provided that: "This subtitle \[subtitle H (§§6701–6704) of title VI of Pub. L. 108–458, enacting section 1038 of this title, amending sections 1001, 1505, and1958 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Stop Terrorist and Military Hoaxes Act of 2004'."
+Pub. L. 108–458, title VI, §6701, Dec. 17, 2004, 118 Stat. 3764, provided that: "This subtitle \[subtitle H (§§6701–6704) of title VI of Pub. L. 108–458, enacting section 1038 of this title, amending sections 1001, 1505, and 1958 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Stop Terrorist and Military Hoaxes Act of 2004'."
 
 Pub. L. 108–458, title VI, §6801, Dec. 17, 2004, 118 Stat. 3766, provided that: "This subtitle \[subtitle I (§§6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a, and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title\] may be cited as the 'Weapons of Mass Destruction Prohibition Improvement Act of 2004'."
 
@@ -218,7 +246,7 @@ Pub. L. 100–690, title VII, §7011, Nov. 18, 1988, 102 Stat. 4395, provided th
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–185, §1, Dec. 11, 1987, 101 Stat. 1279, provided that: "This Act \[enacting section 19 of this title, amending sections 18, 3013, 3559, 3571, 3572, 3573, 3611, 3612, and 3663 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under section 3611 of this title\] may be cited as the 'Criminal Fine Improvements Act of 1987'."
+Pub. L. 100–185, §1, Dec. 11, 1987, 101 Stat. 1279, provided that: "This Act \[enacting section 19 of this title,amending sections 18, 3013, 3559, 3571, 3572, 3573, 3611, 3612, and 3663 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under section 3611 of this title\] may be cited as the 'Criminal Fine Improvements Act of 1987'."
 
 #### Short Title of 1986 Amendment
 
@@ -227,6 +255,10 @@ Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: "This Act \
 #### Short Title of 1984 Amendment
 
 Pub. L. 98–473, title II, §200, Oct. 12, 1984, 98 Stat. 1976, provided that: "This title \[see Tables for classification\] may be cited as the 'Comprehensive Crime Control Act of 1984'."
+
+#### Short Title of 1974 Amendment
+
+Pub. L. 93–412, §1, Sept. 3, 1974, 88 Stat. 1089, provided: "That this Act \[amending section 3006A of this title and enacting provisions set out as a note under section 3006A of this title\] may be cited as the 'District of Columbia Criminal Justice Act'."
 
 #### Severability
 

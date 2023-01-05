@@ -18,7 +18,7 @@ For the purposes of this section only, the following terms in this section are d
 
 #### (4) Medical intervention
 
-&emsp;Medical intervention is the process by which a physician provides medical diagnosis and direction for medical and/or surgical treatmentoptions of hearing loss and/or related medical disorder associated with hearing loss.
+&emsp;Medical intervention is the process by which a physician provides medical diagnosis and direction for medical and/or surgical treatment options of hearing loss and/or related medical disorder associated with hearing loss.
 
 #### (5) Audiologic rehabilitation
 
@@ -34,7 +34,7 @@ The purposes of this section are to clarify the authority within the Public Heal
 
 &emsp;(1) All babies born in hospitals in the United States and its territories should have a hearing screening before leaving the birthing facility. Babies born in other countries and residing in the United States via immigration or adoption should have a hearing screening as early as possible.
 
-&emsp;(2) All babies who are not born in hospitals in the United States and its territories should have a hearing screening within the first 3 months of life.
+&emsp;(2) All babies who are not born in hospitals in the United States and its territories shouldhave a hearing screening within the first 3 months of life.
 
 &emsp;(3) Appropriate audiologic and medical evaluations should be conducted by 3 months for all newborns and infants suspected of having hearing loss to allow appropriate referral and provisions for audiologic rehabilitation, medical and early intervention before the age of 6 months.
 
@@ -76,7 +76,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (1) In general
 
-&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], in carrying out programs under this section, the Administrator of the Health Resources and Services Administration, the Director of the Centers for Disease Control and Prevention, and the Director of the National Institutes of Health shall collaborate and consult with other Federal agencies; State and local agencies, including those responsible for early intervention services pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (Medicaid Early and Periodic Screening, Diagnosis and Treatment Program); title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\], (State Children's Health Insurance Program); title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (Maternal and Child Health Block Grant Program); and part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; consumer groups of and that serve individuals who are deaf and hard-of-hearing and their families; appropriate national medical and other health and education specialty organizations; persons who are deaf and hard-of-hearing and their families; other qualified professional personnel who are proficient in deaf or hard-of-hearing children's language and who possess the specialized knowledge, skills, and attributes needed to serve deaf and hard-of-hearing newborns, infants, toddlers, children, and their families; third-party payers and managed care organizations; and related commercial industries.
+&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], in carrying out programs under this section, the Administrator of the Health Resources and Services Administration, the Director of the Centers for Disease Control and Prevention, and the Director of the National Institutes of Health shall collaborate and consult with other Federal agencies; State and local agencies, including those responsible for early intervention services pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (Medicaid Early and Periodic Screening, Diagnosis and Treatment Program); title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\], (State Children's Health Insurance Program); title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (Maternal and Child Health Block Grant Program); and part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; consumer groups of and that serve individuals who are deaf and hard-of-hearing and their families; appropriate national medical and other health and educationspecialty organizations; persons who are deaf and hard-of-hearing and their families; other qualified professional personnel who are proficient in deaf or hard-of-hearing children's language and who possess the specialized knowledge, skills, and attributes needed to serve deaf and hard-of-hearing newborns, infants, toddlers, children, and their families; third-party payers and managed care organizations; and related commercial industries.
 
 #### (2) Policy development
 
@@ -110,11 +110,11 @@ Nothing in this section shall be construed to preempt any State law.
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsecs. (b) to (e) and (g), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsecs. (b) to (e) and (g), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1) and (e)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1) and (e)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

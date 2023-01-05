@@ -34,7 +34,7 @@ The program developed under subsection (a) shall—
 
 #### (2) Implementation
 
-&emsp;Whenever the Task Force determines that there is a substantial risk of unintentional introduction of an aquatic nuisance species by an identified pathway and that the adverse consequences of such an introduction are likely to be substantial, the Task Force shall, acting through the appropriate Federal agency, and after an opportunity for public comment, carry out cooperative, environmentally sound efforts with regional, State and local entities to minimize the risk of such an introduction.
+&emsp;Whenever the Task Force determines that there is a substantial risk of unintentional introduction of an aquatic nuisance species by an identified pathway and that the adverse consequences of such an introduction are likely to be substantial, the Task Force shall, acting through the appropriate Federal agency, and after an opportunity for public comment,carry out cooperative, environmentally sound efforts with regional, State and local entities to minimize the risk of such an introduction.
 
 #### (d) Monitoring
 
@@ -60,6 +60,24 @@ The Task Force shall establish and implement monitoring measures, within the pro
 
 &emsp;If the Task Force determines in accordance with paragraph (2) that control of an aquatic nuisance species is warranted, the Task Force shall develop a proposed control program to achieve the target level of control. A notice summarizing the proposed action and soliciting comments shall be published in the Federal Register, in major newspapers in the region affected, and in principal trade publications of the industries affected. Within 180 days of proposing a control program, and after consultation with affected governmental and other appropriate entities and taking into consideration other comments received, the Task Force shall complete development of the proposed control program.
 
+#### (4) Technical assistance and recommendations
+
+&emsp;The Task Force may provide technical assistance and recommendations for best practices to an agency or entity engaged in vessel inspections or decontaminations for the purpose of—
+
+&emsp;&emsp;(A) effectively managing and controlling the movement of aquatic nuisance species into, within, or out of water of the United States; and
+
+&emsp;&emsp;(B) inspecting recreational vessels in a manner that minimizes disruptions to public access for boating and recreation in non-contaminated vessels.
+
+#### (5) Consultation and input
+
+&emsp;In carrying out paragraph (4), including the development of recommendations, the Task Force may consult with Indian Tribes and solicit input from—
+
+&emsp;&emsp;(A) State and Tribal fish and wildlife management agencies;
+
+&emsp;&emsp;(B) other State and Tribal agencies that manage fishery resources of the State or sustain fishery habitat; and
+
+&emsp;&emsp;(C) relevant nongovernmental entities.
+
 #### (f) Research
 
 #### (1) Priorities
@@ -84,11 +102,11 @@ The Task Force shall establish and implement monitoring measures, within the pro
 
 #### (g) Technical assistance
 
-The Task Force shall, within the program developed under subsection (a), provide technical assistance to State and local governments and persons to minimize the environmental, public health, and safety risks associated with aquatic nuisance species, including an early warning system for advance notice of possible infestations and appropriate responses.
+The Task Force shall, within the program developed under subsection (a), provide technicalassistance to State and local governments and persons to minimize the environmental, public health, and safety risks associated with aquatic nuisance species, including an early warning system for advance notice of possible infestations and appropriate responses.
 
 #### (h) Education
 
-The Task Force shall, with the program developed under subsection (a), establish and implement educational programs through Sea Grant Marine Advisory Services and any other available resources that it determines to be appropriate to inform the general public, State governments, governments of political subdivisionsof States, and industrial and recreational users of aquatic resources in connection with matters concerning the identification of aquatic nuisance species, and control methods for such species, including the prevention of the further distribution of such species.
+The Task Force shall, with the program developed under subsection (a), establish and implement educational programs through Sea Grant Marine Advisory Services and any other available resources that it determines to be appropriate to inform the general public, State governments, governments of political subdivisions of States, and industrial and recreational users of aquatic resources in connection with matters concerning the identification of aquatic nuisance species, and control methods for such species, including the prevention of the further distribution of such species.
 
 #### (i) Zebra mussel demonstration program
 
@@ -162,7 +180,7 @@ The Task Force shall, with the program developed under subsection (a), establish
 
 #### (2) Participation of others
 
-&emsp;The Task Force shall provide opportunities for affected Federal agencies which are notpart of the Task Force, State and local government agencies, and regional and other entities with the necessary expertise to participate in control programs. If these other agencies or entities have sufficient authority or jurisdiction and expertise and where this will be more efficient or effective, responsibility for implementing all or a portion of a control program may be delegated to such agencies or entities.
+&emsp;The Task Force shall provide opportunities for affected Federal agencies which are not part of the Task Force, State and local government agencies, and regional and other entities with the necessary expertise to participate in control programs. If these other agencies or entities have sufficient authority or jurisdiction and expertise and where this will be more efficient or effective, responsibility for implementing all or a portion of a control program may be delegated to such agencies or entities.
 
 #### (k) Reports
 
@@ -170,7 +188,9 @@ The Task Force shall, with the program developed under subsection (a), establish
 
 (2) On an annual basis after the submission of the report under paragraph (1), the Task Force shall submit a report to the Congress detailing progress in carrying out this section.
 
-(Pub. L. 101–646, title I, §1202, Nov. 29, 1990, 104 Stat. 4766; Pub. L. 104–332, §2(e)(3), (4), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4085, 4087, 4091; Pub. L. 109–234, title II, §2309, June 15, 2006, 120 Stat. 457.)
+(3) Not later than 90 days after December 23, 2022, the Task Force shall submit a report to Congress recommending legislative, programmatic, or regulatory changes to eliminate remaining gaps in authorities between members of the Task Force to effectively manage and control the movement of aquatic nuisance species.
+
+(Pub. L. 101–646, title I, §1202, Nov. 29, 1990, 104 Stat. 4766; Pub. L. 104–332, §2(e)(3), (4), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4085, 4087, 4091; Pub. L. 109–234, title II, §2309, June 15, 2006, 120 Stat. 457; Pub. L. 117–263, div. K, title CXIII, §11327(d), Dec. 23, 2022, 136 Stat. 4097.)
 
 #### <b>Editorial Notes</b>
 
@@ -179,6 +199,10 @@ The Task Force shall, with the program developed under subsection (a), establish
 This chapter, referred to in subsecs. (e)(1) and (f)(3), was in the original "this Act", which, to reflect the probable intent of Congress, was translated as reading "this title" meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(4), (5). Pub. L. 117–263, §11327(d)(1), added pars. (4) and (5).
+
+Subsec. (k)(3). Pub. L. 117–263, §11327(d)(2), added par. (3).
 
 <b>2006</b>—Subsec. (i)(3)(C). Pub. L. 109–234 substituted "such sums as are necessary to carry out the dispersal barrier demonstration project directed by this paragraph" for ", to carry out this paragraph, $750,000".
 

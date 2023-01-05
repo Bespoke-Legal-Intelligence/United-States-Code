@@ -20,7 +20,7 @@ For the purpose of this Act—
 
 (4) The term "special packaging" means packaging that is designed or constructed to be significantly difficult for children under five years of age to open or obtain a toxic or harmful amount of the substance contained therein within a reasonable time and not difficult for normal adults to use properly, but does not mean packaging which all such children cannot open or obtain a toxic or harmful amount within a reasonable time.
 
-(5) The term "labeling" means all labels and other written, printed, or graphic matter (A)upon any household substance or its package, or (B) accompanying such substance.
+(5) The term "labeling" means all labels and other written, printed, or graphic matter (A) upon any household substance or its package, or (B) accompanying such substance.
 
 (Pub. L. 91–601, §2, Dec. 30, 1970, 84 Stat. 1670; Pub. L. 92–516, §3(2), Oct. 21, 1972, 86 Stat. 998; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §3(a), May 11, 1976, 90 Stat. 503.)
 

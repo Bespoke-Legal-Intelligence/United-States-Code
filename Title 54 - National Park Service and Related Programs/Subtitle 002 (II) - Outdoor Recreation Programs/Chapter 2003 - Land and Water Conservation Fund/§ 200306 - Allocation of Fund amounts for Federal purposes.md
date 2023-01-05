@@ -6,7 +6,7 @@ Allowable Purposes and Subpurposes.—
 
 &emsp;(1)
 
-In general.—Amounts appropriated from the Fund for Federal purposes shall, unless otherwise allotted in the appropriation Act making them available, be allotted by thePresident for the purposes and subpurposes stated in this subsection.
+In general.—Amounts appropriated from the Fund for Federal purposes shall, unless otherwise allotted in the appropriation Act making them available, be allotted by the President for the purposes and subpurposes stated in this subsection.
 
 &emsp;(2)
 

@@ -14,7 +14,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;&emsp;(A) Loans to members shall be made in conformity with criteria established by the board of directors: <i>Provided</i>, That—
 
-&emsp;&emsp;&emsp;(i) a residential real estate loan on a one-to-four-family dwelling, including an individual cooperative unit, that is or will be the principal residence of a credit union member, and which is secured by a first lien upon such dwelling, may have a maturity not exceeding thirty years or such other limits as shall be set by the National Credit Union Administration Board (except that a loan on an individual cooperative unit shall be adequately secured as defined by the Board), subject to the rules and regulations of the Board;
+&emsp;&emsp;&emsp;(i) a residential real estate loan on a one-to-four-family dwelling, including an individual cooperative unit, that is or will be the principal residence of a credit union member, and which is secured by a firstlien upon such dwelling, may have a maturity not exceeding thirty years or such other limits as shall be set by the National Credit Union Administration Board (except that a loan on an individual cooperative unit shall be adequately secured as defined by the Board), subject to the rules and regulations of the Board;
 
 &emsp;&emsp;&emsp;(ii) a loan to finance the purchase of a mobile home, which shall be secured by a first lien on such mobile home, to be used by the credit union member as his residence, a loan for the repair, alteration, or improvement of a residential dwelling which is the residence of a credit union member, or a second mortgage loan secured by a residential dwelling which is the residence of a credit union member, shall have a maturity not to exceed 15 years or any longer term which the Board may allow;
 
@@ -202,7 +202,7 @@ Par. (14). Pub. L. 95–22, §303(e), added par. (14).
 
 <b>1974</b>—Par. (5). Pub. L. 93–569 inserted "except that loans made in accordance with section 1703(b) of this title and section 1819 of title 38, may be for the maturities specified therein," after "ten years".
 
-Par. (6). Pub. L. 93–383, §721(a), substituted provisions relating to approval of loans by the board of directorsfor provisions requiring annual reports to the Administrator with respect to loans and setting forth conditions for the making of loans.
+Par. (6). Pub. L. 93–383, §721(a), substituted provisions relating to approval of loans by the board of directors for provisions requiring annual reports to the Administrator with respect to loans and setting forth conditions for the making of loans.
 
 Par. (7). Pub. L. 93–495 inserted provisions relating to receipt of payments of shares, etc., from officers, employees, or agents of nonmember units of Federal, State, or local governments and political subdivisions enumerated in section 1787 of this title.
 

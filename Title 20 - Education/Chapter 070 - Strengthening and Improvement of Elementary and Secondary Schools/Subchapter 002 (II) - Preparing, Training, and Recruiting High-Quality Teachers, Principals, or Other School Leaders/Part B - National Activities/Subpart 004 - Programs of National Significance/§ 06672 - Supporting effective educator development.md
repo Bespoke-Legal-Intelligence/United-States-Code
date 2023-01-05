@@ -40,7 +40,7 @@ From the funds reserved by the Secretary under section 6671(1) of this title for
 
 #### (2) Acceptable contributions
 
-&emsp;An eligible entity that receives a grant under this section may meet the requirementof paragraph (1) by providing contributions in cash or in kind, fairly evaluated, including plant, equipment, and services.
+&emsp;An eligible entity that receives a grant under this section may meet the requirement of paragraph (1) by providing contributions in cash or in kind, fairly evaluated, including plant, equipment, and services.
 
 #### (3) Waivers
 
@@ -60,7 +60,7 @@ In this section, the term "eligible entity" means—
 
 &emsp;(1) an institution of higher education that provides course materials or resources that are evidence-based in increasing academic achievement, graduation rates, or rates of postsecondary education matriculation;
 
-&emsp;(2) a national nonprofit entity with a demonstrated record of raising student academic achievement, graduation rates, and rates of higher education attendance, matriculation, or completion, or of effectiveness in providing preparation and professional development activities and programs for teachers, principals, or other school leaders;
+&emsp;(2) a national nonprofit entity with a demonstrated record of raising student academicachievement, graduation rates, and rates of higher education attendance, matriculation, or completion, or of effectiveness in providing preparation and professional development activities and programs for teachers, principals, or other school leaders;
 
 &emsp;(3) the Bureau of Indian Education; or
 

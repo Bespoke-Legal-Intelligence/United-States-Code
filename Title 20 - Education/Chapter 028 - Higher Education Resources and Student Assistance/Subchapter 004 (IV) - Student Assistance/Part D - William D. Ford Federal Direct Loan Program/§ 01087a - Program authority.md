@@ -14,11 +14,11 @@ There are hereby made available, in accordance with the provisions of this part,
 
 &emsp;Notwithstanding any other provision of this part, loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under section 1078 of this title, shall be known as "Federal Direct Stafford/Ford Loans".
 
-(Pub. L. 89–329, title IV, §451, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437;amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 103–382, title III, §358A, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 110–227, §7(a), May 7, 2008, 122 Stat. 746; Pub. L. 116–260, div. FF, title VII, §702(a)(2), Dec. 27, 2020, 134 Stat. 3138.)
+(Pub. L. 89–329, title IV, §451, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 103–382, title III, §358A, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 110–227, §7(a), May 7, 2008, 122 Stat. 746; Pub. L. 116–260, div. FF, title VII, §702(a)(2), Dec. 27, 2020, 134 Stat. 3138.)
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(a)(2), Dec. 27, 2020, 134 Stat. 3137, 3138, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended by adding at the end the following:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(a)(2), Dec. 27, 2020, 134 Stat. 3137, 3138; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended by adding at the end the following:</i>
 
 #### <i>(c) Maximum aid</i>
 
@@ -48,7 +48,7 @@ A prior section 1087a, Pub. L. 89–329, title IV, §451, as added Pub. L. 90–
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1992 Amendment
 

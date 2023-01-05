@@ -46,7 +46,7 @@ To request a grant under this section, the chief executive of a State, unit of l
 
 #### (h) Annual report to Congress
 
-Not later than November 30 of each year, the Attorney General shall submit a report to theCongress regarding the activities carried out under this section. Each such report shall include, for the preceding fiscal year, the number of grants funded under this section, the amount of funds provided under those grants, and the activities for which those funds were used.
+Not later than November 30 of each year, the Attorney General shall submit a report to the Congress regarding the activities carried out under this section. Each such report shall include, for the preceding fiscal year, the number of grants funded under this section, the amount of funds provided under those grants, and the activities for which those funds were used.
 
 #### (i) Authorization of appropriations
 

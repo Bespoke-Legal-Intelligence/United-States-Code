@@ -15,7 +15,7 @@
 | [171\.](%C2%A7%2000171%20-%20Amortizable%20bond%20premium.md) | Amortizable bond premium. |
 | [172\.](%C2%A7%2000172%20-%20Net%20operating%20loss%20deduction.md) | Net operating loss deduction. |
 | [173\.](%C2%A7%2000173%20-%20Circulation%20expenditures.md) | Circulation expenditures. |
-| [174\.](%C2%A7%2000174%20-%20Research%20and%20experimental%20expenditures.md) | Research and experimental expenditures. |
+| [174\.](%C2%A7%2000174%20-%20Amortization%20of%20research%20and%20experimental%20expenditures.md) | Amortization of research and experimental expenditures. |
 | [175\.](%C2%A7%2000175%20-%20Soil%20and%20water%20conservation%20expenditures%3B%20endangered%20species%20recovery%20expenditures.md) | Soil and water conservation expenditures; endangered species recovery expenditures. |
 | [176\.](%C2%A7%2000176%20-%20Payments%20with%20respect%20to%20employees%20of%20certain%20foreign%20corporations.md) | Payments with respect to employees of certain foreign corporations. |
 | \[177. | Repealed.\] |
@@ -52,10 +52,6 @@
 | [199A.](%C2%A7%2000199A%20-%20Qualified%20business%20income.md) | Qualified business income. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–97, title I, §13206(c), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, provided that, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021, this analysis is amended by striking item 174 and inserting a new item 174 "Amortization of research and experimental expenditures." See 2017 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -147,7 +143,7 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 - [&sect; 00171 - Amortizable bond premium](%C2%A7%2000171%20-%20Amortizable%20bond%20premium.md)
 - [&sect; 00172 - Net operating loss deduction](%C2%A7%2000172%20-%20Net%20operating%20loss%20deduction.md)
 - [&sect; 00173 - Circulation expenditures](%C2%A7%2000173%20-%20Circulation%20expenditures.md)
-- [&sect; 00174 - Research and experimental expenditures](%C2%A7%2000174%20-%20Research%20and%20experimental%20expenditures.md)
+- [&sect; 00174 - Amortization of research and experimental expenditures](%C2%A7%2000174%20-%20Amortization%20of%20research%20and%20experimental%20expenditures.md)
 - [&sect; 00175 - Soil and water conservation expenditures; endangered species recovery expenditures](%C2%A7%2000175%20-%20Soil%20and%20water%20conservation%20expenditures%3B%20endangered%20species%20recovery%20expenditures.md)
 - [&sect; 00176 - Payments with respect to employees of certain foreign corporations](%C2%A7%2000176%20-%20Payments%20with%20respect%20to%20employees%20of%20certain%20foreign%20corporations.md)
 - [&sect; 00177 - Repealed. Pub. L. 99&#8211;514, title II, &sect;241(a), Oct. 22, 1986, 100 Stat. 2181](%C2%A7%2000177%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20II%2C%20%C2%A7241%28a%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202181.md)

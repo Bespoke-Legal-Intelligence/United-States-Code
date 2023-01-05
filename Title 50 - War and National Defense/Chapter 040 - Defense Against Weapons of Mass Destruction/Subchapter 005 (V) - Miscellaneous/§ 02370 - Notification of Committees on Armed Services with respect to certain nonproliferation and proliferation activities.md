@@ -2,7 +2,7 @@
 
 #### (a) Notification with respect to nonproliferation activities
 
-The Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, the Secretaryof State, and the Nuclear Regulatory Commission shall keep the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives informed with respect to—
+The Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, the Secretary of State, and the Nuclear Regulatory Commission shall keep the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives informed with respect to—
 
 &emsp;(1) any activities undertaken by any such Secretary or the Commission to carry out the purposes and policies of the Secretaries and the Commission with respect to nonproliferation programs; and
 

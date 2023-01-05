@@ -26,7 +26,7 @@ Acts Burdening Interstate Commerce.—The following acts unreasonably burden and
 
 &emsp;(1)
 
-Excessive valuation of property.—Assess motor carrier transportation property at a value that has a higher ratio to the true market value of the motor carrier transportation property than the ratio that the assessed value of other commercial and industrial property in the same assessment jurisdiction has to the true market value of the other commercial and industrial property.
+Excessive valuation of property.—Assess motor carrier transportation property at a value that has a higher ratio to the truemarket value of the motor carrier transportation property than the ratio that the assessed value of other commercial and industrial property in the same assessment jurisdiction has to the true market value of the other commercial and industrial property.
 
 &emsp;(2)
 

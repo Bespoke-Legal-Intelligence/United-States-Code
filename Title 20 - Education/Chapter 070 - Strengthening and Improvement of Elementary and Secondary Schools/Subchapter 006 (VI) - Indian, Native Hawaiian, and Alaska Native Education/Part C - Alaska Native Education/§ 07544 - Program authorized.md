@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) The development of curricula and programs that address the educational needs of Alaska Native students, including the following:
 
-&emsp;&emsp;&emsp;(i) Curriculum materials that are culturally informed and reflect the culturaldiversity, languages, history, or the contributions of Alaska Native people, including curricula intended to preserve and promote Alaska Native culture.
+&emsp;&emsp;&emsp;(i) Curriculum materials that are culturally informed and reflect the cultural diversity, languages, history, or the contributions of Alaska Native people, including curricula intended to preserve and promote Alaska Native culture.
 
 &emsp;&emsp;&emsp;(ii) Instructional programs that make use of Alaska Native languages and cultures.
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) programs of study and other instruction in Alaska Native history and ways of living to share the rich and diverse cultures of Alaska Natives among Alaska Native youth and elders, non-Native students and teachers, and the larger community;
 
-&emsp;&emsp;&emsp;&emsp;(II) instructing Alaska Native youth in leadership, communication, and Alaska Native culture, arts, history, and languages;
+&emsp;&emsp;&emsp;&emsp;(II) instructing Alaska Native youth in leadership, communication, and AlaskaNative culture, arts, history, and languages;
 
 &emsp;&emsp;&emsp;&emsp;(III) intergenerational learning and internship opportunities to Alaska Native youth and young adults;
 

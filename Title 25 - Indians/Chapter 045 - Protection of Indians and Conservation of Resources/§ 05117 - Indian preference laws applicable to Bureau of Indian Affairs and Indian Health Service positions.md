@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;(3) The term "Bureau of Indian Affairs" means (A) the Bureau of Indian Affairs and (B) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
 
-(Pub. L. 96–135, §2, Dec. 5, 1979, 93 Stat. 1057; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–581, title II, §205, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 105–362, title VIII, §801(e), title XIII, §1302(d), Nov. 10, 1998, 112 Stat. 3288, 3294.)
+(Pub. L. 96–135, §2, Dec. 5, 1979, 93 Stat. 1057; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat.695; Pub. L. 100–581, title II, §205, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 105–362, title VIII, §801(e), title XIII, §1302(d), Nov. 10, 1998, 112 Stat. 3288, 3294.)
 
 #### <b>Editorial Notes</b>
 
@@ -76,7 +76,7 @@ Subsec. (f). Pub. L. 105–362, §801(e)(2), redesignated subsec. (f) as (e).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990,with continued service by incumbent Under Secretary of the Interior, see section 529 \[title I, §112(e)(1), (2)(B)\] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
+Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of the Interior, see section 529 \[title I, §112(e)(1), (2)(B)\] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

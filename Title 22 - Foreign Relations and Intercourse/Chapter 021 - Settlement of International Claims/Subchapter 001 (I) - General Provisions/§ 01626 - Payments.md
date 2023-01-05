@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 104–316, §202(h)(2), struck out ", or the Comptroller G
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–421, §1(2), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c)(1). Pub. L. 90–421, §1(3), substituted "any person to whom any payment is to be made pursuant to this subchapter" for "such person" and ", except thatif any payment to be made is not over $1000" for ": <i>Provided</i>, That if the total award is not over $500", and struck out "of the United States" after "Comptroller General".
+Subsec. (c)(1). Pub. L. 90–421, §1(3), substituted "any person to whom any payment is to be made pursuant to this subchapter" for "such person" and ", except that if any payment to be made is not over $1000" for ": <i>Provided</i>, That if the total award is not over $500", and struck out "of the United States" after "Comptroller General".
 
 <b>1955</b>—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as "title I".
 

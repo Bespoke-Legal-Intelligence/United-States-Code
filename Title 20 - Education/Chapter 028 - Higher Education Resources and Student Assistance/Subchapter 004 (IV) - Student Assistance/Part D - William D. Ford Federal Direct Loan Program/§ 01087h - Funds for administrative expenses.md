@@ -48,7 +48,7 @@
 
 #### (B) Funds
 
-&emsp;&emsp;There are authorized to be appropriated, and there are appropriated, to carry out this paragraph (in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated), $25,000,000 for each of the fiscal years 2010 and 2011.
+&emsp;&emsp;There are authorized to be appropriated, and there are appropriated, to carry out thisparagraph (in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated), $25,000,000 for each of the fiscal years 2010 and 2011.
 
 #### (8) Carryover
 
@@ -135,6 +135,14 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date
 
 Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+
+#### Funds for Account Maintenance Fees
+
+Pub. L. 117–328, div. H, title III, §306, Dec. 29, 2022, 136 Stat. 4897, provided that: "Section 458(a)(4) of the HEA \[Higher Education Act of 1965\] (20 U.S.C. 1087h(a)) shall be applied by substituting '2023' for '2021'."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–103, div. H, title III, §306, Mar. 15, 2022, 136 Stat. 484.
 
 #### Construction
 

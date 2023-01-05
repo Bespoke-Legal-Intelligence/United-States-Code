@@ -14,7 +14,7 @@ Applications and Selection.—A State wishing to participate in the program must
 
 &emsp;(3) deciding the State uses a programming process acceptable to the Secretary;
 
-&emsp;(4) finding that the State has agreed to comply with United States Government standard requirements for administering the block grant, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regulations and guidance, and other Federal environmental requirements; and
+&emsp;(4) finding that the State has agreed to comply with United States Government standardrequirements for administering the block grant, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regulations and guidance, and other Federal environmental requirements; and
 
 &emsp;(5) finding that the State has agreed to provide the Secretary with program information the Secretary requires.
 
@@ -30,7 +30,7 @@ Environmental Analysis and Coordination Requirements.—A Federal agency, other 
 
 &emsp;(2) use the environmental analysis prepared by the State for the project or activity if such analysis is adequate; and
 
-&emsp;(3) as necessary, consult with the State to describe the supplemental analysis the Statemust provide to meet applicable Federal requirements.
+&emsp;(3) as necessary, consult with the State to describe the supplemental analysis the State must provide to meet applicable Federal requirements.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title I, §138, Apr. 5, 2000, 114 Stat. 85; Pub. L. 112–95, title V, §502, Feb. 14, 2012, 126 Stat. 103; Pub. L. 115–254, div. B, title I, §139, Oct. 5, 2018, 132 Stat. 3210.)
 

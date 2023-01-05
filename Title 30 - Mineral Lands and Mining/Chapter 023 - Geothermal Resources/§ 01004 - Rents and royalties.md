@@ -126,7 +126,7 @@ Any annual rental under this section that is paid with respect to a lease before
 
 #### References in Text
 
-The Mineral Leasing Act, referred to in subsec. (a)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act, referred to in subsec. (a)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
 #### Amendments
 

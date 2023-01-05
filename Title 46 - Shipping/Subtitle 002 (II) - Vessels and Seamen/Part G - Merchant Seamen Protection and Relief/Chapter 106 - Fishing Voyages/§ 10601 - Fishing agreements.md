@@ -10,11 +10,17 @@
 
 &emsp;(1) state the period of effectiveness of the agreement;
 
-&emsp;(2) include the terms of any wage, share, or other compensation arrangement peculiar to the fishery in which the vessel will be engaged during the period of the agreement; and
+&emsp;(2) include the terms of any wage, share, or other compensation arrangement peculiar to the fishery in which the vessel will be engaged during the period of the agreement;
 
-&emsp;(3) include other agreed terms.
+&emsp;(3) in the case of a seaman employed on a vessel that is a catcher processor or fish processing vessel that employs more than 25 crewmembers, include a requirement that each crewmember shall be served not less than three meals a day that—
 
-(Pub. L. 100–424, §6(a), Sept. 9, 1988, 102 Stat. 1591; Pub. L. 104–324, title VII, §739, Oct. 19, 1996, 110 Stat. 3942; Pub. L. 107–295, title IV, §441(a), (b), Nov. 25, 2002, 116 Stat. 2131.)
+&emsp;&emsp;(A) total not less than 3,100 calories; and
+
+&emsp;&emsp;(B) include adequate water and minerals in accordance with the United States Recommended Daily Allowances; and
+
+&emsp;(4) include other agreed terms.
+
+(Pub. L. 100–424, §6(a), Sept. 9, 1988, 102 Stat. 1591; Pub. L. 104–324, title VII, §739, Oct. 19, 1996, 110 Stat. 3942; Pub. L. 107–295, title IV, §441(a), (b), Nov. 25, 2002, 116 Stat. 2131; Pub. L. 117–263,div. K, title CXV, §11526, Dec. 23, 2022, 136 Stat. 4145.)
 
 Historical and Revision Notes
 
@@ -29,6 +35,8 @@ Historical and Revision Notes
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3), (4). Pub. L. 117–263 added par. (3) and redesignated former par. (3) as (4).
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–295, §441(a), (b)(1), in introductory provisions, inserted "owner, charterer, or managing operator, or a representative thereof, including the" after "on a voyage, the" and comma after "individual in charge" and substituted "employed" for "enployed".
 

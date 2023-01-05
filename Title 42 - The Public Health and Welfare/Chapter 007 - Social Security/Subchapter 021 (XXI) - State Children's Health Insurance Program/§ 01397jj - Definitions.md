@@ -24,7 +24,7 @@ For purposes of this subchapter, the term "child health assistance" means paymen
 
 &emsp;(10) Inpatient mental health services, other than services described in paragraph (18) but including services furnished in a State-operated mental hospital and including residential or other 24-hour therapeutically planned structured services.
 
-&emsp;(11) Outpatient mental health services, other than services described in paragraph (19) but including services furnished in a State-operated mental hospital and including community-based services.
+&emsp;(11) Outpatient mental health services, other than services described in paragraph (19) butincluding services furnished in a State-operated mental hospital and including community-based services.
 
 &emsp;(12) Durable medical equipment and other medically-related or remedial devices (such as prosthetic devices, implants, eyeglasses, hearing aids, dental devices, and adaptive devices).
 
@@ -92,7 +92,7 @@ For purposes of this subchapter—
 
 &emsp;Such term does not include—
 
-&emsp;&emsp;(A) a child who is an inmate of a public institution or a patient in an institution for mental diseases; or
+&emsp;&emsp;(A) except as provided in paragraph (7), a child who is an inmate of a public institution or a patient in an institution for mental diseases; or
 
 &emsp;&emsp;(B) except as provided in paragraph (6), a child who is a member of a family that is eligible for health benefits coverage under a State health benefits plan on the basis of a family member's employment with a public agency in the State.
 
@@ -108,7 +108,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of any child who is enrolled in a group health plan or health insurance coverage offered through an employer who would, but for the application of paragraph (1)(C), satisfy the requirements for being a targeted low-income child under a State child health plan that is implemented under this subchapter, a State may waive the application of such paragraph to the child in order to provide—
+&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of any child who is enrolled in agroup health plan or health insurance coverage offered through an employer who would, but for the application of paragraph (1)(C), satisfy the requirements for being a targeted low-income child under a State child health plan that is implemented under this subchapter, a State may waive the application of such paragraph to the child in order to provide—
 
 &emsp;&emsp;&emsp;(i) dental coverage consistent with the requirements of subsection (c)(6) of section 1397cc of this title; or
 
@@ -154,6 +154,10 @@ For purposes of this subchapter—
 
 &emsp;&emsp;For purposes of subparagraph (A)(ii), this subparagraph applies to a child if the State determines that the annual aggregate amount of premiums and cost-sharing imposed for coverage of the family of the child would exceed 5 percent of such family's income for the year involved.
 
+#### (7) Exception to exclusion of children who are inmates of a public institution
+
+&emsp;In the case of a child who is an inmate of a public institution, during the 30 days prior to the release of the child from such institution the child shall not be considered to be described in paragraph (2)(A) with respect to the screenings, diagnostic services, referrals, and case management services otherwise covered under the State child health plan (or waiver of such plan) that the State is required to provide under section 1397bb(d)(2) of this title.
+
 #### (c) Additional definitions
 
 For purposes of this subchapter:
@@ -176,7 +180,7 @@ For purposes of this subchapter:
 
 #### (5) Poverty line defined
 
-&emsp;The term "poverty line" has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
+&emsp;The term "poverty line" has the meaning given such term in section 9902(2) of this title,including any revision required by such section.
 
 #### (6) Preexisting condition exclusion
 
@@ -222,7 +226,21 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(vi) A program administered by the Indian Health Service or the Bureau of Indian Affairs or operated by an Indian tribe or a tribal organization.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 111–3, title V, §§501(b)(1), 505(b), Feb. 4, 2009, 123 Stat. 85, 90; Pub. L. 111–148, title II, §§2102(a)(7), 2302(b), title X, §10203(d)(2)(D), Mar. 23, 2010, 124 Stat. 288, 293, 930; Pub. L. 111–309, title II, §205(d), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–95, title IX, §9215(qqq)(2), Dec. 10, 2015, 129 Stat. 2189; Pub. L. 115–271, title V, §5022(b)(2)(B), (C), Oct. 24, 2018, 132 Stat. 3964.)
+(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 111–3, title V, §§501(b)(1), 505(b), Feb. 4, 2009, 123 Stat. 85, 90; Pub. L. 111–148, title II, §§2102(a)(7), 2302(b), title X, §10203(d)(2)(D), Mar. 23, 2010, 124 Stat. 288, 293, 930; Pub. L. 111–309, title II, §205(d), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–95, title IX, §9215(qqq)(2), Dec. 10, 2015, 129 Stat. 2189; Pub. L. 115–271, title V, §5022(b)(2)(B), (C), Oct. 24, 2018, 132 Stat. 3964; Pub. L. 117–328, div. FF, title V, §§5121(c)(2), 5122(b), Dec. 29, 2022, 136 Stat. 5943, 5944.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 5121(c)(2) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022. See 2022 Amendment notes below.</i>
+
+#### Amendment of Subsection (b)(7)
+
+<i>Pub. L. 117–328, div. FF, title V, §5122(b), (c), Dec. 29, 2022, 136 Stat. 5944, provided that, effective on the first day of the first calendar quarter that begins after the date that is 24 months after Dec. 29, 2022 and applicable to items and services furnished for periods beginning on or after such date, subsection (b)(7) of this section is amended as follows:</i>
+
+<i>(1) in the heading, by striking "Exception" and inserting "Exceptions"; and</i>
+
+<i>(2) by adding at the end the following new sentence: "At the option of the State, a child who is an inmate of a public institution shall not be considered to be described in paragraph (2)(A) during the period that the child is an inmate of such institution pending disposition of charges."</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -231,6 +249,12 @@ For purposes of this subchapter:
 Section 2701 of the Public Health Service Act, referred to in subsec. (c)(2), (6), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(2)(A). Pub. L. 117–328, §5121(c)(2)(A), inserted "except as provided in paragraph (7)," before "a child who is an inmate of a public institution".
+
+Subsec. (b)(7). Pub. L. 117–328, §5122(b), substituted "Exceptions" for "Exception" in heading and inserted in text at end "At the option of the State, a child who is an inmate of a public institution shall not be considered to be described in paragraph (2)(A) during the period that the child is an inmate of such institution pending disposition of charges."
+
+Pub. L. 117–328, §5121(c)(2)(B), added par. (7).
 
 <b>2018</b>—Subsec. (a)(18). Pub. L. 115–271, §5022(b)(2)(B)(i), substituted "substance use" for "substance abuse" in two places.
 
@@ -268,6 +292,12 @@ Subsec. (c)(3). Pub. L. 105–100, §162(9), made technical amendment to referen
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by section 5121(c)(2) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022, see section 5121(d) of Pub. L. 117–328, set out as a note under section 1396a of this title.
+
+Amendment by section 5122(b) of Pub. L. 117–328 effective on the first day of the first calendar quarter that begins after the date that is 24 months after Dec. 29, 2022 and applicable to items and services furnished for periods beginning on or after such date, see section 5122(c) of Pub. L. 117–328, set out as a note under section 1396a of this title.
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–271 effective with respect to child health assistance provided on or after the date that is 1 year after Oct. 24, 2018, with exception if State legislation required, see section 5022(e) of Pub. L. 115–271, set out as a note under section 1397bb of this title.
@@ -294,7 +324,7 @@ Pub. L. 105–100, title I, §162, Nov. 19, 1997, 111 Stat. 2188, provided in pa
 
 #### CHIP Eligibility for Children Ineligible for Medicaid as a Result of Elimination of Disregards
 
-Pub. L. 111–148, title II, §2101(f), Mar. 23, 2010, 124 Stat. 287, provided that: "Notwithstanding any otherprovision of law, a State shall treat any child who is determined to be ineligible for medical assistance under the State Medicaid plan or under a waiver of the plan as a result of the elimination of the application of an income disregard based on expense or type of income, as required under section 1902(e)(14) of the Social Security Act \[42 U.S.C. 1396a(e)(14)\] (as added by this Act), as a targeted low-income child under section 2110(b) \[42 U.S.C. 1397jj(b)\] (unless the child is excluded under paragraph (2) of that section) and shall provide child health assistance to the child under the State child health plan (whether implemented under title XIX or XXI, or both, of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\])."
+Pub. L. 111–148, title II, §2101(f), Mar. 23, 2010, 124 Stat. 287, provided that: "Notwithstanding any other provision of law, a State shall treat any child who is determined to be ineligible for medical assistance under the State Medicaid plan or under a waiver of the plan as a result of the elimination of the application of an income disregard based on expense or type of income, as required under section 1902(e)(14) of the Social Security Act \[42 U.S.C. 1396a(e)(14)\] (as added by this Act), as a targeted low-income child under section 2110(b) \[42 U.S.C. 1397jj(b)\] (unless the child is excluded under paragraph (2) of that section) and shall provide child health assistance to the child under the State child health plan (whether implemented under title XIX or XXI, or both, of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\])."
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
 

@@ -144,11 +144,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;A taxpayer holds offsetting positions with respect to personal property if there is a substantial diminution of the taxpayer's risk ofloss from holding any position with respect to personal property by reason of his holding 1 or more other positions with respect to personal property (whether or not of the same kind).
+&emsp;&emsp;A taxpayer holds offsetting positions with respect to personal property if there is a substantial diminution of the taxpayer's risk of loss from holding any position with respect to personal property by reason of his holding 1 or more other positions with respect to personal property (whether or not of the same kind).
 
 #### (B) Special rule for identified straddles
 
-&emsp;&emsp;In the case of any position which is not part of an identified straddle (within the meaning of subsection (a)(2)(B)), such position shall not be treated as offsetting with respect to any position which is part of an identified straddle.
+&emsp;&emsp;In the case of any position which is not part of an identified straddle (within themeaning of subsection (a)(2)(B)), such position shall not be treated as offsetting with respect to any position which is part of an identified straddle.
 
 #### (3) Presumption
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 &emsp;&emsp;Subparagraph (A) shall not apply to any straddle for purposes of section 1092(a) if—
 
-&emsp;&emsp;&emsp;(i) the qualified covered call options referred to in such subparagraph are closed or the stock is disposed of at a loss during any taxable year,
+&emsp;&emsp;&emsp;(i) the qualified covered call options referred to in such subparagraph are closedor the stock is disposed of at a loss during any taxable year,
 
 &emsp;&emsp;&emsp;(ii) gain on disposition of the stock to be purchased from the taxpayer under such options or gains on such options are includible in gross income for a later taxable year, and
 
@@ -340,7 +340,7 @@ For purposes of this section—
 
 #### (8) Special rules for physically settled positions
 
-&emsp;For purposes of subsection (a), if a taxpayer settles a position which is part of a straddle by delivering property to which the position relates (and such position, if terminated, would result in a realization of a loss), then such taxpayer shall be treated as if such taxpayer—
+&emsp;For purposes of subsection (a), if a taxpayer settles a position which is part of a straddle bydelivering property to which the position relates (and such position, if terminated, would result in a realization of a loss), then such taxpayer shall be treated as if such taxpayer—
 
 &emsp;&emsp;(A) terminated the position for its fair market value immediately before the settlement, and
 
@@ -506,7 +506,7 @@ Pub. L. 99–514, title III, §331(b), Oct. 22, 1986, 100 Stat. 2221, provided t
 
 Amendment by section 1261(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1261(e) of Pub. L. 99–514, set out as an Effective Date note under section 985 of this title.
 
-Amendment by section 1808(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1808(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369,div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -606,7 +606,7 @@ Other Rules.—Except as otherwise provided in subsections (a) and (c) and in se
 
 "(e)
 
-Straddle.—For purposes of this section, the term 'straddle' has the meaning given to such term by section 1092(c) of the Internal Revenue Code of 1986 as in effect on the day after the date of the enactment of the Economic Recovery Tax Act of 1981 \[Aug. 13, 1981\], and shall include a straddle all the positions of which are regulated futures contracts.
+Straddle.—For purposes of this section, the term 'straddle' has the meaning given to such term by section 1092(c) of the Internal Revenue Code of 1986 asin effect on the day after the date of the enactment of the Economic Recovery Tax Act of 1981 \[Aug. 13, 1981\], and shall include a straddle all the positions of which are regulated futures contracts.
 
 "(f)
 

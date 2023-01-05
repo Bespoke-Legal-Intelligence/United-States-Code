@@ -20,7 +20,7 @@ The Agriculture Improvement Act of 2018, referred to in text, is Pub. L. 115–3
 
 #### Clarification of Use of Funds for Technical Assistance
 
-Pub. L. 113–79, title X, §10017, Feb. 7, 2014, 128 Stat. 953, provided that: "In the case of each program established or amended by this title \[title X of Pub. L. 113–79, see Tables for classification\] that is authorized or required to be carried out using funds of the Commodity Credit Corporation, the use of those funds to provide technical assistance shall not be considered anallotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 11 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714i)."
+Pub. L. 113–79, title X, §10017, Feb. 7, 2014, 128 Stat. 953, provided that: "In the case of each program established or amended by this title \[title X of Pub. L. 113–79, see Tables for classification\] that is authorized or required to be carried out using funds of the Commodity Credit Corporation, the use of those funds to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 11 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714i)."
 
 #### <b>Executive Documents</b>
 

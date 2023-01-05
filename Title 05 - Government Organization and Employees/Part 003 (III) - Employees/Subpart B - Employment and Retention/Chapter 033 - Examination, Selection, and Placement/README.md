@@ -41,6 +41,7 @@
 | [3330c.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330c%20-%20Preference%20eligibles%3B%20remedy.md) | Preference eligibles; remedy. |
 | [3330d.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330d%20-%20Appointment%20of%20military%20spouses.md) | Appointment of military spouses. |
 | [3330e.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330e%20-%20Review%20of%20official%20personnel%20file%20of%20former%20Federal%20employees%20before%20rehiring.md) | Review of official personnel file of former Federal employees before rehiring. |
+| [3330f.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330f%20-%20Government%20policy%20and%20supporting%20position%20data.md) | Government policy and supporting position data. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,6 +77,7 @@
 | :--- | ---: |
 | [3349c.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003349c%20-%20Exclusion%20of%20certain%20officers.md) | Exclusion of certain officers. |
 | [3349d.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003349d%20-%20Notification%20of%20intent%20to%20nominate%20during%20certain%20recesses%20or%20adjournments.md) | Notification of intent to nominate during certain recesses or adjournments. |
+| [3349e.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003349e%20-%20Presidential%20explanation%20of%20failure%20to%20nominate%20an%20inspector%20general.md) | Presidential explanation of failure to nominate an Inspector General.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -149,11 +151,13 @@
 
 #### Amendments
 
+<b>2022</b>—Pub. L. 117–263, div. E, title LII, §5221(b), title LIII, §5322(a)(2), Dec. 23, 2022, 136 Stat. 3234, 3259, which directed amendment of the analyses for subchapter I of this chapter by adding item 3330f and for subchapter III of this chapter by adding item 3349e, was executed by adding items 3330f and 3349e to the analysis for this chapter to reflect the probable intent of Congress.
+
 <b>2018</b>—Pub. L. 115–232, div. A, title XI, §1107(c), Aug. 13, 2018, 132 Stat. 2005, substituted "certification using numerical ratings" for "certification from registers." in item 3317, "selection using numerical ratings" for "selection from certificates." in item 3318, and "Competitive service; selection using category rating" for "Alternative ranking and selection procedures." in item 3319.
 
 Pub. L. 115–232, div. A, title V, §573(b), (e), Aug. 13, 2018, 132 Stat. 1779, which amended analysis by adding item 3330d "Appointment of military spouses" and striking out former item 3330d, "Appointment of certain military spouses", was treated as temporary to reflect the probable intent of Congress, notwithstanding termination provision in section 573(e) of Pub. L. 115–232, which effectively undid the amendments made to section 3330d of this title but only provided that the amendment made to this analysis would expire. See Termination Date of 2018 Amendment note set out under section 3330d of this title.
 
-<b>2016</b>—Pub. L. 114–328, div. A, title XI, §§1136(c), 1140(c), Dec. 23, 2016, 130 Stat. 2460, 2471, which directed theamendment of the table of sections of subchapter I of chapter 33 by adding item 3330e at end and inserting item 3322 after item 3321, respectively, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+<b>2016</b>—Pub. L. 114–328, div. A, title XI, §§1136(c), 1140(c), Dec. 23, 2016, 130 Stat. 2460, 2471, which directed the amendment of the table of sections of subchapter I of chapter 33 by adding item 3330e at end and inserting item 3322 after item 3321, respectively, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §566(c), Jan. 2, 2013, 126 Stat. 1751, added item 3330d.
 

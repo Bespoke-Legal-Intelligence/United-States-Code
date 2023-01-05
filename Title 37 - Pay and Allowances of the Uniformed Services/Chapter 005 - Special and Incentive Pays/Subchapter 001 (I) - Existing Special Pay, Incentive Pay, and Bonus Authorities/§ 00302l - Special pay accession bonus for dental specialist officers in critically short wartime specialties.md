@@ -26,7 +26,7 @@ Repayment.—A person who, after executing an agreement under subsection (a) is 
 
 (f)
 
-Coordination With Other Accession Bonus Authority.—A person eligible to execute an agreement under both subsection (a) and section 302h of this title shall elect which authority to execute the agreement under. A person may not execute an agreement under both subsection (a) and such section 302h.
+Coordination With Other Accession Bonus Authority.—A person eligible to executean agreement under both subsection (a) and section 302h of this title shall elect which authority to execute the agreement under. A person may not execute an agreement under both subsection (a) and such section 302h.
 
 (g)
 

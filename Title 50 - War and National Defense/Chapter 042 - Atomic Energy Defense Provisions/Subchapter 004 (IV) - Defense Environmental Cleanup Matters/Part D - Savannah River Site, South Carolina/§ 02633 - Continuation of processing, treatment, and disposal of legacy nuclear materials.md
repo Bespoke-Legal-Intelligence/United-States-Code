@@ -2,7 +2,7 @@
 
 The Secretary of Energy shall continue operations and maintain a high state of readiness at the H–canyon facility at the Savannah River Site, Aiken, South Carolina, and shall provide technical staff necessary to operate and so maintain such facility.
 
-(Pub. L. 107–314, div. D, title XLIV, §4453, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3137(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–460; renumbered Pub. L. 107–314, div. D, title XLIV, §4453, and amended Pub. L. 108–136, div. C, title XXXI, §§3115(a), 3141(g)(23)(A), Nov. 24, 2003, 117 Stat. 1745, 1769.)
+(Pub. L. 107–314, div. D, title XLIV, §4453, formerly Pub. L. 106–398, §1 \[div. C, title XXXI,§3137(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–460; renumbered Pub. L. 107–314, div. D, title XLIV, §4453, and amended Pub. L. 108–136, div. C, title XXXI, §§3115(a), 3141(g)(23)(A), Nov. 24, 2003, 117 Stat. 1745, 1769.)
 
 #### <b>Editorial Notes</b>
 

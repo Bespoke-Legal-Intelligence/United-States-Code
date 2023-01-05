@@ -58,7 +58,7 @@ On roll-your-own tobacco, manufactured in or imported into the United States, th
 
 The taxes imposed by this section on tobacco products and cigarette papers and tubes imported into the United States shall be in addition to any import duties imposed on such articles, unless such import duties are imposed in lieu of internal revenue tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674; Pub. L. 111–3, title VII, §701(a)–(g), Feb. 4, 2009, 123 Stat. 106, 107; Pub. L. 115–141, div. U, title IV, §401(a)(250), Mar. 23, 2018, 132 Stat. 1196.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24),title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674; Pub. L. 111–3, title VII, §701(a)–(g), Feb. 4, 2009, 123 Stat. 106, 107; Pub. L. 115–141, div. U, title IV, §401(a)(250), Mar. 23, 2018, 132 Stat. 1196.)
 
 #### <b>Editorial Notes</b>
 
@@ -244,7 +244,7 @@ Transitional rule.—Any person who—
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title II, §283(c), Sept. 3, 1982, 96 Stat. 569, as amended by Pub. L. 99–107, §2, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(a), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §1, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §1, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–201, §1, Dec. 23, 1985, 99 Stat. 1665; Pub. L. 99–272, title XIII, §13201(a), Apr. 7, 1986, 100 Stat. 311, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to cigarettes removed after December 31, 1982."
+Pub. L. 97–248, title II, §283(c), Sept. 3, 1982, 96 Stat. 569, as amended by Pub. L. 99–107, §2, Sept. 30, 1985, 99Stat. 479; Pub. L. 99–155, §2(a), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §1, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §1, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–201, §1, Dec. 23, 1985, 99 Stat. 1665; Pub. L. 99–272, title XIII, §13201(a), Apr. 7, 1986, 100 Stat. 311, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to cigarettes removed after December 31, 1982."
 
 \[Pub. L. 99–272, title XIII, §13201(b), Apr. 7, 1986, 100 Stat. 311, provided that: "For purposes of all Federal and State laws, the amendment made by subsection (a) \[amending section 283(c) of Pub. L. 97–248, set out above\] shall be treated as having taken effect on March 14, 1986."\]
 
@@ -346,7 +346,7 @@ Imposition of tax.—On cigarettes manufactured in or imported into the United S
 
 "(2)
 
-Authority to exempt cigarettes held in vending machines.—To the extent provided in regulations prescribed by the Secretary, no tax shall be imposed by paragraph (1) on cigarettes held for retail sale on any tax increase date, by any person in any vending machine. If the Secretary provides such a benefit with respect to any person, the Secretary may reduce the $500 amount in paragraph (3) with respect to such person.
+Authority to exempt cigarettes held in vending machines.—To the extent provided in regulationsprescribed by the Secretary, no tax shall be imposed by paragraph (1) on cigarettes held for retail sale on any tax increase date, by any person in any vending machine. If the Secretary provides such a benefit with respect to any person, the Secretary may reduce the $500 amount in paragraph (3) with respect to such person.
 
 "(3)
 
@@ -496,7 +496,7 @@ Method of payment.—The tax imposed by paragraph (1) shall be treated as a tax 
 
 &emsp;"(C)
 
-Treatment of pipe tobacco in foreign trade zones.—Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law, pipe tobacco which is located in a foreign trade zone on January 1, 1989, shall be subject to the tax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
+Treatment of pipe tobacco in foreign trade zones.—Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law,pipe tobacco which is located in a foreign trade zone on January 1, 1989, shall be subject to the tax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
 
 &emsp;&emsp;"(i) internal revenue taxes have been determined, or customs duties liquidated, with respect to such pipe tobacco before such date pursuant to a request made under the first proviso of section 3(a) of such Act \[19 U.S.C. 81c(a)\], or
 

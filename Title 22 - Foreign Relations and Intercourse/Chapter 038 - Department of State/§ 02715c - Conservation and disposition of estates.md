@@ -40,7 +40,7 @@
 
 #### (5) Statutory construction
 
-&emsp;Nothing in this section supersedes or otherwise affects the authority of any militarycommander under title 10 with respect to the person or property of any decedent who died while under a military command or jurisdiction or the authority of the Peace Corps with respect to a Peace Corps volunteer or the volunteer's property.
+&emsp;Nothing in this section supersedes or otherwise affects the authority of any military commander under title 10 with respect to the person or property of any decedent who died while under a military command or jurisdiction or the authority of the Peace Corps with respect to a Peace Corps volunteer or the volunteer's property.
 
 #### (b) Disposition of estates by the Secretary of State
 
@@ -102,7 +102,7 @@ The Secretary of State may prescribe such regulations as may be necessary to car
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IV of the Act, which was classified generally to subchapter III (§511 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 7 (§701 et seq.) of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377. Title IV of the Act, which was classified generally to subchapter III (§511 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 7 (§701 et seq.) of Title 40, Public Buildings, Property, and Works.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

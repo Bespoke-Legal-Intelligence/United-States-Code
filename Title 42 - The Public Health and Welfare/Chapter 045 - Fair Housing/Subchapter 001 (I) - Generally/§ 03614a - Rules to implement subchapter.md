@@ -18,5 +18,5 @@ Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a)
 
 #### Initial Rulemaking
 
-Secretary to issue rules to implement this subchapter as amended by Pub. L. 100–430 not later than the 180thday after Sept. 13, 1988, see section 13(b) of Pub. L. 100–430, set out as a note under section 3601 of this title.
+Secretary to issue rules to implement this subchapter as amended by Pub. L. 100–430 not later than the 180th day after Sept. 13, 1988, see section 13(b) of Pub. L. 100–430, set out as a note under section 3601 of this title.
 

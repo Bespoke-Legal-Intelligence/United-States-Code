@@ -134,7 +134,7 @@ Federal agency project sponsor.—Notwithstanding any other provision of law, a 
 
 &emsp;(3)
 
-Use of funds from federal programs to provide non-federal share.—Notwithstanding any other provision of law, the non-Federal share of the cost of the project may include amounts made available by the Federal Government under any Federal program that are—
+Use of funds from federal programs to provide non-federal share.—Notwithstanding any other provision of law, the non-Federal share of the cost of the project mayinclude amounts made available by the Federal Government under any Federal program that are—
 
 &emsp;&emsp;(A) expended in accordance with the requirements of the Federal program relating to activities funded and populations served; and
 
@@ -220,17 +220,17 @@ Contract Authority.—Funds authorized to carry out this section shall be availa
 
 Use of Other Apportioned Funds.—Funds apportioned to a State under section 104(b) that are obligated for a recreational trail or a related project shall be administered as if the funds were made available to carry out this section.
 
-(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, §101(q), June 6, 2008, 122 Stat. 1576; Pub. L. 113–287, §5(f)(3), Dec. 19, 2014, 128 Stat. 3268; Pub. L. 117–58, div. A, title I, §§11134, 11525(n), Nov. 15, 2021, 135 Stat. 515, 608.)
+(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, §101(q), June 6, 2008, 122Stat. 1576; Pub. L. 113–287, §5(f)(3), Dec. 19, 2014, 128 Stat. 3268; Pub. L. 117–58, div. A, title I, §§11134, 11525(n), Nov. 15, 2021, 135 Stat. 515, 608.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of Title 16 and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of Title 16 and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 #### Prior Provisions
 

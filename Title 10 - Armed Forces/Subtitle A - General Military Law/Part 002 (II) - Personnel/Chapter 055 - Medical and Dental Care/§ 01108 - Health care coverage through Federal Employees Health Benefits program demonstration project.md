@@ -56,7 +56,7 @@ Prohibition Against Use of MTFs and Enrollment Under TRICARE.—Covered benefici
 
 (f)
 
-Term of Enrollment in Project.—(1) Subject to paragraphs (2) and (3), the period of enrollment of an eligible beneficiary who enrollsin the demonstration project during the open enrollment period for the year 2000 shall be three years unless the beneficiary disenrolls before the termination of the project.
+Term of Enrollment in Project.—(1) Subject to paragraphs (2) and (3), the period of enrollment of an eligible beneficiary who enrolls in the demonstration project during the open enrollment period for the year 2000 shall be three years unless the beneficiary disenrolls before the termination of the project.
 
 (2) A beneficiary who elects to enroll in the project, and who subsequently discontinues enrollment in the project before the end of the period described in paragraph (1), shall not be eligible to reenroll in the project.
 
@@ -92,7 +92,7 @@ Application of Medigap Protections to Demonstration Project Enrollees.—(1) Sub
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), and (j)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to Part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to section 1395ss of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), and (j)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to Part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to section 1395ss of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 1896 of the Social Security Act, referred to in subsec. (c)(3), was classified to section 1395ggg of Title 42, The Public Health and Welfare, and was omitted from the Code.
 

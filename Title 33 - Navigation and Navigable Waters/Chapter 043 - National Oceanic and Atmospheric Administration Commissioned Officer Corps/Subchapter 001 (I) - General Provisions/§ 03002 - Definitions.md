@@ -36,7 +36,11 @@ In this chapter:
 
 &emsp;The term "Administration" means the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 107–372, title II, §212, Dec. 19, 2002, 116 Stat. 3082; Pub. L. 116–259, title III, §305(c), Dec. 23, 2020, 134 Stat. 1173.)
+#### (8) Under Secretary
+
+&emsp;The term "Under Secretary" means the Under Secretary of Commerce for Oceans and Atmosphere.
+
+(Pub. L. 107–372, title II, §212, Dec. 19, 2002, 116 Stat. 3082; Pub. L. 116–259, title III, §305(c), Dec. 23, 2020, 134 Stat. 1173; Pub. L. 117–263, div. K, title CXVII, §11701, Dec. 23, 2022, 136 Stat. 4156.)
 
 #### <b>Editorial Notes</b>
 
@@ -49,6 +53,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 Provisions similar to those in this section were contained in section 857–1 of this title prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(8). Pub. L. 117–263 added par. (8).
 
 <b>2020</b>—Subsec. (b)(4) to (7). Pub. L. 116–259 added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 

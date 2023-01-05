@@ -50,6 +50,7 @@
 - [&sect; 08142 - Peace Corps volunteers](%C2%A7%2008142%20-%20Peace%20Corps%20volunteers.md)
 - [&sect; 08143 - Job Corps enrollees; volunteers in service to America](%C2%A7%2008143%20-%20Job%20Corps%20enrollees%3B%20volunteers%20in%20service%20to%20America.md)
 - [&sect; 08143a - Members of the National Teacher Corps](%C2%A7%2008143a%20-%20Members%20of%20the%20National%20Teacher%20Corps.md)
+- [&sect; 08143b - Employees in fire protection activities](%C2%A7%2008143b%20-%20Employees%20in%20fire%20protection%20activities.md)
 - [&sect; 08144 - Student-employees](%C2%A7%2008144%20-%20Student-employees.md)
 - [&sect; 08145 - Administration](%C2%A7%2008145%20-%20Administration.md)
 - [&sect; 08146 - Administration for the Panama Canal Commission and The Alaska Railroad](%C2%A7%2008146%20-%20Administration%20for%20the%20Panama%20Canal%20Commission%20and%20The%20Alaska%20Railroad.md)

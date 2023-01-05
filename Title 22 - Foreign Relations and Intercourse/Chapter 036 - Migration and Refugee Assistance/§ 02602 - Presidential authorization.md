@@ -6,7 +6,7 @@ In carrying out the purpose of this chapter, the President is authorized—
 
 &emsp;(1) to make loans, advances, and grants to, make and perform agreements and contracts with, or enter into other transactions with, any individual, corporation, or other body of persons, government or government agency, whether within or without the United States, and international and intergovernmental organizations;
 
-&emsp;(2) to accept and use money, funds, property, and services of any kind made available bygift, devise, bequest, grant, or otherwise for such purposes.
+&emsp;(2) to accept and use money, funds, property, and services of any kind made available by gift, devise, bequest, grant, or otherwise for such purposes.
 
 #### (b) Performance of functions without regard to specified provisions of law
 
@@ -18,7 +18,7 @@ Whenever the President determines it to be in furtherance of the purposes of thi
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76Stat. 121, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 The Renegotiation Act of 1951, as amended, referred to in subsec. (b), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 

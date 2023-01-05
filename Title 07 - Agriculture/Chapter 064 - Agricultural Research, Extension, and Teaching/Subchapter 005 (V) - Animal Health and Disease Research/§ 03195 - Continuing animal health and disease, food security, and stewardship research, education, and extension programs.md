@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) to review and determine the relevance and merit of proposals, in consultation with representatives of the animal agriculture industry;
 
-&emsp;&emsp;(C) to provide a scientific peer review of each proposal conducted by a panel of subject matter experts from Federal agencies, academic institutions, State animal health agencies, and the animal agriculture industry; and
+&emsp;&emsp;(C) to provide a scientific peer review of each proposal conducted by a panel of subject matter experts from Federal agencies, academic institutions, State animal healthagencies, and the animal agriculture industry; and
 
 &emsp;&emsp;(D) to award competitive grants on the basis of merit, quality, and relevance.
 
@@ -122,7 +122,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–334 substituted "2023" for "2018".
 
-<b>2014</b>—Pub. L. 113–79 amended section generally. Prior to amendment, section related to continuing animal health and disease research programs at eligible institutions.
+<b>2014</b>—Pub. L. 113–79 amended section generally. Prior to amendment, section related to continuing animalhealth and disease research programs at eligible institutions.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §7117, substituted "2012" for "2007".
 
@@ -144,7 +144,7 @@ Subsecs. (d), (f). Pub. L. 104–127, §811(3), (4), substituted "domestic lives
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "1990" for "1985".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted "as Congress may determine necessary to support continuing animal health and disease research programs at eligibleinstitutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $25,000,000 annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions".
+<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted "as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $25,000,000 annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

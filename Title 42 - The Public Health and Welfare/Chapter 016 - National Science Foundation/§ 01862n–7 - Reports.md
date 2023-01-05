@@ -28,7 +28,7 @@ Not later than 3 months after December 19, 2002, the Director shall enter into a
 
 &emsp;&emsp;(A) identify the availability of high-speed, large bandwidth capacity access to different demographic groups served by elementary schools, secondary schools, and libraries in the United States;
 
-&emsp;&emsp;(B) identify how the provision of high-speed, large bandwidth capacity access to the Internet to such schools and librariescan be effectively utilized within each school and library;
+&emsp;&emsp;(B) identify how the provision of high-speed, large bandwidth capacity access to the Internet to such schools and libraries can be effectively utilized within each school and library;
 
 &emsp;&emsp;(C) consider the effect that specific or regional circumstances may have on the ability of such institutions to acquire high-speed, large bandwidth capacity access to achieve universal connectivity as an effective tool in the education process; and
 

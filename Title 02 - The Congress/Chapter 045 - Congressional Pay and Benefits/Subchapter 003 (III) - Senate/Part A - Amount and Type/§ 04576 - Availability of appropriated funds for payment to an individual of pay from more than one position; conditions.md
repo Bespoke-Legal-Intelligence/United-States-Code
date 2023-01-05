@@ -10,7 +10,7 @@
 
 (2) Messages for each electronic mail account used in connection with carrying out the official duties of an individual serving in more than 1 qualifying position under subsection (a) may be delivered to and sent from a single handheld communications device provided to the individual for purposes of official business.
 
-(3)(A) For purposes of the Ethics in Government Act of 1978 (5 U.S.C. App.), the rate of basic pay for an individual serving in more than 1 qualifying position under subsection (a) shall be the total basic pay received by the individual from all such positions.
+(3)(A) For purposes of the Ethics in Government Act of 1978 (5 U.S.C. App.),<sup>1</sup> the rate of basic pay for an individual serving in more than 1 qualifying position under subsection (a) shall be the total basic pay received by the individual from all such positions.
 
 (B) For an individual serving in more than one qualifying position under subsection (a), for purposes of the rights and obligations described in, or described in the provisions applied under, title II of the Congressional Accountability Act of 1995 (2 U.S.C. 1311 et seq.) related to practices used at a time when the individual is serving in such a qualifying position with an employing office, the rate of pay for the individual shall be the individual rate of pay received from the employing office.
 
@@ -58,7 +58,7 @@
 
 #### References in Text
 
-The Ethics in Government Act of 1978, referred to in subsec.(b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§13101 et seq.) of Title 5 by Pub. L. 117–286, §§3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 The Congressional Accountability Act of 1995, referred to in subsec. (b)(3)(B), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3. Title II of the Act is classified principally to subchapter II (§1311 et seq.) of chapter 24 of this title. For complete classification of this Act to the Code, see Short Title note under section 1301 of this title and Tables.
 
@@ -70,7 +70,7 @@ Section is from the Congressional Operations Appropriation Act, 1978, which is t
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 117–10, §2(a)(1), (2), designated existing provisions as subsec. (a) and substituted "qualifying position if the aggregate gross pay from those positions does not exceed—" and pars. (1) and (2) for "position, each of which is either in the office of a Senator and the pay of which is disbursed by the Secretary of the Senate or is in another office and the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading 'Salaries, Officers, and Employees', if the aggregate gross pay from those positions does not exceed the maximum rate specified in section 4575(d)(2) of this title."
+<b>2021</b>—Subsec. (a). Pub. L. 117–10, §2(a)(1), (2), designated existing provisions as subsec. (a) and substituted "qualifying position if the aggregate gross pay from those positions does not exceed—" and pars. (1) and (2) for "position, each of which is either in the office of a Senator and the pay of which is disbursed by the Secretary of the Senate or is in another office and the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading 'Salaries, Officers, and Employees', if the aggregate grosspay from those positions does not exceed the maximum rate specified in section 4575(d)(2) of this title."
 
 Subsecs. (b) to (d). Pub. L. 117–10, §2(a)(3), added subsecs. (b) to (d).
 
@@ -83,4 +83,6 @@ Subsecs. (b) to (d). Pub. L. 117–10, §2(a)(3), added subsecs. (b) to (d).
 #### Effective Date of 2021 Amendment
 
 Pub. L. 117–10, §2(b), Apr. 23, 2021, 135 Stat. 261, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect beginning on the day that is 6 months after the date of enactment of this Act \[Apr. 23, 2021\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

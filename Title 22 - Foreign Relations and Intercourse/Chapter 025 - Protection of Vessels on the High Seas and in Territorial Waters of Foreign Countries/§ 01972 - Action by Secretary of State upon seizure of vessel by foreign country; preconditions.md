@@ -28,7 +28,7 @@ If—
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title I of the Act is classified generally to subchapter II (§1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331. Title I of the Act is classified generally to subchapter II (§1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Pub. L. 94–265, title IV, §403(b), Apr. 13, 1976, 90 Stat. 360, provided in p
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–569, §6, Oct. 26, 1972, 86 Stat. 1183, provided that: "The amendments made by this Act \[enactingsection 1979 of this title and amending this section and sections 1973, 1975, and 1977 of this title\] shall apply with respect to seizures of vessels of the United States occurring on or after the date of the enactment of this Act \[Oct. 26, 1972\]; except that reimbursements under section 3 of the Fishermen's Protective Act of 1967 \[section 1973 of this title\] (as in effect before such date of enactment \[Oct. 26, 1972\]) may be made from the fund established by the amendment made by section 5 of this Act \[enacting section 1979 of this title\] with respect to any seizure of a vessel occurring before such date of enactment \[Oct. 26, 1972\] and after December 31, 1970, if no reimbursement was made before such date of enactment \[Oct. 26, 1972\]."
+Pub. L. 92–569, §6, Oct. 26, 1972, 86 Stat. 1183, provided that: "The amendments made by this Act \[enacting section 1979 of this title and amending this section and sections 1973, 1975, and 1977 of this title\] shall apply with respect to seizures of vessels of the United States occurring on or after the date of the enactment of this Act \[Oct. 26, 1972\]; except that reimbursements under section 3 of the Fishermen's Protective Act of 1967 \[section 1973 of this title\] (as in effect before such date of enactment \[Oct. 26, 1972\]) may be made from the fund established by the amendment made by section 5 of this Act \[enacting section 1979 of this title\] with respect to any seizure of a vessel occurring before such date of enactment \[Oct. 26, 1972\] and after December 31, 1970, if no reimbursement was made before such date of enactment \[Oct. 26, 1972\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 

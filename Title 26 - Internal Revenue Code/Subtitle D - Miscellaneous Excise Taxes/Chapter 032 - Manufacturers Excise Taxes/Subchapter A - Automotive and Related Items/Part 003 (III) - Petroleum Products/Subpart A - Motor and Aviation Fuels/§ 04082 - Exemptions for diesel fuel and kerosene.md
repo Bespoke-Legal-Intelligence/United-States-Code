@@ -142,7 +142,7 @@ Subsec. (f). Pub. L. 108–357, §853(a)(5)(A), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 108–357, §853(a)(5)(A), redesignated subsec. (f) as (g).
 
-Pub. L. 108–357, §241(a)(2)(B), which directed substitution of "subsections (a)(1) and (d)(3) of section 4041" for "section 4041(a)(1)" in subsec. (f), was executed by making the substitution in subsec. (g) to reflect the probable intent of Congress and the amendment byPub. L. 108–357, §853(a)(5)(A). See Amendment note above and Effective Date of 2004 Amendment notes below.
+Pub. L. 108–357, §241(a)(2)(B), which directed substitution of "subsections (a)(1) and (d)(3) of section 4041" for "section 4041(a)(1)" in subsec. (f), was executed by making the substitution in subsec. (g) to reflect the probable intent of Congress and the amendment by Pub. L. 108–357, §853(a)(5)(A). See Amendment note above and Effective Date of 2004 Amendment notes below.
 
 <b>1998</b>—Subsec. (d)(1). Pub. L. 105–206, §6010(h)(3), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: "Subsection (a)(2) shall not apply to a removal, entry, or sale of aviation-grade kerosene (as determined under regulations prescribed by the Secretary) if the person receiving the kerosene is registered under section 4101 with respect to the tax imposed by section 4091."
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 109–432 applicable to kerosene sold after Sept. 30, 2005,
 
 #### Effective Date of 2005 Amendments
 
-Amendment by Pub. L. 109–59 applicable to fuels or liquids removed, entered, or sold after Sept. 30, 2005, see section 11161(e) of Pub. L. 109–59, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 109–59 applicable to fuels or liquids removed, entered, or sold after Sept. 30, 2005, seesection 11161(e) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
 Amendment by Pub. L. 109–58 effective Oct. 1, 2005, and applicable to fuel entered, removed, or sold after Sept. 30, 2005, see section 1362(d) of Pub. L. 109–58, set out as a note under section 4041 of this title.
 

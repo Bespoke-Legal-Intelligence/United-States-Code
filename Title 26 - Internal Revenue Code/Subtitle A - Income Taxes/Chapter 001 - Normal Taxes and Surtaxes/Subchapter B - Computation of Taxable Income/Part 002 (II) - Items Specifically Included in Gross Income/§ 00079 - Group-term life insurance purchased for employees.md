@@ -220,7 +220,7 @@ Certain plans maintained by educational institutions.—If an educational organi
 
 Pub. L. 99–514, title XVIII, §1827(a)(2), Oct. 22, 1986, 100 Stat. 2850, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
-Amendment by section 1827(c), (d) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1827(c), (d) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -270,7 +270,7 @@ Pub. L. 88–272, title II, §204(d), Feb. 26, 1964, 78 Stat. 37, as amended by 
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
-No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

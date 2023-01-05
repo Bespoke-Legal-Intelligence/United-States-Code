@@ -166,11 +166,11 @@ Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary wo
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to section 2703(6) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to section 2703(6) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 
@@ -218,7 +218,7 @@ Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted "the Virgin Islands, Guam,
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 116–283, div. F, title LXI, §6110(a)(2), Jan. 1, 2021, 134 Stat. 4562, provided that: "Section 5312(a)(2)(Y) of title 31, United States Code, as added by paragraph (1), shall take effect on the effective date of the final rules issued by the Secretary of the Treasury pursuant to subsection (b) \[see note below\]."
+Pub. L. 116–283, div. F, title LXI, §6110(a)(2), Jan. 1, 2021, 134 Stat. 4562, provided that: "Section 5312(a)(2)(Y)of title 31, United States Code, as added by paragraph (1), shall take effect on the effective date of the final rules issued by the Secretary of the Treasury pursuant to subsection (b) \[see note below\]."
 
 #### Effective Date of 2004 Amendment
 

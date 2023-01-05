@@ -46,7 +46,7 @@ June 5, 1920, ch. 250, §27 (2d proviso related to meaning of "rebuilt"), 41 Sta
 
 46:12101(b).
 
-In subsection (a), the words "its territories" and "or its possessions" are omitted because of the definition of "United States" in chapter 1 of the revised title. The words "(not including trust territories)" are omitted because the Trust Territory of the Pacific Islands has terminated. See 48 U.S.C. 1681 note prec.
+In subsection (a), the words "its territories" and "or its possessions" are omitted because of the definition of"United States" in chapter 1 of the revised title. The words "(not including trust territories)" are omitted because the Trust Territory of the Pacific Islands has terminated. See 48 U.S.C. 1681 note prec.
 
 #### <b>Editorial Notes</b>
 

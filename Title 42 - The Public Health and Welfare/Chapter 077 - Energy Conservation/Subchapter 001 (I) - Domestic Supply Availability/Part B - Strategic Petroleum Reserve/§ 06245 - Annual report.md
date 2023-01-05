@@ -24,7 +24,7 @@ The Secretary shall report annually to the President and the Congress on actions
 
 &emsp;(11) any recommendations for supplemental legislation or policy or operational changes the Secretary considers necessary or appropriate to implement this part.
 
-(Pub. L. 94–163, title I, §165, Dec. 22, 1975, 89 Stat. 889; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 97–35, title X, §1035(a), Aug. 13, 1981, 95 Stat. 620; Pub. L. 99–509, title III,§3203, Oct. 21, 1986, 100 Stat. 1890; Pub. L. 104–66, title I, §1051(j), Dec. 21, 1995, 109 Stat. 717; Pub. L. 106–469, title I, §103(17), Nov. 9, 2000, 114 Stat. 2032.)
+(Pub. L. 94–163, title I, §165, Dec. 22, 1975, 89 Stat. 889; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 97–35, title X, §1035(a), Aug. 13, 1981, 95 Stat. 620; Pub. L. 99–509, title III, §3203, Oct. 21, 1986, 100 Stat. 1890; Pub. L. 104–66, title I, §1051(j), Dec. 21, 1995, 109 Stat. 717; Pub. L. 106–469, title I, §103(17), Nov. 9, 2000, 114 Stat. 2032.)
 
 #### <b>Editorial Notes</b>
 

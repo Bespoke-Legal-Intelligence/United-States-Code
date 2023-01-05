@@ -2,7 +2,7 @@
 
 Any authority provided by this chapter to enter into contracts shall be effective only—
 
-&emsp;(1) to the extent that the budget authority for the obligation to make outlays, which is created by the contract, has been provided in advance by an appropriation Act; or
+&emsp;(1) to the extent that the budget authority for the obligation to make outlays, which iscreated by the contract, has been provided in advance by an appropriation Act; or
 
 &emsp;(2) to the extent or in such amounts as are provided in advance in appropriation Acts.
 
@@ -12,5 +12,5 @@ Any authority provided by this chapter to enter into contracts shall be effectiv
 
 #### References in Text
 
-The Congressional Budget Act, referred to in section catchline, probably means the Congressional Budget Act of 1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+The Congressional Budget Act, referred to in section catchline, probably means the Congressional Budget Act of 1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 

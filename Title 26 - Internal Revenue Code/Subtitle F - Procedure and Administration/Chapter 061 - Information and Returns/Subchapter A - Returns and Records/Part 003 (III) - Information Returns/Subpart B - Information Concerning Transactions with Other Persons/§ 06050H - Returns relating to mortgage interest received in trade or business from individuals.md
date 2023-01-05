@@ -78,7 +78,7 @@ For purposes of subsection (a), an amount received by a cooperative housing corp
 
 #### (2) Statement to be furnished to individuals with respect to whom information is required
 
-&emsp;Every person required to make a return under paragraph (1) shall furnish to each individual with respect to whom a return is made a written statement showing such information as the Secretary may prescribe. Such written statement shall be furnished on or before January 31 of the year following the calendar year for which the return under paragraph (1) was required to be made.
+&emsp;Every person required to make a return under paragraph (1) shall furnish to each individual with respect to whom a return is made a written statement showing such information as the Secretary may prescribe. Such writtenstatement shall be furnished on or before January 31 of the year following the calendar year for which the return under paragraph (1) was required to be made.
 
 #### (3) Special rules
 

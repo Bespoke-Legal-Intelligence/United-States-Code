@@ -1,20 +1,14 @@
 ### §3406. Authorization of appropriations
 
-There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this subchapter—
+There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this subchapter $60,000,000 for each of fiscal years 2023 through 2028 <sup>1</sup>
 
-&emsp;(1) $33,550,000 for fiscal year 2009;
+(Pub. L. 111–11, title XII, §12006, Mar. 30, 2009, 123 Stat. 1419; Pub. L. 117–263, div. J, title CIII, §10305(g), Dec. 23, 2022, 136 Stat. 3974.)
 
-&emsp;(2) $36,905,000 for fiscal year 2010;
+#### <b>Editorial Notes</b>
 
-&emsp;(3) $40,596,000 for fiscal year 2011;
+#### Amendments
 
-&emsp;(4) $44,655,000 for fiscal year 2012;
+<b>2022</b>—Pub. L. 117–263 substituted "this subchapter $60,000,000 for each of fiscal years 2023 through 2028" for "this subchapter—" and struck out pars. (1) to (7) which authorized appropriations for fiscal years 2009 through 2015.
 
-&emsp;(5) $49,121,000 for fiscal year 2013;
-
-&emsp;(6) $54,033,000 for fiscal year 2014; and
-
-&emsp;(7) $59,436,000 for fiscal year 2015.
-
-(Pub. L. 111–11, title XII, §12006, Mar. 30, 2009, 123 Stat. 1419.)
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

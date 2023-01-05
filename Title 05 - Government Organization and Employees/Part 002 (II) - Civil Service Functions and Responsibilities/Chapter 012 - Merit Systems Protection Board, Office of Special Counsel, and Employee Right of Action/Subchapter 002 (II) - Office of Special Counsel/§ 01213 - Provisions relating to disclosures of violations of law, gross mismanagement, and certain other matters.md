@@ -10,7 +10,7 @@
 
 > &emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; and
 
-&emsp;(2) any disclosure by an employee, former employee, or applicant for employment to theSpecial Counsel or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures of information which the employee, former employee, or applicant reasonably believes evidences—
+&emsp;(2) any disclosure by an employee, former employee, or applicant for employment to the Special Counsel or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures of information which the employee, former employee, or applicant reasonably believes evidences—
 
 &emsp;&emsp;(A) a violation of any law, rule, or regulation; or
 
@@ -74,7 +74,7 @@
 
 &emsp;(2) the agency shall notify the Office of Personnel Management and the Office of Management and Budget of the referral.
 
-(g)(1) If the Special Counsel receives information of a type described in subsection (a) from an individual other than an individual described in subparagraph (A) or (B) of subsection (c)(2),the Special Counsel may transmit the information to the head of the agency which the information concerns. The head of such agency shall, within a reasonable time after the information is transmitted, inform the Special Counsel in writing of what action has been or is being taken and when such action shall be completed. The Special Counsel shall inform the individual of the report of the agency head.
+(g)(1) If the Special Counsel receives information of a type described in subsection (a) from an individual other than an individual described in subparagraph (A) or (B) of subsection (c)(2), the Special Counsel may transmit the information to the head of the agency which the information concerns. The head of such agency shall, within a reasonable time after the information is transmitted, inform the Special Counsel in writing of what action has been or is being taken and when such action shall be completed. The Special Counsel shall inform the individual of the report of the agency head.
 
 (2) If the Special Counsel receives information of a type described in subsection (a) from an individual described in subparagraph (A) or (B) of subsection (c)(2), but does not make a positive determination under subsection (b), the Special Counsel may transmit the information to the head of the agency which the information concerns, except that the information may not be transmitted to the head of the agency without the consent of the individual. The head of such agency shall, within a reasonable time after the information is transmitted, inform the Special Counsel in writing of what action has been or is being taken and when such action will be completed. The Special Counsel shall inform the individual of the report of the agency head.
 

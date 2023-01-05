@@ -12,5 +12,5 @@ Section was formerly classified to section 477 of this title prior to editorial 
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–301 substituted "by any tribe" for "by at least one-third of the adult Indians", "by the governing body of such tribe" for "at a special election by a majority vote of the adult Indians living on the reservation", and "twenty-five years any trust or restricted lands" for "ten years any of the land".
+<b>1990</b>—Pub. L. 101–301 substituted "by any tribe" for "by at least one-third of the adult Indians", "by the governing body of such tribe" for "at a special election by a majority vote of the adult Indians living on thereservation", and "twenty-five years any trust or restricted lands" for "ten years any of the land".
 

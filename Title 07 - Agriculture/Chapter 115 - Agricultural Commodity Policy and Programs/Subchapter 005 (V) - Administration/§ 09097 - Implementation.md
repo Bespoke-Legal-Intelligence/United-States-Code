@@ -2,7 +2,7 @@
 
 #### (a) Maintenance of base acres and payment yields
 
-The Secretary shall maintain, for each covered commodity and upland cotton, base acresand payment yields on a farm established under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8712, 8718, and 8752 of this title, as in effect on September 30, 2013, and as adjusted pursuant to sections 9012 and 9013 of this title.
+The Secretary shall maintain, for each covered commodity and upland cotton, base acres and payment yields on a farm established under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8712, 8718, and 8752 of this title, as in effect on September 30, 2013, and as adjusted pursuant to sections 9012 and 9013 of this title.
 
 #### (b) Streamlining
 
@@ -54,7 +54,7 @@ In implementing this chapter and the amendments made by this title,<sup>1</sup> 
 
 #### (A) In general
 
-&emsp;&emsp;Of the funds made available under paragraph (1), the Secretary shall provide$3,000,000 to State extension services for the purpose of educating farmers and ranchers on the options made available under subchapters I, III, and IV of this chapter and under section 7333 of this title.
+&emsp;&emsp;Of the funds made available under paragraph (1), the Secretary shall provide $3,000,000 to State extension services for the purpose of educating farmers and ranchers on the options made available under subchapters I, III, and IV of this chapter and under section 7333 of this title.
 
 #### (B) Web-based decision aids
 
@@ -82,7 +82,7 @@ In implementing this chapter and the amendments made by this title,<sup>1</sup> 
 
 #### (2) Repayment
 
-&emsp;In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles <sup>3</sup> B or C that the repayment amount shall include the portion of the loan amount provided under paragraph (1), except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles <sup>3</sup> B or C and as supplemented in accordance with paragraph (1).
+&emsp;In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles <sup>3</sup> B or C that the repayment amount shall include the portion of the loan amount provided under paragraph (1),except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles <sup>3</sup> B or C and as supplemented in accordance with paragraph (1).
 
 #### (e) Deobligation of unliquidated obligations
 

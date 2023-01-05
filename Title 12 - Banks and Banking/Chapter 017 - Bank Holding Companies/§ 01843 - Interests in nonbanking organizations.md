@@ -46,7 +46,7 @@ The prohibitions in this section shall not apply to (i) any company that was on 
 
 &emsp;&emsp;(B) complies with such other conditions as the Board may by regulation or order prescribe;
 
-&emsp;(13) shares of, or activities conducted by, any company which does no business in the UnitedStates except as an incident to its international or foreign business, if the Board by regulation or order determines that, under the circumstances and subject to the conditions set forth in the regulation or order, the exemption would not be substantially at variance with the purposes of this chapter and would be in the public interest; or
+&emsp;(13) shares of, or activities conducted by, any company which does no business in the United States except as an incident to its international or foreign business, if the Board by regulation or order determines that, under the circumstances and subject to the conditions set forth in the regulation or order, the exemption would not be substantially at variance with the purposes of this chapter and would be in the public interest; or
 
 &emsp;(14) shares of any company which is an export trading company whose acquisition (including each acquisition of shares) or formation by a bank holding company has not been disapproved by the Board pursuant to this paragraph, except that such investments, whether direct or indirect, in such shares shall not exceed 5 per centum of the bank holding company's consolidated capital and surplus.
 
@@ -86,7 +86,7 @@ Leverage.—The Board may not disapprove any proposed investment solely on the b
 
 &emsp;&emsp;(D) A bank holding company which invests in an export trading company may be required, by the Board, to terminate its investment or may be made subject to such limitations or conditions as may be imposed by the Board, if the Board determines that the export trading company has taken positions in commodities or commodity contracts, in securities, or in foreign exchange, other than as may be necessary in the course of the export trading company's business operations.
 
-&emsp;&emsp;(E) Notwithstanding any other provision of law, an Edge Act corporation, organized under section 25(a) <sup>1</sup> of the Federal Reserve Act (12 U.S.C. 611–631), which is a subsidiary of a bank holding company, or an agreement corporation, operating subject to section 25of the Federal Reserve Act \[12 U.S.C. 601 et seq.\], which is a subsidiary of a bank holding company, may invest directly and indirectly in the aggregate up to 5 per centum of its consolidated capital and surplus (25 per centum in the case of a corporation not engaged in banking) in the voting stock of <sup>2</sup> other evidences of ownership in one or more export trading companies.
+&emsp;&emsp;(E) Notwithstanding any other provision of law, an Edge Act corporation, organized under section 25(a) <sup>1</sup> of the Federal Reserve Act (12 U.S.C. 611–631), which is a subsidiary of a bank holding company, or an agreement corporation, operating subject to section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\], which is a subsidiary of a bank holding company, may invest directly and indirectly in the aggregate up to 5 per centum of its consolidated capital and surplus (25 per centum in the case of a corporation not engaged in banking) in the voting stock of <sup>2</sup> other evidences of ownership in one or more export trading companies.
 
 &emsp;&emsp;(F) For purposes of this paragraph—
 
@@ -134,7 +134,7 @@ Specific limitation by order.—Notwithstanding clause (i), the Board may issue 
 
 #### (d) Exemption of company controlling one bank prior to July 1, 1968
 
-To the extent that such action would not be substantially at variance with the purposes of this chapter and subject to such conditions as it considers necessary to protect the public interest, the Board by order, after opportunity for hearing, may grant exemptions from the provisions of this section to any bank holding company which controlled one bank prior to July 1,1968, and has not thereafter acquired the control of any other bank in order (1) to avoid disrupting business relationships that have existed over a long period of years without adversely affecting the banks or communities involved, or (2) to avoid forced sales of small locally owned banks to purchasers not similarly representative of community interests, or (3) to allow retention of banks that are so small in relation to the holding company's total interests and so small in relation to the banking market to be served as to minimize the likelihood that the bank's powers to grant or deny credit may be influenced by a desire to further the holding company's other interests.
+To the extent that such action would not be substantially at variance with the purposes of this chapter and subject to such conditions as it considers necessary to protect the public interest, the Board by order, after opportunity for hearing, may grant exemptions from the provisions of this section to any bank holding company which controlled one bank prior to July 1, 1968, and has not thereafter acquired the control of any other bank in order (1) to avoid disrupting business relationships that have existed over a long period of years without adversely affecting the banks or communities involved, or (2) to avoid forced sales of small locally owned banks to purchasers not similarly representative of community interests, or (3) to allow retention of banks that are so small in relation to the holding company's total interests and so small in relation to the banking market to beserved as to minimize the likelihood that the bank's powers to grant or deny credit may be influenced by a desire to further the holding company's other interests.
 
 #### (e) Divestiture of nonexempt shares
 
@@ -338,11 +338,11 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (1) Applicable to certain exempt institutions and parent companies
 
-&emsp;An institution described in subparagraph (D), (F), (G), or (H) of section 1841(c)(2) of this title shall be treated as a bank, and a company that controls such an institution shall be treated as a bank holding company, for purposes of section 106 of the Bank Holding Company Act Amendments of 1970 \[12 U.S.C. 1971 etseq.\] and section 22(h) of the Federal Reserve Act \[12 U.S.C. 375b\] and any regulation prescribed under any such section.
+&emsp;An institution described in subparagraph (D), (F), (G), or (H) of section 1841(c)(2) of this title shall be treated as a bank, and a company that controls such an institution shall be treated as a bank holding company, for purposes of section 106 of the Bank Holding Company Act Amendments of 1970 \[12 U.S.C. 1971 et seq.\] and section 22(h) of the Federal Reserve Act \[12 U.S.C. 375b\] and any regulation prescribed under any such section.
 
 #### (2) Applicable with respect to certain transactions
 
-&emsp;A company that controls an institution described in subparagraph (D), (F), (G), or (H) of section 1841(c)(2) of this title and any of such company's other affiliates, shall be subject to the tying restrictions of section 106 of the Bank Holding Company Act Amendments of 1970 \[12 U.S.C. 1971 et seq.\] in connection with any transaction involving the products or services of such company or affiliate and those of such institution, as if such company or affiliate were a bank and such institution were a subsidiary of a bank holding company.
+&emsp;A company that controls an institution described in subparagraph (D), (F), (G), or (H) of section 1841(c)(2) of this title and any of such company's other affiliates, shall be subject to the tying restrictions of section 106 of the Bank Holding Company Act Amendments of 1970 \[12 U.S.C. 1971 et seq.\] in connection withany transaction involving the products or services of such company or affiliate and those of such institution, as if such company or affiliate were a bank and such institution were a subsidiary of a bank holding company.
 
 #### (i) Acquisition of savings associations
 
@@ -408,7 +408,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 &emsp;&emsp;&emsp;(i) the home State of such insured depository institution is a State other than the home State of the bank holding company; and
 
-&emsp;&emsp;&emsp;(ii) the applicant (including all insured depository institutions which are affiliates of the applicant) controls, or upon consummation of the transaction would control, more than 10 percent of the total amount of deposits of insured depository institutions in the United States.
+&emsp;&emsp;&emsp;(ii) the applicant (including all insured depository institutions which are affiliates of the applicant) controls, or upon consummation of the transaction would control, more than 10 percent of the totalamount of deposits of insured depository institutions in the United States.
 
 #### (B) Exception
 
@@ -556,7 +556,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (a), a financial holding company may engage in any activity, and may acquire and retain the shares of any company engaged in any activity, that the Board, in accordance with paragraph (2), determines (by regulation or order)—
+&emsp;Notwithstanding subsection (a), a financial holding company may engage in any activity,and may acquire and retain the shares of any company engaged in any activity, that the Board, in accordance with paragraph (2), determines (by regulation or order)—
 
 &emsp;&emsp;(A) to be financial in nature or incidental to such financial activity; or
 
@@ -624,7 +624,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 &emsp;&emsp;&emsp;(ii) the Board has determined, under regulations prescribed or interpretations issued pursuant to subsection (c)(13) (as in effect on the day before November 12, 1999) to be usual in connection with the transaction of banking or other financial operations abroad.
 
-&emsp;&emsp;(H) Directly or indirectly acquiring or controlling, whether as principal, on behalf of 1 or more entities (including entities, other than a depository institution or subsidiary of a depository institution, that the bank holding company controls), or otherwise, shares, assets, or ownership interests (including debt or equity securities, partnership interests, trust certificates, or other instruments representing ownership) of a company or other entity, whether or not constituting control of such company or entity, engaged in any activity not authorized pursuant to this section if—
+&emsp;&emsp;(H) Directly or indirectly acquiring or controlling, whether as principal, on behalf of 1 or more entities (including entities, other than a depository institution or subsidiaryof a depository institution, that the bank holding company controls), or otherwise, shares, assets, or ownership interests (including debt or equity securities, partnership interests, trust certificates, or other instruments representing ownership) of a company or other entity, whether or not constituting control of such company or entity, engaged in any activity not authorized pursuant to this section if—
 
 &emsp;&emsp;&emsp;(i) the shares, assets, or ownership interests are not acquired or held by a depository institution or subsidiary of a depository institution;
 
@@ -680,7 +680,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;A financial holding company may not acquire a company, without the prior approval of the Board, in a transaction inwhich the total consolidated assets to be acquired by the financial holding company exceed $10,000,000,000.
+&emsp;&emsp;&emsp;A financial holding company may not acquire a company, without the prior approval of the Board, in a transaction in which the total consolidated assets to be acquired by the financial holding company exceed $10,000,000,000.
 
 #### (iii) Hart-Scott-Rodino filing requirement
 
@@ -746,11 +746,11 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (3) Board may impose limitations
 
-&emsp;Until the conditions described in a notice to a financial holding company under paragraph\(1) are corrected, the Board may impose such limitations on the conduct or activities of that financial holding company or any affiliate of that company as the Board determines to be appropriate under the circumstances and consistent with the purposes of this chapter.
+&emsp;Until the conditions described in a notice to a financial holding company under paragraph (1) are corrected, the Board may impose such limitations on the conduct or activities of that financial holding company or any affiliate of that company as the Board determines to be appropriate under the circumstances and consistent with the purposes of this chapter.
 
 #### (4) Failure to correct
 
-&emsp;If the conditions described in a notice to a financial holding company under paragraph (1) are not corrected within 180 days after the date of receipt by the financial holding company of a notice under paragraph (1), the Board may require such financial holding company, under such terms and conditions as may be imposed by the Board and subject to such extension of time as may be granted in the discretion of the Board, either—
+&emsp;If the conditions described in a notice to a financial holding company under paragraph (1)are not corrected within 180 days after the date of receipt by the financial holding company of a notice under paragraph (1), the Board may require such financial holding company, under such terms and conditions as may be imposed by the Board and subject to such extension of time as may be granted in the discretion of the Board, either—
 
 &emsp;&emsp;(A) to divest control of any subsidiary depository institution; or
 
@@ -800,7 +800,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 &emsp;&emsp;&emsp;(i) such arrangement does not violate section 106 of the Bank Holding Company Act Amendments of 1970 \[12 U.S.C. 1971 et seq.\]; and
 
-&emsp;&emsp;&emsp;(ii) the Board determines that the arrangement is in the public interest, doesnot undermine the separation of banking and commerce, and is consistent with the safety and soundness of depository institutions.
+&emsp;&emsp;&emsp;(ii) the Board determines that the arrangement is in the public interest, does not undermine the separation of banking and commerce, and is consistent with the safety and soundness of depository institutions.
 
 #### (6) Transactions with nonfinancial affiliates
 
@@ -844,13 +844,13 @@ Section 371c of this title, referred to in subsec. (c)(14)(F)(iv), was amended g
 
 The Federal Deposit Insurance Act, referred to in subsec. (f)(8)(B), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
-Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsecs. (f)(9)(A), (h)and (n)(5)(B)(i), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, as amended, which is classified generally to chapter 22 (§1971 et seq.) of this title.
+Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsecs. (f)(9)(A), (h) and (n)(5)(B)(i), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, which is classified generally to chapter 22 (§1971 et seq.) of this title.
 
 Section 1730a of this title, referred to in subsec. (f)(10)(A), was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
 The Home Owners' Loan Act, referred to in subsec. (i)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see section 1461 of this title and Tables.
 
-The Gramm-Leach-Bliley Act, referred to in subsecs. (k)(3)(A), (7) and (l)(1)(D)(i), (2)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
+The Gramm-Leach-Bliley Act, referred to in subsecs. (k)(3)(A), (7) and (l)(1)(D)(i), (2)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is setout as a note below. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
 The Investment Advisers Act of 1940, referred to in subsec. (k)(4)(H)(ii)(II), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
@@ -908,7 +908,7 @@ Subsec. (j)(3). Pub. L. 106–102, §103(c)(2)(B), inserted ", other than any c
 
 Subsecs. (k) to (o). Pub. L. 106–102, §103(a), added subsecs. (k) to (o).
 
-<b>1996</b>—Subsec. (c)(2). Pub. L. 104–208, §2215, struck out "for not more than one year at a time" before "if, in its judgment," and substituted "and, in the case of a bank holding company which has not disposed of such shares within 5 years after the date on which such shares were acquired, the Board may, upon the application of such company, grant additional exemptions if, in the judgment of the Board, such extension would not be detrimental to the public interest and, either the bank holding company has made a good faith attempt to dispose of such shares during such 5-year period, or the disposal of such shares during such 5-year period would have been detrimental to the company, exceptthat the aggregate duration of such extensions shall not extend beyond 10 years" for "but no such extensions shall extend beyond a date five years".
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–208, §2215, struck out "for not more than one year at a time" before "if, in its judgment," and substituted "and, in the case of a bank holding company which has not disposed of such shares within 5 years after the date on which such shares were acquired, the Board may, upon the application of such company, grant additional exemptions if, in the judgment of the Board, such extension would not be detrimental to the public interest and, either the bank holding company has made a good faith attempt to dispose of such shares during such 5-year period, or the disposal of such shares during such 5-year period would have been detrimental to the company, except that the aggregate duration of such extensions shall not extend beyond 10 years" for "but no such extensions shall extend beyond a date five years".
 
 Subsec. (c)(8). Pub. L. 104–208, §2612, substituted "(and opportunity for hearing in the case of an acquisition of a savings association)" for "and opportunity for hearing".
 
@@ -986,7 +986,7 @@ Subsec. (c)(14). Pub. L. 97–290 added par. (14).
 
 <b>1977</b>—Subsec. (c)(2). Pub. L. 95–188 substituted "shares acquired by a bank holding company or any of its subsidiaries in satisfaction of a debt previously contracted in good faith, but such shares shall be disposed of within a period of two years" for "shares acquired by a bank in satisfaction of a debt previously contracted in good faith, but such bank shall dispose of such shares within a period of two years".
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–607, §103(1), (2), in par. (2) of first sentence, inserted provision respecting prohibition in the case of a company which becomes, as a result of the enactment of the Bank Holding Company Act Amendments of 1970, a bank holding company on the date of such enactment, after Dec. 31, 1980, substituted "engage in any activities" for "engage in any business", designated existing provisions as cl. (A), substituting therein "and other subsidiaries authorized under this chapter or of furnishing services to or performing services for its subsidiaries" for "or of furnishing services to or performing services for any bank of which it owns or controls 25 per centum or more of the voting shares", added cl. (B) and provisions respecting activities of a company covered in 1970, and termination of authority for engaging in the activities, authorization of bank holding company to engage in activities through acquisition of interest in or assets of a going concern engaged in the activities, and retention for period of ten years ownership or control of shares in a company carrying on the activity, where the activity of the company has been terminated; and, in second sentence substituted "two year period" for "period", respectively.
+<b>1970</b>—Subsec. (a). Pub. L. 91–607, §103(1), (2), in par. (2) of first sentence, inserted provision respecting prohibition in the case of a company which becomes, as a result of the enactment of the Bank Holding Company Act Amendments of 1970, a bank holding company on the date of such enactment, after Dec. 31, 1980, substituted "engage in any activities" for "engage in any business", designated existing provisions as cl. (A), substituting therein "and other subsidiaries authorizedunder this chapter or of furnishing services to or performing services for its subsidiaries" for "or of furnishing services to or performing services for any bank of which it owns or controls 25 per centum or more of the voting shares", added cl. (B) and provisions respecting activities of a company covered in 1970, and termination of authority for engaging in the activities, authorization of bank holding company to engage in activities through acquisition of interest in or assets of a going concern engaged in the activities, and retention for period of ten years ownership or control of shares in a company carrying on the activity, where the activity of the company has been terminated; and, in second sentence substituted "two year period" for "period", respectively.
 
 Subsec. (c). Pub. L. 91–607, §103(3), (6), designated existing provisions of text preceding par. (1) as cl. (i) and added cl. (2), and inserted concluding text following par. (13) deeming an application under par. (8) as granted upon failure of Board to act within prescribed period and requiring the Board in the report to Congress to include a description and a statement of reasons for approval of each activity under par. (8), respectively.
 

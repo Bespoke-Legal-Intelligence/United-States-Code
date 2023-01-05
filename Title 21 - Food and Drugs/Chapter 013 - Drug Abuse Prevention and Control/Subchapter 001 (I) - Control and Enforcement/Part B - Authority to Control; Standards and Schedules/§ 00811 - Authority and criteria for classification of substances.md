@@ -52,7 +52,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 &emsp;(B) If such requirements are not met by such existing controls and the Secretary of Health and Human Services concurs in the scheduling decision or schedule notice transmitted by the notification, the Secretary shall recommend to the Attorney General that he initiate proceedings for scheduling the drug or substance under the appropriate schedule pursuant to subsections (a) and (b) of this section.
 
-&emsp;(C) If such requirements are not met by such existing controls and the Secretary of Health and Human Services does not concur in the scheduling decision or schedule notice transmitted by the notification, the Secretary shall—
+&emsp;(C) If such requirements are not met by such existing controls and the Secretary of Healthand Human Services does not concur in the scheduling decision or schedule notice transmitted by the notification, the Secretary shall—
 
 &emsp;&emsp;(i) if he deems that additional controls are necessary to protect the public health and safety, recommend to the Attorney General that he initiate proceedings for scheduling the drug or substance pursuant to subsections (a) and (b) of this section, to apply such additional controls;
 
@@ -74,7 +74,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 (C) An order issued under subparagraph (A) or (B) may be issued without regard to the findings required by subsection (a) of this section or by section 812(b) of this title and without regard to the procedures prescribed by subsection (a) or (b) of this section.
 
-(5) Nothing in the amendments made by the Psychotropic Substances Act of 1978 or the regulations or orders promulgated thereunder shall be construed to preclude requests by the Secretary of Health and Human Services or the Attorney General through the Secretary of State, pursuant to article 2 or other applicable provisions of the Convention, for review of scheduling decisions under such Convention, based on new or additional information.
+(5) Nothing in the amendments made by the Psychotropic Substances Act of 1978 or the regulations or orders promulgated thereunder shall be construed to preclude requests by the Secretary of Health and Human Services or the Attorney General through the Secretary of State, pursuant to article 2 or other applicable provisions of the Convention, for review of schedulingdecisions under such Convention, based on new or additional information.
 
 #### (e) Immediate precursors
 
@@ -120,11 +120,11 @@ If, at the time a new-drug application is submitted to the Secretary for any dru
 
 (1) The Attorney General may issue a temporary order adding a drug or other substance to the definition of anabolic steroids if the Attorney General finds that—
 
-&emsp;(A) the drug or other substance satisfies the criteria for being considered an anabolic steroid under section 802(41) of this title but is not listed in that section or by regulation of the Attorney General as being an anabolic steroid; and
+&emsp;(A) the drug or other substance satisfies the criteria for being considered an anabolic steroid under section 802(41) of this title but is not listed in that section or by regulation of theAttorney General as being an anabolic steroid; and
 
 &emsp;(B) adding such drug or other substance to the definition of anabolic steroids will assist in preventing abuse or misuse of the drug or other substance.
 
-(2) An order issued under paragraph (1) shall not take effect until 30 days after the date of the publication by the Attorney General of a noticein the Federal Register of the intention to issue such order and the grounds upon which such order is to be issued. The order shall expire not later than 24 months after the date it becomes effective, except that the Attorney General may, during the pendency of proceedings under paragraph (6), extend the temporary scheduling order for up to 6 months.
+(2) An order issued under paragraph (1) shall not take effect until 30 days after the date of the publication by the Attorney General of a notice in the Federal Register of the intention to issue such order and the grounds upon which such order is to be issued. The order shall expire not later than 24 months after the date it becomes effective, except that the Attorney General may, during the pendency of proceedings under paragraph (6), extend the temporary scheduling order for up to 6 months.
 
 (3) The Attorney General shall transmit notice of an order proposed to be issued under paragraph (1) to the Secretary of Health and Human Services. In issuing an order under paragraph (1), the Attorney General shall take into consideration any comments submitted by the Secretary in response to a notice transmitted pursuant to this paragraph.
 
@@ -152,15 +152,15 @@ If, at the time a new-drug application is submitted to the Secretary for any dru
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a), (c)(8), (d)(3), (4)(A), (B), and (g)(2), (3), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsecs. (a), (c)(8), (d)(3), (4)(A), (B), and (g)(2), (3), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(3) and (g)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(3) and (g)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 Schedules I, II, III, IV, and V, referred to in subsecs. (d)(4)(A), (B), (h)(1), and (j)(1), are set out in section 812(c) of this title.
 
 The Psychotropic Substances Act of 1978, referred to in subsec. (d)(5), is Pub. L. 95–633, Nov. 10, 1978, 92 Stat. 3768, which enacted sections 801a, 830, and 852 of this title, amended sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealed section 830 of this title effective Jan. 1, 1981, and enacted provisions set out as notes under sections 801, 801a, 812, and 830 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 801 of this title and Tables.
 
-This subchapter and subchapter II of this chapter, referred to in subsec. (g)(1), was in the original "titles II and III of the Comprehensive Drug Abuse Prevention and Control Act", which was translated as meaning titles II and III of the Comprehensive Drug Abuse Prevention and Control Act of 1970, Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, 1285, as amended, to reflect the probable intent of Congress. Title II is classified principally to this subchapter and part A of title III comprises subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title notes set out under section 801 of this title and Tables.
+This subchapter and subchapter II of this chapter, referred to in subsec. (g)(1), was in the original "titles II and III of the Comprehensive Drug Abuse Prevention and Control Act", which was translated as meaning titles II and III of the Comprehensive Drug Abuse Prevention and Control Act of 1970, Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, 1285, to reflect the probable intent of Congress. Title II is classified principally to this subchapter and part A of title III comprises subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title notes set out under section 801 of this title and Tables.
 
 #### Amendments
 

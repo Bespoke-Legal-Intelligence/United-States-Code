@@ -48,7 +48,7 @@ Amendment by Pub. L. 100–204 effective 30 days after Dec. 22, 1987, see sectio
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–618, title VI, §601(d), Nov. 8, 1984, 98 Stat. 3303, provided that: "The amendments made by subsection (c) \[amending this section\] shall apply only with respect to any appointment of a Director or Deputy Director of the Office of Foreign Missions, as thecase may be, after the date of the enactment of this section \[Nov. 8, 1984\]."
+Pub. L. 98–618, title VI, §601(d), Nov. 8, 1984, 98 Stat. 3303, provided that: "The amendments made by subsection (c) \[amending this section\] shall apply only with respect to any appointment of a Director or Deputy Director of the Office of Foreign Missions, as the case may be, after the date of the enactment of this section \[Nov. 8, 1984\]."
 
 #### Effective Date of 1983 Amendment
 

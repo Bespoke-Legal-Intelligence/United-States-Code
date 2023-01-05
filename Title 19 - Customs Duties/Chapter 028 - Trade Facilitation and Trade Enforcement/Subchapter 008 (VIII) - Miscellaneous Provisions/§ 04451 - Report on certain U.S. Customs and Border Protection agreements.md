@@ -46,7 +46,7 @@ A program specified in this subsection is—
 
 &emsp;(3) the program under which U.S. Customs and Border Protection collects a fee for the use of customs services at designated facilities under section 58b of this title;
 
-&emsp;(4) the program established by subchapter VII of this chapter authorizing U.S. Customs and Border Protection to establish preclearance operations in foreign countries; or
+&emsp;(4) the program established by subchapter VII of this chapter authorizing U.S. Customsand Border Protection to establish preclearance operations in foreign countries; or
 
 &emsp;(5) the program for entering into reimbursable fee agreements with U.S. Customs and Border Protection established under section 301 of title 6.
 

@@ -128,7 +128,7 @@
 
 #### (1) Coverage effective upon placement for adoption
 
-&emsp;In any case in which a group health plan provides coverage for dependent children of participants or beneficiaries, such plan shall provide benefits to dependent children placed with participants or beneficiaries for adoption under the same terms and conditions as apply in the case of dependent children who are natural children of participants or beneficiaries under the plan, irrespective of whether the adoption has become final.
+&emsp;In any case in which a group health plan provides coverage for dependent children of participants or beneficiaries, such plan shallprovide benefits to dependent children placed with participants or beneficiaries for adoption under the same terms and conditions as apply in the case of dependent children who are natural children of participants or beneficiaries under the plan, irrespective of whether the adoption has become final.
 
 #### (2) Restrictions based on preexisting conditions at time of placement for adoption prohibited
 
@@ -160,11 +160,11 @@ Any regulations prescribed under this section shall be prescribed by the Secreta
 
 #### References in Text
 
-Section 401(b) of the Child Support Performance and Incentive Act of 1998, referred to in subsec. (a)(5)(C)(i),is section 401(b) of Pub. L. 105–200, which was formerly set out as a note under section 651 of Title 42, The Public Health and Welfare.
+Section 401(b) of the Child Support Performance and Incentive Act of 1998, referred to in subsec. (a)(5)(C)(i), is section 401(b) of Pub. L. 105–200, which was formerly set out as a note under section 651 of Title 42, The Public Health and Welfare.
 
 This chapter, referred to in subsec. (a)(7)(A), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -250,7 +250,7 @@ Enrollment of child in plan.—In any case in which an appropriately completed N
 
 &emsp;"(3)
 
-Rule of construction.—Nothing in this subsection shall be construed as requiring a State or local governmental group health plan, upon receipt ofa National Medical Support Notice, to provide benefits under the plan (or eligibility for such benefits) in addition to benefits (or eligibility for benefits) provided under the terms of the plan as of immediately before receipt of such Notice.
+Rule of construction.—Nothing in this subsection shall be construed as requiring a State or local governmental group health plan, upon receipt of a National Medical Support Notice, to provide benefits under the plan (or eligibility for such benefits) in addition to benefits (or eligibility for benefits) provided under the terms of the plan as of immediately before receipt of such Notice.
 
 &emsp;"(4)
 
@@ -396,7 +396,7 @@ Payment to state official treated as satisfaction of plan's obligation to make p
 
 &emsp;"(8)
 
-Effective date.—The provisions of this subsection shall take effect on the date of the issuance of interim regulations pursuant to subsection (b)(4) of this section \[section 401(b)(4) of Pub. L. 105–200, 42 U.S.C. 651 note\].
+Effective date.—The provisions of this subsection shall take effect on the date of the issuance of interim regulations pursuant to subsection (b)(4) ofthis section \[section 401(b)(4) of Pub. L. 105–200, 42 U.S.C. 651 note\].
 
 "(g)
 

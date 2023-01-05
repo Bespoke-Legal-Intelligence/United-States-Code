@@ -32,7 +32,7 @@ The Secretary may by regulation provide for general terms and conditions of insu
 
 #### (e) Premium schedule studies and investigations
 
-The Secretary may undertake and carry out such studies and investigations, and receive or exchange such information, as may be necessary to formulate a premium schedule which will enable the insurance and reinsurance authorized by this section to be provided on a basis whichis (1) in accordance with accepted actuarial principles; and (2) fair and equitable.
+The Secretary may undertake and carry out such studies and investigations, and receive or exchange such information, as may be necessary to formulate a premium schedule which will enable the insurance and reinsurance authorized by this section to be provided on a basis which is (1) in accordance with accepted actuarial principles; and (2) fair and equitable.
 
 #### (f) Regulations relating to premium rates
 

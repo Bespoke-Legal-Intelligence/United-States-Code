@@ -20,7 +20,7 @@ Other Economic Regulation.—Except as provided in this section, the Secretary m
 
 (d)
 
-Labor Requirements.—The Secretary may not exempt an air carrier from section 42112 of this title. However, the Secretary may exempt from section 42112(b)(1) and (2) an air carrier not providing scheduled air transportation, and the operations conducted during daylight hours by an air carrier providing scheduled air transportation, when the Secretary decides that—
+Labor Requirements.—The Secretary may not exempt an air carrier from section 42112 of this title. However, the Secretary may exemptfrom section 42112(b)(1) and (2) an air carrier not providing scheduled air transportation, and the operations conducted during daylight hours by an air carrier providing scheduled air transportation, when the Secretary decides that—
 
 &emsp;(1) because of the limited extent of, or unusual circumstances affecting, the operation of the air carrier, the enforcement of section 42112(b)(1) and (2) of this title is or would be an unreasonable burden on the air carrier that would obstruct its development and prevent it from beginning or continuing operations; and
 
@@ -68,7 +68,7 @@ Emergency Air Transportation by Foreign Air Carriers.—(1) To the extent that t
 
 &emsp;(B) monitor continuously the passenger load factor of air carriers in the market that hold certificates under section 41102 of this title; and
 
-&emsp;(C) review the exemption at least every 30 days (or, in the case of an exemption that is necessary to provide and sustain air transportation in American Samoa between the islandsof Tutuila and Manu'a, at least every 180 days) to ensure that the unusual circumstances that established the need for the exemption still exist.
+&emsp;(C) review the exemption at least every 30 days (or, in the case of an exemption that is necessary to provide and sustain air transportation in American Samoa between the islands of Tutuila and Manu'a, at least every 180 days) to ensure that the unusual circumstances that established the need for the exemption still exist.
 
 (3)
 
@@ -236,7 +236,7 @@ Subsec. (g)(3), (4). Pub. L. 115–254, §402(2), added pars. (3) and (4) and st
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–287, §5(65)(B), substituted "sections 44909 and 46301(b)" for "section 46301(b)".
 
-Pub. L. 104–287, §5(65)(A), substituted "chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714)," for "sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742,".
+Pub. L. 104–287, §5(65)(A), substituted "chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417\(except sections 41703, 41704, 41710, 41713, and 41714)," for "sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742,".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

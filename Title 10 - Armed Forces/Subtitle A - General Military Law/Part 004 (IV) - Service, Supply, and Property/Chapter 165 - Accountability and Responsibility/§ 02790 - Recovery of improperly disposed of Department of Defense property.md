@@ -34,7 +34,7 @@ Determinations of Violations.—(1) The district court of the United States for 
 
 (2) Except as provided in paragraph (3), in the case of property, the possession of which could undermine national security or create a hazard to public health or safety, the determination under paragraph (1) may be made after the seizure of the property, as long as the United States files an action seeking such determination within 90 days after seizure of the property. If the person from whom the property is seized is found to have been lawfully in possession of the property and the return of the property could undermine national security or create a hazard to public health or safety, the Secretary of Defense shall reimburse the person for the market value for the property.
 
-(3) Paragraph (2) shall not apply to any firearm, ammunition, or ammunition component, or firearm part or accessory that is not prohibited for commercial sale.
+(3) Paragraph (2) shall not apply to any firearm, ammunition, or ammunition component,or firearm part or accessory that is not prohibited for commercial sale.
 
 (f)
 

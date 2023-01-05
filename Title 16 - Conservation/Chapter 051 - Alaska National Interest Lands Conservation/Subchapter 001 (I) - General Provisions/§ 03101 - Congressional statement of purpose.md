@@ -2,7 +2,7 @@
 
 #### (a) Establishment of units
 
-In order to preserve for the benefit, use, education, and inspiration of present and futuregenerations certain lands and waters in the State of Alaska that contain nationally significant natural, scenic, historic, archeological, geological, scientific, wilderness, cultural, recreational, and wildlife values, the units described in the following titles are hereby established.
+In order to preserve for the benefit, use, education, and inspiration of present and future generations certain lands and waters in the State of Alaska that contain nationally significant natural, scenic, historic, archeological, geological, scientific, wilderness, cultural, recreational, and wildlife values, the units described in the following titles are hereby established.
 
 #### (b) Preservation and protection of scenic, geological, etc., values
 
@@ -24,7 +24,7 @@ This Act provides sufficient protection for the national interest in the scenic,
 
 The following titles, referred to in subsec. (a), mean titles II to XV of Pub. L. 96–487, Dec. 2, 1980, §§201–1503, 94 Stat. 2377–2551. For complete classification of these titles to the Code, see Tables.
 
-This Act, referred to in subsecs. (b) to (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This Act, referred to in subsecs. (b) to (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

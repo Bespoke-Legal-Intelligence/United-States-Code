@@ -26,20 +26,6 @@
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2574; Pub. L. 99–554, title II, §257(l), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title V, §501(d)(9), Oct. 22, 1994, 108 Stat. 4144; Pub. L. 116–54, §4(a)(7), Aug. 23, 2019, 133 Stat. 1086; Pub. L. 116–260, div. N, title III, §320(a), (f)(2)(A)(i), Dec. 27, 2020, 134 Stat. 2015, 2016.)
 
-#### Amendment of Section and Termination of Amendment
-
-<i>Pub. L. 116–260, div. N, title III, §320(a), (f)(1), Dec. 27, 2020, 134 Stat. 2015, 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, this section is amended by adding at the end the following:</i>
-
-<i>(g)(1) The court, after notice and a hearing, may authorize a debtor in possession or a trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title to obtain a loan under paragraph (36) or (37) of section 7(a) of the Small Business Act (15 U.S.C. 636(a)), and such loan shall be treated as a debt to the extent the loan is not forgiven in accordance with section 7A of the Small Business Act or subparagraph (J) of such paragraph (37), as applicable, with priority equal to a claim of the kind specified in subsection (c)(1) of this section.</i>
-
-<i>(2) The trustee may incur debt described in paragraph (1) notwithstanding any provision in a contract, prior order authorizing the trustee to incur debt under this section, prior order authorizing the trustee to use cash collateral under section 363, or applicable law that prohibits the debtor from incurring additional debt.</i>
-
-<i>(3) The court shall hold a hearing within 7 days after the filing and service of the motion to obtain a loan described in paragraph (1). Notwithstanding the Federal Rules of Bankruptcy Procedure, at such hearing, the court may grant relief on a final basis.</i>
-
-<i>Pub. L. 116–260, div. N, title III, §320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, §320(a), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, this section is amended by striking subsection (g).</i>
-
-<i>See 2020 Amendment notes below.</i>
-
 #### Historical and Revision Notes
 
 #### legislative statements
@@ -68,7 +54,7 @@ A claim arising as a result of lending or borrowing under this section will be a
 
 Section 5 of the Securities Act of 1933, referred to in subsec. (f), is classified to section 77e of Title 15, Commerce and Trade.
 
-The Trust Indenture Act of 1939, referred to in subsec. (f), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
+The Trust Indenture Act of 1939, referred to in subsec. (f), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
 
 #### Amendments
 
@@ -131,6 +117,8 @@ In general.—If the amendments made by subsections (a) through (e) take effect 
 &emsp;"(B)
 
 Applicability.—Notwithstanding the amendments made by subparagraph (A) of this paragraph, if the amendments made by subsections (a) through (e) take effect under paragraph (1) of this subsection, such amendments shall apply to any case under title 11, United States Code, commenced before the date that is 2 years after the date of enactment of this Act \[Dec. 27, 2020\]."
+
+&emsp;\[Pursuant to 15 U.S.C. 636(a)(36)(A)(iii), the "covered period" for loans under the Paycheck Protection Program ended on June 30, 2021.\]
 
 #### Effective Date of 2019 Amendment
 

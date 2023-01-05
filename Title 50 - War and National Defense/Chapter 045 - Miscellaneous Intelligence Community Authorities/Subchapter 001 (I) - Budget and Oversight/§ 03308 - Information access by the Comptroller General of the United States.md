@@ -8,7 +8,7 @@
 
 #### (2) Amendment to directive
 
-&emsp;The Director of National Intelligence, in consultation with the Comptroller General, may issue an amendment to the directive issued under paragraph (1) at any time the Director determines such an amendment is appropriate.
+&emsp;The Director of National Intelligence, in consultation with the Comptroller General,may issue an amendment to the directive issued under paragraph (1) at any time the Director determines such an amendment is appropriate.
 
 #### (3) Relationship to other laws
 
@@ -48,7 +48,7 @@ The directive issued under subsection (a)(1) and any amendment to such directive
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (a)(3)(B), is act July 26, 1947, ch. 343, 61 Stat. 495,which is classified principally to chapter 44 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(3)(B), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

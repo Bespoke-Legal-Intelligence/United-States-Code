@@ -22,7 +22,7 @@ The Commission shall, within 180 days after October 5, 1992, initiate a rulemaki
 
 #### (3) Prices, terms, and conditions; editorial control
 
-&emsp;A provider of direct broadcast satellite service shall meet the requirements of this subsection by making channel capacity available to national educational programming suppliers, upon reasonable prices, terms, and conditions, as determined by the Commission under paragraph (4). The provider of direct broadcast satellite service shall not exercise any editorial control over any video programming provided pursuant to this subsection.
+&emsp;A provider of direct broadcast satellite service shall meet the requirements of this subsection by making channel capacity available to national educational programming suppliers, upon reasonable prices, terms, and conditions, as determined by the Commission under paragraph (4). The provider of directbroadcast satellite service shall not exercise any editorial control over any video programming provided pursuant to this subsection.
 
 #### (4) Limitations
 

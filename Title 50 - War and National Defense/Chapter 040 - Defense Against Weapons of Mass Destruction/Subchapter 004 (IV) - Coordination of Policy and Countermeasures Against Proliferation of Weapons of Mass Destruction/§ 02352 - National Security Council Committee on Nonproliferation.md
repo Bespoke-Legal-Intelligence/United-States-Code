@@ -52,7 +52,7 @@ The Committee has the following responsibilities:
 
 &emsp;&emsp;&emsp;(iv) Safeguarding weapons of mass destruction materials and related technologies.
 
-&emsp;&emsp;&emsp;(v) Improving coordination and cooperation among intelligence activities, law enforcement, and the Departments of Defense, State, Commerce, and Energy insupport of nonproliferation and counterproliferation efforts.
+&emsp;&emsp;&emsp;(v) Improving coordination and cooperation among intelligence activities, law enforcement, and the Departments of Defense, State, Commerce, and Energy in support of nonproliferation and counterproliferation efforts.
 
 &emsp;&emsp;&emsp;(vi) Improving export controls over materials and technologies that can contribute to the acquisition of weapons of mass destruction.
 

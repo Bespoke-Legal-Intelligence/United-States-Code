@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 30 days after December 18, 2014, the Secretary of State shall submit a plan, including actions by the United StatesGovernment, other governments, and international organizations, to meet the need for protection of and assistance for internally displaced persons in Ukraine, to—
+&emsp;Not later than 30 days after December 18, 2014, the Secretary of State shall submit a plan, including actions by the United States Government, other governments, and international organizations, to meet the need for protection of and assistance for internally displaced persons in Ukraine, to—
 
 &emsp;&emsp;(A) the Committee on Foreign Relations, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate; and
 

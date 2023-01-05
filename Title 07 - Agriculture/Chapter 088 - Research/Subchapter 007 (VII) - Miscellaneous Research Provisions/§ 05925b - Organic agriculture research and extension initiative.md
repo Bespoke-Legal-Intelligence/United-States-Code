@@ -2,7 +2,7 @@
 
 #### (a) Competitive specialized research and extension grants authorized
 
-In consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, using funds made available under subsection (e), the Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants in each of fiscal years 2019 through 2023 to support research, education, and extension activities regarding organically grown and processed agricultural commodities for the purposes of—
+In consultation with the National Agricultural Research, Extension, Education, and EconomicsAdvisory Board, using funds made available under subsection (e), the Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants in each of fiscal years 2019 through 2023 to support research, education, and extension activities regarding organically grown and processed agricultural commodities for the purposes of—
 
 &emsp;(1) facilitating the development and improvement of organic agriculture production, breeding, and processing methods;
 

@@ -8,7 +8,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (1) In general
 
-&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any Archer MSA of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation under section 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
+&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any Archer MSA of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent suchamounts do not exceed the limitation under section 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
 
 #### (2) No constructive receipt
 
@@ -54,7 +54,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (1) In general
 
-&emsp;In the case of an employee who is an eligible individual (as defined in section 223(c)(1)),amounts contributed by such employee's employer to any health savings account (as defined in section 223(d)) of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation under section 223(b) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
+&emsp;In the case of an employee who is an eligible individual (as defined in section 223(c)(1)), amounts contributed by such employee's employer to any health savings account (as defined in section 223(d)) of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation under section 223(b) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
 
 #### (2) Special rules
 
@@ -136,13 +136,13 @@ For purposes of this section and section 105, expenses incurred for menstrual ca
 
 For purposes of this section and section 105, payments or reimbursements from a qualified small employer health reimbursement arrangement (as defined in section 9831(d)) of an individual for medical care (as defined in section 213(d)) shall not be treated as paid or reimbursed under employer-provided coverage for medical expenses under an accident or health plan if for the month in which such medical care is provided the individual does not have minimum essential coverage (within the meaning of section 5000A(f)).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; Pub. L. 99–272, title X, §10001(b), Apr. 7, 1986, 100 Stat. 223; Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), Oct. 22, 1986, 100 Stat. 2450, 2508; Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), Nov. 10, 1988, 102 Stat. 3589, 3624; Pub. L. 101–239, title VII, §7862(c)(1)(A), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 104–191, title III, §§301(c)(1), 321(c)(2), Aug. 21, 1996, 110 Stat. 2048, 2058; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(2), (b)(2)(A), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L.108–173, title XII, §1201(d)(1), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 109–432, div. A, title III, §302(a), Dec. 20, 2006, 120 Stat. 2948; Pub. L. 111–148, title IX, §9003(c), Mar. 23, 2010, 124 Stat. 854; Pub. L. 113–295, div. A, title II, §221(a)(17), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–255, div. C, title XVIII, §18001(a)(2), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 116–136, div. A, title III, §3702(c), Mar. 27, 2020, 134 Stat. 416.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; Pub. L. 99–272, title X, §10001(b), Apr. 7, 1986, 100 Stat. 223; Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), Oct. 22, 1986, 100 Stat. 2450, 2508; Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), Nov. 10, 1988, 102 Stat. 3589, 3624; Pub. L. 101–239, title VII, §7862(c)(1)(A), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 104–191, title III, §§301(c)(1), 321(c)(2), Aug. 21, 1996, 110 Stat. 2048, 2058; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(2), (b)(2)(A), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, §1201(d)(1), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 109–432, div. A, title III, §302(a), Dec. 20, 2006, 120 Stat. 2948; Pub. L. 111–148, title IX, §9003(c), Mar. 23, 2010, 124 Stat. 854; Pub. L. 113–295, div. A, title II, §221(a)(17), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–255, div. C, title XVIII, §18001(a)(2), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 116–136, div. A, title III, §3702(c), Mar. 27, 2020, 134 Stat. 416.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-COBRA, referred to in the heading for subsec. (b)(5), probably means the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 82, as amended. For complete classification of this Act to the Code, see Tables.
+COBRA, referred to in the heading for subsec. (b)(5), probably means the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 82. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -224,7 +224,7 @@ Amendment by section 321(c)(2) of Pub. L. 104–191 applicable to contracts issu
 
 Pub. L. 101–239, title VII, §7862(c)(1)(C), Dec. 19, 1989, 103 Stat. 2432, provided that: "The amendments made by this paragraph \[amending this section and section 1161 of Title 29, Labor\] shall apply to years beginning after December 31, 1986."
 
-Pub. L. 101–239, title VII, §7863, Dec. 19, 1989, 103 Stat. 2434, provided that: "Except as otherwise provided in this subpart any amendment made by this subpart \[subpart A (§§7861–7863) of part V of title VII of Pub. L. 101–239, amending this section and sections 162, 411, 417,and 4980B of this title and sections 1052 to 1055, 1161, 1162, 1167, 1398, and 1461 of Title 29, Labor, enacting provisions set out as notes under this section and sections 162, 417, 1167, 4980, and 4980B of this title, and amending provisions set out as notes under sections 401 and 411 of this title and sections 1001 and 1054 of Title 29\], shall take effect as if included in the provision of the Reform Act \[Pub. L. 99–514\] to which such amendment relates."
+Pub. L. 101–239, title VII, §7863, Dec. 19, 1989, 103 Stat. 2434, provided that: "Except as otherwise provided in this subpart any amendment made by this subpart \[subpart A (§§7861–7863) of part V of title VII of Pub. L. 101–239, amending this section and sections 162, 411, 417, and 4980B of this title and sections 1052 to 1055, 1161, 1162, 1167, 1398, and 1461 of Title 29, Labor, enacting provisions set out as notes under this section and sections 162, 417, 1167, 4980, and 4980B of this title, and amending provisions set out as notes under sections 401 and 411 of this title and sections 1001 and 1054 of Title 29\], shall take effect as if included in the provision of the Reform Act \[Pub. L. 99–514\] to which such amendment relates."
 
 #### Effective Date of 1988 Amendment
 
@@ -264,5 +264,5 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -122,7 +122,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(iv) providing clean energy-related services designed to meet the needs of rural communities;
 
-&emsp;&emsp;&emsp;(v) working with schools and youth programs to educate students and youthabout ways to reduce home energy use and improve the environment, including conducting service-learning projects to provide such education;
+&emsp;&emsp;&emsp;(v) working with schools and youth programs to educate students and youth about ways to reduce home energy use and improve the environment, including conducting service-learning projects to provide such education;
 
 &emsp;&emsp;&emsp;(vi) assisting in the development of local recycling programs;
 
@@ -130,7 +130,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(viii) cleaning and improving rivers maintained by the Federal Government or a State;
 
-&emsp;&emsp;&emsp;(ix) carrying out projects in partnership with the National Park Service, designed to renew and rehabilitate national park resources and enhance services and learning opportunities for national park visitors, and nearby communities and schools;
+&emsp;&emsp;&emsp;(ix) carrying out projects in partnership with the National Park Service, designed to renew and rehabilitate national park resources and enhance services and learningopportunities for national park visitors, and nearby communities and schools;
 
 &emsp;&emsp;&emsp;(x) providing service through a full-time, year-round youth corps program or full-time summer youth corps program, such as a conservation corps or youth service corps program that—
 
@@ -180,7 +180,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(iii) assisting veterans in developing their educational opportunities (including opportunities for professional certification, licensure, or credentials), coordinating activities with and assisting State and local agencies administering veterans education benefits, and coordinating activities with and assisting entities administering veterans programs with internships and fellowships that could lead to employment in the private and public sectors;
 
-&emsp;&emsp;&emsp;(iv) promoting efforts within a community to serve the needs of veterans andmembers of the Armed Forces who are on active duty, including helping veterans file benefits claims and assisting Federal agencies in providing services to veterans, and sending care packages to Members of the Armed Forces who are deployed;
+&emsp;&emsp;&emsp;(iv) promoting efforts within a community to serve the needs of veterans and members of the Armed Forces who are on active duty, including helping veterans file benefits claims and assisting Federal agencies in providing services to veterans, and sending care packages to Members of the Armed Forces who are deployed;
 
 &emsp;&emsp;&emsp;(v) assisting veterans in developing mentoring relationships with economically disadvantaged students;
 
@@ -338,7 +338,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (3) Indicators
 
-&emsp;The indicators for a program described in this subsection are the indicators described in subparagraph (C) of paragraphs <sup>3</sup> (1), (2), (3), (4), or (5) of subsection (a) or any additional local indicator (applicable to a participant or recipient and on which an improvement in performance is needed) relating to meeting unmet community needs, that is approved by the Corporation or a State Commission.
+&emsp;The indicators for a program described in this subsection are the indicators described in subparagraph (C) of paragraphs <sup>3</sup> (1), (2), (3), (4), or (5) of subsection (a) or any additional local indicator (applicable to a participant or recipient and on which an improvement in performance is needed) relating to meeting unmetcommunity needs, that is approved by the Corporation or a State Commission.
 
 #### (c) Program models for service corps
 
@@ -450,7 +450,7 @@ The Corporation shall consult with the Secretary of Education, the Secretary of 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Corporation shall require that each recipient of assistance under the national service laws that operates a tutoring program involving elementary school or secondary school students certifies that individuals serving in approvednational service positions as tutors in such program have—
+&emsp;Except as provided in paragraph (2), the Corporation shall require that each recipient of assistance under the national service laws that operates a tutoring program involving elementary school or secondary school students certifies that individuals serving in approved national service positions as tutors in such program have—
 
 &emsp;&emsp;(A) obtained their high school diplomas; and
 

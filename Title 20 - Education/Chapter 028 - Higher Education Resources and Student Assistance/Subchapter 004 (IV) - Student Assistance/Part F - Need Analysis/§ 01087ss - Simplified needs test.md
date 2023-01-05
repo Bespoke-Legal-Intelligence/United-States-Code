@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) in the case of a family meeting the requirements of subsection (b)(1), permit such family to submit only the data elements required under subsection (b)(2) for the purposes of establishing eligibility for student financial aid under this part; and
 
-&emsp;&emsp;(B) in the case of a family meeting the requirements of subsection (c), permit such family to be treated as having an expected family contribution equal to zero for purposes of establishing such eligibility and to submit only the data elements required to make a determination under subsection (c).
+&emsp;&emsp;(B) in the case of a family meeting the requirements of subsection (c), permit suchfamily to be treated as having an expected family contribution equal to zero for purposes of establishing such eligibility and to submit only the data elements required to make a determination under subsection (c).
 
 #### (b) Simplified needs test
 
@@ -88,7 +88,7 @@ The Secretary shall consider an applicant to have an expected family contributio
 
 &emsp;&emsp;&emsp;(iii) include at least one parent who is a dislocated worker; or
 
-&emsp;&emsp;&emsp;(iv) received, or the student received, benefits at some time during the previous24-month period under a means-tested Federal benefit program as defined under subsection (d); and
+&emsp;&emsp;&emsp;(iv) received, or the student received, benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
 &emsp;&emsp;(B) the sum of the adjusted gross income of the parents is less than or equal to $23,000; or
 
@@ -132,17 +132,17 @@ In this section:
 
 &emsp;&emsp;(F) other programs identified by the Secretary.
 
-(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–128, title V, §512(n)(2), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(h), Dec. 27, 2020, 134 Stat. 3152.)
+(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–128, title V, §512(n)(2), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(h), Dec. 27, 2020, 134 Stat. 3152; Pub. L. 117–103, div. R, §102(b)(3), Mar. 15, 2022, 136 Stat. 819.)
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(h), Dec. 27, 2020, 134 Stat. 3137, 3152, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(h), Dec. 27, 2020, 134 Stat. 3137, 3152; Pub. L. 117–103, div. R, §102(a), (b)(3), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
 
 #### §1087ss. Eligible applicants exempt from asset reporting
 
 #### <i>(a) In general</i>
 
-<i>Notwithstanding any other provision of law, this section shall be effective for each individual seeking to apply for Federal financial aid under this subchapter, as part of the simplified application for Federal student financial aid under section 1090 of this title, on or after July 1, 2023.</i>
+<i>Notwithstanding any other provision of law, this section shall be effective for each individual seeking to apply for Federal financial aid under this subchapter, as part of the simplified application for Federal student financial aid under section 1090 of this title, on or after July 1, 2024.</i>
 
 #### <i>(b) Applicants exempt from asset reporting</i>
 
@@ -160,7 +160,7 @@ In this section:
 
 &emsp;&emsp;&emsp;<i>(i) do not file a Schedule C (or the equivalent successor schedule) with the Federal income tax return for the second preceding tax year; or</i>
 
-&emsp;&emsp;&emsp;<i>(ii) file a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the</i><i>Federal income tax return for the second preceding tax year.</i>
+&emsp;&emsp;&emsp;<i>(ii) file a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the Federal income tax return for the second preceding tax year.</i>
 
 &emsp;&emsp;<i>(C) Is an applicant who is an independent student and the student (including the student's spouse, if any) has a total adjusted gross income that is less than $60,000 and does not file a Schedule A, B, D, E, F, or H (or equivalent successor schedules), with the Federal income tax return for the second preceding tax year, and—</i>
 
@@ -228,7 +228,7 @@ In this section:
 
 &emsp;&emsp;&emsp;<i>(vii) Other means-tested programs determined by the Secretary to be approximately consistent with the income eligibility requirements of the means-tested programs under clauses (i) through (vi).</i>
 
-<i>See 2020 Amendment note below.</i>
+<i>See 2020 and 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -245,6 +245,8 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–103 substituted "July 1, 2024" for "July 1, 2023".
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to simplified needs test.
 
@@ -266,7 +268,7 @@ Subsec. (c)(2)(A)(iii). Pub. L. 111–39, §406(a)(4)(B)(ii), amended cl. (iii) 
 
 <b>2007</b>—Subsec. (b)(1)(A)(i), (B)(i). Pub. L. 110–84, §602(a)(1), added subcl. (III), redesignated former subcl. (III) as (IV), and, in subcl. (IV), substituted "24-month" for "12-month".
 
-Subsec. (c). Pub. L. 110–84, §602(a)(2)(C), inserted at end of concluding provisions "The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution. The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title."
+Subsec. (c). Pub. L. 110–84, §602(a)(2)(C), inserted at end of concluding provisions "The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution.The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title."
 
 Subsec. (c)(1)(A). Pub. L. 110–84, §602(a)(2)(A)(i), added cl. (iii), redesignated former cl. (iii) as (iv), and, in cl. (iv), substituted "24-month" for "12-month".
 
@@ -340,7 +342,7 @@ Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicablewith respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2014 Amendment
 

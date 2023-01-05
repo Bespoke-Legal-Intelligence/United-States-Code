@@ -20,7 +20,7 @@ Amount of Allowance.—The Secretary of the military department concerned shall 
 
 (d)
 
-Authorized Preventive Health Services.—(1) The Secretary of Defense shall specify the types of preventive health services that may be procured using a preventive health services allowance and the frequency at which such services may be procured.
+Authorized Preventive Health Services.—(1) The Secretary of Defense shall specifythe types of preventive health services that may be procured using a preventive health services allowance and the frequency at which such services may be procured.
 
 (2) At a minimum, authorized preventive health services shall include, taking into consideration the age and gender of the member and dependents of the member:
 
@@ -40,7 +40,7 @@ Authorized Preventive Health Services.—(1) The Secretary of Defense shall spec
 
 &emsp;(H) Vaccinations.
 
-(3) The Secretary of Defense shall ensure that members selected to receive the preventivehealth services allowance and their dependents are provided a reasonable opportunity to receive the services authorized under this subsection in their local area.
+(3) The Secretary of Defense shall ensure that members selected to receive the preventive health services allowance and their dependents are provided a reasonable opportunity to receive the services authorized under this subsection in their local area.
 
 (e)
 

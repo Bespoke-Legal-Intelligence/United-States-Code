@@ -26,7 +26,7 @@ The purposes for which grants made under subsection (a) may be made are—
 
 &emsp;(9) to develop and implement innovative programs to permit members of the community to assist State, tribal, and local law enforcement agencies in the prevention of crime in the community, such as a citizens' police academy, including programs designed to increase the level of access to the criminal justice system enjoyed by victims, witnesses, and ordinary citizens by establishing decentralized satellite offices (including video facilities) of principal criminal courts buildings;
 
-&emsp;(10) to establish innovative programs to reduce, and keep to a minimum, the amount of time that law enforcement officers must beaway from the community while awaiting court appearances;
+&emsp;(10) to establish innovative programs to reduce, and keep to a minimum, the amount of time that law enforcement officers must be away from the community while awaiting court appearances;
 
 &emsp;(11) to establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
 
@@ -164,7 +164,91 @@ Not later than 180 days after July 29, 2010, the Attorney General shall submit t
 
 &emsp;(3) an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations.
 
-(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, §601(1), title X, §1002, May 29, 2015, 129 Stat. 258, 266; Pub. L. 114–199, §2, July 22, 2016, 130 Stat. 780; Pub. L. 114–255, div. B, title XIV, §14001(b), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–37, §2, June 2, 2017, 131 Stat. 854; Pub. L. 115–113, §2(c), Jan. 10, 2018, 131 Stat. 2276; Pub. L. 115–271, title VIII, §§8210, 8211, Oct. 24, 2018, 132 Stat. 4114; Pub. L. 115–393, title I, §101, Dec. 21, 2018, 132 Stat. 5266.)
+#### (n) Training in alternatives to use of force, de-escalation techniques, and mental and behavioral health crises
+
+#### (1) Training curricula
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 180 days after December 27, 2022, the Attorney General shall develop training curricula or identify effective existing training curricula for law enforcement officers and for covered mental health professionals regarding—
+
+&emsp;&emsp;&emsp;(i) de-escalation tactics and alternatives to use of force;
+
+&emsp;&emsp;&emsp;(ii) safely responding to an individual experiencing a mental or behavioral health or suicidal crisis or an individual with a disability, including techniques and strategies that are designed to protect the safety of that individual, law enforcement officers, mental health professionals, and the public;
+
+&emsp;&emsp;&emsp;(iii) successfully participating on a crisis intervention team; and
+
+&emsp;&emsp;&emsp;(iv) making referrals to community-based mental and behavioral health services and support, housing assistance programs, public benefits programs, the National Suicide Prevention Lifeline, and other services.
+
+#### (B) Requirements
+
+&emsp;&emsp;The training curricula developed or identified under this paragraph shall include—
+
+&emsp;&emsp;&emsp;(i) scenario-based exercises;
+
+&emsp;&emsp;&emsp;(ii) pre-training and post-training tests to assess relevant knowledge and skills covered in the training curricula; and
+
+&emsp;&emsp;&emsp;(iii) follow-up evaluative assessments to determine the degree to which participants in the training apply, in their jobs, the knowledge and skills gained in the training.
+
+#### (C) Consultation
+
+&emsp;&emsp;The Attorney General shall develop and identify training curricula under this paragraph in consultation with relevant law enforcement agencies of States and units of local government, associations that represent individuals with mental or behavioral health diagnoses or individuals with disabilities, labor organizations, professional law enforcement organizations, local law enforcement labor and representative organizations, law enforcement trade associations, mental health and suicide prevention organizations, family advocacy organizations, and civil rights and civil liberties groups.
+
+#### (2) Certified programs and courses
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 180 days after the date on which training curricula are developed or identified under paragraph (1)(A), the Attorney General shall establish a process to—
+
+&emsp;&emsp;&emsp;(i) certify training programs and courses offered by public and private entities to law enforcement officers or covered mental health professionals using 1 or more of the training curricula developed or identified under paragraph (1), or equivalents to such training curricula, which may include certifying a training program or course that an entity began offering on or before the date on which the Attorney General establishes the process; and
+
+&emsp;&emsp;&emsp;(ii) terminate the certification of a training program or course if the program or course fails to continue to meet the standards under the training curricula developed or identified under paragraph (1).
+
+#### (B) Partnerships with mental health organizations and educational institutions
+
+&emsp;&emsp;Not later than 180 days after the date on which training curricula are developed or identified under paragraph (1)(A), the Attorney General shall develop criteria to ensure that public and private entities that offer training programs or courses that are certified under subparagraph (A) collaborate with local mental health organizations to—
+
+&emsp;&emsp;&emsp;(i) enhance the training experience of law enforcement officers through consultation with and the participation of individuals with mental or behavioral health diagnoses or disabilities, particularly such individuals who have interacted with law enforcement officers; and
+
+&emsp;&emsp;&emsp;(ii) strengthen relationships between health care services and law enforcement agencies.
+
+#### (3) Transitional regional training programs for State and local agency personnel
+
+#### (A) In general
+
+&emsp;&emsp;During the period beginning on the date on which the Attorney General establishes the process required under paragraph (2)(A) and ending on the date that is 18 months after that date, the Attorney General shall, and thereafter the Attorney General may, provide, in collaboration with law enforcement training academies of States and units of local government as appropriate, regional training to equip personnel from law enforcement agencies of States and units of local government in a State to offer training programs or courses certified under paragraph (2)(A).
+
+#### (B) Continuing education
+
+&emsp;&emsp;The Attorney General shall develop and implement continuing education requirements for personnel from law enforcement agencies of States and units of local government who receive training to offer training programs or courses under subparagraph (A).
+
+#### (4) List
+
+&emsp;Not later than 1 year after the Attorney General completes the activities described in paragraphs (1) and (2), the Attorney General shall publish a list of law enforcement agencies of States and units of local government employing law enforcement officers or using covered mental health professionals who have successfully completed a course using 1 or more of the training curricula developed or identified under paragraph (1), or equivalents to such training curricula, which shall include—
+
+&emsp;&emsp;(A) the total number of law enforcement officers that are employed by the agency;
+
+&emsp;&emsp;(B) the number of such law enforcement officers who have completed such a course;
+
+&emsp;&emsp;(C) whether personnel from the law enforcement agency have been trained to offer training programs or courses under paragraph (3);
+
+&emsp;&emsp;(D) the total number of covered mental health professionals who work with the agency; and
+
+&emsp;&emsp;(E) the number of such covered mental health professionals who have completed such a course.
+
+#### (5) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection—
+
+&emsp;&emsp;(A) $3,000,000 for fiscal year 2023;
+
+&emsp;&emsp;(B) $20,000,000 for fiscal year 2024;
+
+&emsp;&emsp;(C) $10,000,000 for fiscal year 2025; and
+
+&emsp;&emsp;(D) $1,000,000 for fiscal year 2026.
+
+(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, §601(1), title X, §1002, May 29, 2015, 129 Stat. 258, 266;Pub. L. 114–199, §2, July 22, 2016, 130 Stat. 780; Pub. L. 114–255, div. B, title XIV, §14001(b), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–37, §2, June 2, 2017, 131 Stat. 854; Pub. L. 115–113, §2(c), Jan. 10, 2018, 131 Stat. 2276; Pub. L. 115–271, title VIII, §§8210, 8211, Oct. 24, 2018, 132 Stat. 4114; Pub. L. 115–393, title I, §101, Dec. 21, 2018, 132 Stat. 5266; Pub. L. 117–325, §2(b), Dec. 27, 2022, 136 Stat. 4442.)
 
 #### <b>Editorial Notes</b>
 
@@ -181,6 +265,8 @@ Section was formerly classified to section 3796dd of Title 42, The Public Health
 A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 10541 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (n). Pub. L. 117–325 added subsec. (n).
 
 <b>2018</b>—Subsec. (b)(12). Pub. L. 115–393 inserted before semicolon at end ", including the training of school resource officers in the prevention of human trafficking offenses".
 
@@ -240,7 +326,7 @@ Subsec. (b)(1) to (4). Pub. L. 109–162, §1163(a)(3)(C), added pars. (1) to (4
 
 Subsec. (b)(5). Pub. L. 109–162, §1163(a)(3)(B), redesignated par. (5) as (10).
 
-Subsec. (b)(6) to (8). Pub. L. 109–162, §1163(a)(3)(B), redesignated pars. (1) to (3) as (6) to (8), respectively.Former pars. (6) to (8) redesignated (11) to (13), respectively.
+Subsec. (b)(6) to (8). Pub. L. 109–162, §1163(a)(3)(B), redesignated pars. (1) to (3) as (6) to (8), respectively. Former pars. (6) to (8) redesignated (11) to (13), respectively.
 
 Subsec. (b)(9). Pub. L. 109–162, §1163(a)(3)(B), (D), redesignated par. (4) as (9) and amended it generally. Prior to amendment, par. (9) read as follows: "develop new technologies to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime;". Former par. (9) redesignated (14).
 

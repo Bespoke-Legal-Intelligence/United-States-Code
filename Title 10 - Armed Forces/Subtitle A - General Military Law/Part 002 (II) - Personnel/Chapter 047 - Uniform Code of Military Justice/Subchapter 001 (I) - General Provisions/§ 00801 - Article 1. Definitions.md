@@ -12,7 +12,7 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(5) The term "superior commissioned officer" means a commissioned officer superior in rank or command.
 
-&emsp;(6) The term "cadet" means a cadet of the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy.
+&emsp;(6) The term "cadet" means a cadet of the United States Military Academy, the UnitedStates Air Force Academy, or the United States Coast Guard Academy.
 
 &emsp;(7) The term "midshipman" means a midshipman of the United States Naval Academy and any other midshipman on active duty in the naval service.
 
@@ -44,9 +44,19 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(16) The term "national security" means the national defense and foreign relations of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L.98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597; Pub. L. 117–81, div. A, title V, §533, Dec. 27, 2021, 135 Stat. 1695.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597; Pub. L. 117–81, div. A, title V, §533, Dec. 27, 2021, 135 Stat. 1695; Pub. L. 117–263, div. A, title V, §541(a)(1), (b)(1), Dec. 23, 2022, 136 Stat. 2579, 2580.)
 
 #### Amendment of Section
+
+<i>Pub. L. 117–263, div. A, title V, §541(a), Dec. 23, 2022, 136 Stat. 2579, provided that, effective immediately after the coming into effect of the amendments made by section 533 of Pub. L. 117–81 (amending this section, see below) and applicable with respect to offenses that occur after that date, paragraph (17)(A) of this section is amended by striking "section 920 (article 120)" and inserting "section 919a (article 119a), section 920 (article 120), section 920a (article 120a)". See 2022 Amendment note below.</i>
+
+<i>Pub. L. 117–263, div. A, title V, §541(b), Dec. 23, 2022, 136 Stat. 2580, provided that, effective Jan. 1, 2025, and applicable with respect to offenses that occur after that date, paragraph (17)(A) of this section is amended:</i>
+
+<i>(1) by striking "or"; and</i>
+
+<i>(2) by striking "of this title" and inserting ", or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned".</i>
+
+<i>See 2022 Amendment note below.</i>
 
 <i>Pub. L. 117–81, div. A, title V, §§533, 539C, Dec. 27, 2021, 135 Stat. 1695, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:</i>
 
@@ -106,6 +116,10 @@ In clause (12), the words "Marine Corps" are inserted to make explicit that the 
 
 #### Amendments
 
+<b>2022</b>—Par. (17)(A). Pub. L. 117–263, §541(b)(1), struck out "or" after "section 932 (article 132)," and substituted ", or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned" for "of this title".
+
+Pub. L. 117–263, §541(a)(1), substituted "section 919a (article 119a), section 920 (article 120), section 920a (article 120a)" for "section 920 (article 120)".
+
 <b>2021</b>—Par. (11). Pub. L. 117–81, §533(1), added par. (11).
 
 Pars. (17), (18). Pub. L. 117–81, §533(2), added pars. (17) and (18).
@@ -146,6 +160,12 @@ Cl. (13). Pub. L. 90–179, §1(2), added cl. (13).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. A, title V, §541(a)(2), Dec. 23, 2022, 136 Stat. 2580, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect immediately after the coming into effect of the amendments made by section 533 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1695) \[amending this section\] as provided in section 539C of that Act (10 U.S.C. 801 note) and shall apply with respect to offenses that occur after that date."
+
+Pub. L. 117–263, div. A, title V, §541(b)(2), Dec. 23, 2022, 136 Stat. 2580, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 2025, and shall apply with respect to offenses that occur after that date."
+
 #### Effective Date of 2021 Amendment
 
 Pub. L. 117–81, div. A, title V, §539C, Dec. 27, 2021, 135 Stat. 1699, provided that:
@@ -164,7 +184,7 @@ Requirement.—The President shall prescribe regulations to carry out this part 
 
 &emsp;"(2)
 
-Impact of delay of issuance.—If the President does not prescribe the regulations necessary to carry out this part before the date that is two years after the date of the enactment of this Act, the amendments made by this part shall take effect on the date on which such regulations are prescribed and shall apply with respect to offenses that occur on or after that date."
+Impact of delay of issuance.—If the President does not prescribe the regulations necessary to carry out this part before the date that is two years after the date of the enactment of this Act, the amendments made by this part shall take effect on the date on which such regulations are prescribed and shallapply with respect to offenses that occur on or after that date."
 
 #### Effective Date of 2017 Amendment
 
@@ -624,7 +644,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-&emsp;"(2) The term 'individual detained at Guantanamo' means any individual located at United States NavalStation, Guantanamo Bay, Cuba, as of October 1, 2009, who—
+&emsp;"(2) The term 'individual detained at Guantanamo' means any individual located at United States Naval Station, Guantanamo Bay, Cuba, as of October 1, 2009, who—
 
 &emsp;&emsp;"(A) is not a citizen of the United States or a member of the Armed Forces of the United States; and
 
@@ -724,7 +744,7 @@ Covered Persons.—A covered person under this section is any person as follows:
 
 &emsp;"(1) A person who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored those responsible for those attacks.
 
-&emsp;"(2) A person who was a part of or substantially supported al-Qaeda, the Taliban, or associated forces that are engaged in hostilities against the United States or its coalition partners, including any person who has committed a belligerent act or has directly supported such hostilities in aid of such enemy forces.
+&emsp;"(2) A person who was a part of or substantially supported al-Qaeda, the Taliban, or associated forces that are engaged in hostilities against the United States or its coalition partners, including any person who has committed a belligerent act or has directlysupported such hostilities in aid of such enemy forces.
 
 "(c)
 
@@ -1236,7 +1256,7 @@ Applicability.—Paragraph (1) applies with respect to any proceeding beginning 
 
 "(c)
 
-Report on Modification of Procedures.—The Secretary of Defense shall submit to the committees specified in subsection (a)(1) a report on any modification of the procedures submitted under subsection (a). Any such report shall be submitted not later than 60 days before the date on which such modification goes into effect.
+Report on Modification of Procedures.—The Secretary of Defense shall submit to the committees specified in subsection (a)(1) a report on any modification of the procedures submitted under subsection (a). Any such report shall be submitted not later than 60days before the date on which such modification goes into effect.
 
 "(d)
 
@@ -1474,7 +1494,7 @@ Respondent.—The Secretary of Defense shall be the named respondent in any appe
 
 "(f)
 
-Construction.—Nothing in this section shall be construed to confer any constitutional right on an alien detained as an enemy combatant outside the United States.
+Construction.—Nothing in this section shall be construed to confer any constitutional right on analien detained as an enemy combatant outside the United States.
 
 "(g)
 
@@ -1578,7 +1598,7 @@ Detainees.—For purposes of this section, the term 'detainee' means a person in
 
 "(a)
 
-Policies Required.—The Secretary of Defense shall ensure that policies are prescribed not later than 150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
+Policies Required.—The Secretary of Defense shall ensure that policies are prescribed not later than 150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that membersof the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
 
 "(b)
 
@@ -1774,7 +1794,7 @@ Sec. 5. <i>Diplomatic Efforts</i>. The Secretary of State shall expeditiously pu
 
 Sec. 6. <i>Humane Standards of Confinement</i>. No individual currently detained at Guantanamo shall be held in the custody or under the effective control of any officer, employee, or other agent of the United States Government, or at a facility owned, operated, or controlled by a department or agency of the United States, except in conformity with all applicable laws governing the conditions of such confinement, including Common Article 3 of the Geneva Conventions. The Secretary of Defense shall immediately undertake a review of the conditions of detention at Guantanamo to ensure full compliance with this directive. Such review shall be completed within 30 days and any necessary corrections shall be implemented immediately thereafter.
 
-Sec. 7. <i>Military Commissions</i>. The Secretary of Defense shall immediately take steps sufficient to ensure that during the pendency of the Review described in section4 of this order, no charges are sworn, or referred to a military commission under the Military Commissions Act of 2006 and the Rules for Military Commissions, and that all proceedings of such military commissions to which charges have been referred but in which no judgment has been rendered, and all proceedings pending in the United States Court of Military Commission Review, are halted.
+Sec. 7. <i>Military Commissions</i>. The Secretary of Defense shall immediately take steps sufficient to ensure that during the pendency of the Review described in section 4 of this order, no charges are sworn, or referred to a military commission under the Military Commissions Act of 2006 and the Rules for Military Commissions, and that all proceedings of such military commissions to which charges have been referred but in which no judgment has been rendered, and all proceedings pending in the United States Court of Military Commission Review, are halted.
 
 Sec. 8. <i>General Provisions</i>.
 
@@ -1828,7 +1848,7 @@ Sec. 4. <i>Effect of Determination to Transfer</i>. (a) If a final determination
 
 (b) The Secretary of State, in consultation with the Secretary of Defense, shall be responsible for obtaining appropriate security and humane treatment assurances regarding any detainee to be transferred to another country, and for determining, after consultation with members of the Committee, that it is appropriate to proceed with the transfer.
 
-(c) The Secretary of State shall evaluate humane treatment assurances in all cases, consistent with the recommendations of the Special Task Force on Interrogation and Transfer Policies established by Executive Order 13491 of January 22, 2009.
+(c) The Secretary of State shall evaluate humane treatment assurances in all cases, consistent with therecommendations of the Special Task Force on Interrogation and Transfer Policies established by Executive Order 13491 of January 22, 2009.
 
 Sec. 5. <i>Annual Committee Review</i>. (a) The Committee shall conduct an annual review of sufficiency and efficacy of transfer efforts, including:
 

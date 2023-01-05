@@ -34,7 +34,7 @@ Section was formerly classified to section 624c of former Title 5, Executive Dep
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–550 added subsec. (d).
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–448 substituted "Government National Mortgage Association" for "Federal National Mortgage Association", and struck out provisions which allocated the position of the President of the Federal National Mortgage Association among the positions referred to in section 3535(c) of this title.
+<b>1968</b>—Subsec. (b). Pub. L. 90–448 substituted "Government National Mortgage Association" for "Federal National Mortgage Association", and struck out provisions which allocated the position of the President ofthe Federal National Mortgage Association among the positions referred to in section 3535(c) of this title.
 
 <b>1967</b>—Subsec. (b). Pub. L. 90–83 struck out "and the item numbered (94) of section 303(e) of the Federal Executive Salary Act of 1964 of this title" after "The next to the last sentence of section 1723 of title 12" in repealing provision.
 

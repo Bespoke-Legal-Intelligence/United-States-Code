@@ -1,6 +1,6 @@
 ### §3930. Board of Foreign Service
 
-The President shall establish a Board of the Foreign Service to advise the Secretary of State on matters relating to the Service, including furtherance of the objectives of maximum compatibility among agencies authorized by law toutilize the Foreign Service personnel system and compatibility between the Foreign Service personnel system and the other personnel systems of the Government. The Board of the Foreign Service shall be chaired by an individual appointed by the President and shall include one or more representatives of the Department of State, the Broadcasting Board of Governors, the Agency for International Development, the Department of Agriculture, the Department of Commerce, the Department of Labor, the Office of Personnel Management, the Office of Management and Budget, the Equal Employment Opportunity Commission, and such other agencies as the President may designate.
+The President shall establish a Board of the Foreign Service to advise the Secretary of State on matters relating to the Service, including furtherance of the objectives of maximum compatibility among agencies authorized by law to utilize the Foreign Service personnel system and compatibility between the Foreign Service personnel system and the other personnel systems of the Government. The Board of the Foreign Service shall be chaired by an individual appointed by the President and shall include one or more representatives of the Department of State, the Broadcasting Board of Governors, the Agency for International Development, the Department of Agriculture, the Department of Commerce, the Department of Labor, the Office of Personnel Management, the Office of Management and Budget, the Equal Employment Opportunity Commission, and such other agencies as the President may designate.
 
 (Pub. L. 96–465, title I, §210, Oct. 17, 1980, 94 Stat. 2082; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 99–93, title I, §153, Aug. 16, 1985, 99 Stat. 428; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(2), title XIV, §1422(b)(4)(B), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
 
@@ -18,7 +18,7 @@ Pub. L. 105–277, §1335(k)(2), substituted "Broadcasting Board of Governors" f
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 "United States Information Agency" substituted in text for "International Communication Agency" pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
 

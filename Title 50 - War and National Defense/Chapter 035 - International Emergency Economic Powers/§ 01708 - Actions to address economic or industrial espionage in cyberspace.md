@@ -68,7 +68,7 @@
 
 #### (B) Penalties
 
-&emsp;&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the InternationalEmergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, this subsection or a regulation prescribed under this subsection to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act \[50 U.S.C. 1705(a)\].
+&emsp;&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, this subsection or a regulation prescribed under this subsection to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act \[50 U.S.C. 1705(a)\].
 
 #### (c) Rule of construction
 
@@ -154,7 +154,7 @@ Section 16 of the Export Administration Act of 1979 (50 U.S.C. 4618), referred t
 
 #### Codification
 
-This section was enacted as part of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015, and not as part of the International Emergency Economic Powers Act which comprises this chapter.
+Section was enacted as part of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015, and not as part of the International Emergency Economic Powers Act which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

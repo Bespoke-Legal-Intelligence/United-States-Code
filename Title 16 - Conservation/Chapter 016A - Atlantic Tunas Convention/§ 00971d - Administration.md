@@ -74,13 +74,13 @@ Consultation.—Not later than 30 days after a Nation is notified under paragrap
 
 &emsp;(A) effect the immediate termination and prevent the resumption of any fishing operation by vessels of that Nation within the Convention area which is conducted in a manner or under circumstances that diminish the effectiveness of the conservation recommendation;
 
-&emsp;(B) when practicable, require actions by that Nation, or vessels of that Nation, to mitigate the negative impacts of fishing operations on the effectiveness of the conservation recommendation involved, including but not limited to, the imposition of subsequent-year deductions for quota overages; and
+&emsp;(B) when practicable, require actions by that Nation, or vessels of that Nation, to mitigate the negative impacts of fishing operations onthe effectiveness of the conservation recommendation involved, including but not limited to, the imposition of subsequent-year deductions for quota overages; and
 
 &emsp;(C) result in the establishment, if necessary, by such Nation of reporting, monitoring, and enforcement measures that are adequate to ensure the effectiveness of conservation recommendations.
 
 #### (d) Recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish
 
-(1) It is the sense of the Congress that the Secretary, in consultation with the Secretary ofState, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) <sup>1</sup> of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802(16)\]) in the Convention area.
+(1) It is the sense of the Congress that the Secretary, in consultation with the Secretary of State, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) <sup>1</sup> of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802(16)\]) in the Convention area.
 
 (2) The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlantic swordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
 
@@ -90,7 +90,7 @@ Consultation.—Not later than 30 days after a Nation is notified under paragrap
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1), was subsequently amended, and section 3(16) no longer defines the term "large-scale driftnet fishing". However, such term is defined elsewhere in that section.
 
@@ -134,7 +134,7 @@ Pub. L. 106–553, §1(a)(2) \[title VI, §634\], Dec. 21, 2000, 114 Stat. 2762,
 
 #### Transfer of Functions
 
-"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec.\(a) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

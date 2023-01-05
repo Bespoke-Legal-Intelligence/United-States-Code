@@ -2,7 +2,7 @@
 
 (a) The participation by any person in any program or portion thereof under this subchapter shall be wholly voluntary and shall not be a prerequisite to eligibility for or receipt of any other service or assistance from, or to participation in, any other program under this title.
 
-(b) Patient records prepared or obtained under this subchapter shall be held confidential in thesame manner and under the same conditions prescribed in section 7332 of this title.
+(b) Patient records prepared or obtained under this subchapter shall be held confidential in the same manner and under the same conditions prescribed in section 7332 of this title.
 
 (Added Pub. L. 93–82, title I, §109(a), Aug. 2, 1973, 87 Stat. 187, §653; amended Pub. L. 94–581, title I, §111(b), Oct. 21, 1976, 90 Stat. 2852; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1753, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 

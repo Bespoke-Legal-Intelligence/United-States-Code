@@ -4,7 +4,7 @@
 
 When Procedures Other Than Competitive Procedures May Be Used.—The head of an agency may use procedures other than competitive procedures only when—
 
-&emsp;(1) the property or services needed by the agency are available from only one responsiblesource or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency;
+&emsp;(1) the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency;
 
 &emsp;(2) the agency's need for the property or services is of such an unusual and compelling urgency that the United States would be seriously injured unless the agency is permitted to limit the number of sources from which it solicits bids or proposals;
 
@@ -80,7 +80,7 @@ Prerequisites for awarding contract.—Except as provided in paragraphs (3), (4)
 
 &emsp;&emsp;(B) the justification is approved—
 
-&emsp;&emsp;&emsp;(i) in the case of a contract for an amount exceeding $500,000 (but equal to orless than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii);
+&emsp;&emsp;&emsp;(i) in the case of a contract for an amount exceeding $500,000 (but equal to or less than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii);
 
 &emsp;&emsp;&emsp;(ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $75,000,000), by the head of the procuring activity (or the head of the procuring activity's delegate designated pursuant to paragraph (5)(A)); or
 
@@ -310,7 +310,7 @@ Limitation.—A qualified business wholly-owned through an Employee Stock Owners
 
 Verification and Reporting of Qualified Businesses Wholly-owned Through an Employee Stock Ownership Plan.—Under a pilot program established under this section, the Secretary of Defense shall establish procedures—
 
-&emsp;"(1) for businesses to verify status as a qualified businesses wholly-owned through an Employee StockOwnership Plan for the purposes of this section by using existing Federal reporting mechanisms;
+&emsp;"(1) for businesses to verify status as a qualified businesses wholly-owned through an Employee Stock Ownership Plan for the purposes of this section by using existing Federal reporting mechanisms;
 
 &emsp;"(2) for a qualified businesses wholly-owned through an Employee Stock Ownership Plan to certify that not more than 50 percent of the amount paid under the contract will be expended on subcontracts, subject to such necessary and reasonable waivers as the Secretary may prescribe; and
 
@@ -326,7 +326,7 @@ In general.—If the Secretary of Defense establishes a pilot program under this
 
 &emsp;&emsp;"(A) developing and sharing best practices relating to the pilot program;
 
-&emsp;&emsp;"(B) providing information to leadership and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the pilot program, including with respect to each qualified business wholly-owned through an Employee Stock Ownership Plan that received a follow-on contract under this section—
+&emsp;&emsp;"(B) providing information to leadership and the congressional defense committees \[Committees onArmed Services and Appropriations of the Senate and the House of Representatives\] on the pilot program, including with respect to each qualified business wholly-owned through an Employee Stock Ownership Plan that received a follow-on contract under this section—
 
 &emsp;&emsp;&emsp;"(i) the size of such business;
 

@@ -8,7 +8,7 @@ The Foundation shall pay from the interest and earnings of the Trust Fund such s
 
 The activities of the Foundation and the Center under this chapter may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports filed and all other papers, things, or property belonging to or in use by the Foundation and the Center, pertaining to such federally assisted activities and necessary to facilitate the audit.
 
-(Pub. L. 102–259, §9, Mar. 19, 1992, 106 Stat. 83; Pub. L. 105–156, §9(b), Feb. 11, 1998, 112 Stat. 12; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–90, §8, Nov. 3, 2009, 123 Stat. 2978.)
+(Pub. L. 102–259, §9, Mar. 19, 1992, 106 Stat. 83; Pub. L. 105–156, §9(b), Feb. 11, 1998, 112 Stat. 12;Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–90, §8, Nov. 3, 2009, 123 Stat. 2978.)
 
 #### <b>Editorial Notes</b>
 

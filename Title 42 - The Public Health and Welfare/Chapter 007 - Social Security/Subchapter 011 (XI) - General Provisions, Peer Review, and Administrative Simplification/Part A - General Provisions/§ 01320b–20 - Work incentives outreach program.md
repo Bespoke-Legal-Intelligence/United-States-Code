@@ -120,7 +120,7 @@ In this section:
 
 &emsp;&emsp;(A) who is a disabled beneficiary as defined in section 1320b–19(k)(2) of this title;
 
-&emsp;&emsp;(B) who is receiving a cash payment described in section 1382e(a) of this title or asupplementary payment described in section 212(a)(3) of Public Law 93–66 (without regard to whether such payment is paid by the Commissioner pursuant to an agreement under section 1382e(a) of this title or under section 212(b) of Public Law 93–66);
+&emsp;&emsp;(B) who is receiving a cash payment described in section 1382e(a) of this title or a supplementary payment described in section 212(a)(3) of Public Law 93–66 (without regard to whether such payment is paid by the Commissioner pursuant to an agreement under section 1382e(a) of this title or under section 212(b) of Public Law 93–66);
 
 &emsp;&emsp;(C) who, pursuant to section 1382h(b) of this title, is considered to be receiving benefits under subchapter XVI of this chapter; or
 

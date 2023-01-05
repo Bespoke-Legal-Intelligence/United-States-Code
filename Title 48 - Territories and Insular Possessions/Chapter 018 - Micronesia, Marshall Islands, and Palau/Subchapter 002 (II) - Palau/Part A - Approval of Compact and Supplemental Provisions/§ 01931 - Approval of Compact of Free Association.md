@@ -2,7 +2,7 @@
 
 #### (a) Approval
 
-The Compact of Free Association set forth in title II of this joint resolution between the United States and the Government of Palau is hereby approved, and Congress hereby consents to the agreements as set forth on pages 154 through 405 of House Document 99–193 of April 9, 1986 (hereafter in this joint resolution referred to as subsidiary or related agreements), as they relate to such Government. Subject to the provisions of this joint resolution, the President is authorized to agree, in accordance with section 411 of the Compact, to an effective date for and thereafter to implement such Compact, having taken into account any procedures with respect to the United Nations for termination of the Trusteeship Agreement.
+The Compact of Free Association set forth in title II of this joint resolution between theUnited States and the Government of Palau is hereby approved, and Congress hereby consents to the agreements as set forth on pages 154 through 405 of House Document 99–193 of April 9, 1986 (hereafter in this joint resolution referred to as subsidiary or related agreements), as they relate to such Government. Subject to the provisions of this joint resolution, the President is authorized to agree, in accordance with section 411 of the Compact, to an effective date for and thereafter to implement such Compact, having taken into account any procedures with respect to the United Nations for termination of the Trusteeship Agreement.
 
 #### (b) Reference to Compact
 
@@ -70,7 +70,7 @@ Any reference in this joint resolution to the "Compact" shall be treated as a re
 
 The Compact of Free Association and the Compact, referred to in text, is the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out below.
 
-This joint resolution and this Act, referred to in text, is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to this part. Title II of the joint resolution enacted section 1934 of this title and provisions set out below. For complete classification of this Act to the Code, see Tables.
+This joint resolution and this Act, referred to in text, is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, which is classified generally to this part. Title II of the joint resolution enacted section 1934 of this title and provisions set out below. For complete classification of this Act to the Code, see Tables.
 
 For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsecs. (a) and (d), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out below.
 
@@ -214,7 +214,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(a) The Government of Palau has full authority and responsibility to regulate its domestic and foreign communications, and the Government of the United States shall provide communication assistance in accordance with the terms of a related agreement which shall come into effect simultaneously with this Compact, and such agreement shall remain in effect until such time as any election is made pursuant to Section 131(b) and which shall provide for the following:
 
-&emsp;"(1) the Government of the United States remains the sole administration entitled to make notification to the International Frequency Registration Board of the International Telecommunications Union of frequency assignments to radio communications stations in Palau; and to submit to the International Frequency Registration Board seasonal schedules for the broadcasting stations in Palau in the bands allocated exclusively to the broadcasting service between 5,950 and 26,100 kHz and in any other additional frequency bands that may be allocated to use by high frequency broadcasting stations; and
+&emsp;"(1) the Government of the United States remains the sole administration entitled to make notification to the International Frequency Registration Board of the International Telecommunications Union of frequency assignments to radio communications stations in Palau; and to submit to the International Frequency Registration Board seasonal schedules forthe broadcasting stations in Palau in the bands allocated exclusively to the broadcasting service between 5,950 and 26,100 kHz and in any other additional frequency bands that may be allocated to use by high frequency broadcasting stations; and
 
 &emsp;"(2) the United States Federal Communications Commission has jurisdiction, pursuant to the Communications Act of 1934, 47 U.S.C. 151 et seq., and the Communications Satellite Act of 1962, 47 U.S.C. 721 et seq., over all domestic and foreign communications services furnished by means of satellite earth terminal stations where such stations are owned or operated by United States common carriers and are located in Palau.
 
@@ -278,9 +278,9 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 152
 
-"(a) The premises of such representatives \[sic\] offices, and their archives wherever located, shall be inviolable. The property and assets of such representative offices shall be immune from search, requisition, attachment and any form of seizure unless such immunity is expressly waived. Official communications in transit shall be inviolable and accorded the freedomand protections accorded by recognized principles of intentional \[sic\] law to official communications of a diplomatic mission.
+"(a) The premises of such representatives \[sic\] offices, and their archives wherever located, shall be inviolable. The property and assets of such representative offices shall be immune from search, requisition, attachment and any form of seizure unless such immunity is expressly waived. Official communications in transit shall be inviolable and accorded the freedom and protections accorded by recognized principles of intentional \[sic\] law to official communications of a diplomatic mission.
 
-"(b) Persons designated by the sending Government may serve in the capacity of its resident representatives with the consent of the receiving Government. Such designated persons shall be immune from civil and criminal process relating to words spoken or written and all acts performed by them in their official capacity and falling within their functions as such representatives, except insofar as such immunity may be expressly waived by the sending Government. While serving in a resident representative capacity, such designated persons shall not be liable to arrest or detention pending trial, except in the case of a grave crime and pursuant to a decision by a competent judicial authority, and such persons shall enjoy immunity from seizure of personal property, immigration restrictions, and laws relating to alien registration, fingerprinting, and the registration of foreign agents.
+"(b) Persons designated by the sending Government may serve in the capacity of its resident representatives with the consent of the receiving Government. Such designated persons shall be immune from civil and criminal process relating to words spoken or written and all acts performed by them in their official capacity and falling within their functions as such representatives, except insofar as such immunity may be expressly waived by the sending Government. While serving in a resident representative capacity, such designated persons shall not be liable to arrest or detention pending trial, except in the case of a grave crimeand pursuant to a decision by a competent judicial authority, and such persons shall enjoy immunity from seizure of personal property, immigration restrictions, and laws relating to alien registration, fingerprinting, and the registration of foreign agents.
 
 "(c) The sending Governments and their respective assets, income and other property shall be exempt from all direct taxes, except those direct taxes representing payment for specific goods and services, and shall be exempt from all customs duties and restrictions on the import or export of articles required for the official functions and personal use of their representatives and representative offices.
 
@@ -340,13 +340,13 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "Except as otherwise provided in this Compact and its related agreements:
 
-"(a) The Government of Palau shall be immune from the jurisdiction of the courts of the United States, andthe Government of the United States shall be immune from the jurisdiction of the courts of Palau.
+"(a) The Government of Palau shall be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall be immune from the jurisdiction of the courts of Palau.
 
 "(b) The Government of the United States accepts responsibility for and shall pay:
 
 &emsp;"(1) any unpaid money judgment rendered by the High Court of the Trust Territory of the Pacific Islands against the Government of the Trust Territory of the Pacific Islands or the Government of the United States with regard to any cause of action arising as a result of acts or omissions of the Government of the Trust Territory of the Pacific Islands or the Government of the United States prior to the effective date of this Compact;
 
-&emsp;"(2) any claim settled by the claimant and the Government of the Trust Territory of the Pacific Islands but not paid as of the effective date of this Compact; and
+&emsp;"(2) any claim settled by the claimant and the Government of the Trust Territory of the Pacific Islandsbut not paid as of the effective date of this Compact; and
 
 &emsp;"(3) settlement of any administrative claim or of any action before a court of the Trust Territory of the Pacific Islands, pending as of the effective date of this Compact, against the Government of the Trust Territory of the Pacific Islands or the Government of the United States, arising as a result of acts or omissions of the Government of the Trust Territory of the Pacific Islands or the Government of the United States.
 
@@ -458,7 +458,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 223
 
-"The citizens of Palau who are receiving post-secondary education assistance from the Government ofthe United States on the day preceding the effective date of this Compact shall continue to be eligible, if otherwise qualified, to receive such assistance to complete their academic programs for a maximum of four years after the effective date of this Compact.
+"The citizens of Palau who are receiving post-secondary education assistance from the Government of the United States on the day preceding the effective date of this Compact shall continue to be eligible, if otherwise qualified, to receive such assistance to complete their academic programs for a maximum of four years after the effective date of this Compact.
 
 #### "Section 224
 
@@ -526,7 +526,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 243
 
-"Articles imported from Palau which are not exempt from any duty under paragraphs (a), (b), (c) and (d) of Section 242 shall be subject to the rates of duty set forth in column numbered 1 of the Tariff Schedules of the United States and all products of the United States imported into Palau shall receive treatment no less favorable than that accorded like products of any foreign country with respect to customs duties or charges of a similar nature and with respect to laws and regulations relating to importation, exportation, taxation, sale, distribution, storage, or use.
+"Articles imported from Palau which are not exempt from any duty under paragraphs (a), (b), (c) and (d) ofSection 242 shall be subject to the rates of duty set forth in column numbered 1 of the Tariff Schedules of the United States and all products of the United States imported into Palau shall receive treatment no less favorable than that accorded like products of any foreign country with respect to customs duties or charges of a similar nature and with respect to laws and regulations relating to importation, exportation, taxation, sale, distribution, storage, or use.
 
 #### "Article V
 
@@ -594,11 +594,11 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 321
 
-"The Government of the United States may establish and use defense sites in Palau, and may designate forthis purpose land and water areas and improvements in accordance with the provisions of a separate agreement which shall come into force simultaneously with this Compact.
+"The Government of the United States may establish and use defense sites in Palau, and may designate for this purpose land and water areas and improvements in accordance with the provisions of a separate agreement which shall come into force simultaneously with this Compact.
 
 #### "Section 322
 
-"(a) When the Government of the United States desires to establish or use such a defense site specifically identified in the separate agreement referred to in Section 321, it shall so inform the Government of Palau which shall make the designated site available to the Government of the United States for the duration and level of use specified.
+"(a) When the Government of the United States desires to establish or use such a defense site specifically identified in the separate agreement referred to in Section 321, it shall so inform the Government of Palauwhich shall make the designated site available to the Government of the United States for the duration and level of use specified.
 
 "(b) With respect to any site not specifically identified in the separate agreement referred to in Section 321, the Government of the United States shall inform the Government of Palau, which shall make the designated site available to the Government of the United States for the duration and level of use specified, or shall make available one alternative site acceptable to the Government of the United States. If such alternative site is unacceptable to the Government of the United States, the site first designated shall be made available after such determination.
 

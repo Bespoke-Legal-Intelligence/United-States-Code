@@ -17,6 +17,7 @@
 | [220511\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220511%20-%20Reports%20and%20audits.md) | Reports and audits. |
 | [220512\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220512%20-%20Complete%20teams.md) | Complete teams. |
 | [220513\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220513%20-%20Annual%20amateur%20athlete%20survey.md) | Annual amateur athlete survey. |
+| [220514\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220514%20-%20Annual%20report%20on%20equal%20treatment%20of%20athletes.md) | Annual report on equal treatment of athletes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,10 +35,11 @@
 | [220528\.](Subchapter%20002%20%28II%29%20-%20National%20Governing%20Bodies/%C2%A7%20220528%20-%20Applications%20to%20replace%20an%20incumbent%20national%20governing%20body.md) | Applications to replace an incumbent national governing body. |
 | [220529\.](Subchapter%20002%20%28II%29%20-%20National%20Governing%20Bodies/%C2%A7%20220529%20-%20Arbitration%20of%20corporation%20determinations.md) | Arbitration of corporation determinations. |
 | [220530\.](Subchapter%20002%20%28II%29%20-%20National%20Governing%20Bodies/%C2%A7%20220530%20-%20Other%20amateur%20sports%20organizations.md) | Other amateur sports organizations. |
+| [220530A.](Subchapter%20002%20%28II%29%20-%20National%20Governing%20Bodies/%C2%A7%20220530A%20-%20Annual%20report%20on%20equal%20treatment%20of%20athletes.md) | Annual report on equal treatment of athletes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III <sup>1</sup> —GRANT TO KEEP YOUNG ATHLETES SAFE
+#### SUBCHAPTER III—GRANT TO KEEP YOUNG ATHLETES SAFE
 
 |  |  |
 | :--- | ---: |
@@ -60,13 +62,15 @@
 |  |  |
 | :--- | ---: |
 | [220551\.](Subchapter%20005%20%28V%29%20-%20Dissolution%20of%20Board%20of%20Directors%20of%20Corporation%20and%20Termination%20of%20Recognition%20of%20National%20Governing%20Bodies/%C2%A7%20220551%20-%20Definitions.md) | Definitions. |
-| [220552\.](Subchapter%20005%20%28V%29%20-%20Dissolution%20of%20Board%20of%20Directors%20of%20Corporation%20and%20Termination%20of%20Recognition%20of%20National%20Governing%20Bodies/%C2%A7%20220552%20-%20Dissolution%20of%20board%20of%20directors%20of%20corporation%20and%20termination%20of%20recognition%20of%20national%20governing%20bodies.md) | Dissolution of board of directors of corporation and termination of recognition of national governing bodies.<br> |
+| [220552\.](Subchapter%20005%20%28V%29%20-%20Dissolution%20of%20Board%20of%20Directors%20of%20Corporation%20and%20Termination%20of%20Recognition%20of%20National%20Governing%20Bodies/%C2%A7%20220552%20-%20Dissolution%20of%20board%20of%20directors%20of%20corporation%20and%20termination%20of%20recognition%20of%20national%20governing%20bodies.md) | Dissolution of board of directors of corporation and termination of recognition of national governing bodies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 117–340, §2(a)(2)(B), (b)(2)(B), Jan. 5, 2023, 136 Stat. 6176, 6177, which directed amendment of the analyses for subchapters I and II of this chapter by adding items 220514 and 220530A, respectively, was executed by adding items 220514 and 220530A to the analysis for this chapter to reflect the probable intent of Congress.
 
 <b>2020</b>—Pub. L. 116–189, §§4(a)(1), 6(c)(2), (f)(2), (g)(2), 7(a)(2)(B), 8(a)(2)(B), Oct. 30, 2020, 134 Stat. 944, 949, 955, 957, 966, added item 220513 and substituted "Powers and duties" for "Powers" in item 220505, "Reports and audits" for "Report" in item 220511, "Certification of national governing bodies" for "Recognition of amateur sports organizations as national governing bodies" in item 220521, and "Designation of United States Center for SafeSport" for "Designation of United States Center for Safe Sport" in item 220541.
 
@@ -79,8 +83,6 @@ Pub. L. 115–126, title II, §§202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 3
 <b>2006</b>—Pub. L. 109–284, §5(12), Sept. 27, 2006, 120 Stat. 1212, substituted "Short title and definitions" for "Definitions" in item 220501.
 
 <b>1998</b>—Pub. L. 105–277, div. C. title I, §142(j)(2), (k)(2), Oct. 21, 1998, 112 Stat. 2681–606, 2681–607, substituted "Report" for "Annual report" in item 220511 and added item 220512.
-
-<i><sup>1</sup></i><i> So in original. Two items for subchapter III have been enacted.</i>
 
 
 ---

@@ -114,7 +114,7 @@ Not later than the designated transfer date, the Bureau—
 
 #### (1) Proposed rules
 
-&emsp;Any proposed rule of a transferor agency which that agency, in performing consumer financial protection functions transferred by this title,<sup>1</sup> has proposed before the designatedtransfer date, but has not been published as a final rule before that date, shall be deemed to be a proposed rule of the Bureau.
+&emsp;Any proposed rule of a transferor agency which that agency, in performing consumer financial protection functions transferred by this title,<sup>1</sup> has proposed before the designated transfer date, but has not been published as a final rule before that date, shall be deemed to be a proposed rule of the Bureau.
 
 #### (2) Rules not yet effective
 

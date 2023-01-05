@@ -7,6 +7,9 @@
 | [40503\.](%C2%A7%2040503%20-%20Use%20of%20funds.md) | Use of funds. |
 | [40504\.](%C2%A7%2040504%20-%20Grants%20for%20the%20assistance%20of%20organizations%20to%20find%20missing%20adults.md) | Grants for the assistance of organizations to find missing adults. |
 | [40505\.](%C2%A7%2040505%20-%20Reporting%20on%20National%20Missing%20and%20Unidentified%20Persons%20System%20%28NamUs%29%20Program.md) | Reporting on National Missing and Unidentified Persons System (NamUs) Program. |
+| [40506\.](%C2%A7%2040506%20-%20Authorization%20of%20the%20National%20Missing%20and%20Unidentified%20Persons%20System.md) | Authorization of the National Missing and Unidentified Persons System. |
+| [40507\.](%C2%A7%2040507%20-%20Information%20sharing.md) | Information sharing. |
+| [40508\.](%C2%A7%2040508%20-%20Report%20to%20Congress.md) | Report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,3 +23,6 @@
 - [&sect; 40503 - Use of funds](%C2%A7%2040503%20-%20Use%20of%20funds.md)
 - [&sect; 40504 - Grants for the assistance of organizations to find missing adults](%C2%A7%2040504%20-%20Grants%20for%20the%20assistance%20of%20organizations%20to%20find%20missing%20adults.md)
 - [&sect; 40505 - Reporting on National Missing and Unidentified Persons System (NamUs) Program](%C2%A7%2040505%20-%20Reporting%20on%20National%20Missing%20and%20Unidentified%20Persons%20System%20%28NamUs%29%20Program.md)
+- [&sect; 40506 - Authorization of the National Missing and Unidentified Persons System](%C2%A7%2040506%20-%20Authorization%20of%20the%20National%20Missing%20and%20Unidentified%20Persons%20System.md)
+- [&sect; 40507 - Information sharing](%C2%A7%2040507%20-%20Information%20sharing.md)
+- [&sect; 40508 - Report to Congress](%C2%A7%2040508%20-%20Report%20to%20Congress.md)

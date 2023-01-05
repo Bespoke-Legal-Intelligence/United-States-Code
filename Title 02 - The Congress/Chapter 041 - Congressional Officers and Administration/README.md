@@ -15,6 +15,7 @@
 | [4109\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2004109%20-%20Detailed%20reports%20of%20receipts%20and%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md) | Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House. |
 | [4110\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2004110%20-%20Monuments%20to%20deceased%20Senators%20or%20House%20Members.md) | Monuments to deceased Senators or House Members. |
 | [4111\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2004111%20-%20Annual%20report%20by%20Comptroller%20General%20of%20the%20United%20States%20on%20cybersecurity%20and%20surveillance%20threats%20to%20Congress.md) | Annual report by Comptroller General of the United States on cybersecurity and surveillance threats to Congress. |
+| [4112\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2004112%20-%20Requirement%20for%20information%20sharing%20agreements.md) | Requirement for information sharing agreements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

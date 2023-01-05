@@ -20,7 +20,7 @@ No indecent or immoral picture, print, or representation shall be contained in, 
 
 Tobacco products furnished by manufacturers of such products for use or consumption by their employees, or for experimental purposes, and tobacco products, processed tobacco, and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for deliver to a manufacturer of tobacco products, processed tobacco, or cigarette papers and tubes, may be exempted from subsection (a) and (b) in accordance with such regulations as the Secretary shall prescribe.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §§1905(a)(28), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834; Pub.L. 111–3, title VII, §702(a)(2)(C), Feb. 4, 2009, 123 Stat. 108.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §§1905(a)(28), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834; Pub. L. 111–3, title VII, §702(a)(2)(C), Feb. 4, 2009, 123 Stat. 108.)
 
 #### <b>Editorial Notes</b>
 

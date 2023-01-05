@@ -18,7 +18,7 @@ Certain Officers Not To Be Considered.—A promotion board convened under sectio
 
 &emsp;(1) An officer whose name is on a promotion list for that grade as a result of recommendation for promotion to that grade by an earlier selection board convened under that section or section 14502 of this title or under chapter 36 of this title.
 
-&emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under a provision referred to in paragraph (1), in the case ofsuch a report that has not yet been approved by the President.
+&emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under a provision referred to in paragraph (1), in the case of such a report that has not yet been approved by the President.
 
 &emsp;(3) An officer who has been approved for Federal recognition by a board convened under section 307 of title 32 and nominated by the President for promotion to that grade as a reserve of the Army or of the Air Force as the case may be, if that nomination is pending before the Senate.
 
@@ -78,7 +78,7 @@ Authority To Allow Officers To Opt Out of Selection Board Consideration.—(1) T
 
 &emsp;(B) the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
 
-&emsp;(C) the officer has not previously failed of selection for promotion to the grade for whichthe officer requests the exclusion from consideration.
+&emsp;(C) the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
 
 (k)
 

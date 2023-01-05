@@ -26,7 +26,7 @@
 
 (3) The Commission is authorized in furtherance of the directive in paragraph (2) of this subsection—
 
-&emsp;(A) to create one or more advisory committees pursuant to the Federal Advisory Committee Act (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section) and to employ one or more outside experts;
+&emsp;(A) to create one or more advisory committees pursuant to chapter 10 of title 5 (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section),<sup>2</sup> and to employ one or more outside experts;
 
 &emsp;(B) by rule or order, to authorize or require self-regulatory organizations to act jointly with respect to matters as to which they share authority under this chapter in planning, developing, operating, or regulating a national market system (or a subsystem thereof) or one or more facilities thereof; and
 
@@ -50,7 +50,7 @@
 
 (5)(A) If any registered securities information processor prohibits or limits any person in respect of access to services offered, directly or indirectly, by such securities information processor, the registered securities information processor shall promptly file notice thereof with the Commission. The notice shall be in such form and contain such information as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. Any prohibition or limitation on access to services with respect to which a registered securities information processor is required by this paragraph to file notice shall be subject to review by the Commission on its own motion, or upon application by any person aggrieved thereby filed within thirty days after such notice has been filed with the Commission and received by such aggrieved person, or within such longer period as the Commission may determine. Application to the Commission for review, or the institution of review by the Commission on its own motion, shall not operate as a stay of such prohibition or limitation, unless the Commission otherwise orders, summarily or after notice and opportunity for hearing on the question of a stay (which hearing may consist solely of the submission of affidavits or presentation of oral arguments). The Commission shall establish for appropriate cases an expedited procedure for consideration and determination of the question of a stay.
 
-(B) In any proceeding to review the prohibition or limitation of any person in respect of access to services offered by a registered securities information processor, if the Commission finds, after notice and opportunity for hearing, that such prohibition or limitation is consistent with the provisions of this chapter and the rules and regulations thereunder and that such person has not been discriminated against unfairly, theCommission, by order, shall dismiss the proceeding. If the Commission does not make any such finding or if it finds that such prohibition or limitation imposes any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter, the Commission, by order, shall set aside the prohibition or limitation and require the registered securities information processor to permit such person access to services offered by the registered securities information processor.
+(B) In any proceeding to review the prohibition or limitation of any person in respect of access to services offered by a registered securities information processor, if the Commission finds, after notice and opportunity for hearing, that such prohibition or limitation is consistent with the provisions of this chapter and the rules and regulations thereunder and that such person has not been discriminated against unfairly, the Commission, by order, shall dismiss the proceeding. If the Commission does not make any such finding or if it finds that such prohibition or limitation imposes any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter, the Commission, by order, shall set aside the prohibition or limitation and require the registered securities information processor to permit such person access to services offered by the registered securities information processor.
 
 (6) The Commission, by order, may censure or place limitations upon the activities, functions, or operations of any registered securities information processor or suspend for a period not exceeding twelve months or revoke the registration of any such processor, if the Commission finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, or revocation is in the public interest, necessary or appropriate for the protection of investors or to assure the prompt, accurate, or reliable performance of the functions of such securities information processor, and that such securities information processor has violated or is unable to comply with any provision of this chapter or the rules or regulations thereunder.
 
@@ -82,7 +82,7 @@
 
 > The Commission may conditionally or unconditionally exempt any security or transaction or any class of securities or transactions from any such prohibition if the Commission deems such exemption consistent with the public interest, the protection of investors, and the maintenance of fair and orderly markets.
 
-(B) For the purposes of subparagraph (A) of this paragraph, the ability of a dealer to solicitor effect transactions in securities for his own account shall not be deemed to be unreasonably impaired by any rule of an exchange fairly and reasonably prescribing the sequence in which orders brought to the exchange must be executed or which has been adopted to effect compliance with a rule of the Commission promulgated under this chapter.
+(B) For the purposes of subparagraph (A) of this paragraph, the ability of a dealer to solicit or effect transactions in securities for his own account shall not be deemed to be unreasonably impaired by any rule of an exchange fairly and reasonably prescribing the sequence in which orders brought to the exchange must be executed or which has been adopted to effect compliancewith a rule of the Commission promulgated under this chapter.
 
 (4) The Commission is directed to review any and all rules of national securities exchanges which limit or condition the ability of members to effect transactions in securities otherwise than on such exchanges.
 
@@ -132,9 +132,9 @@ Designation.—If the Commission determines that the securities of emerging grow
 
 #### (2) Application of rules by order of CFTC
 
-&emsp;No rule adopted pursuant to this section shall be applied to any person with respect tothe trading of security futures products on an exchange that is registered under section 78f(g) of this title unless the Commodity Futures Trading Commission has issued an order directing that such rule is applicable to such persons.
+&emsp;No rule adopted pursuant to this section shall be applied to any person with respect to the trading of security futures products on an exchange that is registered under section 78f(g) of this title unless the Commodity Futures Trading Commission has issued an orderdirecting that such rule is applicable to such persons.
 
-(June 6, 1934, ch. 404, title I, §11A, as added Pub. L. 94–29, §7, June 4, 1975, 89 Stat. 111; amended Pub. L. 98–620, title IV, §402(14), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–181, title III, §§313, 314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 106–554, §1(a)(5) \[title II, §206(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–430; Pub. L. 112–106, title I, §106(b), Apr. 5, 2012, 126 Stat. 312.)
+(June 6, 1934, ch. 404, title I, §11A, as added Pub. L. 94–29, §7, June 4, 1975, 89 Stat. 111; amended Pub. L. 98–620, title IV, §402(14), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–181, title III, §§313, 314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 106–554, §1(a)(5) \[title II, §206(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–430; Pub. L. 112–106, title I, §106(b), Apr. 5, 2012, 126 Stat. 312; Pub. L. 117–286, §4(a)(62), Dec. 27, 2022, 136 Stat. 4312.)
 
 #### <b>Editorial Notes</b>
 
@@ -142,9 +142,9 @@ Designation.—If the Commission determines that the securities of emerging grow
 
 This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(3)(A). Pub. L. 117–286 substituted "chapter 10 of title 5 (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section)," for "the Federal Advisory Committee Act (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section)".
 
 <b>2012</b>—Subsec. (c)(6). Pub. L. 112–106 added par. (6).
 
@@ -170,7 +170,9 @@ Section effective June 4, 1975, except for subsec. (b) which is effective 180 da
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "are hereinafter".</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

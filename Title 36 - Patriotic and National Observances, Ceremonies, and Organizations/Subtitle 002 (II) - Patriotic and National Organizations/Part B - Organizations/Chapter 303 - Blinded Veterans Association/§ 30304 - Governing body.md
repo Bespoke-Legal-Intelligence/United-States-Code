@@ -2,7 +2,7 @@
 
 (a)
 
-Board of Directors.—(1) The number of directors of the corporation shall be at least three but not more than 15. The directors shall be divided into a specified number of classes. Each class shall hold office for a definite period of years as provided in the bylaws.
+Board of Directors.—(1) The number of directors of the corporation shall be at least three but not more than 15. The directors shallbe divided into a specified number of classes. Each class shall hold office for a definite period of years as provided in the bylaws.
 
 (2) A majority of the directors must be present at a meeting of directors to constitute a quorum. A majority vote of the directors present at a meeting at which there is a quorum is necessary for the transaction of business.
 

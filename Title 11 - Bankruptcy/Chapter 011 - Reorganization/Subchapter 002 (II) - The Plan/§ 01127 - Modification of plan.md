@@ -26,7 +26,7 @@
 
 #### legislative statements
 
-Section 1127(a) of the House amendment adopts a provision contained in the House bill permitting only theproponent of a plan to modify the plan and rejecting the alternative of open modification contained in the Senate amendment.
+Section 1127(a) of the House amendment adopts a provision contained in the House bill permitting only the proponent of a plan to modify the plan and rejecting the alternative of open modification contained in the Senate amendment.
 
 #### senate report no. 95–989
 

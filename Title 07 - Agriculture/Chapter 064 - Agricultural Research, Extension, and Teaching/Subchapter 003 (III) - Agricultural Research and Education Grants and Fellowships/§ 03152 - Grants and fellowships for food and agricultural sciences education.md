@@ -6,7 +6,7 @@ The Secretary shall promote and strengthen higher education in the food and agri
 
 #### (b) Grants
 
-The Secretary may make competitive grants (or grants without regard to any requirement for competition) to land-grant colleges and universities (including the University of the District of Columbia), to colleges and universities having significant minority enrollments and a demonstrable capacity to carry out the teaching of food and agricultural sciences, and to other colleges and universities having a demonstrable capacity to carry out the teaching of food and agricultural sciences, for a period not to exceed 5 years—
+The Secretary may make competitive grants (or grants without regard to any requirementfor competition) to land-grant colleges and universities (including the University of the District of Columbia), to colleges and universities having significant minority enrollments and a demonstrable capacity to carry out the teaching of food and agricultural sciences, and to other colleges and universities having a demonstrable capacity to carry out the teaching of food and agricultural sciences, for a period not to exceed 5 years—
 
 &emsp;(1) to strengthen institutional capacities, including curriculum, faculty, scientific instrumentation, instruction delivery systems, and student recruitment and retention, to respond to identified State, regional, national, or international educational needs in the food and agricultural sciences, or in rural economic, community, and business development;
 
@@ -68,7 +68,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish a National Food and Agricultural Sciences Teaching, Extension, and Research Awards program to recognize and promote excellence in teaching, extension, and research in the food and agricultural sciences at a college or university.
+&emsp;&emsp;The Secretary shall establish a National Food and Agricultural Sciences Teaching,Extension, and Research Awards program to recognize and promote excellence in teaching, extension, and research in the food and agricultural sciences at a college or university.
 
 #### (B) Minimum requirement
 
@@ -120,7 +120,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 #### (k) Administration
 
-The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications and proposals for grants or nominations for awards submitted under this section.
+Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications and proposals for grants or nominations for awards submitted under this section.
 
 #### (l) Report
 
@@ -134,23 +134,23 @@ There are authorized to be appropriated for carrying out this section—
 
 &emsp;(2) $40,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 95–113, title XIV, §1417, Sept. 29, 1977, 91 Stat. 996; Pub. L. 97–98, title XIV, §1418, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, §1412, Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, §1608, Nov. 28, 1990, 104 Stat. 3716; Pub. L. 102–237, title IV, §402(6), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §805, Apr. 4, 1996, 110 Stat. 1160; Pub. L. 105–185, title II, §223, title III, §301(a)(1), June 23, 1998, 112 Stat. 539, 562; Pub. L. 105–244, title I, §102(a)(1)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 107–110, title X, §1076(c), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 107–171, title VII, §7102, May 13, 2002, 116 Stat. 431; Pub. L. 110–234, title VII, §§7106–7109(c), May 22, 2008, 122 Stat. 1217, 1218; Pub. L. 110–246, §4(a), title VII, §§7106–7109(c), June 18, 2008, 122 Stat. 1664, 1978, 1979; Pub. L. 113–79, title VII, §7105, Feb. 7, 2014, 128 Stat. 869; Pub. L. 114–95, title IX, §9215(ll), Dec. 10, 2015, 129 Stat. 2175; Pub. L. 115–334, title VII, §7107, Dec. 20, 2018, 132 Stat. 4783.)
+(Pub. L. 95–113, title XIV, §1417, Sept. 29, 1977, 91 Stat. 996; Pub. L. 97–98, title XIV, §1418, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, §1412, Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, §1608, Nov. 28, 1990, 104 Stat. 3716; Pub. L. 102–237, title IV, §402(6), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §805, Apr. 4, 1996, 110 Stat. 1160; Pub. L. 105–185, title II, §223, title III, §301(a)(1), June 23, 1998, 112 Stat. 539, 562; Pub. L. 105–244, title I, §102(a)(1)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 107–110, title X, §1076(c), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 107–171, title VII, §7102, May 13, 2002, 116 Stat. 431; Pub. L. 110–234, title VII, §§7106–7109(c), May 22, 2008, 122 Stat. 1217, 1218; Pub. L. 110–246, §4(a), title VII, §§7106–7109(c), June 18, 2008, 122 Stat. 1664, 1978, 1979; Pub. L. 113–79, title VII, §7105, Feb. 7, 2014, 128 Stat. 869; Pub. L. 114–95, title IX, §9215(ll), Dec. 10, 2015, 129 Stat. 2175; Pub. L. 115–334, title VII, §7107, Dec. 20, 2018, 132 Stat. 4783; Pub. L. 117–286, §4(a)(35), Dec. 27, 2022, 136 Stat. 4309.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and also as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
+The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly knownas the Bankhead-Jones Act and also as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (k). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act".
 
 <b>2018</b>—Subsec. (m)(2). Pub. L. 115–334 substituted "2023" for "2018".
 
@@ -232,7 +232,7 @@ Subsec. (j). Pub. L. 104–127, §805(d)(1), redesignated subsec. (i) as (j).
 
 Subsec. (a)(3). Pub. L. 99–198, §1412(a)(2), substituted "Each recipient institution shall have a significant ongoing commitment to the food and agricultural sciences generally and to the specific subject area for which such grant is to be used." for "Such grants shall be made without regard to matching funds provided by recipients."
 
-Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are hereby authorized to be appropriated for the purposes of carrying out the provisions of this section $25,000,000 for the fiscal year ending September 30, 1978, $30,000,000 for the fiscal year ending September 30, 1979, $35,000,000 for the fiscal year ending September 30, 1980, $40,000,000 for the fiscal year ending September 30, 1981, and $50,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year."
+Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read asfollows: "There are hereby authorized to be appropriated for the purposes of carrying out the provisions of this section $25,000,000 for the fiscal year ending September 30, 1978, $30,000,000 for the fiscal year ending September 30, 1979, $35,000,000 for the fiscal year ending September 30, 1980, $40,000,000 for the fiscal year ending September 30, 1981, and $50,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year."
 
 Subsec. (e). Pub. L. 99–198, §1412(c), added subsec. (e).
 

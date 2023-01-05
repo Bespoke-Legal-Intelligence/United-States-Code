@@ -40,7 +40,7 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 #### (1) In general
 
-&emsp;For purposes of this title (and notwithstanding any other provision of this title), theterm "group health plan" shall not include any qualified small employer health reimbursement arrangement.
+&emsp;For purposes of this title (and notwithstanding any other provision of this title), the term "group health plan" shall not include any qualified small employer health reimbursement arrangement.
 
 #### (2) Qualified small employer health reimbursement arrangement
 

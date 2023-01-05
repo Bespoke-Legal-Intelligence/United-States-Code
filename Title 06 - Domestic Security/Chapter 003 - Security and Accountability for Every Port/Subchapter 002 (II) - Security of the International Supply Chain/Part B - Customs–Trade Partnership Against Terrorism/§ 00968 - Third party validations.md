@@ -12,7 +12,7 @@ Not later than 120 days after October 13, 2006, after consulting with private se
 
 #### (1) In general
 
-&emsp;Not later than 1 year after the consultations described in subsection (b), the Secretary shallcarry out the 1-year pilot program to conduct validations of C–TPAT participants using third party entities described in subsection (a).
+&emsp;Not later than 1 year after the consultations described in subsection (b), the Secretary shall carry out the 1-year pilot program to conduct validations of C–TPAT participants using third party entities described in subsection (a).
 
 #### (2) Authority of the Secretary
 

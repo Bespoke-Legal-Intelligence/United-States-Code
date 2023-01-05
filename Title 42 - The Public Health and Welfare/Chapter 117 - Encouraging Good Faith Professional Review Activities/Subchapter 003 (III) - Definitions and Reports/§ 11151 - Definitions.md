@@ -46,7 +46,7 @@ In this chapter:
 
 &emsp;&emsp;(C) to change or modify such privileges or membership.
 
-&emsp;(11) The term "professional review body" means a health care entity and the governing body or any committee of a health care entity which conducts professional review activity, and includes any committee of the medical staff of such an entity when assisting the governing body in a professional review activity.
+&emsp;(11) The term "professional review body" means a health care entity and the governingbody or any committee of a health care entity which conducts professional review activity, and includes any committee of the medical staff of such an entity when assisting the governing body in a professional review activity.
 
 &emsp;(12) The term "Secretary" means the Secretary of Health and Human Services.
 

@@ -18,7 +18,7 @@
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–232 substituted "section 7837, 8271, or 9837" for "section 4837, 6161, or 9837".
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–364 designated existing provisions as par. (1), substituted "Except as providedin paragraph (2), the Secretary of Defense" for "The Secretary", and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–364 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the Secretary of Defense" for "The Secretary", and added par. (2).
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–316 substituted "section 3711(e)" for "section 3711(f)".
 

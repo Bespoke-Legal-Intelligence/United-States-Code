@@ -18,7 +18,7 @@ Agreements Authorized.—(1)(A) When hospital care, a medical service, or an ext
 
 (3)(A) In fiscal year 2019 and in each fiscal year thereafter, in addition to such other Veterans Care Agreements as the Secretary may determine are of material size, a Veterans Care Agreement for the purchase of extended care services that exceeds $5,000,000 annually shall be considered of material size.
 
-(B) From time to time, the Secretary may publish a notice in the Federal Register to adjust the dollar amount specified in subparagraph\(A) to account for changes in the cost of health care based upon recognized health care market surveys and other available data.
+(B) From time to time, the Secretary may publish a notice in the Federal Register to adjust the dollar amount specified in subparagraph (A) to account for changes in the cost of health care based upon recognized health care market surveys and other available data.
 
 (b)
 
@@ -80,7 +80,7 @@ Discontinuation or Nonrenewal of a Veterans Care Agreement.—(1) An eligible en
 
 &emsp;(A) has determined that the eligible entity or provider failed to comply substantially with the provisions of the Veterans Care Agreement, or with the provisions of this section or regulations prescribed under this section;
 
-&emsp;(B) has determined the eligible entity or provider is excluded from participation in a Federal health care program under section 1128 or section 1128A of the Social Security Act (42 U.S.C. 1320a–7 or 1320a–7a) or is identified onthe System for Award Management Exclusions list as provided in part 9 of title 48, Code of Federal Regulations, and part 180 of title 2 of such Code, or successor regulations;
+&emsp;(B) has determined the eligible entity or provider is excluded from participation in a Federal health care program under section 1128 or section 1128A of the Social Security Act (42 U.S.C. 1320a–7 or 1320a–7a) or is identified on the System for Award Management Exclusions list as provided in part 9 of title 48, Code of Federal Regulations, and part 180 of title 2 of such Code, or successor regulations;
 
 &emsp;(C) has ascertained that the eligible entity or provider has been convicted of a felony or other serious offense under Federal or State law and determines the eligible entity or provider's continued participation would be detrimental to the best interests of covered individuals or the Department; or
 

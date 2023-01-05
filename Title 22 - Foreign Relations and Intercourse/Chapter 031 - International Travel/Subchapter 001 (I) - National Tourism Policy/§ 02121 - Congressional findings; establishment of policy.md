@@ -84,7 +84,7 @@ Pub. L. 102–372, §1(a), Sept. 30, 1992, 106 Stat. 1170, provided that: "This 
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–63, §1, Oct. 16, 1981, 95 Stat. 1011, provided that: "This Act \[enacting sections 2123b, 2124a, and2124b of this title, amending this section and sections 2122, 2123, 2123a, 2124, and 2126 of this title, repealing section 2128 of this title, and enacting, amending, and repealing provisions set out as notes under this section\] may be cited as the 'National Tourism Policy Act'."
+Pub. L. 97–63, §1, Oct. 16, 1981, 95 Stat. 1011, provided that: "This Act \[enacting sections 2123b, 2124a, and 2124b of this title, amending this section and sections 2122, 2123, 2123a, 2124, and 2126 of this title, repealing section 2128 of this title, and enacting, amending, and repealing provisions set out as notes under this section\] may be cited as the 'National Tourism Policy Act'."
 
 #### Short Title
 
@@ -114,7 +114,7 @@ Pub. L. 102–372, §2, Sept. 30, 1992, 106 Stat. 1170, provided that: "The Cong
 
 &emsp;"(9) foreign tourists entering the United States are frequently faced with unnecessary delays at the United States border;
 
-&emsp;"(10) advanced technologies, industrial targeting, the industrialization of the Third World, and the flight of some United States manufacturing capacity to overseas locations have affected the international competitiveness of the United States;
+&emsp;"(10) advanced technologies, industrial targeting, the industrialization of the Third World, and theflight of some United States manufacturing capacity to overseas locations have affected the international competitiveness of the United States;
 
 &emsp;"(11) exporting those goods and services which United States industry can produce at a comparative cost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
 

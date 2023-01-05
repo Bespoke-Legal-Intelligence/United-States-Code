@@ -2,23 +2,27 @@
 
 (a)(1)(A) Upon the request of any individual referred to in subparagraph (C), the Secretary shall furnish counseling, including by furnishing counseling through a Vet Center, to the individual—
 
-&emsp;(i) in the case of an individual referred to in clauses (i) through (vi) of subparagraph (C), to assist the individual in readjusting to civilian life; and
+&emsp;(i) in the case of an individual referred to in clauses (i) through (vii) of subparagraph (C), to assist the individual in readjusting to civilian life; and
 
-&emsp;(ii) in the case of an individual referred to in clause (vii) of such subparagraph who is a family member of a veteran or member described in such clause—
+&emsp;(ii) in the case of an individual referred to in clause (viii) of such subparagraph who is a family member of a veteran or member described in such clause—
 
-&emsp;&emsp;(I) in the case of a member who is deployed in a theater of combat operations or an area at a time during which hostilities are occurring in that area, during such deployment to assist such individual in coping with such deployment; and
+&emsp;&emsp;(I) in the case of a member who is deployed in a theater of combat operations or an area at a time during which hostilities are occurring in that area, during such deployment to assist such individual in coping with such deployment;
 
-&emsp;&emsp;(II) in the case of a veteran or member who is readjusting to civilian life, to the degree that counseling furnished to such individual is found to aid in the readjustment of such veteran or member to civilian life.
+&emsp;&emsp;(II) in the case of a veteran or member who is readjusting to civilian life, to the degree that counseling furnished to such individual is found to aid in the readjustment of such veteran or member to civilian life; and
+
+&emsp;&emsp;(III) in the case of a veteran or member who died by suicide, to the degree that counseling furnished to such individual is found to aid in coping with the effects of such suicide.
 
 (B)(i) Counseling furnished to an individual under subparagraph (A) may include a comprehensive individual assessment of the individual's psychological, social, and other characteristics to ascertain whether—
 
-&emsp;(I) in the case of an individual referred to in clauses (i) through (vi) of subparagraph (C), such individual has difficulties associated with readjusting to civilian life; and
+&emsp;(I) in the case of an individual referred to in clauses (i) through (vii) of subparagraph (C), such individual has difficulties associated with readjusting to civilian life; and
 
-&emsp;(II) in the case of an individual referred to in clause (vii) of such subparagraph, such individual has difficulties associated with—
+&emsp;(II) in the case of an individual referred to in clause (viii) of such subparagraph, such individual has difficulties associated with—
 
-&emsp;&emsp;(aa) coping with the deployment of a member described in subclause (I) of such clause; or
+&emsp;&emsp;(aa) coping with the deployment of a member described in subclause (I) of such clause;
 
-&emsp;&emsp;(bb) readjustment to civilian life of a veteran or member described in subclause (II) of such clause.
+&emsp;&emsp;(bb) readjustment to civilian life of a veteran or member described in subclause (II) of such clause; or
+
+&emsp;&emsp;(cc) coping with the effects of a suicide described in subclause (III) of such clause.
 
 (ii)(I) Except as provided in subclauses (IV) and (V), counseling furnished to an individual under subparagraph (A) may include reintegration and readjustment services described in subclause (II) furnished in group retreat settings.
 
@@ -46,7 +50,7 @@
 
 &emsp;(i) Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who served on active duty in a theater of combat operations or an area at a time during which hostilities occurred in that area.
 
-&emsp;(ii) Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who provided direct emergency medical or mental health care, or mortuary services to the causalities of combat operations or hostilities, but who at the time was located outside the theater of combat operations or area of hostilities.
+&emsp;(ii) Any individual who is a veteran or member of the Armed Forces, including a memberof a reserve component of the Armed Forces, who provided direct emergency medical or mental health care, or mortuary services to the causalities of combat operations or hostilities, but who at the time was located outside the theater of combat operations or area of hostilities.
 
 &emsp;(iii) Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who engaged in combat with an enemy of the United States or against an opposing military force in a theater of combat operations or an area at a time during which hostilities occurred in that area by remotely controlling an unmanned aerial vehicle, notwithstanding whether the physical location of such veteran or member during such combat was within such theater of combat operations or area.
 
@@ -56,15 +60,19 @@
 
 &emsp;&emsp;(II) in the National Guard of a State under orders of the chief executive of that State in response to a disaster or civil disorder in such State.
 
-&emsp;(v) Any individual who participated in a drug interdiction operation as a member ofthe Coast Guard, regardless of the location of that operation.
+&emsp;(v) Any individual who participated in a drug interdiction operation as a member of the Coast Guard, regardless of the location of that operation.
 
 &emsp;(vi) Any individual who received counseling under this section before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013.
 
-&emsp;(vii) Any individual who is a family member of any—
+&emsp;(vii) Any veteran or member of the Armed Forces pursuing a course of education using covered educational assistance benefits.
 
-&emsp;&emsp;(I) member of the Armed Forces, including a member of a reserve component of the Armed Forces, who is serving on active duty in a theater of combat operations or in an area at a time during which hostilities are occurring in that area; or
+&emsp;(viii) Any individual who is a family member of any—
 
-&emsp;&emsp;(II) veteran or member of the Armed Forces described in this subparagraph.
+&emsp;&emsp;(I) member of the Armed Forces, including a member of a reserve component of the Armed Forces, who is serving on active duty in a theater of combat operations or in an area at a time during which hostilities are occurring in that area;
+
+&emsp;&emsp;(II) veteran or member of the Armed Forces described in this subparagraph; or
+
+&emsp;&emsp;(III) veteran or member of the Armed Forces who died by suicide.
 
 (D)(i) The Secretary, in consultation with the Secretary of Defense, may furnish to any member of the reserve components of the Armed Forces who has a behavioral health condition or psychological trauma, counseling under subparagraph (A)(i), which may include a comprehensive individual assessment under subparagraph (B)(i).
 
@@ -86,7 +94,7 @@
 
 (d) The Under Secretary for Health may provide for such training of professional, paraprofessional, and lay personnel as is necessary to carry out this section effectively, and, in carrying out this section, may utilize the services of paraprofessionals, individuals who are volunteers working without compensation, and individuals who are veteran-students (as described in section 3485 of this title) in initial intake and screening activities.
 
-(e)(1) In furnishing counseling and related mental health services under subsections (a) and (b) of this section, the Secretary shall have available the same authority to enter into contracts or agreements with private facilities that is available to the Secretary in furnishing medical services to veterans suffering from total service-connected disabilities.
+(e)(1) In furnishing counseling and related mental health services under subsections (a) and\(b) of this section, the Secretary shall have available the same authority to enter into contracts or agreements with private facilities that is available to the Secretary in furnishing medical services to veterans suffering from total service-connected disabilities.
 
 (2) Before furnishing counseling or related mental health services described in subsections (a) and (b) of this section through a contract facility, as authorized by this subsection, the Secretary shall approve (in accordance with criteria which the Secretary shall prescribe by regulation) the quality and effectiveness of the program operated by such facility for the purpose for which the counseling or services are to be furnished.
 
@@ -126,7 +134,17 @@
 
 &emsp;(5) The term "civil disorder" has the meaning given that term in section 232 of title 18.
 
-(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, §208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 110–181, div. A, title XVII, §1708(b), Jan. 28, 2008, 122 Stat. 494; Pub. L. 110–387, title IX, §901(a)(1), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–163, title IV, §402, May 5, 2010, 124 Stat. 1156; Pub. L. 112–239, div. A, title VII, §727, Jan. 2, 2013, 126 Stat. 1809; Pub. L. 115–182, title I, §144(a)(1)(B), June 6, 2018, 132 Stat. 1430; Pub. L. 116–176, §2, Oct. 20, 2020, 134 Stat. 849; Pub. L. 116–283, div. A, title VII, §762(a), (b), title IX, §926(a)(23), Jan. 1, 2021, 134 Stat. 3724, 3725, 3830; Pub. L. 116–315, title V, §5104, Jan. 5, 2021, 134 Stat. 5027.)
+&emsp;(6) The term "covered educational assistance benefits" means educational assistance benefits provided pursuant to—
+
+&emsp;&emsp;(A) chapter 30, 31, 32, or 33 of this title;
+
+&emsp;&emsp;(B) chapter 1606 or 1607 of title 10;
+
+&emsp;&emsp;(C) section 116 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48; 38 U.S.C. 3001 note); or
+
+&emsp;&emsp;(D) section 8006 of the American Rescue Plan Act of 2021 (Public Law 117–2; 38 U.S.C. 3001 note prec.).
+
+(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, §208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 110–181, div. A, title XVII, §1708(b), Jan. 28, 2008, 122 Stat. 494; Pub. L. 110–387, title IX, §901(a)(1), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–163, title IV, §402, May 5, 2010, 124 Stat. 1156; Pub. L. 112–239, div. A, title VII, §727, Jan. 2, 2013, 126 Stat. 1809; Pub. L. 115–182, title I, §144(a)(1)(B), June 6, 2018, 132 Stat. 1430; Pub. L. 116–176, §2, Oct. 20, 2020, 134 Stat. 849; Pub. L. 116–283, div. A, title VII, §762(a), (b), title IX, §926(a)(23), Jan. 1, 2021, 134 Stat. 3724, 3725, 3830; Pub. L. 116–315, title V, §5104, Jan. 5, 2021, 134 Stat. 5027; Pub. L. 117–328, div. V, title IV, §§402(a), 403(a), Dec. 29, 2022, 136 Stat. 5511.)
 
 #### <b>Editorial Notes</b>
 
@@ -135,6 +153,22 @@
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (a)(1)(C)(vi), is the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
 #### Amendments
+
+Subsec. (a)(1)(A). Pub. L. 117–328, §402(a), substituted "clauses (i) through (vii)" for "clauses (i) through (vi)" in cl. (i) and "in clause (viii)" for "in clause (vii)" in cl. (ii).
+
+Subsec. (a)(1)(A)(ii)(III). Pub. L. 117–328, §403(a)(1), added subcl. (III).
+
+Subsec. (a)(1)(B)(i). Pub. L. 117–328, §402(a), substituted "clauses (i) through (vii)" for "clauses (i) through (vi)" in subcl. (I) and "in clause (viii)" for "in clause (vii)" in subcl. (II).
+
+Subsec. (a)(1)(B)(i)(II)(cc). Pub. L. 117–328, §403(a)(2), added item (cc).
+
+Subsec. (a)(1)(C)(vii). Pub. L. 117–328, §402(a)(3)(B), added cl. (vii). Former cl. (vii) redesignated (viii).
+
+Subsec. (a)(1)(C)(viii). Pub. L. 117–328, §402(a)(3)(A), redesignated cl. (vii) as (viii).
+
+Subsec. (a)(1)(C)(viii)(III). Pub. L. 117–328, §403(a)(3), which directed addition of subcl. (III) to cl. (vii), was executed by adding subcl. (III) to cl. (viii), to reflectthe probable intent of Congress and the intervening amendment by Pub. L. 117–328, §402(a)(3)(A). See above.
+
+Subsec. (h)(6). Pub. L. 117–328, §402(a)(4), added par. (6).
 
 <b>2021</b>—Subsec. (a)(1)(B). Pub. L. 116–315, §5104(a), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of cl. (ii) as items (aa) and (bb), respectively, of subcl. (II), and added cl. (ii).
 
@@ -302,7 +336,7 @@ Subsec. (g)(1). Pub. L. 98–160, §101(b)(1), substituted "September 30, 1988" 
 
 Subsec. (g)(1)(A). Pub. L. 98–160, §101(b)(1), substituted "October 1, 1988" for "October 1, 1984".
 
-Subsec. (g)(2). Pub. L. 98–160, §101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting "Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the Administrator's evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans' Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder" for "Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection", and adding subpar. (B).
+Subsec. (g)(2). Pub. L. 98–160, §101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting "Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the Administrator's evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mentalhealth services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans' Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder" for "Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection", and adding subpar. (B).
 
 Subsec. (g)(3). Pub. L. 98–160, §101(b)(2), added par. (3).
 
@@ -313,6 +347,10 @@ Subsec. (g). Pub. L. 97–72, §104(b), added subsec. (g).
 <b>1979</b>—Subsec. (d). Pub. L. 96–128 substituted "title)" for "title),".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. V, title IV, §403(b), Dec. 29, 2022, 136 Stat. 5512, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to family members of a member or veteran who died by suicide before, on, or after the date of the enactment of this Act \[Dec. 29, 2022\]."
 
 #### Effective Date of 2021 Amendment
 
@@ -337,6 +375,118 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 #### Effective Date
 
 Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
+
+#### Mental Health and Suicide Prevention Outreach to Minority Veterans and American Indian and Alaska Native Veterans
+
+Pub. L. 117–328, div. V, title I, §101(a)–(c), Dec. 29, 2022, 136 Stat. 5498, 5499, provided that:
+
+"(a)
+
+Staffing Requirement.—Beginning not later than 90 days after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall ensure that each medical center of the Department of Veterans Affairs has no fewer than one full-time employee whose responsibility is serving as a minority veteran coordinator.
+
+"(b)
+
+Training.—Not later than 180 days after the date of the enactment of this Act, the Secretary, in consultation with the Indian Health Service and the Director of the Office of Mental Health and Suicide Prevention of the Department of Veterans Affairs, shall ensure that all minority veteran coordinators receive training in delivery of mental health and suicide prevention services culturally appropriate for American Indian and Alaska Native veterans, especially with respect to the identified populations and tribes within the coordinators' catchment areas.
+
+"(c)
+
+Coordination With Suicide Prevention Coordinators.—Not later than 180 days after the date of the enactment of this Act, the Secretary, in consultation with the Director of the Office of Mental Health and Suicide Prevention, shall ensure that the suicide prevention coordinator and minority veteran coordinator of each medical center of the Department have developed and disseminated to the director of the medical center a written plan for conducting mental health and suicide prevention outreach to all tribes and urban Indian health organizations within the catchment area of the medical center. Each such plan shall include for each tribe covered by the plan—
+
+&emsp;"(1) contact information for tribal leadership and the tribal health facility or Indian Health Service facility serving that tribe;
+
+&emsp;"(2) a schedule for and list of outreach plans (including addressing any barriers to accessing Department mental health care);
+
+&emsp;"(3) documentation of any conversation with tribal leaders that may guide culturally appropriate delivery of mental health care to American Indian or Alaska Native veterans;
+
+&emsp;"(4) documentation of any progress in incorporating traditional healing practices into mental health and suicide prevention protocols and options available for veterans who are members of such tribe; and
+
+&emsp;"(5) documentation of any coordination among the Department, the Indian Health Service, urban Indian health organizations, and the Substance Abuse and Mental Health Services Administration for the purpose of improving suicide prevention efforts tailored to veterans who are members of such tribe and the provision of culturally competent mental health care to such veterans."
+
+#### Expansion of Vet Center Workforce
+
+Pub. L. 117–328, div. V, title I, §102, Dec. 29, 2022, 136 Stat. 5500, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\] and subject to the availability of appropriations, the Secretary of Veterans Affairs shall hire an additional 50 full-time equivalent employees for Vet Centers to bolster the workforce of Vet Centers and to provide expanded mental health care to veterans, members of the Armed Forces, and their families through outreach, community access points, outstations, and Vet Centers.
+
+"(b)
+
+Vet Center Defined.—In this section, the term 'Vet Center' has the meaning given that term in section 1712A(h) of title 38, United States Code."
+
+#### Designation of Buddy Check Week by Secretary of Veterans Affairs
+
+Pub. L. 117–328, div. V, title III, §301, Dec. 29, 2022, 136 Stat. 5505, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall designate one week each year to organize outreach events and educate veterans on how to conduct peer wellness checks, which shall be known as 'Buddy Check Week'.
+
+"(b)
+
+Educational Opportunities.—
+
+&emsp;"(1)
+
+In general.—During Buddy Check Week, the Secretary, in consultation with organizations that represent veterans, nonprofits that serve veterans, mental health experts, members of the Armed Forces, and such other entities and individuals as the Secretary considers appropriate, shall collaborate with organizations that represent veterans to provide educational opportunities for veterans to learn how to conduct peer wellness checks.
+
+&emsp;"(2)
+
+Training matters.—As part of the educational opportunities provided under paragraph (1), the Secretary shall provide the following:
+
+&emsp;&emsp;"(A) A script for veterans to use to conduct peer wellness checks that includes information on appropriate referrals to resources veterans might need.
+
+&emsp;&emsp;"(B) Online and in-person training, as appropriate, on how to conduct a peer wellness check.
+
+&emsp;&emsp;"(C) Opportunities for members of organizations that represent veterans to learn how to train individuals to conduct peer wellness checks.
+
+&emsp;&emsp;"(D) Training for veterans participating in Buddy Check Week on how to transfer a phone call directly to the Veterans Crisis Line.
+
+&emsp;&emsp;"(E) Resiliency training for veterans participating in Buddy Check Week on handling a veteran in crisis.
+
+&emsp;"(3)
+
+Online materials.—All training materials provided under the educational opportunities under paragraph (1) shall be made publicly available on a website of the Department of Veterans Affairs.
+
+"(c)
+
+Outreach.—The Secretary, in collaboration with organizations that represent veterans, may conduct outreach regarding educational opportunities under subsection (b) at—
+
+&emsp;"(1) public events where many veterans are expected to congregate;
+
+&emsp;"(2) meetings of organizations that represent veterans;
+
+&emsp;"(3) facilities of the Department; and
+
+&emsp;"(4) such other locations as the Secretary, in collaboration with organizations that represent veterans, considers appropriate.
+
+"(d)
+
+Veterans Crisis Line Plan.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall ensure that a plan exists for handling the potential increase in the number of calls into the Veterans Crisis Line that may occur during Buddy Check Week.
+
+&emsp;"(2)
+
+Submittal of plan.—The head of the Veterans Crisis Line shall submit to the Secretary a plan for how to handle excess calls during Buddy Check Week, which may include the following:
+
+&emsp;&emsp;"(A) Additional hours for staff.
+
+&emsp;&emsp;"(B) The use of a backup call center.
+
+&emsp;&emsp;"(C) Any other plan to ensure that calls from veterans in crisis are being answered in a timely manner by an individual trained at the same level as a Veterans Crisis Line responder.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'organization that represents veterans' means an organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code.
+
+&emsp;"(2) The term 'veteran' has the meaning given that term in section 101 of such title.
+
+&emsp;"(3) The term 'Veterans Crisis Line' means the toll-free hotline for veterans provided by the Secretary under section 1720F(h) of such title."
 
 #### Expansion of Rural Access Network for Growth Enhancement
 
@@ -420,7 +570,7 @@ In general.—Child care assistance under the pilot program may include the foll
 
 &emsp;"(B)
 
-Local area.—In providing child care assistance under the pilot program, the child care needs of the local area shall be considered and the head of each Vet Center may select the type of care that is most appropriate or feasible for such Vet Center.
+Local area.—In providing child care assistance under the pilot program, the child care needs ofthe local area shall be considered and the head of each Vet Center may select the type of care that is most appropriate or feasible for such Vet Center.
 
 &emsp;"(C)
 
@@ -504,7 +654,7 @@ Selection criteria.—In selecting facilities under paragraph (1), the Secretary
 
 &emsp;&emsp;"(A) the locations are in geographically diverse areas; and
 
-&emsp;&emsp;"(B) not fewer than three facilities serve veterans in rural or highly rural areas (as determinedthrough the use of the Rural-Urban Commuting Areas coding system of the Department of Agriculture).
+&emsp;&emsp;"(B) not fewer than three facilities serve veterans in rural or highly rural areas (as determined through the use of the Rural-Urban Commuting Areas coding system of the Department of Agriculture).
 
 "(f)
 
@@ -620,7 +770,7 @@ Membership.—The Work Group created under paragraph (1) shall be comprised of i
 
 &emsp;"(3)
 
-Relation to other work groups.—The Work Group shall be created and conducted in the samemanner as other work groups for the development of clinical practice guidelines for the Department of Veterans Affairs and the Department of Defense.
+Relation to other work groups.—The Work Group shall be created and conducted in the same manner as other work groups for the development of clinical practice guidelines for the Department of Veterans Affairs and the Department of Defense.
 
 "(e)
 
@@ -852,7 +1002,7 @@ Initial report.—Not later than 18 months after the date on which the pilot pro
 
 &emsp;&emsp;"(C) whether the mental health resources made available under the pilot program for members of the reserve components of the Armed Forces is effective;
 
-&emsp;&emsp;"(D) a full description of the activities and effectiveness of community outreach coordinatingteams under the pilot program, including partnerships that have been established with appropriate entities; and
+&emsp;&emsp;"(D) a full description of the activities and effectiveness of community outreach coordinating teams under the pilot program, including partnerships that have been established with appropriate entities; and
 
 &emsp;&emsp;"(E) the number of veterans who—
 
@@ -1182,7 +1332,7 @@ Pub. L. 110–387, title I, §107, Oct. 10, 2008, 122 Stat. 4116, provided that:
 
 "(a)
 
-Pilot Program Required.—Commencing not later than 180 days after the date of the enactment ofthis Act \[Oct. 10, 2008\], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasability \[sic\] and advisability of providing to veterans of Operation Iraqi Freedom and Operation Enduring Freedom, and, in particular, veterans who served in such operations as a member of the National Guard or Reserve, the following:
+Pilot Program Required.—Commencing not later than 180 days after the date of the enactment of this Act \[Oct. 10, 2008\], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasability \[sic\] and advisability of providing to veterans of Operation Iraqi Freedom and Operation Enduring Freedom, and, in particular, veterans who served in such operations as a member of the National Guard or Reserve, the following:
 
 &emsp;"(1) Peer outreach services.
 
@@ -1234,7 +1384,7 @@ Participation in Program.—Each community mental health center, facility of the
 
 "(f)
 
-Compliance With Department Protocols.—Each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall comply with—
+Compliance With Department Protocols.—Each community mental health center, facility of the Indian Health Service, or other entity participating inthe pilot program under subsection (b) shall comply with—
 
 &emsp;"(1) applicable protocols of the Department before incurring any liability on behalf of the Department for the provision of services as part of the pilot program; and
 
@@ -1300,7 +1450,7 @@ Elements.—The strategy implemented under paragraph (1) shall assess the impact
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'community mental health center' has the meaning given such term in section 410.2 of title 42, Code of Federal Regulations (as in effect onthe day before the date of the enactment of this Act \[Oct. 10, 2008\]).
+&emsp;"(1) The term 'community mental health center' has the meaning given such term in section 410.2 of title 42, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act \[Oct. 10, 2008\]).
 
 &emsp;"(2) The term 'eligible veteran' means a veteran in need of mental health services who—
 
@@ -1576,7 +1726,7 @@ Information To Be Included.—The study conducted pursuant to this section shall
 
 "(d)
 
-Report.—The Secretary shall submit to the Committees on Veterans' Affairs of the Senate andHouse of Representatives a report on the results of the study under this section. The report shall be submitted no later than October 1, 2004."
+Report.—The Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the results of the study under this section. The report shall be submitted no later than October 1, 2004."
 
 #### Specialized Mental Health Services
 
@@ -1620,7 +1770,7 @@ Allocation of Funds to Department Facilities.—(1) In each of fiscal years 2004
 
 "(e)
 
-Report.—Not later than 12 months after the date of the enactment of this Act \[Nov. 30, 1999\], the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report describing the implementation of this section. The Secretary shall include in the report information on the allocation of funds to facilities of the Department under the program and a description of the improvements made with those funds to specialized mental health services for veterans."
+Report.—Not later than 12 months after the date of the enactment of this Act \[Nov. 30, 1999\], the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report describing the implementation of this section. The Secretary shall include in the report information onthe allocation of funds to facilities of the Department under the program and a description of the improvements made with those funds to specialized mental health services for veterans."
 
 #### Marriage and Family Counseling for Persian Gulf War Veterans
 
@@ -1782,7 +1932,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 "(a)(1) The Under Secretary for Health of the Department of Veterans Affairs may designate special programs within the Veterans Health Administration for the diagnosis and treatment of post-traumatic-stress disorder (hereinafter in this section referred to as 'PTSD').
 
-"(2) The Under Secretary for Health shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department programs designated under paragraph (1) (hereinafter in this section referred to as 'designated PTSD programs') carry out activities to promote the education and training of health-care personnel (including health-care personnel not working for the Department or the Federal Government) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A of title 38, United States Code.
+"(2) The Under Secretary for Health shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department programs designated under paragraph (1) (hereinafter in this section referred to as 'designated PTSD programs') carry out activitiesto promote the education and training of health-care personnel (including health-care personnel not working for the Department or the Federal Government) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A of title 38, United States Code.
 
 "(b)(1) The Under Secretary for Health shall establish in the Veterans Health Administration a Special Committee on Post-Traumatic-Stress Disorder (hereinafter in this section referred to as the 'Special Committee'). The Under Secretary for Health shall appoint qualified employees of the Veterans Health Administration to serve on the Special Committee.
 
@@ -1814,7 +1964,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 &emsp;"(A) A list of the members of the Special Committee.
 
-&emsp;"(B) A list of all designated PTSD programs and other programs providing treatment for PTSD, together with a description of the resources that have been allocated for the development and operation of each such program, a description of the education and training that has been provided for Department health-care personnel in such programs and elsewhere within the Department in the diagnosis and treatment of PTSD, and specification of the funding thathas been allocated to each such program and elsewhere within the Department to support research relating to PTSD.
+&emsp;"(B) A list of all designated PTSD programs and other programs providing treatment for PTSD, together with a description of the resources that have been allocated for the development and operation of each such program, a description of the education and training that has been provided for Department health-care personnel in such programs and elsewhere within the Department in the diagnosis and treatment of PTSD, and specification of the funding that has been allocated to each such program and elsewhere within the Department to support research relating to PTSD.
 
 &emsp;"(C) The assessment of the Under Secretary for Health of the Department, after consultation with the Special Committee, regarding the capability of the Department to meet the needs for inpatient and outpatient PTSD diagnosis and treatment (both through designated PTSD programs and otherwise) of veterans who served in the Republic of Vietnam during the Vietnam era, former prisoners of war, and other veterans eligible for health care from the Department and the efficacy of the treatment so provided, as well as a description of the results of any evaluations that have been made of PTSD treatment programs.
 

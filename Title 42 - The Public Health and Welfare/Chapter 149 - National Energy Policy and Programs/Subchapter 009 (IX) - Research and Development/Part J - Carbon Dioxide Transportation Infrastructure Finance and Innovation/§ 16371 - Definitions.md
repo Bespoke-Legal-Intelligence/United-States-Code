@@ -38,7 +38,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(i) the cost of legal counsel and technical consultants; and
 
-&emsp;&emsp;&emsp;(ii) any subsidy amount paid in accordance with section 16372(c)(3)(B)(ii) of this title or section 16373(b)(6)(B)(ii) of this title.
+&emsp;&emsp;&emsp;(ii) any subsidy amount paid in accordance with section 16372(c)(3)(B)(ii) of thistitle or section 16373(b)(6)(B)(ii) of this title.
 
 #### (5) Federal credit instrument
 
@@ -50,7 +50,7 @@ In this part:
 
 #### (7) Letter of interest
 
-&emsp;The term "letter of interest" means a letter submitted by a potential applicant prior to anapplication for credit assistance in a format prescribed by the Secretary on the website of the CIFIA program that—
+&emsp;The term "letter of interest" means a letter submitted by a potential applicant prior to an application for credit assistance in a format prescribed by the Secretary on the website of the CIFIA program that—
 
 &emsp;&emsp;(A) describes the project and the location, purpose, and cost of the project;
 

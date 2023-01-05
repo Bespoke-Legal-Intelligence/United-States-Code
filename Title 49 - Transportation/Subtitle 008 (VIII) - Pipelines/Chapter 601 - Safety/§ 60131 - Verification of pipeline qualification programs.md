@@ -102,7 +102,7 @@ In general.—Not later than 36 months after the date of enactment of this Act \
 
 &emsp;"(A) develop tests and other requirements for certifying the qualifications of individuals who operate computer-based systems for controlling the operations of pipelines; and
 
-&emsp;"(B) establish and carry out a pilot program for 3 pipeline facilities under which the individuals operating computer-based systems for controlling the operations of pipelines at such facilities are required tobe certified under the process established under subparagraph (A).
+&emsp;"(B) establish and carry out a pilot program for 3 pipeline facilities under which the individuals operating computer-based systems for controlling the operations of pipelines at such facilities are required to be certified under the process established under subparagraph (A).
 
 "(2)
 

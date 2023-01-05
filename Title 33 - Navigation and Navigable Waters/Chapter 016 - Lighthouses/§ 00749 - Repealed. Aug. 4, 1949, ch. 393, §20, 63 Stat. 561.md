@@ -6,5 +6,5 @@ Section, acts July 27, 1912, ch. 255, §2, 37 Stat. 239; Mar. 4, 1913, ch. 141, 
 
 #### Effective Date of Repeal
 
-Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of actAug. 4, 1949, set out as an Effective Date preceding chapter 1 of Title 14, Coast Guard.
+Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of act Aug. 4, 1949, set out as an Effective Date preceding chapter 1 of Title 14, Coast Guard.
 

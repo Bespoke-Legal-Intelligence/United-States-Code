@@ -4,7 +4,7 @@
 
 (1) The provisions of the constitution or the laws of any State expressly limiting the rate or amount of interest, discount points, finance charges, or other charges which may be charged, taken, received, or reserved shall not apply to any loan, mortgage, credit sale, or advance which is—
 
-&emsp;(A) secured by a first lien on residential real property, by a first lien on all stock allocated to a dwelling unit in a residential cooperativehousing corporation, or by a first lien on a residential manufactured home;
+&emsp;(A) secured by a first lien on residential real property, by a first lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, or by a first lien on a residential manufactured home;
 
 &emsp;(B) made after March 31, 1980; and
 

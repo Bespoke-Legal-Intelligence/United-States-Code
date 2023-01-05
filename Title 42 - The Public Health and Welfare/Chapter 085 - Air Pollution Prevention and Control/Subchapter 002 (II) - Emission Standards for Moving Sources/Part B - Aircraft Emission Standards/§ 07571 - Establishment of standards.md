@@ -8,7 +8,7 @@
 
 &emsp;(B) the technological feasibility of controlling such emissions.
 
-(2)(A) The Administrator shall, from time to time, issue proposed emission standards applicable to the emission of any air pollutant fromany class or classes of aircraft engines which in his judgment causes, or contributes to, air pollution which may reasonably be anticipated to endanger public health or welfare.
+(2)(A) The Administrator shall, from time to time, issue proposed emission standards applicable to the emission of any air pollutant from any class or classes of aircraft engines which in his judgment causes, or contributes to, air pollution which may reasonably be anticipated to endanger public health or welfare.
 
 (B)(i) The Administrator shall consult with the Administrator of the Federal Aviation Administration on aircraft engine emission standards.
 

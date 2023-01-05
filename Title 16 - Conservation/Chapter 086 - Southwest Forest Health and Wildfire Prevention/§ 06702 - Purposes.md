@@ -2,7 +2,7 @@
 
 The purposes of this chapter are—
 
-&emsp;(1) to enhance the capacity to develop, transfer, apply, monitor, and regularly update practical science-based forest restorationtreatments that will reduce the risk of severe wildfires, and improve the health of dry forest and woodland ecosystems in the interior West;
+&emsp;(1) to enhance the capacity to develop, transfer, apply, monitor, and regularly update practical science-based forest restoration treatments that will reduce the risk of severe wildfires, and improve the health of dry forest and woodland ecosystems in the interior West;
 
 &emsp;(2) to synthesize and adapt scientific findings from conventional research programs to the implementation of forest and woodland restoration on a landscape scale;
 

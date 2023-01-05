@@ -42,7 +42,7 @@ For purposes of this section, the following are covered securities:
 
 &emsp;A security is a covered security with respect to a transaction that is exempt from registration under this subchapter pursuant to—
 
-&emsp;&emsp;(A) paragraph (1) or (3) of section 77d <sup>1</sup> of this title, and the issuer of such security files reports with the Commission pursuant to section 78m or 78o(d) of this title;
+&emsp;&emsp;(A) paragraph (1) or (3) of section 77d <sup>1</sup> of this title, and the issuer of such securityfiles reports with the Commission pursuant to section 78m or 78o(d) of this title;
 
 &emsp;&emsp;(B) section 77d(4) <sup>1</sup> of this title;
 
@@ -82,7 +82,7 @@ For purposes of this section, the following are covered securities:
 
 #### (A) Notice filings permitted
 
-&emsp;&emsp;Nothing in this section prohibits the securities commission (or any agency or officeperforming like functions) of any State from requiring the filing of any document filed with the Commission pursuant to this subchapter, together with annual or periodic reports of the value of securities sold or offered to be sold to persons located in the State (if such sales data is not included in documents filed with the Commission), solely for notice purposes and the assessment of any fee, together with a consent to service of process and any required fee.
+&emsp;&emsp;Nothing in this section prohibits the securities commission (or any agency or office performing like functions) of any State from requiring the filing of any document filed with the Commission pursuant to this subchapter, together with annual or periodic reports of the value of securities sold or offered to be sold to persons located in the State (if such sales data is not included in documents filed with the Commission), solely for notice purposes and the assessment of any fee, together with a consent to service of process and any required fee.
 
 #### (B) Preservation of fees
 
@@ -110,7 +110,7 @@ For purposes of this section, the following are covered securities:
 
 #### (F) <sup>4</sup> Fees not permitted on crowdfunded securities
 
-&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term "State" includes the District of Columbia and the territories of the United States.
+&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that forpurposes of this subparagraph, the term "State" includes the District of Columbia and the territories of the United States.
 
 #### (3) Enforcement of requirements
 
@@ -146,7 +146,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b)(4)(A) to (C), (E) and (c)(1)(B), were redesignated section 77d(a)(1), (2), (3), (4), and (6), respectively, of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 

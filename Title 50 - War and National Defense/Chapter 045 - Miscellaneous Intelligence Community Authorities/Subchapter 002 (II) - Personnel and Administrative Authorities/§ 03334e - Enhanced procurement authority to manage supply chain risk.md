@@ -34,7 +34,7 @@ In this section:
 
 #### (5) Covered system
 
-&emsp;The term "covered system" means a national security system, as that term is defined in section 3542(b) <sup>1</sup> of title 44.
+&emsp;The term "covered system" means a national security system, as that term is defined in section 3552 of title 44.
 
 #### (6) Supply chain risk
 
@@ -64,7 +64,7 @@ The head of a covered agency may exercise the authority provided in subsection (
 
 &emsp;(3) notifying the Director of National Intelligence that there is a significant supply chain risk to the covered system concerned, unless the head of the covered agency making the determination is the Director of National Intelligence; and
 
-&emsp;(4) providing a notice, which may be in classified form, of the determination made under paragraph (2) to the congressional intelligencecommittees that includes a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
+&emsp;(4) providing a notice, which may be in classified form, of the determination made under paragraph (2) to the congressional intelligence committees that includes a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
 
 #### (d) Delegation
 
@@ -78,19 +78,17 @@ The authority under this section is in addition to any other authority under any
 
 The requirements of this section shall take effect on the date that is 180 days after January 3, 2012, and shall apply to contracts that are awarded on or after such date.
 
-(Pub. L. 112–87, title III, §309, Jan. 3, 2012, 125 Stat. 1883; Pub. L. 116–92, div. E, title LXIII, §6309, Dec. 20, 2019, 133 Stat. 2190.)
+(Pub. L. 112–87, title III, §309, Jan. 3, 2012, 125 Stat. 1883; Pub. L. 116–92, div. E, title LXIII, §6309, Dec. 20, 2019, 133 Stat. 2190; Pub. L. 117–263, div. F, title LXVIII, §6824(c), Dec. 23, 2022, 136 Stat. 3615.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-Section 3542(b) of title 44, referred to in subsec. (a)(5), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. See section 3552(b) of Title 44, Public Printing and Documents.
 
 #### Codification
 
 Section was formerly set out as a note under section 3329 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(5). Pub. L. 117–263 substituted "section 3552" for "section 3542(b)".
 
 <b>2019</b>—Subsec. (g). Pub. L. 116–92 struck out subsec. (g). Prior to amendment, text read as follows: "The authority provided in this section shall expire on the date that section 806 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 2304 note) expires."
 
@@ -99,6 +97,4 @@ Section was formerly set out as a note under section 3329 of this title.
 #### Definitions
 
 For definitions of "intelligence community" and "congressional intelligence committees", referred to in text, see section 2 of Pub. L. 112–87, set out as a note under section 3003 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@ Basic Pay.—(1) In accordance with this section, the Secretary shall fix the ra
 
 (c)
 
-Additional Compensation, Incentives, and Allowances.—(1) The Secretary may provide employees in qualified positions compensation (in addition to basic pay), including benefits, incentives, and allowances, consistent with, and not in excess of the level authorized for, comparable positions authorized by title 5.
+Additional Compensation, Incentives, and Allowances.—(1) The Secretary may provideemployees in qualified positions compensation (in addition to basic pay), including benefits, incentives, and allowances, consistent with, and not in excess of the level authorized for, comparable positions authorized by title 5.
 
 (2) An employee in a qualified position whose rate of basic pay is fixed under subsection (b)(1) shall be eligible for an allowance under section 5941 of title 5 on the same basis and to the same extent as if the employee was an employee covered by such section, including eligibility conditions, allowance rates, and all other terms and conditions in law or regulation.
 
@@ -74,7 +74,7 @@ Required Regulations.—The Secretary, in coordination with the Director of the 
 
 (h)
 
-Annual Report.—(1) Not later than one year after the date of the enactment of this section and not less frequently than once each year thereafter until the date that is five years afterthe date of the enactment of this section, the Director of the Office of Personnel Management, in coordination with the Secretary, shall submit to the appropriate committees of Congress a detailed report on the administration of this section during the most recent one-year period.
+Annual Report.—(1) Not later than one year after the date of the enactment of this section and not less frequently than once each year thereafter until the date that is five years after the date of the enactment of this section, the Director of the Office of Personnel Management, in coordination with the Secretary, shall submit to the appropriate committees of Congress a detailed report on the administration of this section during the most recent one-year period.
 
 (2) Each report submitted under paragraph (1) shall include, for the period covered by the report, the following:
 
@@ -178,7 +178,7 @@ Report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], theChief Information Officer shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the congressional intelligence committees a strategy for expanding the policies described in paragraph (1) to—
+In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Chief Information Officer shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the congressional intelligence committees a strategy for expanding the policies described in paragraph (1) to—
 
 &emsp;&emsp;&emsp;"(i) individuals who occupy positions described in section 1599f of title 10, United States Code; and
 
@@ -242,7 +242,7 @@ Scope of Review.—As part of a review conducted pursuant to subsection (a)(1), 
 
 &emsp;&emsp;"(C) to guide prioritization of investment and funding;
 
-&emsp;"(5) develop recommendations and objectives for organizational, manning, and equipping change, taking into account anticipated developments in information technologies, workload projections, automation and process enhancements, and Department requirements;
+&emsp;"(5) develop recommendations and objectives for organizational, manning, and equipping change, taking into account anticipated developments in information technologies, workload projections, automationand process enhancements, and Department requirements;
 
 &emsp;"(6) develop a gap analysis, contrasting the current organization and the objectives developed pursuant to paragraph (5); and
 

@@ -32,7 +32,7 @@ Grants made by the Secretary under this chapter shall be made only for projects 
 
 #### (g) Accessibility standards for handicapped and elderly
 
-No grant shall be made under this chapter for any project for which the applicant does not give assurances satisfactory to the Secretary that the project will be designed and constructed in accordance with the standards for accessibility for public buildings and facilities to the handicapped and elderly under the Act entitled "An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped", approved August 12, 1968 (42 U.S.C. 4151 et seq.). The Architectural and Transportation Barriers Compliance Board established by the Rehabilitation Act of 1973 (P.L. 93–112) \[29 U.S.C. 701 et seq.\] is authorized to insure that any construction and renovation done pursuant to any grant made under this chapter complies with the accessibility standards forpublic bunldings <sup>1</sup> and facilities issued under the Act of August 12, 1968.
+No grant shall be made under this chapter for any project for which the applicant does not give assurances satisfactory to the Secretary that the project will be designed and constructed in accordance with the standards for accessibility for public buildings and facilities to the handicapped and elderly under the Act entitled "An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped", approved August 12, 1968 (42 U.S.C. 4151 et seq.). The Architectural and Transportation Barriers Compliance Board established by the Rehabilitation Act of 1973 (P.L. 93–112) \[29 U.S.C. 701 et seq.\] is authorized to insure that any construction and renovation done pursuant to any grant made under this chapter complies with the accessibility standards for public bunldings <sup>1</sup> and facilities issued under the Act of August 12, 1968.
 
 (Pub. L. 94–369, title I, §106, July 22, 1976, 90 Stat. 1000; Pub. L. 95–28, title I, §103, May 13, 1977, 91 Stat. 116; Pub. L. 114–157, §1(b), May 20, 2016, 130 Stat. 393.)
 
@@ -40,11 +40,11 @@ No grant shall be made under this chapter for any project for which the applican
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (e)(2), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (e)(2), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 Act of August 12, 1968, entitled "An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped", referred to in subsec. (g), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§4151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (g), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (g), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Amendments
 

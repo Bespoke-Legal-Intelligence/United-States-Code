@@ -12,7 +12,7 @@
 
 #### (b) Stay of proceedings
 
-In a proceeding to foreclose or enforce a lien subject to this section, the court may on its own motion, and shall if requested by a servicemember whose ability to comply with the obligation resulting in the proceeding is materially affected by military service—
+In a proceeding to foreclose or enforce a lien subject to this section, the court may on its ownmotion, and shall if requested by a servicemember whose ability to comply with the obligation resulting in the proceeding is materially affected by military service—
 
 &emsp;(1) stay the proceeding for a period of time as justice and equity require; or
 

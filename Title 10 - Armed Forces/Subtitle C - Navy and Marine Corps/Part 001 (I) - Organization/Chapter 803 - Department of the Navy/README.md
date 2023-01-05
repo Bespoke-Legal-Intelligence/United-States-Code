@@ -17,7 +17,7 @@
 | [8023\.](%C2%A7%2008023%20-%20Office%20of%20Naval%20Research%20appropriations%3B%20time%20limit.md) | Office of Naval Research: appropriations; time limit. |
 | [8024\.](%C2%A7%2008024%20-%20Naval%20Research%20Advisory%20Committee.md) | Naval Research Advisory Committee. |
 | [8025\.](%C2%A7%2008025%20-%20Financial%20management.md) | Financial management. |
-| [8026\.](%C2%A7%2008026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation.md) | Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation. |
+| [8026\.](%C2%A7%2008026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation%20or%20amphibious%20force%E2%80%A6.md) | Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation or amphibious force structure and capability. |
 | [8027\.](%C2%A7%2008027%20-%20Chief%20of%20Legislative%20Affairs.md) | Chief of Legislative Affairs. |
 | [8028\.](%C2%A7%2008028%20-%20Director%20of%20Small%20Business%20Programs.md) | Director of Small Business Programs. |
 
@@ -30,6 +30,8 @@
 A prior chapter 803, consisting of sections 8011 to 8024, related to Department of the Air Force, prior to renumbering as chapter 903 of this title.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title X, §1022(b)(2), Dec. 23, 2022, 136 Stat. 2763, added item 8026 and struck out former item 8026 "Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 503 of this title as this chapter and items 5011 to 5028 as 8011 to 8028, respectively.
 
@@ -69,6 +71,6 @@ A prior chapter 803, consisting of sections 8011 to 8024, related to Department 
 - [&sect; 08023 - Office of Naval Research appropriations; time limit](%C2%A7%2008023%20-%20Office%20of%20Naval%20Research%20appropriations%3B%20time%20limit.md)
 - [&sect; 08024 - Naval Research Advisory Committee](%C2%A7%2008024%20-%20Naval%20Research%20Advisory%20Committee.md)
 - [&sect; 08025 - Financial management](%C2%A7%2008025%20-%20Financial%20management.md)
-- [&sect; 08026 - Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation](%C2%A7%2008026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation.md)
+- [&sect; 08026 - Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation or amphibious force&#8230;](%C2%A7%2008026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation%20or%20amphibious%20force%E2%80%A6.md)
 - [&sect; 08027 - Chief of Legislative Affairs](%C2%A7%2008027%20-%20Chief%20of%20Legislative%20Affairs.md)
 - [&sect; 08028 - Director of Small Business Programs](%C2%A7%2008028%20-%20Director%20of%20Small%20Business%20Programs.md)

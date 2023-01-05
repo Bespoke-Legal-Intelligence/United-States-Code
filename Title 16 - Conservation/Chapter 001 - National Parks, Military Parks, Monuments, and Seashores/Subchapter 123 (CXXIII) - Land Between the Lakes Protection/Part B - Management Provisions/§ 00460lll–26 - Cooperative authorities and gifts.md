@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to such terms and conditions as the Secretary may prescribe, the Secretary may issue a special use authorization to the United States Fish and Wildlife Service for the management by the Service of facilities and land agreed on by the Secretary and the Secretary of the Interior.
+&emsp;&emsp;Subject to such terms and conditions as the Secretary may prescribe, the Secretarymay issue a special use authorization to the United States Fish and Wildlife Service for the management by the Service of facilities and land agreed on by the Secretary and the Secretary of the Interior.
 
 #### (B) Fees
 
@@ -34,5 +34,23 @@ For the management, maintenance, operation, and interpretation of the Recreation
 
 &emsp;(2) accept gifts under section 2269 of title 7 notwithstanding that the donor conducts business with any agency of the Department of Agriculture or is regulated by the Secretary of Agriculture.
 
-(Pub. L. 105–277, div. A, §101(e) \[title V, §526\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–316.)
+#### (c) Memoranda of understanding
+
+The Secretary may, for purposes of carrying out this subchapter—
+
+&emsp;(1) enter into memoranda of understanding with State or local government entities, including law enforcement, as appropriate, to clarify jurisdictional matters, such as road management, policing, and other functions that are typically performed by the entity on non-Federal land; and
+
+&emsp;(2) make available on a public website of the Department of Agriculture any memoranda of understanding entered into under paragraph (1).
+
+(Pub. L. 105–277, div. A, §101(e) \[title V, §526\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–316; Pub. L. 117–328, div. DD, title II, §201(f), Dec. 29, 2022, 136 Stat. 5583.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+This subchapter, referred to in subsec. (c), was in the original "this Act" and was translated as reading "this title", meaning section 101(e) \[title V\] of div. A of Pub. L. 105–277, known as The Land Between the Lakes Protection Act of 1998, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460lll of this title and Tables.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–328 added subsec. (c).
 

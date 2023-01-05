@@ -1,6 +1,6 @@
 ### §5312. Annual adjustment of certain benefit rates
 
-(a) Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of adetermination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, effective on the date of such increase in benefit amounts, increase each maximum annual rate of pension under sections 1521, 1541, and 1542 of this title, the rate of increased pension paid under such sections 1521 and 1541 on account of children, and each rate of monthly allowance paid under section 1805 of this title, as such rates were in effect immediately prior to the date of such increase in benefit amounts payable under title II of the Social Security Act, by the same percentage as the percentage by which such benefit amounts are increased.
+(a) Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, effective on the date of such increase in benefit amounts, increase each maximum annual rate of pension under sections 1521, 1541, and 1542 of this title, the rate of increased pension paid under such sections 1521 and 1541 on account of children, and each rate of monthly allowance paid under section 1805 of this title, as such rates were in effect immediately prior to the date of such increase in benefit amounts payable under title II of the Social Security Act, by the same percentage as the percentage by which such benefit amounts are increased.
 
 (b)(1) Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, effective on the date of such increase in benefit amounts, increase the maximum monthly rates of dependency and indemnity compensation for parents payable under subsections (b), (c), and (d), and the monthly rate provided in subsection (g), of section 1315 of this title and the annual income limitations prescribed in subsections (b)(3), (c)(3), and (d)(3) of such section, and the annual benefit amount limitations under sections 5507(c)(2)(D) and 5508 of this title, as such rates and limitations were in effect immediately prior to the date of such increase in benefit amounts payable under title II of the Social Security Act, by the same percentage as the percentage by which such benefit amounts are increased.
 
@@ -18,7 +18,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

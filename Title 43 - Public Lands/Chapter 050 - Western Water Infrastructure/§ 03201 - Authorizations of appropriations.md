@@ -26,7 +26,7 @@ There are authorized to be appropriated to the Secretary of the Interior, acting
 
 &emsp;&emsp;(A) authorized or approved for construction funding by an Act of Congress before July 1, 2021; or
 
-&emsp;&emsp;(B) selected for funding under the program authorized pursuant to section 4(a) of the Water Desalination Act of 1996 (42 U.S.C. 10301 note; Public Law 104–298), with fundingto be made available under this paragraph in accordance with that subsection, notwithstanding section 4013 of the Water Infrastructure Improvements for the Nation Act (43 U.S.C. 390b note; Public Law 114–322), except that paragraph (2)(F) of section 4(a) of the Water Desalination Act of 1996 (42 U.S.C. 10301 note; Public Law 104–298) (as redesignated by section 40908) shall not apply to amounts made available under this paragraph;
+&emsp;&emsp;(B) selected for funding under the program authorized pursuant to section 4(a) of the Water Desalination Act of 1996 (42 U.S.C. 10301 note; Public Law 104–298), with funding to be made available under this paragraph in accordance with that subsection, notwithstanding section 4013 of the Water Infrastructure Improvements for the Nation Act (43 U.S.C. 390b note; Public Law 114–322), except that paragraph (2)(F) of section 4(a) of the Water Desalination Act of 1996 (42 U.S.C. 10301 note; Public Law 104–298) (as redesignated by section 40908) shall not apply to amounts made available under this paragraph;
 
 &emsp;(6) $500,000,000 for the safety of dams program, in accordance with the Reclamation Safety of Dams Act of 1978 (43 U.S.C. 506 et seq.);
 
@@ -62,7 +62,7 @@ The Reclamation Wastewater and Groundwater Study and Facilities Act, referred to
 
 Section 40908, referred to in par. (5)(B), is section 40908 of Pub. L. 117–58, div. D, title IX, Nov. 15, 2021, 135 Stat. 1126, which amended section 4(a) of Pub. L. 104–298, which is set out in a note under section 10301 of Title 42, The Public Health and Welfare.
 
-The Reclamation Safety of Dams Act of 1978, referred to in par. (6), is Pub. L. 95–578, Nov. 2, 1978, 92 Stat. 2471, which is classified generally to subchapter XI–A (§506 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title of 1978 note set out under section 506 of this title and Tables.
+The Reclamation Safety of Dams Act of 1978, referred to in par. (6), is Pub. L. 95–578, Nov. 2, 1978, 92 Stat. 2471, which is classified principally to subchapter XI–A (§506 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 506 of this title and Tables.
 
 The Colorado River Drought Contingency Plan Authorization Act, referred to in par. (8), is Pub. L. 116–14, Apr. 16, 2019, 133 Stat. 850, which is not classified to the Code.
 

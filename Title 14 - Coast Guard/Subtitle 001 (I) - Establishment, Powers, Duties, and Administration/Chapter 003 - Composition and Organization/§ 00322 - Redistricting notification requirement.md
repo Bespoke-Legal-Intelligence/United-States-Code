@@ -50,7 +50,7 @@ Section 436, added act Aug. 10, 1956, ch. 1041, §9(a), 70A Stat. 621, related t
 
 Section 437, acts Aug. 10, 1956, ch. 1041, §9(a), 70A Stat. 622; June 28, 1962, Pub. L. 87–509, §4(b), 76 Stat. 121, related to discharge during war or emergency of officers having less than 20 years of service for unsatisfactory performance of duty.
 
-A prior section 438, added act Aug. 10, 1956, ch. 1041, §9(a), 70A Stat. 623; amended June 9, 1966, Pub. L. 89–444, §1(21), 80 Stat. 197; Dec. 12, 1980, Pub. L. 96–513, title V, §505(b), 94 Stat. 2918, related to laws not applicable to warrant officers of former Life Saving Service, Lighthouse Service, Bureau of Marine Inspection and Navigation, and Bureau of Customs, prior to repeal by Pub. L. 99–640, §10(a)(6)(A), Nov. 10, 1986, 100 Stat. 3549, which provided in part that such repeal did not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun under that section before Nov. 10, 1986.
+A prior section 438, added act Aug. 10, 1956, ch. 1041, §9(a), 70A Stat. 623; amended June 9, 1966, Pub. L. 89–444, §1(21), 80 Stat. 197; Dec. 12, 1980, Pub. L. 96–513, title V, §505(b), 94 Stat. 2918, related to laws not applicable to warrant officers of former Life Saving Service, Lighthouse Service, Bureau of Marine Inspection and Navigation, and Bureau of Customs, prior to repeal byPub. L. 99–640, §10(a)(6)(A), Nov. 10, 1986, 100 Stat. 3549, which provided in part that such repeal did not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun under that section before Nov. 10, 1986.
 
 Prior sections 439 and 440 were repealed by Pub. L. 88–130, §4(a), Sept. 24, 1963, 77 Stat. 192.
 

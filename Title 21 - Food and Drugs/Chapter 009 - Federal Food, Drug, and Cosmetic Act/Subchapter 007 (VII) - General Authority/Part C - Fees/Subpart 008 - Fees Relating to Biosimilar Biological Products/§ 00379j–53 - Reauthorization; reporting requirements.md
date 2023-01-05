@@ -4,41 +4,47 @@
 
 #### (1) General requirements
 
-&emsp;Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort.
+&emsp;Not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 401(b) <sup>1</sup> of the Biosimilar User Fee Amendments of 2022 during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort.
 
 #### (2) Additional information
 
-&emsp;Beginning with fiscal year 2018, the report under this subsection shall include the progress of the Food and Drug Administration in achieving the goals, and future plans for meeting the goals, including—
+&emsp;The report under this subsection shall include the progress of the Food and Drug Administration in achieving the goals, and future plans for meeting the goals, including—
 
 &emsp;&emsp;(A) information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort;
 
 &emsp;&emsp;(B) the number of original biosimilar biological product applications filed per fiscal year, and the number of approvals issued by the agency for such applications; and
 
-&emsp;&emsp;(C) the number of resubmitted original biosimilar biological product applications filed per fiscal year and the number of approvals <sup>1</sup> letters issued by the agency for such applications.
+&emsp;&emsp;(C) the number of resubmitted original biosimilar biological product applications filed per fiscal year and the number of approvals <sup>2</sup> letters issued by the agency for such applications.
 
 #### (3) Real time reporting
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subparagraph (B) for such quarter and on a cumulative basis for the fiscal year on the internet website of the Food and Drug Administration, and may remove duplicative data from the annual report under this subsection.
+&emsp;&emsp;Not later than 30 calendar days after the end of each quarter of each fiscal year for which fees are collected under this subpart, the Secretary shall post the data described in subparagraph (B) for such quarter and on a cumulative basis for the fiscal year on the internet website of the Food and Drug Administration, and may remove duplicative data from the annual report under this subsection.
 
 #### (B) Data
 
 &emsp;&emsp;The Secretary shall post the following data in accordance with subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The number and titles of draft and final guidance on topics related to the process for the review of biosimilars, and whether such guidances were required by statute or pursuant to a commitment under the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017.
+&emsp;&emsp;&emsp;(i) The number and titles of draft and final guidance on topics related to the process for the review of biosimilars, and whether such guidances were required by statute or pursuant to a commitment under the letters described in section 401(b) <sup>1</sup> of the Biosimilar User Fee Amendments of 2022.
 
-&emsp;&emsp;&emsp;(ii) The number and titles of public meetings held on topics related to the process for the review of biosimilars, and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017.
+&emsp;&emsp;&emsp;(ii) The number and titles of public meetings held on topics related to the process for the review of biosimilars, and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 401(b) <sup>1</sup> of the Biosimilar User Fee Amendments of 2022.
 
 #### (4) Rationale for BSUFA program changes
 
 &emsp;Beginning with fiscal year 2020, the Secretary shall include in the annual report under paragraph (1)—
 
-&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 4001(b) of the Biosimilar User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379j–52 of this title, and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
 
-&emsp;&emsp;(B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of biosimilar biological product applications, including identifying drivers of such changes; and
+&emsp;&emsp;(B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of biosimilar biological product applications, including identifying—
 
-&emsp;&emsp;(C) for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+&emsp;&emsp;&emsp;(i) drivers of such changes; and
+
+&emsp;&emsp;&emsp;(ii) changes in the average total cost per full-time equivalent in the biosimilar biological product review program;
+
+&emsp;&emsp;(C) for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required; and
+
+&emsp;&emsp;(D) data, analysis, and discussion of the changes in the average full-time equivalent hours required to complete review of each type of biosimilar biological product application.
 
 #### (5) Analysis
 
@@ -48,31 +54,31 @@
 
 &emsp;&emsp;&emsp;(i) such applications filed during one fiscal year for which a decision is not scheduled to be made until the following fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) the aggregate number of applications for each fiscal year that did not meet the goals identified by the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 for the applicable fiscal year.
+&emsp;&emsp;&emsp;(ii) the aggregate number of applications for each fiscal year that did not meet the goals identified by the letters described in section 401(b) <sup>1</sup> of the Biosimilar User Fee Amendments of 2022 for the applicable fiscal year.
 
-&emsp;&emsp;(B) Relevant data to determine whether the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research have met the performance enhancement goals identified by the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 for the applicable fiscal year.
+&emsp;&emsp;(B) Relevant data to determine whether the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research have met the performance enhancement goals identified by the letters described in section 401(b) <sup>1</sup> of the Biosimilar User Fee Amendments of 2022 for the applicable fiscal year.
 
-&emsp;&emsp;(C) The most common causes and trends for external or other circumstances affecting the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017.
+&emsp;&emsp;(C) The most common causes and trends for external or other circumstances affecting the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 401(b) <sup>1</sup> of the Biosimilar User Fee Amendments of 2022.
 
 #### (b) Fiscal report
 
-Not later than 120 days after the end of fiscal year 2018 and each subsequent fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+Not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
 
 #### (c) Corrective action report
 
-Beginning with fiscal year 2018, and for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
+For each fiscal year for which fees are collected under this subpart, the Secretary shallprepare and submit a corrective action report to the Committee on Energy and Commerce and Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
 
 #### (1) Goals met
 
-&emsp;For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(5), that each of the goals identified by the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the biosimilar biological product application review process.
+&emsp;For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(5), that each of the goals identified by the letters described in section 401(b) <sup>1</sup> of the Biosimilar User Fee Amendments of 2022 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the biosimilar biological product application review process.
 
 #### (2) Goals missed
 
-&emsp;For each of the goals identified by the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
+&emsp;For each of the goals identified by the letters described in section 401(b) <sup>1</sup> of the Biosimilar User Fee Amendments of 2022 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
 
 &emsp;&emsp;(A) a justification for such determination and a description of the types of circumstances and trends, as applicable, under which biosimilar biological product applications missed the review goal times but were approved during the first cycle review, or review goals were missed; and
 
-&emsp;&emsp;(B) with respect to performance enhancement goals that were not achieved, a description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such <sup>1</sup> fiscal year.
+&emsp;&emsp;(B) with respect to performance enhancement goals that were not achieved, a description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such <sup>2</sup> fiscal year.
 
 #### (d) Enhanced communication
 
@@ -92,7 +98,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (1) Consultation
 
-&emsp;In developing recommendations to present to the Congress with respect to the goals described in subsection (a), and plans for meeting the goals, for the process for the review of biosimilar biological product applications for the first 5 fiscal years after fiscal year 2022, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+&emsp;In developing recommendations to present to the Congress with respect to the goals described in subsection (a), and plans for meeting the goals, for the process for the review of biosimilar biological product applications for the first 5 fiscal years after fiscal year 2027, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
 &emsp;&emsp;(A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -106,7 +112,27 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;&emsp;(F) the regulated industry.
 
-#### (2) Public review of recommendations
+#### (2) Prior public input
+
+&emsp;Prior to beginning negotiations with the regulated industry on the reauthorization of this subpart, the Secretary shall—
+
+&emsp;&emsp;(A) publish a notice in the Federal Register requesting public input on the reauthorization;
+
+&emsp;&emsp;(B) hold a public meeting at which the public may present its views on the reauthorization;
+
+&emsp;&emsp;(C) provide a period of 30 days after the public meeting to obtain written comments from the public suggesting changes to this part; and
+
+&emsp;&emsp;(D) publish the comments on the Food and Drug Administration's website.
+
+#### (3) Periodic consultation
+
+&emsp;Not less frequently than once every month during negotiations with the regulated industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
+
+#### (4) Updates to Congress
+
+&emsp;The Secretary, in consultation with regulated industry, shall provide regular updates on negotiations on the reauthorization of this subpart to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+
+#### (5) Public review of recommendations
 
 &emsp;After negotiations with the regulated industry, the Secretary shall—
 
@@ -120,27 +146,67 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;&emsp;(E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-#### (3) Transmittal of recommendations
+#### (6) Transmittal of recommendations
 
-&emsp;Not later than January 15, 2022, the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+&emsp;Not later than January 15, 2027, the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
-(June 25, 1938, ch. 675, §744I, as added Pub. L. 112–144, title IV, §403, July 9, 2012, 126 Stat. 1037; amended Pub. L. 115–52, title IV, §404, title IX, §§903(d), 904(d), Aug. 18, 2017, 131 Stat. 1035, 1081, 1087.)
+#### (7) Minutes of negotiation meetings
+
+#### (A) Public availability
+
+&emsp;&emsp;The Secretary shall make publicly available, on the public website of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry, not later than 30 days after each such negotiation meeting.
+
+#### (B) Content
+
+&emsp;&emsp;The minutes described under subparagraph (A) shall summarize, in sufficient detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
+
+(June 25, 1938, ch. 675, §744I, as added Pub. L. 112–144, title IV, §403, July 9, 2012, 126 Stat. 1037; amended Pub. L. 115–52, title IV, §404, title IX, §§903(d), 904(d), Aug. 18, 2017, 131 Stat. 1035, 1081, 1087; Pub. L. 117–180, div. F, title IV, §4004, Sept. 30, 2022, 136 Stat. 2166; Pub. L. 117–328, div. FF, title III, §3626(d), Dec. 29, 2022, 136 Stat. 5886.)
 
 #### Termination of Section
 
-<i>For termination of section by section 405(b) of Pub. L. 115–52, see Effective and Termination Dates note set out below.</i>
+<i>For termination of section by section 4005(b) of Pub. L. 117–180, see Effective and Termination Dates note set out below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 401(b) of the Biosimilar User Fee Amendments of 2017, referred to in subsecs. (a) and (c), is section 401(b) of Pub. L. 115–52, which is set out as a note under section 379j–51 of this title.
+Section 401(b) of the Biosimilar User Fee Amendments of 2022, referred to in subsecs. (a) and (c), probably should be a reference to section 4001(b) of the Biosimilar User Fee Amendments of 2022, title IV of div. F of Pub. L. 117–180, which is set out as a note under section 379j–51 of this title. The Biosimilar User Fee Amendments of 2022 does not contain a section 401(b).
+
+Section 4001(b) of the Biosimilar User Fee Amendments of 2022, referred to in subsec. (a)(4)(A), is section 4001(b) of title IV of div. F of Pub. L. 117–180, which is set out as a note under section 379j–51 of this title.
 
 #### Codification
 
 Amendments made by section 904(d)(2) of Pub. L. 115–52, effective Aug. 18, 2017, were executed after the amendments made by section 404(3)–(5) of Pub. L. 115–52, effective Oct. 1, 2017, to reflect the probable intent of Congress and the directory language of section 904(d)(2) of Pub. L. 115–52, which expressly amended this section "as amended by section 404" of Pub. L. 115–52. See 2017 Amendment notes below.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–180, §4004(2), substituted "Biosimilar User Fee Amendments of 2022" for "Biosimilar User Fee Amendments of 2017" wherever appearing.
+
+Subsec. (a)(1). Pub. L. 117–180, §4004(1), substituted "Not" for "Beginning with fiscal year 2018, not".
+
+Subsec. (a)(2). Pub. L. 117–180, §4004(3), substituted "The" for "Beginning with fiscal year 2018, the" in introductory provisions.
+
+Subsec. (a)(3)(A). Pub. L. 117–180, §4004(4), substituted "Not later than 30 calendar days after the end of each quarter of each fiscal year for which fees are collected under this subpart" for "Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter".
+
+Subsec. (a)(4)(A). Pub. L. 117–328, §3626(d)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2022 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;".
+
+Subsec. (a)(4)(B). Pub. L. 117–328, §3626(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of biosimilar biological product applications, including identifying drivers of such changes; and".
+
+Subsec. (a)(4)(D). Pub. L. 117–328, §3626(d)(1)(C), (D), added subpar. (D).
+
+Subsec. (b). Pub. L. 117–180, §4004(5), substituted "Not later than 120 days after the end of each fiscal year for which fees are collected under this subpart" for "Not later than 120 days after the end of fiscal year 2018 and each subsequent fiscal year for which fees are collected under this subpart".
+
+Subsec. (c). Pub. L. 117–180, §4004(6), substituted "For" for "Beginning with fiscal year 2018, and for" in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 117–180, §4004(7)(A), substituted "fiscal year 2027" for "fiscal year 2022" in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 117–328, §3626(d)(2)(B), added par. (2). Former par. (2) redesignated (5).
+
+Subsec. (f)(3). Pub. L. 117–328, §3626(d)(2)(B), added par. (3). Former par. (3) redesignated (6).
+
+Pub. L. 117–180, §4004(7)(B), substituted "January 15, 2027" for "January 15, 2022".
+
+Subsec. (f)(4) to (7). Pub. L. 117–328, §3626(d)(2), added pars. (4) and (7) and redesignated formers pars. (2) and (3) as (5) and (6), respectively.
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–52, §903(d), designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
 
@@ -160,13 +226,21 @@ Subsec. (f). Pub. L. 115–52, §904(d)(2), redesignated subsec. (d) as (f).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–180 effective Oct. 1, 2022, with fees under this subpart to be assessed for all biosimilar biological product applications received on or after Oct. 1, 2022, see section 4006 of Pub. L. 117–180, set out as a note under section 379j–51 of this title.
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 404 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all biosimilar biological product applications received on or after Oct. 1, 2017, see section 406 of Pub. L. 115–52, set out as a note under section 379j–51 of this title.
 
 #### Effective and Termination Dates
 
-Pub. L. 115–52, title IV, §405(b), Aug. 18, 2017, 131 Stat. 1035, provided that: "Section 744I of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–53\] shall cease to be effective January 31, 2023."
+Pub. L. 117–180, div. F, title IV, §4005(b), Sept. 30, 2022, 136 Stat. 2166, provided that: "Section 744I of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–53) shall cease to be effective January 31, 2028."
+
+Pub. L. 115–52, title IV, §405(b), Aug. 18, 2017, 131 Stat. 1035, which provided that this section would cease to be effective Jan. 31, 2023, was repealed by Pub. L. 117–180, div. F, title IV, §4005(c), Sept. 30, 2022, 136 Stat. 2166.
+
+\[Pub. L. 117–180, div. F, title IV, §4005(c), Sept. 30, 2022, 136 Stat. 2166, provided that the repeal of section 405(b) of Pub. L. 115–52, formerly set out above, is effective Oct. 1, 2022.\]
 
 Pub. L. 112–144, title IV, §404(b), July 9, 2012, 126 Stat. 1038, which provided that this section would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title IV, §405(c)(1), Aug. 18, 2017, 131 Stat. 1035.
 
@@ -174,5 +248,7 @@ Pub. L. 112–144, title IV, §404(b), July 9, 2012, 126 Stat. 1038, which provi
 
 Section effective Oct. 1, 2012, see section 405 of Pub. L. 112–144, set out as a note under section 379j–51 of this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

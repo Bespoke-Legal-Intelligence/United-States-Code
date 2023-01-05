@@ -44,7 +44,7 @@ Third-Party Collections.—(1) A medical treatment facility of the uniformed ser
 
 Consultation Requirement.—The Secretary of Defense shall carry out the responsibilities under this section after consultation with the other administering Secretaries.
 
-(Added Pub. L. 106–65, div. A, title VII, §716(a)(1), Oct. 5, 1999, 113 Stat. 690; amended Pub. L. 112–81,div. A, title VII, §715, Dec. 31, 2011, 125 Stat. 1477.)
+(Added Pub. L. 106–65, div. A, title VII, §716(a)(1), Oct. 5, 1999, 113 Stat. 690; amended Pub. L. 112–81, div. A, title VII, §715, Dec. 31, 2011, 125 Stat. 1477.)
 
 #### <b>Editorial Notes</b>
 

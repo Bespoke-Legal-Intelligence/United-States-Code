@@ -8,5 +8,5 @@ Section 2863, Pub. L. 88–452, title III, §313, as added Pub. L. 90–222, tit
 
 Section 2864, Pub. L. 88–452, title III, §314, as added Pub. L. 90–222, title I, §105(e), Dec. 23, 1967, 81 Stat. 710; amended Pub. L. 92–424, §27(b)(1), (3), Sept. 19, 1972, 86 Stat. 705, set forth authorization for technical assistance and training for programs.
 
-Section 2865, Pub. L. 88–452, title III, §315, as added Pub. L. 93–644, §6(b), Jan. 4, 1975, 88 Stat. 2298, set forth requirements for coordination, monitoring, and review of programs.
+Section 2865, Pub. L. 88–452, title III, §315, as added Pub. L. 93–644, §6(b), Jan. 4, 1975, 88 Stat. 2298, set forthrequirements for coordination, monitoring, and review of programs.
 

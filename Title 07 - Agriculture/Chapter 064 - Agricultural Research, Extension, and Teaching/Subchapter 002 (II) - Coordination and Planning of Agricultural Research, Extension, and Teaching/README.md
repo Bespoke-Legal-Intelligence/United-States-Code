@@ -21,5 +21,5 @@
 - [&sect; 03127 - Support for Advisory Board](%C2%A7%2003127%20-%20Support%20for%20Advisory%20Board.md)
 - [&sect; 03128 - General provisions](%C2%A7%2003128%20-%20General%20provisions.md)
 - [&sect; 03129 - Accountability](%C2%A7%2003129%20-%20Accountability.md)
-- [&sect; 03129a - Federal Advisory Committee Act exemption for competitive research, extension, and education programs](%C2%A7%2003129a%20-%20Federal%20Advisory%20Committee%20Act%20exemption%20for%20competitive%20research%2C%20extension%2C%20and%20education%20programs.md)
+- [&sect; 03129a - Exemption from chapter 10 of title 5 for competitive research, extension, and education programs](%C2%A7%2003129a%20-%20Exemption%20from%20chapter%2010%20of%20title%205%20for%20competitive%20research%2C%20extension%2C%20and%20education%20programs.md)
 - [&sect; 03130 - Repealed. Pub. L. 104&#8211;127, title VIII, &sect;858, Apr. 4, 1996, 110 Stat. 1173](%C2%A7%2003130%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7858%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201173.md)

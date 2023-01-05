@@ -16,7 +16,7 @@ In this section, the term "entry and exit data system" means the entry and exit 
 
 &emsp;(4) the Enhanced Border Security and Visa Entry Reform Act of 2002 (Public Law 107–173) \[8 U.S.C. 1701 et seq\]; and
 
-&emsp;(5) the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
+&emsp;(5) the Uniting and Strengthening America by Providing Appropriate Tools Required toIntercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
 
 #### (c) Plan and report
 
@@ -208,7 +208,7 @@ In implementing the provisions of subsections (g) and (h), the Department of Hom
 
 #### (j) Compliance status reports
 
-Not later than 1 year after December 17, 2004, the Secretary of Homeland Security, the Secretary of State, the Attorney General, and thehead of any other department or agency subject to the requirements of this section, shall issue individual status reports and a joint status report detailing the compliance of the department or agency with each requirement under this section.
+Not later than 1 year after December 17, 2004, the Secretary of Homeland Security, the Secretary of State, the Attorney General, and the head of any other department or agency subject to the requirements of this section, shall issue individual status reports and a joint status report detailing the compliance of the department or agency with each requirement under this section.
 
 #### (k) Expediting registered travelers across international borders
 
@@ -272,9 +272,9 @@ The Immigration and Naturalization Service Data Management Improvement Act of 20
 
 The Visa Waiver Permanent Program Act, referred to in subsec. (b)(3), is Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1637. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
 
-The Enhanced Border Security and Visa Entry Reform Act of 2002, referred to in subsec. (b)(4), is Pub. L. 107–173, May 14, 2002, 116 Stat. 543, as amended, which is classified principally to chapter 15 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+The Enhanced Border Security and Visa Entry Reform Act of 2002, referred to in subsec. (b)(4), is Pub. L. 107–173, May 14, 2002, 116 Stat. 543, which is classified principally to chapter 15 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in subsec. (b)(5), was Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272. Pub. L. 107–56 was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and ObstructTerrorism (USA PATRIOT ACT) Act of 2001, referred to in subsec. (b)(5), was Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272. Pub. L. 107–56 was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 December 26, 2007, referred to in subsec. (k)(3)(C), (D), was in the original "the date of enactment of this paragraph" and was translated a meaning the date of enactment of Pub. L. 110–161, which amended subsec. (k)(3) of this section generally, to reflect the probable intent of Congress.
 

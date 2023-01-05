@@ -40,7 +40,7 @@ Every individual who—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary, in coordination with the Commissioner of Social Security, shall establish a process for determining whether an individual described in paragraph (1)who is to be enrolled or deemed to be enrolled in the medical insurance program described in such paragraph meets the requirements for such enrollment under this subsection, including the requirement that the individual not be enrolled in other coverage as described in subparagraph (A).
+&emsp;&emsp;&emsp;The Secretary, in coordination with the Commissioner of Social Security, shall establish a process for determining whether an individual described in paragraph (1) who is to be enrolled or deemed to be enrolled in the medical insurance program described in such paragraph meets the requirements for such enrollment under this subsection, including the requirement that the individual not be enrolled in other coverage as described in subparagraph (A).
 
 #### (ii) Attestation regarding other coverage
 

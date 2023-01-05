@@ -4,7 +4,7 @@
 
 &emsp;(1) available without fiscal year limitations for all expenses necessary for the operation and maintenance of such supply system;
 
-&emsp;(2) reimbursed from appropriations for the cost of all services, equipment, and supplies furnished, at rates determined by the Secretary on the basis of estimated or actual direct cost (which may be based on the cost of recent significant purchases of the equipment or supply item involved) and indirect cost; and
+&emsp;(2) reimbursed from appropriations for the cost of all services, equipment, and supplies furnished, at rates determined by the Secretary on the basis of estimated or actual direct cost (which may be based on the cost ofrecent significant purchases of the equipment or supply item involved) and indirect cost; and
 
 &emsp;(3) credited with advances from appropriations for activities to which services or supplies are to be furnished, and all other receipts resulting from the operation of the fund, including property returned to the supply system when no longer required by activities to which it had been furnished, the proceeds of disposal of scrap, excess or surplus personal property of the fund, and receipts from carriers and others for loss of or damage to personal property.
 
@@ -51,4 +51,74 @@ Pub. L. 96–330, title IV, §402(b), Aug. 26, 1980, 94 Stat. 1051, provided tha
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
+
+#### Department of Veterans Affairs Supply Chain Resiliency
+
+Pub. L. 117–328, div. U, title IV, §401, Dec. 29, 2022, 136 Stat. 5482, provided that:
+
+"(a)
+
+Report on Critical Items and Requirements.—Not later than 90 days after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing each of the following:
+
+&emsp;"(1) A description of the items and types of items the Secretary considers critical with respect to—
+
+&emsp;&emsp;"(A) the ongoing response to the Coronavirus 2019 (COVID–19) pandemic; and
+
+&emsp;&emsp;"(B) future epidemic, pandemic, emergency, national emergency, or natural disaster scenarios.
+
+&emsp;"(2) The quantities of the items described in paragraph (1) that are available, as of the date of the enactment of this Act, in inventories, emergency caches, or other emergency inventories of the Department of Veterans Affairs.
+
+&emsp;"(3) The anticipated quantities of the items described in paragraph (1) that would be necessary under potential epidemic, pandemic, emergency, national emergency, or natural disaster scenarios the Secretary determines to be relevant for planning purposes.
+
+&emsp;"(4) The assumptions and key planning factors used by the Secretary to identify the items, types of items, and necessary quantities of items for types of scenarios, as described in paragraphs (1) and (3).
+
+"(b)
+
+Participation in Warstopper Program.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs and the Secretary of Defense shall enter into an agreement to provide for the participation of the Department of Veterans Affairs in the program known as the 'Warstopper Program' of the Defense Logistics Agency, or any successor program.
+
+&emsp;"(2)
+
+Requirements.—Pursuant to the agreement under paragraph (1), the Defense Logistics Agency shall—
+
+&emsp;&emsp;"(A) ensure the maintenance and stability of the items that are identified as critical in the report required under subsection (a) and that the Secretary of Defense determines are appropriate for the Warstopper Program;
+
+&emsp;&emsp;"(B) establish guidance for the participation of the Department of Veterans Affairs in the Warstopper Program that includes an identification of the items and types of items that are critical to the needs of the Department of Veterans Affairs; and
+
+&emsp;&emsp;"(C) use existing contracts and agreements and enter into new contracts and agreements, as necessary, with manufacturers and distributors to reserve the supply of such critical items rather than rely on holding physical inventories of such items.
+
+"(c)
+
+Reimbursement.—The Secretary of Veterans Affairs shall reimburse the Secretary of Defense for any expenses or obligations incurred to facilitate the participation of the Department of Veterans Affairs in the Warstopper Program pursuant to subsection (b).
+
+"(d)
+
+Prohibition on Exclusive Reliance on Regional Inventories.—The Secretary of Veterans Affairs shall ensure that the Department does not exclusively rely on holding regional, physical inventories of critical items in order to respond to greater than expected needs for such items during epidemic, pandemic, emergency, national emergency, or natural disaster situations.
+
+"(e)
+
+Report on Implementation.—
+
+&emsp;"(1)
+
+In general.—Not later than 450 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the implementation of this section.
+
+&emsp;"(2)
+
+Contents.—The report submitted under paragraph (1) shall contain each the following:
+
+&emsp;&emsp;"(A) An implementation plan for the participation of the Department of Veterans Affairs in the Warstopper Program, including milestones and timelines for related administrative, contracting, and readiness activities.
+
+&emsp;&emsp;"(B) For each of the items and associated quantities identified in paragraphs (1) and (3) of subsection (a)—
+
+&emsp;&emsp;&emsp;"(i) the method by which the Secretary of Veterans Affairs plans to ensure the Department continues to have access to adequate quantities of such items and types of items, including in the Warstopper Program, in regional, physical inventories, or other methods; and
+
+&emsp;&emsp;&emsp;"(ii) justifications for the method or methods identified under clause (i).
+
+&emsp;"(3)
+
+Updates to report.—The Secretary shall update the report required under paragraph (1) on an annual basis for each of the two years following the submission of the report under such paragraph and submit such updates to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives."
 

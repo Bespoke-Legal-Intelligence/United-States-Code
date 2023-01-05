@@ -14,7 +14,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (A) Base year
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Secretary shall allot to each State and outlying area for a fiscal year an amount that is not less than the amount the State or outlying area received under the grants provided under section 3011 of thistitle (as in effect on the day before October 25, 2004) for fiscal year 2004.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Secretary shall allot to each State and outlying area for a fiscal year an amount that is not less than the amount the State or outlying area received under the grants provided under section 3011 of this title (as in effect on the day before October 25, 2004) for fiscal year 2004.
 
 #### (B) Ratable reduction
 
@@ -72,7 +72,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;The duties of the lead agency shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) preparing the application described in subsection (d) and carrying out State activities described in that application, including making programmatic and resource allocation decisions necessary to implement the comprehensive statewide program of technology-related assistance;
+&emsp;&emsp;&emsp;&emsp;(I) preparing the application described in subsection (d) and carrying out State activities described in that application,including making programmatic and resource allocation decisions necessary to implement the comprehensive statewide program of technology-related assistance;
 
 &emsp;&emsp;&emsp;&emsp;(II) coordinating the activities of the comprehensive statewide program of technology-related assistance among public and private entities, including coordinating efforts related to entering into interagency agreements, and maintaining and evaluating the program; and
 
@@ -86,7 +86,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On obtaining the approval of the Secretary, the Governor may redesignate the lead agency, or the implementing entity, if the Governor shows to the Secretary good cause why the entity designated as thelead agency, or the implementing entity, respectively, should not serve as that agency or entity, respectively. The Governor shall make the showing in the application described in subsection (d).
+&emsp;&emsp;&emsp;On obtaining the approval of the Secretary, the Governor may redesignate the lead agency, or the implementing entity, if the Governor shows to the Secretary good cause why the entity designated as the lead agency, or the implementing entity, respectively, should not serve as that agency or entity, respectively. The Governor shall make the showing in the application described in subsection (d).
 
 #### (ii) Construction
 
@@ -170,7 +170,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (4) Involvement of public and private entities
 
-&emsp;The application shall describe how various public and private entities were involved inthe development of the application and will be involved in the implementation of the activities to be carried out through the grant, including—
+&emsp;The application shall describe how various public and private entities were involved in the development of the application and will be involved in the implementation of the activities to be carried out through the grant, including—
 
 &emsp;&emsp;(A) in cases determined to be appropriate by the State, a description of the nature and extent of resources that will be committed by public and private collaborators to assist in accomplishing identified goals; and
 
@@ -226,7 +226,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (B) State or non-Federal financial support
 
-&emsp;&emsp;A State shall not be required to use a portion of the funds made available through the grant to carry out the category of activities described in subparagraph (A), (B), (C), or (D) of paragraph (2) if, in that State—
+&emsp;&emsp;A State shall not be required to use a portion of the funds made available through thegrant to carry out the category of activities described in subparagraph (A), (B), (C), or (D) of paragraph (2) if, in that State—
 
 &emsp;&emsp;&emsp;(i) financial support is provided from State or other non-Federal resources or entities for that category of activities; and
 
@@ -290,7 +290,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;&emsp;In carrying out activities under subclause (I), the State shall carry out activities that enhance the knowledge, skills, and competencies of individuals from local settings described in subclause (I), which may include—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) general awareness training on the benefits of assistive technology and the Federal, State, and private funding sources available to assist targeted individuals and entities in acquiring assistive technology;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) general awareness training on the benefits of assistive technology and the Federal, State, and privatefunding sources available to assist targeted individuals and entities in acquiring assistive technology;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) skills-development training in assessing the need for assistive technology devices and assistive technology services;
 
@@ -350,7 +350,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (1)(A) and subject to subparagraph (B), a State may use funds that the State receives under a grant awarded under this section to carry out any 2 or more of the activities described in paragraph (2).
+&emsp;&emsp;Notwithstanding paragraph (1)(A) and subject to subparagraph (B), a State may use funds that the State receives under a grant awarded under this section to carry out any2 or more of the activities described in paragraph (2).
 
 #### (B) Special rule
 
@@ -378,7 +378,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;(i) the type of State financing activities described in subsection (e)(2)(A) used by the State;
 
-&emsp;&emsp;&emsp;(ii) the amount and type of assistance given to consumers of the State financing activities described in subsection (e)(2)(A)\(who shall be classified by type of assistive technology device or assistive technology service financed through the State financing activities, and geographic distribution within the State), including—
+&emsp;&emsp;&emsp;(ii) the amount and type of assistance given to consumers of the State financing activities described in subsection (e)(2)(A) (who shall be classified by type of assistive technology device or assistive technology service financed through the State financing activities, and geographic distribution within the State), including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of applications for assistance received;
 
@@ -412,7 +412,505 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;(xi) the level of customer satisfaction with the services provided.
 
-(Pub. L. 105–394, §4, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1714; amended Pub. L. 113–128, title V, §512(b)(2), July 22, 2014, 128 Stat. 1705; Pub. L. 114–95, title IX, §9215(m), Dec. 10, 2015, 129 Stat. 2168.)
+(Pub. L. 105–394, §4, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1714; amended Pub. L. 113–128, title V, §512(b)(2), July 22, 2014, 128 Stat. 1705; Pub. L. 114–95, title IX, §9215(m), Dec. 10, 2015, 129 Stat. 2168; Pub. L. 117–263, div. E, title LIV, §5402, Dec. 23, 2022, 136 Stat. 3265.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–263, div. E, title LIV, §§5402, 5403, Dec. 23, 2022, 136 Stat. 3265, 3289, provided that,</i><i>effective on the day that is 6 months after Dec. 23, 2022, this section is amended to read as follows:</i>
+
+#### §3003. Grants for State assistive technology programs
+
+#### <i>(a) Grants to States</i>
+
+<i>The Secretary shall award grants under subsection (b) to States to maintain a comprehensive statewide program of assistive technology-related assistance described in subsection (e) through State assistive technology programs that are designed to—</i>
+
+&emsp;<i>(1) maximize the ability of individuals with disabilities across the human lifespan and across the wide array of disabilities, and their family members, guardians, advocates, and authorized representatives, to obtain assistive technology; and</i>
+
+&emsp;<i>(2) increase access to assistive technology.</i>
+
+#### <i>(b) Amount of financial assistance</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>From funds made available to carry out this section, the Secretary shall award a grant to each State, and outlying area, that meets the requirements of this section from an allotment determined in accordance with paragraph (2).</i>
+
+#### <i>(2) Calculation of State grants</i>
+
+#### <i>(A) Base year</i>
+
+&emsp;&emsp;<i>Except as provided in subparagraphs (B) and (C), the Secretary shall allot to each State and outlying area for a fiscal year an amount that is not less than the amount the State or outlying area received under the grants provided under section 3003 of this title (as in effect on the day before the effective date of the 21st Century Assistive Technology Act) for fiscal year 2022.</i>
+
+#### <i>(B) Ratable reduction</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>If funds made available to carry out this section for any fiscal year are insufficient to make the allotments required for each State and outlying area under subparagraph (A) for such fiscal year, the Secretary shall ratably reduce the allotments for such fiscal year.</i>
+
+#### <i>(ii) Additional funds</i>
+
+&emsp;&emsp;&emsp;<i>If, after the Secretary makes the reductions described in clause (i), additional funds become available to carry out this section for the fiscal year, the Secretary shall ratably increase the allotments, until the Secretary has allotted the entire base year amount under subparagraph (A).</i>
+
+#### <i>(C) Appropriation higher than base year amount</i>
+
+&emsp;&emsp;<i>For a fiscal year for which the amount of funds made available to carry out this section is greater than the base year amount under subparagraph (A) and no greater than $40,000,000, the Secretary shall—</i>
+
+&emsp;&emsp;&emsp;<i>(i) make the allotments described in subparagraph (A);</i>
+
+&emsp;&emsp;&emsp;<i>(ii) from a portion of the remainder of the funds after the Secretary makes the allotments described in clause (i), the Secretary shall—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) from 50 percent of the portion, allot to each State an equal amount; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) from 50 percent of the portion, allot to each State an amount that bears the same relationship to such 50 percent as the population of the State bears to the population of all States,</i>
+
+&emsp;&emsp;&nbsp;<i>until each State has received an allotment of not less than $410,000 under clause (i) and this clause; and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) from the remainder of the funds after the Secretary makes the allotments described in clause (ii), the Secretary shall—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) from 80 percent of the remainder, allot to each State an amount that bears the same relationship to such 80 percent as the population of the State bears to the population of all States; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) from 20 percent of the remainder, allot to each State an equal amount.</i>
+
+#### <i>(D) Appropriation higher than threshold amount</i>
+
+&emsp;&emsp;<i>For a fiscal year for which the amount of funds made available to carry out this section is $40,000,000 or greater, the Secretary shall—</i>
+
+&emsp;&emsp;&emsp;<i>(i) make the allotments described in subparagraph (A);</i>
+
+&emsp;&emsp;&emsp;<i>(ii) from the funds remaining after the allotment described in clause (i), allot to each outlying area an amount of such funds until each outlying area has received an allotment of exactly $150,000 under clause (i) and this clause;</i>
+
+&emsp;&emsp;&emsp;<i>(iii) from a portion of the remainder of the funds after the Secretary makes the allotments described in clauses (i) and (ii), the Secretary shall—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) from 50 percent of the portion, allot to each State an equal amount; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) from 50 percent of the portion, allot to each State an amount that bears the same relationship to such 50 percent as the population of the State bears to the population of all States,</i>
+
+&emsp;&emsp;&nbsp;<i>until each State has received an allotment of not less than $450,000 under clause (i) and this clause; and</i>
+
+&emsp;&emsp;&emsp;<i>(iv) from the remainder of the funds after the Secretary makes the allotments described in clause (iii), the Secretary shall—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) from 80 percent of the remainder, allot to each State an amount that bears the same relationship to such 80 percent as the population of the State bears to the population of all States; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) from 20 percent of the remainder, allot to each State an equal amount.</i>
+
+#### <i>(3) Availability of funds</i>
+
+&emsp;<i>Amounts made available for a fiscal year under this section shall be available for the fiscal year and the year following the fiscal year.</i>
+
+#### <i>(c) Lead agency, implementing entity, and advisory council</i>
+
+#### <i>(1) Lead agency and implementing entity</i>
+
+#### <i>(A) Lead agency</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>The Governor of a State shall designate a public agency as a lead agency—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) to control and administer the funds made available through the grant awarded to the State under this section; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) to submit the application described in subsection (d) on behalf of the State, to ensure conformance with Federal and State accounting requirements.</i>
+
+#### <i>(ii) Duties</i>
+
+&emsp;&emsp;&emsp;<i>The duties of the lead agency shall include—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) preparing the application described in subsection (d) and carrying out State activities described in that application, including making programmatic and resource allocation decisions necessary to implement the comprehensive statewide program of technology-related assistance;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) coordinating the activities of the comprehensive statewide program of technology-related assistance among public and private entities, including coordinating efforts related to entering into interagency agreements and maintaining and evaluating the program; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) coordinating efforts, in a way that acknowledges the demographic characteristics of individuals, related to the active, timely, and meaningful participation by individuals with disabilities and their family members, guardians, advocates, or authorized representatives, and other appropriate individuals, with respect to activities carried out through the grant.</i>
+
+#### <i>(B) Implementing entity</i>
+
+&emsp;&emsp;<i>The Governor may designate an agency, office, or other entity to carry out State activities under this section (referred to in this section as the "implementing entity"), if such implementing entity is different from the lead agency. The implementing entity shall carry out responsibilities under this chapter through a subcontract or another administrative agreement with the lead agency.</i>
+
+#### <i>(C) Change in agency or entity</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>On obtaining the approval of the Secretary—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) the Governor may redesignate the lead agency of a State, if the Governor shows to the Secretary, in accordance with subsection (d)(2)(B), good cause why the agency designated as the lead agency should not serve as that agency; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) the Governor may redesignate the implementing entity of a State, if the Governor shows to the Secretary in accordance with subsection (d)(2)(B), good cause why the entity designated as the implementing entity should not serve as that entity.</i>
+
+#### <i>(ii) Construction</i>
+
+&emsp;&emsp;&emsp;<i>Nothing in this paragraph shall be construed to require the Governor of a State to change the lead agency or implementing entity of the State to an agency other than the lead agency or implementing entity of such State as of December 23, 2023.</i>
+
+#### <i>(2) Advisory council</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>There shall be established an advisory council to provide consumer-responsive, consumer-driven advice to the State for planning, implementation, and evaluation of the activities carried out through the grant, including setting the measurable goals described in subsection (d)(3)(C).</i>
+
+#### <i>(B) Composition and representation</i>
+
+#### <i>(i) Composition</i>
+
+&emsp;&emsp;&emsp;<i>The advisory council shall be composed of—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) individuals with disabilities who use assistive technology or the family members or guardians of the individuals;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) a representative of the designated State agency, as defined in section 7 of the Rehabilitation Act of 1973 (29 U.S.C. 705);</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) a representative of the designated State agency for individuals who are blind or that provides assistance or services to adults who are blind (within the meaning of section 101 of that Act (29 U.S.C. 721)), if such agency is separate from the agency described in subclause (II);</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) a representative of a State center for independent living described in part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.), or the Statewide Independent Living Council established under section 705 of such Act (29 U.S.C. 796d);</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(V) a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3111);</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VI) a representative of the State educational agency, as defined in section 7801 of title 20;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VII) a representative of an alternative financing program for assistive technology if—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) there is an alternative financing program for assistive technology in the State;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) such program is separate from the State assistive technology program supported under subsection (e)(2); and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) the program described in item (aa) is operated by a nonprofit entity;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VIII) a representative of 1 or more of—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) the agency responsible for administering the State Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.);</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) the designated State agency for purposes of section 15024 of title 42;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) the State agency designated under section 305(a)(1) of the Older Americans Act of 1965 (42 U.S.C. 3025(a)(1)), or an organization that receives assistance under such Act (42 U.S.C. 3001 et seq.);</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(dd) an organization representing disabled veterans;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ee) a University Center for Excellence in Developmental Disabilities Education, Research, and Service designated under section 15061(a) of title 42;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ff) the State protection and advocacy system established in accordance with section 15043 of title 42; or</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(gg) the State Council on Developmental Disabilities established under section 15025 of title 42; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IX) representatives of other State agencies, public agencies, or private organizations, as determined by the State.</i>
+
+#### <i>(ii) Majority</i>
+
+#### <i>(I) In general</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>Not less than 51 percent of the members of the advisory council shall be members appointed under clause (i)(I), a majority of whom shall be individuals with disabilities.</i>
+
+#### <i>(II) Representatives of agencies</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>Members appointed under subclauses (II) through (IX) of clause (i) shall not count toward the majority membership requirement established in subclause (I).</i>
+
+#### <i>(iii) Representation</i>
+
+&emsp;&emsp;&emsp;<i>The advisory council shall be geographically representative of the State and reflect the diversity of the State with respect to race, ethnicity, age, and types of disabilities, and users of types of services that an individual with a disability may receive, including home and community-based services (as defined in section 9817(a)(2) of the American Rescue Plan Act of 2021 (42 U.S.C. 1396d note)), vocational rehabilitation services (as defined in section 7 of the Rehabilitation Act of 1973 (29 U.S.C. 705)), and services through the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.).</i>
+
+#### <i>(C) Expenses</i>
+
+&emsp;&emsp;<i>The members of the advisory council shall receive no compensation for their service on the advisory council, but shall be reimbursed for reasonable and necessary expenses actually incurred in the performance of official duties for the advisory council.</i>
+
+#### <i>(D) Impact on existing statutes, rules, or policies</i>
+
+&emsp;&emsp;<i>Nothing in this paragraph shall be construed to affect State statutes, rules, or official policies relating to advisory bodies for State assistive technology programs or require changes to governing bodies of incorporated agencies that carry out State assistive technology programs.</i>
+
+#### <i>(d) Application</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>Any State that desires to receive a grant under this section shall submit an application to the Secretary, at such time, in such manner, and containing such information as the Secretary may require.</i>
+
+#### <i>(2) Lead agency and implementing entity</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>The application shall contain—</i>
+
+&emsp;&emsp;&emsp;<i>(i) information identifying and describing the lead agency referred to in subsection (c)(1)(A);</i>
+
+&emsp;&emsp;&emsp;<i>(ii) information identifying and describing the implementing entity referred to in subsection (c)(1)(B), if the Governor of the State designates such an entity; and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) a description of how individuals with disabilities were involved in the development of the application and will be involved in the implementation of the activities to be carried out through the grant and through the advisory council established in accordance with subsection (c)(2).</i>
+
+#### <i>(B) Change in lead agency or implementing entity</i>
+
+&emsp;&emsp;<i>In any case where—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the Governor requests to redesignate a lead agency, the Governor shall include in, or amend, the application to request the redesignation and provide a written description of the rationale for the requested change; or</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the Governor requests to redesignate an implementing entity, the Governor shall include in, or amend, the application to request the redesignation and provide a written description of the rationale for the requested change.</i>
+
+#### <i>(3) State plan</i>
+
+&emsp;<i>The application under this subsection shall include a State plan for assistive technology consisting of—</i>
+
+&emsp;&emsp;<i>(A) a description of how the State will carry out a comprehensive statewide program that provides assistive technology activities described in subsection (e) (unless excluded by the State pursuant to subsection (e)(5));</i>
+
+&emsp;&emsp;<i>(B) a description of how the State will allocate and utilize grant funds to implement the activities described in subparagraph (A), including describing proposed budget allocations and planned procedures for tracking expenditures for the activities;</i>
+
+&emsp;&emsp;<i>(C) measurable goals, and a timeline for meeting the goals, that the State has set for addressing the assistive technology needs of individuals with disabilities in the State related to—</i>
+
+&emsp;&emsp;&emsp;<i>(i) education, including goals involving the provision of assistive technology to individuals with disabilities who receive services under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);</i>
+
+&emsp;&emsp;&emsp;<i>(ii) employment, including goals involving the State vocational rehabilitation program carried out under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);</i>
+
+&emsp;&emsp;&emsp;<i>(iii) access to teleassistive technology to aid in the access of health care services, including mental health and substance use disorder services;</i>
+
+&emsp;&emsp;&emsp;<i>(iv) accessible information and communication technology instruction for individuals with disabilities receiving assistive technology under this section; and</i>
+
+&emsp;&emsp;&emsp;<i>(v) community living;</i>
+
+&emsp;&emsp;<i>(D) information describing how the State will quantifiably measure the goals, in a manner consistent with the data submitted through the progress reports under subsection (f), to determine whether the goals have been achieved; and</i>
+
+&emsp;&emsp;<i>(E) a description of any activities described in subsection (e) that the State will support with State or other non-Federal funds.</i>
+
+#### <i>(4) Involvement of public and private entities</i>
+
+&emsp;<i>The application shall describe how various public and private entities, including individuals with disabilities and their families, were involved in the development of the application, including the measurable goals and timeline described in paragraph (3)(C) and the description of how the goals</i><i>will be quantifiably measured described in paragraph (3)(D), and will be involved in the implementation of the activities to be carried out through the grant, including—</i>
+
+&emsp;&emsp;<i>(A) in cases determined to be appropriate by the State, a description of the nature and extent of resources that will be committed by public and private partners to assist in accomplishing identified goals; and</i>
+
+&emsp;&emsp;<i>(B) a description of the mechanisms established to ensure coordination of activities and collaboration between the implementing entity, if any, and the State.</i>
+
+#### <i>(5) Assurances</i>
+
+&emsp;<i>The application shall include assurances that—</i>
+
+&emsp;&emsp;<i>(A) the State will annually collect data related to the required activities implemented by the State under this section in order to prepare the progress reports required under subsection (f);</i>
+
+&emsp;&emsp;<i>(B) funds received through the grant—</i>
+
+&emsp;&emsp;&emsp;<i>(i) will be expended in accordance with this section; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) will be used to supplement, and not supplant, funds available from other sources for technology-related assistance, including the provision of assistive technology devices and assistive technology services;</i>
+
+&emsp;&emsp;<i>(C) the lead agency will control and administer the funds received through the grant;</i>
+
+&emsp;&emsp;<i>(D) the State will adopt such fiscal control and accounting procedures as may be necessary to ensure proper disbursement of and accounting for the funds received through the grant;</i>
+
+&emsp;&emsp;<i>(E) the physical facility of the lead agency and implementing entity, if any, meets the requirements of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) regarding accessibility for individuals with disabilities;</i>
+
+&emsp;&emsp;<i>(F) a public agency or an individual with a disability holds title to any property purchased with funds received under the grant and administers that property;</i>
+
+&emsp;&emsp;<i>(G) activities carried out in the State that are authorized under this chapter, and supported by Federal funds received under this chapter, will comply with the standards established by the Architectural and Transportation Barriers Compliance Board under section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d); and</i>
+
+&emsp;&emsp;<i>(H) the State will—</i>
+
+&emsp;&emsp;&emsp;<i>(i) prepare reports to the Secretary in such form and containing such information as the Secretary may require to carry out the Secretary's functions under this chapter; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) keep such records and allow access to such records as the Secretary may require to ensure the correctness and verification of information provided to the Secretary under this subparagraph.</i>
+
+#### <i>(e) Use of funds</i>
+
+#### <i>(1) Required activities</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>Except as provided in subparagraph (B) and paragraph (5), any State that receives a grant under this section shall—</i>
+
+&emsp;&emsp;&emsp;<i>(i) use a portion of not more than 40 percent of the funds made available through the grant to carry out all activities described in paragraph (3), of which not less than 5 percent of such portion shall be available for activities described in paragraph (3)(A)(iii); and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) use a portion of the funds made available through the grant to carry out all of the activities described in paragraph (2).</i>
+
+#### <i>(B) State or other non-Federal financial support</i>
+
+&emsp;&emsp;<i>A State receiving a grant under this section shall not be required to use grant funds to carry out the category of activities described in subparagraph (A), (B), (C), or (D) of paragraph (2) in that State if, for such category of activities, financial support is provided in that State—</i>
+
+&emsp;&emsp;&emsp;<i>(i) from State or other non-Federal resources or entities; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) in an amount that is comparable to, or greater than, the amount of the portion of the funds made available through the grant that the State would have expended for such category of activities, in the absence of this subparagraph.</i>
+
+#### <i>(2) State-level activities</i>
+
+#### <i>(A) State financing activities</i>
+
+&emsp;&emsp;<i>The State shall support State financing activities to increase access to, and funding for, assistive technology devices and assistive technology services (which shall not include direct payment for such a device or service for an individual with a disability but may include support and administration of a program to provide such payment), including development of systems to provide and pay for such devices and services, for targeted individuals and entities described in section 3002(16)(A) of this title, including—</i>
+
+&emsp;&emsp;&emsp;<i>(i) support for the development of systems for the purchase, lease, or other acquisition of, or payment for, assistive technology devices and assistive technology services;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) another mechanism that is approved by the Secretary; or</i>
+
+&emsp;&emsp;&emsp;<i>(iii) support for the development of a State-financed or privately financed alternative financing program engaged in the provision of assistive technology devices, such as—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) a low-interest loan fund;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) an interest buy-down program;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) a revolving loan fund; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) a loan guarantee or insurance program.</i>
+
+#### <i>(B) Device reutilization programs</i>
+
+&emsp;&emsp;<i>The State shall directly, or in collaboration with public or private entities, carry out assistive technology device reutilization programs that provide for the exchange, repair, recycling, or other reutilization of assistive technology devices, which may include redistribution through device sales, loans, rentals, or donations.</i>
+
+#### <i>(C) Device loan programs</i>
+
+&emsp;&emsp;<i>The State shall directly, or in collaboration with public or private entities, carry out device loan programs that provide short-term loans of assistive technology devices to individuals, employers, public agencies, or others seeking to meet the needs of targeted individuals and entities, including others seeking to comply with the Individuals with Disabilities Education Act (20</i><i>U.S.C. 1400 et seq.), the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), and section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794).</i>
+
+#### <i>(D) Device demonstrations</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>The State shall directly, or in collaboration with public and private entities, such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102), demonstrate a variety of assistive technology devices and assistive technology services (including assisting individuals in making informed choices regarding, and providing experiences with, the devices and services), using personnel who are familiar with such devices and services and their applications.</i>
+
+#### <i>(ii) Comprehensive information</i>
+
+&emsp;&emsp;&emsp;<i>The State shall directly, or through referrals, provide to individuals, to the extent practicable, comprehensive information about State and local assistive technology venders, providers, and repair services.</i>
+
+#### <i>(3) State leadership activities</i>
+
+#### <i>(A) Educational activities and technical assistance</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>The State shall, directly or through the provision of support to public or private entities with demonstrated expertise in collaborating with public or private agencies that serve individuals with disabilities, develop and disseminate training materials, conduct educational activities, and provide technical assistance, for individuals statewide, including representatives of State and local educational agencies, State vocational rehabilitation programs, other State and local agencies, early intervention programs, adult service programs, hospitals and other health care facilities, institutions of higher education, and businesses.</i>
+
+#### <i>(ii) Authorized activities</i>
+
+&emsp;&emsp;&emsp;<i>In carrying out activities under clause (i), the State shall carry out activities that enhance the knowledge, skills, and competencies of individuals from local settings described in such clause, which may include—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) raising awareness and providing instruction on the benefits of assistive technology and the Federal, State, and private funding sources available to assist targeted individuals and entities in acquiring assistive technology;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) skills development in assessing the need for assistive technology devices and assistive technology services;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) instruction to ensure the appropriate application and use of assistive technology devices, assistive technology services, and accessible information and communication technology for e-government functions;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) instruction in the importance of multiple approaches to assessment and implementation necessary to meet the individualized needs of individuals with disabilities; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(V) technical instruction on integrating assistive technology into the development and implementation of service plans, including any education, health, discharge, Olmstead, employment, or other plan required under Federal or State law.</i>
+
+#### <i>(iii) Transition assistance to individuals with disabilities</i>
+
+&emsp;&emsp;&emsp;<i>The State shall (directly or through the provision of support to public or private entities) develop and disseminate educational materials, conduct educational activities, facilitate access to assistive technology, and provide technical assistance, to assist—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) students with disabilities, within the meaning of the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), that receive transition services; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) adults who are individuals with disabilities maintaining or transitioning to community living.</i>
+
+#### <i>(B) Public-awareness activities</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>The State shall conduct public-awareness activities designed to provide information to targeted individuals and entities relating to the availability, benefits, appropriateness, and costs of assistive technology devices and assistive technology services, including—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) the development of procedures for providing direct communication between providers of assistive technology and targeted individuals and entities, which may include partnerships with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), State vocational rehabilitation programs, public and private employers, centers for independent living described in part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.), Aging and Disability Resource Centers (as defined in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002)), or elementary schools and secondary schools (as defined in section 7801 of title 20);</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) the development and dissemination, to targeted individuals and entities, of information about State efforts related to assistive technology; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) the distribution of materials to appropriate public and private agencies that provide social, medical, educational, employment, housing, and transportation services to individuals with disabilities.</i>
+
+#### <i>(ii) Statewide information and referral system</i>
+
+#### <i>(I) In general</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>The State shall directly, or in collaboration with public or private entities (including nonprofit organizations), provide for the continuation and enhancement of a statewide information and referral system designed to meet the needs of targeted individuals and entities.</i>
+
+#### <i>(II) Content</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>The system shall deliver information on assistive technology devices, assistive tech</i><i>nology services (with specific data regarding provider availability within the State), and the availability of resources, including funding through public and private sources, to obtain assistive technology devices and assistive technology services. The system shall also deliver information on the benefits of assistive technology devices and assistive technology services with respect to enhancing the capacity of individuals with disabilities to perform activities of daily living.</i>
+
+#### <i>(C) Coordination and collaboration</i>
+
+&emsp;&emsp;<i>The State shall coordinate activities described in paragraph (2) and this paragraph, among public and private entities that are responsible for policies, procedures, or funding for the provision of assistive technology devices and assistive technology services to improve access to such devices and services in the State.</i>
+
+#### <i>(4) Funding rules</i>
+
+#### <i>(A) Prohibition</i>
+
+&emsp;&emsp;<i>Funds made available through a grant to a State under this section shall not be used for direct payment for an assistive technology device for an individual with a disability.</i>
+
+#### <i>(B) Federal partner collaboration</i>
+
+&emsp;&emsp;<i>In order to coordinate efforts regarding the availability of funding to access and acquire assistive technology through device demonstration, loan, reuse, and State financing activities, a State receiving a grant under this section shall ensure that the lead agency or implementing entity is conducting outreach to and, as appropriate, collaborating with, other State agencies that receive Federal funding for assistive technology, including—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the State educational agency receiving assistance under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the State vocational rehabilitation agency receiving assistance under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);</i>
+
+&emsp;&emsp;&emsp;<i>(iii) the agency responsible for administering the State Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.);</i>
+
+&emsp;&emsp;&emsp;<i>(iv) the State agency receiving assistance under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.); and</i>
+
+&emsp;&emsp;&emsp;<i>(v) any other agency in a State that funds assistive technology.</i>
+
+#### <i>(C) Indirect costs</i>
+
+&emsp;&emsp;<i>Not more than 10 percent of the funds made available through a grant to a State under this section may be used for indirect costs.</i>
+
+#### <i>(5) State flexibility</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>Notwithstanding paragraph (1)(A) and subject to subparagraph (B), a State may use funds that the State receives under a grant awarded under this section to carry out any 2 or more of the activities described in paragraph (2).</i>
+
+#### <i>(B) Special rule</i>
+
+&emsp;&emsp;<i>Notwithstanding paragraph (1)(A), any State that exercises its authority under subparagraph (A)—</i>
+
+&emsp;&emsp;&emsp;<i>(i) shall carry out each of the required activities described in paragraph (3); and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) shall use not more than 30 percent of the funds made available through the grant to carry out such activities.</i>
+
+#### <i>(6) Assistive technology device disposition</i>
+
+&emsp;<i>Notwithstanding other equipment disposition policy under Federal law, an assistive technology device purchased to be used in activities authorized under this section may be reutilized to the maximum extent possible and then donated to a public agency, private nonprofit agency, or individual with a disability in need of such device.</i>
+
+#### <i>(f) Annual progress reports</i>
+
+#### <i>(1) Data collection</i>
+
+&emsp;<i>Each State receiving a grant under this section shall participate in data collection as required by law, including data collection required for preparation of the reports described in paragraph (2).</i>
+
+#### <i>(2) Reports</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>Each State shall prepare and submit to the Secretary an annual progress report on the activities carried out by the State in accordance with subsection (e), including activities funded by State or other non-Federal sources under subsection (e)(1)(B) at such time, and in such manner, as the Secretary may require.</i>
+
+#### <i>(B) Contents</i>
+
+&emsp;&emsp;<i>The report shall include data collected pursuant to this section. The report shall document, with respect to activities carried out under this section in the State—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the type of State financing activities described in subsection (e)(2)(A) used by the State;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the amount and type of assistance given to consumers of the State financing activities described in subsection (e)(2)(A) (which shall be classified by type of assistive technology device or assistive technology service financed through the State financing activities, and geographic distribution within the State), including—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) the number of applications for assistance received;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) the number of applications—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) approved;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) denied; or</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) withdrawn;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) the number, percentage, and dollar amount of defaults for the financing activities;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) the range and average interest rate for the financing activities;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(V) the range and average income of approved applicants for the financing activities; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VI) the types and dollar amounts of assistive technology financed;</i>
+
+&emsp;&emsp;&emsp;<i>(iii) the number, type, and length of time of loans of assistive technology devices provided to individuals with disabilities, employers, public agencies, or public accommodations through the device loan program described in subsection (e)(2)(C), and an analysis of the types of such devices provided through the</i><i>program, and how each device benefitted the individual who received such device;</i>
+
+&emsp;&emsp;&emsp;<i>(iv) the number, type, estimated value, and scope of assistive technology devices exchanged, repaired, recycled, or reutilized (including redistributed through device sales, loans, rentals, or donations) through the device reutilization program described in subsection (e)(2)(B), and an analysis of the individuals with disabilities who have benefited from the device reutilization program;</i>
+
+&emsp;&emsp;&emsp;<i>(v) the number and type of device demonstrations and referrals provided under subsection (e)(2)(D), and an analysis of individuals with disabilities who have benefited from the demonstrations and referrals;</i>
+
+&emsp;&emsp;&emsp;<i>(vi)(I) the number and general characteristics of individuals who participated in educational activities under subsection (e)(3)(A) (such as individuals with disabilities, parents, educators, employers, providers of employment services, health care workers, counselors, other service providers, or venders) and the topics of such educational activities; and</i>
+
+&emsp;&emsp;&emsp;<i>(II) to the extent practicable, the geographic distribution of individuals who participated in the educational activities;</i>
+
+&emsp;&emsp;&emsp;<i>(vii) the frequency of provision and nature of technical assistance provided to State and local agencies and other entities;</i>
+
+&emsp;&emsp;&emsp;<i>(viii) the number of individuals assisted through the statewide information and referral system described in subsection (e)(3)(B)(ii) and descriptions of the public awareness activities under subsection (e)(3)(B);</i>
+
+&emsp;&emsp;&emsp;<i>(ix) the outcomes of any improvement initiatives carried out by the State as a result of activities funded under this section, including a description of any written policies, practices, and procedures that the State has developed and implemented regarding access to, provision of, and funding for, assistive technology devices, and assistive technology services, in the contexts of education, health care, employment, community living, and accessible information and communication technology, including e-government;</i>
+
+&emsp;&emsp;&emsp;<i>(x) the source of leveraged funding or other contributed resources, including resources provided through subcontracts or other collaborative resource-sharing agreements, from and with public and private entities to carry out State activities described in subsection (e)(3)(C), the number of individuals served with the contributed resources for which information is not reported under clauses (i) through (ix) or clause (xi), and other outcomes accomplished as a result of such activities carried out with the contributed resources; and</i>
+
+&emsp;&emsp;&emsp;<i>(xi) the level of customer satisfaction with the services provided.</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -422,15 +920,17 @@ Section 3011 of this title, referred to in subsec. (b)(2)(A), was omitted in the
 
 Subchapter III of this chapter, referred to in subsec. (b)(2)(D), which consisted of sections 3051 to 3058 of this title, was omitted in the general amendment of this chapter by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707.
 
-The Rehabilitation Act of 1973, referred to in subsecs. (c)(2)(B)(i)(III) and (d)(3)(A)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title VII of the Act is classified generally to subpart 3 (§796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (c)(2)(B)(i)(III) and (d)(3)(A)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title VII of the Act is classified generally to subpart 3 (§796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (d)(3)(A)(i) and (e)(2)(C), (3)(B)(i)(III)(aa), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (d)(3)(A)(i) and (e)(2)(C), (3)(B)(i)(III)(aa), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsecs. (d)(6)(E) and (e)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (d)(6)(E) and (e)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (e)(3)(B)(ii)(I)(aa), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of this title, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263 amended section generally. Prior to amendment, section related to State grants to help individuals with disabilities to obtain assistive technology.
 
 <b>2015</b>—Subsec. (c)(2)(B)(i)(V). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
@@ -441,6 +941,10 @@ Subsec. (e)(2)(D)(i). Pub. L. 113–128, §512(b)(2)(B)(i), substituted "such as
 Subsec. (e)(3)(B)(ii)(I)(aa). Pub. L. 113–128, §512(b)(2)(B)(ii), substituted "with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act," for "with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 23, 2022, see section 5403 of Pub. L. 117–263, set out as a note under section 3001 of this title.
 
 #### Effective Date of 2015 Amendment
 

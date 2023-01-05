@@ -16,7 +16,7 @@
 
 &emsp;If a foreign public accounting firm performs material services upon which a registered public accounting firm relies in the conduct of an audit or interim review, issues an audit report, performs audit work, or conducts interim reviews, the foreign public accounting firm shall—
 
-&emsp;&emsp;(A) produce the audit work papers of the foreign public accounting firm and all otherdocuments of the firm related to any such audit work or interim review to the Commission or the Board, upon request of the Commission or the Board; and
+&emsp;&emsp;(A) produce the audit work papers of the foreign public accounting firm and all other documents of the firm related to any such audit work or interim review to the Commission or the Board, upon request of the Commission or the Board; and
 
 &emsp;&emsp;(B) be subject to the jurisdiction of the courts of the United States for purposes of enforcement of any request for such documents.
 
@@ -60,7 +60,7 @@ In this section, the term "foreign public accounting firm" means a public accoun
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as theSarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

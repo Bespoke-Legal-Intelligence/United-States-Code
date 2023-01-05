@@ -6,7 +6,7 @@ The Secretary, subject to regulations prescribed by him, may, upon receipt of sa
 
 #### (b) Method and conditions of allowance
 
-Such allowance or redemption may be made, either by giving other stamps in lieu of the stamps so allowed for or redeemed, or by refunding the amount or value to the owner thereof, deducting therefrom, in case of repayment, the percentage, if any, allowed to the purchaser thereof; but no allowance or redemption shall be made in any case until the stamps so spoiled or rendered useless shall have been returned to the Secretary, or until satisfactory proof has been made showing the reason why the same cannot be returned; or, if so required by the Secretary, when the person presenting the same cannot satisfactorily trace the history of said stamps from their issuance to the presentation of his claim as aforesaid.
+Such allowance or redemption may be made, either by giving other stamps in lieu of the stamps so allowed for or redeemed, or by refunding the amount or value to the owner thereof, deducting therefrom, in case of repayment, the percentage, if any, allowed to the purchaser thereof; but no allowance or redemption shall be made in any case until the stamps so spoiled orrendered useless shall have been returned to the Secretary, or until satisfactory proof has been made showing the reason why the same cannot be returned; or, if so required by the Secretary, when the person presenting the same cannot satisfactorily trace the history of said stamps from their issuance to the presentation of his claim as aforesaid.
 
 #### (c) Time for filing claims
 
@@ -14,7 +14,7 @@ No claim for the redemption of, or allowance for, stamps shall be allowed under 
 
 #### (d) Finality of decisions
 
-The findings of fact in and the decision of the Secretary upon the merits of any claim presented under or authorized by this section shall,in the absence of fraud or mistake in mathematical calculation, be final and not subject to revision by any accounting officer.
+The findings of fact in and the decision of the Secretary upon the merits of any claim presented under or authorized by this section shall, in the absence of fraud or mistake in mathematical calculation, be final and not subject to revision by any accounting officer.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 830; Pub. L. 85–859, title I, §165(b), (c), Sept. 2, 1958, 72 Stat. 1313; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

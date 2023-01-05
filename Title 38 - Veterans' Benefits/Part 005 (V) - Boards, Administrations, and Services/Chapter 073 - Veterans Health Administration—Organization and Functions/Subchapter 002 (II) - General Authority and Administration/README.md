@@ -36,3 +36,4 @@ A prior subchapter II of this chapter consisting of sections 4121 to 4124, relat
 - [&sect; 07330A - Epilepsy centers of excellence](%C2%A7%2007330A%20-%20Epilepsy%20centers%20of%20excellence.md)
 - [&sect; 07330B - Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care](%C2%A7%2007330B%20-%20Annual%20report%20on%20Veterans%20Health%20Administration%20and%20furnishing%20of%20hospital%20care%2C%20medical%20services%2C%20and%20nursing%20home%20care.md)
 - [&sect; 07330C - Quadrennial Veterans Health Administration review](%C2%A7%2007330C%20-%20Quadrennial%20Veterans%20Health%20Administration%20review.md)
+- [&sect; 07330D - Inapplicability of Paperwork Reduction Act to research activities](%C2%A7%2007330D%20-%20Inapplicability%20of%20Paperwork%20Reduction%20Act%20to%20research%20activities.md)

@@ -32,7 +32,7 @@ For purposes of section 38, the advanced nuclear power facility production credi
 
 #### (4) Regulations
 
-&emsp;Not later than 6 months after the date of the enactment of or any amendment to this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection. Suchregulations shall provide a certification process under which the Secretary, after consultation with the Secretary of Energy, shall approve and allocate the national megawatt capacity limitation.
+&emsp;Not later than 6 months after the date of the enactment of or any amendment to this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection. Such regulations shall provide a certification process under which the Secretary, after consultation with the Secretary of Energy, shall approve and allocate the national megawatt capacity limitation.
 
 #### (5) Allocation of unutilized limitation
 

@@ -36,7 +36,7 @@
 
 #### (b) Failure to report
 
-Any person who knowingly fails to make any report required under this section shall be fined not more than $25,000 or imprisoned for not more than 1 year, or both.
+Any person who knowingly fails to make any report required under this section shall be finednot more than $25,000 or imprisoned for not more than 1 year, or both.
 
 #### (c) Contract sanctity
 
@@ -74,5 +74,5 @@ Subsec. (a)(2). Pub. L. 102–237, §327(2), struck out "in accordance with subs
 
 #### Termination Date of 1999 Amendment
 
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title. Section 942 of Pub. L. 106–78 to be applied by substituting "September 30, 2021" for "September 30, 2020", see section 401 of div. O of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under section 1636i of this title.
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2023, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 

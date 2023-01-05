@@ -10,7 +10,7 @@ The Secretary shall only allow such uses of the conservation area as he finds wi
 
 #### (c) Withdrawals
 
-Subject to valid existing rights, all Federal lands within the conservation area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws;from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto.
+Subject to valid existing rights, all Federal lands within the conservation area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto.
 
 #### (d) Water rights
 

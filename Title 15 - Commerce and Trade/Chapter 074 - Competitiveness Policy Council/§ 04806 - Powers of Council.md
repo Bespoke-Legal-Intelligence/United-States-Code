@@ -26,7 +26,7 @@ The Council may use the United States mails in the same manner and under the sam
 
 #### (f) Administrative and support services
 
-The Administrator of General Services shall provide to the Council, on a reimbursable basis,such administrative and support services as the Council may request.
+The Administrator of General Services shall provide to the Council, on a reimbursable basis, such administrative and support services as the Council may request.
 
 #### (g) Subcouncils
 
@@ -48,23 +48,23 @@ The Administrator of General Services shall provide to the Council, on a reimbur
 
 (5) Any discussion held by any subcouncil shall not be considered to violate any Federal or State antitrust law.
 
-(6) Any discussion held by any subcouncil shall not be subject to the provisions of the Federal Advisory Committee Act, except that a Federal representative shall attend all subcouncil meetings.
+(6) Any discussion held by any subcouncil shall not be subject to the provisions of chapter 10 of title 5, except that a Federal representative shall attend all subcouncil meetings.
 
 (7) Any subcouncil shall terminate 30 days after making recommendations, unless the Council specifically requests that the subcouncil continue in operation.
 
-#### (h) Applicability of Advisory Committee Act
+#### (h) Applicability of chapter 10 of title 5
 
-The provisions of subsections (e) and (f) of section 10,<sup>1</sup> of the Federal Advisory Committee Act shall not apply to the Council.
+The provisions of subsections (e) and (f) of section 1009 of title 5 shall not apply to the Council.
 
-(Pub. L. 100–418, title V, §5207, Aug. 23, 1988, 102 Stat. 1459; Pub. L. 101–382, title I, §133(c), Aug. 20, 1990, 104 Stat. 649.)
+(Pub. L. 100–418, title V, §5207, Aug. 23, 1988, 102 Stat. 1459; Pub. L. 101–382, title I, §133(c), Aug. 20, 1990, 104 Stat. 649; Pub. L. 117–286, §4(a)(74), Dec. 27, 2022, 136 Stat. 4314.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(6). Pub. L. 117–286, §4(a)(74)(A), substituted "chapter 10 of title 5," for "the Federal Advisory Committee Act,".
+
+Subsec. (h). Pub. L. 117–286, §4(a)(74)(B), substituted "chapter 10 of title 5" for "Advisory Committee Act" in heading and "subsections (e) and (f) of section 1009 of title 5" for "subsections (e) and (f) of section 10, of the Federal Advisory Committee Act" in text.
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–382 redesignated subsec. (d) as (c), and substituted "120" for "60".
 
@@ -75,6 +75,4 @@ Subsecs. (d) to (i). Pub. L. 101–382, §133(c)(1), redesignated subsecs. (e) t
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

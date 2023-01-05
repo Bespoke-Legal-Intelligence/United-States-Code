@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the National Cancer Institute shall be appointed by the President, and the Directors of the other national research institutes and national centers shall be appointed by the Secretary, acting through the Director of National Institutes of Health. Each Director of a national research institute or national center shall report directly to the Director of National Institutes of Health.
+&emsp;The Director of the National Cancer Institute shall be appointed by the President, and the Directors of the other national research institutes and national centers shall be appointed by the Secretary, acting through theDirector of National Institutes of Health. Each Director of a national research institute or national center shall report directly to the Director of National Institutes of Health.
 
 #### (2) Appointment
 
@@ -116,17 +116,15 @@ In carrying out subsection (b), each Director of a national research institute�
 
 &emsp;(4) may publish, or arrange for the publication of, information with respect to the purpose of the Institute without regard to section 501 of title 44.
 
-> The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (3).
+> Chapter 10 of title 5 shall not apply to the duration of a peer review group appointed under paragraph (3).
 
-(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §§2033(a), (b), 2036(c), Dec. 13, 2016, 130 Stat. 1057, 1058, 1063; Pub. L. 117–81, div. A, title XVII, §1702(j)(1)(B), Dec. 27, 2021, 135 Stat. 2159.)
+(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §§2033(a), (b), 2036(c), Dec. 13, 2016, 130 Stat. 1057, 1058, 1063; Pub. L. 117–81, div. A, title XVII, §1702(j)(1)(B), Dec. 27, 2021, 135 Stat. 2159; Pub. L. 117–286, §4(a)(232), Dec. 27, 2022, 136 Stat. 4331.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act" in concluding provisions.
 
 <b>2021</b>—Subsec. (b)(1). Pub. L. 117–81 substituted "section 3861" for "section 2354" in concluding provisions.
 
@@ -161,6 +159,38 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+
+#### Federal Research
+
+Pub. L. 117–215, title IV, §401, Dec. 2, 2022, 136 Stat. 2265, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 2, 2022\], the Secretary of Health and Human Services, in coordination with the Director of the National Institutes of Health and the heads of other relevant Federal agencies, shall submit to the Caucus on International Narcotics Control, the Committee on the Judiciary, and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on the Judiciary of the House of Representatives a report on—
+
+&emsp;"(1) the potential therapeutic effects of cannabidiol or marijuana on serious medical conditions, including intractable epilepsy;
+
+&emsp;"(2) the potential effects of marijuana, including—
+
+&emsp;&emsp;"(A) the effect of increasing delta-9-tetrahydrocannabinol levels on the human body and developing adolescent brains; and
+
+&emsp;&emsp;"(B) the effect of various delta-9-tetrahydrocannabinol levels on cognitive abilities, such as those that are required to operate motor vehicles or other heavy equipment; and
+
+&emsp;"(3) the barriers associated with researching marijuana or cannabidiol in States that have legalized the use of such substances, which shall include—
+
+&emsp;&emsp;"(A) recommendations as to how such barriers might be overcome, including whether public-private partnerships or Federal-State research partnerships may or should be implemented to provide researchers with access to additional strains of marijuana and cannabidiol; and
+
+&emsp;&emsp;"(B) recommendations as to what safeguards must be in place to verify—
+
+&emsp;&emsp;&emsp;"(i) the levels of tetrahydrocannabinol, cannabidiol, or other cannabinoids contained in products obtained from such States is accurate; and
+
+&emsp;&emsp;&emsp;"(ii) that such products do not contain harmful or toxic components.
+
+"(b)
+
+Activities.—To the extent practicable, the Secretary of Health and Human Services, either directly or through awarding grants, contacts, or cooperative agreements, shall expand and coordinate the activities of the National Institutes of Health and other relevant Federal agencies to better determine the effects of cannabidiol and marijuana, as outlined in the report submitted under paragraphs (1) and (2) of subsection (a)."
+
+\[For definitions of terms as used in section 401 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under section 801 of Title 21, Food and Drugs.\]
 
 #### Enhancing the Clinical and Translational Science Award
 

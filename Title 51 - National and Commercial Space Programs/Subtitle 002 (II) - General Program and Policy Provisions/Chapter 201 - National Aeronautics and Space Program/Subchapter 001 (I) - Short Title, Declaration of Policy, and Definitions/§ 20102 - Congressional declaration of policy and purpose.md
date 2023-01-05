@@ -24,7 +24,7 @@ Objectives of Aeronautical and Space Activities.—The aeronautical and space ac
 
 &emsp;(4) The establishment of long-range studies of the potential benefits to be gained from, the opportunities for, and the problems involved in the utilization of aeronautical and space activities for peaceful and scientific purposes.
 
-&emsp;(5) The preservation of the role of the United States as a leader in aeronautical and space science and technology and in the application thereof to the conduct of peaceful activities within and outside the atmosphere.
+&emsp;(5) The preservation of the role of the United States as a leader in aeronautical and space science and technology and in the applicationthereof to the conduct of peaceful activities within and outside the atmosphere.
 
 &emsp;(6) The making available to agencies directly concerned with national defense of discoveries that have military value or significance, and the furnishing by such agencies, to the civilian agency established to direct and control nonmilitary aeronautical and space activities, of information as to discoveries which have value or significance to that agency.
 
@@ -83,6 +83,30 @@ In subsection (d), the word "and", appearing at the end of paragraph (8), is omi
 <b>2017</b>—Subsec. (d)(10). Pub. L. 115–10 added par. (10).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Science Priorities
+
+Pub. L. 117–167, div. B, title VII, §10821, Aug. 9, 2022, 136 Stat. 1740, provided that:
+
+"(a)
+
+Sense of Congress on Science Portfolio.—It is the sense of Congress that—
+
+&emsp;"(1) a balanced and adequately funded set of activities, consisting of research and analysis grant programs, technology development, suborbital research activities, and small, medium, and large space missions, contributes to a robust and productive science program and serves as a catalyst for innovation and discovery; and
+
+&emsp;"(2) the Research and Analysis programs funded by the Science Mission Directorate are critically important for—
+
+&emsp;&emsp;"(A) preparing the next generation of space and Earth scientists;
+
+&emsp;&emsp;"(B) pursuing peer-reviewed cutting-edge research;
+
+&emsp;&emsp;"(C) maximizing scientific return from the \[National Aeronautics and Space\] Administration's space and Earth science missions; and
+
+&emsp;&emsp;"(D) developing innovative techniques and future mission concepts.
+
+"(b)
+
+Goal.—The Administrator \[of the National Aeronautics and Space Administration\] shall pursue the goal of establishing annual funding for Research and Analysis in the Science Mission Directorate thatreaches a level of not less than 10 percent of the total annual funding of relevant divisions of the Science Mission Directorate by fiscal year 2025."
 
 #### Congressional Findings and Policy
 
@@ -158,7 +182,7 @@ Pub. L. 102–195, §§2, 3, Dec. 9, 1991, 105 Stat. 1605, 1606, provided that:
 
 &emsp;"(3) any new launch system undertaken or jointly undertaken by the National Aeronautics and Space Administration should be based on defined mission and program requirements or national policies established by Congress;
 
-&emsp;"(4) in fulfilling the mission of the National Aeronautics and Space Administration to improve the usefulness, performance, speed, safety, and efficiency of space vehicles, the Administrator should establish a program of research and development to enhance the competitiveness and cost effectiveness of commercial expendable launch vehicles; and
+&emsp;"(4) in fulfilling the mission of the National Aeronautics and Space Administration to improve the usefulness, performance, speed, safety, and efficiencyof space vehicles, the Administrator should establish a program of research and development to enhance the competitiveness and cost effectiveness of commercial expendable launch vehicles; and
 
 &emsp;"(5) the National Aeronautics and Space Administration should promote and support efforts to advance scientific understanding by conducting or otherwise providing for research on environmental problems, including global change, ozone depletion, acid precipitation, deforestation, and smog."
 
@@ -244,7 +268,7 @@ Pub. L. 100–685, title I, §101, Nov. 17, 1988, 102 Stat 4083, provided that: 
 
 &emsp;&emsp;"(C) the development and demonstration of commercial products and processes; and
 
-&emsp;&emsp;"(D) the establishment of a space base for other civilian and commercial space activities including an outpost for further exploration of the solar system;
+&emsp;&emsp;"(D) the establishment of a space base for other civilian and commercial space activities includingan outpost for further exploration of the solar system;
 
 &emsp;"(2) expendable launch vehicles should be used to launch those payloads that do not require the presence of man;
 
@@ -320,7 +344,7 @@ Memorandum for the Vice President\[,\] the Secretary of State\[,\] the Secretary
 
 Section 1. <i>Background</i>. The United States considers unfettered freedom to operate in space vital to advancing the security, economic prosperity, and scientific knowledge of the Nation. Space systems enable key functions such as global communications; positioning, navigation, and timing; scientific observation; exploration; weather monitoring; and multiple vital national security applications. Therefore, it is essential to protect space systems from cyber incidents in order to prevent disruptions to their ability to provide reliable and efficient contributions to the operations of the Nation's critical infrastructure.
 
-Space systems are reliant on information systems and networks from design conceptualization through launch and flight operations. Further, the transmission of command and control and mission information between space vehicles and ground networks relies on the use of radio-frequency-dependent wireless communication channels. These systems, networks, and channels can be vulnerable to malicious activities that can deny, degrade, or disrupt space operations, or even destroy satellites.
+Space systems are reliant on information systems and networks from design conceptualization through launch and flight operations. Further, the transmissionof command and control and mission information between space vehicles and ground networks relies on the use of radio-frequency-dependent wireless communication channels. These systems, networks, and channels can be vulnerable to malicious activities that can deny, degrade, or disrupt space operations, or even destroy satellites.
 
 Examples of malicious cyber activities harmful to space operations include spoofing sensor data; corrupting sensor systems; jamming or sending unauthorized commands for guidance and control; injecting malicious code; and conducting denial-of-service attacks. Consequences of such activities could include loss of mission data; decreased lifespan or capability of space systems or constellations; or the loss of positive control of space vehicles, potentially resulting in collisions that can impair systems or generate harmful orbital debris.
 
@@ -494,7 +518,7 @@ Heads of agencies with representation on the National Space Council shall design
 
 (d) <b>Safeguard Space Components of Critical Infrastructure</b>. The space domain is important to the function of critical infrastructure vital to the security, economy, resilience, public health, and safety of the United States. Multiple infrastructure sectors depend on reliable access to space-based systems to perform their functions.
 
-&emsp;i. The United States will develop strategies, capabilities, and options to respond to any purposeful interference with or attack on the space systems of the United States or its allies that directly affects national rights, especially those necessary for the operation of the Nation's critical infrastructure. Such strategies, capabilities, and options will allow for a deliberate response at a time, place, manner, and domain of its choosing.
+&emsp;i. The United States will develop strategies, capabilities, and options to respond to any purposeful interference with or attack on the space systems of the United States or its allies that directly affects national rights, especially those necessary for the operation of the Nation's critical infrastructure. Suchstrategies, capabilities, and options will allow for a deliberate response at a time, place, manner, and domain of its choosing.
 
 &emsp;ii. The Secretary of Defense, the Secretary of Homeland Security, and the Director of National Intelligence, in consultation with other heads of agencies, as appropriate, shall develop and maintain focused threat and risk assessments on the effect of deleterious actions in the space domain to the Nation's critical infrastructure.
 
@@ -610,7 +634,7 @@ Maintain and Enhance Space-based Positioning, Navigation, and Timing (PNT) Syste
 
 &emsp;v. Ensure that, consistent with international obligations, timely and accurate information concerning United States space objects launched into Earth orbit or beyond is entered into the United States domestic space object registry maintained by the Secretary of State and internationally registered with the United Nations as soon as practicable;
 
-&emsp;vi. Limit the creation of new debris, consistent with mission requirements and cost effectiveness, during the procurement and operation of spacecraft,launch services, and conduct of tests and experiments in space by following and periodically updating the United States Government Orbital Debris Mitigation Standard Practices;
+&emsp;vi. Limit the creation of new debris, consistent with mission requirements and cost effectiveness, during the procurement and operation of spacecraft, launch services, and conduct of tests and experiments in space by following and periodically updating the United States Government Orbital Debris Mitigation Standard Practices;
 
 &emsp;vii. Regularly assess existing guidelines for non-government activities in or beyond Earth orbit, and maintain a timely and responsive regulatory environment for licensing those activities, consistent with United States law and international obligations;
 

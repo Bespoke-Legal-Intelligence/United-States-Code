@@ -32,7 +32,7 @@ Pub. L. 108–159, §3, Dec. 4, 2003, 117 Stat. 1953, provided that: "Except as 
 
 #### Effective Date
 
-Pub. L. 90–321, title V, §504(d), as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, provided that: "Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\]."
+Pub. L. 90–321, title V, §504(d), as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, providedthat: "Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\]."
 
 #### Short Title
 
@@ -110,7 +110,7 @@ Areas for study.—In conducting the study under paragraph (1), the Commission s
 
 &emsp;&emsp;&emsp;"(ii) the extent to which providing such reports to consumers would increase the ability of consumers to remove fraudulent information from their credit reports;
 
-&emsp;&emsp;"(D) any common financial transactions that are not generally reported to the consumer reportingagencies, but would provide useful information in determining the credit worthiness of consumers; and
+&emsp;&emsp;"(D) any common financial transactions that are not generally reported to the consumer reporting agencies, but would provide useful information in determining the credit worthiness of consumers; and
 
 &emsp;&emsp;"(E) any actions that might be taken within a voluntary reporting system to encourage the reporting of the types of transactions described in subparagraph (D).
 

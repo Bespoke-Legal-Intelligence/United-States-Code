@@ -10,13 +10,13 @@
 
 #### Prior Provisions
 
-A prior section 2074, act July 27, 1954, ch. 583, §1, 68 Stat. 567, empowered the Supreme Court to prescribe rules for review of decisions of the Tax Court of the United States, prior to repeal by Pub. L. 89–773, §2, Nov. 6, 1966, 80 Stat. 1323.
+A prior section 2074, act July 27, 1954, ch. 583, §1, 68 Stat. 567, empowered the Supreme Court to prescriberules for review of decisions of the Tax Court of the United States, prior to repeal by Pub. L. 89–773, §2, Nov. 6, 1966, 80 Stat. 1323.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
 Section effective Dec. 1, 1988, see section 407 of Pub. L. 100–702, set out as an Effective Date of 1988 Amendment note under section 2071 of this title.
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Amendment to Rule 23 of Federal Rules of Civil Procedure; Effective Date
 
@@ -82,7 +82,7 @@ Pub. L. 97–227, Aug. 2, 1982, 96 Stat. 246, provided: "That notwithstanding th
 
 Pub. L. 96–42, July 31, 1979, 93 Stat. 326, provided: "That notwithstanding any provision of section 3771 or 3772 of title 18 of the United States Code or of section 2072, 2075, or 2076 of title 28 of the United States Code to the contrary—
 
-&emsp;"(1) the amendments proposed by the United States Supreme Court and transmitted by the Chief Justice on April 30, 1979, to the Federal Rules of CriminalProcedure affecting rules 11(e)(6), 17(h), 32(f), and 44(c), and adding new rules 26.2 and 32.1, and the amendment so proposed and transmitted to the Federal Rules of Evidence affecting rule 410, shall not take effect until December 1, 1980, or until and then only to the extent approved by Act of Congress, whichever is earlier; and
+&emsp;"(1) the amendments proposed by the United States Supreme Court and transmitted by the Chief Justice on April 30, 1979, to the Federal Rules of Criminal Procedure affecting rules 11(e)(6), 17(h), 32(f), and 44(c), and adding new rules 26.2 and 32.1, and the amendment so proposed and transmitted to the Federal Rules of Evidence affecting rule 410, shall not take effect until December 1, 1980, or until and then only to the extent approved by Act of Congress, whichever is earlier; and
 
 &emsp;"(2) the amendment proposed by the United States Supreme Court and transmitted by the Chief Justice on April 30, 1979, affecting rule 40 of the Federal Rules of Criminal Procedure shall take effect on August 1, 1979, with the following amendments:
 
@@ -128,5 +128,5 @@ Pub. L. 93–361, July 30, 1974, 88 Stat. 397, provided: "That, notwithstanding 
 
 #### Congressional Approval Requirement for Proposed Rules of Evidence for United States Courts and Amendments to Federal Rules of Civil Procedure and Criminal Procedure; Suspension of Effectiveness of Such Rules
 
-Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided: "That notwithstanding any other provisions of law, the Rulesof Evidence for United States Courts and Magistrates, the Amendments to the Federal Rules of Civil Procedure, and the Amendments to the Federal Rules of Criminal Procedure, which are embraced by the orders entered by the Supreme Court of the United States on Monday, November 20, 1972, and Monday, December 18, 1972, shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by the Act of Congress."
+Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided: "That notwithstanding any other provisions of law, the Rules of Evidence for United States Courts and Magistrates, the Amendments to the Federal Rules of Civil Procedure, and the Amendments to the Federal Rules of Criminal Procedure, which are embraced by the orders entered by the Supreme Court of the United States on Monday, November 20, 1972, and Monday, December 18, 1972, shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by the Act of Congress."
 

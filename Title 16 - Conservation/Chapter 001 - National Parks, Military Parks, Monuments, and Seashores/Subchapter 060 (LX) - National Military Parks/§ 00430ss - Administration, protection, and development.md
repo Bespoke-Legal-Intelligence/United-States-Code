@@ -1,6 +1,6 @@
 ### §430ss. Administration, protection, and development
 
-The administration, protection, and development of the Fort Necessity National Battlefield shall be exercised by the Secretary of the Interior in accordance with provisions of the Act of August 25, 1916 (39 Stat. 535), entitled "An Act to establish a National Park Service, and for other purposes",<sup>1</sup> as amended and supplemented.
+The administration, protection, and development of the Fort Necessity National Battlefieldshall be exercised by the Secretary of the Interior in accordance with provisions of the Act of August 25, 1916 (39 Stat. 535), entitled "An Act to establish a National Park Service, and for other purposes",<sup>1</sup> as amended and supplemented.
 
 (Pub. L. 87–134, §4, Aug. 10, 1961, 75 Stat. 336.)
 

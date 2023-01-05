@@ -64,9 +64,9 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 &emsp;&emsp;Section 1395w–27(e) of this title; except that section 1395w–27(e)(2) of this title shall apply as specified to PDP sponsors and payments under this part to an MA–PD plan shall be treated as expenditures made under part D. Notwithstanding any other provision of law, information provided to the Secretary under the application of section 1395w–27(e)(1) of this title to contracts under this section under the preceding sentence—
 
-&emsp;&emsp;&emsp;(i) may be used for the purposes of carrying out this part, improving public health through research on the utilization, safety, effectiveness, quality, and efficiency of health care services (as the Secretary determines appropriate); and
+&emsp;&emsp;&emsp;(i) may be used for the purposes of carrying out this part, improving public health through research on the utilization, safety, effectiveness, quality, and efficiency of health care services (as the Secretary determines appropriate), or carrying out part E of subchapter XI; and
 
-&emsp;&emsp;&emsp;(ii) shall be made available to Congressional <sup>1</sup> support agencies (in accordance with their obligations to support Congress as set out in their authorizing statutes) for the purposes of conducting Congressional <sup>1</sup>oversight, monitoring, making recommendations, and analysis of the program under this subchapter.
+&emsp;&emsp;&emsp;(ii) shall be made available to Congressional <sup>1</sup> support agencies (in accordance with their obligations to support Congress as set out in their authorizing statutes) for the purposes of conducting Congressional <sup>1</sup> oversight, monitoring, making recommendations, and analysis of the program under this subchapter.
 
 #### (E) Intermediate sanctions
 
@@ -112,7 +112,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (ii) Authority not to charge interest
 
-&emsp;&emsp;&emsp;The Secretary may provide that a PDP sponsor is not charged interest under clause (i) in the case where there are exigent circumstances, including natural disasters and other unique and unexpected events, that prevent the timely processing of claims.
+&emsp;&emsp;&emsp;The Secretary may provide that a PDP sponsor is not charged interest underclause (i) in the case where there are exigent circumstances, including natural disasters and other unique and unexpected events, that prevent the timely processing of claims.
 
 #### (D) Procedures involving claims
 
@@ -176,11 +176,15 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (A) In general
 
-&emsp;&emsp;Section 1395y(o)(1) of this title shall apply with respect to a PDP sponsor with a contract under this part, a pharmacy, and payments to such pharmacy under this part in the same manner as such section applies with respect to the Secretary, a provider of services or supplier, and payments to such provider of services or supplier under this subchapter. A PDP sponsor shall notify the Secretary regarding the imposition of any payment suspension pursuant to the previous sentence, such as through the secure internet website portal (or other successor technology) established under section 1395w–28(i) of this title.
+&emsp;&emsp;Section 1395y(o)(1) of this title shall apply with respect to a PDP sponsor with a contract under this part, a pharmacy, and payments to such pharmacy under this part in the same manner as such section applies with respect to the Secretary, a provider of services or supplier, and payments to such provider of services or supplier under this subchapter. A PDP sponsor shall notify the Secretary regarding the imposition of any payment suspension pursuant to the previous sentence, such as through the secure internet website portal (or other successortechnology) established under section 1395w–28(i) of this title.
 
 #### (B) Rule of construction
 
 &emsp;&emsp;Nothing in this paragraph shall be construed as limiting the authority of a PDP sponsor to conduct postpayment review.
+
+#### (8) Provision of information related to maximum fair prices
+
+&emsp;Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall require the sponsor to provide information to the Secretary as requested by the Secretary for purposes of carrying out section 1320f–3 of this title.
 
 #### (c) Waiver of certain requirements to expand choice
 
@@ -250,13 +254,17 @@ The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) or 
 
 #### (g) Prohibition of State imposition of premium taxes; relation to State laws
 
-The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drug plans under this part in the same manner as such sections apply to MA organizations and MA plans under part C.
+The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drugplans under this part in the same manner as such sections apply to MA organizations and MA plans under part C.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–12, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2099; amended Pub. L. 110–275, title I, §§171(a), 172(a)(1), 173(a), 181, July 15, 2008, 122 Stat. 2578, 2580–2582; Pub. L. 115–271, title II, §2008(a), Oct. 24, 2018, 132 Stat. 3931.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–12, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2099; amended Pub. L. 110–275, title I, §§171(a), 172(a)(1), 173(a), 181, July 15, 2008, 122 Stat. 2578, 2580–2582; Pub. L. 115–271, title II, §2008(a), Oct. 24, 2018, 132 Stat. 3931; Pub. L. 117–169, title I, §11001(b)(1)(F)(i), (H)(i), Aug. 16, 2022, 136 Stat. 1852, 1853.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3)(D)(i). Pub. L. 117–169, §11001(b)(1)(H)(i), inserted ", or carrying out part E of subchapter XI" after "appropriate)".
+
+Subsec. (b)(8). Pub. L. 117–169, §11001(b)(1)(F)(i), added par. (8).
 
 <b>2018</b>—Subsec. (b)(7). Pub. L. 115–271 added par. (7).
 

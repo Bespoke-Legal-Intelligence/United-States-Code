@@ -6,7 +6,7 @@ Criminal Penalties.—
 
 &emsp;(1)
 
-In general.—Any person who violates section 229 of this title shall be fined underthis title, or imprisoned for any term of years, or both.
+In general.—Any person who violates section 229 of this title shall be fined under this title, or imprisoned for any term of years, or both.
 
 &emsp;(2)
 

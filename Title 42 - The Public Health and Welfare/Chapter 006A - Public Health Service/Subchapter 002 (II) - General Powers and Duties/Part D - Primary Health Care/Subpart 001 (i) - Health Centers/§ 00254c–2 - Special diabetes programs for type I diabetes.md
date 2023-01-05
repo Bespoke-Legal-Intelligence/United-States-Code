@@ -76,7 +76,7 @@ Pub. L. 105–34, title XVI, §1604(f)(4), Aug. 5, 1997, 111 Stat. 1099, provide
 
 #### Report on Diabetes Grant Programs
 
-Pub. L. 105–33, title IV, §4923, Aug. 5, 1997, 111 Stat. 574, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §931(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(c), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 109–482, title I, §104(b)(3)(C), Jan. 15, 2007, 120 Stat. 3694; Pub. L. 110–275, title III, §303(c), July 15, 2008, 122 Stat. 2594, provided that:
+Pub. L. 105–33, title IV, §4923, Aug. 5, 1997, 111 Stat. 574, as amended by Pub. L. 106–554, §1(a)(6) \[title IX,§931(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(c), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 109–482, title I, §104(b)(3)(C), Jan. 15, 2007, 120 Stat. 3694; Pub. L. 110–275, title III, §303(c), July 15, 2008, 122 Stat. 2594, provided that:
 
 "(a)
 

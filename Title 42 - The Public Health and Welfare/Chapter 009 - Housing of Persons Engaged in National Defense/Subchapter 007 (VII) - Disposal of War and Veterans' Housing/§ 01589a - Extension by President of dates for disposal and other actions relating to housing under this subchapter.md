@@ -1,6 +1,6 @@
 ### §1589a. Extension by President of dates for disposal and other actions relating to housing under this subchapter
 
-Notwithstanding any other provision of law, the President is authorized to extend, for such period or periods as he shall specify, the time within which any action is required or permitted to be taken by the Secretary of Housing and Urban Development or others under the provisions of this subchapter or section 1553 of this title (or any contract entered into pursuant thereto), upon a determination by him, after considering the needs of national defense and the effect of such extension upon the general housing situation and the national economy, that such extension is in the public interest.
+Notwithstanding any other provision of law, the President is authorized to extend, for such period or periods as he shall specify, the time within which any action is required or permitted to be taken by the Secretary of Housing and Urban Development or others under the provisions of this subchapter or section 1553 of this title (or any contract entered into pursuant thereto), upon a determination by him, after considering the needs of national defense and the effect of such extension upon the generalhousing situation and the national economy, that such extension is in the public interest.
 
 (Oct. 14, 1940, ch. 862, title VI, §611, as added Sept. 1, 1951, ch. 378, title VI, §603(d), 65 Stat. 314; amended July 14, 1952, ch. 723, §6, 66 Stat. 603; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 

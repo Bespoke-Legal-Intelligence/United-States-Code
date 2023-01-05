@@ -22,7 +22,7 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 &emsp;&emsp;(D) transfer to, or use by or for the benefit of, a disqualified person of the income or assets of a plan;
 
-&emsp;&emsp;(E) act by a disqualified person who is a fiduciary whereby he deals with the income or assets of a plan in his own interest or for his own account; or
+&emsp;&emsp;(E) act by a disqualified person who is a fiduciary whereby he deals with the income orassets of a plan in his own interest or for his own account; or
 
 &emsp;&emsp;(F) receipt of any consideration for his own personal account by any disqualified person who is a fiduciary from any party dealing with the plan in connection with a transaction involving the income or assets of the plan.
 
@@ -82,7 +82,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(B) such loan is at a reasonable rate of interest, and any collateral which is given to a disqualified person by the plan consists only of qualifying employer securities (as defined in subsection (e)(8));
 
-&emsp;(4) the investment of all or part of a plan's assets in deposits which bear a reasonable interest rate in a bank or similar financial institution supervised by the United States or a State, if such bank or other institution is a fiduciary of such plan and if—
+&emsp;(4) the investment of all or part of a plan's assets in deposits which bear a reasonable interest rate in a bank or similar financial institution supervised by the United States or aState, if such bank or other institution is a fiduciary of such plan and if—
 
 &emsp;&emsp;(A) the plan covers only employees of such bank or other institution and employees of affiliates of such bank or other institution, or
 
@@ -106,7 +106,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;(7) the exercise of a privilege to convert securities, to the extent provided in regulations of the Secretary, but only if the plan receives no less than adequate consideration pursuant to such conversion;
 
-&emsp;(8) any transaction between a plan and a common or collective trust fund or pooled investment fund maintained by a disqualified person which is a bank or trust company supervised by a State or Federal agency or between a plan and a pooled investment fund ofan insurance company qualified to do business in a State if—
+&emsp;(8) any transaction between a plan and a common or collective trust fund or pooled investment fund maintained by a disqualified person which is a bank or trust company supervised by a State or Federal agency or between a plan and a pooled investment fund of an insurance company qualified to do business in a State if—
 
 &emsp;&emsp;(A) the transaction is a sale or purchase of an interest in the fund,
 
@@ -184,7 +184,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(E) not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue,<sup>1</sup>
 
-&emsp;(20) transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration,<sup>1</sup>
+&emsp;(20) transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection withsuch transaction the plan receives no less, nor pays no more, than adequate consideration,<sup>1</sup>
 
 &emsp;(21) any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either) and a plan (as defined in this section) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other disqualified person, if—
 
@@ -206,7 +206,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(D) a fiduciary (other than the investment manager engaging in the cross-trades or any affiliate) for each plan participating in the transaction authorizes in advance of any cross-trades (in a document that is separate from any other written agreement of the parties) the investment manager to engage in cross trades at the investment manager's discretion, after such fiduciary has received disclosure regarding the conditions under which cross trades may take place (but only if such disclosure is separate from any other agreement or disclosure involving the asset management relationship), including the written policies and procedures of the investment manager described in subparagraph (H),
 
-&emsp;&emsp;(E) each plan participating in the transaction has assets of at least $100,000,000, except that if the assets of a plan are invested in a master trust containing the assets of plans maintained by employers in the same controlled group (as defined in section 407(d)(7) of the Employee Retirement IncomeSecurity Act of 1974), the master trust has assets of at least $100,000,000,
+&emsp;&emsp;(E) each plan participating in the transaction has assets of at least $100,000,000, except that if the assets of a plan are invested in a master trust containing the assets of plans maintained by employers in the same controlled group (as defined in section 407(d)(7) of the Employee Retirement Income Security Act of 1974), the master trust has assets of at least $100,000,000,
 
 &emsp;&emsp;(F) the investment manager provides to the plan fiduciary who authorized cross trading under subparagraph (D) a quarterly report detailing all cross trades executed by the investment manager in which the plan participated during such quarter, including the following information, as applicable: (i) the identity of each security bought or sold; (ii) the number of shares or units traded; (iii) the parties involved in the cross-trade; and (iv) trade price and the method used to establish the trade price,
 
@@ -216,9 +216,11 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(I) the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which it relates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
 
-> &emsp;The written report shall also notify the plan fiduciary of the plan's right to terminate participation in the investment manager's cross-trading program at any time,<sup>1</sup> or
+> &emsp;The written report shall also notify the plan fiduciary of the plan's right to terminate participation in the investment manager's cross-trading program at any time,<sup>1</sup>
 
-&emsp;(23) except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period.
+&emsp;(23) except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period,<sup>1</sup> or
+
+&emsp;(24) the provision of a de minimis financial incentive described in section 401(k)(4)(A).
 
 #### (e) Definitions
 
@@ -312,7 +314,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(B) which is otherwise defined in regulations prescribed by the Secretary.
 
-> &emsp;A plan shall not be treated as an employee stock ownership plan unless it meets the requirements of section 409(h), section 409(o), and, if applicable, section 409(n), section 409(p), and section 664(g) and, if the employer has a registration-type class of securities (as defined in section 409(e)(4)), it meets the requirements of section 409(e).
+> &emsp;A plan shall not be treated as an employee stock ownership plan unless it meets the requirements of section 409(h), section 409(o), and, if applicable, section 409(n), section 409(p), and section 664(g) and, if the employer has a registration-type class of securities (as definedin section 409(e)(4)), it meets the requirements of section 409(e).
 
 #### (8) Qualifying employer security
 
@@ -356,7 +358,7 @@ For purposes of this section—
 
 &emsp;The term "amount involved" means, with respect to a prohibited transaction, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in paragraphs (2) and (10) of subsection (d) the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
-&emsp;&emsp;(A) in the case of the tax imposed by subsection (a), shall be determined as of thedate on which the prohibited transaction occurs; and
+&emsp;&emsp;(A) in the case of the tax imposed by subsection (a), shall be determined as of the date on which the prohibited transaction occurs; and
 
 &emsp;&emsp;(B) in the case of the tax imposed by subsection (b), shall be the highest fair market value during the taxable period.
 
@@ -392,7 +394,7 @@ For purposes of this section—
 
 #### (ii) Exception for certain transactions involving shareholder-employees
 
-&emsp;&emsp;&emsp;Subparagraph (A)(iii) shall not apply to a transaction which consists of a sale of employer securities to an employee stock ownership plan (as defined in subsection (e)(7)) by a shareholder-employee, a member of the family (as defined in section 267(c)(4)) of such shareholder-employee, or a corporation in which such a shareholder-employee owns stock representing a 50 percent or greater interest described in subparagraph (A).
+&emsp;&emsp;&emsp;Subparagraph (A)(iii) shall not apply to a transaction which consists of a sale ofemployer securities to an employee stock ownership plan (as defined in subsection (e)(7)) by a shareholder-employee, a member of the family (as defined in section 267(c)(4)) of such shareholder-employee, or a corporation in which such a shareholder-employee owns stock representing a 50 percent or greater interest described in subparagraph (A).
 
 #### (iii) Loan exception
 
@@ -452,7 +454,7 @@ For purposes of this section—
 
 #### (II) Renewal of certifications
 
-&emsp;&emsp;&emsp;&emsp;If, as determined under regulations prescribed by the Secretary of Labor, there are material modifications to a computer model, the requirements of this clause are met only if a certification described in subclause (I) is obtained with respect to the computer model as so modified.
+&emsp;&emsp;&emsp;&emsp;If, as determined under regulations prescribed by the Secretary of Labor, there are material modifications to a computer model, the requirements of this clause are met only if a certification described in subclause (I) is obtainedwith respect to the computer model as so modified.
 
 #### (III) Eligible investment expert
 
@@ -556,7 +558,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The term "fiduciary adviser" means, with respect to a plan, a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in subsection (e)(3)(B) by the person to a participant or beneficiary of the plan and who is—
 
-&emsp;&emsp;&emsp;&emsp;(I) registered as an investment adviser under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciarymaintains its principal office and place of business,
+&emsp;&emsp;&emsp;&emsp;(I) registered as an investment adviser under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciary maintains its principal office and place of business,
 
 &emsp;&emsp;&emsp;&emsp;(II) a bank or similar financial institution referred to in subsection (d)(4) or a savings association (as defined in section 3(b)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)), but only if the advice is provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
 
@@ -576,7 +578,7 @@ For purposes of this section—
 
 #### (iii) Registered representative
 
-&emsp;&emsp;&emsp;The term "registered representative" of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(18)) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(17)) (substituting the entity for the investment adviser referred to in such section).
+&emsp;&emsp;&emsp;The term "registered representative" of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(18)) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(17)) (substituting the entity forthe investment adviser referred to in such section).
 
 #### (9) Block trade
 
@@ -654,7 +656,125 @@ Before sending a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–357, title II, §§233(c), 240(a), Oct. 22, 2004, 118 Stat. 1434, 1437; Pub. L. 109–135, title IV, §413(a)(2), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 109–280, title VI, §§601(b)(1), (2), 611(a)(2), (c)(2), (d)(2), (e)(2), (g)(2), 612(b), Aug. 17, 2006, 120 Stat. 958, 959, 967, 969–971, 974, 976; Pub. L. 110–458, title I, §106(a)(2), (b)(2), (c), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 115–141, div. U, title IV, §401(a)(190), (229)–(234), Mar. 23, 2018, 132 Stat. 1193, 1195; Pub. L. 116–94, div. P, title XIII, §1302(b), Dec. 20, 2019, 133 Stat. 3205.)
+(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–357, title II, §§233(c), 240(a), Oct. 22, 2004, 118 Stat. 1434, 1437; Pub. L. 109–135, title IV, §413(a)(2), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 109–280, title VI, §§601(b)(1), (2), 611(a)(2), (c)(2), (d)(2), (e)(2), (g)(2), 612(b), Aug. 17, 2006, 120 Stat. 958, 959, 967, 969–971, 974, 976; Pub. L. 110–458, title I, §106(a)(2), (b)(2), (c), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 115–141, div. U, title IV, §401(a)(190), (229)–(234), Mar. 23, 2018, 132 Stat. 1193, 1195; Pub. L. 116–94, div. P, title XIII, §1302(b), Dec. 20, 2019, 133 Stat. 3205; Pub. L. 117–328, div. T, title I, §§113(c), 120(a), (b), Dec. 29, 2022, 136 Stat. 5295, 5303.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–328, div. T, title I, §120(a), (b), (e), Dec. 29, 2022, 136 Stat. 5303, 5308, provided that, applicable to transactions occurring on or after the date which is 12 months after Dec. 29, 2022, this section is amended:</i>
+
+<i>(1) in subsection (d), by striking "or" at the end of paragraph (23), by striking the period at the end of paragraph (24) and inserting ", or", and by adding at the end the following new paragraph:</i>
+
+&emsp;<i>"(25) the receipt of fees and compensation by the automatic portability provider for services provided in connection with an automatic portability transaction."; and</i>
+
+<i>(2) in subsection (f), by adding at the end the following new paragraph:</i>
+
+#### <i>"(12) Rules relating to automatic portability transactions</i>
+
+#### <i>"(A) In general</i>
+
+&emsp;&emsp;<i>"For purposes of subsection (d)(25)—</i>
+
+#### <i>"(i) Automatic portability transaction</i>
+
+&emsp;&emsp;&emsp;<i>"An automatic portability transaction is a transfer of assets made—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(I) from an individual retirement plan which is established on behalf of an individual and to which amounts were transferred under section 401(a)(31)(B)(i),</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(II) to an employer-sponsored retirement plan described in clause (iii), (iv), (v), or (vi) of section 402(c)(8)(B) (other than a defined benefit plan) in which such individual is an active participant, and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(III) after such individual has been given advance notice of the transfer and has not affirmatively opted out of such transfer.</i>
+
+#### <i>"(ii) Automatic portability provider</i>
+
+&emsp;&emsp;&emsp;<i>"An automatic portability provider is a person, other than an individual, who executes transfers described in clause (i).</i>
+
+#### <i>"(B) Conditions for automatic portability transactions</i>
+
+&emsp;&emsp;<i>"Subsection (d)(25) shall not apply to an automatic portability transaction unless the following requirements are satisfied:</i>
+
+#### <i>"(i) Acknowledgment of fiduciary status</i>
+
+&emsp;&emsp;&emsp;<i>"An automatic portability provider shall acknowledge in writing, at such time and format as specified by the Secretary of Labor, that the provider is a fiduciary with respect to the individual retirement plan described in subparagraph (A)(i)(I).</i>
+
+#### <i>"(ii) Fees</i>
+
+&emsp;&emsp;&emsp;<i>"The fees and compensation received, directly or indirectly, by the automatic portability provider for services provided in connection with the automatic portability transaction (including any increase in such fees or compensation and any fees or compensation in connection with, but received before, the transaction)—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(I) shall not exceed reasonable compensation, and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(II) shall be fully disclosed to and approved in writing in advance of the transaction by a plan fiduciary of the plan described in subparagraph (A)(i)(II) which is independent of the automatic portability provider.</i>
+
+&emsp;&emsp;<i> An automatic portability provider shall not receive any fees or compensation in connection with an automatic portability transaction involving a plan which is sponsored or maintained by the automatic portability provider.</i>
+
+#### <i>"(iii) Data usage</i>
+
+&emsp;&emsp;&emsp;<i>"The automatic portability provider shall not market or sell data relating to the individual retirement plan described in subparagraph (A)(i)(I) or to the participants of the plan described in subparagraph (A)(i)(II).</i>
+
+#### <i>"(iv) Open participation</i>
+
+&emsp;&emsp;&emsp;<i>"The automatic portability provider shall offer automatic portability transactions on the same terms to any plan described in subparagraph (A)(i)(II).</i>
+
+#### <i>"(v) Pre-transaction notice</i>
+
+&emsp;&emsp;&emsp;<i>"At least 60 days in advance of an automatic portability transaction, the automatic portability provider shall provide notice to the individual on whose behalf the individual re</i><i>tirement plan described in subparagraph (A)(i)(I) is established which includes—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(I) a description of the automatic portability transaction and a complete and accurate statement of all fees which will be charged and all compensation which will be received in connection with the transaction,</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(II) a clear and prominent description of the individual's right to affirmatively elect not to participate in the transaction as well as the other available distribution options, the deadline by which the individual must make an election, the procedures for such an election, and a telephone number for the automatic portability provider that the individual may call to make such election,</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(III) a description of the individual's right to designate a beneficiary and the procedures to do so, and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(IV) such other disclosures as the Secretary of Labor may require by regulation.</i>
+
+#### <i>"(vi) Post-transaction notice</i>
+
+&emsp;&emsp;&emsp;<i>"Not later than 3 business days after an automatic portability transaction, the automatic portability provider shall provide notice to the individual on whose behalf the individual retirement plan described in subparagraph (A)(i)(I) is established of—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(I) the actions taken by the automatic portability provider with respect to the individual's account,</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(II) all relevant information regarding the location and amount of any transferred assets,</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(III) a statement of fees charged against the account by the automatic portability provider or its affiliates in connection with the transfer,</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(IV) a telephone number at which the individual can contact the automatic portability provider, and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(V) such other disclosures as the Secretary of Labor may require by regulation.</i>
+
+#### <i>"(vii) Notice requirements</i>
+
+&emsp;&emsp;&emsp;<i>"The notices required under clauses (v) and (vi) shall be written in a manner calculated to be understood by the average person and shall not include inaccurate or misleading statements.</i>
+
+#### <i>"(viii) Frequency of searches</i>
+
+&emsp;&emsp;&emsp;<i>"The automatic portability provider shall query on at least a monthly basis whether any individual with an individual retirement plan described in subparagraph (A)(i)(I) has an account in a plan described in subparagraph (A)(i)(II).</i>
+
+#### <i>"(ix) Timeliness of execution</i>
+
+&emsp;&emsp;&emsp;<i>"After liquidating the assets of an individual retirement plan described in subparagraph (A)(i)(I) to cash, an automatic portability provider shall transfer the account balance of such plan as soon as practicable to the plan described in subparagraph (A)(i)(II).</i>
+
+#### <i>"(x) Limitation on exercise of discretion</i>
+
+&emsp;&emsp;&emsp;<i>"The automatic portability provider shall neither have nor exercise discretion to affect the timing or amount of the transfer pursuant to an automatic portability transaction other than to deduct the appropriate fees as described in clause (ii).</i>
+
+#### <i>"(xi) Record retention and audits</i>
+
+#### <i>"(I) In general</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"An automatic portability provider shall, for not less than 6 years after the automatic portability transaction has occurred, maintain the records sufficient to demonstrate the terms of this subparagraph have been met. The automatic portability provider shall make such records available to any authorized employee of the Department of the Treasury or the Department of Labor within 30 calendar days of the date of a written request for such records.</i>
+
+#### <i>"(II) Audits</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"An automatic portability provider shall conduct an annual audit, in accordance with regulations promulgated by the Secretary of Labor, of automatic portability transactions occurring during the calendar year to demonstrate compliance with this paragraph and any regulations thereunder and identify any instances of noncompliance therewith, and shall submit such audit annually to the Secretary of Labor, in such form and manner as specified by such Secretary.</i>
+
+#### <i>"(xii) Website</i>
+
+&emsp;&emsp;&emsp;<i>"The automatic portability provider shall maintain a website which contains—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(I) a list of recordkeepers for each plan described in subparagraph (A)(i)(II) with respect to which the provider carries out automatic portability transactions, and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(II) a list of all fees described in clause (ii)(II) paid to the provider.".</i>
+
+<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -664,13 +784,19 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 
 The date of the enactment of this paragraph, referred to in subsec. (d)(16)(B), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
-The Investment Company Act of 1940, referred to in subsecs. (e)(8) and (g), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsecs. (e)(8) and (g), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (f)(8)(J)(i)(I), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (f)(8)(J)(i)(I), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (f)(8)(J)(i)(IV), (10)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Section 6 of the Act is classified to section 78f of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (f)(8)(J)(i)(IV), (10)(A)(i), is act June 6, 1934, ch.404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Section 6 of the Act is classified to section 78f of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(24). Pub. L. 117–328, §113(c), added par. (24).
+
+Subsec. (d)(25). Pub. L. 117–328, §120(a), added par. (25).
+
+Subsec. (f)(12). Pub. L. 117–328, §120(b), added par. (12).
 
 <b>2019</b>—Subsec. (c)(7). Pub. L. 116–94 added par. (7).
 
@@ -828,6 +954,12 @@ Subsec. (e)(7). Pub. L. 95–600, §141(f)(5), substituted in heading "Leveraged
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by section 113(c) of Pub. L. 117–328 applicable with respect to plan years beginning after Dec. 29, 2022, see section 113(e) of Pub. L. 117–328, set out as a note under section 401 of this title.
+
+Pub. L. 117–328, div. T, title I, §120(e), Dec. 29, 2022, 136 Stat. 5308, provided that: "The amendments made by this section \[amending this section\] shall apply to transactions occurring on or after the date which is 12 months after the date of the enactment of this Act \[Dec. 29, 2022\]."
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
@@ -928,7 +1060,7 @@ Pub. L. 95–600, title I, §141(h), as added by Pub. L. 96–222, title I, §10
 
 &emsp;"(1) insofar as they make the requirements of subsections (e) and (h)(1)(B) of section 409A \[now section 409\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applicable to section 4975 of such Code, to stock acquired after December 31, 1979, and
 
-&emsp;"(2) insofar as they make paragraphs (1)(A) and (2) of section 409A(h) \[now section 409(h)\] of such Code applicable to such section 4975, to distributions after December 31, 1978."
+&emsp;"(2) insofar as they make paragraphs (1)(A) and (2) of section 409A(h) \[now section 409(h)\] of such Codeapplicable to such section 4975, to distributions after December 31, 1978."
 
 #### Effective Date; Savings Provision
 
@@ -956,6 +1088,34 @@ Pub. L. 93–406, title II, §2003(c), Sept. 2, 1974, 88 Stat. 978, as amended b
 
 > For the purposes of this paragraph, the term 'disqualified person' has the meaning provided by section 4975(e)(2) of the Internal Revenue Code of 1986."
 
+#### Regulatory Authority
+
+Pub. L. 117–328, div. T, title I, §120(c), Dec. 29, 2022, 136 Stat. 5306, provided that: "Not later than 12 months after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Labor shall issue such guidance as may be necessary to carry out the purposes of the amendments made by this section \[amending this section\], including regulations or other guidance which—
+
+&emsp;"(1) require an automatic portability provider to provide a notice to individuals on whose behalf the individual retirement plan described in paragraph (12)(A)(i)(I) of section 4975(f) of the Internal Revenue Code of 1986, as added by this section, is established in advance of the notices specified in paragraph (12)(B)(v) of such section, as so added,
+
+&emsp;"(2) require an automatic portability provider to disclose to plans described in paragraph (12)(A)(i)(II) of section 4975(f) of the Internal Revenue Code of 1986, as added by this section, information required to be provided by a covered service provider pursuant to section 2550.408b–2(c) of title 29, Code of Federal Regulations,
+
+&emsp;"(3) require a plan described in such paragraph (12)(A)(i)(II), as so added, to fully disclose fees related to an automatic portability transaction in its summary plan description or summary of material modifications, as relevant,
+
+&emsp;"(4) require a plan described in such paragraph, as so added, to invest amounts received on behalf of a participant pursuant to an automatic portability transaction in the participant's current investment election under the plan or, if no election is made or permitted, in the plan's qualified default investment alternative (within the meaning of section 2550.404c–5 of title 29, Code of Federal Regulations) or another investment selected by a fiduciary with respect to such plan,
+
+&emsp;"(5) prohibit or restrict the receipt or payment of third party compensation (other than a direct fee paid by a plan sponsor which is in lieu of a fee imposed on an individual retirement plan owner) by an automatic portability provider in connection with an automatic portability transaction,
+
+&emsp;"(6) prohibit exculpatory provisions in an automatic portability provider's contracts or communications with individuals disclaiming or limiting its liability in the event that an automatic portability transaction results in an improper transfer,
+
+&emsp;"(7) require an automatic portability provider to take actions necessary to reasonably ensure that participant and beneficiary data is current and accurate,
+
+&emsp;"(8) limit the use of data related to automatic portability transactions for any purpose other than the execution of such transactions or locating missing participants, except as permitted by the Secretary of Labor,
+
+&emsp;"(9) provide for corrections procedures in the event an auditor determines the automatic portability provider was not in compliance with this provision and related regulations as specified in paragraph (12)(B)(ix)(II) \[probably should be "(12)(B)(xi)(II)"\] of section 4975(f) of such Code, as so added, including deadlines, supplemental audits, and corrective actions which may include a temporary prohibition from relying on the exemption provided by paragraph (25) of section 4975(d) of such Code, as added by this section,
+
+&emsp;"(10) ensure that the appropriate participants and beneficiaries, in fact, receive all the required notices and disclosures, and
+
+&emsp;"(11) make clear that the exemption provided by paragraph (25) of section 4975(d) of such Code, as added by this section, applies solely to the automatic portability transactions described therein, and, to the extent the Secretary deems necessary or advisable, specify how the application of the exemption relates to or coordinates with the application of other statutory provisions, regulations, administrative guidance, or exemptions.
+
+> Any term used in this subsection which is used in paragraph (12) of section 4975(f) of such Code, as added by this section, has the same meaning as when used in such paragraph."
+
 #### Regulations
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
@@ -963,6 +1123,42 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 #### Applicability of Amendments by Pub. L. 116–94
 
 Pub. L. 116–94, div. P, title XIII, §1302(c), Dec. 20, 2019, 133 Stat. 3205, provided that: "With respect to a group health plan subject to subsection (h) of section 408 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108) (as amended by subsection (a)) and subsection (c) of section 4975 of the Internal Revenue Code of 1986 (as amended by subsection (b)), beginning at the end of the fifth plan year of such group health plan that begins after the date of enactment of this Act \[Dec. 20, 2019\], such subsection (h) of such section 408 and such subsection (c) of such \[sic\] shall have no force or effect."
+
+#### Report to Congress
+
+Pub. L. 117–328, div. T, title I, §120(d), Dec. 29, 2022, 136 Stat. 5307, provided that:
+
+"(1)
+
+In general.—Not later than 2 years after the date of the first audit report received by the Secretary of Labor from any automatic portability provider, and every 3 years thereafter, the Secretary of Labor shall report to the Committees on Health, Education, Labor and Pensions and Finance of the Senate and the Committees on Education and Labor and Ways and Means of the House of Representatives on—
+
+&emsp;"(A) the effectiveness of automatic portability transactions under the exemption provided by paragraph (25) of section 4975(d) of the Internal Revenue Code of 1986, as added by this section, detailing—
+
+&emsp;&emsp;"(i) the number of automatic cash outs from qualified plans to individual retirement plans described in section 4975(f)(12)(A)(i)(I) of such Code,
+
+&emsp;&emsp;"(ii) the number of completed automatic portability transactions to employer-sponsored retirement plans described in section 4975(f)(12)(A)(i)(II) of such Code,
+
+&emsp;&emsp;"(iii) the number of individual retirement plans described in section 4975(f)(12)(A)(i)(I) of such Code which have been transferred to designated beneficiaries,
+
+&emsp;&emsp;"(iv) the number of individual retirement plans described in section 4975(f)(12)(A)(i)(I) of such Code for which the automatic portability provider is searching for next of kin due to a deceased account holder without a designated beneficiary, and
+
+&emsp;&emsp;"(v) the number of accounts that were reduced to a zero balance while in the automatic portability provider's custody;
+
+&emsp;"(B) a summary of any consumer complaints submitted to the Employee Benefits Security Administration regarding automatic portability transactions;
+
+&emsp;"(C) a summary of compliance issues found in the annual audit described in section 4975(f)(12)(B)(xiii)(II) \[probably should be "4975(f)(12)(B)(xi)(II)"\] of such Code, if any, and their corrections;
+
+&emsp;"(D) a summary of the fees individuals are charged in connection with automatic portability transactions, including whether those fees have increased since the last report;
+
+&emsp;"(E) recommendations of any necessary statutory changes to this exemption to improve the effectiveness of automatic portability transactions, including repeal of this provision in the event of a pattern of noncompliance; and
+
+&emsp;"(F) any other information the Secretary of Labor deems important.
+
+> The report required by this subsection shall be made publicly available.
+
+"(2)
+
+Report on notices relating to automatic transfers.—Not later than 2 years after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Treasury shall report to the Committee on Finance of the Senate and the Committee on Ways and Means on the adequacy of the notices relating to transfers under section 401(a)(31)(B)(i) of the Internal Revenue Code of 1986."
 
 #### Determination of Feasibility of Application of Computer Model Investment Advice Programs for Individual Retirement and Similar Plans
 
@@ -1012,7 +1208,7 @@ Restriction lifted if model certified.—If the Secretary of Labor determines un
 
 &emsp;"(ii)
 
-Class exemption if no initial certification by secretary.—If the Secretary of Labor determines under subparagraph (B) that there is no computer model investment advice program described in subparagraph (B), the Secretary of Labor shall grant aclass exemption from treatment as a prohibited transaction under section 4975(c) of the Internal Revenue Code of 1986 to any transaction described in section 4975(d)(17)(A) of such Code with respect to plans described in subparagraph (A)(i), subject to such conditions as set forth in such exemption as are in the interests of the plan and its account beneficiary and protective of the rights of the account beneficiary and as are necessary to—
+Class exemption if no initial certification by secretary.—If the Secretary of Labor determines under subparagraph (B) that there is no computer model investment advice program described in subparagraph (B), the Secretary of Labor shall grant a class exemption from treatment as a prohibited transaction under section 4975(c) of the Internal Revenue Code of 1986 to any transaction described in section 4975(d)(17)(A) of such Code with respect to plans described in subparagraph (A)(i), subject to such conditions as set forth in such exemption as are in the interests of the plan and its account beneficiary and protective of the rights of the account beneficiary and as are necessary to—
 
 &emsp;&emsp;"(I) ensure the requirements of sections 4975(d)(17) and 4975(f)(8) (other than subparagraph (C) thereof) of the Internal Revenue Code of 1986 are met, and
 

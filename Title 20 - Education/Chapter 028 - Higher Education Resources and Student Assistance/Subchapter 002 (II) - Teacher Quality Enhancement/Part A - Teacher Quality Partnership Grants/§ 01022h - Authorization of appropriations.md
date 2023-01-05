@@ -14,7 +14,7 @@ A prior section 1023, Pub. L. 89–329, title II, §203, as added Pub. L. 105–
 
 Another prior section 1023, Pub. L. 89–329, title II, §203, as added Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 468, required Secretary to ensure that programs under this subchapter were administered by appropriate library experts, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
-Another prior section 1023, Pub. L. 89–329, title II, §203, Nov. 8, 1965, 79 Stat. 1225; Pub. L. 90–575, title II,§212(a), Oct. 16, 1968, 82 Stat. 1036; Pub. L. 92–318, title I, §§111(b)(2)(B), 112(b)(2), 113(a), June 23, 1972, 86 Stat. 239, 240, provided for supplemental grants in the college library resources program, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1023, Pub. L. 89–329, title II, §203, Nov. 8, 1965, 79 Stat. 1225; Pub. L. 90–575, title II, §212(a), Oct. 16, 1968, 82 Stat. 1036; Pub. L. 92–318, title I, §§111(b)(2)(B), 112(b)(2), 113(a), June 23, 1972, 86 Stat. 239, 240, provided for supplemental grants in the college library resources program, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1024, Pub. L. 89–329, title II, §204, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1627; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080, related to teacher recruitment grants, prior to repeal by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.
 
@@ -38,7 +38,7 @@ Another prior section 1028, Pub. L. 89–329, title II, §208, Nov. 8, 1965, 79 
 
 A prior section 1029, Pub. L. 89–329, title II, §209, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1635; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080, related to general provisions, prior to repeal by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.
 
-Another prior section 1029, Pub. L. 89–329, title II, §211, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1384; amended Pub. L. 99–498, title II, §202, Oct. 17, 1986, 100 Stat. 1287; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 468, related to college library technology and cooperation grants, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+Another prior section 1029, Pub. L. 89–329, title II, §211, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980,94 Stat. 1384; amended Pub. L. 99–498, title II, §202, Oct. 17, 1986, 100 Stat. 1287; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 468, related to college library technology and cooperation grants, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 A prior section 1030, Pub. L. 89–329, title II, §210, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1635; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080, related to authorization of appropriations, prior to repeal by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.
 

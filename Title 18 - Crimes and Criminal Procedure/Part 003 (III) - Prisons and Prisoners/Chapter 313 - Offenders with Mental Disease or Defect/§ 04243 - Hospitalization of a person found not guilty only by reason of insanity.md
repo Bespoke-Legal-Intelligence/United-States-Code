@@ -28,7 +28,7 @@ Determination and Disposition.—If, after the hearing, the court fails to find 
 
 (f)
 
-Discharge.—When the director of the facility in which an acquitted person is hospitalized pursuant to subsection (e) determines that the person has recovered from his mental disease or defect to such an extent that his release, or his conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment, would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. The court shall order the discharge of the acquitted person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine whether he should be released. If, after the hearing, the court finds by the standard specified in subsection (d) that the person has recovered from his mental disease or defect to such an extent that—
+Discharge.—When the director of the facility in which an acquitted person is hospitalized pursuant to subsection (e) determines that the person has recovered from his mental disease or defect to such an extent that his release, or his conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment, would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. The court shall order the discharge of the acquitted person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), todetermine whether he should be released. If, after the hearing, the court finds by the standard specified in subsection (d) that the person has recovered from his mental disease or defect to such an extent that—
 
 &emsp;(1) his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, the court shall order that he be immediately discharged; or
 
@@ -84,7 +84,7 @@ Effect.—Nothing in this paragraph shall be construed to—
 
 &emsp;&emsp;&emsp;(i) create in any person a liberty interest in being granted a hearing or notice on any matter;
 
-&emsp;&emsp;&emsp;(ii) create in favor of any person a cause of action against the United States or anyofficer or employee of the United States; or
+&emsp;&emsp;&emsp;(ii) create in favor of any person a cause of action against the United States or any officer or employee of the United States; or
 
 &emsp;&emsp;&emsp;(iii) limit in any manner or degree the ability of the Attorney General to move, transfer, or otherwise manage any person committed to the custody of the Attorney General.
 

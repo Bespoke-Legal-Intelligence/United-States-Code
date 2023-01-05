@@ -36,7 +36,7 @@ In providing for the direction, supervision, and control of the Capitol Guide Se
 
 &emsp;(7) receive and consider advice and information from any private historical or educational organization, association, or society with respect to those operations of the Capitol Guide Service which involve the furnishing of historical and educational information to the general public; and
 
-&emsp;(8) with the approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, prescribe such regulations as the Architect of the Capitol considers necessary and appropriate for the operation of the Capitol Guide Service, including regulations with respect to tour routes and hours of operation, number of visitors per guide, staff-led tours, and non-law enforcement security and special event related support.
+&emsp;(8) with the approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration ofthe House of Representatives, prescribe such regulations as the Architect of the Capitol considers necessary and appropriate for the operation of the Capitol Guide Service, including regulations with respect to tour routes and hours of operation, number of visitors per guide, staff-led tours, and non-law enforcement security and special event related support.
 
 #### (c) Provision of accessible tours in coordination with Office of Congressional Accessibility Services
 

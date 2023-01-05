@@ -106,7 +106,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;Air and Marine Operations shall—
 
-&emsp;&emsp;(A) serve as the law enforcement office within U.S. Customs and Border Protection with primary responsibility to detect, interdict, and prevent acts of terrorism and the unlawful movement of people, illicit drugs, and other contraband across the borders of the United States in the air and maritime environment;
+&emsp;&emsp;(A) serve as the law enforcement office within U.S. Customs and Border Protection with primary responsibility to detect, interdict, and prevent acts of terrorism and theunlawful movement of people, illicit drugs, and other contraband across the borders of the United States in the air and maritime environment;
 
 &emsp;&emsp;(B) conduct joint aviation and marine operations with U.S. Immigration and Customs Enforcement;
 
@@ -204,7 +204,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 #### (B) Form
 
-&emsp;&emsp;The report required under subparagraph (A) shall, to the greatest extent practicable, be submitted in unclassified form, but may be submitted in classified form, if the Executive Assistant Commissioner determines that such is appropriate and informs the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate of the reasoning for such.
+&emsp;&emsp;The report required under subparagraph (A) shall, to the greatest extent practicable,be submitted in unclassified form, but may be submitted in classified form, if the Executive Assistant Commissioner determines that such is appropriate and informs the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate of the reasoning for such.
 
 #### (h) Office of Intelligence
 
@@ -296,7 +296,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;&emsp;(B) standard use of force procedures that officers and agents of U.S. Customs and Border Protection may employ in the execution of their duties, including the use of deadly force;
 
-&emsp;&emsp;(C) uniform, standardized, and publicly-available procedures for processing and investigating complaints against officers, agents, and employees of U.S. Customs and Border Protection for violations of professional conduct, including the timely disposition of complaints and a written notification to the complainant of the status or outcome, as appropriate, of the related investigation, in accordance with section 552a of title 5 (commonly referred to as the "Privacy Act" or the "Privacy Act of 1974");
+&emsp;&emsp;(C) uniform, standardized, and publicly-available procedures for processing and investigating complaints against officers,agents, and employees of U.S. Customs and Border Protection for violations of professional conduct, including the timely disposition of complaints and a written notification to the complainant of the status or outcome, as appropriate, of the related investigation, in accordance with section 552a of title 5 (commonly referred to as the "Privacy Act" or the "Privacy Act of 1974");
 
 &emsp;&emsp;(D) an internal, uniform reporting mechanism regarding incidents involving the use of deadly force by an officer or agent of U.S. Customs and Border Protection, including an evaluation of the degree to which the procedures required under subparagraph (B) were followed; and
 
@@ -412,7 +412,7 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 &emsp;&emsp;(B) make information about such wait times available to the public in real time through the U.S. Customs and Border Protection website;
 
-&emsp;&emsp;(C) submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee onFinance of the Senate, for each of the five calendar years beginning in the calendar year that begins after February 24, 2016, a report that includes compilations of all such wait times and a ranking of such United States airports by wait times; and
+&emsp;&emsp;(C) submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate, for each of the five calendar years beginning in the calendar year that begins after February 24, 2016, a report that includes compilations of all such wait times and a ranking of such United States airports by wait times; and
 
 &emsp;&emsp;(D) provide adequate staffing at the U.S. Customs and Border Protection information center to ensure timely access for travelers attempting to submit comments or speak with a representative about their entry experiences.
 
@@ -432,7 +432,7 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 #### (3) Rescue beacons
 
-&emsp;Beginning in fiscal year 2019, in carrying out subsection (c)(8), the Commissioner shall purchase, deploy, and maintain not more than 170 self-powering, 9–1–1 cellular relay rescue beacons along the southern border of the United States at locations determined appropriate by the Commissioner to mitigate migrant deaths.
+&emsp;Beginning in fiscal year 2019, in carrying out subsection (c)(8), the Commissioner shall purchase, deploy, and maintain not more than 250 self-powering, 9–1–1 cellular relay rescue beacons along the southern border of the United States at locations determined appropriate by the Commissioner to mitigate migrant deaths.
 
 #### (p) Reports to Congress
 
@@ -446,7 +446,7 @@ Nothing in this section may be construed as affecting in any manner the authorit
 
 In this section, the terms "commercial operations", "customs and trade laws of the United States", "trade enforcement", and "trade facilitation" have the meanings given such terms in section 4301 of title 19.
 
-(Pub. L. 107–296, title IV, §411, Nov. 25, 2002, 116 Stat. 2178; Pub. L. 114–125, title VIII, §802(a), Feb. 24, 2016, 130 Stat. 199; Pub. L. 115–79, §4(a), Nov. 2, 2017, 131 Stat. 1260; Pub. L. 116–277, §3, Dec. 31, 2020, 134 Stat. 3370.)
+(Pub. L. 107–296, title IV, §411, Nov. 25, 2002, 116 Stat. 2178; Pub. L. 114–125, title VIII, §802(a), Feb. 24, 2016, 130 Stat. 199; Pub. L. 115–79, §4(a), Nov. 2, 2017, 131 Stat. 1260; Pub. L. 116–277, §3, Dec. 31, 2020, 134 Stat. 3370; Pub. L. 117–103, div. F, title II, §212, Mar. 15, 2022, 136 Stat. 322.)
 
 #### <b>Editorial Notes</b>
 
@@ -459,6 +459,8 @@ The Security and Accountability for Every Port Act of 2006, referred to in subse
 Section is comprised of section 411 of Pub. L. 107–296. Former subsec. (b)(2) of section 411 of Pub. L. 107–296 amended section 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (o)(3). Pub. L. 117–103 substituted "250" for "170".
 
 <b>2020</b>—Subsec. (o)(3). Pub. L. 116–277 added par. (3).
 
@@ -728,13 +730,17 @@ Report.—Not later than 90 days after the briefing required under subsection (b
 
 #### Use of Funds To Continue Detention Services Contracts
 
-Pub. L. 116–260, div. F, title II, §215, Dec. 27, 2020, 134 Stat. 1457, provided that:
+Pub. L. 117–328, div. F, title II, §214, Dec. 29, 2022, 136 Stat. 4736, provided that:
 
 "(a) None of the funds provided under the heading 'U.S. Immigration and Customs Enforcement—Operations and Support' may be used to continue any contract for the provision of detention services if the two most recent overall performance evaluations received by the contracted facility are less than 'adequate' or the equivalent median score in any subsequent performance evaluation system.
 
-"(b) Beginning not later than January 1, 2021, the performance evaluations referenced in subsection (a) shall be conducted by the U.S. Immigration and Customs Enforcement Office of Professional Responsibility."
+"(b) The performance evaluations referenced in subsection (a) shall be conducted by the U.S. Immigration and Customs Enforcement Office of Professional Responsibility."
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. F, title II, §215, Mar. 15, 2022, 136 Stat. 322.
+
+Pub. L. 116–260, div. F, title II, §215, Dec. 27, 2020, 134 Stat. 1457.
 
 Pub. L. 116–93, div. D, title II, §215, Dec. 20, 2019, 133 Stat. 2513.
 
@@ -858,7 +864,7 @@ Commissioner.—The term 'Commissioner' means the Commissioner of U.S. Customs a
 
 &emsp;"(3)
 
-Express consignment operator or carrier.—The term 'express consignment operator or carrier' has the meaning given that term in section 128.1 of title 19, Code of Federal Regulations (or any similar successor regulation).
+Express consignment operator or carrier.—The term 'express consignment operator or carrier'has the meaning given that term in section 128.1 of title 19, Code of Federal Regulations (or any similar successor regulation).
 
 #### "SEC. 3. INTERDICTION OF FENTANYL, OTHER SYNTHETIC OPIOIDS, AND OTHER NARCOTICS AND PSYCHOACTIVE SUBSTANCES.
 

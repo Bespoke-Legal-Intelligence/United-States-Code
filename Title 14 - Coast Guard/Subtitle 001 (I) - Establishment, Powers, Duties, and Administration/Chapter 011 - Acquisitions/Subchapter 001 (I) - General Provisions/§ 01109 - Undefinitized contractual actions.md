@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Coast Guard may not enter into an undefinitized contractual action unless such action is directly approved by the Head of Contracting Activity of the Coast Guard.
+In General.—The Coast Guard may not enter into an undefinitized contractual action unless such action is directly approved by theHead of Contracting Activity of the Coast Guard.
 
 (b)
 

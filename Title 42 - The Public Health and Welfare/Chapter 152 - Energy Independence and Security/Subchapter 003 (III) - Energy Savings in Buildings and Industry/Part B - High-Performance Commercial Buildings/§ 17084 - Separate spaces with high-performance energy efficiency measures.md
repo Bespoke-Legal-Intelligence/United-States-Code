@@ -48,7 +48,7 @@ In this section:
 
 #### (3) Public participation
 
-&emsp;Not later than 90 days after April 30, 2015, the Secretary shall publish a notice in the Federal Register requesting public comments regarding effective methods, measures, and practices for the design and construction of separate spaces with high-performance energy efficiency measures.
+&emsp;Not later than 90 days after April 30, 2015, the Secretary shall publish a notice in the Federal Register requesting public comments regarding effective methods, measures, andpractices for the design and construction of separate spaces with high-performance energy efficiency measures.
 
 #### (4) Publication
 

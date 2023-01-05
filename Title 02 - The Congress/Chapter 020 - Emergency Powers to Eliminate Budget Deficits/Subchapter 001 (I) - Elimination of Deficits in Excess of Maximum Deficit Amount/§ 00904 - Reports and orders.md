@@ -85,7 +85,7 @@ On the dates specified in subsection (a), OMB and CBO shall issue a sequestratio
 
 &emsp;&emsp;(C) For each category for which a sequestration is required, the sequestration percentages necessary to achieve the required reduction.
 
-&emsp;&emsp;(D) For the budget year, for each account to be sequestered, estimates of the baseline level of sequestrable budgetary resources and resulting outlays and the amount of budgetary resources to be sequestered and resulting outlay reductions.
+&emsp;&emsp;(D) For the budget year, for each account to be sequestered, estimates of the baseline level of sequestrable budgetary resources and resulting outlays and the amount ofbudgetary resources to be sequestered and resulting outlay reductions.
 
 #### (3) Pay-as-you-go and deficit sequestration reports
 
@@ -143,7 +143,7 @@ Subsec. (e). Pub. L. 112–25, §103(2), added "This report shall also contain a
 
 Subsec. (f)(2)(A). Pub. L. 112–25, §103(3), substituted "2021" for "2002" and inserted ", including a final estimate of the adjustment for disaster funding" before period at end.
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–33, §10206(1), (2), redesignated subsec. (d) as (c), substituted "2002" for "1998" in par. (2), and struck out heading and text of former subsec. (c). Text read as follows: "With respect to budget year 1994 or 1995, on the date specified in subsection (a) of this section the President shall notify the House of Representatives and the Senate of his decision regarding the optional adjustment of the maximum deficit amount (as allowed under section 903(g)(1)(B) of this title)."
+<b>1997</b>—Subsec. (c). Pub. L. 105–33, §10206(1), (2), redesignated subsec. (d) as (c), substituted "2002" for "1998" in par. (2), and struck out heading and text of former subsec. (c). Text read as follows: "With respect to budget year 1994 or 1995, on the date specified in subsection (a) of this section the President shall notify the House ofRepresentatives and the Senate of his decision regarding the optional adjustment of the maximum deficit amount (as allowed under section 903(g)(1)(B) of this title)."
 
 Subsec. (d). Pub. L. 105–33, §10206(1), (3), redesignated subsec. (e) as (d) and substituted "section 905(f)" for "section 905(h)". Former subsec. (d) redesignated (c).
 
@@ -231,7 +231,7 @@ Pub. L. 101–412, §113, Oct. 9, 1990, 104 Stat. 897, provided that:
 
 Pub. L. 101–403, title I, §113, Oct. 1, 1990, 104 Stat. 870, provided that:
 
-"(a) Any order on sequestration for fiscal year 1991 issued before, on, or after the date of enactment of this joint resolution \[Oct. 1, 1990\] pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] is suspended and no action shall be taken to implement any such order.
+"(a) Any order on sequestration for fiscal year 1991 issued before, on, or after the date of enactment of this joint resolution \[Oct. 1, 1990\] pursuant to section 252 of the Balanced Budget and Emergency Deficit ControlAct of 1985 \[2 U.S.C. 902\] is suspended and no action shall be taken to implement any such order.
 
 "(b) Subsection (a) shall cease to be effective on the date set forth in section 108(c) \[Oct. 5, 1990\]."
 
@@ -275,7 +275,7 @@ Initial Order of the President of the United States, Aug. 25, 1990, 55 F.R. 3513
 
 Pub. L. 101–239, title VI, §6101, Dec. 19, 1989, 103 Stat. 2168, provided that: "Notwithstanding any other provision of law (including any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989, pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through March 31, 1990, with respect to payments for items and services under part B of such title \[42 U.S.C. 1395j et seq.\]."
 
-Pub. L. 101–239, title VI, §6201, Dec. 19, 1989, 103 Stat. 2225, provided that: "Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by thefinal sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments under section 1833(a)(1)(A) or 1876 of the Social Security Act \[42 U.S.C. 1395l(a)(1)(A), 1395mm\], section 402 of the Social Security Amendments of 1967 \[section 402 of Pub. L. 90–248, enacting 42 U.S.C. 1395b–1, and amending 42 U.S.C. 1395ll\], or section 222 of the Social Security Amendments of 1972 \[section 222 of Pub. L. 92–603, amending 42 U.S.C. 1395b–1 and enacting provisions set out as a note under 42 U.S.C. 1395b–1\]. Each such payment made during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act."
+Pub. L. 101–239, title VI, §6201, Dec. 19, 1989, 103 Stat. 2225, provided that: "Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments under section 1833(a)(1)(A) or 1876 of the Social Security Act \[42 U.S.C. 1395l(a)(1)(A), 1395mm\], section 402 of the Social Security Amendments of 1967 \[section 402 of Pub. L. 90–248, enacting 42 U.S.C. 1395b–1, and amending 42 U.S.C. 1395ll\], or section 222 of the Social Security Amendments of 1972 \[section 222 of Pub. L. 92–603, amending 42 U.S.C. 1395b–1 and enacting provisions set out as a note under 42 U.S.C. 1395b–1\]. Each such payment made during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act."
 
 Pub. L. 101–239, title XI, §11002, Dec. 19, 1989, 103 Stat. 2490, provided that:
 
@@ -327,7 +327,7 @@ This order shall be published \[in the\] Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Final Order of the President of the United States, Oct. 16, 1989, 54 F.R. 42795, which provided emergencydeficit control measures for fiscal year 1990, was rescinded by section 11002(a) of Pub. L. 101–239, set out above, upon issuance of New Final Order of the President of the United States, Dec. 27, 1989, 54 F.R. 53469, set out above.
+Final Order of the President of the United States, Oct. 16, 1989, 54 F.R. 42795, which provided emergency deficit control measures for fiscal year 1990, was rescinded by section 11002(a) of Pub. L. 101–239, set out above, upon issuance of New Final Order of the President of the United States, Dec. 27, 1989, 54 F.R. 53469, set out above.
 
 Initial Order of the President of the United States, Aug. 25, 1989, 54 F.R. 35627, which provided emergency deficit control measures for fiscal year 1990, was superseded by Final Order of the President, Oct. 16, 1989, 54 F.R. 42795.
 

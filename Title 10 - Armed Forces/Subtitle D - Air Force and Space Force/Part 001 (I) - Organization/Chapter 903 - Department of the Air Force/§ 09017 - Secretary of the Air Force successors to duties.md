@@ -50,7 +50,7 @@ Section 3347 of title 5, referred to in text, was repealed and a new section 334
 
 <b>1994</b>—Pars. (3), (4). Pub. L. 103–337 added par. (3) and redesignated former par. (3) as (4).
 
-<b>1986</b>—Pub. L. 99–433 struck out subsec. (a) designation, substituted in par. (2) ", in the order prescribedby the Secretary of the Air Force and approved by the Secretary of Defense" for "in order of their length of service as such", and struck out subsec. (b) which read as follows: "Performance of the duties of the Secretary by the Chief of Staff or any officer of the Air Force designated under section 3347 of title 5 shall not be considered as the holding of a civil office within the meaning of section 973(b) of this title."
+<b>1986</b>—Pub. L. 99–433 struck out subsec. (a) designation, substituted in par. (2) ", in the order prescribed by the Secretary of the Air Force and approved by the Secretary of Defense" for "in order of their length of service as such", and struck out subsec. (b) which read as follows: "Performance of the duties of the Secretary by the Chief of Staff or any officer of the Air Force designated under section 3347 of title 5 shall not be considered as the holding of a civil office within the meaning of section 973(b) of this title."
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–235 substituted "section 973(b) of this title" for "section 8544(b) of this title".
 

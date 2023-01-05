@@ -19,3 +19,5 @@
 - [&sect; 00506 - Prospective payment of funds necessary to provide medical care](%C2%A7%2000506%20-%20Prospective%20payment%20of%20funds%20necessary%20to%20provide%20medical%20care.md)
 - [&sect; 00507 - Appointment of judges](%C2%A7%2000507%20-%20Appointment%20of%20judges.md)
 - [&sect; 00508 - Coast Guard health-care professionals; licensure portability](%C2%A7%2000508%20-%20Coast%20Guard%20health-care%20professionals%3B%20licensure%20portability.md)
+- [&sect; 00509 - Space-available travel on Coast Guard aircraft](%C2%A7%2000509%20-%20Space-available%20travel%20on%20Coast%20Guard%20aircraft.md)
+- [&sect; 00510 - Conveyance of Coast Guard vessels for public purposes](%C2%A7%2000510%20-%20Conveyance%20of%20Coast%20Guard%20vessels%20for%20public%20purposes.md)

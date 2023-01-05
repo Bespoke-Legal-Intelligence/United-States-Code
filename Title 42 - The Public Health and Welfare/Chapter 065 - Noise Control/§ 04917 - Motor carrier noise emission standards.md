@@ -8,7 +8,7 @@
 
 (3) Any standard or regulation, or revision thereof, proposed under this subsection shall be promulgated only after consultation with the Secretary of Transportation in order to assure appropriate consideration for safety and technological availability.
 
-(4) Any regulation or revision thereof promulgated under this subsection shall take effect after such period as the Administrator finds necessary, after consultation with the Secretary of Transportation, to permit the development andapplication of the requisite technology, giving appropriate consideration to the cost of compliance within such period.
+(4) Any regulation or revision thereof promulgated under this subsection shall take effect after such period as the Administrator finds necessary, after consultation with the Secretary of Transportation, to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period.
 
 #### (b) Regulations to insure compliance with noise emission standards
 
@@ -30,7 +30,7 @@ For purposes of this section, the term "motor carrier" includes a motor carrier 
 
 #### References in Text
 
-The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
+The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
 #### Codification
 

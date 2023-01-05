@@ -6,9 +6,9 @@
 
 &emsp;For fiscal year 2010 and each subsequent fiscal year, the Secretary shall, in accordance with this section, assess and collect fees from—
 
-&emsp;&emsp;(A) the responsible party for each domestic facility (as defined in section 350d(b) of this title) and the United States agent for each foreign facility subject to a reinspection in such fiscal year, to cover reinspection-related costs for such year;
+&emsp;&emsp;(A) the responsible party for each domestic facility (as defined in section 350d(b) <sup>1</sup> of this title) and the United States agent for each foreign facility subject to a reinspection in such fiscal year, to cover reinspection-related costs for such year;
 
-&emsp;&emsp;(B) the responsible party for a domestic facility (as defined in section 350d(b) of this title) and an importer who does not comply with a recall order under section 350l of this title or under section 350a(f) of this title in such fiscal year, to cover food recall activities associated with such order performed by the Secretary, including technical assistance, follow-up effectiveness checks, and public notifications, for such year;
+&emsp;&emsp;(B) the responsible party for a domestic facility (as defined in section 350d(b) <sup>1</sup> of this title) and an importer who does not comply with a recall order under section 350l of this title or under section 350a(f) of this title in such fiscal year, to cover food recall activities associated with such order performed by the Secretary, including technical assistance, follow-up effectiveness checks, and public notifications, for such year;
 
 &emsp;&emsp;(C) each importer participating in the voluntary qualified importer program under section 384b of this title in such year, to cover the administrative costs of such program for such year; and
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) the term "reinspection" means—
 
-&emsp;&emsp;&emsp;(i) with respect to domestic facilities (as defined in section 350d(b) of this title), 1 or more inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction; and
+&emsp;&emsp;&emsp;(i) with respect to domestic facilities (as defined in section 350d(b) <sup>1</sup> of this title), 1 or more inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction; and
 
 &emsp;&emsp;&emsp;(ii) with respect to importers, 1 or more examinations conducted under section 381 of this title subsequent to an examination conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction;
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;In establishing the fee amounts under subparagraph (A)(iii) for a fiscal year, the Secretary shall provide for the number of importers who have submitted to the Secretary a notice under section 384b(c) of this title informing the Secretary of the intent of such importer to participate in the program under section 384b of this title in such fiscal year.
 
-#### (II) <sup>1</sup> Recoupment
+#### (II) <sup>2</sup> Recoupment
 
 &emsp;&emsp;&emsp;&emsp;In establishing the fee amounts under subparagraph (A)(iii) for the first 5 fiscal years after January 4, 2011, the Secretary shall include in such fee a reasonable surcharge that provides a recoupment of the costs expended by the Secretary to establish and implement the first year of the program under section 384b of this title.
 
@@ -72,7 +72,7 @@
 
 #### (3) Use of fees
 
-&emsp;The Secretary shall make all of the fees collected pursuant to clause <sup>2</sup> (i), (ii), (iii), and (iv) of paragraph (2)(A) available solely to pay for the costs referred to in such clause (i), (ii), (iii), and (iv) of paragraph (2)(A), respectively.
+&emsp;The Secretary shall make all of the fees collected pursuant to clause <sup>3</sup> (i), (ii), (iii), and (iv) of paragraph (2)(A) available solely to pay for the costs referred to in such clause (i), (ii), (iii), and (iv) of paragraph (2)(A), respectively.
 
 #### (c) Limitations
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The adjustment factor described in paragraph (1) shall be the total percentagechange that occurred in the Consumer Price Index for all urban consumers (all items; United States city average) for the 12-month period ending June 30 preceding the fiscal year, but in no case shall such adjustment factor be negative.
+&emsp;&emsp;The adjustment factor described in paragraph (1) shall be the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; United States city average) for the 12-month period ending June 30 preceding the fiscal year, but in no case shall such adjustment factor be negative.
 
 #### (B) Compounded basis
 
@@ -112,7 +112,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;If a domestic facility (as defined in section 350d(b) of this title) or an importer becomes subject to a fee described in subparagraph (A), (B), or (D) of subsection (a)(1) after the maximum amount of fees has been collected by the Secretary under subparagraph (A), the Secretary may collect a fee from such facility or importer.
+&emsp;&emsp;If a domestic facility (as defined in section 350d(b) <sup>1</sup> of this title) or an importer becomes subject to a fee described in subparagraph (A), (B), or (D) of subsection (a)(1) after the maximum amount of fees has been collected by the Secretary under subparagraph (A), the Secretary may collect a fee from such facility or importer.
 
 #### (d) Crediting and availability of fees
 
@@ -130,7 +130,7 @@ Fees authorized under subsection (a) shall be collected and available for obliga
 
 #### (f) Annual report to Congress
 
-Not later than 120 days after each fiscal year for which fees are assessed under this section, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to include a description of fees assessed and collected for each such year and a summary description of the entities paying such fees and the types of business in which such entities engage.
+Not later than 120 days after each fiscal year for which fees are assessed under this section, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to include a description of fees assessedand collected for each such year and a summary description of the entities paying such fees and the types of business in which such entities engage.
 
 #### (g) Authorization of appropriations
 
@@ -138,13 +138,21 @@ For fiscal year 2010 and each fiscal year thereafter, there is authorized to be 
 
 (June 25, 1938, ch. 675, §743, as added Pub. L. 111–353, title I, §107(a), Jan. 4, 2011, 124 Stat. 3906.)
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 350d(b) of this title, referred to in subsecs. (a)(1)(A), (B), (2)(A)(i) and (c)(4)(B), was redesignated section 350d(c) by Pub. L. 111–353, title I, §102(b)(1)(B), Jan. 4, 2011, 124 Stat. 3887.
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 
 Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
-<i><sup>1</sup></i><i> So in original. No subcl. (I) has been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "clauses".</i>
+<i><sup>2</sup></i><i> So in original. No subcl. (I) has been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "clauses".</i>
 

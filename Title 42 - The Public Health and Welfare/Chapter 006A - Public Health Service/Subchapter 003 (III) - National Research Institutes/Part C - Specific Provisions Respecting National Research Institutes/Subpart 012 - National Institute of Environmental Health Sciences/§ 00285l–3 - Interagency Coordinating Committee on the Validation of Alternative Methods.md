@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to the interagency coordinating committee that is known as the Interagency Coordinating Committee on the Validation of Alternative Methods (referred to in sections 285l–2to 285l–5 of this title as "ICCVAM") and that was established by the Director of the National Institute of Environmental Health Sciences for purposes of section 285l–1(b) of this title, the Director of the Institute shall designate such committee as a permanent interagency coordinating committee of the Institute under the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods. Sections 285l–2 to 285l–5 of this title may not be construed as affecting the authorities of such Director regarding ICCVAM that were in effect on the day before December 19, 2000, except to the extent inconsistent with sections 285l–2 to 285l–5 of this title.
+With respect to the interagency coordinating committee that is known as the Interagency Coordinating Committee on the Validation of Alternative Methods (referred to in sections 285l–2 to 285l–5 of this title as "ICCVAM") and that was established by the Director of the National Institute of Environmental Health Sciences for purposes of section 285l–1(b) of this title, the Director of the Institute shall designate such committee as a permanent interagency coordinating committee of the Institute under the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods. Sections 285l–2 to 285l–5 of this title may not be construed as affecting the authorities of such Director regarding ICCVAM that were in effect on the day before December 19, 2000, except to the extent inconsistent with sections 285l–2 to 285l–5 of this title.
 
 #### (b) Purposes
 
@@ -58,7 +58,7 @@ The ICCVAM shall be composed of the heads of the following Federal agencies (or 
 
 #### (1) Establishment
 
-&emsp;The Director of the National Institute of Environmental Health Sciences shall establish a Scientific Advisory Committee (referred to in sections 285l–2 to 285l–5 of this title as the "SAC") to advise ICCVAM and the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods regarding ICCVAM activities. The activities of the SAC shall be subject to provisions of the Federal Advisory Committee Act.
+&emsp;The Director of the National Institute of Environmental Health Sciences shall establish a Scientific Advisory Committee (referred to in sections 285l–2 to 285l–5 of this title as the "SAC") to advise ICCVAM and the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods regarding ICCVAM activities. The activities of the SAC shall be subject to provisions of chapter 10 of title 5.
 
 #### (2) Membership
 
@@ -102,23 +102,23 @@ The ICCVAM shall, consistent with the purposes described in subsection (b), carr
 
 &emsp;(7) Prepare reports to be made available to the public on its progress under sections 285l–2 to 285l–5 of this title. The first report shall be completed not later than 12 months after December 19, 2000, and subsequent reports shall be completed biennially thereafter.
 
-(Pub. L. 106–545, §3, Dec. 19, 2000, 114 Stat. 2721.)
+(Pub. L. 106–545, §3, Dec. 19, 2000, 114 Stat. 2721; Pub. L. 117–286, §4(a)(235), Dec. 27, 2022, 136 Stat. 4331.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (d)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Section was enacted as part of the ICCVAM Authorization Act of 2000, and not as part of the Public Health Service Act which comprises this chapter.
 
+#### Amendments
+
+<b>2022</b>—Subsec. (d)(1). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

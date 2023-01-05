@@ -30,7 +30,7 @@ The President is authorized to implement and carry out the provisions of this ch
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2), (d), and (e), was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. Forcomplete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2), (d), and (e), was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
 #### <b>Executive Documents</b>
 
@@ -54,7 +54,7 @@ Sec. 4. The Secretary of Commerce is authorized:
 
 (c) to carry out all functions with respect to proceedings under section 501(a) of the Act \[22 U.S.C. 6761(a)\] and to issue regulations with respect thereto, except for those functions that the Act specifies are to be performed by the Secretary of State or the USNA.
 
-Sec. 5. The Departments of State, Defense, Commerce, and Energy, and other agencies as appropriate, are authorized to carry out, consistent with the Act and in accordance with subsequent directives, appropriate functions that are not otherwise assigned in the Act and are necessary to implement the provisions of the Convention and the Act.
+Sec. 5. The Departments of State, Defense, Commerce, and Energy, and other agencies as appropriate,are authorized to carry out, consistent with the Act and in accordance with subsequent directives, appropriate functions that are not otherwise assigned in the Act and are necessary to implement the provisions of the Convention and the Act.
 
 Sec. 6. The Departments of State, Defense, Commerce, and Energy, and other agencies, as appropriate, are authorized to provide assistance to facilities not owned or operated by the U.S. Government, or contracted for use by or for the U.S. Government, in meeting reporting requirements and in preparing the facilities for possible inspection pursuant to the Convention.
 

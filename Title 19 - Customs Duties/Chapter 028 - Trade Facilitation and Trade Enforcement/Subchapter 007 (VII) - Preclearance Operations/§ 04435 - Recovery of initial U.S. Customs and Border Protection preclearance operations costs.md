@@ -50,7 +50,7 @@ The Commissioner may enter into a cost sharing agreement with airport authoritie
 
 #### (2) Exception
 
-&emsp;The costs described in paragraph (1)(A) shall not include the salaries and benefits of new U.S. Customs and Border Protection officers once such officers are permanently stationed at a domestic United States port of entry or other domestic U.S. Customs and Border Protection facility after being hired, trained, and equipped.
+&emsp;The costs described in paragraph (1)(A) shall not include the salaries and benefits of newU.S. Customs and Border Protection officers once such officers are permanently stationed at a domestic United States port of entry or other domestic U.S. Customs and Border Protection facility after being hired, trained, and equipped.
 
 #### (e) Rule of construction
 

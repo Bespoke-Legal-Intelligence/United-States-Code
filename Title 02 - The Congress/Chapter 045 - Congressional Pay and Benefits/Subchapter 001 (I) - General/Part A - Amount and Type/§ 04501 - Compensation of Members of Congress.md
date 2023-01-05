@@ -22,7 +22,7 @@
 
 The General Schedule, referred to in par. (2), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in par. (2)(A), is section 704(a)(1) of Pub. L.101–194, which is set out as a note under section 5318 of Title 5.
+Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in par. (2)(A), is section 704(a)(1) of Pub. L. 101–194, which is set out as a note under section 5318 of Title 5.
 
 #### Codification
 
@@ -116,9 +116,9 @@ In general.—If by April 15, 2013, a House of Congress has not agreed to a conc
 
 &emsp;"(2)
 
-Period described.—With respect to a House of Congress, the period described in this paragraph isthe period which begins on April 16, 2013, and ends on the earlier of—
+Period described.—With respect to a House of Congress, the period described in this paragraph is the period which begins on April 16, 2013, and ends on the earlier of—
 
-&emsp;&emsp;"(A) the day on which the House of Congress agrees to a concurrent resolution on the budget for fiscal year 2014 pursuant to section 301 of the Congressional Budget Act of 1974 \[2 U.S.C. 632\]; or
+&emsp;&emsp;"(A) the day on which the House of Congress agrees to a concurrent resolution on the budget forfiscal year 2014 pursuant to section 301 of the Congressional Budget Act of 1974 \[2 U.S.C. 632\]; or
 
 &emsp;&emsp;"(B) the last day of the One Hundred Thirteenth Congress.
 
@@ -148,9 +148,13 @@ Payroll Administrator Defined.—In this section, the 'payroll administrator' of
 
 #### Cost of Living Adjustment
 
-Pub. L. 116–260, §7, Dec. 27, 2020, 134 Stat. 1185, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2021."
+Pub. L. 117–328, §6, Dec. 29, 2022, 136 Stat. 4462, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2023."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–103, §6, Mar. 15, 2022, 136 Stat. 52.
+
+Pub. L. 116–260, §7, Dec. 27, 2020, 134 Stat. 1185.
 
 Pub. L. 116–94, §7, Dec. 20, 2019, 133 Stat. 2536.
 

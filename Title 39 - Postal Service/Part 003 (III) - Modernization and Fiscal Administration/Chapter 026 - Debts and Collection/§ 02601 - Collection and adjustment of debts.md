@@ -6,7 +6,7 @@
 
 &emsp;(2) shall collect and remit fines, penalties, and forfeitures arising out of matters affecting the Postal Service;
 
-&emsp;(3) may adjust, pay, or credit the account of a postmaster or of an enlisted person of an Armed Force performing postal duties, for anyloss of Postal Service funds, papers, postage, or other stamped stock or accountable paper; and
+&emsp;(3) may adjust, pay, or credit the account of a postmaster or of an enlisted person of an Armed Force performing postal duties, for any loss of Postal Service funds, papers, postage, or other stamped stock or accountable paper; and
 
 &emsp;(4) may prescribe penalties for failure to render accounts.
 

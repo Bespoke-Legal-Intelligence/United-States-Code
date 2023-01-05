@@ -84,7 +84,7 @@ Pilot Program.—Not later than 180 days after the date of the enactment of this
 
 &emsp;"(2) the assessment and management of the value and acquisition costs of intellectual property during acquisition and sustainment activities (including source selection evaluation factors) throughout the acquisition lifecycle for any acquisition program selected by such Secretary; and
 
-&emsp;"(3) the use of a commercial product (as defined in section 103 of title 41, United States Code, as in effect on January 1, 2020), commercial service (as defined in section 103a of title 41, United States Code, as in effect on January 1, 2020), or nondevelopmental item (as defined in section 110 of title 41, United States Code) as an alternative to a product or service to be specifically developed for a selected acquisition program, including evaluation of the benefits of reduced risk regarding cost, schedule, and performance associated with commercial products, commercial services, and nondevelopmental items.
+&emsp;"(3) the use of a commercial product (as defined in section 103 of title 41, United States Code, as in effecton January 1, 2020), commercial service (as defined in section 103a of title 41, United States Code, as in effect on January 1, 2020), or nondevelopmental item (as defined in section 110 of title 41, United States Code) as an alternative to a product or service to be specifically developed for a selected acquisition program, including evaluation of the benefits of reduced risk regarding cost, schedule, and performance associated with commercial products, commercial services, and nondevelopmental items.
 
 "(b)
 

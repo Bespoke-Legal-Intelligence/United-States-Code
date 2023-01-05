@@ -40,7 +40,7 @@ Estoppel.—
 
 &emsp;(1)
 
-Proceedings before the office.—The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not request or maintain a proceeding before the Office with respect to that claim on any ground that the petitioner raisedor reasonably could have raised during that inter partes review.
+Proceedings before the office.—The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not request or maintain a proceeding before the Office with respect to that claim on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
 
 &emsp;(2)
 

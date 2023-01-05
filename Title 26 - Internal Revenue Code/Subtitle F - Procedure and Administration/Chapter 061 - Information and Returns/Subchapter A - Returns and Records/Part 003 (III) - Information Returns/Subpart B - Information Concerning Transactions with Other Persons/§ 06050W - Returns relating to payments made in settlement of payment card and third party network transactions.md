@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (e) De minimis exception for third party settlement organizations
 
-A third party settlement organization shall not be required to report any information under subsection (a) with respect to third party network transactions of any participating payee if the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions does not exceed $600.
+A third party settlement organization shall not be required to report any information under subsection (a) with respect to third party network transactions of any participating payee ifthe amount which would otherwise be reported under subsection (a)(2) with respect to such transactions does not exceed $600.
 
 #### (f) Statements to be furnished to persons with respect to whom information is required
 

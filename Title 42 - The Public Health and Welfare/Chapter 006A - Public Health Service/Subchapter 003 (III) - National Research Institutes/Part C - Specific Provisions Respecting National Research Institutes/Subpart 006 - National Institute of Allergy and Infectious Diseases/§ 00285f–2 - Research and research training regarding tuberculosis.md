@@ -2,7 +2,7 @@
 
 In carrying out section 285f of this title, the Director of the Institute shall conduct or support research and research training regarding the cause, diagnosis, early detection, prevention and treatment of tuberculosis.
 
-(July 1, 1944, ch. 373, title IV, §447A, formerly §447, as added Pub. L. 103–183, title III, §302(a), Dec. 14, 1993, 107 Stat. 2235; renumbered §447A,Pub. L. 105–392, title IV, §401(b)(3), Nov. 13, 1998, 112 Stat. 3587; amended Pub. L. 109–482, title I, §103(b)(27), Jan. 15, 2007, 120 Stat. 3688.)
+(July 1, 1944, ch. 373, title IV, §447A, formerly §447, as added Pub. L. 103–183, title III, §302(a), Dec. 14, 1993, 107 Stat. 2235; renumbered §447A, Pub. L. 105–392, title IV, §401(b)(3), Nov. 13, 1998, 112 Stat. 3587; amended Pub. L. 109–482, title I, §103(b)(27), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### <b>Editorial Notes</b>
 

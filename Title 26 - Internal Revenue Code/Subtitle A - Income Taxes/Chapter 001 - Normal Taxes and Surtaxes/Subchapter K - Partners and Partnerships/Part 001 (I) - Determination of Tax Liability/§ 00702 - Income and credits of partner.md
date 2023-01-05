@@ -72,7 +72,7 @@ Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxab
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 612(c) ofPub. L. 99–514, set out as a note under section 301 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 612(c) of Pub. L. 99–514, set out as a note under section 301 of this title.
 
 #### Effective Date of 1984 Amendment
 

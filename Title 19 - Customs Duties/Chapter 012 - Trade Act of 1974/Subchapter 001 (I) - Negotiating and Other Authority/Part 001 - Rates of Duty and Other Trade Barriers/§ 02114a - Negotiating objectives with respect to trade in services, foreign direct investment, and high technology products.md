@@ -48,7 +48,7 @@ Principal United States negotiating objectives shall be—
 
 &emsp;&emsp;(B) measures which deny national treatment or otherwise discriminate in favor of domestic high technology industries;
 
-&emsp;&emsp;(C) measures which fail to provide adequate and effective means for foreign nationals to secure, exercise, and enforce exclusive rights in intellectual property (including trademarks, patents, and copyrights);
+&emsp;&emsp;(C) measures which fail to provide adequate and effective means for foreign nationals to secure, exercise, and enforce exclusiverights in intellectual property (including trademarks, patents, and copyrights);
 
 &emsp;&emsp;(D) measures which impair access to domestic markets for key commodity products; and
 

@@ -1,12 +1,12 @@
 ### §2194. Education partnerships
 
-(a) The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, business, law, technology transfer or transition and engineering education.
+(a) The Secretary of Defense shall authorize the director of each defense laboratory to enterinto one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, business, law, technology transfer or transition and engineering education.
 
 (b) Under a partnership agreement entered into with an educational institution under this section, the director of a defense laboratory may provide, and is encouraged to provide, assistance to the educational institution by—
 
 &emsp;(1) loaning defense laboratory equipment to the institution for any purpose and duration in support of such agreement that the director considers appropriate;
 
-&emsp;(2) notwithstanding the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any provision of law orregulation relating to transfers of surplus property, transferring to the institution any computer equipment, or other scientific equipment, that is—
+&emsp;(2) notwithstanding the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any provision of law or regulation relating to transfers of surplus property, transferring to the institution any computer equipment, or other scientific equipment, that is—
 
 &emsp;&emsp;(A) commonly used by educational institutions;
 

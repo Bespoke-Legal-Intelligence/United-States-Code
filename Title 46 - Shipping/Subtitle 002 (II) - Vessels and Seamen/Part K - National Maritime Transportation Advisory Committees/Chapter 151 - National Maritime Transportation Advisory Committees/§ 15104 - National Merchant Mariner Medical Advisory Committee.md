@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is established a National Merchant Mariner Medical AdvisoryCommittee (in this section referred to as the "Committee").
+Establishment.—There is established a National Merchant Mariner Medical Advisory Committee (in this section referred to as the "Committee").
 
 (b)
 

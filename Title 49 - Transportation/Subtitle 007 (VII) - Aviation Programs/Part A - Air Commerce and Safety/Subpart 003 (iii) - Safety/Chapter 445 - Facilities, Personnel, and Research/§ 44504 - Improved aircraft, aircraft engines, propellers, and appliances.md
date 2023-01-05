@@ -28,7 +28,7 @@ Research.—The Administrator shall conduct or supervise research—
 
 Authority To Buy Items Offering Special Advantages.—In carrying out this section, the Administrator, by negotiation or otherwise, may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1176; Pub. L. 106–181, title IX, §904, Apr. 5, 2000, 114Stat. 196; Pub. L. 112–95, title IX, §903(a), Feb. 14, 2012, 126 Stat. 138.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1176; Pub. L. 106–181, title IX, §904, Apr. 5, 2000, 114 Stat. 196; Pub. L. 112–95, title IX, §903(a), Feb. 14, 2012, 126 Stat. 138.)
 
 Historical and Revision Notes
 
@@ -83,6 +83,118 @@ In subsection (a), the words "to improve" are substituted for "such . . . as t
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Alternative Fuel and Low-Emission Aviation Technology Program
+
+Pub. L. 117–169, title IV, §40007, Aug. 16, 2022, 136 Stat. 2030, provided that:
+
+"(a)
+
+Appropriation and Establishment.—For purposes of establishing a competitive grant program for eligible entities to carry out projects located in the United States that produce, transport, blend, or store sustainable aviation fuel, or develop, demonstrate, or apply low-emission aviation technologies, in addition to amounts otherwise available, there are appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, to remain available until September 30, 2026—
+
+&emsp;"(1) $244,530,000 for projects relating to the production, transportation, blending, or storage of sustainable aviation fuel;
+
+&emsp;"(2) $46,530,000 for projects relating to low-emission aviation technologies; and
+
+&emsp;"(3) $5,940,000 to fund the award of grants under this section, and oversight of the program, by the Secretary.
+
+"(b)
+
+Considerations.—In carrying out subsection (a), the Secretary shall consider, with respect to a proposed project—
+
+&emsp;"(1) the capacity for the eligible entity to increase the domestic production and deployment of sustainable aviation fuel or the use of low-emission aviation technologies among the United States commercial aviation and aerospace industry;
+
+&emsp;"(2) the projected greenhouse gas emissions from such project, including emissions resulting from the development of the project, and the potential the project has to reduce or displace, on a lifecycle basis, United States greenhouse gas emissions associated with air travel;
+
+&emsp;"(3) the capacity to create new jobs and develop supply chain partnerships in the United States;
+
+&emsp;"(4) for projects related to the production of sustainable aviation fuel, the projected lifecycle greenhouse gas emissions benefits from the proposed project, which shall include feedstock and fuel production and potential direct and indirect greenhouse gas emissions (including resulting from changes in land use); and
+
+&emsp;"(5) the benefits of ensuring a diversity of feedstocks for sustainable aviation fuel, including the use of waste carbon oxides and direct air capture.
+
+"(c)
+
+Cost Share.—The Federal share of the cost of a project carried out using grant funds under subsection (a) shall be 75 percent of the total proposed cost of the project, except that such Federal share shall increase to 90 percent of the total proposed cost of the project if the eligible entity is a small hub airport or nonhub airport, as such terms are defined in section 47102 of title 49, United States Code.
+
+"(d)
+
+Fuel Emissions Reduction Test.—For purposes of clause (ii) of subsection (e)(7)(E), the Secretary shall, not later than 2 years after the date of enactment of this section \[Aug. 16, 2022\], adopt at least 1 methodology for testing lifecycle greenhouse gas emissions that meets the requirements of such clause.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Eligible entity.—The term 'eligible entity' means—
+
+&emsp;&emsp;"(A) a State or local government, including the District of Columbia, other than an airport sponsor;
+
+&emsp;&emsp;"(B) an air carrier;
+
+&emsp;&emsp;"(C) an airport sponsor;
+
+&emsp;&emsp;"(D) an accredited institution of higher education;
+
+&emsp;&emsp;"(E) a research institution;
+
+&emsp;&emsp;"(F) a person or entity engaged in the production, transportation, blending, or storage of sustainable aviation fuel in the United States or feedstocks in the United States that could be used to produce sustainable aviation fuel;
+
+&emsp;&emsp;"(G) a person or entity engaged in the development, demonstration, or application of low-emission aviation technologies; or
+
+&emsp;&emsp;"(H) nonprofit entities or nonprofit consortia with experience in sustainable aviation fuels, low-emission aviation technologies, or other clean transportation research programs.
+
+&emsp;"(2)
+
+Feedstock.—The term 'feedstock' means sources of hydrogen and carbon not originating from unrefined or refined petrochemicals.
+
+&emsp;"(3)
+
+Induced land-use change values.—The term 'induced land-use change values' means the greenhouse gas emissions resulting from the conversion of land to the production of feedstocks and from the conversion of other land due to the displacement of crops or animals for which the original land was previously used.
+
+&emsp;"(4)
+
+Lifecycle greenhouse gas emissions.—The term 'lifecycle greenhouse gas emissions' means the combined greenhouse gas emissions from feedstock production, collection of feedstock, transportation of feedstock to fuel production facilities, conversion of feedstock to fuel, transportation and distribution of fuel, and fuel combustion in an aircraft engine, as well as from induced land-use change values.
+
+&emsp;"(5)
+
+Low-emission aviation technologies.—The term 'low-emission aviation technologies' means technologies, produced in the United States, that significantly—
+
+&emsp;&emsp;"(A) improve aircraft fuel efficiency;
+
+&emsp;&emsp;"(B) increase utilization of sustainable aviation fuel; or
+
+&emsp;&emsp;"(C) reduce greenhouse gas emissions produced during operation of civil aircraft.
+
+&emsp;"(6)
+
+Secretary.—The term 'Secretary' means the Secretary of Transportation.
+
+&emsp;"(7)
+
+Sustainable aviation fuel.—The term 'sustainable aviation fuel' means liquid fuel, produced in the United States, that—
+
+&emsp;&emsp;"(A) consists of synthesized hydrocarbons;
+
+&emsp;&emsp;"(B) meets the requirements of—
+
+&emsp;&emsp;&emsp;"(i) ASTM International Standard D7566; or
+
+&emsp;&emsp;&emsp;"(ii) the co-processing provisions of ASTM International Standard D1655, Annex A1 (or such successor standard);
+
+&emsp;&emsp;"(C) is derived from biomass (in a similar manner as such term is defined in section 45K(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 45K(c)(3)\]), waste streams, renewable energy sources, or gaseous carbon oxides;
+
+&emsp;&emsp;"(D) is not derived from palm fatty acid distillates; and
+
+&emsp;&emsp;"(E) achieves at least a 50 percent lifecycle greenhouse gas emissions reduction in comparison with petroleum-based jet fuel, as determined by a test that shows—
+
+&emsp;&emsp;&emsp;"(i) the fuel production pathway achieves at least a 50 percent reduction of the aggregate attributional core lifecycle emissions and the induced land-use change values under a lifecycle methodology for sustainable aviation fuels similar to that adopted by the International Civil Aviation Organization with the agreement of the United States; or
+
+&emsp;&emsp;&emsp;"(ii) the fuel production pathway achieves at least a 50 percent reduction of the aggregate attributional core lifecycle greenhouse gas emissions values and the induced land-use change values under another methodology that the Secretary determines is—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) reflective of the latest scientific understanding of lifecycle greenhouse gas emissions; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) as stringent as the requirement under clause (i)."
 
 #### Crash-Resistant Fuel Systems
 
@@ -226,7 +338,7 @@ Pub. L. 108–176, title VII, §711, Dec. 12, 2003, 117 Stat. 2585, provided tha
 
 "(a)
 
-Objective.—The Administrator of the Federal Aviation Administration shall establish a rotorcraft initiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12, 2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
+Objective.—The Administrator of the Federal Aviation Administration shall establish a rotorcraftinitiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12, 2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
 
 &emsp;"(1) 80 percent reduction in noise levels on takeoff and on approach and landing as perceived by a human observer.
 

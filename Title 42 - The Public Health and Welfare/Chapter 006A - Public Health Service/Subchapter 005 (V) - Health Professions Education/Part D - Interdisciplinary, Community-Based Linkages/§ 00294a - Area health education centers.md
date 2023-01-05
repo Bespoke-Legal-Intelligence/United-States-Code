@@ -42,7 +42,7 @@ The Secretary shall make the following 2 types of awards in accordance with this
 
 &emsp;&emsp;(D) Conduct and participate in interdisciplinary training that involves physicians, physician assistants, nurse practitioners, nurse midwives, dentists, psychologists, pharmacists, optometrists, community health workers, public and allied health professionals, or other health professionals, as practicable.
 
-&emsp;&emsp;(E) Deliver or facilitate continuing education and information dissemination programs for health care professionals, with an emphasis on individuals providing care in underserved areas and for health disparity populations.
+&emsp;&emsp;(E) Deliver or facilitate continuing education and information dissemination programs for health care professionals, with an emphasis on individuals providing care inunderserved areas and for health disparity populations.
 
 &emsp;&emsp;(F) Propose and implement effective program and outcomes measurement and evaluation strategies.
 
@@ -80,7 +80,7 @@ The Secretary shall make the following 2 types of awards in accordance with this
 
 &emsp;&emsp;(B) is not a school of medicine or osteopathic medicine, the parent institution of such a school, or a branch campus or other subunit of a school of medicine or osteopathic medicine or its parent institution, or a consortium of such entities;
 
-&emsp;&emsp;(C) designates an underserved area or population to be served by the center which is in a location removed from the main location of the teaching facilities of the schools participating in the program with such center and does not duplicate, in whole or inpart, the geographic area or population served by any other center;
+&emsp;&emsp;(C) designates an underserved area or population to be served by the center which is in a location removed from the main location of the teaching facilities of the schools participating in the program with such center and does not duplicate, in whole or in part, the geographic area or population served by any other center;
 
 &emsp;&emsp;(D) fosters networking and collaboration among communities and between academic health centers and community-based centers;
 
@@ -100,7 +100,7 @@ Not less than 75 percent of the total amount provided to an area health educatio
 
 #### (g) Award
 
-An award to an entity under this section shall be not less than $250,000 annually per area health education center included in the program involved. If amounts appropriated to carry out this section are not sufficient to comply with the preceding sentence, the Secretary may reduce the per center amount provided for in such sentence as necessary, provided the distribution established in subsection (j)(2) is maintained.
+An award to an entity under this section shall be not less than $250,000 annually per areahealth education center included in the program involved. If amounts appropriated to carry out this section are not sufficient to comply with the preceding sentence, the Secretary may reduce the per center amount provided for in such sentence as necessary, provided the distribution established in subsection (j)(2) is maintained.
 
 #### (h) Project terms
 
@@ -180,9 +180,13 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 #### Waiver of Requirements
 
-Pub. L. 116–260, div. H, title II, Dec. 27, 2020, 134 Stat. 1567, provided in part: "That for any program operating under section 751 of the PHS \[Public Health Service\] Act \[42 U.S.C. 294a\] on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the 'Secretary') may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
+Pub. L. 117–328, div. H, title II, Dec. 29, 2022, 136 Stat. 4854, provided in part: "That for any program operating under section 751 of the PHS \[Public Health Service\] Act on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the 'Secretary') may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. H, title II, Mar. 15, 2022, 136 Stat. 442.
+
+Pub. L. 116–260, div. H, title II, Dec. 27, 2020, 134 Stat. 1567.
 
 Pub. L. 116–94, div. A, title II, Dec. 20, 2019, 133 Stat. 2556.
 

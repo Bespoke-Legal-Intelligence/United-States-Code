@@ -24,9 +24,9 @@
 
 &emsp;The Commission—
 
-&emsp;&emsp;(A) shall use the minimum State law requirements under paragraph (1) solely for the purpose of determining the eligibility of a State for a grant under section 8004 of this title; and
+&emsp;&emsp;(A) shall use the minimum State law requirements under paragraph (1) solely for the purpose of determining the eligibility of a covered entity for a grant under section 8004 of this title; and
 
-&emsp;&emsp;(B) may not enforce any requirement under paragraph (1) except for the purpose of determining the eligibility of a State for a grant under section 8004 of this title.
+&emsp;&emsp;(B) may not enforce any requirement under paragraph (1) except for the purpose of determining the eligibility of a covered entity for a grant under section 8004 of this title.
 
 #### (3) Requirements to reflect national performance standards and Commission guidelines
 
@@ -68,7 +68,7 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 #### (A) Safety vacuum release system
 
-&emsp;&emsp;A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 or ASTM standard F2387, or any successor standard.
+&emsp;&emsp;A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 orASTM standard F2387, or any successor standard.
 
 #### (B) Suction-limiting vent system
 
@@ -94,11 +94,19 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 &emsp;Any device or system described in subparagraphs (B) through (E) of paragraph (1) shall meet the requirements of any ASME/ANSI or ASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
 
-(Pub. L. 110–140, title XIV, §1406, Dec. 19, 2007, 121 Stat. 1797; Pub. L. 113–76, div. E, title V, §501(2), Jan. 17, 2014, 128 Stat. 209.)
+#### (e) State defined
+
+In this section, the term "State" includes an Indian Tribe.
+
+(Pub. L. 110–140, title XIV, §1406, Dec. 19, 2007, 121 Stat. 1797; Pub. L. 113–76, div. E, title V, §501(2), Jan. 17, 2014, 128 Stat. 209; Pub. L. 117–328, div. BB, title IV, §402(b), Dec. 29, 2022, 136 Stat. 5563.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–328, §402(b)(1), substituted "the eligibility of a covered entity" for "the eligibility of a State" in subpars. (A) and (B).
+
+Subsec. (e). Pub. L. 117–328, §402(b)(2), added subsec. (e).
 
 <b>2014</b>—Subsec. (a)(1)(A). Pub. L. 113–76, §501(2)(A), inserted "and" at end of cl. (i), redesignated cl. (iii) as (ii) and inserted "and" at end, and struck out former cl. (ii) and cls. (iv) and (v) which read as follows:
 

@@ -1,6 +1,6 @@
 ### §620. Upper Colorado River Basin; purpose of development of water resources; initial units; construction of Wayne N. Aspinall unit contingent upon certification; participating projects; Rainbow Bridge National Monument
 
-In order to initiate the comprehensive development of the water resources of the Upper Colorado River Basin, for the purposes, among others, of regulating the flow of the Colorado River, storing water for beneficial consumptive use, making it possible for the States of the Upper Basin to utilize, consistently with the provisions of the Colorado River Compact, the apportionments made to and among them in the Colorado River Compact and the Upper Colorado River Basin Compact, respectively, providing for the reclamation of arid and semiarid land, for the control of floods, and for the generation of hydroelectric power, as an incident of the foregoing purposes, the Secretary of the Interior is authorized (1) to construct, operate, and maintain the following initial units of the Colorado River storage project, consisting of dams, reservoirs, powerplants, transmission facilities and appurtenant works: Wayne N. Aspinall, Flaming Gorge, Navajo (dam and reservoir only), and Glen Canyon: <i>Provided</i>, That the Wayne N.Aspinall Dam shall be constructed to a height which will impound not less than nine hundred and forty thousand acre-feet of water or will create a reservoir of such greater capacity as can be obtained by a high waterline located at seven thousand five hundred and twenty feet above mean sea level, and that construction thereof shall not be undertaken until the Secretary has, on the basis of further engineering and economic investigations, reexamined the economic justification of such unit and, accompanied by appropriate documentation in the form of a supplemental report, has certified to the Congress and to the President that, in his judgment, the benefits of such unit will exceed its costs; and (2) to construct, operate, and maintain the following additional reclamation projects (including power-generating and transmission facilities related thereto), hereinafter referred to as participating projects: Central Utah (initial phase and the Uintah unit), San Juan-Chama (initial stage), Emery County, Florida, Hammond, La Barge, Lyman, Navajo Indian, Paonia (including the Minnesota unit, a dam and reservoir on Muddy Creek just above its confluence with the North Fork of the Gunnison River, and other necessary works), Animas-La Plata, Dolores, Dallas Creek, West Divide, San Miguel, Seedskadee, Savery-Pot Hook, Bostwick Park, Fruitland Mesa, the Navajo-Gallup Water Supply Project, Silt and Smith Fork: <i>Provided further</i>, That as part of the Glen Canyon Unit the Secretary of the Interior shall take adequate protective measures to preclude impairment of the Rainbow Bridge National Monument.
+In order to initiate the comprehensive development of the water resources of the Upper Colorado River Basin, for the purposes, among others, of regulating the flow of the Colorado River, storing water for beneficial consumptive use, making it possible for the States of the Upper Basin to utilize, consistently with the provisions of the Colorado River Compact, the apportionments made to and among them in the Colorado River Compact and the Upper Colorado River Basin Compact, respectively, providing for the reclamation of arid and semiarid land, for the control of floods, and for the generation of hydroelectric power, as an incident of the foregoing purposes, the Secretary of the Interior is authorized (1) to construct, operate, and maintain the following initial units of the Colorado River storage project, consisting of dams, reservoirs, powerplants, transmission facilities and appurtenant works: Wayne N. Aspinall, Flaming Gorge, Navajo (dam and reservoir only), and Glen Canyon: <i>Provided</i>, That the Wayne N. Aspinall Dam shall be constructed to a height which will impound not less than nine hundred and forty thousand acre-feet of water or will create a reservoir of such greater capacity as can be obtained by a high waterline located at seven thousand five hundred and twenty feet above mean sea level, and that construction thereof shall not be undertaken until the Secretary has, on the basis of further engineering and economic investigations, reexamined the economic justification of such unit and, accompanied by appropriate documentation in the form of a supplemental report, has certified to the Congress and to the President that, in his judgment, the benefits of such unit will exceed its costs; and (2) to construct, operate, and maintain the following additional reclamation projects (including power-generating and transmission facilities related thereto), hereinafterreferred to as participating projects: Central Utah (initial phase and the Uintah unit), San Juan-Chama (initial stage), Emery County, Florida, Hammond, La Barge, Lyman, Navajo Indian, Paonia (including the Minnesota unit, a dam and reservoir on Muddy Creek just above its confluence with the North Fork of the Gunnison River, and other necessary works), Animas-La Plata, Dolores, Dallas Creek, West Divide, San Miguel, Seedskadee, Savery-Pot Hook, Bostwick Park, Fruitland Mesa, the Navajo-Gallup Water Supply Project, Silt and Smith Fork: <i>Provided further</i>, That as part of the Glen Canyon Unit the Secretary of the Interior shall take adequate protective measures to preclude impairment of the Rainbow Bridge National Monument.
 
 (Apr. 11, 1956, ch. 203, §1, 70 Stat. 105; Pub. L. 87–483, §18, June 13, 1962, 76 Stat. 102; Pub. L. 88–568, §1, Sept. 2, 1964, 78 Stat. 852; Pub. L. 90–537, title V, §501(a), Sept. 30, 1968, 82 Stat. 896; Pub. L. 96–375, §7, Oct. 3, 1980, 94 Stat. 1507; Pub. L. 96–470, title I, §108(c), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 111–11, title X, §10401(a), Mar. 30, 2009, 123 Stat. 1371.)
 
@@ -44,7 +44,7 @@ Pub. L. 90–537, title V, §501(a), Sept. 30, 1968, 82 Stat. 896, provided that
 
 #### Pilot Projects To Increase Colorado River System Water To Address Effects of Historic Drought Conditions
 
-Pub. L. 113–235, div. D, title II, §206, Dec. 16, 2014, 128 Stat. 2312, as amended by Pub. L. 115–244, div. A, title II, §205(a), Sept. 21, 2018, 132 Stat. 2906, provided that:
+Pub. L. 113–235, div. D, title II, §206, Dec. 16, 2014, 128 Stat. 2312, as amended by Pub. L. 115–244, div. A, title II, §205(a), Sept. 21, 2018, 132 Stat. 2906; Pub. L. 117–328, div. CC, §102, Dec. 29, 2022, 136 Stat. 5573, provided that:
 
 "(a)
 
@@ -56,7 +56,7 @@ Administration.—Pilot projects under this section are authorized to be funded 
 
 &emsp;"(1) grants by the Secretary to public entities that use water from the Colorado River Basin for municipal purposes for projects that are implemented by 1 or more non-Federal entities; or
 
-&emsp;"(2) grants or other appropriate financial agreements to provide additional funds for renewing or implementing water conservation agreements that are in existence on the date of enactment of this Act \[Dec. 16, 2014\].
+&emsp;"(2) grants or other appropriate financial agreements to provide funds for new water conservation agreements or for renewing or implementing water conservation agreements that are in existence on the date of enactment of this Act \[Dec. 16, 2014\].
 
 "(c)
 
@@ -64,15 +64,15 @@ Limitations.—
 
 &emsp;"(1) Funds in the Upper Colorado River Basin Fund established by section 5 of the Colorado River Storage Project Act (43 U.S.C. 620d) and the Lower Colorado River Basin Development Fund established by section 403 of the Colorado River Basin Project Act (43 U.S.C. 1543) shall not be used to carry out this section; and
 
-&emsp;"(2) the authority to fund these pilot projects through grants shall terminate on September 30, 2022:<i>Provided</i>, That the Secretary shall not fund pilot projects in the Upper Colorado River Basin without the participation of the Upper Colorado River Division States, acting through the Upper Colorado River Commission.
+&emsp;"(2) the authority to fund these pilot projects through grants shall terminate on September 30, 2024: <i>Provided</i>, That the Secretary shall not fund pilot projects in the Upper Colorado River Basin without the participation of the Upper Colorado River Division States, acting through the Upper Colorado River Commission.
 
 "(d)
 
-Report and Recommendation.—Not later than September 30, 2018, the Secretary shall submit to the Committees on Appropriations and Natural Resources of the House of Representatives and the Committees on Appropriations and Energy and Natural Resources of the Senate a report evaluating the effectiveness of the pilot projects described in subsection (a) and a recommendation to Congress whether the activities undertaken by the pilot projects should be continued."
+Report and Recommendation.—Not later than September 30, 2025, the Secretary shall submit to the Committees on Appropriations and Natural Resources of the House of Representatives and the Committees on Appropriations and Energy and Natural Resources of the Senate a report evaluating the effectiveness of the pilot projects described in subsection (a) and a recommendation to Congress whether the activities undertaken by the pilot projects should be continued."
 
 #### Effect on Federal Water Law
 
-Pub. L. 111–11, title X, §10403, Mar. 30, 2009, 123 Stat. 1375, provided that: "Unless expressly provided in this subtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting section 407, former section 615jj, and section 620n–1 of this title, amending this section, former section 615ss, and section 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and section 407 of this title\], nothing in this subtitle modifies, conflicts with, preempts, or otherwise affects—
+Pub. L. 111–11, title X, §10403, Mar. 30, 2009, 123 Stat. 1375, provided that: "Unless expressly provided in thissubtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting section 407, former section 615jj, and section 620n–1 of this title, amending this section, former section 615ss, and section 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and section 407 of this title\], nothing in this subtitle modifies, conflicts with, preempts, or otherwise affects—
 
 &emsp;"(1) the Boulder Canyon Project Act (43 U.S.C. 617 et seq.);
 
@@ -181,7 +181,7 @@ Rights of the nation.—The Nation may, under the Contract—
 
 &emsp;&emsp;&emsp;"(i) the change or transfer is subject to and consistent with the terms of the Agreement, the Partial Final Decree described in paragraph 3.0 of the Agreement, the Contract, and any other applicable law; and
 
-&emsp;&emsp;&emsp;"(ii) a change or transfer of water use by the Nation does not alter any obligation of theUnited States, the Nation, or another party to pay or repay project construction, operation, maintenance, or replacement costs under this subtitle and the Contract.
+&emsp;&emsp;&emsp;"(ii) a change or transfer of water use by the Nation does not alter any obligation of the United States, the Nation, or another party to pay or repay project construction, operation, maintenance, or replacement costs under this subtitle and the Contract.
 
 "(c)
 
@@ -353,7 +353,7 @@ Navajo-gallup water supply project.—Not later than December 31, 2024, the cons
 
 &emsp;&emsp;"(B)
 
-Extension.—A deadline described in subparagraph (A) may be extended if the Nation, theUnited States (acting through the Secretary), and the State of New Mexico (acting through the New Mexico Interstate Stream Commission) agree that an extension is reasonably necessary.
+Extension.—A deadline described in subparagraph (A) may be extended if the Nation, the United States (acting through the Secretary), and the State of New Mexico (acting through the New Mexico Interstate Stream Commission) agree that an extension is reasonably necessary.
 
 &emsp;"(2)
 

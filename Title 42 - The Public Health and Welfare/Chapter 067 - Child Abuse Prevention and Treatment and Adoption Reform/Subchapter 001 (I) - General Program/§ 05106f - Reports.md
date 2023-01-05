@@ -20,7 +20,7 @@ Not later than 2 years after December 20, 2010, and every 2 years thereafter, th
 
 #### (2) Content of study
 
-&emsp;The study described in paragraph (1) shall be completed in a manner suited to the uniquedesign of citizen review panels, including consideration of the variability among the panels within and between States. The study shall include the following:
+&emsp;The study described in paragraph (1) shall be completed in a manner suited to the unique design of citizen review panels, including consideration of the variability among the panels within and between States. The study shall include the following:
 
 &emsp;&emsp;(A) Data describing the membership, organizational structure, operation, and administration of all citizen review panels and the total number of such panels in each State.
 

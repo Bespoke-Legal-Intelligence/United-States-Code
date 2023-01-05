@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;The term "authorized person" means—
 
-&emsp;&emsp;(A) any agency of a State (or of a political subdivision of a State) which has duties or authority under State law relating to the public health or otherwise has the duty orauthority under State law to regulate blood donations, and
+&emsp;&emsp;(A) any agency of a State (or of a political subdivision of a State) which has duties or authority under State law relating to the public health or otherwise has the duty or authority under State law to regulate blood donations, and
 
 &emsp;&emsp;(B) any entity engaged in the acceptance of blood donations which is licensed or registered by the Food and Drug Administration in connection with the acceptance of such blood donations, and which, in accordance with such regulations as may be prescribed by the Commissioner of Social Security, provides for—
 

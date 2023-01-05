@@ -130,7 +130,7 @@ Subsec. (c)(1). Pub. L. 102–378, §2(77)(B), inserted comma after "8341(h)" in
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–654, §202(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family."
 
-Subsecs. (e), (f)(1), (2). Pub. L. 100–654, §201(c), (d)(1), substituted "former spouse, or person having continued coverage under section 8905a of this title" for "or former spouse".
+Subsecs. (e), (f)(1), (2). Pub. L. 100–654, §201(c), (d)(1), substituted "former spouse, or person having continuedcoverage under section 8905a of this title" for "or former spouse".
 
 Subsec. (f)(3). Pub. L. 100–654, §201(d)(2), added par. (3).
 

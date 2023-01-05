@@ -4,7 +4,7 @@
 
 During fiscal year 2014 and thereafter, with respect to any undercover investigative operation of the United States Secret Service (hereafter referred to in this section as the "Secret Service") that is necessary for the detection and prosecution of crimes against the United States—
 
-&emsp;(1) sums appropriated for the Secret Service, including unobligated balances available from prior fiscal years, may be used for purchasing property, buildings, and other facilities, and for leasing space, within the United States, the District of Columbia, and the territories and possessions of the United States, without regard to sections 1341 and 3324 of title 31, section 8141 of title 40, sections 6301(a), (b)(1) to (3) and 6306(a) of title 41, and section 3901 and chapter 45 of title 41;
+&emsp;(1) sums appropriated for the Secret Service, including unobligated balances available from prior fiscal years, may be used for purchasing property, buildings, and other facilities, and for leasing space, within the United States, the District of Columbia, and the territoriesand possessions of the United States, without regard to sections 1341 and 3324 of title 31, section 8141 of title 40, sections 6301(a), (b)(1) to (3) and 6306(a) of title 41, and section 3901 and chapter 45 of title 41;
 
 &emsp;(2) sums appropriated for the Secret Service, including unobligated balances available from prior fiscal years, may be used to establish or to acquire proprietary corporations or business entities as part of such undercover operation, and to operate such corporations or business entities on a commercial basis, without regard to sections 9102 and 9103 of title 31;
 
@@ -36,7 +36,7 @@ If a corporation or business entity established or acquired as part of an underc
 
 #### Codification
 
-In subsec. (a)(1), "sections 6301(a), (b)(1) to (3) and 6306(a) of title 41," substituted for "sections 3732(a) and 3741 of the Revised Statutes of the United States (41U.S.C. 11(a) and 22)," and "section 3901 and chapter 45 of title 41" substituted for "sections 304(a) and 305 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C 254(a) and 255)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1), "sections 6301(a), (b)(1) to (3) and 6306(a) of title 41," substituted for "sections 3732(a) and 3741 of the Revised Statutes of the United States (41 U.S.C. 11(a) and 22)," and "section 3901 and chapter 45 of title 41" substituted for "sections 304(a) and 305 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C 254(a) and 255)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was enacted as part of the appropriation act cited in the credit to this section, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 

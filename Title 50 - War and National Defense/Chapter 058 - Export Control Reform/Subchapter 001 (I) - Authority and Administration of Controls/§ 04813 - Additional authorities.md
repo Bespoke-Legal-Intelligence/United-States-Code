@@ -8,7 +8,7 @@ In carrying out this subchapter on behalf of the President, the Secretary, in co
 
 &emsp;(2) establish and maintain a list of foreign persons and end-uses that are determined to be a threat to the national security and foreign policy of the United States pursuant to the policy set forth in section 4811(2)(A) of this title;
 
-&emsp;(3) prohibit unauthorized exports, reexports, and in-country transfers of controlled items,including to foreign persons in the United States or outside the United States;
+&emsp;(3) prohibit unauthorized exports, reexports, and in-country transfers of controlled items, including to foreign persons in the United States or outside the United States;
 
 &emsp;(4) restrict exports, reexports, and in-country transfers of any controlled items to any foreign person or end-use listed under paragraph (2);
 
@@ -32,7 +32,7 @@ In carrying out this subchapter on behalf of the President, the Secretary, in co
 
 &emsp;(12) keep the public appropriately apprised of changes in policy, regulations, and procedures established under this subchapter;
 
-&emsp;(13) appoint technical advisory committees in accordance with the Federal Advisory Committee Act \[5 U.S.C. App.\];
+&emsp;(13) appoint technical advisory committees in accordance with the Federal Advisory Committee Act;
 
 &emsp;(14) create, as warranted, exceptions to licensing requirements in order to further the objectives of this subchapter;
 
@@ -76,7 +76,7 @@ The authority under this subchapter may not be used to regulate or prohibit unde
 
 &emsp;&emsp;&emsp;(iii) the reasons why the proposed export, reexport, or in-country transfer is in the national interest of the United States;
 
-&emsp;&emsp;&emsp;(iv) an analysis of the impact of the proposed export, reexport, or in-country transfer on the military capabilities of theforeign country, person, or entity to which such transfer would be made;
+&emsp;&emsp;&emsp;(iv) an analysis of the impact of the proposed export, reexport, or in-country transfer on the military capabilities of the foreign country, person, or entity to which such transfer would be made;
 
 &emsp;&emsp;&emsp;(v) an analysis of the manner in which the proposed export, reexport, or in-country transfer would affect the relative military strengths of countries in the region to which the items that are the subject of such export, reexport, or in-country transfer would be delivered and whether other countries in the region have comparable kinds and amounts of items; and
 
@@ -144,7 +144,7 @@ The Secretary shall deny an application to engage in any activity described in s
 
 This subchapter, referred to in subsecs. (a), (b), (d)(1)(A), and (e), was in the original "this part", meaning part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(13), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(13), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 IEEPA, referred to in subsec. (b), is the International Emergency Economic Powers Act, title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 

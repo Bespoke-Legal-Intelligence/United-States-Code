@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;(2) the term "crime of violence" means— <sup>1</sup>
 
-&emsp;&emsp;(A) an act or series of acts that would constitute a felony against the person or that would constitute a felony against property if the conduct presents a serious risk of physical injury to another, and that would come within the meaning of State or Federal offenses described in section 16 of title 18, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction and whether or not those acts were committed in the special maritime, territorial, or prison jurisdiction of the United States; and
+&emsp;&emsp;(A) an act or series of acts that would constitute a felony against the person or that would constitute a felony against property if the conduct presents a serious risk of physical injury to another, and that would come within the meaning of State or Federal offenses described in section 16 of title 18, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction and whether or not those acts were committed in the special maritime,territorial, or prison jurisdiction of the United States; and
 
 &emsp;&emsp;(B) includes an act or series of acts that would constitute a felony described in subparagraph (A) but for the relationship between the person who takes such action and the individual against whom such action is taken.
 
@@ -58,7 +58,7 @@ Section is comprised of section 40302 of Pub. L. 103–322. Subsec. (e)(5) of se
 
 #### Constitutionality
 
-For constitutionality of this provision of the Violence Against Women Act, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 <i><sup>1</sup></i><i> So in original. The word "means" probably should appear after "(A)" below.</i>
 

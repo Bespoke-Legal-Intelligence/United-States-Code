@@ -10,7 +10,7 @@ Under regulations prescribed by the Secretary, an enlisted member may be detaine
 
 &emsp;(4) for a period of not exceeding thirty days in other cases whether or not specifically covered by this section, when essential to the public interests, and the determination that such detention is essential to the public interests, made in accordance with regulations prescribed by the Secretary, shall be final and conclusive.
 
-> Any member detained in the Coast Guard as provided in this section shall be entitled to receive pay and allowances and benefits under the same conditions as though his enlistment period had not expired, and shall be subject in all respects to the laws and regulations for the governmentof the Coast Guard until his discharge therefrom. Enlisted members detained under the provisions of clause (1) shall be entitled to the pay and allowances provided for enlisted personnel of the Navy detained under similar circumstances.
+> Any member detained in the Coast Guard as provided in this section shall be entitled to receive pay and allowances and benefits under the same conditions as though his enlistment period had not expired, and shall be subject in all respects to the laws and regulations for the government of the Coast Guard until his discharge therefrom. Enlisted members detained under the provisions of clause (1) shall be entitled to the pay and allowances provided for enlisted personnel of the Navy detained under similar circumstances.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 523, §367; Aug. 3, 1950, ch. 536, §22, 64 Stat. 407; July 24, 1956, ch. 692, §§2(4), 3, 70 Stat. 631; Pub. L. 98–557, §§15(a)(3)(A), (C), 17(b)(4), Oct. 30, 1984, 98 Stat. 2865, 2868; renumbered §2314, Pub. L. 115–282, title I, §113(b), Dec. 4, 2018, 132 Stat. 4221.)
 

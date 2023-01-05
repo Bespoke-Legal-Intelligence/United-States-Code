@@ -10,7 +10,7 @@ Market Pay.—(1) In the case of an Under Secretary for Health who is also a phy
 
 (2) The amount of market pay of the Under Secretary for Health under this subsection shall be established by the Secretary.
 
-(3) In establishing the amount of market pay of the Under Secretary for Health under thissubsection, the Secretary shall utilize an appropriate health care labor market selected by the Secretary for purposes of this subsection.
+(3) In establishing the amount of market pay of the Under Secretary for Health under this subsection, the Secretary shall utilize an appropriate health care labor market selected by the Secretary for purposes of this subsection.
 
 (c)
 
@@ -22,5 +22,5 @@ Treatment of Pay.—Pay under this section shall be considered pay for all purpo
 
 #### Prior Provisions
 
-A prior section 7432, added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 189; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title III, §346, Oct. 9, 1996, 110 Stat. 3208, related to written agreements for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
+A prior section 7432, added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 189; amended Pub. L. 102–405, titleIII, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title III, §346, Oct. 9, 1996, 110 Stat. 3208, related to written agreements for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
 

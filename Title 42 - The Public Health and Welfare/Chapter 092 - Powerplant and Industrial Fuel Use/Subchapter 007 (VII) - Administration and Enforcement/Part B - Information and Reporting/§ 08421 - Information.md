@@ -28,7 +28,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original "this Act
 
 #### Amendments
 
-<b>1995</b>—Subsec. (c)(2). Pub. L. 104–66 struck out par. (2) which read as follows: "The Secretary shall include in each annual report to the Congress under section 8482 of this title a summary of information received by the Secretary under this subsection."
+<b>1995</b>—Subsec. (c)(2). Pub. L. 104–66 struck out par. (2) which read as follows: "The Secretary shall include ineach annual report to the Congress under section 8482 of this title a summary of information received by the Secretary under this subsection."
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–42 struck out "or major fuel-burning installation" after "powerplant".
 

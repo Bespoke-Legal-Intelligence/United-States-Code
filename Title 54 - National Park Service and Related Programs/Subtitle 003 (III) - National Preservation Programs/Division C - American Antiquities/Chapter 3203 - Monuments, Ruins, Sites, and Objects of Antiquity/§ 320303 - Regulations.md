@@ -1,6 +1,6 @@
 ### §320303. Regulations
 
-The Secretary, the Secretary of Agriculture, and the Secretary of the Army shall make andpublish uniform regulations for the purpose of carrying out this chapter.
+The Secretary, the Secretary of Agriculture, and the Secretary of the Army shall make and publish uniform regulations for the purpose of carrying out this chapter.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3260.)
 

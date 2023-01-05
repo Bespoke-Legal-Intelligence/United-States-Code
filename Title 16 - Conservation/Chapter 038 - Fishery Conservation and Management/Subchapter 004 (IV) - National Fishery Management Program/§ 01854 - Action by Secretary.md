@@ -90,7 +90,7 @@
 
 #### (e) Rebuilding overfished fisheries
 
-(1) The Secretary shall report annually to the Congress and the Councils on the status of fisheries within each Council's geographical area of authority and identify those fisheries that are overfished or are approaching a condition of being overfished. For those fisheries managed under a fishery management plan or international agreement, the status shall be determined using the criteria for overfishing specified in such plan or agreement. A fishery shall be classified as approaching a condition of being overfished if, based on trends in fishing effort, fishery resource size, and other appropriate factors, the Secretary estimates that the fishery will become overfished within two years.
+(1) The Secretary shall report annually to the Congress and the Councils on the status of fisheries within each Council's geographical area ofauthority and identify those fisheries that are overfished or are approaching a condition of being overfished. For those fisheries managed under a fishery management plan or international agreement, the status shall be determined using the criteria for overfishing specified in such plan or agreement. A fishery shall be classified as approaching a condition of being overfished if, based on trends in fishing effort, fishery resource size, and other appropriate factors, the Secretary estimates that the fishery will become overfished within two years.
 
 (2) If the Secretary determines at any time that a fishery is overfished, the Secretary shall immediately notify the appropriate Council and request that action be taken to end overfishing in the fishery and to implement conservation and management measures to rebuild affected stocks of fish. The Secretary shall publish each notice under this paragraph in the Federal Register.
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(i) be as short as possible, taking into account the status and biology of any overfished stocks of fish, the needs of fishing communities, recommendations by international organizations in which the United States participates, and the interaction of the overfished stock of fish within the marine ecosystem; and
 
-&emsp;&emsp;(ii) not exceed 10 years, except in cases where the biology of the stock of fish, otherenvironmental conditions, or management measures under an international agreement in which the United States participates dictate otherwise;
+&emsp;&emsp;(ii) not exceed 10 years, except in cases where the biology of the stock of fish, other environmental conditions, or management measures under an international agreement in which the United States participates dictate otherwise;
 
 &emsp;(B) allocate both overfishing restrictions and recovery benefits fairly and equitably among sectors of the fishery; and
 
@@ -140,7 +140,7 @@
 
 &emsp;The Secretary shall prepare a fishery management plan or plan amendment under subsection (c) with respect to any highly migratory species fishery to which section 1852(a)(3) of this title applies. In preparing and implementing any such plan or amendment, the Secretary shall—
 
-&emsp;&emsp;(A) consult with and consider the comments and views of affected Councils, commissioners and advisory groups appointed under Acts implementing relevant international fishery agreements pertaining to highly migratory species, and the advisory panel established under section 1852(g) of this title;
+&emsp;&emsp;(A) consult with and consider the comments and views of affected Councils, commissioners and advisory groups appointed under Acts implementing relevant international fishery agreements pertaining tohighly migratory species, and the advisory panel established under section 1852(g) of this title;
 
 &emsp;&emsp;(B) establish an advisory panel under section 1852(g) of this title for each fishery management plan to be prepared under this paragraph;
 
@@ -216,11 +216,11 @@ The provisions of this subsection shall apply in lieu of subsection (e) to a fis
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Paragraph (3), referred to in subsec. (f)(1), was repealed by Pub. L. 104–297, title I, §109(f), Oct. 11, 1996, 110 Stat. 3585.
 
-The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to chapter 16A (§971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
 The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (g)(2), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
@@ -268,7 +268,7 @@ Subsec. (e). Pub. L. 104–297, §109(e), amended heading and text of subsec. (e
 
 Subsec. (f)(3). Pub. L. 104–297, §109(f), struck out par. (3) which related to authority of Secretary over any highly migratory species fishery that is within the area of authority of more than one of certain Councils and to the preparation and amendment of fishery management plans with respect to such fishery.
 
-Subsec. (g). Pub. L. 104–297, §109(g), added subsec. (g) and struck out former subsec. (g) which required the Secretary to establish a 3-year program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of the Gulf of Mexico Fishery Management Council and the South Atlantic Fishery Management Council.
+Subsec. (g). Pub. L. 104–297, §109(g), added subsec. (g) and struck out former subsec. (g) which required the Secretary to establish a 3-year program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of theGulf of Mexico Fishery Management Council and the South Atlantic Fishery Management Council.
 
 Subsec. (h). Pub. L. 104–297, §109(i), added subsec. (h).
 
@@ -416,7 +416,7 @@ Pub. L. 104–297, title I, §109(j), Oct. 11, 1996, 110 Stat. 3587, as amended 
 
 #### Interim Management of Highly Migratory Species Fisheries
 
-Pub. L. 101–627, title I, §108(k), Nov. 28, 1990, 104 Stat. 4447, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Notwithstanding the amendments made by subsections (a) and (g) \[amending section 1852 of this title\], any fishery management plan or amendment which—
+Pub. L. 101–627, title I, §108(k), Nov. 28, 1990, 104 Stat. 4447, as amended by Pub. L. 104–208, div. A, title I,§101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Notwithstanding the amendments made by subsections (a) and (g) \[amending section 1852 of this title\], any fishery management plan or amendment which—
 
 &emsp;"(1) addresses a highly migratory species fishery to which section 304(f)(3) of the Magnuson-Stevens Fishery Conservation and Management Act \[former 16 U.S.C. 1854(f)(3)\] (as amended by this Act) applies,
 

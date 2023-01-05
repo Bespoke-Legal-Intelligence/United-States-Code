@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-In order to assist in increasing the effectiveness and efficiency of administration of public assistance programs by increasing the number of adequately trained public welfare personnel available for work in public assistance programs, there are hereby authorized to be appropriated for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000.
+In order to assist in increasing the effectiveness and efficiency of administration of publicassistance programs by increasing the number of adequately trained public welfare personnel available for work in public assistance programs, there are hereby authorized to be appropriated for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000.
 
 #### (b) Allocation for carrying out direct grant programs
 
@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 87–31, §3(b), substituted "its costs of carrying out the
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–543, title II, §202(b), July 25, 1962, 76 Stat. 208, provided that: "The amendments made by sections 102(c), 123, and 132(d) \[enacting section 727 of this title, amending this section and sections 722 and 726 of this title, and repealing credits to section 1308 of this title and provisions set out as notes under section 1308 of this title\] shall be applicable in the case of fiscal years beginning after June 30, 1962."
+Pub. L. 87–543, title II, §202(b), July 25, 1962, 76 Stat. 208, provided that: "The amendments made by sections102(c), 123, and 132(d) \[enacting section 727 of this title, amending this section and sections 722 and 726 of this title, and repealing credits to section 1308 of this title and provisions set out as notes under section 1308 of this title\] shall be applicable in the case of fiscal years beginning after June 30, 1962."
 
 #### Effective Date of 1961 Amendment
 

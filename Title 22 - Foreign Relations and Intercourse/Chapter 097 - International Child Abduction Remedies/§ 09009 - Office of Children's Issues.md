@@ -10,7 +10,7 @@ Effective April 1, 2000, there shall be assigned to the Office of Children's Iss
 
 #### (c) Embassy contact
 
-The Secretary of State shall designate in each United States diplomatic mission an employeewho shall serve as the point of contact for matters relating to international abductions of children by parents. The Director of the Office shall regularly inform the designated employee of children of United States citizens abducted by parents to that country.
+The Secretary of State shall designate in each United States diplomatic mission an employee who shall serve as the point of contact for matters relating to international abductions of children by parents. The Director of the Office shall regularly inform the designated employee of children of United States citizens abducted by parents to that country.
 
 #### (d) Reports to parents
 

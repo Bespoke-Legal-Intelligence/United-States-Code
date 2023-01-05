@@ -16,7 +16,7 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 (3) Notwithstanding any other provision of law, no trade benefit shall be extended to any country by reason of the extension of any trade benefit to another country under a trade agreement entered into under paragraph (1) with such other country that provides for the elimination or reduction of any duty imposed by the United States.
 
-(4)(A) Notwithstanding paragraph (2), a trade agreement that provides for the elimination or reduction of any duty imposed by the United States may be entered into under paragraph (1) with any country other than Israel if—
+(4)(A) Notwithstanding paragraph (2), a trade agreement that provides for the elimination or reduction of any duty imposed by the UnitedStates may be entered into under paragraph (1) with any country other than Israel if—
 
 &emsp;(i) such country requested the negotiation of such an agreement, and
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 Section 1402 of this title, referred to in subsec. (g)(1)(A), was repealed by Pub. L. 96–39.
 
@@ -222,7 +222,7 @@ General rule.—The requirements of this subparagraph are that with respect to a
 
 &emsp;&emsp;&emsp;"(ii)
 
-Materials produced in united states.—If the cost or value of materials produced in thecustoms territory of the United States is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributable to such United States cost or value may be applied toward determining the percentage referred to in clause (i).
+Materials produced in united states.—If the cost or value of materials produced in the customs territory of the United States is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributable to such United States cost or value may be applied toward determining the percentage referred to in clause (i).
 
 &emsp;"(2)
 
@@ -444,7 +444,7 @@ Rate After Termination of Import Relief.—When import relief under this subtitl
 
 &emsp;&emsp;"(A) the rate of duty conforming to the applicable rate set out in the United States Schedule to Annex 2.1; or
 
-&emsp;&emsp;"(B) the rate of duty resulting from the elimination of the tariff in equal annual stages endingon the date set out in the United States Schedule to Annex 2.1 for the elimination of the tariff.
+&emsp;&emsp;"(B) the rate of duty resulting from the elimination of the tariff in equal annual stages ending on the date set out in the United States Schedule to Annex 2.1 for the elimination of the tariff.
 
 #### "SEC. 214. TERMINATION OF RELIEF AUTHORITY.
 
@@ -570,7 +570,7 @@ Termination of the Agreement.—On the date on which the Agreement ceases to be 
 
 #### United States-Canada Free-Trade Agreement Implementation
 
-Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833;Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 116–113, title VI, §602, Jan. 29, 2020, 134 Stat. 78, provided that:
+Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 116–113, title VI, §602, Jan. 29, 2020, 134 Stat. 78, provided that:
 
 #### "SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
 
@@ -670,7 +670,7 @@ Initial Implementing Regulations.—Initial regulations necessary or appropriate
 
 "(e)
 
-Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill to implement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
+Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of thatAct \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill to implement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
 
 #### "SEC. 103. CONSULTATION AND LAY-OVER REQUIREMENTS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
 
@@ -870,7 +870,7 @@ Definitions.—For purposes of this section:
 
 &emsp;"(3) The term 'direct cost of processing or direct cost of assembling' means the costs directly incurred in, or that can reasonably be allocated to, the production of goods, including—
 
-&emsp;&emsp;"(A) the cost of all labor, including benefits and on-the-job training, labor provided in connection with supervision, quality control, shipping, receiving, storage, packaging, management at the location of the process or assembly, and other likelabor, whether provided by employees or independent contractors;
+&emsp;&emsp;"(A) the cost of all labor, including benefits and on-the-job training, labor provided in connection with supervision, quality control, shipping, receiving, storage, packaging, management at the location of the process or assembly, and other like labor, whether provided by employees or independent contractors;
 
 &emsp;&emsp;"(B) the cost of inspecting and testing the goods;
 
@@ -966,7 +966,7 @@ Definitions.—For purposes of this section:
 
 "(g)
 
-Special Provision Regarding Application of Rules of Origin to Certain Apparel.—The Secretary of Commerce is authorized to issue regulations governing the exportation to Canada of apparel products that are cut, or knit to shape, and sewn, or otherwise assembled, in either Party from fabric produced or obtained in a third country for the purpose of establishing which exports of such products shall be permitted to claim preferential tariff treatment under the rules of origin of the Agreement, to the extent that the Agreement provides for quantitative limits on the availability of preferential tariff treatment for such products.
+Special Provision Regarding Application of Rules of Origin to Certain Apparel.—The Secretary of Commerce is authorized to issue regulations governing the exportation to Canada of apparel products that are cut, or knit to shape, and sewn, or otherwise assembled, in either Party from fabric produced or obtained in a third country for the purpose of establishing which exports of such products shall be permitted to claim preferential tariff treatment under the rules of origin of the Agreement, to the extent that the Agreement provides for quantitative limits on theavailability of preferential tariff treatment for such products.
 
 #### "SEC. 203. CUSTOMS USER FEES.
 
@@ -1206,7 +1206,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;"(C) By no later than the date that is 120 days after the date on which an investigation is initiated under subparagraph (A), the Commission shall make a determination under subparagraph (A) with respect to such investigation.
 
-&emsp;"(D) If the determination made by the Commission under subparagraph (A) with respect to imports of an article is affirmative, the Commission shall find and recommend to the President the amount of import relief that is necessary to remedy the injury found bythe Commission in such affirmative determination, which shall be limited to that set forth in paragraph (3)(C).
+&emsp;"(D) If the determination made by the Commission under subparagraph (A) with respect to imports of an article is affirmative, the Commission shall find and recommend to the President the amount of import relief that is necessary to remedy the injury found by the Commission in such affirmative determination, which shall be limited to that set forth in paragraph (3)(C).
 
 &emsp;"(E)(i) By no later than the date that is 30 days after the date on which a determination is made under subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
 
@@ -1260,7 +1260,7 @@ Relief From Imports From All Countries.—
 
 &emsp;"(B)(i) If, under paragraph (2)(B), the President excludes imports from Canada from action taken under chapter 1 of title II of the Trade Act of 1974, any entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry for which such action is being taken under such chapter may request the Commission to conduct an investigation of imports from Canada of the article that is the subject of such action.
 
-&emsp;"(ii) Upon receiving a request under clause (i), the Commission shall conduct an investigation to determine whether a surge in imports from Canada of the article that is the subject of action being taken under chapter 1 of title II of the Trade Act of 1974 undermines the effectiveness of such action. The Commission shall submit the findings of such investigation to the President by no later than the date that is 30 days after the date on which such request is received by the Commission.
+&emsp;"(ii) Upon receiving a request under clause (i), the Commission shall conduct an investigation to determine whether a surge in imports from Canada of the article that is the subject of action being taken underchapter 1 of title II of the Trade Act of 1974 undermines the effectiveness of such action. The Commission shall submit the findings of such investigation to the President by no later than the date that is 30 days after the date on which such request is received by the Commission.
 
 &emsp;"(C) For purposes of this paragraph, the term 'surge' means a significant increase in imports over the trend for a reasonable, recent base period for which data are available.
 
@@ -1488,7 +1488,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;&emsp;&emsp;"(II) a list of individuals who are qualified to serve on extraordinary challenge committees convened under such chapter,
 
-&emsp;&emsp;"(ii) if the Trade Representative makes a request under paragraph (5)(A)(i) with respect to a final candidate list during any calendar year, prepare byJuly 1 of such calendar year a list of those individuals who are qualified to be added to that final candidate list,
+&emsp;&emsp;"(ii) if the Trade Representative makes a request under paragraph (5)(A)(i) with respect to a final candidate list during any calendar year, prepare by July 1 of such calendar year a list of those individuals who are qualified to be added to that final candidate list,
 
 &emsp;&emsp;"(iii) exercise oversight of the administration of the United States Secretariat that is authorized to be established under subsection (e), and
 
@@ -1542,7 +1542,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;"(iv) No additions may be made to the final form of an amendment described in clause (i) after the final form of such amendment is submitted to the appropriate Congressional Committees under clause (i).
 
-&emsp;"(6)(A) The Trade Representative is the only officer of the Government of the United States authorized toact on behalf of the Government of the United States in making any selection or appointment of an individual to—
+&emsp;"(6)(A) The Trade Representative is the only officer of the Government of the United States authorized to act on behalf of the Government of the United States in making any selection or appointment of an individual to—
 
 &emsp;&emsp;"(i) the rosters described in Annex 1901.2(1) and Annex 1904.13(1) of the Agreement, or
 
@@ -1624,7 +1624,7 @@ Panels and Committees.—
 
 &emsp;"(2) The United States Trade Representative is authorized to transfer to any department or agency of the United States, from sums appropriated pursuant to the authorization provided under paragraph (1) or section 141(g)(1) of the Trade Act of 1974 \[19 U.S.C. 2171(g)(1)\], such funds as may be necessary to facilitate the payment of the expenses described in paragraph (1).
 
-&emsp;"(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscal year may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept.28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
+&emsp;"(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscalyear may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept. 28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
 
 &emsp;"(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United States Secretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
 
@@ -1690,7 +1690,7 @@ Negotiating Authority.—
 
 &emsp;"(B) Special emphasis should be given in negotiating an agreement under paragraph (1) to obtain discipline on Canadian subsidy programs that adversely affect United States industries which directly compete with subsidized imports.
 
-&emsp;"(3) The United States members of the working group established under article 1907 of the Agreement shall consult regularly with the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, and advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding—
+&emsp;"(3) The United States members of the working group established under article 1907 of the Agreement shall consult regularly with the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, and advisorycommittees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding—
 
 &emsp;&emsp;"(A) the issues being considered by the working group; and
 
@@ -1762,7 +1762,7 @@ In General.—If—
 
 &emsp;"(2) the President decides not to exercise the rights of the United States under article 1906 of the Agreement to terminate the Agreement,
 
-> the President shall submit to the Congress a report on such decision which explains why continued adherence to the Agreement is in the national economic interest of the United States. In calculating the 7-year period referred to in paragraph (1), any time during which Canada is a NAFTA country (as defined in section 2(4) of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301(4)\]) shall be disregarded.
+> the President shall submit to the Congress a report on such decision which explains why continued adherence to the Agreement is in the national economic interestof the United States. In calculating the 7-year period referred to in paragraph (1), any time during which Canada is a NAFTA country (as defined in section 2(4) of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301(4)\]) shall be disregarded.
 
 "(b)
 
@@ -2054,7 +2054,7 @@ Shipment of Articles of Israel Through West Bank or Gaza Strip.—The President 
 
 "(d)
 
-Treatment of Cost or Value of Materials.—The President is authorized to proclaim that the cost or value of materials produced in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the cost or value of materials produced in Israel under section 1(c)(i) of Annex 3 of the Agreement, and the direct costs of processing operations performed in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the direct costs of processing operations performed in Israel under section 1(c)(ii) of Annex 3 of the Agreement.
+Treatment of Cost or Value of Materials.—The President is authorized to proclaim that the cost or value of materials produced in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the cost or value of materials produced in Israel under section 1(c)(i) of Annex 3 of the Agreement,and the direct costs of processing operations performed in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the direct costs of processing operations performed in Israel under section 1(c)(ii) of Annex 3 of the Agreement.
 
 "(e)
 
@@ -2128,7 +2128,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 #### "SEC. 404. FAST TRACK PROCEDURES FOR PERISHABLE ARTICLES.
 
-"(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with arequest that emergency relief be granted under subsection (c) with respect to such article.
+"(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974\[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
 
 "(b) Within 14 days after the filing of a petition under subsection (a)—
 
@@ -2200,7 +2200,7 @@ Ex. Ord. No. 13141, Nov. 16, 1999, 64 F.R. 63169, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to further the environmental and trade policy goals of the United States, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The United States is committed to a policy of careful assessment and consideration of the environmental impacts of trade agreements. The United States will factor environmental considerations into the development of its trade negotiating objectives. Responsible agencies will accomplish these goals through a process of ongoing assessment and evaluation, and, in certain instances, written environmental reviews.
+Section 1. <i>Policy</i>. The United States is committed to a policy of careful assessment and consideration of the environmental impacts of trade agreements. TheUnited States will factor environmental considerations into the development of its trade negotiating objectives. Responsible agencies will accomplish these goals through a process of ongoing assessment and evaluation, and, in certain instances, written environmental reviews.
 
 Sec. 2. <i>Purpose and Need</i>. Trade agreements should contribute to the broader goal of sustainable development. Environmental reviews are an important tool to help identify potential environmental effects of trade agreements, both positive and negative, and to help facilitate consideration of appropriate responses to those effects whether in the course of negotiations, through other means, or both.
 

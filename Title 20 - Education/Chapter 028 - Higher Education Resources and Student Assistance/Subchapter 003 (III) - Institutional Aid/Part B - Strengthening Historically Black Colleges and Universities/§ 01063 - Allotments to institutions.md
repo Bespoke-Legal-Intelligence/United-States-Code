@@ -16,7 +16,7 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 (1) Notwithstanding subsections (a) through (c), and subject to subsection (h), if the amount of an award under this section for a part B institution, based on the data provided by the part B institution and the formula under subsections (a) through (c), would be—
 
-&emsp;(A) an amount that is greater than $250,000 but less than $500,000, the Secretary shallaward the part B institution an allotment in the amount of $500,000; and
+&emsp;(A) an amount that is greater than $250,000 but less than $500,000, the Secretary shall award the part B institution an allotment in the amount of $500,000; and
 
 &emsp;(B) an amount that is equal to or less than $250,000, the Secretary shall award the part B institution an allotment in the amount of $250,000.
 
@@ -40,7 +40,7 @@ In any fiscal year that the Secretary determines that Howard University or the U
 
 #### (1) Student requirements for allotment
 
-&emsp;Notwithstanding any other provision of this section, a part B institution that would otherwise be eligible for funds under this part shall not receive an allotment under this part for a fiscal year, including the minimum allotment under subsection (d), if the part B institution, in the academic year preceding such fiscal year—
+&emsp;Notwithstanding any other provision of this section, a part B institution that would otherwise be eligible for funds under this part shall not receive an allotment under this part for afiscal year, including the minimum allotment under subsection (d), if the part B institution, in the academic year preceding such fiscal year—
 
 &emsp;&emsp;(A) did not have any enrolled students who were Pell Grant recipients;
 
@@ -66,7 +66,7 @@ In any fiscal year that the Secretary determines that Howard University or the U
 
 The Act of March 2, 1867, referred to in subsec. (g), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Provisions relating to authorization of appropriations are contained in section 8 of the Act, which is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
 
-The District of Columbia Home Rule Act, referred to in subsec. (g), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. For classification of this Act to the Code, see Tables.
+The District of Columbia Home Rule Act, referred to in subsec. (g), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774. For classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -76,7 +76,7 @@ Another prior section 1063, Pub. L. 89–329, title IV, §403, Nov. 8, 1965, 79 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–39 designated existing provisions as par. (1), redesignated former pars. (1) and\(2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+<b>2009</b>—Subsec. (d). Pub. L. 111–39 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–315, §310(a), amended subsec. (d) generally. Prior to amendment, text read as follows:
 

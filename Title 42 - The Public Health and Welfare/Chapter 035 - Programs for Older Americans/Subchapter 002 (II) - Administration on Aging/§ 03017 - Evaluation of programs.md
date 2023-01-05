@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; scope of evaluation; persons conducting evaluation
 
-The Secretary shall measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, their effectiveness in targeting for services under this chapterunserved older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and unserved older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas), and their structure and mechanisms for delivery of services, including, where appropriate, comparisons with appropriate control groups composed of persons who have not participated in such programs. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated.
+The Secretary shall measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and unserved older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas), and their structure and mechanisms for delivery of services, including, where appropriate, comparisons with appropriate control groups composed of persons who have not participated in such programs. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated.
 
 #### (b) Relationship of programs to health care expenditures
 
@@ -70,7 +70,7 @@ Subsecs. (g), (h). Pub. L. 102–375, §207(2), added subsecs. (g) and (h) and s
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–175 inserted "and older individuals with disabilities" before period at end.
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–459, §206(a), substituted "the Secretary develops and publishes general standards to be used by the Secretary in evaluating the programs and projects assisted under such subchapter" for "he has developed and published general standards to be used by him in evaluating the programs and projects assisted under such section or subchapter".
+<b>1984</b>—Subsec. (b). Pub. L. 98–459, §206(a), substituted "the Secretary develops and publishes general standards to be used by the Secretary in evaluating the programs and projects assisted under such subchapter" for "he has developed and published general standards tobe used by him in evaluating the programs and projects assisted under such section or subchapter".
 
 Subsec. (c). Pub. L. 98–459, §206(b), inserted provision requiring the Secretary to consult with organizations concerned with older individuals, including those representing minority individuals, in carrying out evaluations under this section.
 

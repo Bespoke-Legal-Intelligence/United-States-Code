@@ -2,7 +2,7 @@
 
 #### (a) Payments
 
-Subject to subsection (f), the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) <sup>1</sup> of this title that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
+Subject to subsection (f), the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) <sup>1</sup> of this title that serves two or more such children with severe disabilities, for costsincurred in providing a free appropriate public education to each such child.
 
 #### (b) Payment amount
 
@@ -54,7 +54,7 @@ In this section, the term "local educational agency" has the meaning given that 
 
 Section 7703(a)(1) of this title, referred to in subsec. (a), was in the original "section 7003(a)(1)" and was translated as meaning section 7003(a)(1) of the Elementary and Secondary Education Act of 1965, which is classified to section 7703(a)(1) of this title, to reflect the probable intent of Congress.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Codification
 

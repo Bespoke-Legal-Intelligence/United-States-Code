@@ -40,7 +40,7 @@
 
 &emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered under this chapter and other relevant sources and after notice and opportunity for public comment, the classification of commercial fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
-(2)(A) An authorization shall be granted by the Secretary in accordance with this section for a vessel engaged in a commercial fishery listed under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner and operator, the name and description of the vessel, the fisheries in which it will be engaged, the approximate time, duration, and location of such fishery operations, and the general type and nature of use of the fishing gear and techniques used. Such information shall be in a readily usable format that can be efficiently entered into and utilized by an automated or computerized data processing system. A decal or other physical evidence that the authorization is current and valid shall be issued by the Secretary at the time an authorization is granted, and so long as the authorization remains current and valid, shall be reissued annually thereafter.
+(2)(A) An authorization shall be granted by the Secretary in accordance with this section for a vessel engaged in a commercial fishery listed under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner and operator, the name and description of the vessel, the fisheries in which it will be engaged, the approximate time, duration, and location of such fishery operations, and the general type and nature of use of the fishing gear and techniquesused. Such information shall be in a readily usable format that can be efficiently entered into and utilized by an automated or computerized data processing system. A decal or other physical evidence that the authorization is current and valid shall be issued by the Secretary at the time an authorization is granted, and so long as the authorization remains current and valid, shall be reissued annually thereafter.
 
 (B) No authorization may be granted under this section to the owner of a vessel unless such vessel—
 
@@ -90,7 +90,7 @@
 
 #### (d) Monitoring of incidental takes
 
-(1) The Secretary shall establish a program to monitor incidental mortality and serious injury of marine mammals during the course of commercial fishing operations. The purposes of the monitoring program shall be to—
+(1) The Secretary shall establish a program to monitor incidental mortality and serious injuryof marine mammals during the course of commercial fishing operations. The purposes of the monitoring program shall be to—
 
 &emsp;(A) obtain statistically reliable estimates of incidental mortality and serious injury;
 
@@ -192,13 +192,13 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (C) Members of take reduction teams shall have expertise regarding the conservation or biology of the marine mammal species which the take reduction plan will address, or the fishing practices which result in the incidental mortality and serious injury of such species. Members shall include representatives of Federal agencies, each coastal State which has fisheries which interact with the species or stock, appropriate Regional Fishery Management Councils, interstate fisheries commissions, academic and scientific organizations, environmental groups, all commercial and recreational fisheries groups and gear types which incidentally take the species or stock, Alaska Native organizations or Indian tribal organizations, and others as the Secretary deems appropriate. Take reduction teams shall, to the maximum extent practicable, consist of an equitable balance among representatives of resource user interests and nonuser interests.
 
-(D) Take reduction teams shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.). Meetings of take reduction teams shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
+(D) Take reduction teams shall not be subject to chapter 10 of title 5. Meetings of take reduction teams shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
 
 (E) Members of take reduction teams shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their duties as members of the team.
 
 (7) Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), the following procedures shall apply in the development of the take reduction plan for the stock:
 
-&emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary, consistent with the other provisions of this section.
+&emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary,consistent with the other provisions of this section.
 
 &emsp;(ii) Such draft take reduction plan shall be developed by consensus. In the event consensus cannot be reached, the team shall advise the Secretary in writing on the range of possibilities considered by the team, and the views of both the majority and minority.
 
@@ -228,7 +228,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) The Secretary shall, during a period of 30 days after publication of a final take reduction plan, utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the requirements of the plan and how to comply with them.
 
-&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementationof the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
+&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
@@ -292,7 +292,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 #### (h) Penalties
 
-Except as provided in subsection (c), any person who violates this section shall be subject to the provisions of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title as the Secretary shall establish by regulations.
+Except as provided in subsection (c), any person who violates this section shall be subject tothe provisions of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title as the Secretary shall establish by regulations.
 
 #### (i) Assistance
 
@@ -310,19 +310,19 @@ The Secretary shall consult with the Secretary of the Interior prior to taking a
 
 As used in this section and section 1371(a)(5)(E) of this title, each of the terms "fishery" and "vessel of the United States" has the same meaning it does in section 1802 of this title.
 
-(Pub. L. 92–522, title I, §118, as added Pub. L. 103–238, §11, Apr. 30, 1994, 108 Stat. 546; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 92–522, title I, §118, as added Pub. L. 103–238, §11, Apr. 30, 1994, 108 Stat. 546; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 117–286, §4(a)(109), Dec. 27, 2022, 136 Stat. 4317.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (f)(11), and (g)(1)(C)(iii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (f)(11), and (g)(1)(C)(iii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions set out as a table of National Wildlife Refuges under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(6)(D). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 App. U.S.C.)."
 
 <b>1996</b>—Subsecs. (a)(1), (c)(2)(B)(ii), (l). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802 and 1824(b) of this title.
 
@@ -335,6 +335,24 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### North Atlantic Right Whales and Regulations
+
+Pub. L. 117–328, div. JJ, title I, §101, Dec. 29, 2022, 136 Stat. 6089, provided that:
+
+"(a)
+
+In General.—Notwithstanding any other provision of law except as provided in subsection (b), for the period beginning on the date of enactment of this Act \[Dec. 29, 2022\] and ending on December 31, 2028, the Final Rule amending the regulations implementing the Atlantic Large Whale Take Reduction Plan (86 Fed. Reg. 51970) shall be deemed sufficient to ensure that the continued Federal and State authorizations of the American lobster and Jonah crab fisheries are in full compliance with the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) and the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.). The National Marine Fisheries Service shall—
+
+&emsp;"(1) throughout the period described in the preceding sentence, in consultation with affected States and fishing industry participants, promote the innovation and adoption of gear technologies in the fisheries described in the preceding sentence, in order to implement additional whale protection measures by December 31, 2028;
+
+&emsp;"(2) promulgate new regulations for the American lobster and Jonah crab fisheries consistent with the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) and the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) that take effect by December 31, 2028, utilizing existing and innovative gear technologies, as appropriate; and
+
+&emsp;"(3) in consultation with affected States, submit an annual report to Congress on the status of North Atlantic Right Whales, the actions taken and plans to implement measures expected to not exceed Potential Biological Removal by December 31, 2028, the amount of serious injury and mortality by fishery and country, and the proportion of the American lobster and Jonah crab fisheries that have transitioned to innovative gear technologies that reduce harm to the North Atlantic Right Whale.
+
+"(b)
+
+Exception.—The provisions of subsection (a) shall not apply to an existing emergency rule, or any action taken to extend or make final an emergency rule that is in place on the date of enactment of this Act, affecting lobster and Jonah crab."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Section".</i>
 

@@ -40,7 +40,7 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 #### References in Text
 
-The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in subsec. (b)(7), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in subsec. (b)(7), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -62,7 +62,7 @@ Pub. L. 100–648, §3, Nov. 10, 1988, 102 Stat. 3815, provided that: "Nothing i
 
 Pub. L. 100–648, §4, Nov. 10, 1988, 102 Stat. 3815, provided that:
 
-"(a) The Secretary shall not make any conveyance of land or renunciation of reversionary interests under this Act \[amending section 869–2 of this title and enacting provisions set out as notes under sections 869 and 869–2 of this title\] until he has published in the Federal Register regulations implementing this Act and until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after these regulations have been submitted to the Committee on Energy and Natural Resources of the Senate and the Committee on Interior and Insular Affairs of the House of Representatives. \[Implementing regulations were published in the Federal Register July 23, 1992, 57 F.R. 32730.\]
+"(a) The Secretary shall not make any conveyance of land or renunciation of reversionary interests under this Act \[amending section 869–2 of this title and enacting provisions set out as notes under sections 869 and 869–2 of this title\] until he has published in the Federal Register regulations implementing this Act and until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for morethan three days) after these regulations have been submitted to the Committee on Energy and Natural Resources of the Senate and the Committee on Interior and Insular Affairs of the House of Representatives. \[Implementing regulations were published in the Federal Register July 23, 1992, 57 F.R. 32730.\]
 
 "(b) During the first three years after enactment of this Act \[Nov. 10, 1988\] the Secretary shall not make any conveyance of land or renunciation of reversionary interests under this Act until thirty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after notice of intention to do so has been submitted to the Committee on Energy and Natural Resources of the Senate and the Committee on Interior and Insular Affairs of the House of Representatives."
 

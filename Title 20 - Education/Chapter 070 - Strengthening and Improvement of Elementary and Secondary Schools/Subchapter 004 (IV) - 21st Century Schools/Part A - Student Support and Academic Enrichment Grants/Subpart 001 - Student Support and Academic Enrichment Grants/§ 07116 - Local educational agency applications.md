@@ -36,7 +36,7 @@ If a local educational agency desires to carry out the activities described in t
 
 #### (2) Exception
 
-&emsp;A local educational agency receiving an allocation under section 7115(a) of this title in anamount that is less than $30,000 shall not be required to conduct a comprehensive needs assessment under paragraph (1).
+&emsp;A local educational agency receiving an allocation under section 7115(a) of this title in an amount that is less than $30,000 shall not be required to conduct a comprehensive needs assessment under paragraph (1).
 
 #### (3) Frequency of needs assessment
 

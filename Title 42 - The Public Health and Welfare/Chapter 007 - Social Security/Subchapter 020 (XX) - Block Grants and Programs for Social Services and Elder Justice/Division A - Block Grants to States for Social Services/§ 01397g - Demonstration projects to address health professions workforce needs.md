@@ -20,7 +20,7 @@
 
 #### (B) Consultation and coordination
 
-&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the applicationthat the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce development board established under section 3111 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act") \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
+&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce development board established under section 3111 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act") \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
 
 #### (C) Assurance of opportunities for Indian populations
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;The Secretary shall develop an experimental or control group testing protocol in consultation with an independent evaluation contractor selected by the Secretary. Such contractor shall evaluate—
 
-&emsp;&emsp;&emsp;(i) the impact of core training competencies described in paragraph (3)(A), including curricula developed to implement such core training competencies, for personal or home care aides within each participating State on job satisfaction, mastery of job skills, beneficiary and family caregiver satisfaction with services, andadditional measures determined by the Secretary in consultation with the expert panel;
+&emsp;&emsp;&emsp;(i) the impact of core training competencies described in paragraph (3)(A), including curricula developed to implement such core training competencies, for personal or home care aides within each participating State on job satisfaction, mastery of job skills, beneficiary and family caregiver satisfaction with services, and additional measures determined by the Secretary in consultation with the expert panel;
 
 &emsp;&emsp;&emsp;(ii) the impact of providing such core training competencies on the existing training infrastructure and resources of States; and
 

@@ -10,7 +10,7 @@ Commissions on Land Purchase Contracts.—The maximum amount payable as a commis
 
 (c)
 
-Cost Limitations.—(1) Except as provided in paragraph (2), the cost authorized for a land acquisition project may be increased by not more than 25 percent of the amount appropriated for the project by Congress or 200 percent of the amount specified by law as the maximum amount for a minor military construction project, whichever is lesser, if the Secretary concerned determines (A) that such an increase is required for the sole purpose of meeting unusual variations in cost, and (B) that such variations in cost could not have been reasonably anticipated at the time the project was originally approved by Congress.
+Cost Limitations.—(1) Except as provided in paragraph (2), the cost authorized for a landacquisition project may be increased by not more than 25 percent of the amount appropriated for the project by Congress or 200 percent of the amount specified by law as the maximum amount for a minor military construction project, whichever is lesser, if the Secretary concerned determines (A) that such an increase is required for the sole purpose of meeting unusual variations in cost, and (B) that such variations in cost could not have been reasonably anticipated at the time the project was originally approved by Congress.
 
 (2) Until subsection (d) is complied with, a land acquisition project may not be placed under contract if, based upon the agreed price for the land or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land—
 
@@ -42,7 +42,7 @@ Historical and Revision Notes
 
 July 27, 1954, ch. 579, §501(b) (less provisos), 68 Stat. 560.
 
-The word "property" is substituted for the word "estate". The words "not owned by the United States" aresubstituted for the words "not in Federal ownership". The words "or shall be" are omitted as surplusage.
+The word "property" is substituted for the word "estate". The words "not owned by the United States" are substituted for the words "not in Federal ownership". The words "or shall be" are omitted as surplusage.
 
 #### <b>Editorial Notes</b>
 

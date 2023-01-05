@@ -26,7 +26,7 @@
 
 &emsp;The Lead Warning Statement shall contain the following text printed in large type on a separate sheet of paper attached to the contract:
 
-"Every purchaser of any interest in residential real property on which a residential dwelling was built prior to 1978 is notified that such property may present exposure to lead from lead-based paint that may place young children at risk of developing lead poisoning. Lead poisoning in young children may produce permanent neurological damage, including learning disabilities, reduced intelligence quotient, behavioral problems, and impaired memory. Lead poisoning also poses a particular risk to pregnant women. The seller of any interest in residential real property is required to provide the buyer with any information on lead-based paint hazards from risk assessments or inspections in the seller's possession and notify the buyer of any known lead-based paint hazards. A risk assessment or inspection for possible lead-based paint hazards is recommended prior to purchase.".
+"Every purchaser of any interest in residential real property on which a residential dwelling was built prior to 1978 is notified that such property may present exposure to lead from lead-based paint that may place young children at risk of developing lead poisoning. Lead poisoning in young children may produce permanent neurological damage, including learningdisabilities, reduced intelligence quotient, behavioral problems, and impaired memory. Lead poisoning also poses a particular risk to pregnant women. The seller of any interest in residential real property is required to provide the buyer with any information on lead-based paint hazards from risk assessments or inspections in the seller's possession and notify the buyer of any known lead-based paint hazards. A risk assessment or inspection for possible lead-based paint hazards is recommended prior to purchase.".
 
 #### (4) Compliance assurance
 
@@ -60,7 +60,7 @@
 
 #### (c) Validity of contracts and liens
 
-Nothing in this section shall affect the validity or enforceability of any sale or contract forthe purchase and sale or lease of any interest in residential real property or any loan, loan agreement, mortgage, or lien made or arising in connection with a mortgage loan, nor shall anything in this section create a defect in title.
+Nothing in this section shall affect the validity or enforceability of any sale or contract for the purchase and sale or lease of any interest in residential real property or any loan, loan agreement, mortgage, or lien made or arising in connection with a mortgage loan, nor shall anything in this section create a defect in title.
 
 #### (d) Effective date
 
@@ -72,5 +72,5 @@ The regulations under this section shall take effect 3 years after October 28, 1
 
 #### References in Text
 
-The Toxic Substances Control Act, referred to in subsec. (b)(5), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (b)(5), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 

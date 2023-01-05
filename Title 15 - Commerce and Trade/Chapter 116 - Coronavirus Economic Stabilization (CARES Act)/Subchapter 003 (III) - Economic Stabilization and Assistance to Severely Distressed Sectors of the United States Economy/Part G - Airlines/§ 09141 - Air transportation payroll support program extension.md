@@ -60,7 +60,7 @@ The definitions in section 40102(a) of title 49 shall apply with respect to term
 
 &emsp;&emsp;&emsp;(i) refrain from conducting involuntary furloughs or reducing pay rates or benefits until September 30, 2021, or the date on which assistance provided under this section is exhausted, whichever is later;
 
-&emsp;&emsp;&emsp;(ii) refrain from purchasing an equity security of the contractor or the parent company of the contractor that is listed on anational securities exchange through September 30, 2022;
+&emsp;&emsp;&emsp;(ii) refrain from purchasing an equity security of the contractor or the parent company of the contractor that is listed on a national securities exchange through September 30, 2022;
 
 &emsp;&emsp;&emsp;(iii) refrain from paying dividends, or making other capital distributions, with respect to common stock (or equivalent interest) of the contractor through September 30, 2022;
 

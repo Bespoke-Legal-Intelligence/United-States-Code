@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a program of research and development to provide lower costand more viable thermal energy storage technologies to enable the shifting of electric power loads on demand and extend the operating time of concentrating solar power electric generating plants.
+The Secretary shall establish a program of research and development to provide lower cost and more viable thermal energy storage technologies to enable the shifting of electric power loads on demand and extend the operating time of concentrating solar power electric generating plants.
 
 #### (b) Authorization of appropriations
 

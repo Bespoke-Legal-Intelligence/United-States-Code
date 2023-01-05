@@ -14,7 +14,7 @@
 
 &emsp;(A) by order grant registration, or
 
-&emsp;(B) institute proceedings to determine whether registration should be denied. Such proceedings shall include notice of the grounds for denial under consideration and opportunity for hearing and shall be concluded within 120 days of the date of the filing of the application for registration. At the conclusion of such proceedings, the Commission, by order, shall grant or deny such registration. The Commission may extend the time for the conclusion of such proceedings for up to 90 days if it finds good cause for such extension and publishes its reasons for so finding or for such longer period as to which the applicant consents.
+&emsp;(B) institute proceedings to determine whether registration should be denied. Suchproceedings shall include notice of the grounds for denial under consideration and opportunity for hearing and shall be concluded within 120 days of the date of the filing of the application for registration. At the conclusion of such proceedings, the Commission, by order, shall grant or deny such registration. The Commission may extend the time for the conclusion of such proceedings for up to 90 days if it finds good cause for such extension and publishes its reasons for so finding or for such longer period as to which the applicant consents.
 
 > The Commission shall grant the registration of a government securities broker or a government securities dealer if the Commission finds that the requirements of this section are satisfied. The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership. The Commission shall deny such registration if it does not make such a finding or if it finds that if the applicant were so registered, its registration would be subject to suspension or revocation under subsection (c) of this section.
 
@@ -118,7 +118,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 (5) In promulgating rules and issuing orders under this section, the Secretary—
 
-&emsp;(A) may appropriately classify government securities brokers and government securities dealers (taking into account relevant matters, including types of business done, nature of securities other than government securities purchased or sold, and character of business organization) and persons associated with government securities brokers and government securities dealers;
+&emsp;(A) may appropriately classify government securities brokers and government securitiesdealers (taking into account relevant matters, including types of business done, nature of securities other than government securities purchased or sold, and character of business organization) and persons associated with government securities brokers and government securities dealers;
 
 &emsp;(B) may determine, to the extent consistent with paragraph (2) of this subsection and with the public interest, the protection of investors, and the purposes of this chapter, not to apply, in whole or in part, certain rules under this section, or to apply greater, lesser, or different standards, to certain classes of government securities brokers, government securities dealers, or persons associated with government securities brokers or government securities dealers;
 
@@ -200,7 +200,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 #### (2) Recordkeeping requirements
 
-&emsp;Rules under this subsection may require persons holding, maintaining, or controlling large positions in Treasury securities to make and keep for prescribed periods such records as theSecretary determines are necessary or appropriate to ensure that such persons can comply with reporting requirements under this subsection.
+&emsp;Rules under this subsection may require persons holding, maintaining, or controlling large positions in Treasury securities to make and keep for prescribed periods such records as the Secretary determines are necessary or appropriate to ensure that such persons can comply with reporting requirements under this subsection.
 
 #### (3) Aggregation rules
 
@@ -250,7 +250,7 @@ The Secretary may, by order, take any action with respect to a matter or action 
 
 This chapter, referred to in subsecs. (a)(3), (5), (b)(1), (2)(B), (4)(B), (d)(1), (f)(1), and (g)(2), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-Subchapter VIII of chapter 3 of title 12, referred to in subsec. (b)(2)(C)(ii), was in the original "section 9 of the Federal Reserve Act", meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classifiedgenerally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Subchapter VIII of chapter 3 of title 12, referred to in subsec. (b)(2)(C)(ii), was in the original "section 9 of the Federal Reserve Act", meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 Section 3401(6) of title 12, referred to in subsec. (b)(2)(D)(i), was redesignated section 3401(7) of title 12 by Pub. L. 101–73, title IX, §941(1), Aug. 9, 1989, 103 Stat. 496.
 
@@ -262,7 +262,7 @@ Section 1464(d)(2) and (d)(3) of title 12, referred to in subsec. (c)(2)(C), was
 
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–203, §985(b)(6)(C), inserted after first sentence in concluding provisions: "The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership."
 
-Pub. L. 111–203, §985(b)(6)(A), (B), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and, in subpar. (B), struck out "The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership." after "grant or deny such registration."
+Pub. L. 111–203, §985(b)(6)(A), (B), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and, in subpar. (B), struck out "The order granting registration shall not be effective until such government securities broker or government securitiesdealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78o–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership." after "grant or deny such registration."
 
 Subsec. (c)(1)(C). Pub. L. 111–203, §929F(b)(1), substituted "any person who is, or at the time of the alleged misconduct was, associated or seeking to become associated" for "any person associated, or seeking to become associated,".
 
@@ -336,7 +336,7 @@ Pub. L. 99–571, title IV, §§401–403, Oct. 28, 1986, 100 Stat. 3224, 3225, 
 
 #### "SEC. 402. EFFECTIVE DATE AND REQUIREMENTS FOR REGULATIONS.
 
-"Notwithstanding section 401, the Secretary of the Treasury and each appropriate regulatory agency shall, within 120 days after the date of enactment of this Act \[Oct. 28, 1986\], publish for notice and public comment such regulations as are initially required to implement this Act, which regulations shall become effective astemporary regulations 210 days after the date of enactment of this Act and as final regulations not later than 270 days after the date of enactment of this Act.
+"Notwithstanding section 401, the Secretary of the Treasury and each appropriate regulatory agency shall, within 120 days after the date of enactment of this Act \[Oct. 28, 1986\], publish for notice and public comment such regulations as are initially required to implement this Act, which regulations shall become effective as temporary regulations 210 days after the date of enactment of this Act and as final regulations not later than 270 days after the date of enactment of this Act.
 
 #### "SEC. 403. REGISTRATION DATE.
 

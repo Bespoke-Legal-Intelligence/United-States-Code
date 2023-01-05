@@ -34,13 +34,15 @@ Funding.—From amounts appropriated to the Department for readjustment benefits
 
 (g)
 
-Duration.—The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2022.
+Duration.—The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2024.
 
-(Added Pub. L. 111–275, title II, §203(a), Oct. 13, 2010, 124 Stat. 2874; amended Pub. L. 114–228, title IV, §409, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §408, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §122, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–159, div. E, title II, §5201, Oct. 1, 2020, 134 Stat. 749.)
+(Added Pub. L. 111–275, title II, §203(a), Oct. 13, 2010, 124 Stat. 2874; amended Pub. L. 114–228, title IV, §409, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §408, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §122, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–159, div. E, title II, §5201, Oct. 1, 2020, 134 Stat. 749; Pub. L. 117–180, div. E, title II, §205, Sept. 30, 2022, 136 Stat. 2138.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g). Pub. L. 117–180 substituted "September 30, 2024" for "September 30, 2022".
 
 <b>2020</b>—Subsec. (g). Pub. L. 116–159 substituted "September 30, 2022" for "September 30, 2020".
 

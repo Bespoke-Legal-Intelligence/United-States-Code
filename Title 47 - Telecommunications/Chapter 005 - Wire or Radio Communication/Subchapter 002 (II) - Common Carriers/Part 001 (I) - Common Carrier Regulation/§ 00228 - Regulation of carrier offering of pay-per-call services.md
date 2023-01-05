@@ -28,7 +28,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (1) Contractual obligations to comply
 
-&emsp;Any common carrier assigning to a provider of pay-per-call services a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) shall require by contract or tariff that such provider comply with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] and the regulations prescribed by the Federal Trade Commission pursuant to those titles.
+&emsp;Any common carrier assigning to a provider of pay-per-call services a telephone numberwith a prefix or area code designated by the Commission in accordance with subsection (b)(5) shall require by contract or tariff that such provider comply with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] and the regulations prescribed by the Federal Trade Commission pursuant to those titles.
 
 #### (2) Information availability
 
@@ -46,7 +46,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (3) Compliance procedures
 
-&emsp;A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of pay-per-call services shall terminate, in accordance with procedures specified in suchregulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
+&emsp;A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of pay-per-call services shall terminate, in accordance with procedures specified in such regulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
 
 #### (4) Subscriber disconnection prohibited
 

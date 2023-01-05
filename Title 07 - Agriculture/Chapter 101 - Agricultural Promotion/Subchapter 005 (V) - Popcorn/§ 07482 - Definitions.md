@@ -36,7 +36,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (8) Person
 
-&emsp;The term "person" means an individual, group of individuals, partnership, corporation,association, or cooperative, or any other legal entity.
+&emsp;The term "person" means an individual, group of individuals, partnership, corporation, association, or cooperative, or any other legal entity.
 
 #### (9) Popcorn
 

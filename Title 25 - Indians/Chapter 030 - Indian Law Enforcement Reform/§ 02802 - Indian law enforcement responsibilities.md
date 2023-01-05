@@ -32,9 +32,9 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;(8) the assessment and evaluation of program accomplishments in reducing crime;
 
-&emsp;(9) the development and provision of law enforcement training and technical assistance, including training to properly interview victims of domestic and sexual violence and tocollect, preserve, and present evidence to Federal and tribal prosecutors to increase the conviction rate for domestic and sexual violence offenses for purposes of addressing and preventing domestic and sexual violent offenses;
+&emsp;(9) the development and provision of law enforcement training and technical assistance, including training to properly interview victims of domestic and sexual violence and to collect, preserve, and present evidence to Federal and tribal prosecutors to increase the conviction rate for domestic and sexual violence offenses for purposes of addressing and preventing domestic and sexual violent offenses;
 
-&emsp;(10) the development and provision of dispatch and emergency and E–911 services;
+&emsp;(10) the development and provision of dispatch and emergency and E–⁠911 services;
 
 &emsp;(11) communicating with tribal leaders, tribal community and victims' advocates, tribal justice officials, indigent defense representatives, and residents of Indian country on a regular basis regarding public safety and justice concerns facing tribal communities;
 
@@ -64,7 +64,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;&emsp;(ii) the amount of appropriations obligated for each category described in clause (i) for each fiscal year;
 
-&emsp;&emsp;(B) a list of amounts dedicated to law enforcement and corrections, vehicles, related transportation costs, equipment, inmate transportation costs, inmate transfer costs, replacement, improvement, and repair of facilities, personnel transfers, detailees and costs related to their details, emergency events, public safety and justice communications and technology costs, and tribal court personnel, facilities, indigent defense, and related program costs;
+&emsp;&emsp;(B) a list of amounts dedicated to law enforcement and corrections, vehicles, related transportation costs, equipment, inmatetransportation costs, inmate transfer costs, replacement, improvement, and repair of facilities, personnel transfers, detailees and costs related to their details, emergency events, public safety and justice communications and technology costs, and tribal court personnel, facilities, indigent defense, and related program costs;
 
 &emsp;&emsp;(C) a list of the unmet staffing needs of law enforcement, corrections, and court personnel (including indigent defense and prosecution staff) at tribal and Bureau of Indian Affairs justice agencies, the replacement and repair needs of tribal and Bureau corrections facilities, needs for tribal police and court facilities, and public safety and emergency communications and technology needs; and
 
@@ -82,7 +82,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 (3) The Secretary shall prescribe regulations which shall establish a procedure for active cooperation and consultation of the criminal investigative employees of the Bureau assigned to an Indian reservation with the governmental and law enforcement officials of the Indian tribe located on such reservation.
 
-(4)(i) Criminal investigative personnel of the Branch shall be subject only to the supervision and direction of law enforcement personnel of the Branch or of the Office of Justice Services. Such personnel shall not be subject to the supervision of the Bureau of Indian Affairs Agency Superintendent or Bureau of Indian Affairs Area Office Director. Nothing in this paragraph is intended to prohibit cooperation, coordination, or consultation, as appropriate, with nonlaw enforcement Bureau of Indian Affairs personnel at the agency or area levels, or prohibit or restrict the right of a tribe to contract the investigativeprogram under the authority of Public Law 93–638 \[25 U.S.C. 5301 et seq.\] or to maintain its own criminal investigative operations.
+(4)(i) Criminal investigative personnel of the Branch shall be subject only to the supervision and direction of law enforcement personnel of the Branch or of the Office of Justice Services. Such personnel shall not be subject to the supervision of the Bureau of Indian Affairs Agency Superintendent or Bureau of Indian Affairs Area Office Director. Nothing in this paragraph is intended to prohibit cooperation, coordination, or consultation, as appropriate, with nonlaw enforcement Bureau of Indian Affairs personnel at the agency or area levels, or prohibit or restrict the right of a tribe to contract the investigative program under the authority of Public Law 93–638 \[25 U.S.C. 5301 et seq.\] or to maintain its own criminal investigative operations.
 
 (ii) At the end of one year following the date of establishment of the separate Branch of Criminal Investigations, any tribe may, by resolution of the governing body of the tribe, request the Secretary to reestablish line authority through the Agency Superintendent or Bureau of Indian Affairs Area Office Director. In the absence of good cause to the contrary, the Secretary, upon receipt of such resolution, shall reestablish the line authority as requested by the tribe.
 
@@ -146,7 +146,7 @@ Not later than 1 year after July 29, 2010, the Secretary, acting through the Bur
 
 #### References in Text
 
-Public Law 93–638 and the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (d)(4)(i) and (e)(4)(B), are Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classifiedprincipally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Public Law 93–638 and the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (d)(4)(i) and (e)(4)(B), are Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Amendments
 

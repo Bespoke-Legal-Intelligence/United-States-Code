@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(D) Any eligible pulse crop acreage, which shall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
 
-&emsp;&emsp;(E) If the Secretary designates additional oilseeds, any eligible oilseed acreage, whichshall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
+&emsp;&emsp;(E) If the Secretary designates additional oilseeds, any eligible oilseed acreage, which shall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
 
 #### (3) Selection of acres
 
@@ -84,7 +84,7 @@
 
 #### (1) Prohibition on payments
 
-&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of this chapter, a producer on a farm may not receive direct payments, counter-cyclical payments, or average crop revenue election payments if the sum of the base acres of the farm is 10 acres or less, as determined by the Secretary.
+&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of this chapter, a producer on a farm may not receive direct payments, counter-cyclical payments, oraverage crop revenue election payments if the sum of the base acres of the farm is 10 acres or less, as determined by the Secretary.
 
 #### (2) Exceptions
 

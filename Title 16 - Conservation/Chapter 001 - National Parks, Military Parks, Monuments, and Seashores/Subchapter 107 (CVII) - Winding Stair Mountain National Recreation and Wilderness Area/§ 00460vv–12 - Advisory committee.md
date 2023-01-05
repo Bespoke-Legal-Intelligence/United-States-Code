@@ -1,18 +1,18 @@
 ### §460vv–12. Advisory committee
 
-Pursuant to the Federal Advisory Committee Act (Public Law 92–463), no later than 90 daysafter October 18, 1988, the Secretary is directed to establish an advisory committee for Ouachita National Forest lands in Le Flore County, Oklahoma. The Committee's purpose shall be advisory in nature and the Committee shall provide information and recommendations to the Secretary regarding the operation of the Ouachita National Forest in Le Flore County. The Committee shall be composed of representatives from the local area in which the Ouachita National Forest is located equally divided among conservation, timber, fish and wildlife, tourism and recreation, and economic development interests.
+Pursuant to chapter 10 of title 5, no later than 90 days after October 18, 1988, the Secretary is directed to establish an advisory committee for Ouachita National Forest lands in Le Flore County, Oklahoma. The Committee's purpose shall be advisory in nature and the Committee shall provide information and recommendations to the Secretary regarding the operation of the Ouachita National Forest in Le Flore County. The Committee shall be composed of representatives from the local area in which the Ouachita National Forest is located equally divided among conservation, timber, fish and wildlife, tourism and recreation, and economic development interests.
 
-(Pub. L. 100–499, §14, Oct. 18, 1988, 102 Stat. 2497.)
+(Pub. L. 100–499, §14, Oct. 18, 1988, 102 Stat. 2497; Pub. L. 117–286, §4(a)(91), Dec. 27, 2022, 136 Stat. 4315.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Pub. L. 117–286 substituted "chapter 10 of title 5," for "the Federal Advisory Committee Act (Public Law 92–463),".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 

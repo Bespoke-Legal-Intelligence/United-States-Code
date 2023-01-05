@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide a substantive summary of the scientific and regulatory rationale for any significant decision of the Center for Devices and Radiological Health regarding submission or review of a report under section 360(k) of this title, an application under section 360e of this title, a request for designation under section 360e–3 of this title, or an application for an exemption under section 360j(g) of this title, including documentation of significant controversies or differences of opinion and the resolution of such controversies or differences of opinion.
+&emsp;The Secretary shall provide a substantive summary of the scientific and regulatory rationale for any significant decision of the Center for Devices and Radiological Health regarding submission or review of a report under section 360(k) of this title, a petition for classification under section 360c(f) of this title, an application under section 360e of this title, or an application for an exemption under section 360j(g) of this title, including documentation of significant controversies or differences of opinion and the resolution of such controversies or differences of opinion.
 
 #### (2) Provision of documentation
 
@@ -34,13 +34,15 @@
 
 &emsp;&emsp;Subparagraph (A) shall not apply in cases that are referred to experts outside of the Food and Drug Administration.
 
-(June 25, 1938, ch. 675, §517A, as added Pub. L. 112–144, title VI, §603, July 9, 2012, 126 Stat. 1051; amended Pub. L. 114–255, div. A, title III, §§3051(b), 3058(c), Dec. 13, 2016, 130 Stat. 1124, 1129.)
+(June 25, 1938, ch. 675, §517A, as added Pub. L. 112–144, title VI, §603, July 9, 2012, 126 Stat. 1051; amended Pub. L. 114–255, div. A, title III, §§3051(b), 3058(c), Dec. 13, 2016, 130 Stat. 1124, 1129; Pub. L. 117–328, div. FF, title III, §3308(b)(3), Dec. 29, 2022, 136 Stat. 5836.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(1). Pub. L. 114–255, §3051(b), inserted "a request for designation under section 360e–3 of thistitle," after "application under section 360e of this title,".
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–328 amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary shall provide a substantive summary of the scientific and regulatory rationale for any significant decision of the Center for Devices and Radiological Health regarding submission or review of a report under section 360(k) of this title, an application under section 360e of this title, a request for designation under section 360e–3 of this title, or an application for an exemption under section 360j(g) of this title, including documentation of significant controversies or differences of opinion and the resolution of such controversies or differences of opinion."
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–255, §3051(b), inserted "a request for designation under section 360e–3 of this title," after "application under section 360e of this title,".
 
 Subsec. (a)(3). Pub. L. 114–255, §3058(c), added par. (3).
 

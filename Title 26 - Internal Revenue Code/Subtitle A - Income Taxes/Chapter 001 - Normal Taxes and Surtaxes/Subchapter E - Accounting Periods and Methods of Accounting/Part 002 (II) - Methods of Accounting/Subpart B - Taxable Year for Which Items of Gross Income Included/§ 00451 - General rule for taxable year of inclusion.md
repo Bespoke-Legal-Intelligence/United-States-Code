@@ -62,7 +62,7 @@ The amount of any item of gross income shall be included in the gross income for
 
 #### (5) Group of entities
 
-&emsp;For purposes of paragraph (1), if the financial results of a taxpayer are reported on the applicable financial statement (as defined in paragraph (3)) for a group of entities, such statement shall be treated as the applicable financial statement of the taxpayer.
+&emsp;For purposes of paragraph (1), if the financial results of a taxpayer are reported on the applicable financial statement (as defined inparagraph (3)) for a group of entities, such statement shall be treated as the applicable financial statement of the taxpayer.
 
 #### (c) Treatment of advance payments
 
@@ -82,7 +82,7 @@ The amount of any item of gross income shall be included in the gross income for
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the election under paragraph (1)(B)shall be made at such time, in such form and manner, and with respect to such categories of advance payments, as the Secretary may provide.
+&emsp;&emsp;Except as otherwise provided in this paragraph, the election under paragraph (1)(B) shall be made at such time, in such form and manner, and with respect to such categories of advance payments, as the Secretary may provide.
 
 #### (B) Period to which election applies
 
@@ -162,7 +162,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (1) In general
 
-&emsp;In the case of a taxpayer the taxable income of which is computed under an accrual methodof accounting, any income attributable to the sale or furnishing of utility services to customers shall be included in gross income not later than the taxable year in which such services are provided to such customers.
+&emsp;In the case of a taxpayer the taxable income of which is computed under an accrual method of accounting, any income attributable to the sale or furnishing of utility services to customers shall be included in gross income not later than the taxable year in which such services are provided to such customers.
 
 #### (2) Definition and special rule
 
@@ -322,7 +322,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (6) Qualified electric utility
 
-&emsp;For purposes of this subsection, the term "qualified electric utility" means a person that, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
+&emsp;For purposes of this subsection, the term "qualified electric utility" means a personthat, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
 
 &emsp;&emsp;(A) a transmitting utility (as defined in section 3(23) of the Federal Power Act (16 U.S.C. 796(23))) with respect to the transmission facilities to which the election under this subsection applies, and
 
@@ -396,7 +396,7 @@ Subsec. (i). Pub. L. 108–357, §909(a), added subsec. (i).
 
 <b>1998</b>—Subsec. (h). Pub. L. 105–277 added subsec. (h).
 
-<b>1997</b>—Subsec. (e). Pub. L. 105–34 inserted ", flood, or other weather-related conditions" after "drought" in heading and substituted "drought, flood, or other weather-related conditions, and that such conditions" for "drought conditions, and that these drought conditions" in par. (1).
+<b>1997</b>—Subsec. (e). Pub. L. 105–34 inserted ", flood, or other weather-related conditions" after "drought" inheading and substituted "drought, flood, or other weather-related conditions, and that such conditions" for "drought conditions, and that these drought conditions" in par. (1).
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–647, §6033(a), inserted "or title II of the Disaster Assistance Act of 1988," after "the Agricultural Act of 1949, as amended,".
 
@@ -424,7 +424,7 @@ Pub. L. 116–94, div. Q, title I, §132(b), Dec. 20, 2019, 133 Stat. 3233, prov
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–123, div. D, title I, §40414(b), Feb. 9, 2018, 132 Stat. 152, provided that: "The amendment made bythis section \[amending this section\] shall apply to dispositions after December 31, 2016."
+Pub. L. 115–123, div. D, title I, §40414(b), Feb. 9, 2018, 132 Stat. 152, provided that: "The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2016."
 
 #### Effective Date of 2017 Amendment
 
@@ -622,7 +622,7 @@ Extended Period Long-Term Contracts Defined.—For purposes of this section—
 
 &emsp;"(1)
 
-In general.—The term 'extended period long-term contract' means any long-term contract which the taxpayer estimates (at the time such contract is entered into) will not be completed within the 2-year period beginning on the contract commencement date of such contract.
+In general.—The term 'extended period long-term contract' means any long-term contract whichthe taxpayer estimates (at the time such contract is entered into) will not be completed within the 2-year period beginning on the contract commencement date of such contract.
 
 &emsp;"(2)
 

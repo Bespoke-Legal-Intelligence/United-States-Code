@@ -22,7 +22,7 @@ The registry and new domain shall be subject to the following requirements:
 
 &emsp;(2) Written agreements with each registrar for the new domain that require that use of the new domain is in accordance with the standards and requirements of the registry.
 
-&emsp;(3) Written agreements with registrars, which shall require registrars to enter into written agreements with registrants, to usethe new domain in accordance with the standards and requirements of the registry.
+&emsp;(3) Written agreements with registrars, which shall require registrars to enter into written agreements with registrants, to use the new domain in accordance with the standards and requirements of the registry.
 
 &emsp;(4) Rules and procedures for enforcement and oversight that minimize the possibility that the new domain provides access to content that is not in accordance with the standards and requirements of the registry.
 
@@ -128,9 +128,9 @@ For purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, as amended, known as the Telecommunications Authorization Act of 1992. Title I of the Act, known as the National Telecommunications and Information Administration Organization Act, is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (d), is Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, known as the Telecommunications Authorization Act of 1992. Title I of the Act, known as the National Telecommunications and Information Administration Organization Act, is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
-The Communications Act of 1934, referred to in subsec. (e)(2), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended. Title II of the Act is classified generally to subchapter II (§201 et seq.) of chapter 5 of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+The Communications Act of 1934, referred to in subsec. (e)(2), is act June 19, 1934, ch. 652, 48 Stat. 1064. Title II of the Act is classified generally to subchapter II (§201 et seq.) of chapter 5 of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

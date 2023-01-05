@@ -38,7 +38,7 @@ Terms and conditions.—The Federal share payable of the costs described in para
 
 &emsp;&emsp;(B) the requirements of title VI of the Civil Rights Act of 1964 have been complied with;
 
-&emsp;&emsp;(C) the State has a mandatory comprehensive and coordinated land use, environment, and transportation planning process under State law and the acquisition is certified bythe Governor as consistent with the State plans before the acquisition;
+&emsp;&emsp;(C) the State has a mandatory comprehensive and coordinated land use, environment, and transportation planning process under State law and the acquisition is certified by the Governor as consistent with the State plans before the acquisition;
 
 &emsp;&emsp;(D) the acquisition is determined in advance by the Governor to be consistent with the State transportation planning process pursuant to section 135 of this title;
 

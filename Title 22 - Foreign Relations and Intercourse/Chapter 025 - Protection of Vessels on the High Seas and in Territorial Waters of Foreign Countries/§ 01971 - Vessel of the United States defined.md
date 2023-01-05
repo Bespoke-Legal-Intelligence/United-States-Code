@@ -34,7 +34,7 @@ Pub. L. 95–541, §14(b), Oct. 28, 1978, 92 Stat. 2057, provided that the amend
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–450, title I, §101, Nov. 7, 2000, 114 Stat. 1941, provided that: "This title \[amending section 1977of this title\] may be cited as the 'Fishermen's Protective Act Amendments of 2000'."
+Pub. L. 106–450, title I, §101, Nov. 7, 2000, 114 Stat. 1941, provided that: "This title \[amending section 1977 of this title\] may be cited as the 'Fishermen's Protective Act Amendments of 2000'."
 
 #### Short Title
 

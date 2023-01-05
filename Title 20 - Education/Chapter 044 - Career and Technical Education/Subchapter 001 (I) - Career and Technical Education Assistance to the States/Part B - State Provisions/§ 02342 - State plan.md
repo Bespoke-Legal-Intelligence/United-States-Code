@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) may submit such annual revisions of the State plan to the Secretary as the eligible agency determines to be necessary; and
 
-&emsp;&emsp;(B) shall, after the second year of the 4-year period, conduct a review of activities assisted under this subchapter and submit any revisions of the State plan that the eligible agency determines necessary to the Secretary.
+&emsp;&emsp;(B) shall, after the second year of the 4-year period, conduct a review of activities assisted under this subchapter and submitany revisions of the State plan that the eligible agency determines necessary to the Secretary.
 
 #### (3) Hearing process
 
@@ -78,7 +78,7 @@
 
 The State plan shall include—
 
-&emsp;(1) a summary of State-supported workforce development activities (including education and training) in the State, including the degree to which the State's career and technical education programs and programs of study are aligned with and address the education and skill needs of the employers in the State identified by the State board;
+&emsp;(1) a summary of State-supported workforce development activities (including education and training) in the State, including the degree to which the State's career and technical education programs and programs of study arealigned with and address the education and skill needs of the employers in the State identified by the State board;
 
 &emsp;(2) the State's strategic vision and set of goals for preparing an educated and skilled workforce (including special populations) and for meeting the skilled workforce needs of employers, including in existing and emerging in-demand industry sectors and occupations as identified by the State, and how the State's career and technical education programs will help to meet these goals;
 
@@ -252,7 +252,7 @@ Subsec. (c)(7)(A)(i). Pub. L. 114–95, §9215(n)(6)(B), substituted "a well-rou
 
 <b>2014</b>—Subsec. (b)(1)(A)(viii). Pub. L. 113–128, §512(e)(3)(A), substituted "entities participating in activities described in section 3111 of title 29" for "entities participating in activities described in section 2821 of title 29".
 
-Subsec. (c)(20). Pub. L. 113–128, §512(e)(3)(B), substituted "the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts" for "the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts".
+Subsec. (c)(20). Pub. L. 113–128, §512(e)(3)(B), substituted "the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts" for "the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provisionof services only for postsecondary students and school dropouts".
 
 Subsec. (d)(2). Pub. L. 113–128, §512(e)(3)(C), substituted "combined plan" for "501 plan" in heading and "as part of the plan submitted under section 3113 of title 29" for "as part of the plan submitted under section 501 of Public Law 105–220" in text.
 

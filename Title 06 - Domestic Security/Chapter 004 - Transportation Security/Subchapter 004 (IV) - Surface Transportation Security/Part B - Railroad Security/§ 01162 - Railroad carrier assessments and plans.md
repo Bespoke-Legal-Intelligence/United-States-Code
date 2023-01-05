@@ -22,7 +22,7 @@ The Secretary may establish a security program for railroad carriers not assigne
 
 #### (c) Deadline for submission
 
-Not later than 9 months after the date of issuance of the regulations under subsection (a), the vulnerability assessments and security plans required by such regulations for railroad carriers assigned to a high-risk tier shall be completed and submitted to the Secretary for review and approval.
+Not later than 9 months after the date of issuance of the regulations under subsection (a),the vulnerability assessments and security plans required by such regulations for railroad carriers assigned to a high-risk tier shall be completed and submitted to the Secretary for review and approval.
 
 #### (d) Vulnerability assessments
 
@@ -156,7 +156,7 @@ Utilizing the risk assessment and National Strategy for Railroad Transportation 
 
 #### (4) Notification
 
-&emsp;If the Secretary determines that particular existing procedures, protocols, or standards ofa railroad carrier under this subsection do not satisfy the requirements of this section, the Secretary shall provide to the railroad carrier a written notification that includes an explanation of the determination.
+&emsp;If the Secretary determines that particular existing procedures, protocols, or standards of a railroad carrier under this subsection do not satisfy the requirements of this section, the Secretary shall provide to the railroad carrier a written notification that includes an explanation of the determination.
 
 #### (5) Review
 
@@ -182,7 +182,7 @@ The Secretary may permit under this section the development and implementation o
 
 #### (m) Consultation
 
-In carrying out this section, the Secretary shall consult with railroad carriers, nonprofit employee labor organizations representation railroad employees, and public safety and law enforcement officials.
+In carrying out this section, the Secretary shall consult with railroad carriers, nonprofitemployee labor organizations representation railroad employees, and public safety and law enforcement officials.
 
 (Pub. L. 110–53, title XV, §1512, Aug. 3, 2007, 121 Stat. 429.)
 

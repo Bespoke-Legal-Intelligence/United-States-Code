@@ -28,7 +28,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 > &emsp;&emsp;is less than 80 percent of—
 
-&emsp;&emsp;&emsp;(ii) the ratio which the voting stock of the corporation owned by the shareholder immediately before the redemption bearsto all of the voting stock of the corporation at such time.
+&emsp;&emsp;&emsp;(ii) the ratio which the voting stock of the corporation owned by the shareholder immediately before the redemption bears to all of the voting stock of the corporation at such time.
 
 > &emsp;&emsp;For purposes of this paragraph, no distribution shall be treated as substantially disproportionate unless the shareholder's ownership of the common stock of the corporation (whether voting or nonvoting) after and before redemption also meets the 80 percent requirement of the preceding sentence. For purposes of the preceding sentence, if there is more than one class of common stock, the determinations shall be made by reference to fair market value.
 
@@ -82,7 +82,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 &emsp;&emsp;&emsp;(i) any portion of the stock redeemed was acquired, directly or indirectly, within the 10-year period ending on the date of the distribution by the distributee from a person the ownership of whose stock would (at the time of distribution) be attributable to the distributee under section 318(a), or
 
-&emsp;&emsp;&emsp;(ii) any person owns (at the time of the distribution) stock the ownership of which is attributable to the distributee under section 318(a) and such person acquired any stock in the corporation, directly or indirectly, from the distributee within the 10-year period ending on the date of the distribution, unless such stock so acquired from the distributee is redeemed in the same transaction.
+&emsp;&emsp;&emsp;(ii) any person owns (at the time of the distribution) stock the ownership of which is attributable to the distributee under section 318(a) and such person acquired any stock in the corporation, directly orindirectly, from the distributee within the 10-year period ending on the date of the distribution, unless such stock so acquired from the distributee is redeemed in the same transaction.
 
 > &emsp;&emsp;The preceding sentence shall not apply if the acquisition (or, in the case of clause (ii), the disposition) by the distributee did not have as one of its principal purposes the avoidance of Federal income tax.
 

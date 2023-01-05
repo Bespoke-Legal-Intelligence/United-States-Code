@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) for the development of production capabilities; and
 
-&emsp;&emsp;(D) for the increased use of emerging technologies in security program applicationsand the rapid transition of emerging technologies—
+&emsp;&emsp;(D) for the increased use of emerging technologies in security program applications and the rapid transition of emerging technologies—
 
 &emsp;&emsp;&emsp;(i) from Government-sponsored research and development to commercial applications; and
 
@@ -152,7 +152,7 @@ A prior section 303 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 801; July
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(5). Pub. L. 113–172, §4(a)(1)(A), substituted ", on a non-delegable basis, determines, withappropriate explanatory material and in writing," for "determines" in introductory provisions.
+<b>2014</b>—Subsec. (a)(5). Pub. L. 113–172, §4(a)(1)(A), substituted ", on a non-delegable basis, determines, with appropriate explanatory material and in writing," for "determines" in introductory provisions.
 
 Subsec. (a)(5)(C). Pub. L. 113–172, §4(a)(1)(B)–(D), added subpar. (C).
 

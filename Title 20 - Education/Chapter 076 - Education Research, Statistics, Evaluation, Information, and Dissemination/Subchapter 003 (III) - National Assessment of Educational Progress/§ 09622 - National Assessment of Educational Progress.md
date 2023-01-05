@@ -52,7 +52,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (ii) Content
 
-&emsp;&emsp;&emsp;Such agreement shall contain information sufficient to give States full information about the process for decision-making (which shall include the consensus process used), on objectives to be tested, and thestandards for random sampling, test administration, test security, data collection, validation, and reporting.
+&emsp;&emsp;&emsp;Such agreement shall contain information sufficient to give States full information about the process for decision-making (which shall include the consensus process used), on objectives to be tested, and the standards for random sampling, test administration, test security, data collection, validation, and reporting.
 
 #### (C) Review and release
 
@@ -106,7 +106,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (B) Timeline
 
-&emsp;&emsp;The access described in this paragraph shall be provided within 45 days of the date the request was made, in writing, and be made available in a secure setting that is convenient to both parties.
+&emsp;&emsp;The access described in this paragraph shall be provided within 45 days of the datethe request was made, in writing, and be made available in a secure setting that is convenient to both parties.
 
 #### (C) Prohibition
 
@@ -128,7 +128,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (D) Report
 
-&emsp;&emsp;The Secretary shall submit a summary report of all complaints received pursuant tosubparagraph (A) and responses by the Assessment Board pursuant to subparagraph (C) to the Chairman of the House Committee on Education and the Workforce, and the Chairman of the Senate Committee on Health, Education, Labor, and Pensions.
+&emsp;&emsp;The Secretary shall submit a summary report of all complaints received pursuant to subparagraph (A) and responses by the Assessment Board pursuant to subparagraph (C) to the Chairman of the House Committee on Education and the Workforce, and the Chairman of the Senate Committee on Health, Education, Labor, and Pensions.
 
 #### (E) Cognitive questions
 
@@ -206,7 +206,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (D) Status
 
-&emsp;&emsp;The Commissioner for Education Statistics and the Board shall ensure that reportsusing such levels on a trial basis do so in a manner that makes clear the status of such levels.
+&emsp;&emsp;The Commissioner for Education Statistics and the Board shall ensure that reports using such levels on a trial basis do so in a manner that makes clear the status of such levels.
 
 #### (E) Updates
 

@@ -2,7 +2,7 @@
 
 (a)(1)(A) A preference eligible who alleges that an agency has violated such individual's rights under any statute or regulation relating to veterans' preference may file a complaint with the Secretary of Labor.
 
-(B) A veteran described in section 3304(f)(1) who alleges that an agency has violated such section with respect to such veteran may file a complaint with the Secretary of Labor.
+(B) A veteran described in section 3304(f)(1) who alleges that an agency has violated suchsection with respect to such veteran may file a complaint with the Secretary of Labor.
 
 (2)(A) A complaint under this subsection must be filed within 60 days after the date of the alleged violation.
 

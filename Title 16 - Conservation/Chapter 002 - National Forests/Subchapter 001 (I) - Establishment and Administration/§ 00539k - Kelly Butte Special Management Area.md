@@ -28,7 +28,7 @@ The Kelly Butte Special Management Area shall be managed by the Secretary in acc
 
 #### (c) No buffer zones
 
-Congress does not intend that the designation of the Kelly Butte Special Management Area lead to the creation of protective perimeters or buffer zones around the Area. The fact that non-compatible activities or uses can be seen or heard from within the Kelly Butte Special Management Area shall not, of itself, preclude such activities or uses up to the boundary of the Area.
+Congress does not intend that the designation of the Kelly Butte Special Management Area lead to the creation of protective perimeters or buffer zones around the Area. The fact that non-compatible activities or uses can be seen orheard from within the Kelly Butte Special Management Area shall not, of itself, preclude such activities or uses up to the boundary of the Area.
 
 (Pub. L. 105–277, div. A, §101(e) \[title VI, §611\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–334.)
 
@@ -198,7 +198,7 @@ Appraisals.—The values of the offered land and selected land shall be determin
 
 &emsp;"(4)
 
-Approval by the Secretary.—The appraisals, if not already completed by the date of enactment ofthis Act \[Oct. 21, 1998\], shall be completed and submitted to the Secretary for approval not later than 180 days after the date of enactment of this Act: <i>Provided</i>, That all timber harvest cease no later than November 30, 1998, except for any cleanup, reforestation, or other post-harvest work which cannot be completed by November 30, 1998. A comprehensive summary of the appraisal consistent with 7 CFR Part 1.11 shall be made available for public inspection in the Office of the Supervisor, Wenatchee National Forest, not less than 30 days nor more than 45 days prior to the exchange of deeds.
+Approval by the Secretary.—The appraisals, if not already completed by the date of enactment of this Act \[Oct. 21, 1998\], shall be completed and submitted to the Secretary for approval not later than 180 days after the date of enactment of this Act: <i>Provided</i>, That all timber harvest cease no later than November 30, 1998, except for any cleanup, reforestation, or other post-harvest work which cannot be completed by November 30, 1998. A comprehensive summary of the appraisal consistent with 7 CFR Part 1.11 shall be made available for public inspection in the Office of the Supervisor, Wenatchee National Forest, not less than 30 days nor more than 45 days prior to the exchange of deeds.
 
 "(b)
 
@@ -330,7 +330,7 @@ Finding.—Congress finds that Plum Creek and the Secretary should have adequate
 
 &emsp;"(2)
 
-Intention.—It is the intention of Congress that Plum Creek have access to all lands it acquires under this Act, and when such access requires construction of new roads, it shall be granted in compliance with the National Environmental Policy Act \[of 1969\] \[42U.S.C. 4321 et seq.\], the Endangered Species Act \[of 1973\] \[16 U.S.C. 1531 et seq.\], division A of subtitle III of title 54, United States Code, and other applicable laws, rules, and regulations.
+Intention.—It is the intention of Congress that Plum Creek have access to all lands it acquires under this Act, and when such access requires construction of new roads, it shall be granted in compliance with the National Environmental Policy Act \[of 1969\] \[42 U.S.C. 4321 et seq.\], the Endangered Species Act \[of 1973\] \[16 U.S.C. 1531 et seq.\], division A of subtitle III of title 54, United States Code, and other applicable laws, rules, and regulations.
 
 &emsp;"(3)
 

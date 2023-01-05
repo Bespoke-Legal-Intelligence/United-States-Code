@@ -4,7 +4,7 @@
 
 The Secretary shall not—
 
-&emsp;(1) treat any amount invested by any qualified telephone borrower for any purpose described in section 2204b(c)(2) of this title (including any investment in, or extension of credit, guarantee, or advance made to, an affiliated company of the borrower, that is used by such company for such a purpose) as a dividend or distribution of capital to the extent that, immediately after such investment, the aggregate of such investments does not exceed 1/3 of the net worth of the borrower; or
+&emsp;(1) treat any amount invested by any qualified telephone borrower for any purpose described in section 2204b(c)(2) of this title (including any investment in, or extension ofcredit, guarantee, or advance made to, an affiliated company of the borrower, that is used by such company for such a purpose) as a dividend or distribution of capital to the extent that, immediately after such investment, the aggregate of such investments does not exceed 1/3 of the net worth of the borrower; or
 
 &emsp;(2) require a qualified telephone borrower to obtain the approval of the Secretary in order to make an investment described in paragraph (1).
 

@@ -6,5 +6,5 @@ Section, act Feb. 16, 1938, ch. 30, title III, §337, 52 Stat. 55, related to ad
 
 #### Effective Date of Repeal
 
-Repeal effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as a note under section 1301 of this title.
+Repeal effective only with respect to programs applicable to crops planted for harvest in calendar year 1964or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as a note under section 1301 of this title.
 

@@ -52,7 +52,7 @@
 
 #### (c) Amendment of application under subsection (b) to conform to requirements of subsection (a)
 
-At any time during examination of an application filed under subsection (b), an applicant who has made use of the mark in commerce mayclaim the benefits of such use for purposes of this chapter, by amending his or her application to bring it into conformity with the requirements of subsection (a).
+At any time during examination of an application filed under subsection (b), an applicant who has made use of the mark in commerce may claim the benefits of such use for purposes of this chapter, by amending his or her application to bring it into conformity with the requirements of subsection (a).
 
 #### (d) Verified statement that trademark is used in commerce
 
@@ -78,7 +78,7 @@ A third party may submit for consideration for inclusion in the record of an app
 
 #### Prior Provisions
 
-Subsecs. (a) to (c) are from acts Feb. 20, 1905, ch. 592, §§1, 2, 33 Stat. 724; May 4, 1906, ch. 2081, §1, 34 Stat. 168;Feb. 18, 1909, ch. 144, 35 Stat. 628; Apr. 11, 1930, ch. 132, §4, 46 Stat. 155; June 10, 1938, ch. 332, §1, 52 Stat. 638.
+Subsecs. (a) to (c) are from acts Feb. 20, 1905, ch. 592, §§1, 2, 33 Stat. 724; May 4, 1906, ch. 2081, §1, 34 Stat. 168; Feb. 18, 1909, ch. 144, 35 Stat. 628; Apr. 11, 1930, ch. 132, §4, 46 Stat. 155; June 10, 1938, ch. 332, §1, 52 Stat. 638.
 
 Subsec. (d) is from act Feb. 20, 1905, ch. 592, §3, 33 Stat. 725.
 
@@ -216,7 +216,7 @@ Act July 5, 1946, ch. 540, title XI, §50, 60 Stat. 446, provided that: "If any 
 
 #### Deadline for Procedures
 
-Pub. L. 116–260, div. Q, title II, §223(b), Dec. 27, 2020, 134 Stat. 2201, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\],the Director shall establish the appropriate procedures described in section 1(f) of the Trademark Act of 1946 \[15 U.S.C. 1051(f)\], as added by subsection (a)."
+Pub. L. 116–260, div. Q, title II, §223(b), Dec. 27, 2020, 134 Stat. 2201, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], the Director shall establish the appropriate procedures described in section 1(f) of the Trademark Act of 1946 \[15 U.S.C. 1051(f)\], as added by subsection (a)."
 
 \[For definitions of terms used in section 223(b) of Pub. L. 116–260, set out above, see section 222 of Pub. L. 116–260, set out as a note below.\]
 
@@ -234,7 +234,7 @@ Act July 5, 1946, ch. 540, title XI, §§46(b), 47, 60 Stat. 445, provided:
 
 "
 
-Sec. 47. (a) All applications for registration pending in the Patent Office at the effective date of this Act \[July 5, 1947\] may be amended, if practicable, to bring them under the provisions of this Act \[this chapter\]. The prosecution of such applications so amended and the grant of registrations thereon shall be proceeded with in accordance with the provisions of this Act \[this chapter\]. If such amendments are not made, the prosecution of said applications shall be proceeded with and registrations thereon granted in accordance with the Acts under which said applications were filed, and said Acts are hereby continued in force to this extent and for this purpose only, notwithstanding the foregoing general repeal thereof.
+Sec. 47. (a) All applications for registration pending in the Patent Office at the effective date of this Act \[July 5, 1947\] may be amended, if practicable, to bring them under the provisions of this Act \[this chapter\].The prosecution of such applications so amended and the grant of registrations thereon shall be proceeded with in accordance with the provisions of this Act \[this chapter\]. If such amendments are not made, the prosecution of said applications shall be proceeded with and registrations thereon granted in accordance with the Acts under which said applications were filed, and said Acts are hereby continued in force to this extent and for this purpose only, notwithstanding the foregoing general repeal thereof.
 
 "(b) In any case in which an appeal is pending before the United States Court of Customs and Patent Appeals or any United States Circuit Court of Appeals or the United States Court of Appeals for the District of Columbia or the United States Supreme Court at the effective date of this Act \[July 5, 1947\], the court, if it be of the opinion that the provisions of this Act \[this chapter\] are applicable to the subject matter of the appeal, may apply such provision or may remand the case to the Commissioner \[now Director\] or to the district court for the taking of additional evidence or a new trial or for reconsideration of the decision on the record as made, as the appellate court may deem proper."
 

@@ -92,7 +92,7 @@ Pay or bonus ceases being authorized.—Subparagraph (A) shall cease to apply to
 
 &emsp;&emsp;(C)
 
-Repayment.—A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
+Repayment.—A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II)shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
 
 &emsp;&emsp;(D)
 

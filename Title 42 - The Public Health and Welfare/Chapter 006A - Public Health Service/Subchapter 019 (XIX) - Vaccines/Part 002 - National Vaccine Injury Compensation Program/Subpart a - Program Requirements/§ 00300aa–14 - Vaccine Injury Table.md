@@ -40,7 +40,7 @@ The following qualifications and aids to interpretation shall apply to the Vacci
 
 &emsp;&emsp;(A) in the case of a measles, mumps, or rubella vaccine or any combination of such vaccines, the first seizure or convulsion occurred within 15 days after administration of the vaccine and 2 or more seizures or convulsions occurred within 1 year after the administration of the vaccine which were unaccompanied by fever or accompanied by a fever of less than 102 degrees Fahrenheit, and
 
-&emsp;&emsp;(B) in the case of any other vaccine, the first seizure or convulsion occurred within 3 days after administration of the vaccine and 2 or more seizures or convulsions occurredwithin 1 year after the administration of the vaccine which were unaccompanied by fever or accompanied by a fever of less than 102 degrees Fahrenheit.
+&emsp;&emsp;(B) in the case of any other vaccine, the first seizure or convulsion occurred within 3 days after administration of the vaccine and 2 or more seizures or convulsions occurred within 1 year after the administration of the vaccine which were unaccompanied by fever or accompanied by a fever of less than 102 degrees Fahrenheit.
 
 &emsp;(3)(A) The term "encephalopathy" means any significant acquired abnormality of, or injury to, or impairment of function of the brain. Among the frequent manifestations of encephalopathy are focal and diffuse neurologic signs, increased intracranial pressure, or changes lasting at least 6 hours in level of consciousness, with or without convulsions. The neurological signs and symptoms of encephalopathy may be temporary with complete recovery, or may result in various degrees of permanent impairment. Signs and symptoms such as high pitched and unusual screaming, persistent unconsolable crying, and bulging fontanel are compatible with an encephalopathy, but in and of themselves are not conclusive evidence of encephalopathy. Encephalopathy usually can be documented by slow wave activity on an electroencephalogram.
 
@@ -92,7 +92,7 @@ Except with respect to a regulation recommended by the Advisory Commission on Ch
 
 #### (3) Vaccines recommended for use in pregnant women
 
-&emsp;The Secretary shall revise the Vaccine Injury Table included in subsection (a), throughthe process described in subsection (c), to include vaccines recommended by the Centers for Disease Control and Prevention for routine administration in pregnant women and the information described in subparagraphs (B) and (C) of paragraph (2) with respect to such vaccines.
+&emsp;The Secretary shall revise the Vaccine Injury Table included in subsection (a), through the process described in subsection (c), to include vaccines recommended by the Centers for Disease Control and Prevention for routine administration in pregnant women and the information described in subparagraphs (B) and (C) of paragraph (2) with respect to such vaccines.
 
 (July 1, 1944, ch. 373, title XXI, §2114, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3764; amended Pub. L. 101–239, title VI, §6601(k), Dec. 19, 1989, 103 Stat. 2290; Pub. L. 103–66, title XIII, §13632(a)(2), Aug. 10, 1993, 107 Stat. 645; Pub. L. 114–255, div. A, title III, §3093(c)(1), Dec. 13, 2016, 130 Stat. 1152.)
 

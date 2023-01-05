@@ -22,7 +22,7 @@
 - [&sect; 02769 - Remission of indebtedness](%C2%A7%2002769%20-%20Remission%20of%20indebtedness.md)
 - [&sect; 02770 - Special instruction at universities](%C2%A7%2002770%20-%20Special%20instruction%20at%20universities.md)
 - [&sect; 02771 - Attendance at professional meetings](%C2%A7%2002771%20-%20Attendance%20at%20professional%20meetings.md)
-- [&sect; 02772 - Education loan repayment program](%C2%A7%2002772%20-%20Education%20loan%20repayment%20program.md)
+- [&sect; 02772 - Education loan repayment program for members on active duty in specified military specialties](%C2%A7%2002772%20-%20Education%20loan%20repayment%20program%20for%20members%20on%20active%20duty%20in%20specified%20military%20specialties.md)
 - [&sect; 02773 - Rations or commutation therefor in money](%C2%A7%2002773%20-%20Rations%20or%20commutation%20therefor%20in%20money.md)
 - [&sect; 02774 - Sales of ration supplies to messes](%C2%A7%2002774%20-%20Sales%20of%20ration%20supplies%20to%20messes.md)
 - [&sect; 02775 - Flight rations](%C2%A7%2002775%20-%20Flight%20rations.md)

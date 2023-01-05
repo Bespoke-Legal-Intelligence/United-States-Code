@@ -58,7 +58,7 @@ Allocation and Transfer of Property.—
 
 &emsp;(1)
 
-In general.—The Administrator shall allocate and transfer property under this section in accordance with criteria that are based on need and use and that are established after consultation with state agencies to the extent feasible. The Administrator shall give fair consideration, consistent with the established criteria, to an expression of need and interest from a public agency or other eligible institution within a State. The Administrator shall give special consideration to an eligible recipient's request, transmitted through the state agency, for a specific item of property.
+In general.—The Administrator shall allocate and transfer property under this section in accordance with criteria that are based on need and use and that are established afterconsultation with state agencies to the extent feasible. The Administrator shall give fair consideration, consistent with the established criteria, to an expression of need and interest from a public agency or other eligible institution within a State. The Administrator shall give special consideration to an eligible recipient's request, transmitted through the state agency, for a specific item of property.
 
 &emsp;(2)
 
@@ -170,7 +170,7 @@ Request by recipient.—The state plan of operation shall require the state agen
 
 &emsp;&emsp;(F)
 
-Service charges.—If the state agency is authorized to assess and collect servicecharges from participating recipients to cover direct and reasonable indirect costs of its activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services the state agency performs, including screening, packing, crating, removal, and transportation.
+Service charges.—If the state agency is authorized to assess and collect service charges from participating recipients to cover direct and reasonable indirect costs of its activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services the state agency performs, including screening, packing, crating, removal, and transportation.
 
 &emsp;&emsp;(G)
 
@@ -238,7 +238,7 @@ Surplus property transferred to state agency.—
 
 &emsp;&emsp;(A)
 
-In general.—Under the cooperative agreement, surplus property transferred to a state agency for distribution pursuant to subsection (c) may be retained by the state agency for use in performing its functions. Unless otherwise directed by the Administrator, title to the retained property vests in the state agency.
+In general.—Under the cooperative agreement, surplus property transferred to a state agency for distribution pursuant to subsection (c) may be retained by the state agency for use in performing its functions.Unless otherwise directed by the Administrator, title to the retained property vests in the state agency.
 
 &emsp;&emsp;(B)
 
@@ -336,7 +336,7 @@ Ex. Ord. No. 12999, Apr. 17, 1996, 61 F.R. 17227, provided:
 
 In order to ensure that American children have the skills they need to succeed in the information-intensive 21st century, the Federal Government is committed to working with the private sector to promote four major developments in American education: making modern computer technology an integral part of every classroom; providing teachers with the professional development they need to use new technologies effectively; connecting classrooms to the National Information Infrastructure; and encouraging the creation of excellent educational software. This Executive order streamlines the transfer of excess and surplus Federal computer equipment to our Nation's classrooms and encourages Federal employees to volunteer their time and expertise to assist teachers and to connect classrooms.
 
-Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the provisions of the Stevenson-Wydler Technology Innovation Act of 1980, as amended (15 U.S.C. 3701 <i>et seq.</i>), the Federal Property and Administrative Services Act of 1949, ch. 288, 63 Stat. 377 \[now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], and the National Defense Authorization Act for Fiscal Year 1996, Public Law 104–106 \[see Tables for classification\], it is hereby ordered as follows:
+Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the provisions of the Stevenson-Wydler Technology Innovation Act of 1980, as amended (15 U.S.C. 3701 <i>et seq.</i>), the Federal Property and Administrative Services Act of 1949, ch. 288, 63 Stat. 377 \[now chapters 1 to 11 of this title and divisionC (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], and the National Defense Authorization Act for Fiscal Year 1996, Public Law 104–106 \[see Tables for classification\], it is hereby ordered as follows:
 
 Section 1. <i>Protection of Educationally Useful Federal Equipment</i>. (a) Educationally useful Federal equipment is a vital national resource. To the extent such equipment can be used as is, separated into parts for other computers, or upgraded—either by professional technicians, students, or other recycling efforts—educationally useful Federal equipment is a valuable tool for computer education. Therefore, to the extent possible, all executive departments and agencies (hereinafter referred to as "agencies") shall protect and safeguard such equipment, particularly when declared excess or surplus, so that it may be recycled and transferred, if appropriate, pursuant to this order.
 
@@ -348,7 +348,7 @@ Sec. 2. <i>Efficient Transfer of Educationally Useful Federal Equipment to Schoo
 
 (1) conveying research equipment directly to the school or organization pursuant to 15 U.S.C. 3710(i); or
 
-(2) reporting excess equipment to the General Services Administration (GSA) for donation when declared surplus in accordance with section 203(j) of the FederalProperty and Administrative Services Act of 1949, as amended, 40 U.S.C. 484(j) \[now 40 U.S.C. 549\]. Agencies shall report such equipment as far as possible in advance of the date the equipment becomes excess, so that GSA may attempt to arrange direct transfers from the donating agency to recipients eligible under this order.
+(2) reporting excess equipment to the General Services Administration (GSA) for donation when declared surplus in accordance with section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended, 40 U.S.C. 484(j) \[now 40 U.S.C. 549\]. Agencies shall report such equipment as far as possible in advance of the date the equipment becomes excess, so that GSA may attempt to arrange direct transfers from the donating agency to recipients eligible under this order.
 
 (d) In transfers made pursuant to paragraph (c)(1) of this section, title shall transfer directly from the agency to the schools or nonprofit organizations as required by 15 U.S.C. 3710(i). All such transfers shall be reported to the GSA. At the direction of the recipient institution or organization, and if appropriate, transferred equipment may be conveyed initially to a nonprofit reuse or recycling program that will upgrade it before transfer to the school or nonprofit organization holding title.
 

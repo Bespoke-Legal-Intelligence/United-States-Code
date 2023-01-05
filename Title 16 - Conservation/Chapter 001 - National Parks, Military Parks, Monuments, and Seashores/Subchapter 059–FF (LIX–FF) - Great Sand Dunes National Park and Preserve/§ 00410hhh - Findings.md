@@ -4,7 +4,7 @@ Congress finds that—
 
 &emsp;(1) the Great Sand Dunes National Monument in the State of Colorado was established by Presidential proclamation in 1932 to preserve Federal land containing spectacular and unique sand dunes and additional features of scenic, scientific, and educational interest for the benefit and enjoyment of future generations;
 
-&emsp;(2) the Great Sand Dunes, together with the associated sand sheet and adjacent wetland and upland, contain a variety of rare ecological, geological, paleontological, archaeological, scenic, historical, and wildlife components, which—
+&emsp;(2) the Great Sand Dunes, together with the associated sand sheet and adjacent wetlandand upland, contain a variety of rare ecological, geological, paleontological, archaeological, scenic, historical, and wildlife components, which—
 
 &emsp;&emsp;(A) include the unique pulse flow characteristics of Sand Creek and Medano Creek that are integral to the existence of the dunes system;
 

@@ -82,7 +82,7 @@ Of the funds requested for competitive programs in excess of the competitive pro
 
 #### (3) Additional information described
 
-&emsp;The additional information described in this paragraph is information that the Secretary, after consulting with the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Subcommittees on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies of the Committee on Appropriations ofthe House of Representatives and the Senate, determines is a necessary revision or clarification to the information described in paragraph (2).
+&emsp;The additional information described in this paragraph is information that the Secretary, after consulting with the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Subcommittees on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies of the Committee on Appropriations of the House of Representatives and the Senate, determines is a necessary revision or clarification to the information described in paragraph (2).
 
 #### (4) Prohibition
 

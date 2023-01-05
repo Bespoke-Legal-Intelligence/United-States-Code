@@ -38,7 +38,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (1) Plan preparation
 
-&emsp;The Task Force shall prepare a plan to identify coastal wetlands restoration projects, in order of priority, based on the cost-effectiveness of such projects in creating, restoring, protecting, or enhancing the long-term conservation of coastal wetlands, taking into account the quality of such coastal wetlands, with due allowance for small-scale projects necessary to demonstrate the use of new techniques or materials for coastal wetlands restoration. Such restoration plan shall be completed within three years from November 29, 1990.
+&emsp;The Task Force shall prepare a plan to identify coastal wetlands restoration projects, in order of priority, based on the cost-effectiveness of such projects in creating, restoring,protecting, or enhancing the long-term conservation of coastal wetlands, taking into account the quality of such coastal wetlands, with due allowance for small-scale projects necessary to demonstrate the use of new techniques or materials for coastal wetlands restoration. Such restoration plan shall be completed within three years from November 29, 1990.
 
 #### (2) Purpose of the plan
 

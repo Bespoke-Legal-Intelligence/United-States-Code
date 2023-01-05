@@ -66,7 +66,7 @@ Commencement of Operation of Court of Veterans Appeals.—Notwithstanding subsec
 
 #### Chapter Applicable to Claims Alleging Previous Determination the Product of Clear and Unmistakable Error
 
-Pub. L. 105–111, §1(c)(2), Nov. 21, 1997, 111 Stat. 2272, provided that: "Notwithstanding section 402 of the Veterans Judicial Review Act (38 U.S.C. 7251 note), chapter 72 of title 38, United States Code, shall apply with respect to any decision of the Board of Veterans' Appeals on a claim alleging that a previous determination of the Board was the product of clear and unmistakable error if that claim is filed after, or was pending before the Department of Veterans Affairs, the Court of Veterans Appeals \[now Court of Appeals for Veterans Claims\], the Court of Appeals for the Federal Circuit, or the Supreme Court on the date of the enactment of this Act \[Nov. 21, 1997\]."
+Pub. L. 105–111, §1(c)(2), Nov. 21, 1997, 111 Stat. 2272, provided that: "Notwithstanding section 402 of the Veterans Judicial Review Act (38 U.S.C. 7251 note), chapter 72 of title 38, United States Code, shall apply with respect to any decision of the Board of Veterans' Appeals on a claim alleging that a previous determination of the Board was the product of clear and unmistakableerror if that claim is filed after, or was pending before the Department of Veterans Affairs, the Court of Veterans Appeals \[now Court of Appeals for Veterans Claims\], the Court of Appeals for the Federal Circuit, or the Supreme Court on the date of the enactment of this Act \[Nov. 21, 1997\]."
 
 #### Chapter Applicable to Cases Filed On or After November 18, 1988
 

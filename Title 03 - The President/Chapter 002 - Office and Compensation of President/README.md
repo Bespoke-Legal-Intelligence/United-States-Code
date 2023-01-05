@@ -104,7 +104,7 @@ D. The functions of the Domestic Council are hereby transferred to the President
 
 E. Those functions of the Council on Environmental Quality and the Office of Environmental Quality relating to the evaluation provided for by Section 11 of the Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93–577, 88 Stat. 1878) \[42 U.S.C. 5910\], are hereby transferred to the Administrator of the Environmental Protection Agency.
 
-F. Those functions of the Office of Management and Budget and its Director relating to the Committee Management Secretariat (Public Law 92–463, 86 Stat. 770, as amended by Public Law 94–409, 90 Stat. 1247) \[see section 7 of the Federal Advisory Committee Act, Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 774, as amended, set out in Title 5, Appendix\] are hereby transferred to the Administrator of General Services.
+F. Those functions of the Office of Management and Budget and its Director relating to the Committee Management Secretariat (Public Law 92–463, 86 Stat. 770, as amended by Public Law 94–409, 90 Stat. 1247) \[see 5 U.S.C. 1006\] are hereby transferred to the Administrator of General Services.
 
 G. The functions of the Economic Opportunity Council are hereby transferred to the President, who may delegate such functions within the Executive Office of the President as the President may from time to time deem desirable.
 
@@ -376,7 +376,7 @@ Sec. 3. (a) The Office of Administration shall provide common administrative sup
 
 (6) any other administrative support or service which will achieve financial savings and increase efficiency through centralization of the supporting service.
 
-(c) Administrative support and services shall be provided to all units within the Executive Office of the President in a manner consistent with available funds and other resources, or in accord with Section 7 of theAct of May 21, 1920 (41 Stat. 613), as amended (31 U.S.C. 686, referred to as the Economy Act) \[31 U.S.C. 1535, 1536\].
+(c) Administrative support and services shall be provided to all units within the Executive Office of the President in a manner consistent with available funds and other resources, or in accord with Section 7 of the Act of May 21, 1920 (41 Stat. 613), as amended (31 U.S.C. 686, referred to as the Economy Act) \[31 U.S.C. 1535, 1536\].
 
 Sec. 4. (a) Subject to such direction or approval as the President may provide or require, the Director shall organize the Office of Administration, contract for supplies and services, and do all other things that the President, as head of the Office of Administration, might do.
 
@@ -536,11 +536,11 @@ Ex. Ord. No. 13199, Jan. 29, 2001, 66 F.R. 8499, as amended by Ex. Ord. No. 1349
 
 #### Executive Order No. 13283
 
-Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of Global Communications in the White House Office, was revoked by Ex. Ord. No. 13385, §9, Sept. 29, 2005, 70 F.R. 57991, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of Global Communications in the White House Office, was revoked by Ex. Ord. No. 13385,§9, Sept. 29, 2005, 70 F.R. 57991, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 13498
 
-Ex. Ord. No. 13498, Feb. 5, 2009, 74 F.R. 6533, which established the President's Advisory Council for Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 13831, §4, May 3, 2018, 83 F.R. 20717, set out below.
+Ex. Ord. No. 13498, Feb. 5, 2009, 74 F.R. 6533, which established the President's Advisory Council for Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 13831, §4, May 3, 2018, 83 F.R. 20717, formerly set out below.
 
 \[For extensions of term of the President's Advisory Council on Faith-Based and Neighborhood Partnerships, see Ex. Ord. Nos. 13569 and 13640, set out below, and Executive Orders listed after Ex. Ord. No. 13640.\]
 
@@ -550,7 +550,7 @@ Ex. Ord. No. 13503, Feb. 19, 2009, 74 F.R. 8139, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to take a coordinated and comprehensive approach to developing and implementing an effective strategy concerning urban America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. About 80 percent of Americans live in urban areas, and the economic health and social vitality of our urban communities are critically important to the prosperity and quality of life for Americans. Vibrant cities spawn innovation, economic growth, and cultural enrichment through the businesses, universities, and civic, cultural, religious, and nonprofit institutions they attract. Forward-looking policies that encourage wise investment and development in our urban areas will create employment and housing opportunities and make our country more competitive, prosperous, and strong. In the past, insufficient attention has been paid to the problems faced by urban areas andto coordinating the many Federal programs that affect our cities. A more comprehensive approach is needed, both to develop an effective strategy for urban America and to coordinate the actions of the many executive departments and agencies whose actions impact urban life.
+Section 1. <i>Policy</i>. About 80 percent of Americans live in urban areas, and the economic health and social vitality of our urban communities are critically important to the prosperity and quality of life for Americans. Vibrant cities spawn innovation, economic growth, and cultural enrichment through the businesses, universities, and civic, cultural, religious, and nonprofit institutions they attract. Forward-looking policies that encourage wise investment and development in our urban areas will create employment and housing opportunities and make our country more competitive, prosperous, and strong. In the past, insufficient attention has been paid to the problems faced by urban areas and to coordinating the many Federal programs that affect our cities. A more comprehensive approach is needed, both to develop an effective strategy for urban America and to coordinate the actions of the many executive departments and agencies whose actions impact urban life.
 
 Sec. 2. <i>Establishment</i>. There is established within the Executive Office of the President the White House Office of Urban Affairs (the "Office").
 
@@ -636,7 +636,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13640, Apr. 5, 2013, 78 F.R. 21211, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], it is hereby ordered as follows:
 
 Section 1. <i>Continuing the President's Advisory Council on Faith-Based and Neighborhood Partnerships</i>. The President's Advisory Council on Faith-Based and Neighborhood Partnerships, as set forth under the provisions of Executive Order 13498 of February 5, 2009 \[formerly set out as a note above\], and reestablished by section 5 of Executive Order 13569 of April 5, 2011 \[set out as a note above\], is hereby extended and shall terminate 2 years from the date of this order unless further extended by the President.
 
@@ -654,7 +654,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Additional Extensions of Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships
 
-Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extension of term of President's Advisory Council on Faith-Based and Neighborhood Partnerships was contained in the following prior Executive Order:
 
@@ -720,7 +720,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 For many years, middle-class Americans have been working harder, yet not enjoying their fair share of the fruits of a growing economy. While the productivity of the American workforce grew during the decade ending in 2007, middle-income workers saw their real incomes fall. The current economic situation has exacerbated the challenges facing middle-class Americans, with health care coverage, safe and steady employment opportunities, effective and affordable education, owning a home, and saving for retirement slipping out of reach. It is a high priority of my Administration to achieve a secure future for middle-class working families, one in which they share in prosperous times and are cushioned during hard times. To these ends, I hereby direct the following:
 
-Section 1. <i>White House Task Force on Middle-Class Working Families</i>. There is established within the Office of the Vice President, a White House Task Force on Middle-Class Working Families (Task Force) to focus on raising the living standards of middle-class workingfamilies in the United States of America. The Vice President shall serve as Chair of the Task Force.
+Section 1. <i>White House Task Force on Middle-Class Working Families</i>. There is established within the Office of the Vice President, a White House Task Force on Middle-Class Working Families (Task Force) to focus on raising the living standards of middle-class working families in the United States of America. The Vice President shall serve as Chair of the Task Force.
 
 (a)
 

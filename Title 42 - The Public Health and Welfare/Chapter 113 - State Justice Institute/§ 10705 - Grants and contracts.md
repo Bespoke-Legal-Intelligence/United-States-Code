@@ -68,7 +68,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 &emsp;(9) to develop and test methods for measuring the performance of judges and courts and to conduct experiments in the use of such measures to improve the functioning of such judges and courts;
 
-&emsp;(10) to support studies of court rules and procedures, discovery devices, and evidentiary standards, to identify problems with the operation of such rules, procedures, devices, and standards, to devise alternative approaches to better reconcile the requirements of due process with the need for swift and certain justice, and to test the utility of those alternative approaches;
+&emsp;(10) to support studies of court rules and procedures, discovery devices, and evidentiary standards, to identify problems with the operation of such rules, procedures, devices, andstandards, to devise alternative approaches to better reconcile the requirements of due process with the need for swift and certain justice, and to test the utility of those alternative approaches;
 
 &emsp;(11) to support studies of the outcomes of cases in selected subject matter areas to identify instances in which the substance of justice meted out by the courts diverges from public expectations of fairness, consistency, or equity, to propose alternative approaches to the resolving of cases in problem areas, and to test and evaluate those alternatives;
 
@@ -88,7 +88,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 #### (d) Matching fund requirements
 
-The Institute shall incorporate in any grant, cooperative agreement, or contract awarded under this section in which a State or local court (or other unit of State or local government) is the recipient, the requirement that the recipient provide a match, from private or public sources, not less than 50 per centum of the total cost of such grant, cooperative agreement, or contract, except that such requirement may be waived in exceptionally rare circumstances upon the approval of the chief justice of thehighest court of the State and a majority of the Board of Directors.
+The Institute shall incorporate in any grant, cooperative agreement, or contract awarded under this section in which a State or local court (or other unit of State or local government) is the recipient, the requirement that the recipient provide a match, from private or public sources, not less than 50 per centum of the total cost of such grant, cooperative agreement, or contract, except that such requirement may be waived in exceptionally rare circumstances upon the approval of the chief justice of the highest court of the State and a majority of the Board of Directors.
 
 #### (e) Compliance monitoring and evaluation by Institute
 
@@ -140,7 +140,7 @@ Subsec. (c)(15). Pub. L. 102–528, §3(2)(B), redesignated par. (14) as (15).
 
 Pub. L. 100–690, §7321(b)(3)(A), inserted "judicial and" before "nonjudicial".
 
-Subsec. (c)(4) to (15). Pub. L. 100–702, §603(2), (3), which directed the striking out of par. (4) and redesignation of pars. (5) to (15) as (4) to (14), respectively, was executed by striking out par. (4) and redesignating pars. (5) to (14) as (4) to (13), respectively, in view of the intervening redesignation of pars. (5) to (15) as (4) to (14), respectively, by Pub. L. 100–690, §7321(b)(3)(C). See below. Prior to amendment, par. (4) read as follows: "to support studies of the appropriateness and efficacy of court organizations and financing structures in particular States, and to enable States to implement plans for improved court organization and finance;".
+Subsec. (c)(4) to (15). Pub. L. 100–702, §603(2), (3), which directed the striking out of par. (4) and redesignation of pars. (5) to (15) as (4) to (14), respectively, was executed by striking out par. (4) and redesignatingpars. (5) to (14) as (4) to (13), respectively, in view of the intervening redesignation of pars. (5) to (15) as (4) to (14), respectively, by Pub. L. 100–690, §7321(b)(3)(C). See below. Prior to amendment, par. (4) read as follows: "to support studies of the appropriateness and efficacy of court organizations and financing structures in particular States, and to enable States to implement plans for improved court organization and finance;".
 
 Pub. L. 100–690, §7321(b)(3)(B), (C), redesignated pars. (5) to (15) as (4) to (14), respectively, and struck out former par. (4) which read as follows: "to assist State and local courts in meeting requirements of Federal law applicable to recipients of Federal funds;".
 

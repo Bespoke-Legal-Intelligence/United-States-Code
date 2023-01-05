@@ -32,7 +32,7 @@ Designation of employees under this section may be made only from among employee
 
 #### Prior Provisions
 
-A prior section 203 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1044; Pub. L. 102–88, title III, §303, Aug. 14, 1991, 105 Stat. 431, related to participants in the system and was set out as a note under section 403 of this titleprior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 203 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1044; Pub. L. 102–88, title III, §303, Aug. 14, 1991, 105 Stat. 431, related to participants in the system and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 

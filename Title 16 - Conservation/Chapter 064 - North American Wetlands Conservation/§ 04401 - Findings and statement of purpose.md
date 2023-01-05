@@ -18,7 +18,7 @@ The Congress finds and declares that—
 
 &emsp;(7) more than 50 per centum of the original wetlands in the United States alone have been lost;
 
-&emsp;(8) wetlands destruction, loss of nesting cover, and degradation of migration and wintering habitat have contributed to long-term downward trends in populations of migratory bird species such as pintails, American bitterns, and black ducks;
+&emsp;(8) wetlands destruction, loss of nesting cover, and degradation of migration and wintering habitat have contributed to long-term downward trends in populations of migratorybird species such as pintails, American bitterns, and black ducks;
 
 &emsp;(9) the migratory bird treaty obligations of the United States with Canada, Mexico, and other countries require protection of wetlands that are used by migratory birds for breeding, wintering, or migration and are needed to achieve and to maintain optimum population levels, distributions, and patterns of migration;
 
@@ -50,11 +50,11 @@ The purposes of this chapter are to encourage partnership among public agencies 
 
 #### References in Text
 
-The Fish and Wildlife Conservation Act of 1980, referred to in subsec. (a)(10), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, as amended, which is classified generally to chapter 49 (§2901 et seq.) of this title. In 1988, section 2912 of that chapter was enacted and section 2910 of that chapter was amended by Pub. L. 100–653, title VIII, Nov. 14, 1988, 102 Stat. 3833. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Fish and Wildlife Conservation Act of 1980, referred to in subsec. (a)(10), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, which is classified generally to chapter 49 (§2901 et seq.) of this title. In 1988, section 2912 of that chapter was enacted and section 2910 of that chapter was amended by Pub. L. 100–653, title VIII, Nov. 14, 1988, 102 Stat. 3833. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 101–233, Dec. 13,1989, 103 Stat. 1968, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Pub. L. 107–308, §1, Dec. 2, 2002, 116 Stat. 2446, provided that: "This Act \
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–312, title III, §301, Oct. 30, 1998, 112 Stat. 2958, provided that: "This title \[amending sections 3744 and 4406 of this title and enacting provisions set out as a note under section 4403 of this title\] may be cited as the 'Wetlands and Wildlife Enhancement Act of 1998'."
+Pub. L. 105–312, title III, §301, Oct. 30, 1998, 112 Stat. 2958, provided that: "This title \[amending sections 3744and 4406 of this title and enacting provisions set out as a note under section 4403 of this title\] may be cited as the 'Wetlands and Wildlife Enhancement Act of 1998'."
 
 #### Short Title of 1994 Amendment
 

@@ -1,6 +1,6 @@
 ### §7318. Thirty years or more: regular commissioned officers
 
-A regular commissioned officer of the Army who has at least 30 years of service computed under section 7326 of this title may be retired upon his request, in the discretion of the President.
+A regular commissioned officer of the Army who has at least 30 years of service computedunder section 7326 of this title may be retired upon his request, in the discretion of the President.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 226, §3918; renumbered §7318 and amended Pub. L. 115–232, div. A, title VIII, §§808(b)(12), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840.)
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Delegation of Functions
 
-Functions of the President under this section to approve the request of a regular commissioned officer of the Army to retire after at least 30 years of service delegated to the Secretary of Defense to perform, without approval, ratification, or other action of the President, and with authority for the Secretary to redelegate, see Ex. Ord. No. 12396, §§1(f), 3, Dec. 9, 1982, 47 F.R. 55897,55898, set out as a note under section 301 of Title 3, The President.
+Functions of the President under this section to approve the request of a regular commissioned officer of the Army to retire after at least 30 years of service delegated to the Secretary of Defense to perform, without approval, ratification, or other action of the President, and with authority for the Secretary to redelegate, see Ex. Ord. No. 12396, §§1(f), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 

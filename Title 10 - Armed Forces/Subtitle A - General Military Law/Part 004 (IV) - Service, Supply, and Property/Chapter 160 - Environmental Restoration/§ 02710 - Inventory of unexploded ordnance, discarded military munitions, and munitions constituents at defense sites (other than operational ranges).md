@@ -64,7 +64,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "discarded military munitions" means military munitions that have been abandoned without proper disposal or removed from storage in a military magazine or other storage area for the purpose of disposal. The term does not include unexploded ordnance, military munitions that are being held for future use or planned disposal, or military munitions that have been properly disposed of, consistent with applicable environmental laws and regulations.
 
-&emsp;(3) The term "munitions constituents" means any materials originating fromunexploded ordnance, discarded military munitions, or other military munitions, including explosive and nonexplosive materials, and emission, degradation, or breakdown elements of such ordnance or munitions.
+&emsp;(3) The term "munitions constituents" means any materials originating from unexploded ordnance, discarded military munitions, or other military munitions, including explosive and nonexplosive materials, and emission, degradation, or breakdown elements of such ordnance or munitions.
 
 &emsp;(4) The term "possessions" includes Johnston Atoll, Kingman Reef, Midway Island, Nassau Island, Palmyra Island, and Wake Island.
 

@@ -120,7 +120,7 @@ Secretary concerned.—The term 'Secretary concerned' means—
 
 &emsp;"(2)
 
-Application of definitions of origin.—If the military personnel records of a person do not reflectthe person's membership in one of the groups identified in subparagraphs (B) through (F) of paragraph (1) but historical evidence exists that demonstrates the person's Jewish faith held at the time of service, or that the person identified himself as of African, Asian, Hispanic, or Native American descent, the person may be treated as being a member of the applicable group by the Secretary concerned for purposes of this section."
+Application of definitions of origin.—If the military personnel records of a person do not reflect the person's membership in one of the groups identified in subparagraphs (B) through (F) of paragraph (1) but historical evidence exists that demonstrates the person's Jewish faith held at the time of service, or that the person identified himself as of African, Asian, Hispanic, or Native American descent, the person may be treated as being a member of the applicable group by the Secretary concerned for purposes of this section."
 
 \[Pub. L. 116–283, div. A, title V, §561(b), Jan. 1, 2021, 134 Stat. 3639, provided that: "The amendment made by subsection (a) \[amending section 584 of Pub. L. 116–92, set out above\] shall take effect as if enacted on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 \[Dec. 20, 2019\] (Public Law 116–92; 133 Stat. 1281 \[1198\])."\]
 

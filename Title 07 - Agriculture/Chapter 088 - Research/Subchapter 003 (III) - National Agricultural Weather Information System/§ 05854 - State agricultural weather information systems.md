@@ -4,7 +4,7 @@
 
 #### (1) Grants required
 
-&emsp;With funds allocated to carry out this section, the Secretary of Agriculture shall make grants to not fewer than 10 eligible States toplan and administer, in cooperation with persons described in paragraph (2), advisory programs for State agricultural weather information systems.
+&emsp;With funds allocated to carry out this section, the Secretary of Agriculture shall make grants to not fewer than 10 eligible States to plan and administer, in cooperation with persons described in paragraph (2), advisory programs for State agricultural weather information systems.
 
 #### (2) Persons described
 

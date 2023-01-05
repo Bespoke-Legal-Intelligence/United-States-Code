@@ -108,7 +108,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of the pilot program established under this subsection is to determine whetherapproved insurance providers will compete to market policies or plans of insurance with reduced rates of premium, in a manner that maintains the financial soundness of approved insurance providers and is consistent with the integrity of the Federal crop insurance program.
+&emsp;The purpose of the pilot program established under this subsection is to determine whether approved insurance providers will compete to market policies or plans of insurance with reduced rates of premium, in a manner that maintains the financial soundness of approved insurance providers and is consistent with the integrity of the Federal crop insurance program.
 
 #### (2) Establishment
 
@@ -158,7 +158,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In addition to counties otherwise included in the pilot program, the Corporation shall include in the pilot program for the 2003 reinsurance year at least 8 counties in the State of California and at least 8 counties in the State of Pennsylvania.
+&emsp;&emsp;In addition to counties otherwise included in the pilot program, the Corporation shallinclude in the pilot program for the 2003 reinsurance year at least 8 counties in the State of California and at least 8 counties in the State of Pennsylvania.
 
 #### (B) Selection criteria
 
@@ -260,7 +260,7 @@
 
 #### (C) Review requirements
 
-&emsp;&emsp;In reviewing applications under this subsection, the Board shall conduct the review in a manner consistent with the standards, rules, and procedures for policies or plans of insurance submitted under section 1508(h) of this title and the actuarial soundness requirements applied to other policies and plans of insurance made available under this subchapter.
+&emsp;&emsp;In reviewing applications under this subsection, the Board shall conduct the reviewin a manner consistent with the standards, rules, and procedures for policies or plans of insurance submitted under section 1508(h) of this title and the actuarial soundness requirements applied to other policies and plans of insurance made available under this subchapter.
 
 #### (D) Prioritization
 
@@ -302,7 +302,7 @@
 
 #### (F) Approved insurance providers
 
-&emsp;&emsp;Any policy or plan of insurance approved under this subsection may be sold only bythe approved insurance provider that submits the application and by any additional approved insurance provider that—
+&emsp;&emsp;Any policy or plan of insurance approved under this subsection may be sold only by the approved insurance provider that submits the application and by any additional approved insurance provider that—
 
 &emsp;&emsp;&emsp;(i) agrees to pay maintenance fees or other payments to the approved insurance provider that submitted the application in an amount agreed to by the applicant and the additional approved insurance provider, on the condition that the fees or payments shall be reasonable and appropriate to ensure that the policies or plans of insurance may be made available by additional approved insurance providers; and
 
@@ -344,7 +344,7 @@
 
 #### (A) Limitation on expenditures
 
-&emsp;&emsp;Notwithstanding any other provision in this subsection, of the funds of the Corporation, the Corporation shall use to carry out this section not more than $12,500,000 for each of fiscal years 2015 through 2018, to remain available until expended.
+&emsp;&emsp;Notwithstanding any other provision in this subsection, of the funds of the Corporation, the Corporation shall use to carry outthis section not more than $12,500,000 for each of fiscal years 2015 through 2018, to remain available until expended.
 
 #### (B) Relation to other programs
 

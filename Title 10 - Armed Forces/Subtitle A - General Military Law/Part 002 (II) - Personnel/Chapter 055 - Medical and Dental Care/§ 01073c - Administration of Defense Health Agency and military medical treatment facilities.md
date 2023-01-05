@@ -124,11 +124,11 @@ Additional DHA Organizations.—Not later than September 30, 2022, the Secretary
 
 &emsp;&emsp;(A) led, at the election of the Director, by a director or commander (to be called the Director or Commander of Defense Health Agency Public Health); and
 
-&emsp;&emsp;(B) comprised of the Army Public Health Command, the Navy–Marine Corps Public Health Command, Air Force public health programs, and any other related defense health activities that the Secretary considers appropriate, including overseas laboratories focused on preventive medicine, environmental health, and similar matters.
+&emsp;&emsp;(B) comprised of the Army Public Health Center, the Navy–Marine Corps Public Health Center, Air Force public health programs, and any other related defense health activities that the Secretary considers appropriate, including overseas laboratories focused on preventive medicine, environmental health, and similar matters.
 
 (f)
 
-Consultations on Medical Research of Military Departments.—In establishing the Defense Health Agency Research and Development pursuant to subsection (e)(1), and on a basis that is not less frequent than semiannually thereafter, the Secretary of Defense shall carry out recurring consultations with each military department regarding the plans and requirements for military medical research organizations and activities of the military department.
+Consultations on Medical Research of Military Departments.—In establishing theDefense Health Agency Research and Development pursuant to subsection (e)(1), and on a basis that is not less frequent than semiannually thereafter, the Secretary of Defense shall carry out recurring consultations with each military department regarding the plans and requirements for military medical research organizations and activities of the military department.
 
 (g)
 
@@ -139,6 +139,10 @@ Treatment of Department of Defense for Purposes of Personnel Assignment.—In im
 &emsp;(2) the Secretary of Defense may reassign any employee of a component of the Department of Defense or a military department in a position in the civil service (as defined in section 2101 of title 5) to any other component of the Department of Defense or military department.
 
 (h)
+
+Rule of Construction Regarding Secretaries Concerned and Medical Evaluation Boards.—Nothing in this section shall be construed as transferring to the Director of the Defense Health Agency, or otherwise revoking, any authority or responsibility of the Secretary concerned under chapter 61 of this title with respect to a member of the armed forces (including with respect to the administration of morale and welfare and the determination of fitness for duty for the member) while the member is being considered by a medical evaluation board.
+
+(i)
 
 Definitions.—In this section:
 
@@ -152,11 +156,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) any other location used for purposes of providing health care services as designated by the Secretary of Defense.
 
-(Added Pub. L. 114–328, div. A, title VII, §702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, §713, title X, §1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, §711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, §711, title XVII, §1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813; Pub. L. 116–283, div. A, title X, §1081(a)(24), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 117–81, div. A, title VII, §§711, 712(a), Dec. 27, 2021, 135 Stat. 1783.)
+(Added Pub. L. 114–328, div. A, title VII, §702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, §713, title X, §1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, §711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, §711, title XVII, §1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813; Pub. L. 116–283, div. A, title X, §1081(a)(24), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 117–81, div. A, title VII, §§711, 712(a), Dec. 27, 2021, 135 Stat. 1783; Pub. L. 117–263, div. A, title VII, §§711(b), 720(c), Dec. 23, 2022, 136 Stat. 2656, 2663.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(2)(B). Pub. L. 117–263, §720(c), substituted "Army Public Health Center, the Navy–Marine Corps Public Health Center" for "Army Public Health Command, the Navy–Marine Corps Public Health Command".
+
+Subsecs. (h), (i). Pub. L. 117–263, §711(b), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 <b>2021</b>—Subsec. (a)(4), (6). Pub. L. 116–283 redesignated par. (6) relating to authorization of military director or other senior military officer to serve as a commanding officer as (4) and moved it to appear before par. (5).
 
@@ -215,6 +223,48 @@ Subsec. (a)(2). Pub. L. 115–91, §713(2), substituted "military commander or d
 Subsec. (a)(4). Pub. L. 115–91, §713(3), added par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Modification of Requirement To Transfer Research and Development and Public Health Functions to Defense Health Agency
+
+Pub. L. 117–263, div. A, title VII, §720, Dec. 23, 2022, 136 Stat. 2662, provided that:
+
+"(a)
+
+Temporary Retention.—Notwithstanding section 1073c(e) of title 10, United States Code, at the discretion of the Secretary of Defense, a military department may retain, until not later than February 1, 2024, a covered function if the Secretary of Defense determines the covered function—
+
+&emsp;"(1) addresses a need that is unique to the military department; and
+
+&emsp;"(2) is in direct support of operating forces and necessary to execute strategies relating to national security and defense.
+
+"(b)
+
+Briefing.—
+
+&emsp;"(1)
+
+In general.—Not later than March 1, 2023, the Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on any covered function that the Secretary has determined should be retained by a military department pursuant to subsection (a).
+
+&emsp;"(2)
+
+Elements.—The briefing required by paragraph (1) shall address the following:
+
+&emsp;&emsp;"(A) A description of each covered function that the Secretary has determined should be retained by a military department pursuant to subsection (a).
+
+&emsp;&emsp;"(B) The rationale for each such determination.
+
+&emsp;&emsp;"(C) Recommendations for amendments to section 1073c of title 10, United States Code, to authorize the ongoing retention of covered functions by military departments.
+
+"(c)
+
+Modification to Names of Public Health Commands.—\[Amended this section.\]
+
+"(d)
+
+Covered Function Defined.—In this section, the term 'covered function' means—
+
+&emsp;"(1) a function relating to research and development that would otherwise be transferred to the Defense Health Agency Research and Development pursuant to section 1073c(e)(1) of title 10, United States Code; or
+
+&emsp;"(2) a function relating to public health that would otherwise be transferred to the Defense Health Agency Public Health pursuant to section 1073c(e)(2) of such title."
 
 #### Requirements for Consultations Relating to Military Medical Research and Defense Health Agency Research and Development
 
@@ -340,7 +390,7 @@ Supply and demand for medical services.—The Director of the Defense Health Age
 
 &emsp;&emsp;&emsp;"(i) validate supply and demand requirements for medical and dental services at each military medical treatment facility;
 
-&emsp;&emsp;&emsp;"(ii) in coordination with the Surgeons General of the Armed Forces, provide currency workloadfor uniformed medical and dental personnel at each such facility to maintain skills proficiency; and
+&emsp;&emsp;&emsp;"(ii) in coordination with the Surgeons General of the Armed Forces, provide currency workload for uniformed medical and dental personnel at each such facility to maintain skills proficiency; and
 
 &emsp;&emsp;&emsp;"(iii) if workload is insufficient to meet requirements, identify alternative training and clinical practice sites for uniformed medical and dental personnel, and establish military-civilian training partnerships, to provide such workload.
 

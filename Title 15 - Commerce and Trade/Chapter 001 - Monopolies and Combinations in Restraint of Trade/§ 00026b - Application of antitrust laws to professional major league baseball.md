@@ -52,7 +52,7 @@ Only a major league baseball player has standing to sue under this section. For 
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, as amended, which is classified generally to chapter 32 (§1291 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, which is classified generally to chapter 32 (§1291 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -62,5 +62,5 @@ Another section 27 of act Oct. 15, 1914, ch. 323, was renumbered section 28 and 
 
 #### Purpose
 
-Pub. L. 105–297, §2, Oct. 27, 1998, 112 Stat. 2824, provided that: "It is the purpose of this legislation to state that major league baseball players are covered under the antitrust laws (i.e., that major league baseball players will have the same rights under the antitrust laws as do other professional athletes, e.g., football and basketball players), along with a provision that makes it clear that the passage of this Act \[enacting this section and provisions set out as a note under section 1 of this title\] does not change the application of the antitrust laws in any other context or with respect to any other person or entity."
+Pub. L. 105–297, §2, Oct. 27, 1998, 112 Stat. 2824, provided that: "It is the purpose of this legislation to statethat major league baseball players are covered under the antitrust laws (i.e., that major league baseball players will have the same rights under the antitrust laws as do other professional athletes, e.g., football and basketball players), along with a provision that makes it clear that the passage of this Act \[enacting this section and provisions set out as a note under section 1 of this title\] does not change the application of the antitrust laws in any other context or with respect to any other person or entity."
 

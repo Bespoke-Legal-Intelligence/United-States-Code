@@ -120,7 +120,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(27) The 11th unrecognized war era involving active United States military personnel started on April 5, 1986, when the La Belle discotheque in West Berlin, Germany, was bombed, killing two United States soldiers and wounding 79 other members of the Armed Forces, which triggered what became known as the Libyan Conflict.
 
-&emsp;"(28) The military operations of the Libyan Conflict included numerous air strikes by United States military forces and resulted in the deaths of two membersof the Armed Forces who sacrificed their lives in service to the United States.
+&emsp;"(28) The military operations of the Libyan Conflict included numerous air strikes by United States military forces and resulted in the deaths of two members of the Armed Forces who sacrificed their lives in service to the United States.
 
 &emsp;"(29) The Libyan Conflict led to the 12th unrecognized war era involving active United States military personnel, known collectively as the Persian Gulf Conflicts, which lasted from July 24, 1987, through September 26, 1988.
 
@@ -148,5 +148,5 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-Sense of Congress.—It is the sense of Congress that, in accordance with the history, tradition, and purposes of The American Legion, it is fair, proper, and reasonable that the privilege of membership in The American Legion should be extended to all military personnel who served on active military duty during all of the unrecognized war eras involving active United States military personnel."
+Sense of Congress.—It is the sense of Congress that, in accordance with the history, tradition, and purposes of The American Legion, it is fair, proper, and reasonable that the privilege of membership in The American Legion should be extended to all militarypersonnel who served on active military duty during all of the unrecognized war eras involving active United States military personnel."
 

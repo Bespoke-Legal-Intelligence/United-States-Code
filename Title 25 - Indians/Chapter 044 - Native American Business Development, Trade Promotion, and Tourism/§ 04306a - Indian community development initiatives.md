@@ -52,7 +52,7 @@ For assistance provided pursuant to section 4707 of title 12 to benefit Native C
 
 #### (B) Financing assistance
 
-&emsp;&emsp;The study shall assess and quantify the extent of assistance provided to non-Indian borrowers and to Indian (both Tribal and individual) borrowers (including information about such assistance as a percentage of need for Indian borrowers and for non-Indian borrowers, assistance to Indian borrowers and to non-Indian borrowers as a percentage of total applicants, and such assistance to Indian borrowers as individuals as compared to such assistance to Indian Tribes) through the loan programs, the loan guarantee programs, or bond guarantee programs of the—
+&emsp;&emsp;The study shall assess and quantify the extent of assistance provided to non-Indianborrowers and to Indian (both Tribal and individual) borrowers (including information about such assistance as a percentage of need for Indian borrowers and for non-Indian borrowers, assistance to Indian borrowers and to non-Indian borrowers as a percentage of total applicants, and such assistance to Indian borrowers as individuals as compared to such assistance to Indian Tribes) through the loan programs, the loan guarantee programs, or bond guarantee programs of the—
 
 &emsp;&emsp;&emsp;(i) Department of the Interior;
 

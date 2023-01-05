@@ -38,7 +38,7 @@ Education Activities.—Except for reasonable and usual preliminary costs for ac
 
 Policies and Procedures.—The Under Secretary for Health may prescribe policies and procedures to guide the spending of funds by corporations established under this subchapter that are consistent with the purpose of such corporations as flexible funding mechanisms and with Federal and State laws and regulations, and executive orders, circulars, and directives that apply generally to the receipt and expenditure of funds by nonprofit organizations exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4164; renumbered §7364 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §204(d), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, §804(a), May 5, 2010, 124 Stat. 1177; Pub. L.116–315, title VII, §7006, Jan. 5, 2021, 134 Stat. 5059.)
+(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4164; renumbered §7364 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §204(d), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, §804(a), May 5, 2010, 124 Stat. 1177; Pub. L. 116–315, title VII, §7006, Jan. 5, 2021, 134 Stat. 5059.)
 
 #### <b>Editorial Notes</b>
 

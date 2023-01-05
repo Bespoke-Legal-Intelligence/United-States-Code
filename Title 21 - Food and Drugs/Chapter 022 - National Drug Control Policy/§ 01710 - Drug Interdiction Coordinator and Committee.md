@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) set forth the Government's strategy for drug interdiction;
 
-&emsp;&emsp;&emsp;(ii) state the specific roles and responsibilities of the relevant National DrugControl Program agencies for implementing that strategy; and
+&emsp;&emsp;&emsp;(ii) state the specific roles and responsibilities of the relevant National Drug Control Program agencies for implementing that strategy; and
 
 &emsp;&emsp;&emsp;(iii) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement that strategy.
 
@@ -78,7 +78,7 @@
 
 #### (4) Report
 
-&emsp;Not later than September 30 of each year, the Chairperson of the Interdiction Committee shall submit to the Director and to the appropriate congressional committees a report describing the results of the meetings and any significant findings of the Committee during the previous 12 months. The report required under this paragraph shall be in unclassified form, but may include a classified annex.
+&emsp;Not later than September 30 of each year, the Chairperson of the Interdiction Committeeshall submit to the Director and to the appropriate congressional committees a report describing the results of the meetings and any significant findings of the Committee during the previous 12 months. The report required under this paragraph shall be in unclassified form, but may include a classified annex.
 
 #### (c) International coordination
 

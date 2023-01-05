@@ -47,6 +47,8 @@
 | [950\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous/%C2%A7%2000950%20-%20Designation%2C%20powers%2C%20and%20accountability%20of%20deputy%20disbursing%20officials.md) | Designation, powers, and accountability of deputy disbursing officials. |
 | [951\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous/%C2%A7%2000951%20-%20Aircraft%20accident%20investigations.md) | Aircraft accident investigations. |
 | [952\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous/%C2%A7%2000952%20-%20Construction%20of%20Coast%20Guard%20vessels%20and%20assignment%20of%20vessel%20projects.md) | Construction of Coast Guard vessels and assignment of vessel projects. |
+| [953\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous/%C2%A7%2000953%20-%20Support%20for%20Coast%20Guard%20Academy.md) | Support for Coast Guard Academy. |
+| [954\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous/%C2%A7%2000954%20-%20Mixed-funded%20athletic%20and%20recreational%20extracurricular%20programs.md) | Mixed-funded athletic and recreational extracurricular programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,9 +56,11 @@
 
 #### Prior Provisions
 
-A prior analysis for chapter 9 "COAST GUARD ACADEMY" consisted of items 181 "Administration of Academy", 181a "Cadet applicants; preappointment travel to Academy", 182 "Cadets; number, appointment, obligation to serve", 183 "Cadets; initial clothing allowance", 184 "Cadets; degree of bachelor of science", 185 "Cadets; appointment as ensign", 186 "Civilian teaching staff", 187 "Permanent commissioned teaching staff; composition", 188 "Appointment of permanent commissioned teaching staff", 189 "Grade of permanent commissioned teaching staff", 190 "Retirement of permanent commissioned teaching staff", 191 "Credit for service as member of civilian teaching staff", 192 "Assignment of personnel as instructors", 194 "Annual Board of Visitors", 195 "Admission of foreign nationals for instruction; restrictions; conditions", 196 "Participation in Federal, State, or other educational research grants", 197 "Cadets: charges and fees for attendance; limitation", 199 "Marine safety curriculum", and 200 "Policy on sexual harassment and sexual violence", prior to repeal by Pub. L. 115–282, title I, §107(a), Dec. 4, 2018, 132 Stat. 4204.
+A prior analysis for chapter 9 "COAST GUARD ACADEMY" consisted of items 181 "Administration ofAcademy", 181a "Cadet applicants; preappointment travel to Academy", 182 "Cadets; number, appointment, obligation to serve", 183 "Cadets; initial clothing allowance", 184 "Cadets; degree of bachelor of science", 185 "Cadets; appointment as ensign", 186 "Civilian teaching staff", 187 "Permanent commissioned teaching staff; composition", 188 "Appointment of permanent commissioned teaching staff", 189 "Grade of permanent commissioned teaching staff", 190 "Retirement of permanent commissioned teaching staff", 191 "Credit for service as member of civilian teaching staff", 192 "Assignment of personnel as instructors", 194 "Annual Board of Visitors", 195 "Admission of foreign nationals for instruction; restrictions; conditions", 196 "Participation in Federal, State, or other educational research grants", 197 "Cadets: charges and fees for attendance; limitation", 199 "Marine safety curriculum", and 200 "Policy on sexual harassment and sexual violence", prior to repeal by Pub. L. 115–282, title I, §107(a), Dec. 4, 2018, 132 Stat. 4204.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. K, title CXII, §11250(b), Dec. 23, 2022, 136 Stat. 4052, added items 953 and 954.
 
 Pub. L. 115–282, title I, §107(a), title III, §310(b), Dec. 4, 2018, 132 Stat. 4204, 4248, inserted chapter 9 designation and heading and added items 901 to 952.
 

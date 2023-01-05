@@ -66,9 +66,19 @@ This chapter, referred to in subsec. (a), was in the original "this division", m
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 117–348, §1, Jan. 5, 2023, 136 Stat. 6211, provided that: "This Act \[enacting sections 628c and 1862w of Title 42, The Public Health and Welfare, amending sections 7103b and 7110 of this title, section 20702 of Title 34, Crime Control and Law Enforcement, and sections 623, 671, and 5106g of Title 42, and enacting provisions set out as notes under section 7103b of this title, section 4103 of Title 5, Government Organization and Employees, and section 671 of Title 42\] may be cited as the 'Trafficking Victims Prevention and Protection Reauthorization Act of 2022'."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–301, §1, Dec. 27, 2022, 136 Stat. 4382, provided that: "This Act \[amending section 7105 of this title\] may be cited as the 'Human Trafficking Prevention Act of 2022'."
+
+Pub. L. 117–211, §1, Oct. 17, 2022, 136 Stat. 2248, provided that: "This Act \[amending section 7104b of this title\] may be cited as the 'End Human Trafficking in Government Contracts Act of 2022'."
+
 #### Short Title of 2019 Amendment
 
-Pub. L. 116–92, div. F, title LXXI, §7151, Dec. 20, 2019, 133 Stat. 2257, provided that: "This subtitle \[subtitle B (§§7151–7155) of title LXXI of div. F of Pub. L. 116–92, amending section 7103 of this title and section 312 of Title 31, Money and Finance, and enacting provisions set out as a note under section 3305 of Title 12, Banks and Banking\] may be cited as the 'Financial Industry Guidance to Halt Trafficking Act' or the 'FIGHT Act'."
+Pub. L. 116–92, div. F, title LXXI, §7151, Dec. 20, 2019, 133 Stat. 2257, provided that: "This subtitle \[subtitle B (§§7151–7155) of title LXXI of div. F of Pub. L. 116–92, amending section 7103 of this title and section 312 of Title 31, Money and Finance, and enacting provisions set out as a note under section 3305 of Title 12, Banksand Banking\] may be cited as the 'Financial Industry Guidance to Halt Trafficking Act' or the 'FIGHT Act'."
 
 Pub. L. 115–427, §1, Jan. 9, 2019, 132 Stat. 5503, provided that: "This Act \[amending sections 7102, 7104, 7106, and 7107 of this title and enacting provisions set out as notes under sections 262d and 7107 of this title\] may be cited as the 'Trafficking Victims Protection Reauthorization Act of 2017'."
 
@@ -130,7 +140,7 @@ Distribution.—The model statute described in subsection (b) and the text of ch
 
 &emsp;"(2) distributed to the Attorney General of each State."
 
-\[Amendment by section 1243 of Pub. L. 113–4, which directed amendment of section 225(b) of the Trafficking Victims Reauthorization Act of 2008, was executed byamending section 225(b) of Pub. L. 110–457, the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, set out above, to reflect the probable intent of Congress.\]
+\[Amendment by section 1243 of Pub. L. 113–4, which directed amendment of section 225(b) of the Trafficking Victims Reauthorization Act of 2008, was executed by amending section 225(b) of Pub. L. 110–457, the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, set out above, to reflect the probable intent of Congress.\]
 
 #### Congressional Findings
 

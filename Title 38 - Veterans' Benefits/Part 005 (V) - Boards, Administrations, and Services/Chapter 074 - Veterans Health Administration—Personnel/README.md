@@ -8,6 +8,7 @@
 | [7402\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007402%20-%20Qualifications%20of%20appointees.md) | Qualifications of appointees. |
 | [7403\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007403%20-%20Period%20of%20appointments%3B%20promotions.md) | Period of appointments; promotions. |
 | [7404\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007404%20-%20Grades%20and%20pay%20scales.md) | Grades and pay scales. |
+| [7404A.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007404A%20-%20Awards.md) | Awards. |
 | [7405\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007405%20-%20Temporary%20full-time%20appointments%2C%20part-time%20appointments%2C%20and%20without-compensation%20appointments.md) | Temporary full-time appointments, part-time appointments, and without-compensation appointments. |
 | [7406\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007406%20-%20Residencies%20and%20internships.md) | Residencies and internships. |
 | [7407\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007407%20-%20Administrative%20provisions%20for%20section%207405%20and%207406%20appointments.md) | Administrative provisions for section 7405 and 7406 appointments. |
@@ -17,6 +18,7 @@
 | [7411\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007411%20-%20Full-time%20board-certified%20physicians%20and%20dentists%20reimbursement%20of%20continuing%20professional%20education%20expenses.md) | Full-time board-certified physicians and dentists: reimbursement of continuing professional education expenses. |
 | [7412\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007412%20-%20Annual%20determination%20of%20staffing%20shortages%3B%20recruitment%20and%20appointment%20for%20needed%20occupations.md) | Annual determination of staffing shortages; recruitment and appointment for needed occupations. |
 | [7413\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007413%20-%20Treatment%20of%20podiatrists%3B%20clinical%20oversight%20standards.md) | Treatment of podiatrists; clinical oversight standards. |
+| [7414\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007414%20-%20Compliance%20with%20requirements%20for%20examining%20qualifications%20and%20clinical%20abilities%20of%20health%20care%20professionals.md) | Compliance with requirements for examining qualifications and clinical abilities of health care professionals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -85,6 +87,10 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. U, title I, §112(b), Dec. 29, 2022, 136 Stat. 5414, added item 7414.
+
+Pub. L. 117–168, §1(b)(2), title IX, §906(b)(1), Aug. 10, 2022, 136 Stat. 1759, 1812, added item 7404A.
 
 <b>2019</b>—Pub. L. 116–12, §1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" for "PAY FOR PHYSICIANS AND DENTISTS" in item for subchapter III.
 

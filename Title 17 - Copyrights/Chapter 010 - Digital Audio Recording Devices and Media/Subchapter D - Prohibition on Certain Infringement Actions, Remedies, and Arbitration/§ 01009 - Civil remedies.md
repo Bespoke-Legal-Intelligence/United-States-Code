@@ -40,7 +40,7 @@ Statutory damages for section 1002 violations.—
 
 &emsp;&emsp;&emsp;(i)
 
-Device.—A complaining party may recover an award of statutory damages for each violation of section 1002(a) or (c) in the sum of not more than $2,500 per device involved in such violation or per device on which a service prohibited by section 1002(c) has been performed, as the court considers just.
+Device.—A complaining party may recover an award of statutory damages for each violation of section 1002(a) or (c) inthe sum of not more than $2,500 per device involved in such violation or per device on which a service prohibited by section 1002(c) has been performed, as the court considers just.
 
 &emsp;&emsp;&emsp;(ii)
 

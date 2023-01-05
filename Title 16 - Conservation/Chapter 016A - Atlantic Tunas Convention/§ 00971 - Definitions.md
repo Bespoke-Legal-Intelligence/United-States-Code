@@ -38,7 +38,7 @@ Par. (4). Pub. L. 104–43, §303(2), added par. (4) defining "exclusive economi
 
 Pub. L. 104–43, §303(1), redesignated par. (3) defining "Council" as (4).
 
-Par. (5). Pub. L. 104–43, §303(2), struck out par. (5) which read as follows: "The term 'fisheries zone' means the waters included within a zone contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is two hundred nautical miles from the baseline from which the territorial sea is measured; or similar zones established by other parties to the Convention to the extent that such zones are recognized by the United States."
+Par. (5). Pub. L. 104–43, §303(2), struck out par. (5) which read as follows: "The term 'fisheries zone' means the waters included within a zone contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is two hundred nautical miles from the baseline from which the territorial sea is measured; or similar zones established by other parties to the Convention to theextent that such zones are recognized by the United States."
 
 Pub. L. 104–43, §303(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -46,7 +46,7 @@ Pars. (6) to (11). Pub. L. 104–43, §303(1), redesignated pars. (5) to (10) as
 
 <b>1977</b>—Par. (4). Pub. L. 95–33 struck out the comma between "zone" and "contiguous", substituted "two hundred" for "200", and substituted a semicolon for a comma after "is measured".
 
-<b>1976</b>—Par. (4). Pub. L. 94–265, which directed the substitution of "the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal state, and the outer boundary is a line drawn in such a manner thateach point on it is 200 nautical miles from the baseline from which the territorial sea is measured," for "the fisheries zone established pursuant to the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)", was executed by making the substitution for "the entire zone established by the United States under the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)", to reflect the probable intent of Congress.
+<b>1976</b>—Par. (4). Pub. L. 94–265, which directed the substitution of "the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal state, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured," for "the fisheries zone established pursuant to the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)", was executed by making the substitution for "the entire zone established by the United States under the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)", to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

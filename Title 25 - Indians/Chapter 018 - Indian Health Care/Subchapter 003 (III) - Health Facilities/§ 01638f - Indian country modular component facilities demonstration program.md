@@ -26,7 +26,7 @@ The Secretary, acting through the Service, shall establish a demonstration progr
 
 #### (2) Selection
 
-&emsp;In selecting the location of each modular component health care facility to be providedunder the demonstration program, the Secretary shall give priority to projects already on the Indian Health Service facilities construction priority list and petitions which demonstrate that erection of a modular component health facility—
+&emsp;In selecting the location of each modular component health care facility to be provided under the demonstration program, the Secretary shall give priority to projects already on the Indian Health Service facilities construction priority list and petitions which demonstrate that erection of a modular component health facility—
 
 &emsp;&emsp;(A) is more economical than construction of a traditionally constructed health care facility;
 
@@ -50,7 +50,7 @@ The Secretary, acting through the Service, shall establish a demonstration progr
 
 #### (e) Reports
 
-Not later than 1 year after the date on which funds are made available for the demonstration program and annually thereafter, the Secretary shall submit to Congress a report describing—
+Not later than 1 year after the date on which funds are made available for the demonstrationprogram and annually thereafter, the Secretary shall submit to Congress a report describing—
 
 &emsp;(1) each activity carried out under the demonstration program, including an evaluation of the success of the activity; and
 

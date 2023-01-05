@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after December 27, 2020, the Secretary shall issue final agency-specific procedures necessary to implement theprinciples and requirements and the interagency guidelines.
+Not later than 180 days after December 27, 2020, the Secretary shall issue final agency-specific procedures necessary to implement the principles and requirements and the interagency guidelines.
 
 #### (b) Development of future water resources development projects
 
@@ -54,5 +54,5 @@ Section was enacted as a part of the Water Resources Development Act of 2020, an
 
 #### "Secretary" Defined
 
-Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of Title 33, Navigation and Navigable Waters.
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a noteunder section 2201 of Title 33, Navigation and Navigable Waters.
 

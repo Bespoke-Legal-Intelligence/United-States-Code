@@ -30,7 +30,7 @@
 
 &emsp;(B) The Principal Deputy Director of National Intelligence.
 
-(3) It is the sense of Congress that, under ordinary circumstances, it is desirable that one of the individuals serving in the positions specified in paragraph (2)—
+(3) It is the sense of Congress that, under ordinary circumstances, it is desirable that one ofthe individuals serving in the positions specified in paragraph (2)—
 
 &emsp;(A) be a commissioned officer of the Armed Forces, in active status; or
 

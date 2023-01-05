@@ -6,7 +6,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 &emsp;(1) shall be treated as having sold all of its assets at the close of the acquisition date at fair market value in a single transaction, and
 
-&emsp;(2) shall be treated as a new corporation which purchased all of the assets referred to inparagraph (1) as of the beginning of the day after the acquisition date.
+&emsp;(2) shall be treated as a new corporation which purchased all of the assets referred to in paragraph (1) as of the beginning of the day after the acquisition date.
 
 #### (b) Basis of assets after deemed purchase
 
@@ -58,7 +58,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 #### (B) Nonrecently purchased stock
 
-&emsp;&emsp;The term "nonrecently purchased stock" means any stock in the target corporation which is held by the purchasing corporation on the acquisition date and which is not recently purchased stock.
+&emsp;&emsp;The term "nonrecently purchased stock" means any stock in the target corporation which is held by the purchasing corporationon the acquisition date and which is not recently purchased stock.
 
 #### \[(c) Repealed. Pub. L. 99–514, title VI, §631(b)(2), Oct. 22, 1986, 100 Stat. 2272\]
 
@@ -310,7 +310,7 @@ Subsec. (h)(16). Pub. L. 100–647, §1012(bb)(5)(A), added par. (16).
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §631(b)(1), struck out "to which section 337 applies" after "in a single transaction".
 
-Subsec. (c). Pub. L. 99–514, §631(b)(2), struck out subsec. (c) relating to special rules for coordination with section 337 where purchasing corporation holds less than 100 percent of stock, and in case of certain redemptions where an election is made under this section.
+Subsec. (c). Pub. L. 99–514, §631(b)(2), struck out subsec. (c) relating to special rules for coordination with section 337 where purchasing corporation holds lessthan 100 percent of stock, and in case of certain redemptions where an election is made under this section.
 
 Subsec. (d)(3). Pub. L. 99–514, §1804(e)(8)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The term 'qualified stock purchase' means any transaction or series of transactions in which stock of 1 corporation possessing—
 
@@ -414,7 +414,7 @@ Pub. L. 98–369, div. A, title VII, §712(k)(9), July 18, 1984, 98 Stat. 952, a
 
 "(A)
 
-In general.—The amendments made by this subsection \[amending this section and sections 269 and318 of this title\] shall not apply to any qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) where the acquisition date (as defined in section 338(h)(2) of such Code) is before September 1, 1982.
+In general.—The amendments made by this subsection \[amending this section and sections 269 and 318 of this title\] shall not apply to any qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) where the acquisition date (as defined in section 338(h)(2) of such Code) is before September 1, 1982.
 
 "(B)
 
@@ -518,7 +518,7 @@ Pub. L. 97–448, title III, §306(a)(8)(A)(ii), Jan. 12, 1983, 96 Stat. 2402, a
 
 &emsp;"(I) any portion of a qualified stock purchase is pursuant to a binding contract entered into on or after September 1, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], and
 
-&emsp;"(II) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respectto the deemed sale under section 338 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the target corporation would be treated as a member of the affiliated group which includes the selling corporation,
+&emsp;"(II) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the target corporation would be treated as a member of the affiliated group which includes the selling corporation,
 
 > then the amendment made by clause (i) \[amending subsec. (h)\] shall not apply to such qualified stock purchase."
 

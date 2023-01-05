@@ -84,7 +84,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this order:
 
 (c) the term "Chief Information Officer" or "CIO" means the individual within a covered agency as described in 40 U.S.C. 11315;
 
-(d) the term "component Chief Information Officer" or "component CIO" means an individual in a covered agency, other than the CIO referred to in subsection (c)of this section, who has the title Chief Information Officer, or who functions in the capacity of a CIO, and has IT management authorities over a component of the agency similar to those the CIO has over the entire agency;
+(d) the term "component Chief Information Officer" or "component CIO" means an individual in a covered agency, other than the CIO referred to in subsection (c) of this section, who has the title Chief Information Officer, or who functions in the capacity of a CIO, and has IT management authorities over a component of the agency similar to those the CIO has over the entire agency;
 
 (e) the term "IT position" means a position within the job family standard for the Information Technology Management Series, GS–2210, as defined by the Office of Personnel Management (OPM) in the Handbook of Occupational Groups and Families and related guidance.
 
@@ -106,7 +106,7 @@ Sec. 5. <i>Agency-wide IT Consolidation</i>. Consistent with the purposes of Exe
 
 (c) increase use of industry best practices, such as the shared use of IT solutions within agencies and across the executive branch.
 
-Sec. 6. <i>Strengthening Cybersecurity</i>. Consistent with the purposes of Executive Order 13800 of May 11, 2017 (Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure) \[6 U.S.C. note prec. 1501\], the head of each covered agency shall take all necessary and appropriate action to ensure that:
+Sec. 6. <i>Strengthening Cybersecurity</i>. Consistent with the purposes of Executive Order 13800 of May 11, 2017 (Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure) \[6 U.S.C. note prec. 1500\], the head of each covered agency shall take all necessary and appropriate action to ensure that:
 
 (a) the CIO, as the principal advisor to the agency head for the management of IT resources, works closely with an integrated team of senior executives with expertise in IT, security, budgeting, acquisition, law, privacy, and human resources to implement appropriate risk management measures; and
 

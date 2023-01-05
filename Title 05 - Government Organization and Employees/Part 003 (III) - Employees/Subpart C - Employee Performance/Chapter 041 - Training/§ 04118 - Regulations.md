@@ -24,7 +24,7 @@
 
 (c) This section does not authorize the Office to prescribe the types and methods of intra-agency training or to regulate the details of intra-agency training programs.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92Stat. 1224; Pub. L. 103–226, §2(a)(9), Mar. 30, 1994, 108 Stat. 112.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 103–226, §2(a)(9), Mar. 30, 1994, 108 Stat. 112.)
 
 Historical and Revision Notes
 

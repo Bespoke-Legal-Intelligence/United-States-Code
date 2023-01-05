@@ -147,6 +147,7 @@
 | [467j.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 467k to 467m. Repealed. |  |
 | [467n.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467n%20-%20Recovery%20of%20dam%20modification%20costs%20required%20for%20safety%20purposes.md) | Recovery of dam modification costs required for safety purposes. |
+| 467<i>o.</i> | National low-head dam inventory. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

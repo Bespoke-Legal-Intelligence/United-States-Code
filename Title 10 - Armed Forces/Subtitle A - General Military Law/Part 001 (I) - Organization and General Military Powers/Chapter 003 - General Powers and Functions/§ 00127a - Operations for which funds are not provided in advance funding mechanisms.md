@@ -62,7 +62,7 @@ Relationship to War Powers Resolution.—This section may not be construed as al
 
 GAO Compliance Reviews.—The Comptroller General of the United States shall from time to time, and when requested by a committee of Congress, conduct a review of the defense funding structure under this section to determine whether the Department of Defense is complying with the requirements and limitations of this section.
 
-(Added Pub. L. 103–160, div. A, title XI, §1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, §1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, §1031(a)(3), Nov. 24, 2003, 117 Stat. 1596; Pub. L.111–383, div. A, title X, §1075(b)(2), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, §1061(1), Dec. 31, 2011, 125 Stat. 1583.)
+(Added Pub. L. 103–160, div. A, title XI, §1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, §1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, §1031(a)(3), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 111–383, div. A, title X, §1075(b)(2), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, §1061(1), Dec. 31, 2011, 125 Stat. 1583.)
 
 #### <b>Editorial Notes</b>
 

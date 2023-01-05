@@ -30,7 +30,7 @@ Beginning on the date that is 180 days after August 14, 2008, it shall be unlawf
 
 &emsp;&emsp;&emsp;(v) review all relevant data, including the most recent, best-available, peer-reviewed, scientific studies of these phthalates and phthalate alternatives that employ objective data collection practices or employ other objective methods;
 
-&emsp;&emsp;&emsp;(vi) consider the health effects of phthalates not only from ingestion but also as a result of dermal, hand-to-mouth, or other exposure;
+&emsp;&emsp;&emsp;(vi) consider the health effects of phthalates not only from ingestion butalso as a result of dermal, hand-to-mouth, or other exposure;
 
 &emsp;&emsp;&emsp;(vii) consider the level at which there is a reasonable certainty of no harm to children, pregnant women, or other susceptible individuals and their offspring, considering the best available science, and using sufficient safety factors to account for uncertainties regarding exposure and susceptibility of children, pregnant women, and other potentially susceptible individuals; and
 
@@ -94,7 +94,7 @@ Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shal
 
 &emsp;&emsp;(B) The term "children's toy" means a consumer product designed or intended by the manufacturer for a child 12 years of age or younger for use by the child when the child plays.
 
-&emsp;&emsp;(C) The term "child care article" means a consumer product designed or intended by the manufacturer to facilitate sleep or thefeeding of children age 3 and younger, or to help such children with sucking or teething.
+&emsp;&emsp;(C) The term "child care article" means a consumer product designed or intended by the manufacturer to facilitate sleep or the feeding of children age 3 and younger, or to help such children with sucking or teething.
 
 &emsp;&emsp;(D) The term "consumer product" has the meaning given such term in section 3(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2052(a)(1)).
 

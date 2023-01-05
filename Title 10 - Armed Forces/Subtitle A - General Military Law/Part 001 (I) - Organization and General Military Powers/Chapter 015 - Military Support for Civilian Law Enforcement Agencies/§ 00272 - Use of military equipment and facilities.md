@@ -1,6 +1,6 @@
 ### §272. Use of military equipment and facilities
 
-The Secretary of Defense may, in accordance with other applicable law, make available any equipment (including associated supplies orspare parts), base facility, or research facility of the Department of Defense to any Federal, State, or local civilian law enforcement official for law enforcement purposes.
+The Secretary of Defense may, in accordance with other applicable law, make available any equipment (including associated supplies or spare parts), base facility, or research facility of the Department of Defense to any Federal, State, or local civilian law enforcement official for law enforcement purposes.
 
 (Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115, §372; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 104–106, div. A, title III, §378, Feb. 10, 1996, 110 Stat. 284; Pub. L. 104–201, div. A, title XIV, §1416(b), Sept. 23, 1996, 110 Stat. 2723; Pub. L. 112–239, div. A, title III, §351, Jan. 2, 2013, 126 Stat. 1701; renumbered §272, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 

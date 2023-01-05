@@ -20,7 +20,7 @@ In general.—In order to be credited with satisfactory service in an officer gr
 
 Satisfaction of requirement by certain officers not completing three years.—A person covered by paragraph (1) who has completed at least six months of satisfactory service in grade may be credited with satisfactory service in the grade in which serving at the time of transfer or discharge, notwithstanding failure of the person to complete three years of service in that grade, if the person is transferred from an active status or discharged as a reserve commissioned officer—
 
-&emsp;&emsp;(A) solely due to the requirements of a nondiscretionary provision of law requiringthat transfer or discharge due to the person's age or years of service; or
+&emsp;&emsp;(A) solely due to the requirements of a nondiscretionary provision of law requiring that transfer or discharge due to the person's age or years of service; or
 
 &emsp;&emsp;(B) because the person no longer meets the qualifications for membership in the Ready Reserve solely because of a physical disability, as determined in accordance with chapter 61 of this title, and at the time of such transfer or discharge the person (pursuant to section 12731b of this title or otherwise) meets the service requirements established by section 12731(a) of this title for eligibility for retired pay under chapter 1223 of this title, unless the disability is described in section 12731b of this title.
 
@@ -68,7 +68,7 @@ Retirement in next lowest grade for officers not meeting service-in-grade requir
 
 Officers in O–9
 
-and O–10
+and O–⁠10
 
 Grades.—
 
@@ -112,7 +112,7 @@ In general.—Except for a conditional determination authorized by subsection (e
 
 &emsp;(2)
 
-Reopening.—A determination of the retired grade of a person may be reopened in accordance with applicable provisions of section 1370(f) of this title. In the application of such section 1370(f) for purposes of this subsection, any reference to a provision of section 1370 of this title shall be deemed to be a reference to the analogous provision of this section. In the application of paragraph (7) of such section 1370(f) for purposes of this paragraph, the reference to "chapter 71 of this title" shall be deemed to be a reference to "chapter 1223 of this title".
+Reopening.—A determination of the retired grade of a person may be reopened in accordance with applicable provisions of section 1370(f) of this title. In the application of such section 1370(f) for purposes of this subsection, any reference to a provision of section 1370 ofthis title shall be deemed to be a reference to the analogous provision of this section. In the application of paragraph (7) of such section 1370(f) for purposes of this paragraph, the reference to "chapter 71 of this title" shall be deemed to be a reference to "chapter 1223 of this title".
 
 (h)
 

@@ -40,5 +40,5 @@ Section was enacted as part of the Philanthropy Protection Act of 1995, and not 
 
 #### Effective Date
 
-Section applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in this section, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as an Effective Date of 1995 Amendment note under section 77c of this title.
+Section applicable as defense to any claim in administrative and judicial actions pending on or commencedafter Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in this section, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as an Effective Date of 1995 Amendment note under section 77c of this title.
 

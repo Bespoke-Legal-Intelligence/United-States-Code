@@ -102,7 +102,7 @@ In this section:
 
 #### (5) Stop TB Strategy
 
-&emsp;The term "Stop TB Strategy" means the 6-point strategy to reduce tuberculosis developed by the World Health Organization, whichis described in the Global Plan to Stop TB 2006–2015: Actions for Life, a comprehensive plan developed by the Stop TB Partnership that sets out the actions necessary to achieve the millennium development goal of cutting tuberculosis deaths and disease burden in half by 2015.
+&emsp;The term "Stop TB Strategy" means the 6-point strategy to reduce tuberculosis developed by the World Health Organization, which is described in the Global Plan to Stop TB 2006–2015: Actions for Life, a comprehensive plan developed by the Stop TB Partnership that sets out the actions necessary to achieve the millennium development goal of cutting tuberculosis deaths and disease burden in half by 2015.
 
 #### (6) Stop Tuberculosis Partnership
 

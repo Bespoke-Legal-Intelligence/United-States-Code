@@ -116,7 +116,7 @@ For purposes of applying this section (as it relates to section 382(a) of this t
 
 #### Effective Date
 
-Pub. L. 92–178, title III, §302(c), Dec. 10, 1971, 85 Stat. 521, provided that: "The amendments made by this section \[enacting this section\] shall be applicable only with respect to reorganizations and other changes in ownership occurring after the date of enactment of this Act \[Dec. 10, 1971\] pursuant to a plan of reorganization or contract entered into on or after September 29, 1971."
+Pub. L. 92–178, title III, §302(c), Dec. 10, 1971, 85 Stat. 521, provided that: "The amendments made by this section \[enacting this section\] shall be applicable only with respect to reorganizations and other changes in ownership occurring after the date of enactment of thisAct \[Dec. 10, 1971\] pursuant to a plan of reorganization or contract entered into on or after September 29, 1971."
 
 #### Delay in Effective Date of 1976 Amendment
 

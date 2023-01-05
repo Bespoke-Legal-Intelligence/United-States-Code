@@ -12,7 +12,7 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(C) $27,500,000 for Human Factors and Aeromedical Research;
 
-&emsp;&emsp;(D) $30,000,000 for Environmental Research and Development, of which $20,000,000 shall be for research activities related to reducing community exposure to civilian aircraft noise or emissions;
+&emsp;&emsp;(D) $30,000,000 for Environmental Research and Development, of which $20,000,000 shallbe for research activities related to reducing community exposure to civilian aircraft noise or emissions;
 
 &emsp;&emsp;(E) $7,000,000 for Research Mission Support;
 
@@ -146,7 +146,7 @@ Transfers Between Categories.—(1) Not more than 10 percent of the net amount a
 
 (2) The Secretary may transfer more than 10 percent of an authorized amount to or from a category only after—
 
-&emsp;(A) submitting a written explanation of the proposed transfer to the Committees on Science and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate; and
+&emsp;(A) submitting a written explanation of the proposed transfer to the Committees on Science and Appropriations of the House ofRepresentatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate; and
 
 &emsp;(B) 30 days have passed after the explanation is submitted or each Committee notifies the Secretary in writing that it does not object to the proposed transfer.
 
@@ -154,7 +154,7 @@ Transfers Between Categories.—(1) Not more than 10 percent of the net amount a
 
 Airport Capacity Research and Development.—(1) Of the amounts made available under subsection (a) of this section, at least $25,000,000 may be appropriated each fiscal year for research and development under section 44505(a) and (c) of this title on preserving and enhancing airport capacity, including research and development on improvements to airport design standards, maintenance, safety, operations, and environmental concerns.
 
-(2) The Administrator shall submit to the Committees on Science and Transportation andInfrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
+(2) The Administrator shall submit to the Committees on Science and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
 
 (e)
 

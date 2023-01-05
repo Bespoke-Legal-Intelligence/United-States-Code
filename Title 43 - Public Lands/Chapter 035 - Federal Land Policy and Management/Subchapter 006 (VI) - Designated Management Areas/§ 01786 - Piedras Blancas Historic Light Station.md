@@ -76,7 +76,7 @@ Congress finds as follows:
 
 #### (3) Management plan
 
-&emsp;Not later than 3 years after of <sup>2</sup> May 8, 2008, the Secretary shall complete a comprehensive management plan consistent with the requirements of section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C.1712) to provide long-term management guidance for the public lands within the Outstanding Natural Area and fulfill the purposes for which it is established, as set forth in subsection (c)(1). The management plan shall be developed in consultation with appropriate Federal, State, and local government agencies, with full public participation, and the contents shall include—
+&emsp;Not later than 3 years after of <sup>2</sup> May 8, 2008, the Secretary shall complete a comprehensive management plan consistent with the requirements of section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) to provide long-term management guidance for the public lands within the Outstanding Natural Area and fulfill the purposes for which it is established, as set forth in subsection (c)(1). The management plan shall be developed in consultation with appropriate Federal, State, and local government agencies, with full public participation, and the contents shall include—
 
 &emsp;&emsp;(A) provisions designed to ensure the protection of the resources and values described in subsection (c)(1);
 
@@ -130,7 +130,7 @@ Congress finds as follows:
 
 #### (11) No buffer zones
 
-&emsp;The designation of the Outstanding Natural Area is not intended to lead to the creation of protective perimeters or buffer zones around <sup>4</sup> area. The fact that activities outside the Outstanding Natural Area and not consistent withthe purposes of this section can be seen or heard within the Outstanding Natural Area shall not, of itself, preclude such activities or uses up to the boundary of the Outstanding Natural Area.
+&emsp;The designation of the Outstanding Natural Area is not intended to lead to the creation of protective perimeters or buffer zones around <sup>4</sup> area. The fact that activities outside the Outstanding Natural Area and not consistent with the purposes of this section can be seen or heard within the Outstanding Natural Area shall not, of itself, preclude such activities or uses up to the boundary of the Outstanding Natural Area.
 
 #### (e) Authorization of appropriations
 

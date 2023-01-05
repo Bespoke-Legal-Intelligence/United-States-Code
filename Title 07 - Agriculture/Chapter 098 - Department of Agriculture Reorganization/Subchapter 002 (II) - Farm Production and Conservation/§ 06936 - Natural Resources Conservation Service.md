@@ -40,7 +40,7 @@ In carrying out the programs specified in paragraphs (1) and (3) of subsection (
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), no personnel action (as defined in section 2302(a)(2)(A) of title 5) may be taken with respect to a Federalemployee unless such action is taken by another Federal employee.
+&emsp;Notwithstanding paragraph (1), no personnel action (as defined in section 2302(a)(2)(A) of title 5) may be taken with respect to a Federal employee unless such action is taken by another Federal employee.
 
 #### (e) Savings provision
 
@@ -72,7 +72,7 @@ For purposes of subsections (c) and (d) of this section:
 
 #### References in Text
 
-The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 16 and Tables.
+The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, which is classified generally to chapter 29 (§1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 16 and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (b)(2), (5), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
@@ -117,4 +117,40 @@ Subsec. (b)(6). Pub. L. 104–127, §336(a)(2)(D), (d)(2)(A)(ii), redesignated p
 Subsec. (b)(7), (8). Pub. L. 104–127, §336(d)(2)(A)(ii), redesignated pars. (7) and (8) as (5) and (6), respectively.
 
 Subsec. (c). Pub. L. 104–127, §336(d)(2)(B), in introductory provisions, substituted "(1), (2), and (4)" for "(2), (3), (4), and (6)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Conservation Technical Assistance
+
+Pub. L. 117–169, title II, §21002, Aug. 16, 2022, 136 Stat. 2018, provided that:
+
+"(a)
+
+Appropriations.—In addition to amounts otherwise available (and subject to subsection (b)), there are appropriated to the Secretary \[of Agriculture\] for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, to remain available until September 30, 2031 (subject to the condition that no such funds may be disbursed after September 30, 2031)—
+
+&emsp;"(1) $1,000,000,000 to provide conservation technical assistance through the Natural Resources Conservation Service; and
+
+&emsp;"(2) $300,000,000 to carry out a program to quantify carbon sequestration and carbon dioxide, methane, and nitrous oxide emissions, through which the Natural Resources Conservation Service shall collect field-based data to assess the carbon sequestration and reduction in carbon dioxide, methane, and nitrous oxide emissions outcomes associated with activities carried out pursuant to this section and use the data to monitor and track those carbon sequestration and emissions trends through the Greenhouse Gas Inventory and Assessment Program of the Department of Agriculture.
+
+"(b)
+
+Conditions.—The funds made available under this section are subject to the conditions that the Secretary shall not—
+
+&emsp;"(1) enter into any agreement—
+
+&emsp;&emsp;"(A) that is for a term extending beyond September 30, 2031; or
+
+&emsp;&emsp;"(B) under which any payment could be outlaid or funds disbursed after September 30, 2031;
+
+&emsp;"(2) use any other funds available to the Secretary to satisfy obligations initially made under this section; or
+
+&emsp;"(3) interpret this section to authorize funds of the Commodity Credit Corporation for activities under this section if such funds are not expressly authorized or currently expended for such purposes.
+
+"(c)
+
+Administrative Costs.—In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $100,000,000, to remain available until September 30, 2028, for administrative costs of the agencies and offices of the Department of Agriculture for costs related to implementing this section."
+
+#### Definition of "Secretary"
+
+Pub. L. 117–169, title II, §20001, Aug. 16, 2022, 136 Stat. 2015, provided that: "In this title \[amending section 8103 of this title and sections 3839aa–2, 3839aa–8, 3839aa–22, 3839aa–24, 3841, 3844, and 3871d of Title 16, Conservation, enacting provisions set out as a note above, repealing provisions set out as a note under section 1921 of this title, and amending provisions set out as a note under section 2279 of this title\], the term 'Secretary' means the Secretary of Agriculture."
 

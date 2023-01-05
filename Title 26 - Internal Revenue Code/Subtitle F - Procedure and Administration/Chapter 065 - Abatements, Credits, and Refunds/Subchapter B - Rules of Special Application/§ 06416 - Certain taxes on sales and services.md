@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, except as provided in subparagraph (B), if an ultimatevendor purchases any gasoline on which tax imposed by section 4081 has been paid and sells such gasoline to an ultimate purchaser described in subparagraph (C) or (D) of subsection (b)(2) (and such gasoline is for a use described in such subparagraph), such ultimate vendor shall be treated as the person (and the only person) who paid such tax, but only if such ultimate vendor is registered under section 4101.
+&emsp;&emsp;For purposes of this subsection, except as provided in subparagraph (B), if an ultimate vendor purchases any gasoline on which tax imposed by section 4081 has been paid and sells such gasoline to an ultimate purchaser described in subparagraph (C) or (D) of subsection (b)(2) (and such gasoline is for a use described in such subparagraph), such ultimate vendor shall be treated as the person (and the only person) who paid such tax, but only if such ultimate vendor is registered under section 4101.
 
 #### (B) Credit card issuer
 
@@ -98,7 +98,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 &emsp;&emsp;(G) in the case of gasoline, used or sold for use in the production of special fuels referred to in section 4041.
 
-> &emsp;Subparagraphs (C), (D), and (E) shall not apply in the case of any tax paid under section 4064. In the case of the tax imposed by section 4131, subparagraphs (B), (C), (D), and (E) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. This paragraph shall not apply in the case of any tax imposed under section 4041(a)(1) or 4081 on diesel fuel or kerosene and any tax paid under section 4121. Subparagraphs (C) and (D) shall not apply in the case of any tax imposed on gasoline under section4081 if the requirements of subsection (a)(4) are not met. In the case of taxes imposed by subchapter C or D of chapter 32, subparagraph (E) shall not apply.
+> &emsp;Subparagraphs (C), (D), and (E) shall not apply in the case of any tax paid under section 4064. In the case of the tax imposed by section 4131, subparagraphs (B), (C), (D), and (E) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. This paragraph shall not apply in the case of any tax imposed under section 4041(a)(1) or 4081 on diesel fuel or kerosene and any tax paid under section 4121. Subparagraphs (C) and (D) shall not apply in the case of any tax imposed on gasoline under section 4081 if the requirements of subsection (a)(4) are not met. In the case of taxes imposed by subchapter C or D of chapter 32, subparagraph (E) shall not apply.
 
 #### (3) Tax-paid articles used for further manufacture, etc.
 
@@ -112,7 +112,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 > &emsp;&emsp;manufactured or produced by him; or
 
-&emsp;&emsp;(B) in the case of any fuel taxable under section 4081, such fuel is used by the subsequent manufacturer or producer, for nonfuel purposes, as a material in the manufacture or production of any other article manufactured or produced by him.
+&emsp;&emsp;(B) in the case of any fuel taxable under section 4081, such fuel is used by the subsequent manufacturer or producer, for nonfuel purposes, as a material in the manufactureor production of any other article manufactured or produced by him.
 
 #### (4) Tires
 
@@ -174,7 +174,7 @@ Under regulations prescribed by the Secretary, if any person uses or resells lik
 
 For purposes of this section, any term used in this section has the same meaning as when used in chapter 31, 32, or 33, as the case may be.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; Pub. L. 85–475, §4(b)(5), (6),June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(a), (c), Sept. 2, 1958, 72 Stat. 1306, 1311; Pub. L. 86–342, title II, §201(d)(1), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–418, §3, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–781, §2, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 87–61, title II, §205(c), (d), June 29, 1961, 75 Stat. 126; Pub. L. 87–508, §5(c)(3), June 28, 1962, 76 Stat. 119; Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), June 21, 1965, 79 Stat. 140, 153, 158; Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), May 21, 1970, 84 Stat. 242, 248, 249; Pub. L. 91–614, title III, §302(a), (b), Dec. 31, 1970, 84 Stat. 1845; Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), Dec. 10, 1971, 85 Stat. 531, 534; Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), Oct. 4, 1976, 90 Stat. 1815, 1827, 1834, 1904; Pub. L. 95–227, §2(b)(4), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), Nov. 9, 1978, 92 Stat. 3184, 3189, 3192; Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(c)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(a), (b), Dec. 24, 1980, 94 Stat. 3485, 3486; Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), Jan. 6, 1983, 96 Stat. 2173, 2177, 2181; Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), July 18, 1984, 98 Stat. 978, 980, 984; Pub. L. 99–499, title V, §521(d)(5), Oct. 17, 1986, 100 Stat. 1780; Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), Nov. 10, 1988, 102 Stat. 3594, 3710; Pub. L. 101–508, title XI, §11212(d)(2), Nov. 5, 1990, 104 Stat. 1388–432; Pub. L. 103–66, title XIII, §13242(d)(17)–(19), Aug. 10, 1993, 107 Stat. 524; Pub. L. 104–188, title I, §1702(b)(3), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §905(a), title X, §1032(e)(6), title XIV, §1436(b), Aug. 5, 1997, 111 Stat. 874, 935, 1053; Pub. L. 105–206, title VI, §6023(23), July 22, 1998, 112 Stat. 826; Pub. L. 108–357, title VIII, §§853(d)(2)(G)–(I), 865(a), Oct. 22, 2004, 118 Stat. 1613, 1621; ; Pub. L. 109–59, title XI, §11163(b), Aug. 10, 2005, 119 Stat. 1973; Pub. L. 109–280, title XII, §1207(e), Aug. 17, 2006, 120 Stat. 1071; Pub. L. 110–172, §11(d)(1), Dec. 29, 2007, 121 Stat. 2489; Pub. L. 111–152, title I, §1405(b)(2), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 116–94, div. N, title I, §501(b)(2), Dec. 20, 2019, 133 Stat. 3118.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; Pub. L. 85–475, §4(b)(5), (6), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(a), (c), Sept. 2, 1958, 72 Stat. 1306, 1311; Pub. L. 86–342, title II, §201(d)(1), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–418, §3, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–781, §2, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 87–61, title II, §205(c), (d), June 29, 1961, 75 Stat. 126; Pub. L. 87–508, §5(c)(3), June 28, 1962, 76 Stat. 119; Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), June 21, 1965, 79 Stat. 140, 153, 158; Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), May 21, 1970, 84 Stat. 242, 248, 249; Pub. L. 91–614, title III, §302(a), (b), Dec. 31, 1970, 84 Stat. 1845; Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), Dec. 10, 1971, 85 Stat. 531, 534; Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), Oct. 4, 1976, 90 Stat. 1815, 1827, 1834, 1904; Pub. L. 95–227, §2(b)(4), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), Nov. 9, 1978, 92 Stat. 3184, 3189, 3192; Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(c)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(a), (b), Dec. 24, 1980, 94 Stat. 3485, 3486; Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), Jan. 6, 1983, 96 Stat. 2173, 2177, 2181; Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), July 18, 1984, 98 Stat. 978, 980, 984; Pub. L. 99–499, title V, §521(d)(5), Oct. 17, 1986, 100 Stat. 1780; Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), Nov. 10, 1988, 102Stat. 3594, 3710; Pub. L. 101–508, title XI, §11212(d)(2), Nov. 5, 1990, 104 Stat. 1388–432; Pub. L. 103–66, title XIII, §13242(d)(17)–(19), Aug. 10, 1993, 107 Stat. 524; Pub. L. 104–188, title I, §1702(b)(3), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §905(a), title X, §1032(e)(6), title XIV, §1436(b), Aug. 5, 1997, 111 Stat. 874, 935, 1053; Pub. L. 105–206, title VI, §6023(23), July 22, 1998, 112 Stat. 826; Pub. L. 108–357, title VIII, §§853(d)(2)(G)–(I), 865(a), Oct. 22, 2004, 118 Stat. 1613, 1621; ; Pub. L. 109–59, title XI, §11163(b), Aug. 10, 2005, 119 Stat. 1973; Pub. L. 109–280, title XII, §1207(e), Aug. 17, 2006, 120 Stat. 1071; Pub. L. 110–172, §11(d)(1), Dec. 29, 2007, 121 Stat. 2489; Pub. L. 111–152, title I, §1405(b)(2), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 116–94, div. N, title I, §501(b)(2), Dec. 20, 2019, 133 Stat. 3118.)
 
 #### <b>Editorial Notes</b>
 
@@ -322,7 +322,7 @@ Subsec. (b)(3)(C). Pub. L. 96–222, §108(c)(2)(A), inserted reference to an au
 
 Subsec. (b)(3)(D). Pub. L. 96–598, §1(b)(1), added subpar. (D).
 
-Subsec. (b)(4)(A). Pub. L. 96–598, §1(b)(2)(D), substituted "section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paid on the tread rubber used in the recapping or retreading," for "section 4071".
+Subsec. (b)(4)(A). Pub. L. 96–598, §1(b)(2)(D), substituted "section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paidon the tread rubber used in the recapping or retreading," for "section 4071".
 
 Subsec. (b)(4)(B). Pub. L. 96–222, §108(c)(2)(B), inserted reference to automobile bus chassis or an automobile bus body.
 
@@ -384,7 +384,7 @@ Subsec. (b)(2)(I), (J). Pub. L. 91–258, §207(d)(6), (7), inserted "before Jul
 
 Subsec. (b)(2)(M). Pub. L. 91–258, §205(b)(4), substituted "use in the production of special fuels referred to in section 4041" for "use in production of special motor fuels referred to in section 4041(b)".
 
-Subsec. (b)(3). Pub. L. 91–614, §302(a)(1)(A), substituted "and such article is sold to a subsequent manufacturer or producer before being used, such tax shall be deemed to be an overpayment by such subsequentmanufacturer or producer if" for "to a second manufacturer or producer, such tax shall be deemed to be an overpayment by such second manufacturer or producer if".
+Subsec. (b)(3). Pub. L. 91–614, §302(a)(1)(A), substituted "and such article is sold to a subsequent manufacturer or producer before being used, such tax shall be deemed to be an overpayment by such subsequent manufacturer or producer if" for "to a second manufacturer or producer, such tax shall be deemed to be an overpayment by such second manufacturer or producer if".
 
 Subsec. (b)(3)(A) to (C), (E), (F). Pub. L. 91–614, §302(a)(1)(B), substituted "the subsequent manufacturer" for "the second manufacturer".
 
@@ -462,7 +462,7 @@ Subsec. (b)(3) amended generally by Pub. L. 85–859, §163(a), to consider as o
 
 Subsec. (b)(4), (5). Pub. L. 85–859, §163(a), added pars. (4) and (5).
 
-Subsec. (c). Pub. L. 85–859, §163(a), authorized a credit with respect to tires, inner tubes, or automobile radioor television receiving sets which are sold on or in connection with, or with the sale of, another article taxable under chapter 32, and permitted the credit only in respect of the first sale on or in connection with, or with the sale of, another article on the sale of which tax is imposed under chapter 32.
+Subsec. (c). Pub. L. 85–859, §163(a), authorized a credit with respect to tires, inner tubes, or automobile radio or television receiving sets which are sold on or in connection with, or with the sale of, another article taxable under chapter 32, and permitted the credit only in respect of the first sale on or in connection with, or with the sale of, another article on the sale of which tax is imposed under chapter 32.
 
 Subsec. (f). Pub. L. 85–475, §4(b)(6), struck out reference to section 4281.
 
@@ -552,7 +552,7 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 Amendment by section 511(g)(2)(A) of Pub. L. 97–424 effective Apr. 1, 1983, see section 511(h)(1) of Pub. L. 97–424, set out as a note under section 4041 of this title.
 
-Amendment by section 512(b)(2)(C), (D) of Pub. L. 97–424 effective Apr. 1, 1983, see section 512(b)(3) of Pub.L. 97–424, set out as a note under section 4051 of this title.
+Amendment by section 512(b)(2)(C), (D) of Pub. L. 97–424 effective Apr. 1, 1983, see section 512(b)(3) of Pub. L. 97–424, set out as a note under section 4051 of this title.
 
 Amendment by section 515(b)(4) of Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
 
@@ -572,7 +572,7 @@ Amendment by section 232(b) of Pub. L. 95–618 applicable to sales on or after 
 
 Amendment by section 233(c)(3) of Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section 233(d) of Pub. L. 95–618, set out as a note under section 34 of this title.
 
-Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 1978, see section 2(d) of Pub. L. 95–227, set out as an Effective Date note under section 4121 of this title.
+Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 1978, see section 2(d) of Pub. L.95–227, set out as an Effective Date note under section 4121 of this title.
 
 #### Effective Date of 1976 Amendment
 

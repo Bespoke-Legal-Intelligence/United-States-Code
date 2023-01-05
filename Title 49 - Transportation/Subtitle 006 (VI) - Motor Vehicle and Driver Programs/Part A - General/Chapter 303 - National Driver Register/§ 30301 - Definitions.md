@@ -264,13 +264,13 @@ Other Requirements.—To meet the requirements of this section, a State shall ad
 
 &emsp;"(5) Confirm with the Social Security Administration a social security account number presented by a person using the full social security account number. In the event that a social security account number is already registered to or associated with another person to which any State has issued a driver's license or identification card, the State shall resolve the discrepancy and take appropriate action.
 
-&emsp;"(6) Refuse to issue a driver's license or identification card to a person holding a driver's license issued by another State without confirmation that the person is terminating or has terminated the driver's license.
+&emsp;"(6) Refuse to issue a driver's license or identification card to a person holding a driver's license issuedby another State without confirmation that the person is terminating or has terminated the driver's license.
 
 &emsp;"(7) Ensure the physical security of locations where drivers' licenses and identification cards are produced and the security of materials, records, and data from which drivers' licenses and identification cards are produced.
 
 &emsp;"(8) Subject all persons authorized to manufacture or produce drivers' licenses and identification cards to appropriate background checks.
 
-&emsp;"(9) Establish fraud detection and prevention training programs for appropriate employees engaged inthe issuance of drivers' licenses and identification cards.
+&emsp;"(9) Establish fraud detection and prevention training programs for appropriate employees engaged in the issuance of drivers' licenses and identification cards.
 
 &emsp;"(10) Limit the period of validity of all driver's licenses and identification cards that are not temporary to a period that does not exceed 8 years.
 

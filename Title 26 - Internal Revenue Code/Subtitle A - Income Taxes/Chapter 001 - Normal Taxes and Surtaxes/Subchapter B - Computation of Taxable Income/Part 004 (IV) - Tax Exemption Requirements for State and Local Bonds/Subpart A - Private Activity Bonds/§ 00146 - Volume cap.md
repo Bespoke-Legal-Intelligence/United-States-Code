@@ -280,7 +280,7 @@ For purposes of this section, determinations of the population of any State (or 
 
 #### (2) Exception for certain facilities where State will get proportionate share of benefits
 
-&emsp;Paragraph (1) shall not apply to any exempt facility bond described in paragraph (4), (5),\(6), or (10) of section 142(a) if the issuer establishes that the State's share of the use of the facility (or its output) will equal or exceed the State's share of the private activity bonds issued to finance the facility.
+&emsp;Paragraph (1) shall not apply to any exempt facility bond described in paragraph (4), (5), (6), or (10) of section 142(a) if the issuer establishes that the State's share of the use of the facility (or its output) will equal or exceed the State's share of the private activity bonds issued to finance the facility.
 
 #### (3) Treatment of governmental bonds to which volume cap allocated
 

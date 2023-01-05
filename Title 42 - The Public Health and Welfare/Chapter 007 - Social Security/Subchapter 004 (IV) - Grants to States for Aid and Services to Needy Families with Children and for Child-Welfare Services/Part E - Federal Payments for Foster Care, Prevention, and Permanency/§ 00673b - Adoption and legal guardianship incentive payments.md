@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal to the adoption and legal guardianship incentive payment payable to the State under this section for the fiscal year, which shall be payable in the immediately succeeding fiscal year.
+Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal tothe adoption and legal guardianship incentive payment payable to the State under this section for the fiscal year, which shall be payable in the immediately succeeding fiscal year.
 
 #### (b) Incentive-eligible State
 
@@ -160,7 +160,7 @@ As used in this section:
 
 #### (7) Older child adoption and older foster child guardianship rate
 
-&emsp;The term "older child adoption and older foster child guardianship rate" means, with respect to a State and a fiscal year, the percentage determined by dividing—
+&emsp;The term "older child adoption and older foster child guardianship rate" means, withrespect to a State and a fiscal year, the percentage determined by dividing—
 
 &emsp;&emsp;(A) the number of older child adoptions and older foster child guardianships finalized in the State during the fiscal year; by
 
@@ -236,7 +236,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;The Secretary may, directly or through grants or contracts, provide technical assistance to assist States and local communities to reach their targets for increased numbers ofadoptions and, to the extent that adoption is not possible, alternative permanent placements, for children in foster care.
+&emsp;The Secretary may, directly or through grants or contracts, provide technical assistance to assist States and local communities to reach their targets for increased numbers of adoptions and, to the extent that adoption is not possible, alternative permanent placements, for children in foster care.
 
 #### (2) Description of the character of the technical assistance
 
@@ -340,7 +340,7 @@ Subsec. (g)(3). Pub. L. 110–351, §401(b)(1), substituted "means, with respect
 
 &emsp;"(A) with respect to fiscal year 2003, the number of foster child adoptions in the State in fiscal year 2002; and
 
-&emsp;"(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year."
+&emsp;"(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest inthe period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year."
 
 Subsec. (g)(4). Pub. L. 110–351, §401(b)(2), inserted "that are not older child adoptions" before "for a State" and substituted "means, with respect to any fiscal year, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2007." for "means—
 

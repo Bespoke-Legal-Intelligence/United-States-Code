@@ -1,6 +1,6 @@
 ### §1712. Documents for use of the Director of the Government Publishing Office
 
-The Director of the Government Publishing Office may retain out of all documents, bills, and resolutions printed the number of copies absolutely needful for the official use of the Government Publishing Office, not exceeding five of each.
+The Director of the Government Publishing Office may retain out of all documents, bills,and resolutions printed the number of copies absolutely needful for the official use of the Government Publishing Office, not exceeding five of each.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1281; Pub. L. 113–235, div. H, title I, §1301(b), (c), Dec. 16, 2014, 128 Stat. 2537.)
 

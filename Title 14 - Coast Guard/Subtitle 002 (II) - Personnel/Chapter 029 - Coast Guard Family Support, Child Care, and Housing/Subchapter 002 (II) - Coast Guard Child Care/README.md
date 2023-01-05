@@ -17,3 +17,4 @@
 - [&sect; 02924 - Child development center employees](%C2%A7%2002924%20-%20Child%20development%20center%20employees.md)
 - [&sect; 02925 - Parent partnerships with child development centers](%C2%A7%2002925%20-%20Parent%20partnerships%20with%20child%20development%20centers.md)
 - [&sect; 02926 - Family child care providers](%C2%A7%2002926%20-%20Family%20child%20care%20providers.md)
+- [&sect; 02927 - Child care subsidy program](%C2%A7%2002927%20-%20Child%20care%20subsidy%20program.md)

@@ -6,7 +6,7 @@ The objective of this chapter is to restore and maintain the chemical, physical,
 
 &emsp;(1) it is the national goal that the discharge of pollutants into the navigable waters be eliminated by 1985;
 
-&emsp;(2) it is the national goal that wherever attainable, an interim goal of water qualitywhich provides for the protection and propagation of fish, shellfish, and wildlife and provides for recreation in and on the water be achieved by July 1, 1983;
+&emsp;(2) it is the national goal that wherever attainable, an interim goal of water quality which provides for the protection and propagation of fish, shellfish, and wildlife and provides for recreation in and on the water be achieved by July 1, 1983;
 
 &emsp;(3) it is the national policy that the discharge of toxic pollutants in toxic amounts be prohibited;
 
@@ -100,7 +100,7 @@ Pub. L. 106–457, title V, §501, Nov. 7, 2000, 114 Stat. 1973, provided that: 
 
 Pub. L. 106–457, title VI, §601, Nov. 7, 2000, 114 Stat. 1975, provided that: "This title \[enacting section 1300 of this title\] may be cited as the 'Alternative Water Sources Act of 2000'."
 
-Pub. L. 106–284, §1, Oct. 10, 2000, 114 Stat. 870, provided that: "This Act \[enacting sections 1346 and 1375a of this title and amending sections 1254, 1313, 1314, 1362, and 1377 of this title\] may be cited as the 'Beaches Environmental Assessment and Coastal Health Act of 2000'."
+Pub. L. 106–284, §1, Oct. 10, 2000, 114 Stat. 870, provided that: "This Act \[enacting sections 1346 and 1375a of thistitle and amending sections 1254, 1313, 1314, 1362, and 1377 of this title\] may be cited as the 'Beaches Environmental Assessment and Coastal Health Act of 2000'."
 
 #### Short Title of 1994 Amendment
 
@@ -156,7 +156,7 @@ Pub. L. 102–567, title III, §308, Oct. 29, 1992, 106 Stat. 4286; as amended b
 
 "(a)
 
-Establishment of a Research Program.—The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the 'Program') for the purpose of improving existing classification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 months after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—
+Establishment of a Research Program.—The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the 'Program') for the purpose of improving existing classification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 monthsafter the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—
 
 &emsp;"(1) an environmental assessment of commercial shellfish growing areas in the United States, including an evaluation of the relationships between indicators of fecal contamination and human enteric pathogens;
 
@@ -198,7 +198,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 "(4) The Chairman of the Committee shall be selected from among the Committee members described in paragraph (3)(A).
 
-"(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice, assistance, and information relevant to research funded under the Program, except that no individual who isawarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee.
+"(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice, assistance, and information relevant to research funded under the Program, except that no individual who is awarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee.
 
 "(6) Members of the Committee and its scientific subcommittee established under this subsection shall not be paid for serving on the Committee or subcommittee, but shall receive travel expenses as authorized by section 5703 of title 5, United States Code.
 
@@ -238,7 +238,7 @@ Pub. L. 100–4, §2, Feb. 4, 1987, 101 Stat. 8, provided that: "No payments may
 
 #### Seafood Processing Study; Submittal of Results to Congress not Later Than January 1, 1979
 
-Pub. L. 95–217, §74, Dec. 27, 1977, 91 Stat. 1609, provided that the Administrator of the Environmental Protection Agency conduct a study to examine the geographical, hydrological, and biological characteristics of marine waters to determine the effects of seafood processes which dispose of untreated natural wastes into such waters and to include in this study an examination of technologies which may be used in such processes to facilitate the use of the nutrients in these wastes or to reduce the discharge of such wastes into the marine environment and to submit the result of this study to Congress not later than Jan. 1, 1979.
+Pub. L. 95–217, §74, Dec. 27, 1977, 91 Stat. 1609, provided that the Administrator of the Environmental Protection Agency conduct a study to examine the geographical, hydrological, and biological characteristicsof marine waters to determine the effects of seafood processes which dispose of untreated natural wastes into such waters and to include in this study an examination of technologies which may be used in such processes to facilitate the use of the nutrients in these wastes or to reduce the discharge of such wastes into the marine environment and to submit the result of this study to Congress not later than Jan. 1, 1979.
 
 #### Oversight Study
 
@@ -270,7 +270,7 @@ Pub. L. 92–500, §6, Oct. 18, 1972, 86 Stat. 897, provided that:
 
 #### International Agreements
 
-Pub. L. 92–500, §7, Oct. 18, 1972, 86 Stat. 898, provided that: "The President shall undertake to enter into international agreement to apply uniform standards ofperformance for the control of the discharge and emission of pollutants from new sources, uniform controls over the discharge and emission of toxic pollutants, and uniform controls over the discharge of pollutants into the ocean. For this purpose the President shall negotiate multilateral treaties, conventions, resolutions, or other agreements, and formulate, present, or support proposals at the United Nations and other appropriate international forums."
+Pub. L. 92–500, §7, Oct. 18, 1972, 86 Stat. 898, provided that: "The President shall undertake to enter into international agreement to apply uniform standards of performance for the control of the discharge and emission of pollutants from new sources, uniform controls over the discharge and emission of toxic pollutants, and uniform controls over the discharge of pollutants into the ocean. For this purpose the President shall negotiate multilateral treaties, conventions, resolutions, or other agreements, and formulate, present, or support proposals at the United Nations and other appropriate international forums."
 
 #### National Policies and Goal Study
 

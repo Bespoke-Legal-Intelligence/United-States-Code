@@ -6,7 +6,7 @@ In order to provide for public outdoor recreation use and enjoyment of certain a
 
 #### (b) Area included
 
-The special management area shall consist of the lands, waters, and interests therein within the area generally depicted on the map entitled "Boundary Map, Kings River Special Management Area", dated April 1987. The map shall be on file and available for public inspection in theoffices of the National Forest Service, Department of Agriculture. The Secretary of Agriculture may from time to time make minor revisions of the boundary of the special management area.
+The special management area shall consist of the lands, waters, and interests therein within the area generally depicted on the map entitled "Boundary Map, Kings River Special Management Area", dated April 1987. The map shall be on file and available for public inspection in the offices of the National Forest Service, Department of Agriculture. The Secretary of Agriculture may from time to time make minor revisions of the boundary of the special management area.
 
 #### (c) Administration
 
@@ -26,7 +26,7 @@ After consultation with the State of California, the Secretary shall publish a m
 
 #### (g) Access to private lands
 
-If any State or privately owned land or any valid mining claim or other valid occupancy is within the special management area, or if State or private subsurface rights underlie public lands within the special management area, the Secretary shall provide the State or private owner, claimant, or occupier and their successors in interest such rights as may be necessary to assure adequate and feasible access for economic and other purposes to the site concerned. Such rights shall be subject to reasonable regulations issued by the Secretary to protect the natural and other values of the special management area, taking into account the traditional and customary means of access used prior to November 3, 1987.
+If any State or privately owned land or any valid mining claim or other valid occupancy is within the special management area, or if State or private subsurface rights underlie publiclands within the special management area, the Secretary shall provide the State or private owner, claimant, or occupier and their successors in interest such rights as may be necessary to assure adequate and feasible access for economic and other purposes to the site concerned. Such rights shall be subject to reasonable regulations issued by the Secretary to protect the natural and other values of the special management area, taking into account the traditional and customary means of access used prior to November 3, 1987.
 
 #### (h) Specific protections
 
@@ -40,5 +40,5 @@ In recognition of the dispute that exists over whether a dam project should be c
 
 This Act, referred to in subsecs. (a), (c), and (h), is Pub. L. 100–150, Nov. 3, 1987, 101 Stat. 881, which enacted this section and amended section 1274 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Geothermal Steam Act of 1970, referred to in subsec. (d), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (d), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 

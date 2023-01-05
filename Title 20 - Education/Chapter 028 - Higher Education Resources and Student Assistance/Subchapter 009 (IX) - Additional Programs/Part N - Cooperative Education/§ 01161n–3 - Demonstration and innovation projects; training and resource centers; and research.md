@@ -44,7 +44,7 @@ From the amounts appropriated under section 1161n–4 of this title, the Secreta
 
 #### (B) Contracts with other agencies or organizations
 
-&emsp;&emsp;The Secretary may use not more than three percent of the amount appropriated to carry out this section in each fiscal year to enter into contracts described in paragraph (1)(B).
+&emsp;&emsp;The Secretary may use not more than three percent of the amount appropriated tocarry out this section in each fiscal year to enter into contracts described in paragraph (1)(B).
 
 #### (c) Supplement not supplant
 

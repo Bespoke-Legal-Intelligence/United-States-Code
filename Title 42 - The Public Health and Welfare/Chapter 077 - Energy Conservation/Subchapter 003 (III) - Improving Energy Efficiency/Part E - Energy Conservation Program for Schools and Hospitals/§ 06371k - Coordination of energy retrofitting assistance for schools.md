@@ -26,7 +26,7 @@ The Secretary of Energy (in this section referred to as the "Secretary"), acting
 
 In carrying out coordination and outreach under subsection (b), the Secretary shall—
 
-&emsp;(1) in consultation and coordination with the appropriate Federal agencies, carry out a review of existing programs and financing mechanisms (including revolving loan funds andloan guarantees) available in or from the Department of Agriculture, the Department of Energy, the Department of Education, the Department of the Treasury, the Internal Revenue Service, the Environmental Protection Agency, and other appropriate Federal agencies with jurisdiction over energy financing and facilitation that are currently used or may be used to help initiate, develop, and finance energy efficiency, renewable energy, and energy retrofitting projects for schools;
+&emsp;(1) in consultation and coordination with the appropriate Federal agencies, carry out a review of existing programs and financing mechanisms (including revolving loan funds and loan guarantees) available in or from the Department of Agriculture, the Department of Energy, the Department of Education, the Department of the Treasury, the Internal Revenue Service, the Environmental Protection Agency, and other appropriate Federal agencies with jurisdiction over energy financing and facilitation that are currently used or may be used to help initiate, develop, and finance energy efficiency, renewable energy, and energy retrofitting projects for schools;
 
 &emsp;(2) establish a Federal cross-departmental collaborative coordination, education, and outreach effort to streamline communication and promote available Federal opportunities and assistance described in paragraph (1), for energy efficiency, renewable energy, and energy retrofitting projects that enables States, local educational agencies, and schools—
 
@@ -58,7 +58,7 @@ In carrying out coordination and outreach under subsection (b), the Secretary sh
 
 #### (d) Report
 
-Not later than 180 days after December 27, 2020, the Secretary shall submit to Congress a report describing the implementation of this section.
+Not later than 180 days after December 27, 2020, the Secretary shall submit to Congress areport describing the implementation of this section.
 
 (Pub. L. 116–260, div. Z, title I, §1001, Dec. 27, 2020, 134 Stat. 2420.)
 

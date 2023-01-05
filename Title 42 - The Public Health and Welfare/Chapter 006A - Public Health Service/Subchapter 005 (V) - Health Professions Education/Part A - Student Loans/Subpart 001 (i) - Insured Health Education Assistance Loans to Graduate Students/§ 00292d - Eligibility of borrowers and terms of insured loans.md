@@ -12,21 +12,17 @@ A loan by an eligible lender shall be insurable by the Secretary under the provi
 
 &emsp;&emsp;&emsp;(ii) is or will be a full-time student at the eligible institution;
 
-&emsp;&emsp;&emsp;(iii) has agreed that all funds received under such loan shall be used solely for tuition, other reasonable educational expenses, including fees, books, and laboratory expenses, and reasonable living expenses, incurred by such students;
+&emsp;&emsp;&emsp;(iii) has agreed that all funds received under such loan shall be used solely for tuition, other reasonable educational expenses, including fees, books, and laboratory expenses, and reasonable living expenses, incurred by such students; and
 
-&emsp;&emsp;&emsp;(iv) if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section; and
-
-&emsp;&emsp;&emsp;(v) in the case of a pharmacy student, has satisfactorily completed three years of training; or
+&emsp;&emsp;&emsp;(iv) in the case of a pharmacy student, has satisfactorily completed three years of training; or
 
 &emsp;&emsp;(B) an individual who—
 
 &emsp;&emsp;&emsp;(i) has previously had a loan insured under this subpart when the individual was a full-time student at an eligible institution;
 
-&emsp;&emsp;&emsp;(ii) is in a period during which, pursuant to paragraph (2), the principal amount of such previous loan need not be paid;
+&emsp;&emsp;&emsp;(ii) is in a period during which, pursuant to paragraph (2), the principal amount of such previous loan need not be paid; and
 
-&emsp;&emsp;&emsp;(iii) has agreed that all funds received under the proposed loan shall be used solely for repayment of interest due on previous loans made under this subpart; and
-
-&emsp;&emsp;&emsp;(iv) if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section;
+&emsp;&emsp;&emsp;(iii) has agreed that all funds received under the proposed loan shall be used solely for repayment of interest due on previous loans made under this subpart;
 
 &emsp;(2) evidenced by a note or other written agreement which—
 
@@ -78,7 +74,7 @@ No provision of any law of the United States (other than subsections (a)(2)(D) a
 
 #### (e) Determination regarding forbearance
 
-Any period of time granted to a borrower under this subpart in the form of forbearance on the loan shall not be included in the 25-year total loan repayment period under subsection (a)(2)(C).
+Any period of time granted to a borrower under this subpart in the form of forbearance onthe loan shall not be included in the 25-year total loan repayment period under subsection (a)(2)(C).
 
 #### (f) Loan repayment schedule
 
@@ -96,15 +92,15 @@ For purposes of this section:
 
 &emsp;(2) The term "Persian Gulf conflict" means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-(July 1, 1944, ch. 373, title VII, §705, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1996; amended Pub. L. 103–43, title XX, §2014(a)(1), June 10, 1993, 107 Stat. 215; Pub. L. 105–244, title I, §102(a)(13)(A), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–392, title I, §141(a)(1), (2), Nov. 13, 1998, 112 Stat. 3578.)
+(July 1, 1944, ch. 373, title VII, §705, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1996; amended Pub. L. 103–43, title XX, §2014(a)(1), June 10, 1993, 107 Stat. 215; Pub. L. 105–244, title I, §102(a)(13)(A), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–392, title I, §141(a)(1), (2), Nov. 13, 1998, 112 Stat. 3578; Pub. L. 117–103, div. R, §104(1), Mar. 15, 2022, 136 Stat. 821.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Peace Corps Act, referred to in subsec. (a)(2)(C), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (a)(2)(C), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Prior Provisions
 
@@ -116,11 +112,15 @@ A prior section 705 of act July 1, 1944, was classified to section 292e of this 
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(1)(A)(iv), (v). Pub. L. 117–103, §104(1)(A), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: "if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section; and".
+
+Subsec. (a)(1)(B)(iv). Pub. L. 117–103, §104(1)(B), struck out cl. (iv) which read as follows: "if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section;".
+
 <b>1998</b>—Subsec. (a)(2)(C). Pub. L. 105–392 added cl. (x), redesignated former cl. (x) as (xi) and substituted "(x)" for "(ix)", and substituted "(xi)" for "(x)" in concluding provisions.
 
 Pub. L. 105–244 substituted "section 1002(a)" for "section 1088(a)" in cl. (i).
 
-<b>1993</b>—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H)which read as follows: "notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizes an institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans; and".
+<b>1993</b>—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: "notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizes an institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans; and".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

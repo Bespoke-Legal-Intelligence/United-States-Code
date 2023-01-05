@@ -6,7 +6,7 @@ Any decision under section 719e(a) of this title or subsection (b) designating f
 
 #### (b) New decision: statement of reasons for proposal; transmittal to Congress
 
-If the Congress does not enact such a joint resolution within such 60-day period, the President, not later than the end of the 30th day following the expiration of the 60-day period, may propose a new decision and shall provide a detailed statement concerning the reasons for such proposal. The new decision shall be submitted in accordance with section 719e(a) of this title and transmitted to the House of Representatives and the Senate on the same day while both are in session and shall take effect pursuant to subsection (a) of this section. In the event that a resolution respecting the President's decision was defeated by vote of either House, no new decision may be transmitted pursuant to this subsection unless such decision differs in a material respect from the previous decision.
+If the Congress does not enact such a joint resolution within such 60-day period, the President,not later than the end of the 30th day following the expiration of the 60-day period, may propose a new decision and shall provide a detailed statement concerning the reasons for such proposal. The new decision shall be submitted in accordance with section 719e(a) of this title and transmitted to the House of Representatives and the Senate on the same day while both are in session and shall take effect pursuant to subsection (a) of this section. In the event that a resolution respecting the President's decision was defeated by vote of either House, no new decision may be transmitted pursuant to this subsection unless such decision differs in a material respect from the previous decision.
 
 #### (c) Sessions of Congress
 
@@ -66,7 +66,7 @@ Within 20 days of the transmittal of the President's decision to the Congress un
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (d)(2) and (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (d)(2) and (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

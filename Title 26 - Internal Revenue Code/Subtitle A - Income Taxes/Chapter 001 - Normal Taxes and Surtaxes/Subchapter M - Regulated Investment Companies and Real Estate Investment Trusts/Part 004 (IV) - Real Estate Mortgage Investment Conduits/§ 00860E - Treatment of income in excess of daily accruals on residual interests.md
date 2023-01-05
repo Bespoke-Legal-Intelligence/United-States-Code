@@ -22,7 +22,7 @@
 
 &emsp;For purposes of part VI of subchapter A of this chapter—
 
-&emsp;&emsp;(A) the reference in section 55(b)(2) to taxable income shall be treated as a reference to taxable income determined without regard to this subsection,
+&emsp;&emsp;(A) the reference in section 55(b)(1)(D) to taxable income shall be treated as a reference to taxable income determined without regard to this subsection,
 
 &emsp;&emsp;(B) the alternative minimum taxable income of any holder of a residual interest in a REMIC for any taxable year shall in no event be less than the excess inclusion for such taxable year, and
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the daily accrual with respect to any residual interest for any day in any calendar quarter shall be determined by allocating to each day in such quarter its ratable portion of the product of—
+&emsp;&emsp;For purposes of this subsection, the daily accrual with respect to any residual interestfor any day in any calendar quarter shall be determined by allocating to each day in such quarter its ratable portion of the product of—
 
 &emsp;&emsp;&emsp;(i) the adjusted issue price of such interest at the beginning of such quarter, and
 
@@ -94,7 +94,7 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 &emsp;The amount of the tax imposed by paragraph (1) on any transfer of a residual interest shall be equal to the product of—
 
-&emsp;&emsp;(A) the amount (determined under regulations) equal to the present value of the totalanticipated excess inclusions with respect to such interest for periods after such transfer, multiplied by
+&emsp;&emsp;(A) the amount (determined under regulations) equal to the present value of the total anticipated excess inclusions with respect to such interest for periods after such transfer, multiplied by
 
 &emsp;&emsp;(B) the highest rate of tax specified in section 11(b).
 
@@ -142,7 +142,7 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 &emsp;&emsp;&emsp;(iii) any organization to which part I of subchapter T applies.
 
-> &emsp;&emsp;Except as provided in regulations, a person holding an interest in a pass-thru entity as a nominee for another person shall, with respect to such interest, be treated as a pass-thru entity.
+> &emsp;&emsp;Except as provided in regulations, a person holding an interest in a pass-thru entity asa nominee for another person shall, with respect to such interest, be treated as a pass-thru entity.
 
 #### (C) Tax to be deductible
 
@@ -172,11 +172,13 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 Except as provided in regulations, with respect to any variable contract (as defined in section 817), there shall be no adjustment in the reserve to the extent of any excess inclusion.
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881; Pub. L. 115–97, title I, §13001(b)(1)(B), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–136, div. A, title II, §2303(a)(2)(C), Mar. 27, 2020, 134 Stat. 353.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881; Pub. L. 115–97, title I, §13001(b)(1)(B), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–136, div. A, title II, §2303(a)(2)(C), Mar. 27, 2020, 134 Stat. 353; Pub. L. 117–169, title I, §10101(a)(4)(B)(ii), Aug. 16, 2022, 136 Stat. 1822.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(4)(A). Pub. L. 117–169 substituted "55(b)(1)(D)" for "55(b)(2)".
 
 <b>2020</b>—Subsec. (a)(3)(B). Pub. L. 116–136 substituted "subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172." for "the 2nd sentence of section 172(b)(2)."
 
@@ -184,7 +186,7 @@ Except as provided in regulations, with respect to any variable contract (as def
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1616(b)(10)(A), substituted "The" for "Except as provided in paragraph (2), the".
 
-Subsec. (a)(2). Pub. L. 104–188, §1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out ", except thatparagraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies" after "of this subsection", and struck out former par. (2) which read as follows: "
+Subsec. (a)(2). Pub. L. 104–188, §1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out ", except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies" after "of this subsection", and struck out former par. (2) which read as follows: "
 
 Exception for certain financial institutions.—Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter."
 
@@ -212,6 +214,10 @@ Subsec. (f). Pub. L. 100–647, §1006(t)(26), added subsec. (f).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under section 11 of this title.
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–136 applicable to taxable years beginning after Dec. 31, 2017, and to taxable years beginning on or before Dec. 31, 2017, to which net operating losses arising in taxable years beginning after Dec. 31, 2017, are carried, see section 2303(d)(1) of Pub. L. 116–136, set out in a note under section 172 of this title.
@@ -224,7 +230,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 1616(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, but not applicable to any residual interest held by a taxpayer if such interest has been held by such taxpayer at all times since Oct. 31, 1995, see section 1616(c)(1), (4) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
-Pub. L. 104–188, title I, §1704(h)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 \[Pub. L. 99–514\] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\]."
+Pub. L. 104–188, title I, §1704(h)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 \[Pub. L. 99–514\] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
 #### Effective Date of 1988 Amendment
 

@@ -14,7 +14,7 @@ If any portion of an accumulation distribution for any taxable year is deemed un
 
 #### (d) Rule when information is not available
 
-If adequate records are not available to determine the proper application of this subpart to an amount distributed by a trust, such amount shall be deemed to be an accumulation distribution consisting of undistributed net income earned during the earliest preceding taxable year of the trust in which it can be established that the trust was in existence.
+If adequate records are not available to determine the proper application of this subpart toan amount distributed by a trust, such amount shall be deemed to be an accumulation distribution consisting of undistributed net income earned during the earliest preceding taxable year of the trust in which it can be established that the trust was in existence.
 
 #### (e) Denial of refund to trusts and beneficiaries
 

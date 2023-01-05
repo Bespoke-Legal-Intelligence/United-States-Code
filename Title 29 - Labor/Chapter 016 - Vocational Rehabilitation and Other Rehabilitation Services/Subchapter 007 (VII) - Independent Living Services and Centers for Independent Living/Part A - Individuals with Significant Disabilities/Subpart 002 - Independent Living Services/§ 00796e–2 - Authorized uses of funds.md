@@ -20,7 +20,7 @@ The State may use the remainder of the funds described in subsection (a)—
 
 &emsp;(6) to train individuals with disabilities and individuals providing services to individuals with disabilities and other persons regarding the independent living philosophy; and
 
-&emsp;(7) to provide outreach to populations that are unserved or underserved by programs under this subchapter, including minority groups and urban and rural populations.
+&emsp;(7) to provide outreach to populations that are unserved or underserved by programsunder this subchapter, including minority groups and urban and rural populations.
 
 (Pub. L. 93–112, title VII, §713, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1226; amended Pub. L. 113–128, title IV, §476(d), July 22, 2014, 128 Stat. 1691.)
 

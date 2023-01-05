@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-There is a General Counsel of the Central Intelligence Agency, appointed from civilian life by the President, by and with the advice and consent of the Senate.
+There is a General Counsel of the Central Intelligence Agency, appointed from civilian lifeby the President, by and with the advice and consent of the Senate.
 
 #### (b) Chief legal officer
 

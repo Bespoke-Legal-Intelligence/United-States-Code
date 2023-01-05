@@ -50,7 +50,7 @@ Each State technical committee shall be composed of agricultural producers and o
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(2), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsecs. (a) and (b)(2), was in the original "this title", meaning title XII of Pub. L.99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
 #### Codification
 

@@ -12,7 +12,7 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 &emsp;&emsp;(A) oversee and manage the administration of grants to and contracts with Indian tribes, tribal courts, tribal organizations, or tribal nonprofit organizations;
 
-&emsp;&emsp;(B) ensure that, if a grant under this Act or a contract pursuant to such a grant ismade to an organization to perform services that benefit more than 1 Indian tribe, the approval of each Indian tribe to be benefitted shall be a prerequisite to the making of the grant or letting of the contract;
+&emsp;&emsp;(B) ensure that, if a grant under this Act or a contract pursuant to such a grant is made to an organization to perform services that benefit more than 1 Indian tribe, the approval of each Indian tribe to be benefitted shall be a prerequisite to the making of the grant or letting of the contract;
 
 &emsp;&emsp;(C) coordinate development of Federal policy, protocols, and guidelines on matters relating to violence against Indian women;
 
@@ -54,7 +54,7 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 #### References in Text
 
-This Act, referred to in subsecs. (b)(1)(B) and (c)(1), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+This Act, referred to in subsecs. (b)(1)(B) and (c)(1), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, seeShort Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 Section 20126 of this title, referred to in subsec. (b)(1)(E), was in the original "section 903" and was translated as meaning section 903 of Pub. L. 109–162, to reflect the probable intent of Congress, because there is no section 903 of Pub. L. 90–351.
 

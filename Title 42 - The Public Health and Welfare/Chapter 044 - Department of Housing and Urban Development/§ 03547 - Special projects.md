@@ -22,7 +22,7 @@
 
 #### (2) Procedure
 
-The Secretary shall approve the release of funds for projects subject to the procedures authorized by this section only if, not less than 15 days prior to such approval and prior to any commitment of funds to such projects, the recipient submits to the Secretary a request for such release, accompanied by a certification of the State or unit of general local government which meets the requirements of paragraph (3). The Secretary's approval of any such certification shall be deemed to satisfy the Secretary's responsibilities under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as thoseresponsibilities relate to the releases of funds for special projects to be carried out pursuant thereto which are covered by such certification.
+The Secretary shall approve the release of funds for projects subject to the procedures authorized by this section only if, not less than 15 days prior to such approval and prior to any commitment of funds to such projects, the recipient submits to the Secretary a request for such release, accompanied by a certification of the State or unit of general local government which meets the requirements of paragraph (3). The Secretary's approval of any such certification shall be deemed to satisfy the Secretary's responsibilities under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the releases of funds for special projects to be carried out pursuant thereto which are covered by such certification.
 
 #### (3) Certification
 
@@ -50,7 +50,7 @@ In cases in which a unit of general local government carries out the responsibil
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in pars. (1)(A), (2), and (3)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in pars. (1)(A), (2), and (3)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 The Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1993, referred to in par. (1)(A), is Pub. L. 102–389, Oct. 6, 1992, 106 Stat. 1571. Provisions under the head "Annual Contributions for Assisted Housing" in title II of the Act appear at 106 Stat. 1582 and are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 

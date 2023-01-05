@@ -8,7 +8,7 @@
 
 &emsp;(3) personal injury to, or death of, any inhabitant of a foreign country;
 
-> if the damage, loss, personal injury, or death occurs outside the United States, or the Commonwealths or possessions, and is caused by, or is otherwise incident to noncombat activities of, the armed forces under his jurisdiction, or is caused by a member thereof or by a civilian employee of the military department concerned or the Coast Guard, as the case may be. The claim of an insured, but not that of a subrogee, may be considered under this subsection. In this section, "foreign country" includes any place under the jurisdiction of the United States in a foreign country. An officer or employee may serve on a claims commission under the jurisdiction of another armed force only with the consent of the Secretary of his department, or his designee, but shall perform his duties under regulations of the department appointing the commission.
+> if the damage, loss, personal injury, or death occurs outside the United States, or the Commonwealths or possessions, and is caused by, or is otherwise incident to noncombat activities of,the armed forces under his jurisdiction, or is caused by a member thereof or by a civilian employee of the military department concerned or the Coast Guard, as the case may be. The claim of an insured, but not that of a subrogee, may be considered under this subsection. In this section, "foreign country" includes any place under the jurisdiction of the United States in a foreign country. An officer or employee may serve on a claims commission under the jurisdiction of another armed force only with the consent of the Secretary of his department, or his designee, but shall perform his duties under regulations of the department appointing the commission.
 
 (b) A claim may be allowed under subsection (a) only if—
 
@@ -84,7 +84,7 @@ In subsection (a)(2), the words "United States" are substituted for the word "Go
 
 In subsection (b), the word "accident" is omitted as surplusage. The words "except that claims arising out of accidents or incidents occurring after December 6, 1941, but prior to May 1, 1943, may be presented at any time prior to May 1, 1944" are omitted as executed. Clauses (2) and (3) are substituted for 31:224d (3d proviso).
 
-In subsection (c), the first 28 words of the second proviso of 31:224d and the words "but does not exceed $5,000" are omitted as covered by subsection (a). Thewords "commanding officer or other" are omitted as surplusage. The word "commissioned" is inserted for clarity. The word "designated" is substituted for the words "may prescribe".
+In subsection (c), the first 28 words of the second proviso of 31:224d and the words "but does not exceed $5,000" are omitted as covered by subsection (a). The words "commanding officer or other" are omitted as surplusage. The word "commissioned" is inserted for clarity. The word "designated" is substituted for the words "may prescribe".
 
 In subsection (d), the word "may" is substituted for the words "shall have authority, if he deems". The words "that would otherwise be covered by this section" are inserted for clarity. The words "to be meritorious" and "character of such" are omitted as surplusage.
 

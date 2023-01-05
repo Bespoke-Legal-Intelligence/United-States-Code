@@ -16,7 +16,7 @@ Prohibition of Retaliatory Personnel Actions.—(1) No person may take (or threa
 
 &emsp;&emsp;(i) a Member of Congress;
 
-&emsp;&emsp;(ii) an Inspector General (as defined in subsection (j)) or any other Inspector General appointed under the Inspector General Act of 1978;
+&emsp;&emsp;(ii) an Inspector General (as defined in subsection (j)) or any other Inspector General appointed under chapter 4 of title 5;
 
 &emsp;&emsp;(iii) a member of a Department of Defense audit, inspection, investigation, or law enforcement organization;
 
@@ -26,7 +26,7 @@ Prohibition of Retaliatory Personnel Actions.—(1) No person may take (or threa
 
 &emsp;&emsp;(vi) any other person or organization designated pursuant to regulations or other established administrative procedures for such communications; or
 
-&emsp;(C) testimony, or otherwise participating in or assisting in an investigation or proceedingrelated to a communication under subparagraph (A) or (B), or filing, causing to be filed, participating in, or otherwise assisting in an action brought under this section.
+&emsp;(C) testimony, or otherwise participating in or assisting in an investigation or proceeding related to a communication under subparagraph (A) or (B), or filing, causing to be filed, participating in, or otherwise assisting in an action brought under this section.
 
 (2)(A) The actions considered for purposes of this section to be a personnel action prohibited by this subsection shall include any action prohibited by paragraph (1), including any of the following:
 
@@ -96,7 +96,7 @@ Inspector General Investigation of Underlying Allegations.—Upon receiving an a
 
 (e)
 
-Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(F), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
+Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval ofthe report of that investigation under subsection (c)(4)(F), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
 
 (2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
 
@@ -124,7 +124,7 @@ Action in Case of Substantiated Violations.—(1) Not later than 30 days after r
 
 &emsp;(A) order such action as is necessary to correct the record of a personnel action prohibited by subsection (b), including referring the report to the appropriate board for the correction of military records; and
 
-&emsp;(B) submit to the Inspector General a report on the actions taken by the Secretary pursuant to this paragraph, and provide for the inclusion of a summary of the report under this subparagraph (with any personally identifiable information redacted) in the semiannual report to Congress of the Inspector General ofthe Department of Defense or the Inspector General of the Department of Homeland Security, as applicable, under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;(B) submit to the Inspector General a report on the actions taken by the Secretary pursuant to this paragraph, and provide for the inclusion of a summary of the report under this subparagraph (with any personally identifiable information redacted) in the semiannual report to Congress of the Inspector General of the Department of Defense or the Inspector General of the Department of Homeland Security, as applicable, under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).<sup>1</sup>
 
 (3) If the Secretary concerned determines under paragraph (1) that an order for corrective or disciplinary action is not appropriate, not later than 30 days after making the determination, such Secretary shall—
 
@@ -188,7 +188,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "unlawful discrimination" means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, titleX, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title V, §523, Dec. 31, 2011, 125 Stat. 1401; Pub. L. 113–66, div. A, title XVII, §§1714, 1715, Dec. 26, 2013, 127 Stat. 964–966; Pub. L. 114–328, div. A, title V, §§531(a)–(d), 532(a), (b), Dec. 23, 2016, 130 Stat. 2118–2120; Pub. L. 115–91, div. A, title X, §1081(c)(2)(C), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–92, div. A, title XVII, §1731(a)(21), Dec. 20, 2019, 133 Stat. 1813.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title V, §523, Dec. 31, 2011, 125 Stat. 1401; Pub. L. 113–66, div. A, title XVII, §§1714, 1715, Dec. 26, 2013, 127 Stat. 964–966; Pub. L. 114–328, div. A, title V, §§531(a)–(d), 532(a), (b), Dec. 23, 2016, 130 Stat. 2118–2120; Pub. L. 115–91, div. A, title X, §1081(c)(2)(C), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–92, div. A, title XVII, §1731(a)(21), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–286, §4(b)(27), Dec. 27, 2022, 136 Stat. 4346.)
 
 Historical and Revision Notes
 
@@ -210,9 +210,11 @@ The words "prevented", "directly or indirectly", "concerning any subject", "or M
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsecs. (b)(1)(B)(ii) and (f)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 5 of the Inspector General Act of 1978, referred to in subsec. (f)(2)(B), is section 5 of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 405 of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4361.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1)(B)(ii). Pub. L. 117–286 substituted "chapter 4 of title 5;" for "the Inspector General Act of 1978;".
 
 <b>2019</b>—Subsec. (b)(1)(B)(ii). Pub. L. 116–92 substituted "subsection (j)" for "subsection (i)".
 
@@ -270,7 +272,7 @@ Subsec. (e)(3). Pub. L. 113–66, §1714(d)(2), inserted "and the Secretary of t
 
 Subsec. (f). Pub. L. 113–66, §1714(e)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 113–66, §1714(e)(1), (f), redesignated subsec. (f) as (g), and in par. (3), substituted"board holds" for "board elects to hold" in introductory provisions and "the member or former member would benefit from" for "the case is unusually complex or otherwise requires" in subpar. (A)(ii). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 113–66, §1714(e)(1), (f), redesignated subsec. (f) as (g), and in par. (3), substituted "board holds" for "board elects to hold" in introductory provisions and "the member or former member would benefit from" for "the case is unusually complex or otherwise requires" in subpar. (A)(ii). Former subsec. (g) redesignated (h).
 
 Subsecs. (h) to (j). Pub. L. 113–66, §1714(e)(1), redesignated subsecs. (g) to (i) as (h) to (j), respectively.
 
@@ -330,7 +332,7 @@ Subsec. (b). Pub. L. 103–337, §531(a), inserted "(1)" before "No person may t
 
 Subsec. (c). Pub. L. 103–337, §531(b)(3), substituted "Allegations of Prohibited Personnel Actions" for "Certain Allegations" in heading.
 
-Subsec. (c)(1). Pub. L. 103–337, §531(b)(1), inserted at end "If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector generalconducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action."
+Subsec. (c)(1). Pub. L. 103–337, §531(b)(1), inserted at end "If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action."
 
 Subsec. (c)(2). Pub. L. 103–337, §531(b)(2), added par. (2) and struck out former par. (2) which read as follows: "A communication described in this paragraph is a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted in which the member of the armed forces makes a complaint or discloses information that the member reasonably believes constitutes evidence of—
 
@@ -410,7 +412,7 @@ Deadline for Regulations.—The Secretary of Defense and the Secretary of Transp
 
 Content of Regulations.—In prescribing regulations under section 1034 of title 10, United States Code, as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide for appropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings."
 
-Pub. L. 100–456, div. A, title VIII, §846(b), Sept. 29, 1988, 102 Stat. 2030, provided that: "The Secretary ofDefense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) \[now (i)\] of section 1034 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\]."
+Pub. L. 100–456, div. A, title VIII, §846(b), Sept. 29, 1988, 102 Stat. 2030, provided that: "The Secretary of Defense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) \[now (i)\] of section 1034 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\]."
 
 #### Uniform Standards for Inspector General Investigations of Prohibited Personnel Actions and Other Matters
 
@@ -475,4 +477,6 @@ Deadline.—The regulations required by this section shall be prescribed not lat
 #### Report on Activities of Inspector General
 
 Pub. L. 100–456, div. A, title VIII, §846(c), Sept. 29, 1988, 102 Stat. 2030, directed Inspector General of Department of Defense (and Inspector General of Department of Transportation with respect to Coast Guard) to submit, not later than Feb. 1, 1990, a report to Congress on activities of Inspector General under this section, with that report to include, in the case of each case handled by Inspector General under this section, a description of (A) nature of allegation described in subsec. (c) of this section; (B) evaluation and recommendation of Inspector General with respect to allegation; (C) any action of appropriate board for correction of military records with respect to allegation; (D) if allegation was determined to be meritorious, any corrective action taken; and (E) views of member or former member of armed forces making allegation (determined on basis of interview under subsec. (f) of this section) on disposition of case.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

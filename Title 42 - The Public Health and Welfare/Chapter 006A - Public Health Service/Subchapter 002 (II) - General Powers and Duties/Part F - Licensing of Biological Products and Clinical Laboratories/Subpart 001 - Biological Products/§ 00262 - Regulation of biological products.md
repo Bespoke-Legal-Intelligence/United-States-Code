@@ -116,7 +116,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) analytical studies that demonstrate that the biological product is highly similar to the reference product notwithstanding minor differences in clinically inactive components;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) animal studies (including the assessment of toxicity); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an assessment of toxicity (which may rely on, or consist of, a study or studies described in item (aa) or (cc)); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) a clinical study or studies (including the assessment of immunogenicity and pharmacokinetics or pharmacodynamics) that are sufficient to demonstrate safety, purity, and potency in 1 or more appropriate conditions of use for which the reference product is licensed and intended to be used and for which licensure is sought for the biological product;
 
@@ -186,7 +186,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (6) Exclusivity for first interchangeable biological product
 
-&emsp;Upon review of an application submitted under this subsection relying on the same reference product for which a prior biological product has received a determination of interchangeability for any condition of use, the Secretary shall not make a determination under paragraph (4) that the second or subsequent biological product is interchangeable for any condition of use until the earlier of—
+&emsp;The Secretary shall not make approval as an interchangeable biological product effective with respect to an application submitted under this subsection that relies on the same reference product for which a prior biological product has received a determination of interchangeability for any condition of use, until the earlier of—
 
 &emsp;&emsp;(A) 1 year after the first commercial marketing of the first interchangeable biosimilar biological product to be approved as interchangeable for that reference product;
 
@@ -200,7 +200,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(ii) 18 months after approval of the first interchangeable biosimilar biological product if the applicant that submitted such application has not been sued under subsection (l)(6).
 
-> &emsp;For purposes of this paragraph, the term "final court decision" means a final decision of a court from which no appeal (other than a petition to the United States Supreme Court for a writ of certiorari) has been or can be taken.
+> &emsp;For purposes of this paragraph, the term "final court decision" means a final decision of a court from which no appeal (other than a petition to the United States Supreme Court for a writ of certiorari) has been or can be taken, and the term "first interchangeable biosimilar biological product" means any interchangeable biosimilar biological product that is approved on the first day on which such a product is approved as interchangeable with the reference product.
 
 #### (7) Exclusivity for reference product
 
@@ -210,7 +210,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (B) Filing period
 
-&emsp;&emsp;An application under this subsection may not be submitted to the Secretary until thedate that is 4 years after the date on which the reference product was first licensed under subsection (a).
+&emsp;&emsp;An application under this subsection may not be submitted to the Secretary until the date that is 4 years after the date on which the reference product was first licensed under subsection (a).
 
 #### (C) First licensure
 
@@ -288,7 +288,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;&emsp;Not later than 180 days after December 27, 2020, the Secretary shall publish and make available to the public in a searchable, electronic format—
 
-&emsp;&emsp;&emsp;&emsp;(I) a list of each biological product, by nonproprietary name (proper name), for which, as of December 27, 2020, a biologics license under subsection (a) orthis subsection is in effect, or that, as of such date of enactment, is deemed to be licensed under this section pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009;
+&emsp;&emsp;&emsp;&emsp;(I) a list of each biological product, by nonproprietary name (proper name), for which, as of December 27, 2020, a biologics license under subsection (a) or this subsection is in effect, or that, as of such date of enactment, is deemed to be licensed under this section pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009;
 
 &emsp;&emsp;&emsp;&emsp;(II) the date of licensure of the marketing application and the application number; and
 
@@ -326,7 +326,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (i) Provision of confidential information
 
-&emsp;&emsp;&emsp;When a subsection (k) applicant submits an application under subsection (k), such applicant shall provide to the persons described in clause (ii), subject to the terms of this paragraph, confidential access to the information required to be produced pursuant to paragraph (2) and any other information that the subsection (k) applicant determines, in its sole discretion, to be appropriate (referred to in this subsection as the "confidential information").
+&emsp;&emsp;&emsp;When a subsection (k) applicant submits an application under subsection (k), suchapplicant shall provide to the persons described in clause (ii), subject to the terms of this paragraph, confidential access to the information required to be produced pursuant to paragraph (2) and any other information that the subsection (k) applicant determines, in its sole discretion, to be appropriate (referred to in this subsection as the "confidential information").
 
 #### (ii) Recipients of information
 
@@ -346,7 +346,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (C) Limitation on disclosure
 
-&emsp;&emsp;No person that receives confidential information pursuant to subparagraph (B) shalldisclose any confidential information to any other person or entity, including the reference product sponsor employees, outside scientific consultants, or other outside counsel retained by the reference product sponsor, without the prior written consent of the subsection (k) applicant, which shall not be unreasonably withheld.
+&emsp;&emsp;No person that receives confidential information pursuant to subparagraph (B) shall disclose any confidential information to any other person or entity, including the reference product sponsor employees, outside scientific consultants, or other outside counsel retained by the reference product sponsor, without the prior written consent of the subsection (k) applicant, which shall not be unreasonably withheld.
 
 #### (D) Use of confidential information
 
@@ -470,7 +470,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(A) is issued to, or exclusively licensed by, the reference product sponsor after the date that the reference product sponsor provided the list to the subsection (k) applicant under paragraph (3)(A); and
 
-&emsp;&emsp;(B) the reference product sponsor reasonably believes that, due to the issuance ofsuch patent, a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application,
+&emsp;&emsp;(B) the reference product sponsor reasonably believes that, due to the issuance of such patent, a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application,
 
 > &emsp;not later than 30 days after such issuance or licensing, the reference product sponsor shall provide to the subsection (k) applicant a supplement to the list provided by the reference product sponsor under paragraph (3)(A) that includes such patent, not later than 30 days after such supplement is provided, the subsection (k) applicant shall provide a statement to the reference product sponsor in accordance with paragraph (3)(B), and such patent shall be subject to paragraph (8).
 
@@ -522,7 +522,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(A) the periods for such biological product referred to in subsection (k)(7) are deemed to be 4 years and 6 months rather than 4 years and 12 years and 6 months rather than 12 years; and
 
-&emsp;&emsp;(B) if the biological product is designated under section 526 <sup>1</sup> \[21 U.S.C. 360bb\] for a rare disease or condition, the period for such biological product referred to in section 527(a) <sup>1</sup>\[21 U.S.C. 360cc(a)\] is deemed to be 7 years and 6 months rather than 7 years.
+&emsp;&emsp;(B) if the biological product is designated under section 526 <sup>1</sup> \[21 U.S.C. 360bb\] for a rare disease or condition, the period for such biological product referred to in section 527(a) <sup>1</sup> \[21 U.S.C. 360cc(a)\] is deemed to be 7 years and 6 months rather than 7 years.
 
 #### (3) Market exclusivity for already-marketed biological products
 
@@ -550,23 +550,29 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(B) the date of issuance of the interim final rule controlling the biological product.
 
-(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819; Pub. L. 112–144, title V, §502(a)(2), July 9, 2012, 126 Stat. 1040; Pub. L. 114–89, §2(a)(2), Nov. 25, 2015, 129 Stat. 698; Pub. L. 114–255, div. A, title III, §3031(b), Dec. 13, 2016, 130 Stat. 1100; Pub. L. 115–52, title V, §505(b)(2)(B), Aug. 18, 2017, 131 Stat. 1046; Pub. L. 116–94, div. N, title I, §§605, 606, Dec. 20, 2019, 133 Stat. 3127; Pub. L. 116–260, div. BB, title III, §§322, 325(a), Dec. 27, 2020, 134 Stat. 2933, 2936.)
+(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819; Pub. L. 112–144, title V, §502(a)(2), July 9, 2012, 126 Stat. 1040; Pub. L. 114–89, §2(a)(2), Nov. 25, 2015, 129 Stat. 698; Pub. L. 114–255, div. A, title III, §3031(b), Dec. 13, 2016, 130 Stat. 1100; Pub. L. 115–52, title V, §505(b)(2)(B), Aug. 18, 2017, 131 Stat. 1046; Pub. L. 116–94, div. N, title I, §§605, 606, Dec. 20, 2019, 133 Stat. 3127; Pub. L. 116–260, div. BB, title III, §§322, 325(a), Dec. 27, 2020, 134 Stat. 2933, 2936; Pub. L. 117–328, div. FF, title III, §§3206, 3209(b), Dec. 29, 2022, 136 Stat. 5820, 5822.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The effective date of this paragraph, referred to in subsec. (d)(2), is the effective date of section 315 of Pub. L. 99–660 which added subsec. (d)(2). See Effective Date of 1986 Amendment note set out below.
+The effective date of this paragraph, referred to in subsec. (d)(2), is the effective date of section 315 of Pub.L. 99–660 which added subsec. (d)(2). See Effective Date of 1986 Amendment note set out below.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), (j), and (k)(5)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in subsec. (k)(7)(D), (9)(A)(i)(I), (ii), is section 7002(e)(4) of Pub. L. 111–148, which is set out as a note under this section.
+Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in subsec. (k)(7)(D), (9)(A)(i)(I), (ii), is section 7002(e)(4) of Pub. L. 111–148, which is set out in a note under this section.
 
 Sections 526, 527(a), and 505A(d)(4), referred to in subsec. (m)(2)(B), (3)(B), (4), probably mean sections 526, 527(a), and 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, which are classified to sections 360bb, 360cc(a), and 355a(d)(4), respectively, of Title 21, Food and Drugs.
 
 The Controlled Substances Act, referred to in subsec. (n)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (k)(2)(A)(i)(I)(bb). Pub. L. 117–328, §3209(b), amended item (bb) generally. Prior to amendment, item (bb) read as follows: "animal studies (including the assessment of toxicity); and".
+
+Subsec. (k)(6). Pub. L. 117–328, §3206(2), substituted "taken, and the term 'first interchangeable biosimilar biological product' means any interchangeable biosimilar biological product that is approved on the first day on which such a product is approved as interchangeable with the reference product." for "taken." in concluding provisions.
+
+Pub. L. 117–328, §3206(1), substituted "The Secretary shall not make approval as an interchangeable biological product effective with respect to" for "Upon review of" and "that relies on" for "relying on" and struck out "the Secretary shall not make a determination under paragraph (4) that the second or subsequent biological product is interchangeable for any condition of use" before "until the earlier of" in introductory provisions.
 
 <b>2020</b>—Subsec. (k)(2)(A)(iii)(III). Pub. L. 116–260, §322, added subcl. (III).
 
@@ -622,7 +628,7 @@ Subsec. (h). Pub. L. 99–660, §105(a), added subsec. (h).
 
 <b>1970</b>—Subsecs. (a) to (c). Pub. L. 91–515 inserted "vaccine, blood, blood component or derivative, allergenic product," after "antitoxin" wherever appearing.
 
-<b>1958</b>—Subsec. (d). Pub. L. 85–881 struck out "made jointly by the Surgeon General, the Surgeon General of the Army, and the Surgeon General of the Navy, and approved by the Secretary" after "regulations" in first sentence.
+<b>1958</b>—Subsec. (d). Pub. L. 85–881 struck out "made jointly by the Surgeon General, the Surgeon General ofthe Army, and the Surgeon General of the Navy, and approved by the Secretary" after "regulations" in first sentence.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

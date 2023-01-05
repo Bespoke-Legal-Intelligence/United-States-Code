@@ -22,7 +22,7 @@ The price used to establish export price and constructed export price shall be�
 
 &emsp;(2) reduced by—
 
-&emsp;&emsp;(A) except as provided in paragraph (1)(C), the amount, if any, included in such price, attributable to any additional costs, charges, or expenses, and United States import duties, which are incident to bringingthe subject merchandise from the original place of shipment in the exporting country to the place of delivery in the United States, and
+&emsp;&emsp;(A) except as provided in paragraph (1)(C), the amount, if any, included in such price, attributable to any additional costs, charges, or expenses, and United States import duties, which are incident to bringing the subject merchandise from the original place of shipment in the exporting country to the place of delivery in the United States, and
 
 &emsp;&emsp;(B) the amount, if included in such price, of any export tax, duty, or other charge imposed by the exporting country on the exportation of the subject merchandise to the United States, other than an export tax, duty, or other charge described in section 1677(6)(C) of this title.
 
@@ -100,7 +100,7 @@ Where the subject merchandise is imported by a person affiliated with the export
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

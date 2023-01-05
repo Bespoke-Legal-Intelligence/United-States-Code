@@ -28,7 +28,7 @@ In the case of sulfur oxide and particulate matter, each applicable implementati
 | :--- | ---: |
 | Particulate matter: |  |
 | Annual geometric mean | 19&nbsp;&nbsp; |
-| Twenty-four-hour maximum | 37   |
+| Twenty-four-hour maximum | 37&nbsp;&nbsp; |
 | Sulfur dioxide: |  |
 | Annual arithmetic mean | 20&nbsp;&nbsp; |
 | Twenty-four-hour maximum | 91&nbsp;&nbsp; |
@@ -78,7 +78,7 @@ In the case of sulfur oxide and particulate matter, each applicable implementati
 
 #### References in Text
 
-The Federal Power Act, referred to in subsec. (c)(1)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsec. (c)(1)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 #### Amendments
 

@@ -10,7 +10,7 @@ Federal agencies may on the direction of the President, provide assistance essen
 
 #### (2) Medicine, food, and other consumables
 
-&emsp;Distributing or rendering through State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief and disaster assistance organizations medicine durable medical equipment,,<sup>1</sup> food, and other consumable supplies, and other services and assistance to disaster victims.
+&emsp;Distributing or rendering through State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief and disasterassistance organizations medicine durable medical equipment,,<sup>1</sup> food, and other consumable supplies, and other services and assistance to disaster victims.
 
 #### (3) Work and services to save lives and protect property
 
@@ -68,7 +68,7 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (5) Guidelines
 
-&emsp;Not later than 180 days after November 23, 1988, the President shall issue guidelines forcarrying out this subsection. Such guidelines shall consider any likely effect assistance under this subsection will have on the availability of other forms of assistance under this chapter.
+&emsp;Not later than 180 days after November 23, 1988, the President shall issue guidelines for carrying out this subsection. Such guidelines shall consider any likely effect assistance under this subsection will have on the availability of other forms of assistance under this chapter.
 
 #### (6) Definitions
 
@@ -98,7 +98,7 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (2) Overtime
 
-&emsp;The guidelines for reimbursement for costs under paragraph (1) shall ensure that no State, tribal, or local government is denied reimbursement for overtime payments that are required pursuant to the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.).
+&emsp;The guidelines for reimbursement for costs under paragraph (1) shall ensure that no State,tribal, or local government is denied reimbursement for overtime payments that are required pursuant to the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.).
 
 #### (3) No effect on mutual aid pacts
 
@@ -138,19 +138,15 @@ Amendment by Pub. L. 115–254 applicable to each major disaster and emergency d
 
 #### Maximizing Assistance From the Federal Emergency Management Agency To Respond to COVID–19
 
-Memorandum of President of the United States, Dec. 27, 2021, 87 F.R. 27, provided:
+Memorandum of President of the United States, Mar. 1, 2022, 87 F.R. 12391, provided:
 
-Memorandum for the Secretary of Health and Human Services\[,\] the Secretary of Homeland Security\[, and\] the Administrator of the Federal Emergency Management Agency
+Memorandum for the Secretary of Homeland Security \[and\] the Administrator of the Federal Emergency Management Agency
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Robert T. Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. 5121–5207 (the "Stafford Act"), I hereby order as follows:
 
-Section 1. <i>Policy</i>. It is the policy of my Administration to combat and respond to the coronavirus disease 2019 (COVID–19) pandemic with the full capacity and capability of the Federal Government to protect and support our families, schools, and businesses, and to assist State, local, Tribal, and territorial governments to do the same. This policy includes the use of emergency and disaster assistance available from the Federal Emergency Management Agency (FEMA) to get COVID–19 testing to the places that need it most.
+Section 1. <i>Policy</i>. It is the policy of my Administration to combat and respond to the coronavirus disease 2019 (COVID–19) pandemic with the full capacity and capability of the Federal Government to protect and support our families, schools, and businesses, and to assist State, local, Tribal, and territorial governments to do the same, including through emergency and disaster assistance available from the Federal Emergency Management Agency (FEMA) and through Federal support of the Governors' use of the National Guard.
 
-Sec. 2. <i>Assistance for COVID–19 Screening as an Emergency Protective Measure</i>. (a) With respect to a request to FEMA from any State, Tribal, or territorial government for direct Federal assistance to establish or expand COVID–19 testing sites, the Administrator of FEMA shall issue a mission assignment to the Department of Health and Human Services (HHS), on a fully reimbursable basis, to provide testing sites, launched and operated by HHS in close coordination with State, local, Tribal, and territorial public health departments.
-
-(b) FEMA's mission assignments will require HHS to adjudicate State, Tribal, and territorial requests through the Emergency Support Function \#8 Advisory Council.
-
-(c) FEMA shall fund 100 percent of the cost of activities associated with the mission assignments to HHS to provide COVID–19 testing sites as described in section 2(a) of this memorandum, as authorized by sections 403 (42 U.S.C. 5170b), 502 (42 U.S.C. 5192), and 503 (42 U.S.C. 5193) of the Stafford Act.
+Sec. 2. <i>Assistance for Category B COVID–19 Emergency Protective Measures</i>. FEMA shall provide a 100 percent Federal cost share for all work eligible for assistance under Public Assistance Category B, pursuant to sections 403 (42 U.S.C. 5170b), 502 (42 U.S.C. 5192), and 503 (42 U.S.C. 5193) of the Stafford Act, including work described in section 3(a) of the Presidential Memorandum of January 21, 2021 (Memorandum to Extend Federal Support to Governors' Use of the National Guard to Respond to COVID–19 and to Increase Reimbursement and Other Assistance Provided to States) \[32 U.S.C. 502 note\], and in section 2 of that memorandum on the Governors' use of the National Guard, performed from January 20, 2020, through July 1, 2022.
 
 Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
 
@@ -167,6 +163,8 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be const
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior provisions related to maximizing assistance from the Federal Emergency Management Agency to respond to COVID–19 were contained in the following:
+
+Memorandum of President of the United States, Dec. 27, 2021, 87 F.R. 27.
 
 Memorandum of President of the United States, Nov. 9, 2021, 86 F.R. 64055.
 

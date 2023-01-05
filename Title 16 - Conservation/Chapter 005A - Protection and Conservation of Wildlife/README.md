@@ -32,7 +32,8 @@
 | [667g.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000667g%20-%20Requisition%20of%20surplus%20grain%3B%20prevention%20of%20starvation%20of%20resident%20game%20birds%20and%20other%20resident%20wildlife%3B%20utilization%20by%20State%20agencies%E2%80%A6.md) | Requisition of surplus grain; prevention of starvation of resident game birds and other resident wildlife; utilization by State agencies; reimbursement for packaging and transporting. |
 | 667g–1. | Requisition and use of grain for prevention of starvation of migratory birds; reimbursement for packaging and transporting. |
 | 667g–2. | Authorization of appropriations for reimbursement of Commodity Credit Corporation. |
-| [667h.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000667h%20-%20Chronic%20wasting%20disease%20task%20force.md) | Chronic wasting disease task force. |
+| [667h.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000667h%20-%20Chronic%20Wasting%20Disease%20Task%20Force.md) | Chronic Wasting Disease Task Force. |
+| [667i.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000667i%20-%20Chronic%20wasting%20disease%20research%20and%20management%20program.md) | Chronic wasting disease research and management program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

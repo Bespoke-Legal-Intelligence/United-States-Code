@@ -54,7 +54,7 @@
 
 &emsp;&emsp;The term "demand" means—
 
-&emsp;&emsp;&emsp;(i) the average seasonally adjusted annual rate of domestic mill consumption ofcotton during the most recent 3 months for which official data of the Department of Agriculture are available or, in the absence of sufficient data, as estimated by the Secretary; and
+&emsp;&emsp;&emsp;(i) the average seasonally adjusted annual rate of domestic mill consumption of cotton during the most recent 3 months for which official data of the Department of Agriculture are available or, in the absence of sufficient data, as estimated by the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) the larger of—
 
@@ -144,5 +144,5 @@ The Harmonized Tariff Schedule, referred to in subsecs. (a)(6)(D) and (b)(2)(C)(
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c). Pub. L. 115–334 substituted "Economic adjustment assistance for textile mills" for"Economic adjustment assistance to users of upland cotton" in heading.
+<b>2018</b>—Subsec. (c). Pub. L. 115–334 substituted "Economic adjustment assistance for textile mills" for "Economic adjustment assistance to users of upland cotton" in heading.
 

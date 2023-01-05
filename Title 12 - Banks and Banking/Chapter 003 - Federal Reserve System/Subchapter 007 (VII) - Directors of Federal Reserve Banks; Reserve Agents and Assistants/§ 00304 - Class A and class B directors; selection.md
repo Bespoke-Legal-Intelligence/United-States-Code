@@ -14,7 +14,7 @@ Any candidate having a majority of all votes cast in the column of first choice 
 
 #### References in Text
 
-The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 #### Codification
 
@@ -22,7 +22,7 @@ Section is comprised of pars. 16 to 21 of section 4 of act Dec. 23, 1913. For cl
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–485 substituted proviso restricting participation in nomination or election of directors by member banks to one member bank whenever any member banks within the same Federal reserve district are subsidiaries of the same bank holding company, such member bank to be designated for the purpose by the holding company for former proviso restricting the selection of directors by member banks to one member bank when two or more member banks within the same Federal reserve district are affiliated with the same holding company affiliate, such member bank to be designated for such purpose by the holding company affiliate.
+<b>1966</b>—Pub. L. 89–485 substituted proviso restricting participation in nomination or election of directors by member banks to one member bank whenever any member banks within the same Federal reserve district are subsidiaries of the same bank holding company, such member bank to be designated for the purpose by the holding company for former proviso restricting the selection of directors by member banks to one member bank when two or more member banks within the same Federal reserve district are affiliated with the same holding company affiliate, such member bank to bedesignated for such purpose by the holding company affiliate.
 
 <b>1933</b>—Act June 16, 1933, inserted proviso at end of second par.
 

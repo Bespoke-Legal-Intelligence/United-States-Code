@@ -20,7 +20,7 @@ Except as provided in subsection (b), cigarettes or smokeless tobacco products m
 
 #### (b) Exemptions
 
-Cigarettes or smokeless tobacco products satisfying the conditions of any of the following paragraphs shall not be subject to the requirements of subsection (a):
+Cigarettes or smokeless tobacco products satisfying the conditions of any of the followingparagraphs shall not be subject to the requirements of subsection (a):
 
 #### (1) Personal-use cigarettes or smokeless tobacco products
 
@@ -56,7 +56,7 @@ The certificates that must be submitted by the importer of cigarettes or smokele
 
 &emsp;&emsp;(B) with respect to those cigarettes or smokeless tobacco products being imported into the United States, such importer has complied, and will continue to comply, with a rotation plan approved by the Federal Trade Commission pursuant to section 1333(c) <sup>1</sup> of title 15 or section 4402(d) <sup>1</sup> of title 15, as the case may be; and
 
-&emsp;(3)(A) if such cigarettes or smokeless tobacco products bear a United States trademark registered for cigarettes or smokeless tobacco products, a certificate signed by the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) stating under penalties of perjury that such owner (or authorized person) consents to the importation of such cigarettesor smokeless tobacco products into the United States; and
+&emsp;(3)(A) if such cigarettes or smokeless tobacco products bear a United States trademark registered for cigarettes or smokeless tobacco products, a certificate signed by the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) stating under penalties of perjury that such owner (or authorized person) consents to the importation of such cigarettes or smokeless tobacco products into the United States; and
 
 &emsp;(B) a certificate signed by the importer or an authorized official of such importer stating under penalties of perjury that the consent referred to in subparagraph (A) is accurate, remains in effect, and has not been withdrawn.
 
@@ -78,7 +78,7 @@ A State, through its Attorney General, shall be entitled to obtain copies of any
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act. Title I of the Act is classified generally to subchapter I (§1051 et seq.) of chapter 22 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act. Title I of the Act is classified generally to subchapter I (§1051 et seq.) of chapter 22 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 Sections 1333 and 4402 of title 15, referred to in subsecs. (a)(3) and (c)(2)(B), were amended by Pub. L. 111–31, div. A, title II, §§201(a), 202(b), 204(a), 205(a), 206, June 22, 2009, 123 Stat. 1842, 1845, 1846, 1848, 1849, and, as so amended, sections 1333(c) and 4402(d) no longer relate to the Federal Trade Commission's approval of a rotation plan.
 

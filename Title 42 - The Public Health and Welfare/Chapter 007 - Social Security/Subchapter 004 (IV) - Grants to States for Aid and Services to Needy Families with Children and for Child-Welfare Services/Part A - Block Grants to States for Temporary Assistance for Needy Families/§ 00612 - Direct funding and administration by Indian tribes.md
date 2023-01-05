@@ -12,7 +12,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to aState or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
+&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
 
 #### (ii) Use of State submitted data
 
@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Labor shall award a grant in accordance with this paragraph to an Indian tribe for each fiscal year specified in section 603(a)(5)(H) of this title for which the Indian tribe is a welfare-to-work tribe, in such amount as the Secretary of Labor deems appropriate, subject to subparagraph (B) of this paragraph.
+&emsp;&emsp;The Secretary of Labor shall award a grant in accordance with this paragraph to an Indian tribe for each fiscal year specified in section 603(a)(5)(H) of this title for which the Indian tribe is a welfare-to-work tribe,in such amount as the Secretary of Labor deems appropriate, subject to subparagraph (B) of this paragraph.
 
 #### (B) Welfare-to-work tribe
 
@@ -116,7 +116,7 @@ Nothing in this section shall preclude an Indian tribe from seeking emergency as
 
 #### (e) Accountability
 
-Nothing in this section shall be construed to limit the ability of the Secretary to maintain program funding accountability consistent with—
+Nothing in this section shall be construed to limit the ability of the Secretary to maintainprogram funding accountability consistent with—
 
 &emsp;(1) generally accepted accounting principles; and
 
@@ -152,7 +152,7 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 #### References in Text
 
-Part F, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of this title, prior to repealby Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+Part F, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 Section 682 of this title, referred to in subsec. (a)(2)(A), (B), was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 

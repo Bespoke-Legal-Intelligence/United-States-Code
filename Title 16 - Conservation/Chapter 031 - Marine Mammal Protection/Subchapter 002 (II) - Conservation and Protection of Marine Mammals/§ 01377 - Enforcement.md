@@ -14,7 +14,7 @@ The judges of the district courts of the United States and the United States mag
 
 #### (d) Execution of process; arrest; search; seizure
 
-Any person authorized by the Secretary to enforce this subchapter may execute any warrantor process issued by any officer or court of competent jurisdiction for the enforcement of this subchapter. Such a person so authorized may, in addition to any other authority conferred by law—
+Any person authorized by the Secretary to enforce this subchapter may execute any warrant or process issued by any officer or court of competent jurisdiction for the enforcement of this subchapter. Such a person so authorized may, in addition to any other authority conferred by law—
 
 &emsp;(1) with or without warrant or other process, arrest any person committing in his presence or view a violation of this subchapter or the regulations issued thereunder;
 
@@ -26,7 +26,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 #### (e) Disposition of seized cargo
 
-(1) Whenever any cargo or marine mammal or marine mammal product is seized pursuant to this section, the Secretary shall expedite any proceedings commenced under section 1375(a) or (b) of this title. All marine mammal or marine mammal products or other cargo so seized shall be held by any person authorized by the Secretary pending disposition of such proceedings. The owner or consignee of any such marine mammal or marine mammal product or other cargo so seized shall, as soon as practicable following such seizure, be notified of that fact in accordance with regulations established by the Secretary.
+(1) Whenever any cargo or marine mammal or marine mammal product is seized pursuant to this section, the Secretary shall expedite any proceedings commenced under section 1375(a) or (b) of this title. All marine mammal or marine mammal products or other cargo so seized shall be held by any person authorized by the Secretary pending disposition of such proceedings. The owner or consignee of any such marinemammal or marine mammal product or other cargo so seized shall, as soon as practicable following such seizure, be notified of that fact in accordance with regulations established by the Secretary.
 
 (2) The Secretary may, with respect to any proceeding under section 1375(a) or (b) of this title, in lieu of holding any marine mammal or marine mammal product or other cargo, permit the person concerned to post bond or other surety satisfactory to the Secretary pending the disposition of such proceeding.
 

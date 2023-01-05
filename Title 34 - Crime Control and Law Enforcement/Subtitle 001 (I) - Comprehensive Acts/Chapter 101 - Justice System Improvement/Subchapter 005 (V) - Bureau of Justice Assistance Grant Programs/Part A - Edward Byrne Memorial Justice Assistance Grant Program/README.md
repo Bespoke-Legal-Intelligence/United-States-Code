@@ -19,3 +19,4 @@ This part is comprised of subpart 1 (§501 et seq.) of part E of title I of Pub.
 - [&sect; 10156 - Formula](%C2%A7%2010156%20-%20Formula.md)
 - [&sect; 10157 - Reserved funds](%C2%A7%2010157%20-%20Reserved%20funds.md)
 - [&sect; 10158 - Interest-bearing trust funds](%C2%A7%2010158%20-%20Interest-bearing%20trust%20funds.md)
+- [&sect; 10159 - Law enforcement training programs](%C2%A7%2010159%20-%20Law%20enforcement%20training%20programs.md)

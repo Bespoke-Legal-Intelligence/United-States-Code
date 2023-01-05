@@ -12,7 +12,7 @@ Shall be fined under this title or imprisoned not more than three years, or both
 
 Based on title 18, U.S.C., 1940 ed., §129 (Mar. 4, 1909, ch. 321, §72, 35 Stat. 1101).
 
-The words "passport" and "sea letter" were omitted as obsolete, in view of the Presidential proclamation ofApril 10, 1815, discontinuing the use of such passports and sea letters.
+The words "passport" and "sea letter" were omitted as obsolete, in view of the Presidential proclamation of April 10, 1815, discontinuing the use of such passports and sea letters.
 
 Mandatory punishment provisions were rephrased in the alternative.
 
@@ -30,5 +30,5 @@ Minor changes of phraseology were made.
 
 #### Transfer of Functions
 
-All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
+All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 

@@ -32,5 +32,5 @@ In subsec. (d), "section 200306(a)(4) of title 54" substituted for "section 7(a)
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee onNatural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

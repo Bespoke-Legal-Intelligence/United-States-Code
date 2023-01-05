@@ -24,11 +24,11 @@ Sentences.—(1) Except as provided in paragraphs (2) and (3), sentences shall b
 
 (c)
 
-Number of Members Required for Penalty of Death.—(1) Except as provided in paragraph (2), in a case in which the penalty of death is sought, the number of primary members of the military commission under this chapter shall be not less than 12 primary members.
+Number of Members Required for Penalty of Death.—(1) Except as provided in paragraph (2), in a case in which the penalty of deathis sought, the number of primary members of the military commission under this chapter shall be not less than 12 primary members.
 
 (2) In any case described in paragraph (1) in which 12 primary members are not reasonably available for a military commission because of physical conditions or military exigencies, the convening authority shall specify a lesser number of primary members for the military commission (but not fewer than 9 primary members), and the military commission may be assembled, and the trial held, with not less than the number of primary members so specified. In any such case, the convening authority shall make a detailed written statement, to be appended to the record, stating why a greater number of primary members were not reasonably available.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2589; amended Pub. L.112–81, div. A, title X, §1030(a), Dec. 31, 2011, 125 Stat. 1570; Pub. L. 113–66, div. A, title X, §1031(c), Dec. 26, 2013, 127 Stat. 850.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2589; amended Pub. L. 112–81, div. A, title X, §1030(a), Dec. 31, 2011, 125 Stat. 1570; Pub. L. 113–66, div. A, title X, §1031(c), Dec. 26, 2013, 127 Stat. 850.)
 
 #### <b>Editorial Notes</b>
 

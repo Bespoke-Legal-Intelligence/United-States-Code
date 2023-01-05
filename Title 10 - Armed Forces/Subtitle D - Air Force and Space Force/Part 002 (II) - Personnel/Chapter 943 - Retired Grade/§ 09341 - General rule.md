@@ -66,7 +66,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 applicable to Reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion by a board convened under chapter 36 or 1403 of this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of Title 32, National Guard, after Oct. 1, 1996, see section 1 \[\[div. A\], title V,§506(c)\] of Pub. L. 106–398, set out as a note under section 7341 of this title.
+Amendment by Pub. L. 106–398 applicable to Reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion by a board convened under chapter 36 or 1403 of this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of Title 32, National Guard, after Oct. 1, 1996, see section 1 \[\[div. A\], title V, §506(c)\] of Pub. L. 106–398, set out as a note under section 7341 of this title.
 
 #### Effective Date of 1994 Amendment
 

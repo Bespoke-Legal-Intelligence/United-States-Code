@@ -12,7 +12,7 @@
 
 #### (b) Termination of representative offices
 
-The Board may order the termination of the activities of a representative office of a foreign bank on the basis of the standards, procedures, and requirements applicable under section 3105(e) of this title with respect to branches and agencies.
+The Board may order the termination of the activities of a representative office of a foreign bank on the basis of the standards, procedures, and requirements applicable under section3105(e) of this title with respect to branches and agencies.
 
 #### (c) Examinations
 
@@ -30,7 +30,7 @@ This chapter does not authorize the establishment of a representative office in 
 
 For definition of "this chapter", referred to in subsecs. (a)(2), (c), and (d), see References in Text note set out under section 3101 of this title.
 
-The Bank Holding Company Act of 1956, referred to in subsec. (c), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (c), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 #### Amendments
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Moratorium on Examination Fees Under This Chapter
 
-Pub. L. 103–328, title I, §115(b), Sept. 29, 1994, 108 Stat. 2368, provided that: "The provision of section 10(c) ofthe International Banking Act of 1978 \[12 U.S.C. 3107(c)\] relating to the cost of examinations under such section shall not apply with respect to any examination under such section which begins before or during the 3-year period beginning on July 25, 1994."
+Pub. L. 103–328, title I, §115(b), Sept. 29, 1994, 108 Stat. 2368, provided that: "The provision of section 10(c) of the International Banking Act of 1978 \[12 U.S.C. 3107(c)\] relating to the cost of examinations under such section shall not apply with respect to any examination under such section which begins before or during the 3-year period beginning on July 25, 1994."
 

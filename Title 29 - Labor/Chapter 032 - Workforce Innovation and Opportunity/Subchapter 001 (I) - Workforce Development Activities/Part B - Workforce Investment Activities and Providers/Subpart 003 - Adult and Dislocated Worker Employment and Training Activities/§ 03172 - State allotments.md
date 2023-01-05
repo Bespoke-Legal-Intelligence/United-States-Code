@@ -150,7 +150,7 @@ The Secretary shall—
 
 #### (II) Maximum percentage
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (I), the Secretary shall ensure that no State shall receive an allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (I), the Secretary shall ensure that no State shall receivean allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
 
 #### (iv) Definitions
 

@@ -4,31 +4,37 @@
 
 #### (1) General requirements
 
-&emsp;Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
+&emsp;Not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 301(b) <sup>1</sup> of the Generic Drug User Fee Amendments of 2022 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
 
 #### (2) Real time reporting
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subparagraph (B) on the internet website of the Food and Drug Administration, and may remove duplicative data from the annual report under this subsection.
+&emsp;&emsp;Not later than 30 calendar days after the end of each quarter of each fiscal year for which fees are collected under this subpart, the Secretary shall post the data described in subparagraph (B) on the internet website of the Food and Drug Administration, and may remove duplicative data from the annual report under this subsection.
 
 #### (B) Data
 
 &emsp;&emsp;The Secretary shall post the following data in accordance with subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The number and titles of draft and final guidance on topics related to human generic drug activities and whether such guidances were issued as required by statute or pursuant to a commitment under the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017.
+&emsp;&emsp;&emsp;(i) The number and titles of draft and final guidance on topics related to human generic drug activities and whether such guidances were issued as required by statute or pursuant to a commitment under the letters described in section 301(b) <sup>1</sup> of the Generic Drug User Fee Amendments of 2022.
 
-&emsp;&emsp;&emsp;(ii) The number and titles of public meetings held on topics related to human generic drug activities and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017.
+&emsp;&emsp;&emsp;(ii) The number and titles of public meetings held on topics related to human generic drug activities and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 301(b) <sup>1</sup> of the Generic Drug User Fee Amendments of 2022.
 
 #### (3) Rationale for GDUFA program changes
 
-&emsp;Beginning with fiscal year 2020, the Secretary shall include in the annual report under paragraph (1)—
+&emsp;The Secretary shall include in the annual report under paragraph (1)—
 
-&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 3001(b) of the Generic Drug User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379j–42 of this title, and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
 
-&emsp;&emsp;(B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for human generic drug activities, including identifying drivers of such changes; and
+&emsp;&emsp;(B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for human generic drug activities, including—
 
-&emsp;&emsp;(C) for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+&emsp;&emsp;&emsp;(i) identifying drivers of such changes; and
+
+&emsp;&emsp;&emsp;(ii) changes in the total average cost per full-time equivalent in the generic drug review program;
+
+&emsp;&emsp;(C) for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required; and
+
+&emsp;&emsp;(D) data, analysis, and discussion of the changes in the average full-time equivalent hours required to complete review of each type of abbreviated new drug application.
 
 #### (4) Analysis
 
@@ -38,31 +44,31 @@
 
 &emsp;&emsp;&emsp;(i) such applications filed during one fiscal year for which a decision is not scheduled to be made until the following fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) the aggregate number of applications for each fiscal year that did not meet the goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 for the applicable fiscal year.
+&emsp;&emsp;&emsp;(ii) the aggregate number of applications for each fiscal year that did not meet the goals identified by the letters described in section 301(b) <sup>1</sup> of the Generic Drug User Fee Amendments of 2022 for the applicable fiscal year.
 
-&emsp;&emsp;(B) Relevant data to determine whether the Food and Drug Administration has met the performance enhancement goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 for the applicable fiscal year.
+&emsp;&emsp;(B) Relevant data to determine whether the Food and Drug Administration has met the performance enhancement goals identified by the letters described in section 301(b) <sup>1</sup> of the Generic Drug User Fee Amendments of 2022 for the applicable fiscal year.
 
-&emsp;&emsp;(C) The most common causes and trends for external or other circumstances that affected the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017.
+&emsp;&emsp;(C) The most common causes and trends for external or other circumstances that affected the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2022.
 
 #### (b) Fiscal report
 
-Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+Not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
 
 #### (c) Corrective action report
 
-Beginning with fiscal year 2018, for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
+For each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
 
 #### (1) Goals met
 
-&emsp;For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(4), that each of the goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the abbreviated new drug application review process.
+&emsp;For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(4), that each of the goals identified by the letters described in section 301(b) <sup>1</sup> of the Generic Drug User Fee Amendments of 2022 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the abbreviated new drug application review process.
 
 #### (2) Goals missed
 
-&emsp;For each of the goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
+&emsp;For each of the goals identified by the letters described in section 301(b) <sup>1</sup> of the Generic Drug User Fee Amendments of 2022 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
 
 &emsp;&emsp;(A) a detailed justification for such determination and a description, as applicable, of the types of circumstances and trends under which abbreviated new drug applications missed the review goal times but were approved during the first cycle review, or review goals were missed; and
 
-&emsp;&emsp;(B) with respect to performance enhancement goals that were not achieved, a detailed description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such <sup>1</sup> fiscal year.
+&emsp;&emsp;(B) with respect to performance enhancement goals that were not achieved, a detailed description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such <sup>2</sup> fiscal year.
 
 #### (d) Enhanced communication
 
@@ -82,7 +88,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (1) Consultation
 
-&emsp;In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for human generic drug activities for the first 5 fiscal years after fiscal year 2022, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+&emsp;In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for human generic drug activities for the first 5 fiscal years after fiscal year 2027, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
 &emsp;&emsp;(A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -112,7 +118,11 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;Not less frequently than once every month during negotiations with the generic drug industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
 
-#### (4) Public review of recommendations
+#### (4) Updates to Congress
+
+&emsp;The Secretary, in consultation with regulated industry, shall provide regular updates on negotiations on the reauthorization of this part to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+
+#### (5) Public review of recommendations
 
 &emsp;After negotiations with the generic drug industry, the Secretary shall—
 
@@ -126,33 +136,67 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;&emsp;(E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-#### (5) Transmittal of recommendations
+#### (6) Transmittal of recommendations
 
-&emsp;Not later than January 15, 2022, the Secretary shall transmit to the Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+&emsp;Not later than January 15, 2027, the Secretary shall transmit to the Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
-#### (6) Minutes of negotiation meetings
+#### (7) Minutes of negotiation meetings
 
 #### (A) Public availability
 
-&emsp;&emsp;Before presenting the recommendations developed under paragraphs (1) through (5) to the Congress, the Secretary shall make publicly available, on the Internet Web site of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the generic drug industry.
+&emsp;&emsp;The Secretary shall make publicly available, on the Internet Web site of the Foodand Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the generic drug industry, not later than 30 days after each such negotiation meeting.
 
 #### (B) Content
 
-&emsp;&emsp;The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
+&emsp;&emsp;The minutes described under subparagraph (A) shall summarize, in sufficient detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-(June 25, 1938, ch. 675, §744C, as added Pub. L. 112–144, title III, §303, July 9, 2012, 126 Stat. 1022; amended Pub. L. 115–52, title III, §304, title IX, §§903(c), 904(c), Aug. 18, 2017, 131 Stat. 1027, 1080, 1085.)
+(June 25, 1938, ch. 675, §744C, as added Pub. L. 112–144, title III, §303, July 9, 2012, 126 Stat. 1022; amended Pub. L. 115–52, title III, §304, title IX, §§903(c), 904(c), Aug. 18, 2017, 131 Stat. 1027, 1080, 1085; Pub. L. 117–180, div. F, title III, §3003, Sept. 30, 2022, 136 Stat. 2158; Pub. L. 117–328, div. FF, title III, §3626(c), Dec. 29, 2022, 136 Stat. 5885.)
 
 #### Termination of Section
 
-<i>For termination of section by section 305(b) of Pub. L. 115–52, see Effective and Termination Dates note set out below.</i>
+<i>For termination of section by section 3004(b) of Pub. L. 117–180, see Effective and Termination Dates note set out below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 301(b) of the Generic Drug User Fee Amendments of 2017, referred to in subsecs. (a) and (c), is section 301(b) of Pub. L. 115–52, which is set out as a note under section 379j–41 of this title.
+Section 301(b) of the Generic Drug User Fee Amendments of 2022, referred to in subsecs. (a) and (c), probably should be a reference to section 3001(b) of the Generic Drug User Fee Amendments of 2022, title III of div. F of Pub. L. 117–180, which is set out as a note under section 379j–41 of this title. The Generic Drug User Fee Amendments of 2022 does not contain a section 301(b).
+
+Section 3001(b) of the Generic Drug User Fee Amendments of 2022, referred to in subsec. (a)(3)(A), is section 3001(b) of title III of div. F of Pub. L. 117–180, which is set out as a note under section 379j–41 of this title.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–180, §3003(2), substituted "Generic Drug User Fee Amendments of 2022" for "Generic Drug User Fee Amendments of 2017" wherever appearing.
+
+Subsec. (a)(1). Pub. L. 117–180, §3003(1), substituted "Not later" for "Beginning with fiscal year 2018, not later".
+
+Subsec. (a)(2). Pub. L. 117–180, §3003(3), substituted "Not later than 30 calendar days after the end of each quarter of each fiscal year for which fees are collected under this subpart" for "Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter".
+
+Subsec. (a)(3). Pub. L. 117–180, §3003(4), substituted "The Secretary" for "Beginning with fiscal year 2020, the Secretary" in introductory provisions.
+
+Subsec. (a)(3)(A). Pub. L. 117–328, §3626(c)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2022 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;".
+
+Subsec. (a)(3)(B). Pub. L. 117–328, §3626(c)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "data, analysis, and discussion of the changes in the fee revenue amounts and costs for human generic drug activities, including identifying drivers of such changes; and".
+
+Subsec. (a)(3)(D). Pub. L. 117–328, §3626(c)(1)(C), (D), added subpar. (D).
+
+Subsec. (b). Pub. L. 117–180, §3003(5), substituted "Not later" for "Beginning with fiscal year 2018, not later".
+
+Subsec. (c). Pub. L. 117–180, §3003(6), substituted "For each" for "Beginning with fiscal year 2018, for each" in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 117–180, §3003(7)(A), substituted "fiscal year 2027" for "fiscal year 2022" in introductory provisions.
+
+Subsec. (f)(4). Pub. L. 117–328, §3626(c)(2)(B), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (f)(5). Pub. L. 117–328, §3626(c)(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Pub. L. 117–180, §3003(7)(B), substituted "January 15, 2027" for "January 15, 2022".
+
+Subsec. (f)(6), (7). Pub. L. 117–328, §3626(c)(2)(A), redesignated pars. (5) and (6) as (6) and (7), respectively.
+
+Subsec. (f)(7)(A). Pub. L. 117–328, §3626(c)(2)(C)(i), substituted "The" for "Before presenting the recommendations developed under paragraphs (1) through (5) to the Congress, the" and inserted ", not later than 30 days after each such negotiation meeting" before period at end.
+
+Subsec. (f)(7)(B). Pub. L. 117–328, §3626(c)(2)(C)(ii), inserted ", in sufficient detail," after "shall summarize".
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–52, §903(c), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
@@ -170,13 +214,21 @@ Pub. L. 115–52, §304(3), which directed amendment of subsec. (d), effective O
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–180 effective Oct. 1, 2022, with fees under this subpart to be assessed for all abbreviated new drug applications received on or after Oct. 1, 2022, see section 3005 of Pub. L. 117–180, set out as a note under section 379j–41 of this title.
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 304 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all abbreviated new drug applications received on or after Oct. 1, 2017, see section 306 of Pub. L. 115–52, set out as a note under section 379j–41 of this title.
 
 #### Effective and Termination Dates
 
-Pub. L. 115–52, title III, §305(b), Aug. 18, 2017, 131 Stat. 1027, provided that: "Section 744C of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–43) shall cease to be effective January 31, 2023."
+Pub. L. 117–180, div. F, title III, §3004(b), Sept. 30, 2022, 136 Stat. 2159, provided that: "Section 744C of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–43) shall cease to be effective January 31, 2028."
+
+Pub. L. 115–52, title III, §305(b), Aug. 18, 2017, 131 Stat. 1027, which provided that this section would cease to be effective Jan. 31, 2023, was repealed by Pub. L. 117–180, div. F, title III, §3004(c), Sept. 30, 2022, 136 Stat. 2159.
+
+\[Pub. L. 117–180, div. F, title III, §3004(c), Sept. 30, 2022, 136 Stat. 2159, provided that the repeal of section 305(b) of Pub. L. 115–52, formerly set out above, is effective Oct. 1, 2022.\]
 
 Pub. L. 112–144, title III, §304(b), July 9, 2012, 126 Stat. 1024, which provided that this section would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title III, §305(c)(1), Aug. 18, 2017, 131 Stat. 1027.
 
@@ -184,5 +236,7 @@ Pub. L. 112–144, title III, §304(b), July 9, 2012, 126 Stat. 1024, which prov
 
 Section effective Oct. 1, 2012, see section 305 of Pub. L. 112–144, set out as a note under section 379j–41 of this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

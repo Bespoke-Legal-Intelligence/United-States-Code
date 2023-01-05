@@ -122,7 +122,7 @@ In implementing the Program, the Secretary shall ensure that—
 
 #### (e) Savings clause
 
-A decision to fund a project under the Program shall not affect any determination madepreviously or to be made in the future by the Secretary with regard to road or trail closures.
+A decision to fund a project under the Program shall not affect any determination made previously or to be made in the future by the Secretary with regard to road or trail closures.
 
 (Pub. L. 88–657, §8, as added Pub. L. 117–58, div. D, title VIII, §40801(a), Nov. 15, 2021, 135 Stat. 1094.)
 

@@ -6,7 +6,7 @@ In General.—If the United States makes an overpayment to a contractor under a 
 
 &emsp;(1) for interest on the amount of such overpayment, to be computed—
 
-&emsp;&emsp;(A) for the period beginning on the date the overpayment was made to the contractorand ending on the date the contractor repays the amount of such overpayment to the United States; and
+&emsp;&emsp;(A) for the period beginning on the date the overpayment was made to the contractor and ending on the date the contractor repays the amount of such overpayment to the United States; and
 
 &emsp;&emsp;(B) at the current rate prescribed by the Secretary of the Treasury under section 6621 of the Internal Revenue Code of 1986; and
 

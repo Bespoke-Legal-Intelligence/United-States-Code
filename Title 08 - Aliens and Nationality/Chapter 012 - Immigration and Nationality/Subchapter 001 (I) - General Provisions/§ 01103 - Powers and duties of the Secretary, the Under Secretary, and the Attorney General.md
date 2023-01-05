@@ -76,7 +76,7 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 #### References in Text
 
-This chapter, referred to in text, was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat.163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in text, was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Immigration Reform, Accountability and Security Enhancement Act of 2002, referred to in subsec. (g)(1), was S. 2444 of the 107th Congress, as introduced on May 2, 2002, which was not enacted into law. Provisions relating to the Executive Office for Immigration Review are contained in section 521 of Title 6, Domestic Security.
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 107–296 effective on the date of the transfer of function
 
 Pub. L. 104–208, div. C, title I, §134(b), Sept. 30, 1996, 110 Stat. 3009–564, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
-Amendment by section 308(d)(4)(C), (e)(4) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(d)(4)(C), (e)(4) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -236,7 +236,7 @@ Savings provision.—Nothing in this subparagraph may be construed to—
 
 &emsp;&emsp;"(D)
 
-Limitation on requirements.—Notwithstanding subparagraph (A), nothing in this paragraph shall require the Secretary of Homeland Security to install fencing, physical barriers, roads, lighting, cameras, and sensors in a particular location along an international border of the United States, if the Secretary determines that the use or placement of such resources is not the most appropriate means to achieve and maintain operational control over the international border at such location.
+Limitation on requirements.—Notwithstanding subparagraph (A), nothing in this paragraph shall require the Secretary of Homeland Security to install fencing, physical barriers, roads, lighting, cameras, and sensors in a particular location along an international border of the United States, if the Secretary determines that the use orplacement of such resources is not the most appropriate means to achieve and maintain operational control over the international border at such location.
 
 &emsp;"(2)
 
@@ -248,7 +248,7 @@ Safety features.—The Attorney General, while constructing the additional fenci
 
 &emsp;"(4)
 
-Authorization of appropriations.—There are authorized to be appropriated such sums as may benecessary to carry out this subsection. Amounts appropriated under this paragraph are authorized to remain available until expended.
+Authorization of appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this subsection. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
 "(c)
 
@@ -343,7 +343,7 @@ Appointment.—
 
 Transition.—Immigration judges serving as of the effective date shall be paid at the rate that corresponds to the amount of time, as provided under paragraph (3)(A), that they have served as an immigration judge, and in no case shall be paid less after the effective date than the rate of pay prior to the effective date."
 
-\[Pub. L. 104–208, div. C, title III, §371(d)(2), Sept. 30, 1996, 110 Stat. 3009–646, provided that: "Subsection (c) \[set out above\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\]."\]
+\[Pub. L. 104–208, div. C, title III, §371(d)(2), Sept. 30, 1996, 110 Stat. 3009–646, provided that: "Subsection (c)\[set out above\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\]."\]
 
 #### Machine-Readable Document Border Security Program
 
@@ -427,7 +427,7 @@ Sec. 3. <i>Functions</i>. Consistent with applicable law, the Task Force shall:
 
 (b) promote public-private partnerships that will encourage businesses to offer English and civics education to workers;
 
-(c) identify ways to expand English and civics instruction for legal immigrants, including through faith-based, community, and other groups, and ways to promote volunteer community service; and
+(c) identify ways to expand English and civics instruction for legal immigrants, including throughfaith-based, community, and other groups, and ways to promote volunteer community service; and
 
 (d) make recommendations to the President, through the Secretary, from time to time regarding:
 
@@ -499,7 +499,7 @@ The United States is also a country with borders and with laws that must be enfo
 
 Consistent with these principles, my Administration will implement a multi-pronged approach toward managing migration throughout North and Central America that reflects the Nation's highest values. We will work closely with civil society, international organizations, and the governments in the region to: establish a comprehensive strategy for addressing the causes of migration in the region; build, strengthen, and expand Central and North American countries' asylum systems and resettlement capacity; and increase opportunities for vulnerable populations to apply for protection closer to home. At the same time, the United States will enhance lawful pathways for migration to this country and will restore and strengthen our own asylum system, which has been badly damaged by policies enacted over the last 4 years that contravened our values and caused needless human suffering.
 
-Sec. 2. <i>United States Strategies for Addressing the Root Causes of Irregular Migration and for Collaboratively Managing Migration in the Region</i>. (a) The Assistant to the President for National Security Affairs (APNSA), in coordination with the Secretary of State, the Attorney General, the Secretary of Homeland Security, and the heads of any other relevant executive departments and agencies, shall as soon as possible prepare:
+Sec. 2. <i>United States Strategies for Addressing the Root Causes of Irregular Migration and for Collaboratively Managing Migration in the Region</i>. (a) The Assistant to the President for National Security Affairs (APNSA), in coordination with the Secretary of State, the AttorneyGeneral, the Secretary of Homeland Security, and the heads of any other relevant executive departments and agencies, shall as soon as possible prepare:
 
 (i) the United States Strategy for Addressing the Root Causes of Migration (the "Root Causes Strategy"); and
 
@@ -549,11 +549,11 @@ Sec. 4. <i>Restoring and Enhancing Asylum Processing at the Border</i>. (a) <i>R
 
 &emsp;(A) The Secretary of HHS and the Director of CDC, in consultation with the Secretary of Homeland Security, shall promptly review and determine whether termination, rescission, or modification of the following actions is necessary and appropriate: "Order Suspending the Right To Introduce Certain Persons From Countries Where a Quarantinable Communicable Disease Exists," 85 FR 65,806 (October 13, 2020); and "Control of Communicable Diseases; Foreign Quarantine: Suspension of the Right to Introduce and Prohibition of Introduction of Persons into United States from Designated Foreign Countries or Places for Public Health Purposes," 85 FR 56,424 (September 11, 2020) (codified at 42 CFR 71.40).
 
-&emsp;(B) The Secretary of Homeland Security shall promptly review and determine whether to terminate or modify the program known as the Migrant Protection Protocols (MPP), including by considering whether to rescind the Memorandum of the Secretary of Homeland Security titled "Policy Guidance for Implementation of the Migrant Protection Protocols" (January 25, 2019), and any implementing guidance. In coordination with the Secretary of State, the Attorney General, and the Director of CDC, the Secretary of Homeland Security shall promptly consider a phased strategy for the safe and orderly entry into the United States, consistent with public health and safety and capacity constraints, of those individuals who have been subjected to MPP for further processing of their asylum claims.
+&emsp;(B) The Secretary of Homeland Security shall promptly review and determine whether to terminate or modify the program known as the Migrant Protection Protocols (MPP), including by considering whether to rescind the Memorandum of the Secretary of Homeland Security titled "Policy Guidance for Implementation of the Migrant Protection Protocols" (January 25, 2019), and any implementing guidance. In coordination with the Secretary of State, the Attorney General, and the Director of CDC, the Secretary of Homeland Security shall promptly consider a phased strategy for the safe and orderly entry intothe United States, consistent with public health and safety and capacity constraints, of those individuals who have been subjected to MPP for further processing of their asylum claims.
 
 &emsp;(C) The Attorney General and the Secretary of Homeland Security shall promptly review and determine whether to rescind the interim final rule titled "Aliens Subject to a Bar on Entry Under Certain Presidential Proclamations; Procedures for Protection Claims," 83 FR 55,934 (November 9, 2018), and the final rule titled "Asylum Eligibility and Procedural Modifications," 85 FR 82,260 (December 17, 2020), as well as any agency memoranda or guidance that were issued in reliance on those rules.
 
-&emsp;(D) The Attorney General and the Secretary of Homeland Security shall promptly review and determine whether to rescind the interim final rule titled "Implementing Bilateral and Multilateral Asylum Cooperative Agreements Under the Immigration and Nationality Act," 84 FR 63,994 (November 19, 2019), as well as any agency memoranda or guidance issued in reliance on that rule. In the interim, the Secretary ofState shall promptly consider whether to notify the governments of the Northern Triangle that, as efforts to establish a cooperative, mutually respectful approach to managing migration across the region begin, the United States intends to suspend and terminate the following agreements:
+&emsp;(D) The Attorney General and the Secretary of Homeland Security shall promptly review and determine whether to rescind the interim final rule titled "Implementing Bilateral and Multilateral Asylum Cooperative Agreements Under the Immigration and Nationality Act," 84 FR 63,994 (November 19, 2019), as well as any agency memoranda or guidance issued in reliance on that rule. In the interim, the Secretary of State shall promptly consider whether to notify the governments of the Northern Triangle that, as efforts to establish a cooperative, mutually respectful approach to managing migration across the region begin, the United States intends to suspend and terminate the following agreements:
 
 &emsp;&emsp;(1) "Agreement Between the Government of the United States of America and the Government of the Republic of Guatemala on Cooperation Regarding the Examination of Protection Claims," 84 FR 64,095 (July 26, 2019).
 
@@ -693,11 +693,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Over 40 million foreign-born individuals live in the United States today. Millions more Americans have immigrants in their families or ancestry. New Americans and their children fuel our economy, working in every industry, including healthcare, construction, caregiving, manufacturing, service, and agriculture. They open and successfully run businesses at high rates, creating jobs for millions, and they contribute to our arts, culture, and government, providing new traditions, customs, and viewpoints. They are essential workers helping to keep our economy afloat and providing important services to Americans during a global pandemic. They have helped the United States lead the world in science, technology, and innovation. And they are on the frontlines of research to develop coronavirus disease 2019 (COVID–19) vaccines and treatments for those afflicted with the deadly disease.
 
-Consistent with our character as a Nation of opportunity and of welcome, it is essential to ensure that our laws and policies encourage full participation by immigrants, including refugees, in our civic life; that immigration processes and other benefits are delivered effectively and efficiently; and that the Federal Government eliminates sources of fear and other barriers that prevent immigrants from accessing government services available to them. Our Nation is enriched socially and economically by the presence of immigrants, and we celebrate with them as they take the important step of becoming United States citizens. The Federal Government should develop welcoming strategies that promote integration, inclusion, and citizenship, and it should embrace the full participation of the newest Americans in our democracy.
+Consistent with our character as a Nation of opportunity and of welcome, it is essential to ensure that our laws and policies encourage full participation by immigrants, including refugees, in our civic life; that immigration processes and other benefits are delivered effectively and efficiently; and that the Federal Government eliminates sources of fear and other barriers that prevent immigrants from accessing government services available to them. Our Nation is enriched socially and economically by the presence of immigrants,and we celebrate with them as they take the important step of becoming United States citizens. The Federal Government should develop welcoming strategies that promote integration, inclusion, and citizenship, and it should embrace the full participation of the newest Americans in our democracy.
 
 Sec. 2. <i>Role of the Domestic Policy Council</i>. The role of the White House Domestic Policy Council (DPC) is to convene executive departments and agencies (agencies) to coordinate the formulation and implementation of my Administration's domestic policy objectives. Consistent with that role, the DPC shall coordinate the Federal Government's efforts to welcome and support immigrants, including refugees, and to catalyze State and local integration and inclusion efforts. In furtherance of these goals, the DPC shall convene a Task Force on New Americans, which shall include members of agencies that implement policies that impact immigrant communities.
 
-Sec. 3. <i>Restoring Trust in our Legal Immigration System</i>. The Secretary of State, the Attorney General, and the Secretary of Homeland Security shall review existingregulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) that may be inconsistent with the policy set forth in section 1 of this order.
+Sec. 3. <i>Restoring Trust in our Legal Immigration System</i>. The Secretary of State, the Attorney General, and the Secretary of Homeland Security shall review existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) that may be inconsistent with the policy set forth in section 1 of this order.
 
 (a) In conducting this review, the Secretary of State, the Attorney General, and the Secretary of Homeland Security shall:
 
@@ -755,7 +755,7 @@ Sec. 5. <i>Promoting Naturalization.</i>
 
 (d) Within 90 days of the date of this order, the Naturalization Working Group shall submit a strategy to the President outlining steps the Federal Government should take to promote naturalization, including the potential development of a public awareness campaign.
 
-Sec. 6. <i>Revocation</i>. The Presidential Memorandum of May 23, 2019 (Enforcing the Legal Responsibilities of Sponsors of Aliens), is revoked. The heads of relevant agencies shall review any investigations or compliance actions initiated pursuant to that memorandum and shall determine whether to suspend, as appropriate, any investigations or compliance actions inconsistent with the policy set forth in section 1 of this order. The heads of relevant agencies shall review any agency actions developed pursuant to that memorandum and, as appropriate, issue revised guidance consistent with the policy set forth in section 1 of this order.
+Sec. 6. <i>Revocation</i>. The Presidential Memorandum of May 23, 2019 (Enforcing the Legal Responsibilities of Sponsors of Aliens), is revoked. The heads of relevant agencies shall review any investigations or compliance actions initiated pursuant to that memorandum and shall determine whether to suspend, as appropriate,any investigations or compliance actions inconsistent with the policy set forth in section 1 of this order. The heads of relevant agencies shall review any agency actions developed pursuant to that memorandum and, as appropriate, issue revised guidance consistent with the policy set forth in section 1 of this order.
 
 Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -907,7 +907,7 @@ Memorandum for the Attorney General \[and\] the Secretary of Homeland Security
 
 By the authority vested in me as President by the Constitution and the laws of the United States, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. In 2012, during the Obama-Biden Administration, the Secretary of Homeland Security issued a memorandum outlining how, in the exercise of prosecutorial discretion, the Department of Homeland Security should enforce the Nation's immigration laws against certain young people. This memorandum, known as the Deferred Action for Childhood Arrivals (DACA) guidance, deferred the removal of certain undocumented immigrants who were brought to the United States as children, have obeyed the law, and stayed in school or enlisted in the military. DACA and associated regulations permit eligible individuals who pass a background check to request temporary relief from removal and to apply for temporary work permits. DACA reflects a judgment that these immigrants should not be a priority for removal based on humanitarian concerns and other considerations, and that work authorization will enable them to support themselves and their families, and to contribute to our economy, while they remain.
+Section 1. <i>Policy</i>. In 2012, during the Obama-Biden Administration, the Secretary of Homeland Security issued a memorandum outlining how, in the exercise of prosecutorial discretion, the Department of Homeland Security should enforce the Nation's immigration lawsagainst certain young people. This memorandum, known as the Deferred Action for Childhood Arrivals (DACA) guidance, deferred the removal of certain undocumented immigrants who were brought to the United States as children, have obeyed the law, and stayed in school or enlisted in the military. DACA and associated regulations permit eligible individuals who pass a background check to request temporary relief from removal and to apply for temporary work permits. DACA reflects a judgment that these immigrants should not be a priority for removal based on humanitarian concerns and other considerations, and that work authorization will enable them to support themselves and their families, and to contribute to our economy, while they remain.
 
 Sec. 2. <i>Preserving and Fortifying DACA</i>. The Secretary of Homeland Security, in consultation with the Attorney General, shall take all actions he deems appropriate, consistent with applicable law, to preserve and fortify DACA.
 

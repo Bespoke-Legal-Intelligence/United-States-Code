@@ -12,11 +12,11 @@
 
 #### Pilot Program for Distribution Support and Services for Weapon Systems Contractors
 
-Pub. L. 114–328, div. A, title VIII, §883, Dec. 23, 2016, 130 Stat. 2316, provided that:
+Pub. L. 114–328, div. A, title VIII, §883, Dec. 23, 2016, 130 Stat. 2316, as amended by Pub. L. 117–263, div. A, title VIII, §819, Dec. 23, 2022, 136 Stat. 2709, provided that:
 
 "(a)
 
-Authority.—The Secretary of Defense may carry out a six-year pilot program under which the Secretary may make available storage and distribution services support to a contractor in support of the performance by the contractor of a contract for the production, modification, maintenance, or repair of a weapon system that is entered into by the Department of Defense.
+Authority.—The Secretary of Defense may carry out a seven-year pilot program under which the Secretary may make available storage and distribution services support to a contractor in support of the performance by the contractor of a contract for the production, modification, maintenance, or repair of a weapon system that is entered into by the Department of Defense.
 
 "(b)
 
@@ -40,7 +40,7 @@ Regulations.—Before exercising the authority under the pilot program under thi
 
 &emsp;"(1) A requirement for the solicitation of offers for a contract described in subsection (a), for which storage and distribution services are to be made available under the pilot program, including—
 
-&emsp;&emsp;"(A) a statement that the storage and distribution services are to be made available under the authority of the pilot program under this section to any contractor awarded the contract, but only on abasis that does not require acceptance of the support and services; and
+&emsp;&emsp;"(A) a statement that the storage and distribution services are to be made available under the authority of the pilot program under this section to any contractor awarded the contract, but only on a basis that does not require acceptance of the support and services; and
 
 &emsp;&emsp;"(B) a description of the range of the storage and distribution services that are to be made available to the contractor.
 
@@ -76,7 +76,7 @@ Comptroller general.—Not later than the end of the fifth year of operation of 
 
 "(g)
 
-Sunset.—The authority to enter into contracts under the pilot program shall expire six years after the date of the enactment of this Act. Any contracts entered into before such date shall continue in effect according to their terms."
+Sunset.—The authority to enter into contracts under the pilot program shall expire seven years after the date of the enactment of this Act. Any contracts entered into before such date shall continue in effect according to their terms."
 
 #### Nontraditional and Small Contractor Innovation Prototyping Program
 
@@ -96,7 +96,7 @@ Plan.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], concurrent with the budget for the Department of Defense for fiscal year 2018, as submitted to Congress pursuant to section 1105 of title 31, United States Code, a plan to fund and carry out the pilot program in future years.
+In general.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriationsof the Senate and the House of Representatives\], concurrent with the budget for the Department of Defense for fiscal year 2018, as submitted to Congress pursuant to section 1105 of title 31, United States Code, a plan to fund and carry out the pilot program in future years.
 
 &emsp;"(2)
 

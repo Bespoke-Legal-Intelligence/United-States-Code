@@ -36,7 +36,7 @@ Employing poison or similar weapons.—Any person subject to this chapter who in
 
 &emsp;(9)
 
-Using protected persons as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of, a protected person with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished, if death results to one or more of thevictims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Using protected persons as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of, a protected person with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(10)
 
@@ -108,7 +108,7 @@ Intentionally mistreating a dead body.—Any person subject to this chapter who 
 
 &emsp;(21)
 
-Rape.—Any person subject to this chapter who forcibly or with coercion or threat of force wrongfully invades the body of a person by penetrating, however slightly, the anal or genital opening of the victim with any part ofthe body of the accused, or with any foreign object, shall be punished as a military commission under this chapter may direct.
+Rape.—Any person subject to this chapter who forcibly or with coercion or threat of force wrongfully invades the body of a person by penetrating, however slightly, the anal or genital opening of the victim with any part of the body of the accused, or with any foreign object, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(22)
 
@@ -168,7 +168,7 @@ Solicitation.—Any person subject to this chapter who solicits or advises anoth
 
 &emsp;(31)
 
-Contempt.—A military commission under this chapter may punish for contempt any person who uses any menacing word, sign, or gesture in its presence, or who disturbs its proceedings by any riot or disorder.
+Contempt.—A military commission under this chapter may punish for contempt any person who uses any menacing word, sign,or gesture in its presence, or who disturbs its proceedings by any riot or disorder.
 
 &emsp;(32)
 

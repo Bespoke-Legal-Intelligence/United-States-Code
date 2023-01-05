@@ -6,7 +6,7 @@
 
 (C) A transfer under this paragraph may be revoked at any time by the person making the transfer.
 
-(2) If a person described in paragraph (1) dies before making an election authorized by such paragraph but has never made an election not to transfer such entitlement, any unused entitlement of such person shall be automatically transferred to such person's surviving spouse or (if there is no eligible surviving spouse) to such person's dependent children. A surviving spouse to whom entitlement to educational assistance is transferred under this paragraph may elect to transfer such entitlement to the dependent children of the person whose service established such entitlement.
+(2) If a person described in paragraph (1) dies before making an election authorized by such paragraph but has never made an election not to transfer such entitlement, any unused entitlement of such person shall be automatically transferred to such person's surviving spouse or (if there is no eligible surviving spouse) to such person's dependent children. A surviving spouseto whom entitlement to educational assistance is transferred under this paragraph may elect to transfer such entitlement to the dependent children of the person whose service established such entitlement.
 
 (3) Any transfer of entitlement under this subsection shall be made in accordance with regulations prescribed by the Secretary of the military department concerned.
 
@@ -20,7 +20,7 @@
 
 &emsp;(2) The term "surviving spouse" means a widow or widower who is not remarried.
 
-(Added Pub. L. 96–342, title IX, §901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 97–22,§10(b)(3), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VI, §673, Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161.)
+(Added Pub. L. 96–342, title IX, §901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 97–22, §10(b)(3), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VI, §673, Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161.)
 
 #### <b>Editorial Notes</b>
 

@@ -6,7 +6,7 @@ The Secretary shall undertake a national demonstration program designed to test 
 
 #### (b) Financial assistance to owners and tenants of dwelling units; authorization of Secretary
 
-The Secretary is authorized to make financial assistance available pursuant to this section in the form of grants, low-interest-rate loans, interest subsidies, loan guarantees, and such other forms of assistance as the Secretary deems appropriate to carry out the purposes of this section. Assistance may be made available to both owners of dwelling units and tenants occupying such units.
+The Secretary is authorized to make financial assistance available pursuant to this section in the form of grants, low-interest-rate loans, interest subsidies, loan guarantees, and such otherforms of assistance as the Secretary deems appropriate to carry out the purposes of this section. Assistance may be made available to both owners of dwelling units and tenants occupying such units.
 
 #### (c) Duties of Secretary
 
@@ -72,7 +72,7 @@ There is authorized to be appropriated, for purposes of this section, not to exc
 
 #### References in Text
 
-The Energy Policy and Conservation Act, referred to in subsecs. (c)(4) and (f), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part C of title III of such act is classified generally to part B (§6321 et seq.) of subchapter III of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
+The Energy Policy and Conservation Act, referred to in subsecs. (c)(4) and (f), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part C of title III of such act is classified generally to part B (§6321 et seq.) of subchapter III of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
 
 #### Codification
 
@@ -91,4 +91,8 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 Functions vested in Secretary of Housing and Urban Development under this section transferred to Secretary of Energy by section 7154(b) of Title 42, The Public Health and Welfare.
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 

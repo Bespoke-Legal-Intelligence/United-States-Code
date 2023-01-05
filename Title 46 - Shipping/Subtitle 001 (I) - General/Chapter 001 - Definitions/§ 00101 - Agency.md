@@ -22,6 +22,10 @@ A definition of "agency" is added to avoid having to repeat the substance of the
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–146, §1, June 16, 2022, 136 Stat. 1272, provided that: "This Act \[see Tables for classification\] may be cited as the 'Ocean Shipping Reform Act of 2022'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–14, §1, May 24, 2021, 135 Stat. 273, provided that: "This Act \[enacting section 3510 of this title\] may be cited as the 'Alaska Tourism Restoration Act'."
@@ -32,7 +36,7 @@ Pub. L. 116–92, div. C, title XXXV, §3514(a), Dec. 20, 2019, 133 Stat. 1980, 
 
 #### Short Title of 2018 Amendment
 
-Pub. L. 115–265, §1, Oct. 11, 2018, 132 Stat. 3742, provided that: "This Act \[enacting section 6309 of thistitle, amending sections 2116, 3306, 3316, and 6101 of this title and sections 1952, 1954, and 1958 of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under this section, sections 2101, 2116, 3201, 3203, 3306, 3315, and 3316 of this title, sections 1, 58, 88, and 93 of Title 14, Coast Guard, and section 822 of Title 45, Railroads\] may be cited as the 'Save Our Seas Act of 2018'."
+Pub. L. 115–265, §1, Oct. 11, 2018, 132 Stat. 3742, provided that: "This Act \[enacting section 6309 of this title, amending sections 2116, 3306, 3316, and 6101 of this title and sections 1952, 1954, and 1958 of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under this section, sections 2101, 2116, 3201, 3203, 3306, 3315, and 3316 of this title, sections 1, 58, 88, and 93 of Title 14, Coast Guard, and section 822 of Title 45, Railroads\] may be cited as the 'Save Our Seas Act of 2018'."
 
 Pub. L. 115–265, title II, §201, Oct. 11, 2018, 132 Stat. 3744, provided that: "This title \[enacting section 6309 of this title, amending sections 2116, 3306, 3316, and 6101 of this title, and enacting provisions set out as notes under sections 2101, 2116, 3201, 3203, 3306, 3315, and 3316 of this title, sections 88 and 93 of Title 14, Coast Guard, and section 822 of Title 45, Railroads\] may be cited as the 'Hamm Alert Maritime Safety Act of 2018'."
 
@@ -106,7 +110,7 @@ Pub. L. 99–626, §1, Nov. 7, 1986, 100 Stat. 3504, provided that: "This act \[
 
 Pub. L. 98–498, title II, §210, Oct. 19, 1984, 98 Stat. 2303, provided that: "This subtitle \[subtitle A (§§210–214) of title II of Pub. L. 98–498, see Tables for classification\] may be cited as the 'Maritime Safety Act of 1984'."
 
-Pub. L. 98–364, title IV, §401, July 17, 1984, 98 Stat. 445, provided that: "This title \[see Tables for classification\] may be cited as the 'Commercial Fishing Industry Vessel Act'."
+Pub. L. 98–364, title IV, §401, July 17, 1984, 98 Stat. 445, provided that: "This title \[see Tables for classification\]may be cited as the 'Commercial Fishing Industry Vessel Act'."
 
 #### Short Title of 1981 Amendment
 
@@ -114,7 +118,7 @@ Pub. L. 97–31, §1, Aug. 6, 1981, 95 Stat. 151, provided: "That this Act \[see
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–372, §1, July 31, 1976, 90 Stat. 1042, provided: "That this Act \[see Tables for classification\] may becited as the 'Negotiated Shipbuilding Contracting Act of 1976'."
+Pub. L. 94–372, §1, July 31, 1976, 90 Stat. 1042, provided: "That this Act \[see Tables for classification\] may be cited as the 'Negotiated Shipbuilding Contracting Act of 1976'."
 
 #### Short Title of 1970 Amendment
 

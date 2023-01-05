@@ -50,7 +50,7 @@
 
 #### (D) Implementation
 
-&emsp;&emsp;The project established under this subsection shall be planned, implemented and evaluated over the 5-year period beginning on the date on which funds are appropriated under this section and shall be designed to serve as a model for improving the effectiveness of water fluoridation systems of small rural communities.
+&emsp;&emsp;The project established under this subsection shall be planned, implemented andevaluated over the 5-year period beginning on the date on which funds are appropriated under this section and shall be designed to serve as a model for improving the effectiveness of water fluoridation systems of small rural communities.
 
 #### (3) Evaluation
 
@@ -110,7 +110,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-Section 5304 of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 5304 nolonger define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
+Section 5304 of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 5304 no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 #### Amendments
 

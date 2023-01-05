@@ -84,6 +84,54 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Military to Mariner
 
+Pub. L. 117–263, div. K, title CXV, §11514, Dec. 23, 2022, 136 Stat. 4139, provided that:
+
+"(a)
+
+Short Title.—This section may be cited as the 'Military to Mariners Act of 2022'.
+
+"(b)
+
+Modification of Sea Service Requirements for Merchant Mariner Credentials for Veterans and Members of the Uniformed Services.—
+
+&emsp;"(1)
+
+Review and regulations.—Notwithstanding any other provision of law, not later than 2 years after the date of enactment of this Act \[Dec. 23, 2022\], the Secretary shall—
+
+&emsp;&emsp;"(A) review and examine—
+
+&emsp;&emsp;&emsp;"(i) the timeframes and impediments for veterans and members of the uniformed services to receive a merchant mariner credential;
+
+&emsp;&emsp;&emsp;"(ii) the classifications of sea service acquired through training and service as a member of the Uniformed Services and level of equivalence such service has with respect to sea service on merchant vessels; and
+
+&emsp;&emsp;&emsp;"(iii) the amount of sea service, including percent of the total time onboard for purposes of equivalent underway service, that will be accepted as required experience for all endorsements for applicants for a merchant mariner credential who are veterans or members of the Uniformed Services; and
+
+&emsp;&emsp;"(B) issue new regulations to—
+
+&emsp;&emsp;&emsp;"(i) streamline, ensure the accuracy of, and expedite the transfer, review and acceptance of information pertaining to training and sea time for applicants for a merchant mariner credential who are veterans or members of the Uniformed Services;
+
+&emsp;&emsp;&emsp;"(ii) increase the acceptable percentages of time equivalent to sea service for such applicants pursuant to findings of the review and examination conducted under subparagraph (A); and
+
+&emsp;&emsp;&emsp;"(iii) reduce burdens and create a means of alternative compliance to demonstrate instructor competency for Standards of Training, Certification and Watchkeeping for Seafarers courses.
+
+&emsp;"(2)
+
+Consultation.—In carrying out paragraph (2) \[probably should be "paragraph (1)"\], the Secretary shall consult with the National Merchant Marine Personnel Advisory Committee and shall take into account the present and future needs of the United States Merchant Marine labor workforce.
+
+&emsp;"(3)
+
+Report.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022), the United States Committee on the Marine Transportation System shall submit to the Committees on Commerce, Science, and Transportation and Armed Services of the Senate and the Committees on Transportation and Infrastructure and Armed Services of the House of Representatives, a report that contains an update on the activities carried out to implement—
+
+&emsp;&emsp;"(A) the July 2020 report by the Committee on the Marine Transportation System to the White House Office of Trade and Manufacturing Policy on the implementation of Executive Order 13860 (84 Fed. Reg. 8407; relating to supporting the transition of active duty servicemembers and military veterans into the Merchant Marine); and
+
+&emsp;&emsp;"(B) section 3511 of the National Defense Authorization Act for Fiscal Year 2020 (46 U.S.C. 3702 \[7302\] note).
+
+"(c)
+
+Assessment of Skillbridge for Employment as a Merchant Mariner.—The Secretary, in collaboration with the Secretary of Defense, shall assess the use of the SkillBridge program of the Department of Defense as a means for transitioning active duty sea service personnel to employment as merchant mariners."
+
+\[For definitions of terms used in section 11316 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under section 106 of Title 14, Coast Guard, and section 11515 of Pub. L. 117–263, set out below.\]
+
 Pub. L. 116–92, div. C, title XXXV, §3511, Dec. 20, 2019, 133 Stat. 1978, provided that:
 
 "(a)
@@ -140,7 +188,7 @@ Pub. L. 114–120, title III, §304, Feb. 8, 2016, 130 Stat. 53, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (c) and not later than 1 year after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish a process to harmonize the expiration dates of merchant mariner credentials, mariner medical certificates, and radar observer endorsements for individuals applying to the Secretary for a new merchant mariner credential or for renewal of an existing merchant mariner credential.
+In General.—Except as provided in subsection (c) and not later than 1 year after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish a process to harmonize the expiration dates ofmerchant mariner credentials, mariner medical certificates, and radar observer endorsements for individuals applying to the Secretary for a new merchant mariner credential or for renewal of an existing merchant mariner credential.
 
 "(b)
 
@@ -181,4 +229,22 @@ Pub. L. 108–293, title VI, §611, Aug. 9, 2004, 118 Stat. 1058, provided that:
 #### Termination of Existing Licenses, Certificates, and Documents; Applicability of 1990 Amendment
 
 For provisions that a merchant mariner's document issued before Aug. 18, 1990, terminates on the day it would have expired if the amendment to this section by section 4102(c) of Pub. L. 101–380 were in effect on date it was issued and was renewed at the end of each 5-year period under this section, see section 4102(d) of Pub. L. 101–380, set out as a note under section 7106 of this title.
+
+#### Definitions
+
+Pub. L. 117–263, div. K, title CXV, §11515, Dec. 23, 2022, 136 Stat. 4141, provided that:
+
+"In this subtitle \[subtitle B (§§11511–11515) of title CXV of Pub. L. 117–263, enacting provisions set out as notes under this section and section 7502 of this title\]:
+
+&emsp;"(1)
+
+Credentialed mariner.—The term 'credentialed mariner' means an individual with a merchant mariner credential.
+
+&emsp;"(2)
+
+Merchant mariner credential.—The term 'merchant mariner credential' has the meaning given such term in section 7510(d) of title 46, United States Code.
+
+&emsp;"(3)
+
+Uniformed services.—The term 'uniformed services' has the meaning given the term 'uniformed services' in section 2101 of title 5, United States Code."
 

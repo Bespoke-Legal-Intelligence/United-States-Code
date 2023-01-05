@@ -40,7 +40,7 @@ The provisions in section 80 of title 28, U.S.C., 1940 ed., relating to actions 
 
 #### 1949 Act
 
-This section strikes out subsections (c) and (d) of section 1447 of title 28, U.S.C., as covered by the Federal Rules of Civil Procedure, and adds a new subsection to such section 1447 to remove any doubt that the former law as to the finality of an order of remand to a State court is continued. This section also amends renumbered subsection (c) to remove any doubt that the former law authorizing the district court upon remand to order payment of costs is continued.
+This section strikes out subsections (c) and (d) of section 1447 of title 28, U.S.C., as covered by the Federal Rules of Civil Procedure, and adds a new subsection to such section 1447 to remove any doubt that the formerlaw as to the finality of an order of remand to a State court is continued. This section also amends renumbered subsection (c) to remove any doubt that the former law authorizing the district court upon remand to order payment of costs is continued.
 
 #### <b>Editorial Notes</b>
 

@@ -32,7 +32,7 @@ Congress makes the following findings:
 
 &emsp;(15) Facilities required for production of radiological, biological, and chemical weapons are much smaller and harder to detect than nuclear weapons facilities, and biological and chemical weapons can be deployed by alternative delivery means other than long-range ballistic missiles.
 
-&emsp;(16) Covert or unconventional means of delivery of nuclear, radiological, biological, and chemical weapons include cargo ships, passenger aircraft, commercial and private vehicles and vessels, and commercial cargo shipments routed through multiple destinations.
+&emsp;(16) Covert or unconventional means of delivery of nuclear, radiological, biological, andchemical weapons include cargo ships, passenger aircraft, commercial and private vehicles and vessels, and commercial cargo shipments routed through multiple destinations.
 
 &emsp;(17) Traditional arms control efforts assume large state efforts with detectable manufacturing programs and weapons production programs, but are ineffective in monitoring and controlling smaller, though potentially more dangerous, unconventional proliferation efforts.
 
@@ -88,7 +88,7 @@ Years.—If an amount contributed under an agreement under subsection (a) is not
 
 "(d)
 
-Notice to Congressional Defense Committees.—Not later than 30 days after the receipt of an amount contributed under subsection (a), the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notice specifying the purpose and value of thecontribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted.
+Notice to Congressional Defense Committees.—Not later than 30 days after the receipt of an amount contributed under subsection (a), the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted.
 
 "(e)
 
@@ -250,5 +250,5 @@ Definition.—In this section, the term 'weapon of mass destruction' has the mea
 
 #### Executive Order No. 13328
 
-Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which established the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction, was revoked by Ex. Ord. No. 13385, §3(a), Sept. 29, 2005, 70 F.R. 57990, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which established the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction, was revoked by Ex. Ord. No. 13385, §3(a), Sept. 29, 2005, 70 F.R. 57990, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 

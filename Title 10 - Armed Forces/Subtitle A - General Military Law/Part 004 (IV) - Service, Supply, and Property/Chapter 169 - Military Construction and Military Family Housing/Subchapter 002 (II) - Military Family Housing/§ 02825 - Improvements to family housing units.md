@@ -22,7 +22,7 @@
 
 (4) In determining the applicability of the limitation contained in paragraph (1), the Secretary concerned shall not include as part of the cost of the improvement of the unit or units concerned the following:
 
-&emsp;(A) The cost of the installation of communications, security, or antiterrorism equipment required by an occupant of the unit orunits to perform duties assigned to the occupant as a member of the armed forces.
+&emsp;(A) The cost of the installation of communications, security, or antiterrorism equipment required by an occupant of the unit or units to perform duties assigned to the occupant as a member of the armed forces.
 
 &emsp;(B) The cost of the maintenance or repair of equipment described in subparagraph (A) installed for the purpose specified in such subparagraph.
 
@@ -60,7 +60,7 @@ Subsec. (b)(5). Pub. L. 115–91, §2801(b)(1)(A), (B), redesignated par. (4) as
 
 "(D) a period of 21 days elapses after the date on which the Secretary submits the notice required by subparagraph (C) or, if over sooner, a period of 14 days elapses after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title."
 
-<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1031(a)(41)(A), struck out "(i)" before "such Secretary determines" and substituted period and last sentence for ", and (ii) a period of 21 days elapses after the date on which the appropriate committees of Congress receive a notice from such Secretary of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.".
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1031(a)(41)(A), struck out "(i)" before "such Secretary determines" and substituted period and last sentence for ", and (ii) a period of 21 days elapses after the date on which theappropriate committees of Congress receive a notice from such Secretary of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.".
 
 Subsec. (c)(1)(D). Pub. L. 108–136, §1031(a)(41)(B), inserted before period at end "or, if over sooner, a period of 14 days elapses after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title".
 

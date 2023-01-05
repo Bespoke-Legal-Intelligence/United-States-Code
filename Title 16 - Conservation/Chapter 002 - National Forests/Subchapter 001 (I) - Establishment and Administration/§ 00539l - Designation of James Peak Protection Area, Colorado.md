@@ -44,7 +44,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 &emsp;&emsp;&emsp;(iii) the operation of the mineral leasing, mineral materials, and geothermal leasing laws, and all amendments thereto.
 
-> &emsp;&emsp;Nothing in this subparagraph shall be construed to affect discretionary authority of the Secretary under other Federal laws to grant, issue, or renew rights-of-way or otherland use authorizations consistent with the other provisions of this Act.
+> &emsp;&emsp;Nothing in this subparagraph shall be construed to affect discretionary authority of the Secretary under other Federal laws to grant, issue, or renew rights-of-way or other land use authorizations consistent with the other provisions of this Act.
 
 #### (C) Motorized and mechanized travel
 
@@ -80,7 +80,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (F) Special interest area
 
-&emsp;&emsp;The management prescription applicable to the lands described in the 1997 Revision of the Land and Resource Management Plan as the James Peak Special Interest Area shall also be applicable to all the lands in the Protection Area that are bounded on the north by Rollins Pass Road, on the east by the Continental Divide, and on the west by the 11,300 foot elevation contour as shown on the map referred to in subsection (b). In addition, motorized vehicle use shall not be permitted on any part of the Rogers Pass trail.
+&emsp;&emsp;The management prescription applicable to the lands described in the 1997 Revision of the Land and Resource Management Plan asthe James Peak Special Interest Area shall also be applicable to all the lands in the Protection Area that are bounded on the north by Rollins Pass Road, on the east by the Continental Divide, and on the west by the 11,300 foot elevation contour as shown on the map referred to in subsection (b). In addition, motorized vehicle use shall not be permitted on any part of the Rogers Pass trail.
 
 #### (2) Natural gas pipeline
 

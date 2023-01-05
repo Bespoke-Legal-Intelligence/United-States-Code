@@ -12,7 +12,7 @@
 
 &emsp;(B) restrictions on the hours of the day and night when unsolicited telephone calls can be made to consumers,
 
-&emsp;(C) a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commission deems appropriate, including the nature and price of the goods and services; <sup>1</sup> and
+&emsp;(C) a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commissiondeems appropriate, including the nature and price of the goods and services; <sup>1</sup> and
 
 &emsp;(D) a requirement that any person engaged in telemarketing for the solicitation of charitable contributions, donations, or gifts of money or any other thing of value, shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to solicit charitable contributions, donations, or gifts, and make such other disclosures as the Commission considers appropriate, including the name and mailing address of the charitable organization on behalf of which the solicitation is made.
 
@@ -68,7 +68,7 @@ Any violation of any rule prescribed under subsection (a)—
 
 #### (1) Application
 
-&emsp;The rules promulgated by the Federal Trade Commission under subsection (a) shall notapply to persons described in section 9b(1) of title 7.
+&emsp;The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in section 9b(1) of title 7.
 
 #### (2) Omitted
 
@@ -78,7 +78,7 @@ Any violation of any rule prescribed under subsection (a)—
 
 #### References in Text
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (b) and (c)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (b) and (c)(2), is title X of Pub. L.111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 #### Codification
 

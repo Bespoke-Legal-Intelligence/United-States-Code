@@ -30,7 +30,7 @@ Inflatable Restraint Requirements.—(1) Not later than September 1, 1993, the S
 
 Owner Manual Requirements.—In amending Standard 208, the Secretary of Transportation shall require, to be effective as soon as possible after the amendment is prescribed, that owner manuals for passenger cars, buses, multipurpose passenger vehicles, and trucks equipped with an inflatable restraint include a statement in an easily understandable format stating that—
 
-&emsp;(1) either or both of the front outboard seating positions of the vehicle are equipped with an inflatable restraint referred to as an "airbag" and a lap and shoulder belt;
+&emsp;(1) either or both of the front outboard seating positions of the vehicle are equipped withan inflatable restraint referred to as an "airbag" and a lap and shoulder belt;
 
 &emsp;(2) the "airbag" is a supplemental restraint and is not a substitute for lap and shoulder belts;
 
@@ -178,7 +178,7 @@ In subsection (h)(2), the words "for both front outboard seating positions" are 
 
 #### References in Text
 
-The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
+The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
 
 #### Amendments
 
@@ -224,7 +224,7 @@ Pub. L. 114–94, div. B, title XXIV, §24407, Dec. 4, 2015, 129 Stat. 1726, pro
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall revise the crash investigation data collection system of the National Highway Traffic Safety Administration to include the collection of the following data in connection with vehicle crashes whenever a child restraint system was in use in a vehicle involved in a crash:
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall revise the crash investigation data collection system of the National Highway Traffic Safety Administration to include the collection of the following data in connection with vehicle crashes whenever achild restraint system was in use in a vehicle involved in a crash:
 
 &emsp;"(1) The type or types of child restraint systems in use during the crash in any vehicle involved in the crash, including whether a five-point harness or belt-positioning booster. \[sic\]
 
@@ -464,7 +464,7 @@ Elements for Consideration.—In the rulemaking required by subsection (a), the 
 
 &emsp;"(7) whether to establish booster seat performance and structural integrity requirements to be dynamically tested in 3-point lap and shoulder belts;
 
-&emsp;"(8) whether to apply scaled injury criteria performance levels, including neck injury, developed for Federal Motor Vehicle Safety Standard No. 208 tochild restraints and booster seats covered by in Federal Motor Vehicle Safety Standard No. 213; and
+&emsp;"(8) whether to apply scaled injury criteria performance levels, including neck injury, developed for Federal Motor Vehicle Safety Standard No. 208 to child restraints and booster seats covered by in Federal Motor Vehicle Safety Standard No. 213; and
 
 &emsp;"(9) whether to include child restraint in each vehicle crash tested under the New Car Assessment Program.
 

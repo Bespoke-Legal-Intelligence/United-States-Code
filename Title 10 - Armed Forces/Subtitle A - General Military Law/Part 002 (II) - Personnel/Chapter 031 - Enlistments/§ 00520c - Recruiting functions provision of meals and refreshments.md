@@ -20,7 +20,7 @@ Under regulations prescribed by the Secretary concerned, funds appropriated to t
 
 <b>2003</b>—Pub. L. 108–136 substituted "provision of meals and refreshments" for "use of funds" in section catchline, struck out "(a)
 
-Provision of Meals and Refreshments.—" before "Under regulations", and struck out heading and text of subsec. (b). Text read as follows: "Not later than February 1 of each of the years 1998through 2002, the Secretary of Defense shall submit to Congress a report on the extent to which the authority under subsection (a) was exercised during the fiscal year ending in the preceding year."
+Provision of Meals and Refreshments.—" before "Under regulations", and struck out heading and text of subsec. (b). Text read as follows: "Not later than February 1 of each of the years 1998 through 2002, the Secretary of Defense shall submit to Congress a report on the extent to which the authority under subsection (a) was exercised during the fiscal year ending in the preceding year."
 
 <b>2001</b>—Subsec. (a)(4). Pub. L. 107–107, §545(b)(1), substituted "recruiting functions" for "recruiting events".
 

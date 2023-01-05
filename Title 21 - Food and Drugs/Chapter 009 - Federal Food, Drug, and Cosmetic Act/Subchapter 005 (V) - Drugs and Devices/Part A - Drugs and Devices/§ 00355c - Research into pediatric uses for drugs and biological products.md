@@ -96,7 +96,7 @@
 
 #### (ii) Timing and information
 
-&emsp;&emsp;&emsp;If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1)(A) or reports on the investigation under paragraph (1)(B) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
+&emsp;&emsp;&emsp;If the deferral extension under this subparagraph is requested by the applicant,the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1)(A) or reports on the investigation under paragraph (1)(B) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
 
 #### (C) Annual review
 
@@ -128,7 +128,7 @@
 
 #### (A) Full waiver
 
-&emsp;&emsp;On the initiative of the Secretary or at the request of an applicant, the Secretary shallgrant a full waiver, as appropriate, of the requirement to submit assessments or reports on the investigation for a drug or biological product under this subsection if the applicant certifies and the Secretary finds that—
+&emsp;&emsp;On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a full waiver, as appropriate, of the requirement to submit assessments or reports on the investigation for a drug or biological product under this subsection if the applicant certifies and the Secretary finds that—
 
 &emsp;&emsp;&emsp;(i) necessary studies are impossible or highly impracticable (because, for example, the number of patients is so small or the patients are geographically dispersed);
 
@@ -356,7 +356,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 &emsp;&emsp;(H) an annual summary of labeling changes made as a result of assessments conducted under this section for distribution pursuant to subsection (h)(2);
 
-&emsp;&emsp;(I) an annual summary of information submitted pursuant to subsection (a)(3)(B); and
+&emsp;&emsp;(I) an annual summary of information submitted pursuant to subsection (a)(4)(C); and
 
 &emsp;&emsp;(J) the number of times the committee referred to in paragraph (1) made a recommendation to the Secretary under paragraph (4) regarding priority review, the number of times the Secretary followed or did not follow such a recommendation, and, if not followed, the reasons why such a recommendation was not followed.
 
@@ -474,11 +474,13 @@ Nothing in this section provides to the Secretary any authority to require a ped
 
 &emsp;&emsp;(B) to authorize the disclosure of confidential commercial information, as prohibited under section 331(j) of this title or section 1905 of title 18.
 
-(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048; Pub. L. 114–255, div. A, title III, §§3101(a)(2)(D), 3102(3), Dec. 13, 2016, 130 Stat. 1153, 1156; Pub. L. 115–52, title V, §§503–504(b), 505(e), Aug. 18, 2017, 131 Stat. 1038–1041, 1047.)
+(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048; Pub. L. 114–255, div. A, title III, §§3101(a)(2)(D), 3102(3), Dec. 13, 2016, 130 Stat. 1153, 1156; Pub. L. 115–52, title V, §§503–504(b), 505(e), Aug. 18, 2017, 131 Stat. 1038–1041, 1047; Pub. L. 117–328, div. FF, title II, §2515(c), Dec. 29, 2022, 136 Stat. 5806.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(6)(I). Pub. L. 117–328 substituted "subsection (a)(4)(C)" for "subsection (a)(3)(B)".
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 115–52, §504(a)(1)(A), designated existing provisions as subpar. (A) and inserted heading, substituted "Except with respect to an application for which subparagraph (B) applies, a person" for "A person", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, substituted "; or" for ", or" at end of subpar. (A)(i), and added subpar. (B).
 
@@ -628,7 +630,7 @@ Pub. L. 108–155, §4, Dec. 3, 2003, 117 Stat. 1942, provided that:
 
 "(a)
 
-In General.—Subject to subsection (b), this Act \[enacting this section, amending sections 355, 355a, and355b of this title and sections 262 and 284m of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 301 of this title, and amending provisions set out as notes under section 355a of this title and section 284m of Title 42\] and the amendments made by this Act take effect on the date of enactment of this Act \[Dec. 3, 2003\].
+In General.—Subject to subsection (b), this Act \[enacting this section, amending sections 355, 355a, and 355b of this title and sections 262 and 284m of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 301 of this title, and amending provisions set out as notes under section 355a of this title and section 284m of Title 42\] and the amendments made by this Act take effect on the date of enactment of this Act \[Dec. 3, 2003\].
 
 "(b)
 
@@ -670,7 +672,7 @@ Pub. L. 115–52, title V, §504(c), Aug. 18, 2017, 131 Stat. 1041, provided tha
 
 "(1)
 
-Meeting.—The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary'), acting through the Commissioner of Food and Drugs and in collaboration with the Director of the National Cancer Institute, shall convene a public meeting not later than 1 year after the date of enactment of this Act \[Aug. 18, 2017\] to solicit feedback from physicians and researchers (including pediatric oncologists and rare disease specialists), patients, and other stakeholders to provide input on development of the guidance under paragraph (2) and the list under subsection (m) of section 505B of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c), as added by subsection (a). The Secretary shall seek input at such meeting on—
+Meeting.—The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary'), acting through the Commissioner of Food and Drugs and in collaboration with the Director of the National Cancer Institute, shall convene a public meeting not later than 1 year after the date of enactment ofthis Act \[Aug. 18, 2017\] to solicit feedback from physicians and researchers (including pediatric oncologists and rare disease specialists), patients, and other stakeholders to provide input on development of the guidance under paragraph (2) and the list under subsection (m) of section 505B of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c), as added by subsection (a). The Secretary shall seek input at such meeting on—
 
 &emsp;"(A) the data necessary to determine that there is scientific evidence that a drug or biological product is directed at a molecular target that is considered to be substantially relevant to the growth or progression of a pediatric cancer;
 

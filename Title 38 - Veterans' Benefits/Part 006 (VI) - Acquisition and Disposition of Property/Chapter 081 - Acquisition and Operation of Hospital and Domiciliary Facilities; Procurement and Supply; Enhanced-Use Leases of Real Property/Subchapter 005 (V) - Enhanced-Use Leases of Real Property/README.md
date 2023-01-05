@@ -13,4 +13,4 @@
 - [&sect; 08166 - Construction standards](%C2%A7%2008166%20-%20Construction%20standards.md)
 - [&sect; 08167 - Exemption from State and local taxes](%C2%A7%2008167%20-%20Exemption%20from%20State%20and%20local%20taxes.md)
 - [&sect; 08168 - Annual reports](%C2%A7%2008168%20-%20Annual%20reports.md)
-- [&sect; 08169 - Expiration](%C2%A7%2008169%20-%20Expiration.md)
+- [&sect; 08169 - Repealed. Pub. L. 117&#8211;168, title VII, &sect;705(d), Aug. 10, 2022, 136 Stat. 1800](%C2%A7%2008169%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93168%2C%20title%20VII%2C%20%C2%A7705%28d%29%2C%20Aug.%2010%2C%202022%2C%20136%20Stat.%201800.md)

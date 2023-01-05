@@ -46,7 +46,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Ex. Ord. No. 12929, Sept. 29, 1994, 59 F.R. 50473, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 301 of title 3 and sections 7427 and 7428 \[now 8727 and 8728\] of title 10, United States Code, and in order to meet the goals and requirements of the Naval Petroleum and Oil Shale Reserves, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 and sections 7427 and 7428 \[now 8727 and 8728\] of title 10, United States Code, and in order to meet the goals and requirements of the Naval Petroleum and Oil Shale Reserves, it is hereby ordered as follows:
 
 The functions vested in the President by sections 7427 and 7428 \[now 8727 and 8728\] of title 10 of the United States Code are delegated to the Secretary of Energy.
 

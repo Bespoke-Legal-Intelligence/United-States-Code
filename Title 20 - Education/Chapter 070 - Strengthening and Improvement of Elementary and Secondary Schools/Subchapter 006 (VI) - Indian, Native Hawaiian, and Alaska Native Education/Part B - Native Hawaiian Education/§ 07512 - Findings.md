@@ -4,7 +4,7 @@ Congress finds the following:
 
 &emsp;(1) Native Hawaiians are a distinct and unique indigenous people with a historical continuity to the original inhabitants of the Hawaiian archipelago, whose society was organized as a nation and internationally recognized as a nation by the United States, Britain, France, and Japan, as evidenced by treaties governing friendship, commerce, and navigation.
 
-&emsp;(2) At the time of the arrival of the first nonindigenous people in Hawaii in 1778, the Native Hawaiian people lived in a highly organized, self-sufficient subsistence social system based on a communal land tenure system with a sophisticated language, culture, and religion.
+&emsp;(2) At the time of the arrival of the first nonindigenous people in Hawaii in 1778, the NativeHawaiian people lived in a highly organized, self-sufficient subsistence social system based on a communal land tenure system with a sophisticated language, culture, and religion.
 
 &emsp;(3) A unified monarchal government of the Hawaiian Islands was established in 1810 under Kamehameha I, the first King of Hawaii.
 
@@ -14,7 +14,7 @@ Congress finds the following:
 
 &emsp;(6) In 1898, the joint resolution entitled "Joint Resolution to provide for annexing the Hawaiian Islands to the United States", approved July 7, 1898 (30 Stat. 750), ceded absolute title of all lands held by the Republic of Hawaii, including the government and crown lands of the former Kingdom of Hawaii, to the United States, but mandated that revenue generated from the lands be used "solely for the benefit of the inhabitants of the Hawaiian Islands for educational and other public purposes".
 
-&emsp;(7) By 1919, the Native Hawaiian population had declined from an estimated 1,000,000 in 1778to an alarming 22,600, and in recognition of this severe decline, Congress enacted the Hawaiian Homes Commission Act, 1920 (42 Stat. 108), which designated approximately 200,000 acres of ceded public lands for homesteading by Native Hawaiians.
+&emsp;(7) By 1919, the Native Hawaiian population had declined from an estimated 1,000,000 in 1778 to an alarming 22,600, and in recognition of this severe decline, Congress enacted the Hawaiian Homes Commission Act, 1920 (42 Stat. 108), which designated approximately 200,000 acres of ceded public lands for homesteading by Native Hawaiians.
 
 &emsp;(8) Through the enactment of the Hawaiian Homes Commission Act, 1920, Congress affirmed the special relationship between the United States and the Native Hawaiians, which was described by then Secretary of the Interior Franklin K. Lane, who said: "One thing that impressed me . . . was the fact that the natives of the island who are our wards, I should say, and for whom in a sense we are trustees, are falling off rapidly in numbers and many of them are in poverty.".
 
@@ -140,7 +140,7 @@ Another prior section 6202 of Pub. L. 89–10 was classified to section 3272 of 
 
 &emsp;"(H) Native Hawaiians now comprise over 23 percent of the students served by the State of Hawaii Department of Education, and there are and will continue to be geographically rural, isolated areas with a high Native Hawaiian population density.
 
-"(17) In the 1998 National Assessment of Educational Progress, Hawaiian fourth-graders ranked 39th among groups of students from 39 States in reading. Given that Hawaiian students rank among the lowest groups of students nationally in reading, and that Native Hawaiian students rank the lowest among Hawaiian students in reading, it is imperative that greater focus beplaced on beginning reading and early education and literacy in Hawaii.
+"(17) In the 1998 National Assessment of Educational Progress, Hawaiian fourth-graders ranked 39th among groups of students from 39 States in reading. Given that Hawaiian students rank among the lowest groups of students nationally in reading, and that Native Hawaiian students rank the lowest among Hawaiian students in reading, it is imperative that greater focus be placed on beginning reading and early education and literacy in Hawaii.
 
 "(18) The findings described in paragraphs (16) and (17) are inconsistent with the high rates of literacy and integration of traditional culture and Western education historically achieved by Native Hawaiians through a Hawaiian language-based public school system established in 1840 by Kamehameha III.
 

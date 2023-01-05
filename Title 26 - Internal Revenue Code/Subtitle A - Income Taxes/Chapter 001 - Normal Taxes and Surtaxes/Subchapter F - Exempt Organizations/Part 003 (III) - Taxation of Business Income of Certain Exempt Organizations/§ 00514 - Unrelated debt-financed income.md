@@ -42,7 +42,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (A) Neighborhood land
 
-&emsp;&emsp;If an organization acquires real property for the principal purpose of using the land (commencing within 10 years of the time of acquisition) in the manner described in paragraph (1)(A) and at the time of acquisition the property is in the neighborhood of other property owned by the organization which is used in such manner, the real property acquired for such future use shall not be treated as debt-financed property so long as the organization does not abandon its intent to so use the land within the 10-year period. The preceding sentence shall not apply for any period after the expiration of the 10-year period, and shall apply after the first 5 years of the 10-year period only if the organization establishes to the satisfaction of the Secretary that it is reasonably certain that the land will be used in the described manner before the expiration of the 10-year period.
+&emsp;&emsp;If an organization acquires real property for the principal purpose of using the land (commencing within 10 years of the time of acquisition) in the manner described in paragraph (1)(A) and at the time of acquisition the property is in the neighborhood of otherproperty owned by the organization which is used in such manner, the real property acquired for such future use shall not be treated as debt-financed property so long as the organization does not abandon its intent to so use the land within the 10-year period. The preceding sentence shall not apply for any period after the expiration of the 10-year period, and shall apply after the first 5 years of the 10-year period only if the organization establishes to the satisfaction of the Secretary that it is reasonably certain that the land will be used in the described manner before the expiration of the 10-year period.
 
 #### (B) Other cases
 
@@ -168,7 +168,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term "acquisition indebtedness" does not, for purposes of this section, include indebtedness incurred by a qualified organization in acquiring or improving any real property. For purposes of this paragraph, an interest in a mortgage shall in no event be treated as real property.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "acquisition indebtedness" doesnot, for purposes of this section, include indebtedness incurred by a qualified organization in acquiring or improving any real property. For purposes of this paragraph, an interest in a mortgage shall in no event be treated as real property.
 
 #### (B) Exceptions
 
@@ -250,7 +250,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;&emsp;(II) as deductions allowable in computing unrelated business taxable income, such holder's pro rata share of the items of deduction described in clause (ii)(II) of such organization.
 
-&emsp;&emsp;&nbsp;Such amounts shall be taken into account for the taxable year of the holder in which\(or with which) the taxable year of such organization ends.
+&emsp;&emsp;&nbsp;Such amounts shall be taken into account for the taxable year of the holder in which (or with which) the taxable year of such organization ends.
 
 #### (ii) Description of amounts
 
@@ -336,11 +336,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### References in Text
 
-The Tax Reform Act of 1976, referred to in subsec. (b)(3)(C)(iii), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (b)(3)(C)(iii), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
 
 The date of the enactment of the American Jobs Creation Act of 2004, referred to in subsec. (c)(6)(A)(ii), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
-The Small Business Investment Act of 1958, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. Section 303(a) of the Act is classified to section 683(a) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. Section 303(a) of the Act is classified to section 683(a) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 #### Amendments
 
@@ -476,7 +476,7 @@ Pub. L. 100–203, title X, §10214(c), Dec. 22, 1987, 101 Stat. 1330–408, pro
 
 &emsp;"(2) partnership interests acquired after October 13, 1987,
 
-> except that such amendments shall not apply in the case of any property (or partnership interest) acquiredpursuant to a written binding contract in effect on October 13, 1987, and at all times thereafter before such property (or interest) is acquired."
+> except that such amendments shall not apply in the case of any property (or partnership interest) acquired pursuant to a written binding contract in effect on October 13, 1987, and at all times thereafter before such property (or interest) is acquired."
 
 #### Effective Date of 1986 Amendment
 
@@ -554,7 +554,7 @@ Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts 
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, and to the manner of treatment to be accorded indebtednesses secured by certain mortgages on properties bargain-purchased before Oct. 9, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, and to the manner of treatment to be accorded indebtednesses secured bycertain mortgages on properties bargain-purchased before Oct. 9, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 
 #### Effective Date of 1960 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An officer in the grade of first lieutenant, captain, major, or lieutenant colonel in the Army, Air Force, or Marine Corps,or lieutenant (junior grade), lieutenant, lieutenant commander, or commander in the Navy, who is described in subsection (b) may be temporarily promoted to the grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, or Marine Corps, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable, under regulations prescribed by the Secretary of the military department concerned. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
+In General.—An officer in the grade of first lieutenant, captain, major, or lieutenant colonel in the Army, Air Force, or Marine Corps, or lieutenant (junior grade), lieutenant, lieutenant commander, or commander in the Navy, who is described in subsection (b) may be temporarily promoted to the grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, or Marine Corps, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable, under regulations prescribed by the Secretary of the military department concerned. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
 
 (b)
 

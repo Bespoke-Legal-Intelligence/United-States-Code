@@ -90,7 +90,7 @@
 
 #### (B) Renewal of contracts
 
-&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to section 6101 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application ofcompetitive procedures under such a contract not less frequently than once every 10 years.
+&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to section 6101 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 10 years.
 
 #### (C) Transfer of functions
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;(A) to furnish to the Secretary such timely information and reports as the Secretary may find necessary in performing his functions under this subchapter; and
 
-&emsp;&emsp;(B) to maintain such records and afford such access thereto as the Secretary findsnecessary to assure the correctness and verification of the information and reports under subparagraph (A) and otherwise to carry out the purposes of this subchapter.
+&emsp;&emsp;(B) to maintain such records and afford such access thereto as the Secretary finds necessary to assure the correctness and verification of the information and reports under subparagraph (A) and otherwise to carry out the purposes of this subchapter.
 
 #### (5) Surety bond
 
@@ -188,7 +188,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No medicare administrative contractor shall be liable to the United States for a payment by a certifying or disbursing officer unless, in connection with such payment, the medicare administrative contractor acted with reckless disregard of its obligations under its medicare administrative contract or with intent to defraud the United States.
+&emsp;&emsp;No medicare administrative contractor shall be liable to the United States for apayment by a certifying or disbursing officer unless, in connection with such payment, the medicare administrative contractor acted with reckless disregard of its obligations under its medicare administrative contract or with intent to defraud the United States.
 
 #### (B) Relationship to False Claims Act
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;&emsp;(i) be performed by an entity that meets such requirements for independence as the Inspector General of the Department of Health and Human Services may establish; and
 
-&emsp;&emsp;&emsp;(ii) test the effectiveness of information security control techniques of an appropriate subset of the contractor's information systems (as defined in section 3502(8) of title 44) relating to such functions under this subchapter and an assessment of compliance with the requirements of this subsection and related information security policies, procedures, standards and guidelines, including policies and procedures as may be prescribed by the Director of the Office of Management and Budget and applicable information security standards promulgated under section 11331 of title 40.
+&emsp;&emsp;&emsp;(ii) test the effectiveness of information security control techniques of an appropriate subset of the contractor's information systems (as defined in section 3502(8) of title 44) relating to such functions under this subchapter and an assessment of compliance with the requirements of this subsection and related information security policies, procedures, standards and guidelines, including policies and procedures as may be prescribed by the Director of the Office of Management and Budget and applicable information security standards promulgated under section 11331 of title 40.<sup>1</sup>
 
 #### (B) Deadline for initial evaluation
 
@@ -276,7 +276,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (3) Response to toll-free lines
 
-&emsp;The Secretary shall ensure that each medicare administrative contractor shall provide, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A or enrolled under part B, or both, with respect to whom claims are submitted for claims processing, atoll-free telephone number at which such individuals, providers of services, and suppliers may obtain information regarding billing, coding, claims, coverage, and other appropriate information under this subchapter.
+&emsp;The Secretary shall ensure that each medicare administrative contractor shall provide, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A or enrolled under part B, or both, with respect to whom claims are submitted for claims processing, a toll-free telephone number at which such individuals, providers of services, and suppliers may obtain information regarding billing, coding, claims, coverage, and other appropriate information under this subchapter.
 
 #### (4) Monitoring of contractor responses
 
@@ -310,7 +310,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (1) In general
 
-&emsp;In order to reduce improper payments under this subchapter, each medicare administrative contractor shall establish and have in place an improper payment outreach and education program under which the contractor, through outreach, education, training, and technical assistance or other activities, shall provide providers of services and suppliers located in the region covered by the contract under this section with the information described in paragraph (2). The activities described in the preceding sentence shall be conducted on a regular basis.
+&emsp;In order to reduce improper payments under this subchapter, each medicare administrative contractor shall establish and have in place an improper payment outreach and education program under which the contractor, through outreach, education, training, and technicalassistance or other activities, shall provide providers of services and suppliers located in the region covered by the contract under this section with the information described in paragraph (2). The activities described in the preceding sentence shall be conducted on a regular basis.
 
 #### (2) Information to be provided through activities
 
@@ -371,6 +371,8 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 #### References in Text
 
 Section 3544 of title 44, referred to in subsec. (e)(1), (2)(C)(iii), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to section 3544 of title 44 are now contained in section 3554 of title 44, as enacted by Pub. L. 113–283.
+
+The text of section 11331 of title 40, referred to in subsec. (e)(2)(A)(ii), was generally amended by Pub. L. 117–167, div. B, title II, §10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
 
 #### Codification
 
@@ -486,7 +488,7 @@ Pub. L. 108–173, title IX, §911(a)(2), Dec. 8, 2003, 117 Stat. 2383, provided
 
 #### References
 
-Pub. L. 108–173, title IX, §911(e), Dec. 8, 2003, 117 Stat. 2386, provided that: "On and after the effective date provided under subsection (d)(1) \[set out above\], any reference to a fiscal intermediary or carrier under title XI or XVIII of the Social Security Act \[42 U.S.C. 1301 et seq., 1395 et seq.\] (or any regulation, manual instruction, interpretative rule, statement of policy, or guideline issued to carry out such titles) shall be deemed a reference to a medicare administrative contractor (as provided under section 1874A of the Social Security Act \[42 U.S.C. 1395kk–1\])."
+Pub. L. 108–173, title IX, §911(e), Dec. 8, 2003, 117 Stat. 2386, provided that: "On and after the effective dateprovided under subsection (d)(1) \[set out above\], any reference to a fiscal intermediary or carrier under title XI or XVIII of the Social Security Act \[42 U.S.C. 1301 et seq., 1395 et seq.\] (or any regulation, manual instruction, interpretative rule, statement of policy, or guideline issued to carry out such titles) shall be deemed a reference to a medicare administrative contractor (as provided under section 1874A of the Social Security Act \[42 U.S.C. 1395kk–1\])."
 
 #### Secretarial Submission of Legislative Proposal
 
@@ -570,7 +572,7 @@ Length and consultation.—Each pilot project under this subsection shall—
 
 &emsp;"(3)
 
-Range of pilot projects.—Of the pilot projects conducted under this subsection with respect to proposed new or modified documentation guidelines—
+Range of pilot projects.—Of the pilot projects conducted under this subsection with respectto proposed new or modified documentation guidelines—
 
 &emsp;&emsp;"(A) at least one shall focus on a peer review method by physicians (not employed by a medicare contractor) which evaluates medical record information for claims submitted by physicians identified as statistical outliers relative to codes used for billing purposes for such services;
 

@@ -6,7 +6,7 @@ Beginning with fiscal year 1992, the President's budget shall reflect the costs 
 
 #### (b) Appropriations required
 
-Notwithstanding any other provision of law, new direct loan obligations may be incurred andnew loan guarantee commitments may be made for fiscal year 1992 and thereafter only to the extent that—
+Notwithstanding any other provision of law, new direct loan obligations may be incurred and new loan guarantee commitments may be made for fiscal year 1992 and thereafter only to the extent that—
 
 &emsp;(1) new budget authority to cover their costs is provided in advance in an appropriations Act;
 
@@ -32,7 +32,7 @@ Subsections (b) and (e) shall not apply to a direct loan or loan guarantee progr
 
 #### (e) Modifications
 
-An outstanding direct loan (or direct loan obligation) or loan guarantee (or loan guarantee commitment) shall not be modified in a manner that increases its costs unless budget authority for the additional cost has been provided in advance in an appropriations Act.
+An outstanding direct loan (or direct loan obligation) or loan guarantee (or loan guaranteecommitment) shall not be modified in a manner that increases its costs unless budget authority for the additional cost has been provided in advance in an appropriations Act.
 
 #### (f) Reestimates
 

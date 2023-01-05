@@ -66,7 +66,7 @@ The Secretary may request the services of, and enter into cooperative agreements
 
 #### (1) Funding
 
-&emsp;Effective for fiscal year 2008 and each subsequent fiscal year, funds of the Commodity Credit Corporation made available to carry out technical assistance for each of the programs specified in section 3841 of this title shall be available for the provision of technical assistance from third-party providers under this section.
+&emsp;Effective for fiscal year 2008 and each subsequent fiscal year, funds of the Commodity Credit Corporation made available to carry out technical assistance for each of the programs specified in section 3841 of this titleshall be available for the provision of technical assistance from third-party providers under this section.
 
 #### (2) Term of agreement
 
@@ -196,7 +196,7 @@ The date of the enactment of the Food, Conservation, and Energy Act of 2008, ref
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-Section 2701 of Pub. L. 107–171, which directed that subtitle E of the Food Security Act of 1985 be amendedby striking section 1242 and adding a new section 1242 (this section), was executed by striking section 1242 of subtitle E of title XII of the Food Security Act of 1985 and adding the new section 1242 in lieu thereof, to reflect the probable intent of Congress.
+Section 2701 of Pub. L. 107–171, which directed that subtitle E of the Food Security Act of 1985 be amended by striking section 1242 and adding a new section 1242 (this section), was executed by striking section 1242 of subtitle E of title XII of the Food Security Act of 1985 and adding the new section 1242 in lieu thereof, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

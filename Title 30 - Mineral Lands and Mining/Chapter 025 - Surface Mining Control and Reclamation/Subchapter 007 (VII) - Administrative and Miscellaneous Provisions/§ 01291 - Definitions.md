@@ -6,7 +6,7 @@ For the purposes of this chapter—
 
 &emsp;(2) "approximate original contour" means that surface configuration achieved by backfilling and grading of the mined area so that the reclaimed area, including any terracing or access roads, closely resembles the general surface configuration of the land prior to mining and blends into and complements the drainage pattern of the surrounding terrain, with all highwalls and spoil piles eliminated; water impoundments may be permitted where the regulatory authority determines that they are in compliance with section 1265(b)(8) of this title;
 
-&emsp;(3) "commerce" means trade, traffic, commerce, transportation, transmission, or communication among the several States, or between a State and any other place outsidethereof, or between points in the same State which directly or indirectly affect interstate commerce;
+&emsp;(3) "commerce" means trade, traffic, commerce, transportation, transmission, or communication among the several States, or between a State and any other place outside thereof, or between points in the same State which directly or indirectly affect interstate commerce;
 
 &emsp;(4) "Federal lands" means any land, including mineral interests, owned by the United States without regard to how the United States acquired ownership of the land and without regard to the agency having responsibility for management thereof, except Indian lands: <i>Provided</i>, That for the purposes of this chapter lands or mineral interests east of the one hundredth meridian west longitude owned by the United States and entrusted to or managed by the Tennessee Valley Authority shall not be subject to sections 1304 (Surface Owner Protection) and 1305 (Federal Lessee Protection) of this title.<sup>1</sup>
 
@@ -74,7 +74,7 @@ For the purposes of this chapter—
 
 &emsp;(34) the term "lands eligible for remining" means those lands that would otherwise be eligible for expenditures under section 1234 of this title or under section 1232(g)(4) of this title.
 
-(Pub. L. 95–87, title VII, §701, Aug. 3, 1977, 91 Stat. 516; Pub. L. 102–486, title XXV, §2503(c), Oct. 24, 1992, 106 Stat. 3103; Pub. L. 105–244, title I, §102(a)(10), Oct. 7, 1998, 112 Stat. 1620.)
+(Pub. L. 95–87, title VII, §701, Aug. 3, 1977, 91 Stat. 516; Pub. L. 102–486, title XXV, §2503(c),Oct. 24, 1992, 106 Stat. 3103; Pub. L. 105–244, title I, §102(a)(10), Oct. 7, 1998, 112 Stat. 1620.)
 
 #### <b>Editorial Notes</b>
 

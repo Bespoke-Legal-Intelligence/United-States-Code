@@ -4,11 +4,11 @@
 
 #### (1) Commodity Futures Trading Commission
 
-&emsp;Before commencing any rulemaking or issuing an order regarding swaps, swap dealers, major swap participants, swap data repositories, derivative clearing organizations with regard to swaps, persons associated with a swap dealer or major swap participant, eligible contract participants, or swap execution facilities pursuant to this subtitle, the Commodity Futures Trading Commission shall consult and coordinate to the extent possible with the Securities and Exchange Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
+&emsp;Before commencing any rulemaking or issuing an order regarding swaps, swap dealers, major swap participants, swap data repositories, derivative clearing organizations with regard to swaps, persons associated with a swap dealer or major swap participant, eligible contract participants, or swap execution facilities pursuant to this subtitle, the Commodity Futures Trading Commission shall consult and coordinate to the extent possible with the Securities and Exchange Commission and the prudential regulators for the purposesof assuring regulatory consistency and comparability, to the extent possible.
 
 #### (2) Securities and Exchange Commission
 
-&emsp;Before commencing any rulemaking or issuing an order regarding security-based swaps, security-based swap dealers, major security-based swap participants, security-based swap data repositories, clearing agencies with regard to security-based swaps, persons associated with a security-based swap dealer or major security-based swap participant, eligible contract participants with regard to security-based swaps, or security-based swap execution facilities pursuant to subtitle B, the Securities and Exchange Commission shall consult and coordinate to the extent possible with the Commodity Futures Trading Commission and the prudential regulators for thepurposes of assuring regulatory consistency and comparability, to the extent possible.
+&emsp;Before commencing any rulemaking or issuing an order regarding security-based swaps, security-based swap dealers, major security-based swap participants, security-based swap data repositories, clearing agencies with regard to security-based swaps, persons associated with a security-based swap dealer or major security-based swap participant, eligible contract participants with regard to security-based swaps, or security-based swap execution facilities pursuant to subtitle B, the Securities and Exchange Commission shall consult and coordinate to the extent possible with the Commodity Futures Trading Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
 
 #### (3) Procedures and deadline
 
@@ -166,7 +166,7 @@
 
 #### (F) Sharing of information
 
-&emsp;&emsp;The Commodity Futures Trading Commission shall make available to the Securities and Exchange Commission information relating to security-based swap agreementtransactions defined in subparagraph (A) that are not cleared.
+&emsp;&emsp;The Commodity Futures Trading Commission shall make available to the Securities and Exchange Commission information relating to security-based swap agreement transactions defined in subparagraph (A) that are not cleared.
 
 #### (3) Financial Stability Oversight Council
 

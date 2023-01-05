@@ -44,7 +44,7 @@ The overall allotment quantity for the crop year shall be allotted between—
 
 #### (1) In general
 
-&emsp;The allotment for sugar derived from sugarcane shall be further allotted, among the States in the United States in which sugarcane is produced, after a hearing (if requested by the affected sugarcane processors and growers) and on such notice as the Secretary byregulation may prescribe, in a fair and equitable manner as provided in this subsection and section 1359dd(b)(1)(D) of this title.
+&emsp;The allotment for sugar derived from sugarcane shall be further allotted, among the States in the United States in which sugarcane is produced, after a hearing (if requested by the affected sugarcane processors and growers) and on such notice as the Secretary by regulation may prescribe, in a fair and equitable manner as provided in this subsection and section 1359dd(b)(1)(D) of this title.
 
 #### (2) Offshore allotment
 
@@ -116,7 +116,7 @@ Subsec. (d)(2). Pub. L. 110–246, §1403(c)(2), inserted "or in-process beet su
 
 Subsec. (g)(1). Pub. L. 110–246, §1403(c)(3), substituted "Adjustments" for "In general" in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted "Subject to subparagraph (B), the Secretary" for "The Secretary", and added subpar. (B).
 
-Subsec. (h). Pub. L. 110–246, §1403(c)(4), struck out subsec. (h). Prior to amendment, text read as follows: "Whenever the Secretary estimates or reestimates under section 1359bb(a) of this title, or has reason to believe, that imports of sugars, syrups or molasses forhuman consumption or to be used for the extraction of sugar for human consumption, whether under a tariff-rate quota or in excess or outside of a tariff-rate quota, will exceed 1,532,000 short tons (raw value equivalent) (excluding any imports attributable to reassignment under paragraph (1)(D) or (2)(C) of section 1359ee(b) of this title), and that the imports would lead to a reduction of the overall allotment quantity, the Secretary shall suspend the marketing allotments established under this section until such time as the imports have been restricted, eliminated, or reduced to or below the level of 1,532,000 short tons (raw value equivalent)."
+Subsec. (h). Pub. L. 110–246, §1403(c)(4), struck out subsec. (h). Prior to amendment, text read as follows: "Whenever the Secretary estimates or reestimates under section 1359bb(a) of this title, or has reason to believe, that imports of sugars, syrups or molasses for human consumption or to be used for the extraction of sugar for human consumption, whether under a tariff-rate quota or in excess or outside of a tariff-rate quota, will exceed 1,532,000 short tons (raw value equivalent) (excluding any imports attributable to reassignment under paragraph (1)(D) or (2)(C) of section 1359ee(b) of this title), and that the imports would lead to a reduction of the overall allotment quantity, the Secretary shall suspend the marketing allotments established under this section until such time as the imports have been restricted, eliminated, or reduced to or below the level of 1,532,000 short tons (raw value equivalent)."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

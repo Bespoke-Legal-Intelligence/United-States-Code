@@ -26,7 +26,7 @@ The Chief Executive Officer of the Corporation for National and Community Servic
 
 #### (1) In general
 
-&emsp;The Secretaries shall, to the maximum extent practicable, coordinate with each otherto carry out activities authorized under this subchapter, including—
+&emsp;The Secretaries shall, to the maximum extent practicable, coordinate with each other to carry out activities authorized under this subchapter, including—
 
 &emsp;&emsp;(A) the data collection and reporting requirements of this section; and
 

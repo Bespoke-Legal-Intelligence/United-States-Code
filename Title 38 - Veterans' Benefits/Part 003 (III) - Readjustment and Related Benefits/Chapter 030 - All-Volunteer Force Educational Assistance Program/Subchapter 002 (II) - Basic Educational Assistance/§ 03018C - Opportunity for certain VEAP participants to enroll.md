@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(II) the Secretary concerned shall reduce the retired or retainer pay of the qualified individual by,
 
-> &emsp;an amount equal to the difference between $2,700 and the total amount of reductionsunder clause (i), which shall be paid into the Treasury of the United States as miscellaneous receipts.
+> &emsp;an amount equal to the difference between $2,700 and the total amount of reductions under clause (i), which shall be paid into the Treasury of the United States as miscellaneous receipts.
 
 (B)(i) The Secretary concerned shall provide for an 18-month period, beginning on the date the qualified individual makes an election under paragraph (1), for the qualified individual to pay that Secretary the amount due under subparagraph (A).
 

@@ -24,7 +24,7 @@ Any applicant for credit may refuse to provide any information requested pursuan
 
 #### (2) Limited access
 
-&emsp;If a financial institution determines that a loan underwriter or other officer or employee of a financial institution, or any affiliate of a financial institution, involved in making any determination concerning an application for credit should have access to any information provided by the applicant pursuant to a request under subsection (b), the financial institution shall provide notice to the applicant of the access of the underwriter to such information, along with notice that the financial institution may not discriminate on the basis of such information.
+&emsp;If a financial institution determines that a loan underwriter or other officer or employee of a financial institution, or any affiliate of afinancial institution, involved in making any determination concerning an application for credit should have access to any information provided by the applicant pursuant to a request under subsection (b), the financial institution shall provide notice to the applicant of the access of the underwriter to such information, along with notice that the financial institution may not discriminate on the basis of such information.
 
 #### (e) Form and manner of information
 

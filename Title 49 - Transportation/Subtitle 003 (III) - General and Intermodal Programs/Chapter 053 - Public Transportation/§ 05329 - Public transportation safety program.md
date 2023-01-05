@@ -492,7 +492,7 @@ In general.—A State safety oversight program shall provide the State safety ov
 
 &emsp;&emsp;(B)
 
-Policies and procedures.—A State safety oversight agency, in consultation with each rail fixed guideway public transportation agency that the State safety oversight agency oversees, shall establish policies and procedures regarding the access ofthe State safety oversight agency to conduct inspections of the rail fixed guideway public transportation system, including access for inspections that occur without advance notice to the rail fixed guideway public transportation agency.
+Policies and procedures.—A State safety oversight agency, in consultation with each rail fixed guideway public transportation agency that the State safety oversight agency oversees, shall establish policies and procedures regarding the access of the State safety oversight agency to conduct inspections of the rail fixed guideway public transportation system, including access for inspections that occur without advance notice to the rail fixed guideway public transportation agency.
 
 &emsp;(2)
 
@@ -532,7 +532,7 @@ Special directive.—The Secretary shall issue a special directive to each State
 
 Enforcement.—The Secretary may use any authority under this section, including any enforcement action authorized under subsection (g), to ensure the compliance of a State safety oversight agency or State safety oversight program with this subsection.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 830; Pub. L. 109–59, title III, §3028(a), Aug. 10, 2005, 119 Stat. 1624; Pub. L. 112–141, div. B, §20021(a), July 6, 2012, 126 Stat. 709; Pub. L. 114–94, div. A, title III, §3013, Dec. 4, 2015, 129 Stat. 1476; Pub. L. 117–58, div. C, §30012(a), Nov. 15, 2021, 135 Stat. 904.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 830; Pub. L. 109–59, title III, §3028(a), Aug. 10, 2005, 119 Stat. 1624; Pub. L. 112–141, div. B, §20021(a), July 6, 2012, 126 Stat. 709; Pub. L. 114–94, div. A, titleIII, §3013, Dec. 4, 2015, 129 Stat. 1476; Pub. L. 117–58, div. C, §30012(a), Nov. 15, 2021, 135 Stat. 904.)
 
 #### Applicability of Amendment
 
@@ -582,7 +582,7 @@ Subsec. (b)(2)(D) to (G). Pub. L. 117–58, §30012(a)(1)(A)(iii)–(vii), added
 
 Subsec. (b)(3). Pub. L. 117–58, §30012(a)(1)(B), added par. (3).
 
-Subsec. (c). Pub. L. 117–58, §30012(a)(2), struck out par. (1) designation and heading and par. (2). Prior to amendment, text of par. (2) read as follows: "Not later than 90 days after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall establish interim provisions for the certification and training of the personnel described in paragraph (1),which shall be in effect until the effective date of the final rule issued by the Secretary to implement this subsection."
+Subsec. (c). Pub. L. 117–58, §30012(a)(2), struck out par. (1) designation and heading and par. (2). Prior to amendment, text of par. (2) read as follows: "Not later than 90 days after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall establish interim provisions for the certification and training of the personnel described in paragraph (1), which shall be in effect until the effective date of the final rule issued by the Secretary to implement this subsection."
 
 Subsec. (d)(1). Pub. L. 117–58, §30012(a)(3)(A)(i), substituted "Each recipient" for "Effective 1 year after the effective date of a final rule issued by the Secretary to carry out this subsection, each recipient" in introductory provisions.
 

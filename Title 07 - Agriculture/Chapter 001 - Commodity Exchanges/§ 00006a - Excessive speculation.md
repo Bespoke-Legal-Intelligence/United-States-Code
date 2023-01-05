@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with the standards set forth in paragraph (1) of this subsection and consistent with the good faith exception cited in subsection (b)(2), with respect to physical commodities other than excluded commodities as defined by the Commission, the Commission shall by rule, regulation, or order establish limits on the amount of positions, as appropriate, other than bona fide hedgepositions, that may be held by any person with respect to contracts of sale for future delivery or with respect to options on the contracts or commodities traded on or subject to the rules of a designated contract market.
+&emsp;&emsp;In accordance with the standards set forth in paragraph (1) of this subsection and consistent with the good faith exception cited in subsection (b)(2), with respect to physical commodities other than excluded commodities as defined by the Commission, the Commission shall by rule, regulation, or order establish limits on the amount of positions, as appropriate, other than bona fide hedge positions, that may be held by any personwith respect to contracts of sale for future delivery or with respect to options on the contracts or commodities traded on or subject to the rules of a designated contract market.
 
 #### (B) Timing
 

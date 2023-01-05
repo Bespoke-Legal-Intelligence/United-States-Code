@@ -50,7 +50,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (1) In general
 
-&emsp;Subsection (a) of section 103 shall apply to any obligation (not described in paragraph (2)) issued by an Indian tribal government (or subdivision thereof) only if such obligation is part of an issue substantially all of the proceeds of which are to be used in the exercise of any essential governmental function.
+&emsp;Subsection (a) of section 103 shall apply to any obligation (not described in paragraph (2))issued by an Indian tribal government (or subdivision thereof) only if such obligation is part of an issue substantially all of the proceeds of which are to be used in the exercise of any essential governmental function.
 
 #### (2) No exemption for private activity bonds
 
@@ -132,7 +132,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (d) Treatment of subdivisions of Indian tribal governments as political subdivisions
 
-For the purposes specified in subsection (a), a subdivision of an Indian tribal government shall be treated as a political subdivision of a State if (and only if) the Secretary determines (after consultation with the Secretary of the Interior) that such subdivision has been delegated the right to exercise one or more of the substantial governmental functions of the Indian tribal government.
+For the purposes specified in subsection (a), a subdivision of an Indian tribal government shall be treated as a political subdivision of a State if\(and only if) the Secretary determines (after consultation with the Secretary of the Interior) that such subdivision has been delegated the right to exercise one or more of the substantial governmental functions of the Indian tribal government.
 
 #### (e) Essential governmental function
 
@@ -244,7 +244,7 @@ Pub. L. 100–203, title X, §10632(c), Dec. 22, 1987, 101 Stat. 1330–457, pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 112(b)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 112(b)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 123(b)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in the case of scholarships and fellowships granted after Aug. 16, 1986, see section 151(d) of Pub. L. 99–514, set out as a note under section 1 of this title.
 

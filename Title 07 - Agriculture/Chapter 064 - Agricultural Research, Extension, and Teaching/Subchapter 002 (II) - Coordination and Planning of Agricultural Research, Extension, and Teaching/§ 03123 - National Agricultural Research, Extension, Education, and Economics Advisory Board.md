@@ -106,7 +106,7 @@ The Advisory Board shall—
 
 &emsp;(2) evaluate the results and effectiveness of agricultural research, extension, education, and economics with respect to the policies and priorities and make recommendations to the Secretary based on such evaluation;
 
-&emsp;(3) review and make recommendations to the Under Secretary of Agriculture for Research, Education, and Economics on the research, extension, education, and economics portion of the draft strategic plan required under section 306 of title 5;
+&emsp;(3) review and make recommendations to the Under Secretary of Agriculture for Research, Education, and Economics on the research, extension, education, and economics portion ofthe draft strategic plan required under section 306 of title 5;
 
 &emsp;(4) review and make recommendations on the mechanisms of the Department of Agriculture for technology assessment (which should be conducted by qualified professionals) for the purposes of—
 
@@ -122,7 +122,7 @@ The Advisory Board shall—
 
 #### (1) Duties of Advisory Board
 
-&emsp;In carrying out this section, the Advisory Board shall consult with any appropriate agencies of the Department of Agriculture and solicit opinions and recommendations frompersons who will benefit from and use federally funded agricultural research, extension, education, and economics.
+&emsp;In carrying out this section, the Advisory Board shall consult with any appropriate agencies of the Department of Agriculture and solicit opinions and recommendations from persons who will benefit from and use federally funded agricultural research, extension, education, and economics.
 
 #### (2) Duties of Secretary
 
@@ -136,9 +136,9 @@ The Advisory Board shall—
 
 A member of the Advisory Board shall be appointed by the Secretary for a term of up to 3 years. The members of the Advisory Board shall be appointed to serve staggered terms.
 
-#### (f) Federal Advisory Committee Act
+#### (f) Chapter 10 of title 5
 
-The Advisory Board shall be deemed to have filed a charter for the purpose of section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+The Advisory Board shall be deemed to have filed a charter for the purpose of section 1008(c) of title 5.
 
 #### (g) Annual limitation on Advisory Board expenses
 
@@ -154,7 +154,7 @@ The Advisory Board shall be deemed to have filed a charter for the purpose of se
 
 The Advisory Board shall remain in existence until September 30, 2023.
 
-(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538; Pub. L. 107–171, title VII, §§7133, 7209(a), May 13, 2002, 116 Stat. 435, 444; Pub. L. 110–234, title VII, §§7102(a), 7511(c)(8), May 22, 2008, 122 Stat. 1214, 1268; Pub. L. 110–246, §4(a), title VII, §§7102(a), 7511(c)(8), June 18, 2008, 122 Stat. 1664, 1975, 2029; Pub. L. 113–79, title VII, §7102, Feb. 7, 2014, 128 Stat. 863; Pub. L. 115–334, title VII, §7103, Dec. 20, 2018, 132 Stat. 4781.)
+(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538; Pub. L. 107–171, title VII, §§7133, 7209(a), May 13, 2002, 116 Stat. 435, 444; Pub. L. 110–234, title VII, §§7102(a), 7511(c)(8), May 22, 2008, 122 Stat. 1214, 1268; Pub. L. 110–246, §4(a), title VII, §§7102(a), 7511(c)(8), June 18, 2008, 122 Stat. 1664, 1975, 2029; Pub. L. 113–79, title VII, §7102, Feb. 7, 2014, 128 Stat. 863; Pub. L. 115–334, title VII, §7103, Dec. 20, 2018, 132 Stat. 4781; Pub. L. 117–286, §4(a)(31), Dec. 27, 2022, 136 Stat. 4308.)
 
 #### <b>Editorial Notes</b>
 
@@ -166,8 +166,6 @@ Act of August 30, 1890, referred to in subsec. (b)(3)(C)(ii), is act Aug. 30, 18
 
 For definition of "this chapter", referred to in subsec. (d)(2), see note set out under section 3102 of this title.
 
-Section 9 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 9 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
@@ -175,6 +173,8 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "section 1008(c) of title 5." for "section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.)." in text.
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–334, §7103(1)(A), substituted "15" for "25".
 
@@ -196,7 +196,7 @@ Subsec. (c)(4). Pub. L. 115–334, §7103(2)(C), inserted "and make recommendati
 
 Subsec. (h). Pub. L. 115–334, §7103(3), substituted "2023" for "2018".
 
-<b>2014</b>—Subsec. (c)(1). Pub. L. 113–79, §7102(b)(1), substituted "Committee on Appropriations of the Senate on—" for "Committee on Appropriations of the Senate on long-term and short-term national policies and priorities, as set forth in section 3101 of this title, relatingto agricultural research, extension, education, and economics;" and added subpars. (A) and (B).
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–79, §7102(b)(1), substituted "Committee on Appropriations of the Senate on—" for "Committee on Appropriations of the Senate on long-term and short-term national policies and priorities, as set forth in section 3101 of this title, relating to agricultural research, extension, education, and economics;" and added subpars. (A) and (B).
 
 Subsec. (c)(4)(B). Pub. L. 113–79, §7102(b)(3)(A), substituted "national research policies and priorities that are consistent with the purposes specified in" for "the national research policies and priorities set forth in".
 

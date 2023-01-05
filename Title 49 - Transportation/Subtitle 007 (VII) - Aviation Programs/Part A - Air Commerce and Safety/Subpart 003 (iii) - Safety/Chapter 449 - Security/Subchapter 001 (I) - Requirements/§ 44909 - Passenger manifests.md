@@ -76,7 +76,7 @@ In general.—The Secretary of Homeland Security shall establish a timely and fa
 
 &emsp;&emsp;&emsp;(ii)
 
-Records.—The process shall include the establishment of a method by which the Secretary of Homeland Security will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Department of Homeland Security record shall contain information determined by the Secretary of Homeland Security to authenticate the identity of such a passenger or individual.
+Records.—The process shall include the establishment of a method by which the Secretary of Homeland Security will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeateddelays of misidentified passengers and other individuals, the Department of Homeland Security record shall contain information determined by the Secretary of Homeland Security to authenticate the identity of such a passenger or individual.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1211; Pub. L. 106–181, title VII, §718, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §115, Nov. 19, 2001, 115 Stat. 623; Pub. L. 108–458, title IV, §4012(a)(2), Dec. 17, 2004, 118 Stat. 3717; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 115–254, div. K, title I, §1991(d)(8), Oct. 5, 2018, 132 Stat. 3633.)
 
@@ -150,7 +150,7 @@ Subsec. (c)(6). Pub. L. 108–458, §4012(a)(2)(B), added par. (6).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Transfer of Functions
 

@@ -18,7 +18,7 @@ Subject to section 1508(j)(2)(A) of this title, the Corporation, subject to the 
 
 #### (e) Bylaws and regulations
 
-The Corporation may adopt, amend, and repeal bylaws, rules, and regulations governing the manner in which its business may be conducted and the powers granted to it by law may be exercised and enjoyed.
+The Corporation may adopt, amend, and repeal bylaws, rules, and regulations governingthe manner in which its business may be conducted and the powers granted to it by law may be exercised and enjoyed.
 
 #### (f) Mails
 
@@ -62,7 +62,7 @@ The Corporation, with the consent of any board, commission, independent establis
 
 #### (3) Sharing of records
 
-&emsp;Notwithstanding section 1502(c) of this title, records submitted in accordance with this subchapter and section 7333 of this title shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, applicants who have received payment under section 1522(b)(2)(E) of this title, and approved insurance providers for use in carrying out this subchapter, suchsection 7333 of this title, and other agricultural programs.
+&emsp;Notwithstanding section 1502(c) of this title, records submitted in accordance with this subchapter and section 7333 of this title shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, applicants who have received payment under section 1522(b)(2)(E) of this title, and approved insurance providers for use in carrying out this subchapter, such section 7333 of this title, and other agricultural programs.
 
 #### (i) Expenditures
 
@@ -158,7 +158,7 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 #### References in Text
 
-The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which was set out as a note under section 3501 of Title 44, Public Printing and Documents, prior to repeal by Pub. L. 115–435, title III, §302(c)(1), title IV, §403, Jan. 14, 2019, 132 Stat. 5552, 5557, effective 180 days after Jan. 14, 2019. See parts A to C of subchapter III of chapter 35 of Title 44, especially section 3572 of Title 44, which relates to confidential information protection.
+The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which was set out as a note under section 3501 of Title 44, Public Printing and Documents, prior to repeal by Pub. L. 115–435, title III, §302(c)(1),title IV, §403, Jan. 14, 2019, 132 Stat. 5552, 5557, effective 180 days after Jan. 14, 2019. See parts A to C of subchapter III of chapter 35 of Title 44, especially section 3572 of Title 44, which relates to confidential information protection.
 
 Section 405(c)(2)(C)(iii) of title 42, referred to in subsec. (m)(1), was redesignated section 405(c)(2)(C)(iv) of title 42 by Pub. L. 103–296, title III, §321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
 

@@ -16,5 +16,5 @@ Changes were made in phraseology.
 
 #### Change of Name
 
-"United States magistrate judges" substituted for "United States magistrates" in section catchline and "United States magistrate judge" substituted for "United States magistrate" in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, "United States magistrates" and "United States magistrate" substituted for "United States commissioners" and "United States commissioner", respectively, pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of this title.
+"United States magistrate judges" substituted for "United States magistrates" in section catchline and"United States magistrate judge" substituted for "United States magistrate" in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, "United States magistrates" and "United States magistrate" substituted for "United States commissioners" and "United States commissioner", respectively, pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of this title.
 

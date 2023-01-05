@@ -10,5 +10,5 @@ The terms governing the termination of residential or motor vehicle leases and t
 
 The Servicemembers Civil Relief Act, referred to in text, is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 etseq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 

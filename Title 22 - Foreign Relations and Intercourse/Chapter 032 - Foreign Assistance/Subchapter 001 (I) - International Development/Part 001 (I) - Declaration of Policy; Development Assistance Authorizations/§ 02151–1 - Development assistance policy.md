@@ -8,11 +8,11 @@ Provision of development resources must be adapted to the needs and capabilities
 
 Bilateral assistance and United States participation in multilateral institutions shall emphasize programs in support of countries which pursue development strategies designed to meet basic human needs and achieve self-sustaining growth with equity.
 
-The Congress declares that the principal purpose of United States bilateral development assistance is to help the poor majority of people indeveloping countries to participate in a process of equitable growth through productive work and to influence decisions that shape their lives, with the goal of increasing their incomes and their access to public services which will enable them to satisfy their basic needs and lead lives of decency, dignity, and hope. Activities shall be emphasized that effectively involve the poor in development by expanding their access to the economy through services and institutions at the local level, increasing their participation in the making of decisions that affect their lives, increasing labor-intensive production and the use of appropriate technology, expanding productive investment and services out from major cities to small towns and rural areas, and otherwise providing opportunities for the poor to improve their lives through their own efforts. Participation of the United States in multilateral institutions shall also place appropriate emphasis on these principles.
+The Congress declares that the principal purpose of United States bilateral development assistance is to help the poor majority of people in developing countries to participate in a process of equitable growth through productive work and to influence decisions that shape their lives, with the goal of increasing their incomes and their access to public services which will enable them to satisfy their basic needs and lead lives of decency, dignity, and hope. Activities shall be emphasized that effectively involve the poor in development by expanding their access to the economy through services and institutions at the local level, increasing their participation in the making of decisions that affect their lives, increasing labor-intensive production and the use of appropriate technology, expanding productive investment and services out from major cities to small towns and rural areas, and otherwise providing opportunities for the poor to improve their lives through their own efforts. Participation of the United States in multilateral institutions shall also place appropriate emphasis on these principles.
 
 #### (b) Form of assistance; principles governing assistance
 
-Assistance under this part should be used not only for the purpose of transferring financial resources to developing countries, but also to help countries solve development problems in accordance with a strategy that aims to insure wide participation of the poor in the benefits of development on a sustained basis. Moreover, assistance shall be provided in a prompt and effective manner, using appropriate United States institutions for carrying out this strategy. In order to achieve these objectives and the broad objectives set forth in section 2151 of this title and in subsection (a) of this section, bilateral development assistance authorized by this chapter shall be carried out in accordance with the following principles:
+Assistance under this part should be used not only for the purpose of transferring financial resources to developing countries, but also to help countries solve development problems in accordance with a strategy that aims to insure wide participation of the poor in the benefits of development on a sustained basis. Moreover, assistance shall be provided in a prompt and effective manner, using appropriate United States institutions for carrying out this strategy. In orderto achieve these objectives and the broad objectives set forth in section 2151 of this title and in subsection (a) of this section, bilateral development assistance authorized by this chapter shall be carried out in accordance with the following principles:
 
 &emsp;(1) Development is primarily the responsibility of the people of the developing countries themselves. Assistance from the United States shall be used in support of, rather than substitution for, the self-help efforts that are essential to successful development programs and shall be concentrated in those countries that take positive steps to help themselves. Maximum effort shall be made, in the administration of subchapter I of this chapter, to stimulate the involvement of the people in the development process through the encouragement of democratic participation in private and local governmental activities and institution building appropriate to the requirements of the recipient countries.
 
@@ -46,7 +46,7 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(9) To the maximum extent practicable, United States private investment should be encouraged in economic and social development programs to which the United States lends support.
 
-&emsp;(10) Assistance shall be planned and utilized to encourage regional cooperation by developing countries in the solution of commonproblems and the development of shared resources.
+&emsp;(10) Assistance shall be planned and utilized to encourage regional cooperation by developing countries in the solution of common problems and the development of shared resources.
 
 &emsp;(11) Assistance efforts of the United States shall be planned and furnished to the maximum extent practicable in coordination and cooperation with assistance efforts of other countries, including the planning and implementation of programs and projects on a multilateral and multidonor basis.
 
@@ -68,13 +68,11 @@ The Congress, recognizing the desirability of overcoming the worst aspects of ab
 
 (Pub. L. 87–195, pt. I, §102, as added Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 938; amended Pub. L. 96–53, title I, §104(a), Aug. 14, 1979, 93 Stat. 360; Pub. L. 99–83, title III, §301, Aug. 8, 1985, 99 Stat. 213; Pub. L. 106–309, title II, §203(b), Oct. 17, 2000, 114 Stat. 1092.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -88,6 +86,12 @@ Subsec. (b)(17). Pub. L. 106–309, §203(b)(2), added par. (17).
 
 Subsec. (b)(7). Pub. L. 96–53, §104(a)(2), inserted applicability to promotion of development and production of energy.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1985 Amendment
 
 Pub. L. 99–83, title XIII, §1301, Aug. 8, 1985, 99 Stat. 280, provided that: "Except as otherwise provided in this Act, this Act \[see Short Title of 1985 Amendment note set out under section 2151 of this title\] shall take effect on October 1, 1985."
@@ -99,6 +103,8 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) have an annual tuition and fee increase, expressed as a percentage change, for the most recent academic year for which satisfactory data is available, that is in the lowest 20 percent of such increases for each category described in subsection (b);
 
-&emsp;&emsp;(B) are public institutions of higher education that have tuition and fees that are in the lowest quartile of institutions in each category described in subsection (b)(1), (b)(4), or (b)(7); or
+&emsp;&emsp;(B) are public institutions of higher education that have tuition and fees that are inthe lowest quartile of institutions in each category described in subsection (b)(1), (b)(4), or (b)(7); or
 
 &emsp;&emsp;(C) are public institutions of higher education that have a tuition and fee increase of less than $600 for a first-time, full-time undergraduate student.
 

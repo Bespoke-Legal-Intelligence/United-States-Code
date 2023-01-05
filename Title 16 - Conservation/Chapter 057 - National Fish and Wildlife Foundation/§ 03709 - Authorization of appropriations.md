@@ -70,7 +70,7 @@ Amounts provided as a grant by the Foundation shall not be used for—
 
 Any gifts, devises, or bequests of amounts or other property, or any other amounts or other property, transferred to, deposited with, or otherwise in the possession of the Foundation pursuant to this Act, may be made available by the Foundation to Federal departments, agencies, or instrumentalities and may be accepted and expended (or the disposition of the amounts or property directed), without further appropriation, by those Federal departments, agencies, or instrumentalities, subject to the condition that the amounts or property be used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources.
 
-(Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, §207, Nov. 1, 2000, 114 Stat. 1781; Pub. L. 107–141, §6, Feb. 12, 2002, 116 Stat. 14; Pub. L. 109–363, title II, §§202, 204, Oct. 17, 2006, 120 Stat. 2075; Pub. L. 116–188, title I, §107(c), Oct. 30, 2020, 134 Stat. 919.)
+(Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, §207, Nov. 1, 2000, 114 Stat. 1781; Pub. L. 107–141, §6, Feb. 12, 2002, 116 Stat. 14; Pub. L. 109–363, title II, §§202, 204, Oct. 17, 2006, 120 Stat. 2075; Pub. L. 116–188, title I, §107(c), Oct. 30, 2020, 134 Stat. 919.)
 
 #### <b>Editorial Notes</b>
 
@@ -106,7 +106,7 @@ Authorization.—There are authorized to be appropriated to the Department of th
 
 "(b)
 
-Use of Amounts Appropriated.—(1) Subject to paragraph (2), amounts appropriated under this section shall be made available to the Foundation for use for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
+Use of Amounts Appropriated.—(1) Subject to paragraph (2), amounts appropriated under this section shall be made available to the Foundation for use formatching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
 
 "(2) No Federal funds authorized under this section shall be used by the Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
 

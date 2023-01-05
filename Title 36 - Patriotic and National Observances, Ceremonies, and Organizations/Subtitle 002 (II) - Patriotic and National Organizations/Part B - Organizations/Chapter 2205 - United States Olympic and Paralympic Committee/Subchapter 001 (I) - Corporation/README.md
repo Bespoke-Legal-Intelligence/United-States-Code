@@ -18,3 +18,4 @@
 - [&sect; 220511 - Reports and audits](%C2%A7%20220511%20-%20Reports%20and%20audits.md)
 - [&sect; 220512 - Complete teams](%C2%A7%20220512%20-%20Complete%20teams.md)
 - [&sect; 220513 - Annual amateur athlete survey](%C2%A7%20220513%20-%20Annual%20amateur%20athlete%20survey.md)
+- [&sect; 220514 - Annual report on equal treatment of athletes](%C2%A7%20220514%20-%20Annual%20report%20on%20equal%20treatment%20of%20athletes.md)

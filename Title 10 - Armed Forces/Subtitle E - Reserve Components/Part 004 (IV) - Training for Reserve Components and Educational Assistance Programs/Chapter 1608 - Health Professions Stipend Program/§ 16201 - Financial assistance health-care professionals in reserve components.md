@@ -34,7 +34,7 @@ Medical and Dental School Students.—(1) Under the stipend program under this c
 
 (3)(A) Subject to subparagraph (B), the period for which a participant is required to serve in the Selected Reserve under the agreement pursuant to paragraph (2)(D) shall be one year for each period of six months, or part thereof, for which the participant is provided a stipend pursuant to the agreement.
 
-(B) In the case of a participant who enters into a subsequent agreement under subsection (c) and successfully completes residency training in a specialty designated by the Secretary of Defense as a specialty critically needed by themilitary department in wartime, the requirement to serve in the Selected Reserve may be reduced to one year for each year, or part thereof, for which the stipend was provided while enrolled in medical or dental school.
+(B) In the case of a participant who enters into a subsequent agreement under subsection (c) and successfully completes residency training in a specialty designated by the Secretary of Defense as a specialty critically needed by the military department in wartime, the requirement to serve in the Selected Reserve may be reduced to one year for each year, or part thereof, for which the stipend was provided while enrolled in medical or dental school.
 
 (c)
 

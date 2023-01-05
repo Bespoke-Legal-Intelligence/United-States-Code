@@ -92,7 +92,7 @@ The Assistant Secretary may make competitive grants under the program to—
 
 &emsp;(3) ensure access to broadband service by community anchor institutions;
 
-&emsp;(4) facilitate access to broadband service by low-income, unemployed, aged, and otherwisevulnerable populations in order to provide educational and employment opportunities to members of such populations;
+&emsp;(4) facilitate access to broadband service by low-income, unemployed, aged, and otherwise vulnerable populations in order to provide educational and employment opportunities to members of such populations;
 
 &emsp;(5) construct and deploy broadband facilities that improve public safety broadband communications services; and
 
@@ -152,7 +152,7 @@ Concurrent with the issuance of the Request for Proposal for grant applications 
 
 #### (l) Map of service availability and capability
 
-The Assistant Secretary shall develop and maintain a comprehensive nationwide inventory map of existing broadband service capability and availability in the United States that depicts the geographic extent to which broadband service capability is deployed and available from a commercial provider or public provider throughout each State. Not later than 2 years after February 17, 2009, the Assistant Secretary shall make the broadband inventory map developed and maintained pursuant to this section accessible by the public on a World Wide Website of the National Telecommunications and Information Administration in a form that is interactive and searchable.
+The Assistant Secretary shall develop and maintain a comprehensive nationwide inventory map of existing broadband service capability and availability in the United States that depicts the geographic extent to which broadband service capability is deployed and available from a commercial provider or public provider throughout each State. Not later than 2 years after February 17, 2009, the Assistant Secretary shall make the broadband inventory map developed and maintained pursuant to this section accessible by the public on a World Wide Web site of the National Telecommunications and Information Administration in a form that is interactive and searchable.
 
 #### (m) Regulations
 

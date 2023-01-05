@@ -1,6 +1,6 @@
 ### §7509. Expenditures incurred by the United States Postal Service
 
-The Postmaster General or his delegate shall at least once a month transfer to the Treasury of the United States a statement of the additional expenditures in the District of Columbia and elsewhere incurred by the United States Postal Service in performing the duties, if any, imposed upon such Service with respect to chapter 21, relating to the tax under the Federal Insurance Contributions Act, and the Secretary shall be authorized and directed to advance from time to time to the credit of the United States Postal Service, from appropriations made for the collection of the taxes imposed by chapter 21, such sums as may be required for such additional expenditures incurred by the United States Postal Service.
+The Postmaster General or his delegate shall at least once a month transfer to the Treasury of the United States a statement of the additional expenditures in the District of Columbia and elsewhere incurred by the United States Postal Service in performing the duties, if any, imposed upon such Service with respect to chapter 21, relating to the tax under the Federal Insurance Contributions Act, and the Secretary shall be authorized and directed to advance from time to time to the credit of the United StatesPostal Service, from appropriations made for the collection of the taxes imposed by chapter 21, such sums as may be required for such additional expenditures incurred by the United States Postal Service.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 899; Pub. L. 94–455, title XIX, §1906(a)(52), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834.)
 
@@ -8,7 +8,7 @@ The Postmaster General or his delegate shall at least once a month transfer to t
 
 #### References in Text
 
-The Federal Insurance Contributions Act, referred to in text, is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111,3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
+The Federal Insurance Contributions Act, referred to in text, is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
 
 #### Amendments
 

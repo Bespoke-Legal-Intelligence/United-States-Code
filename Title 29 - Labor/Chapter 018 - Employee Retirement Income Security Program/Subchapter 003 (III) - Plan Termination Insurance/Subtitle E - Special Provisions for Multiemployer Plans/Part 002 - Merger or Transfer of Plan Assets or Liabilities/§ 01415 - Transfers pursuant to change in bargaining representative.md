@@ -34,7 +34,7 @@ In any case in which an employer has completely or partially withdrawn from a mu
 
 #### (c) Reduction of amount of withdrawal liability of employer upon transfer of appropriate amount of assets and liabilities by plan sponsor of old plan to new plan
 
-If the plan sponsor of the old plan transfers the appropriate amount of assets and liabilities under this section to the new plan, then the amount of the employer's withdrawal liability (as determined under section 1381(b) of this title without regard to such transfer and this section)with respect to the old plan shall be reduced by the amount by which—
+If the plan sponsor of the old plan transfers the appropriate amount of assets and liabilities under this section to the new plan, then the amount of the employer's withdrawal liability (as determined under section 1381(b) of this title without regard to such transfer and this section) with respect to the old plan shall be reduced by the amount by which—
 
 &emsp;(1) the value of the unfunded vested benefits allocable to the employer which were transferred by the plan sponsor of the old plan to the new plan, exceeds
 
@@ -94,9 +94,9 @@ For purposes of this section—
 
 Section 1421 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 113–235, div. O, title I, §108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
 
-The Labor-Management Relations Act, 1947, referred to in subsec. (g)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
+The Labor-Management Relations Act, 1947, referred to in subsec. (g)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
-The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 #### Amendments
 

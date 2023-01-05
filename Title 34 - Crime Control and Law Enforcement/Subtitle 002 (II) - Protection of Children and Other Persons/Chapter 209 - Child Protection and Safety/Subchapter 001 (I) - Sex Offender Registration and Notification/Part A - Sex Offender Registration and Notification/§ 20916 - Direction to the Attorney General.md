@@ -2,7 +2,7 @@
 
 #### (a) Requirement that sex offenders provide certain Internet related information to sex offender registries
 
-The Attorney General, using the authority provided in section 114(a)(7) <sup>1</sup> of the Sex Offender Registration and Notification Act \[34 U.S.C. 20914(a)(7)\], shall require that each sex offenderprovide to the sex offender registry those Internet identifiers the sex offender uses or will use of any type that the Attorney General determines to be appropriate under that Act \[34 U.S.C. 20901 et seq.\]. These records of Internet identifiers shall be subject to the Privacy Act (5 U.S.C. 552a) to the same extent as the other records in the National Sex Offender Registry.
+The Attorney General, using the authority provided in section 114(a)(7) <sup>1</sup> of the Sex Offender Registration and Notification Act \[34 U.S.C. 20914(a)(7)\], shall require that each sex offender provide to the sex offender registry those Internet identifiers the sex offender uses or will use of any type that the Attorney General determines to be appropriate under that Act \[34 U.S.C. 20901 et seq.\]. These records of Internet identifiers shall be subject to the Privacy Act (5 U.S.C. 552a) to the same extent as the other records in the National Sex Offender Registry.
 
 #### (b) Timeliness of reporting of information
 
@@ -46,7 +46,7 @@ The Attorney General shall ensure that procedures are in place to notify each se
 
 #### References in Text
 
-The Sex Offender Registration and Notification Act, referred to in subsecs. (a) and (e)(3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to this subchapter. Section 114(a)(7) of the Act was redesignated section 114(a)(8) of the Act by Pub. L. 114–119, §6(a)(1)(A), Feb. 8, 2016, 130 Stat. 22. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (a) and (e)(3), is title I of Pub. L.109–248, July 27, 2006, 120 Stat. 590, which is classified principally to this subchapter. Section 114(a)(7) of the Act was redesignated section 114(a)(8) of the Act by Pub. L. 114–119, §6(a)(1)(A), Feb. 8, 2016, 130 Stat. 22. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
 This Act, referred to in subsec. (e), is Pub. L. 110–400, Oct. 13, 2008, 122 Stat. 4224, known as the Keeping the Internet Devoid of Sexual Predators Act of 2008, and also known as the KIDS Act of 2008, which enacted this section and section 20917 of this title, amended section 20981 of this title, and enacted provisions set out as notes under sections 10101 and 20981 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of this title and Tables.
 

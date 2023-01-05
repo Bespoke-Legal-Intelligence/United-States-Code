@@ -104,7 +104,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (5) Loan conversion
 
-&emsp;If the processor does not forfeit the collateral as described in paragraph (4), but instead further processes the in-process sugars andsyrups into raw cane sugar or refined beet sugar and repays the loan on the in-process sugars and syrups, the processor may obtain a loan under subsection (a) or (b) for the raw cane sugar or refined beet sugar, as appropriate.
+&emsp;If the processor does not forfeit the collateral as described in paragraph (4), but instead further processes the in-process sugars and syrups into raw cane sugar or refined beet sugar and repays the loan on the in-process sugars and syrups, the processor may obtain a loan under subsection (a) or (b) for the raw cane sugar or refined beet sugar, as appropriate.
 
 #### (6) Term of loan
 
@@ -154,7 +154,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (B) Tariff-rate quotas
 
-&emsp;&emsp;Subparagraph (A) shall not apply to sugars, syrups, or molasses that are within the quantities of tariff-rate quotas that are subject to the lower rate of duties.
+&emsp;&emsp;Subparagraph (A) shall not apply to sugars, syrups, or molasses that are within thequantities of tariff-rate quotas that are subject to the lower rate of duties.
 
 #### (4) Collection of information on Mexico
 
@@ -180,7 +180,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (h) Substitution of refined sugar
 
-For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule of the United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) producedby cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
+For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule of the United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) produced by cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
 
 #### (i) Effective period
 

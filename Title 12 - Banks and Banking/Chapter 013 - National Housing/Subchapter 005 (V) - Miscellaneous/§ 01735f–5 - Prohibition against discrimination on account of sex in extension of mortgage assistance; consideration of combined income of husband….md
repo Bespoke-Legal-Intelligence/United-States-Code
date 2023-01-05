@@ -20,7 +20,7 @@
 
 #### References in Text
 
-Section 1602(f) of title 15, referred to in subsec. (b)(2)(D), was redesignated section 1602(g) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(f) of title 15, referred to in subsec. (b)(2)(D), was redesignated section 1602(g) of title 15 byPub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 #### Amendments
 

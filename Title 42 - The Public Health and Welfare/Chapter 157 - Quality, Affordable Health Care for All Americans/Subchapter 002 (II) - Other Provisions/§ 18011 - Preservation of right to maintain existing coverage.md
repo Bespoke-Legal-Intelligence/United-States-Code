@@ -48,7 +48,7 @@ With respect to a group health plan or health insurance coverage in which an ind
 
 #### (c) Allowance for new employees to join current plan
 
-A group health plan that provides coverage on March 23, 2010, may provide for the enrolling ofnew employees (and their families) in such plan, and this subtitle and subtitle A (and the amendments made by such subtitles) shall not apply with respect to such plan and such new employees (and their families).
+A group health plan that provides coverage on March 23, 2010, may provide for the enrolling of new employees (and their families) in such plan, and this subtitle and subtitle A (and the amendments made by such subtitles) shall not apply with respect to such plan and such new employees (and their families).
 
 #### (d) Effect on collective bargaining agreements
 
@@ -60,17 +60,13 @@ In this title,<sup>1</sup> the term "grandfathered health plan" means any group 
 
 (Pub. L. 111–148, title I, §1251, title X, §10103(d), Mar. 23, 2010, 124 Stat. 161, 895; Pub. L. 111–152, title II, §2301(a), Mar. 30, 2010, 124 Stat. 1081; Pub. L. 116–260, div. BB, title I, §102(d)(2), Dec. 27, 2020, 134 Stat. 2797.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 102(d)(2) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
-This subtitle, referred to in subsecs. (a)(2), (4)(B), (c), and (d), is subtitle C (§§1201–1255) of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 154, which enacted this subchapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitle C to the Code, see Tables.
+This subtitle, referred to in subsecs. (a)(2), (4)(B), (c), and (d), is subtitle C (§§1201–1255) of title I of Pub. L.111–148, Mar. 23, 2010, 124 Stat. 154, which enacted this subchapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitle C to the Code, see Tables.
 
 Subtitle A, referred to in subsecs. (a)(2), (3), (c), and (d), is subtitle A (§§1001–1004) of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. For complete classification of subtitle A to the Code, see Tables.
 

@@ -68,7 +68,7 @@ Definitions.—For purposes of this section, the following definitions shall app
 
 Money transmitting business.—The term "money transmitting business" means any business other than the United States Postal Service which—
 
-&emsp;&emsp;(A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers' checks, and other similar instruments or any other person who engages as a business in the transmission of currency, funds, or value that substitutes forcurrency, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
+&emsp;&emsp;(A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers' checks, and other similar instruments or any other person who engages as a business in the transmission of currency, funds, or value that substitutes for currency, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
 
 &emsp;&emsp;(B) is required to file reports under section 5313; and
 
@@ -110,7 +110,7 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (b)(3), i
 
 Subsec. (d)(2). Pub. L. 116–283, §6102(d)(2)(B), substituted "currency, funds, or value that substitutes for currency" for "currency or funds denominated in the currency of any country" after "accepting", substituted "currency, funds, or value that substitutes for currency" for "currency or funds, or the value of the currency or funds," after "transmitting the", and inserted ", including" after "means".
 
-<b>2001</b>—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon "or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;".
+<b>2001</b>—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon "or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as abusiness in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

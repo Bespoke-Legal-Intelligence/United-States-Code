@@ -2,7 +2,7 @@
 
 #### (a) Penalties; forfeitures
 
-Any person who engages in a continuing criminal enterprise shall be sentenced to a term of imprisonment which may not be less than 20 years and which may be up to life imprisonment, to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, and to the forfeiture prescribed in section 853 of this title; except that if any person engages in such activity after one or more prior convictions of him under this section have become final, he shall be sentenced to a term of imprisonment which may not be less than 30 years and which may be up to life imprisonment, to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, and to the forfeiture prescribed in section 853 of this title.
+Any person who engages in a continuing criminal enterprise shall be sentenced to a termof imprisonment which may not be less than 20 years and which may be up to life imprisonment, to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, and to the forfeiture prescribed in section 853 of this title; except that if any person engages in such activity after one or more prior convictions of him under this section have become final, he shall be sentenced to a term of imprisonment which may not be less than 30 years and which may be up to life imprisonment, to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, and to the forfeiture prescribed in section 853 of this title.
 
 #### (b) Life imprisonment for engaging in continuing criminal enterprise
 
@@ -50,17 +50,17 @@ In the case of any sentence imposed under this section, imposition or execution 
 
 For the purposes of subsection (b), in the case of continuing criminal enterprise involving methamphetamine or its salts, isomers, or salts of isomers, paragraph (2)(A) shall be applied by substituting "200" for "300", and paragraph (2)(B) shall be applied by substituting "$5,000,000" for "$10 million dollars".
 
-(Pub. L. 91–513, title II, §408, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 98–473, title II, §§224(b), formerly §224(c), 305, Oct. 12, 1984, 98 Stat. 2030, 2050; Pub. L. 99–570, title I, §§1005(b)(2), 1252, 1253, Oct. 27, 1986, 100 Stat. 3207–6, 3207–14; Pub. L.100–690, title VI, §6481, title VII, §7001, Nov. 18, 1988, 102 Stat. 4382, 4387; Pub. L. 103–322, title XXXIII, §§330003(e), 330009(d), 330014, Sept. 13, 1994, 108 Stat. 2141, 2143, 2146; Pub. L. 104–132, title I, §108, title IX, §903(b), Apr. 24, 1996, 110 Stat. 1226, 1318; Pub. L. 109–177, title II, §§221, 222(c), title VII, §733, Mar. 9, 2006, 120 Stat. 231, 232, 270.)
+(Pub. L. 91–513, title II, §408, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 98–473, title II, §§224(b), formerly §224(c), 305, Oct. 12, 1984, 98 Stat. 2030, 2050; Pub. L. 99–570, title I, §§1005(b)(2), 1252, 1253, Oct. 27, 1986, 100 Stat. 3207–6, 3207–14; Pub. L. 100–690, title VI, §6481, title VII, §7001, Nov. 18, 1988, 102 Stat. 4382, 4387; Pub. L. 103–322, title XXXIII, §§330003(e), 330009(d), 330014, Sept. 13, 1994, 108 Stat. 2141, 2143, 2146; Pub. L. 104–132, title I, §108, title IX, §903(b), Apr. 24, 1996, 110 Stat. 1226, 1318; Pub. L. 109–177, title II, §§221, 222(c), title VII, §733, Mar. 9, 2006, 120 Stat. 231, 232, 270.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 841(b)(1)(A), referred to in subsec. (e)(1)(A), was in the original a reference to "section 841(b)(1)(A)" but probably should be a reference to "section 401(b)(1)(A)", meaning section 401(b)(1)(A) of Pub. L. 91–513, title II, Oct. 27, 1970, 84 Stat. 1260.
+Section 841(b)(1)(A), referred to in subsec. (e)(1)(A), was in the original a reference to "section 841(b)(1)(A)"but probably should be a reference to "section 401(b)(1)(A)", meaning section 401(b)(1)(A) of Pub. L. 91–513, title II, Oct. 27, 1970, 84 Stat. 1260.
 
 Section 960(b)(1), referred to in subsec. (e)(1)(A), was in the original a reference to "section 960(b)(1)" but probably should be a reference to "section 1010(b)(1)", meaning section 1010(b)(1) of Pub. L. 91–513, title III, Oct. 27, 1970, 84 Stat. 1290.
 
-Act of July 15, 1932 (D.C. Code, secs. 24–203—24–207), referred to in subsec. (d), is act July 15, 1932, ch. 492, 47 Stat. 696, as amended, which is not classified to the Code.
+Act of July 15, 1932 (D.C. Code, secs. 24–203—24–207), referred to in subsec. (d), is act July 15, 1932, ch. 492, 47 Stat. 696, which is not classified to the Code.
 
 #### Amendments
 

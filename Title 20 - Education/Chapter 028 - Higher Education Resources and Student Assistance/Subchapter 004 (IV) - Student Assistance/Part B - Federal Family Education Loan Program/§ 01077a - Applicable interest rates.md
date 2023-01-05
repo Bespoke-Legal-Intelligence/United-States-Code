@@ -38,7 +38,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 &emsp;&emsp;(II) 3.25 percent.
 
-&emsp;(ii) For any 12-month period beginning on July 1 of 2001 or any succeeding year, the ratedetermined under this subparagraph is determined on the preceding June 26 and is equal to—
+&emsp;(ii) For any 12-month period beginning on July 1 of 2001 or any succeeding year, the rate determined under this subparagraph is determined on the preceding June 26 and is equal to—
 
 &emsp;&emsp;(I) the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the last calendar week ending on or before such June 26; plus
 
@@ -94,7 +94,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a), (b), (d), and (e) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsections (a), (b), (d), and (e) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the firstdisbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -180,7 +180,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) Excess interest on loans after 1992 amendments, to borrowers with outstanding balances
 
-&emsp;If, with respect to a loan made on or after July 23, 1992, to a borrower, who on the date of entering into the note or other written evidence of the loan, has an outstanding balance of principal or interest on any other loan made, insured, or guaranteed under this part, the sum of the average of the bond equivalent rates of 91-day Treasury bills auctioned for that quarter and 3.1 percent is less than the applicable interest rate, then an adjustment shall be made—
+&emsp;If, with respect to a loan made on or after July 23, 1992, to a borrower, who on the date ofentering into the note or other written evidence of the loan, has an outstanding balance of principal or interest on any other loan made, insured, or guaranteed under this part, the sum of the average of the bond equivalent rates of 91-day Treasury bills auctioned for that quarter and 3.1 percent is less than the applicable interest rate, then an adjustment shall be made—
 
 &emsp;&emsp;(A) by calculating excess interest in the amount computed under paragraph (4) of this subsection; and
 
@@ -300,7 +300,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (h), with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+&emsp;Notwithstanding subsection (h), with respect to any loan made, insured, or guaranteedunder this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
 
 #### (2) PLUS loans
 
@@ -316,7 +316,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (4) Reduced rates for undergraduate subsidized loans
 
-&emsp;Notwithstanding subsection (h) and paragraph (1) of this subsection, with respect to any loan to an undergraduate student made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2,1078–3, or 1078–8 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be as follows:
+&emsp;Notwithstanding subsection (h) and paragraph (1) of this subsection, with respect to any loan to an undergraduate student made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2, 1078–3, or 1078–8 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be as follows:
 
 &emsp;&emsp;(A) For a loan for which the first disbursement is made on or after July 1, 2006, and before July 1, 2008, 6.8 percent on the unpaid principal balance of the loan.
 

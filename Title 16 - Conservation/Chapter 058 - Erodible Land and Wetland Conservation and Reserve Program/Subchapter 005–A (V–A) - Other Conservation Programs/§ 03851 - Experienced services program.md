@@ -46,7 +46,7 @@ The Secretary shall establish an experienced services program (referred to in th
 
 #### (3) Research, education, and economics services
 
-&emsp;With respect to services referred to in subsection (a)(2), the Secretary may carry out theprogram under the mission area referred to in such subsection to the extent that funds are specifically appropriated to provide such services under such mission area.
+&emsp;With respect to services referred to in subsection (a)(2), the Secretary may carry out the program under the mission area referred to in such subsection to the extent that funds are specifically appropriated to provide such services under such mission area.
 
 #### (d) Liability
 

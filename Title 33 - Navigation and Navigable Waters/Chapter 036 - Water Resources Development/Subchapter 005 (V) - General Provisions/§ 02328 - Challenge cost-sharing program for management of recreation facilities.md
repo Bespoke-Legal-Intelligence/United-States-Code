@@ -18,7 +18,7 @@ To implement the program under this section, the Secretary is authorized to ente
 
 #### (B) Use of visitor reservation services
 
-&emsp;&emsp;A non-Federal public entity described in subparagraph (A) may use, to manage fee collections and reservations under this section, any visitor reservation service that the Secretary has provided for by contract or interagency agreement, subject to such terms and conditions as the Secretary determines to be appropriate.
+&emsp;&emsp;A non-Federal public entity described in subparagraph (A) may use, to manage feecollections and reservations under this section, any visitor reservation service that the Secretary has provided for by contract or interagency agreement, subject to such terms and conditions as the Secretary determines to be appropriate.
 
 #### (2) Use of fees
 

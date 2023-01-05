@@ -14,3 +14,4 @@
 - [&sect; 03007 - Training and physical fitness](%C2%A7%2003007%20-%20Training%20and%20physical%20fitness.md)
 - [&sect; 03008 - Aviation accession training programs](%C2%A7%2003008%20-%20Aviation%20accession%20training%20programs.md)
 - [&sect; 03009 - Use of recruiting materials for public relations](%C2%A7%2003009%20-%20Use%20of%20recruiting%20materials%20for%20public%20relations.md)
+- [&sect; 03010 - Awards and decorations](%C2%A7%2003010%20-%20Awards%20and%20decorations.md)

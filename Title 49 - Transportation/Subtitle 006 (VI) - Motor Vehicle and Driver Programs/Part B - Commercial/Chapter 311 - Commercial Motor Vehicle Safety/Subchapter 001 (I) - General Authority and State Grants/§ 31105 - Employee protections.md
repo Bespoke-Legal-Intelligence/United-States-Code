@@ -38,7 +38,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 &emsp;(ii) reinstate the complainant to the former position with the same pay and terms and privileges of employment; and
 
-&emsp;(iii) pay compensatory damages, including backpay with interest and compensation forany special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
+&emsp;(iii) pay compensatory damages, including backpay with interest and compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
 
 (B) If the Secretary of Labor issues an order under subparagraph (A) of this paragraph and the complainant requests, the Secretary of Labor may assess against the person against whom the order is issued the costs (including attorney fees) reasonably incurred by the complainant in bringing the complaint. The Secretary of Labor shall determine the costs that reasonably were incurred.
 
@@ -128,7 +128,7 @@ Jan. 6, 1983, Pub. L. 97–424, §405(a)–(d), 96 Stat. 2157.
 
 Jan. 6, 1983, Pub. L. 97–424, §405(e), 96 Stat. 2158; Nov. 8, 1984, Pub. L. 98–620, §402(51), 98 Stat. 3361.
 
-In subsection (a)(1), before clause (A), the words "in any manner" are omitted as surplus. The word "conditions" is omitted as included in "terms". In clauses (A) and (B), the word "rule" is omitted as being synonymous with "regulation". In clause (A), the word "begun" is substituted for "instituted or caused to be instituted" for consistency in the revised title and toeliminate unnecessary words. In clause (B), the words before subclause (i) are substituted for "for refusing to operate a vehicle when" and "or because of" for clarity and consistency. In subclause (ii), the words "vehicle's unsafe condition" are substituted for "unsafe condition of such equipment" for consistency.
+In subsection (a)(1), before clause (A), the words "in any manner" are omitted as surplus. The word "conditions" is omitted as included in "terms". In clauses (A) and (B), the word "rule" is omitted as being synonymous with "regulation". In clause (A), the word "begun" is substituted for "instituted or caused to be instituted" for consistency in the revised title and to eliminate unnecessary words. In clause (B), the words before subclause (i) are substituted for "for refusing to operate a vehicle when" and "or because of" for clarity and consistency. In subclause (ii), the words "vehicle's unsafe condition" are substituted for "unsafe condition of such equipment" for consistency.
 
 Subsection (a)(2) is substituted for 49 App.:2305(b) (2d, last sentences) for clarity and to eliminate unnecessary words.
 

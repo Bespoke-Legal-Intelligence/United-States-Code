@@ -6,7 +6,7 @@ Notwithstanding any other provision of this Act, "disparate impact", as that ter
 
 #### (b) Commission
 
-On the date that is 6 years after May 21, 2008, there shall be established a commission, to be known as the Genetic Nondiscrimination Study Commission (referred to in this section as the "Commission") to review the developing science of genetics and to make recommendations to Congress regarding whether to provide a disparate impact cause of action under this Act.
+On the date that is 6 years after May 21, 2008, there shall be established a commission, to be known as the Genetic Nondiscrimination Study Commission (referred to in this section as the "Commission") to review the developing science of genetics and to make recommendations toCongress regarding whether to provide a disparate impact cause of action under this Act.
 
 #### (c) Membership
 

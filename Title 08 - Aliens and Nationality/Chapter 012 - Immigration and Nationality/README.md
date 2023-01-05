@@ -25,6 +25,7 @@
 | [1151a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001151a%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93571%2C%20%C2%A77%28g%29%2C%20Oct.%2020%2C%201976%2C%2090%20Stat.%202706.md) | Repealed. |
 | [1152\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001152%20-%20Numerical%20limitations%20on%20individual%20foreign%20states.md) | Numerical limitations on individual foreign states. |
 | [1153\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001153%20-%20Allocation%20of%20immigrant%20visas.md) | Allocation of immigrant visas. |
+| [1153a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001153a%20-%20Transparency.md) | Transparency. |
 | [1154\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001154%20-%20Procedure%20for%20granting%20immigrant%20status.md) | Procedure for granting immigrant status. |
 | [1155\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001155%20-%20Revocation%20of%20approval%20of%20petitions%3B%20effective%20date.md) | Revocation of approval of petitions; effective date. |
 | [1156\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001156%20-%20Unused%20immigrant%20visas.md) | Unused immigrant visas. |

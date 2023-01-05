@@ -10,7 +10,7 @@ When an obligor exercises his right to rescind under subsection (a), he is not l
 
 #### (c) Rebuttable presumption of delivery of required disclosures
 
-Notwithstanding any rule of evidence, written acknowledgment of receipt of any disclosures required under this subchapter by a person to whom information, forms, and a statement is required to be given pursuant to this section does no more than create a rebuttable presumption of delivery thereof.
+Notwithstanding any rule of evidence, written acknowledgment of receipt of any disclosures required under this subchapter by a person to whom information, forms, and a statement is required to be given pursuant to this section doesno more than create a rebuttable presumption of delivery thereof.
 
 #### (d) Modification and waiver of rights
 
@@ -52,7 +52,7 @@ An obligor shall have no rescission rights arising solely from the form of writt
 
 #### (2) Tolerance for disclosures
 
-&emsp;Notwithstanding section 1605(f) of this title, and subject to the time period provided in subsection (f), for the purposes of exercising anyrescission rights after the initiation of any judicial or nonjudicial foreclosure process on the principal dwelling of the obligor securing an extension of credit, the disclosure of the finance charge and other disclosures affected by any finance charge shall be treated as being accurate for purposes of this section if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $35 or is greater than the amount required to be disclosed under this subchapter.
+&emsp;Notwithstanding section 1605(f) of this title, and subject to the time period provided in subsection (f), for the purposes of exercising any rescission rights after the initiation of any judicial or nonjudicial foreclosure process on the principal dwelling of the obligor securing an extension of credit, the disclosure of the finance charge and other disclosures affected by any finance charge shall be treated as being accurate for purposes of this section if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $35 or is greater than the amount required to be disclosed under this subchapter.
 
 #### (3) Right of recoupment under State law
 

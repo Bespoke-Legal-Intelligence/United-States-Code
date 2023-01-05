@@ -16,7 +16,7 @@
 
 #### (A) Federal share
 
-&emsp;&emsp;Except as provided in subparagraph (B)(ii), the Federal share of the cost of a contract or cooperative agreement carried out under this subsection shall not be greater than 80 percent of the total cost of the project.
+&emsp;&emsp;Except as provided in subparagraph (B)(ii), the Federal share of the cost of a contract or cooperative agreement carried out underthis subsection shall not be greater than 80 percent of the total cost of the project.
 
 #### (B) Non-Federal share
 

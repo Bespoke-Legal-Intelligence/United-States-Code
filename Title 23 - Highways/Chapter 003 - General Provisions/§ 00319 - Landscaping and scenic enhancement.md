@@ -28,7 +28,7 @@ Encouragement of Pollinator Habitat and Forage Development and Protection on Tra
 
 &emsp;(2) encourage the development of habitat and forage for Monarch butterflies, other native pollinators, and honey bees through plantings of native forbs and grasses, including noninvasive, native milkweed species that can serve as migratory way stations for butterflies and facilitate migrations of other pollinators.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 89–285, title III, §301(a), Oct. 22, 1965, 79 Stat. 1032; Pub. L. 89–574, §8(b), Sept. 13, 1966, 80 Stat. 768; Pub. L. 90–495, §6(f), Aug. 23, 1968, 82 Stat. 818; Pub. L. 94–280, title I, §136(a), May 5, 1976, 90Stat. 442; Pub. L. 100–17, title I, §130, Apr. 2, 1987, 101 Stat. 169; Pub. L. 114–94, div. A, title I, §1415(a), Dec. 4, 2015, 129 Stat. 1421.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 89–285, title III, §301(a), Oct. 22, 1965, 79 Stat. 1032; Pub. L. 89–574, §8(b), Sept. 13, 1966, 80 Stat. 768; Pub. L. 90–495, §6(f), Aug. 23, 1968, 82 Stat. 818; Pub. L. 94–280, title I, §136(a), May 5, 1976, 90 Stat. 442; Pub. L. 100–17, title I, §130, Apr. 2, 1987, 101 Stat. 169; Pub. L. 114–94, div. A, title I, §1415(a), Dec. 4, 2015, 129 Stat. 1421.)
 
 #### <b>Editorial Notes</b>
 
@@ -64,7 +64,7 @@ Pub. L. 94–280, title I, §136(b), May 5, 1976, 90 Stat. 443, provided that al
 
 #### National Scenic Highway System Study and User Access Study for Parks and Recreation Areas
 
-Pub. L. 93–87, title I, §134, Aug. 13, 1973, 87 Stat. 268, mandated a study to determine the feasibility of a scenic highway system to link together recreational, historical sites, and a study of user access to parks and recreational areas, including alternatives to private automobiles, the results of the studies to be reported to Congress no later than July 1, 1974, and Jan. 1, 1975, respectively.
+Pub. L. 93–87, title I, §134, Aug. 13, 1973, 87 Stat. 268, mandated a study to determine the feasibility of a scenic highway system to link together recreational, historical sites, and a study of user access to parks and recreational areas, including alternatives to privateautomobiles, the results of the studies to be reported to Congress no later than July 1, 1974, and Jan. 1, 1975, respectively.
 
 #### Acquisition of Dwellings
 

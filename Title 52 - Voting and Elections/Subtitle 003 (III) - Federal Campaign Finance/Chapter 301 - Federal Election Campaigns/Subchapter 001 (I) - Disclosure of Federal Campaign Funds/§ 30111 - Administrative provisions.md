@@ -46,7 +46,7 @@ Any forms prescribed by the Commission under subsection (a)(1), and any informat
 
 (5)(A) A motion to discharge a committee of the Senate from the consideration of a resolution relating to any such rule, regulation, or form or a motion to proceed to the consideration of such a resolution, is highly privileged and shall be decided without debate.
 
-(B) Whenever a committee of the House of Representatives reports any resolution relating to any such form, rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motionis not in order, and is not in order to move to reconsider the vote by which the motion is agreed to or disagreed with.
+(B) Whenever a committee of the House of Representatives reports any resolution relating to any such form, rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and is not in order to move to reconsider the vote by which the motion is agreed to or disagreed with.
 
 #### (e) Scope of protection for good faith reliance upon rules or regulations
 
@@ -134,7 +134,7 @@ Subsec. (a)(1), (4). Pub. L. 93–443, §208(c)(9)(A), (B), substituted "him" fo
 
 Subsec. (a)(6). Pub. L. 93–443, §209(a)(1), substituted provisions respecting index of reports and statements and publication thereof in Federal Register for provisions respecting compilation and maintenance of current list of candidate statements.
 
-Subsec. (a)(7). Pub. L. 93–443, §209(a)(1), substituted provision for preparation and publication of special reports listing candidates for whom reports were filed as required by this subchapter and those candidates for whom such reports were not filed as so required for provisions respecting publication of annual reports and compilations of data.
+Subsec. (a)(7). Pub. L. 93–443, §209(a)(1), substituted provision for preparation and publication of special reports listing candidates for whom reports were filed as required by this subchapter and those candidates forwhom such reports were not filed as so required for provisions respecting publication of annual reports and compilations of data.
 
 Subsec. (a)(8). Pub. L. 93–443, §209(a)(1), redesignated par. (11) as (8) and struck out former par. (8) provision for preparation and publication of special reports comparing the various totals and categories of contributions and expenditures made with respect to preceding elections.
 

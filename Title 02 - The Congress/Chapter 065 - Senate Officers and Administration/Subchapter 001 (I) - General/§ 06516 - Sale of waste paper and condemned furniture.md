@@ -1,6 +1,6 @@
 ### §6516. Sale of waste paper and condemned furniture
 
-It shall be the duty of the Secretary and Sergeant at Arms of the Senate to cause to be soldall waste paper and useless documents and condemned furniture that may accumulate, in their respective departments or offices, under the direction of the Committee on Rules and Administration of the Senate and cover the proceeds thereof into the Treasury.
+It shall be the duty of the Secretary and Sergeant at Arms of the Senate to cause to be sold all waste paper and useless documents and condemned furniture that may accumulate, in their respective departments or offices, under the direction of the Committee on Rules and Administration of the Senate and cover the proceeds thereof into the Treasury.
 
 (Aug. 7, 1882, ch. 433, §1, 22 Stat. 337; May 29, 1928, ch. 901, §1(122), 45 Stat. 995; Pub. L. 104–186, title II, §204(62), Aug. 20, 1996, 110 Stat. 1739.)
 

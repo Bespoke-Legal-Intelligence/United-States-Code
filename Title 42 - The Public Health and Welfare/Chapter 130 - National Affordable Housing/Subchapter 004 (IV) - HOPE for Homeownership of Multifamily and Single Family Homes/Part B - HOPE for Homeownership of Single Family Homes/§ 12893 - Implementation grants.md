@@ -34,7 +34,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 #### (1) In general
 
-&emsp;Each recipient shall assure that contributions equal to not less than 25 percent of the grant amounts under this section are provided from non-Federal sources to carry out the homeownership program.
+&emsp;Each recipient shall assure that contributions equal to not less than 25 percent of thegrant amounts under this section are provided from non-Federal sources to carry out the homeownership program.
 
 #### (2) Form
 
@@ -70,7 +70,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(D) an identification and description of the properties to be acquired under the homeownership program and a description of the composition of potential eligible families, including family size and income;
 
-&emsp;&emsp;(E) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of otherresources that are expected to be made available in support of the homeownership program;
+&emsp;&emsp;(E) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
 
 &emsp;&emsp;(F) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the project, where applicable, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 
@@ -100,7 +100,7 @@ The Secretary shall establish selection criteria for assistance under this part,
 
 &emsp;(6) national geographic diversity among housing for which applicants are selected to receive assistance; and
 
-&emsp;(7) the extent to which a sufficient supply of affordable rental housing of the type assisted under this part exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units.
+&emsp;(7) the extent to which a sufficient supply of affordable rental housing of the type assisted under this part exists in the locality, so thatthe implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units.
 
 #### (f) Approval
 

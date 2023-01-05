@@ -20,7 +20,7 @@ In this section:
 
 #### (B) EPCA
 
-&emsp;&emsp;The terms "combined heat and power system" and "waste energy" have the meaningsgiven those terms in section 6341 of this title.
+&emsp;&emsp;The terms "combined heat and power system" and "waste energy" have the meanings given those terms in section 6341 of this title.
 
 #### (b) Review
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 18 months after November 15, 2021, the Secretary, in consultation with the Federal Energy Regulatory Commission and other appropriate entities, shall issue model guidance for interconnection service and additional services for consideration by State regulatory authorities and nonregulated electric utilities to reduce the barriers identified under subsection (b)(1).
+&emsp;Not later than 18 months after November 15, 2021, the Secretary, in consultation with the Federal Energy Regulatory Commission andother appropriate entities, shall issue model guidance for interconnection service and additional services for consideration by State regulatory authorities and nonregulated electric utilities to reduce the barriers identified under subsection (b)(1).
 
 #### (2) Current best practices
 

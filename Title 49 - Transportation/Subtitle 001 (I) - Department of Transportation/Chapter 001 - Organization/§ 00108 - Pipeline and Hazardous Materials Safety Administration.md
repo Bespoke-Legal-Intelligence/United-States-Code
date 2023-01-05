@@ -168,7 +168,7 @@ Reports by the Inspector General.—Not later than 30 days after the date of ena
 
 &emsp;"(1) A list of each statutory mandate regarding pipeline safety or hazardous materials safety that has not been implemented.
 
-&emsp;"(2) A list of each open safety recommendation made by the National Transportation Safety Board or the Inspector General regarding pipeline safety or hazardous materials safety.
+&emsp;"(2) A list of each open safety recommendation made by the National Transportation Safety Board orthe Inspector General regarding pipeline safety or hazardous materials safety.
 
 "(b)
 
@@ -180,5 +180,5 @@ Statutory mandates.—Not later than 90 days after the date of enactment of this
 
 &emsp;"(2) NTSB
 
-and inspector general recommendations.—Not later than January 1st of each year, the Secretary shall transmit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, andTransportation of the Senate a report containing each recommendation referred to in subsection (a)(2) and a copy of the Department of Transportation response to each such recommendation."
+and inspector general recommendations.—Not later than January 1st of each year, the Secretary shall transmit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing each recommendation referred to in subsection (a)(2) and a copy of the Department of Transportation response to each such recommendation."
 

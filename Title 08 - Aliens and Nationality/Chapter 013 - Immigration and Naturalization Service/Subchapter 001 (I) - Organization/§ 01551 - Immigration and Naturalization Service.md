@@ -24,7 +24,7 @@ Functions of the Commissioner of Immigration and Naturalization performed under 
 
 Functions of the Commissioner of Immigration and Naturalization relating to adjudications of immigrant visa petitions, adjudications of naturalization petitions, adjudications of asylum and refugee applications, adjudications performed at service centers, and all other adjudications performed by the Immigration and Naturalization Service, and all personnel, infrastructure, and funding provided to the Commissioner in support of such functions, were transferred to the Director of the Bureau of Citizenship and Immigration Services of the Department of Homeland Security by section 271(b) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
 
-Functions performed by the Statistics Branch of the Office of Policy and Planning of the Immigration andNaturalization Service with respect to the functions of the Commissioner referred to in the two preceding paragraphs were transferred to the Under Secretary for Management of the Department of Homeland Security by former section 341(b)(2) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
+Functions performed by the Statistics Branch of the Office of Policy and Planning of the Immigration and Naturalization Service with respect to the functions of the Commissioner referred to in the two preceding paragraphs were transferred to the Under Secretary for Management of the Department of Homeland Security by former section 341(b)(2) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
 
 Functions under the immigration laws of the United States with respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) were transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services by section 279(a) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
 
@@ -38,7 +38,7 @@ Pub. L. 96–132, §10, Nov. 30, 1979, 93 Stat. 1047, provided that: "The Attorn
 
 #### Office of Special Investigator; Functions, Establishment, Powers, Etc.
 
-Pub. L. 96–132, §22, Nov. 30, 1979, 93 Stat. 1050, provided that:
+Pub. L. 96–132, §22, Nov. 30, 1979, 93 Stat. 1050, as amended by Pub. L. 117–286, §4(b)(25), Dec. 27, 2022, 136 Stat. 4346, provided that:
 
 "(a) In order to create an independent and objective unit—
 
@@ -62,15 +62,15 @@ Pub. L. 96–132, §22, Nov. 30, 1979, 93 Stat. 1050, provided that:
 
 &emsp;"(B) appoint an Assistant Special Investigator for Investigations who shall have the responsibility for the performance of investigative activities relating to such programs and operations.
 
-"(c) The following provisions of the Inspector General Act of 1978 (Public Law 95–452) \[set out in the Appendix to Title 5\] shall apply to the Special Investigator, the Office, the Commissioner, and the Service under this section in the same manner as those provisions apply to an Inspector General, an Office, the head of the establishment, and an establishment under such Act:
+"(c) The following provisions of chapter 4 of title 5, United States Code, shall apply to the Special Investigator, the Office, the Commissioner, and the Service under this section in the same manner as those provisions apply to an Inspector General, an Office, the head of the establishment, and an establishment under such chapter:
 
-&emsp;"(1) Section 4 (relating to duties and responsibilities of an Inspector General and the manner in which they are carried out).
+&emsp;"(1) Section 404 (relating to duties and responsibilities of an Inspector General and the manner in which they are carried out).
 
-&emsp;"(2) Section 5 (relating to reports required to be prepared and furnished by or to an Inspector General and their transmittal and availability).
+&emsp;"(2) Section 405 (relating to reports required to be prepared and furnished by or to an Inspector General and their transmittal and availability).
 
-&emsp;"(3) Section 6 (relating to the authority of an Inspector General and related administrative provisions).
+&emsp;"(3) Section 406 (relating to the authority of an Inspector General and related administrative provisions).
 
-&emsp;"(4) Section 7 (relating to the treatment of employee complaints by an Inspector General).
+&emsp;"(4) Section 407 (relating to the treatment of employee complaints by an Inspector General).
 
 "(d) The Attorney General is authorized to appoint such staff as may be necessary to carry out this section.
 
@@ -94,7 +94,7 @@ Pub. L. 96–132, §22, Nov. 30, 1979, 93 Stat. 1050, provided that:
 
 #### History of Immigration and Naturalization Agencies
 
-By acts Aug. 3, 1882, ch. 376, §§2, 3, 22 Stat. 214; Feb. 23, 1887, ch. 220, 24 Stat. 415, the administration of theimmigration laws then in force was reposed in the Secretary of the Treasury. Subsequently, by act Mar. 3, 1891, ch. 551, §7, 26 Stat. 1087, the office of the Superintendent of Immigration was created as a permanent immigration agency and he in turn was designated Commissioner General of Immigration under the heading "Bureau of Immigration" by act Mar. 2, 1895, ch. 177, §1, 28 Stat. 780. Upon the establishment of the Department of Commerce and Labor, the Commissioner General of Immigration and the Bureau of Immigration were transferred to that Department by act Feb. 14, 1903, ch. 552, §4, 32 Stat. 825, and thereafter were redesignated the Bureau of Immigration and Naturalization by act June 29, 1906, ch. 3592, §1, 34 Stat. 596. The Bureau of Immigration and Naturalization was transferred to the Department of Labor upon its establishment by act Mar. 4, 1913, ch. 141, 37 Stat. 736, and divided into two bureaus to be known as the Bureau of Immigration and the Bureau of Naturalization, respectively. Ex. Ord. No. 6166, §14, June 10, 1933, set out as note under section 901 of Title 5, Government Organization and Employees, again consolidated these bureaus to form the Immigration and Naturalization Service, under a "Commissioner of Immigration and Naturalization", which was then transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5.
+By acts Aug. 3, 1882, ch. 376, §§2, 3, 22 Stat. 214; Feb. 23, 1887, ch. 220, 24 Stat. 415, the administration of the immigration laws then in force was reposed in the Secretary of the Treasury. Subsequently, by act Mar. 3, 1891, ch. 551, §7, 26 Stat. 1087, the office of the Superintendent of Immigration was created as a permanent immigration agency and he in turn was designated Commissioner General of Immigration under the heading "Bureau of Immigration" by act Mar. 2, 1895, ch. 177, §1, 28 Stat. 780. Upon the establishment of the Department of Commerce and Labor, the Commissioner General of Immigration and the Bureau of Immigration were transferred to that Department by act Feb. 14, 1903, ch. 552, §4, 32 Stat. 825, and thereafter were redesignated the Bureau of Immigration and Naturalization by act June 29, 1906, ch. 3592, §1, 34 Stat. 596. The Bureau of Immigration and Naturalization was transferred to the Department of Labor upon its establishment by act Mar. 4, 1913, ch. 141, 37 Stat. 736, and divided into two bureaus to be known as the Bureau of Immigration and the Bureau of Naturalization, respectively. Ex. Ord. No. 6166, §14, June 10, 1933, set out as note under section 901 of Title 5, Government Organization and Employees, again consolidated these bureaus to form the Immigration and Naturalization Service, under a "Commissioner of Immigration and Naturalization", which was then transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5.
 
 #### <b>Executive Documents</b>
 

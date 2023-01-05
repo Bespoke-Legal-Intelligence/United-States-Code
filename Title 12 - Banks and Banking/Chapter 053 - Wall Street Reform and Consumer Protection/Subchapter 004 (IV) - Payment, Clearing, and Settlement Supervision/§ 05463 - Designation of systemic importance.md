@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;The Council, on a nondelegable basis and by a vote of not fewer than 2/3 of members then serving, including an affirmative vote by the Chairperson of the Council, shall rescind a designation of systemic importance for a designated financial market utility or designated activity if the Council determines that the utility or activity no longer meets the standards for systemic importance.
+&emsp;The Council, on a nondelegable basis and by a vote of not fewer than 2/3 of members then serving, including an affirmative vote by the Chairperson of the Council, shall rescind a designation of systemic importance for a designated financial market utility or designatedactivity if the Council determines that the utility or activity no longer meets the standards for systemic importance.
 
 #### (2) Effect of rescission
 

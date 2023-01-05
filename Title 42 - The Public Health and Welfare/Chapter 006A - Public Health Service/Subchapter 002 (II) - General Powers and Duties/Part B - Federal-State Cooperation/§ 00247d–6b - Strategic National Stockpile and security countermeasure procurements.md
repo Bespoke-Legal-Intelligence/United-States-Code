@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the "Homeland Security Secretary"), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies (including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests in the stockpile) in such numbers, types, and amounts as are determined consistent with section 300hh–10 of this title by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for and optimize the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under section 300hh–10a of this title, make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2).
+&emsp;The Secretary, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the "Homeland Security Secretary"), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and othersupplies (including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests in the stockpile) in such numbers, types, and amounts as are determined consistent with section 300hh–10 of this title by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for and optimize the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under section 300hh–10a of this title, make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2).
 
 #### (2) Threat-based review
 
@@ -20,7 +20,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the quantities of the additional or modified countermeasure procured for, or contracted to be procured for, the stockpile;
 
-&emsp;&emsp;&emsp;&emsp;(II) planning considerations for appropriate manufacturing capacity and capability to meet the goals of such additions or modifications (without disclosing proprietary information), including consideration of the effect such additions or modifications may have on the availability of such products and ancillary medical supplies in the health care system;
+&emsp;&emsp;&emsp;&emsp;(II) planning considerations for appropriate manufacturing capacity and capability to meet the goals of such additions or modifications (without disclosing proprietary information), including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) consideration of the effect such additions or modifications may have on the availability of such products and ancillary medical supplies on the health care system; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an assessment of the current supply chain for such products, including information on supply chain redundancies, any known domestic manufacturing capacity for such products, and any related vulnerabilities;
 
 &emsp;&emsp;&emsp;&emsp;(III) the presence or lack of a commercial market for the countermeasure at the time of procurement;
 
@@ -42,29 +46,59 @@
 
 &emsp;&emsp;(A) consult with the working group under section 247d–6(a) of this title and the Public Health Emergency Medical Countermeasures Enterprise established under section 300hh–10a of this title;
 
-&emsp;&emsp;(B) ensure that adequate procedures are followed with respect to such stockpile for inventory management and accounting, and for the physical security of the stockpile;
+&emsp;&emsp;(B) ensure that adequate procedures are followed, regularly reviewed, and updated with respect to such stockpile for inventory management and accounting, and for the physical security of the stockpile;
 
-&emsp;&emsp;(C) in consultation with Federal, State, and local officials, take into consideration the timing and location of special events, and the availability, deployment, dispensing, and administration of countermeasures;
+&emsp;&emsp;(C) in consultation with Federal, State, local, and Tribal officials, take into consideration the timing and location of special events, and the availability, deployment, dispensing, and administration of countermeasures;
 
-&emsp;&emsp;(D) review and revise, as appropriate, the contents of the stockpile on a regular basis to ensure that emerging threats, advanced technologies, and new countermeasures are adequately considered and that the potential depletion of countermeasures currently in the stockpile is identified and appropriately addressed, including through necessary replenishment;
+&emsp;&emsp;(D) review and revise, as appropriate, the contents of the stockpile on a regular basis to ensure that—
+
+&emsp;&emsp;&emsp;(i) emerging threats, advanced technologies, and new countermeasures are adequately considered;
+
+&emsp;&emsp;&emsp;(ii) the potential depletion of countermeasures currently in the stockpile is identified and appropriately addressed, including through necessary replenishment; and
+
+&emsp;&emsp;&emsp;(iii) such contents are in working condition or usable, as applicable, and are ready for deployment, which may include conducting maintenance services on such contents of the stockpile and disposing of such contents that are no longer in working condition, or usable, as applicable;
 
 &emsp;&emsp;(E) devise plans for effective and timely supply-chain management of the stockpile, in consultation with the Director of the Centers for Disease Control and Prevention, the Assistant Secretary for Preparedness and Response, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of Veterans Affairs, and the heads of other appropriate Federal agencies; State, local, Tribal, and territorial agencies; and the public and private health care infrastructure, as applicable, taking into account the manufacturing capacity and other available sources of products and appropriate alternatives to supplies in the stockpile;
 
-&emsp;&emsp;(F) deploy the stockpile as required by the Secretary of Homeland Security to respond to an actual or potential emergency;
+&emsp;&emsp;(F) deploy the stockpile at the discretion of the Secretary, in consultation with, or at the request of, the Secretary of Homeland Security, to respond to an actual or potential emergency;
 
 &emsp;&emsp;(G) deploy the stockpile at the discretion of the Secretary to respond to an actual or potential public health emergency or other situation in which deployment is necessary to protect the public health or safety;
 
 &emsp;&emsp;(H) ensure the adequate physical security of the stockpile;
 
-&emsp;&emsp;(I) ensure that each countermeasure or product under consideration for procurement pursuant to this subsection receives the same consideration regardless of whether such countermeasure or product receives or had received funding under section 247d–7e of this title, including with respect to whether the countermeasure or product is most appropriate to meet the emergency health security needs of the United States; and
+&emsp;&emsp;(I) ensure that each countermeasure or product under consideration for procurement pursuant to this subsection receives the same consideration regardless of whether such countermeasure or product receives or had received funding under section 247d–7e of this title, including with respect to whether the countermeasure or product is most appropriate to meet the emergency health security needs of the United States;
 
-&emsp;&emsp;(J) provide assistance, including technical assistance, to maintain and improve State and local public health preparedness capabilities to distribute and dispense medical countermeasures and products from the stockpile, as appropriate.
+&emsp;&emsp;(J) provide assistance, including technical assistance, to maintain and improve State <sup>1</sup> local, and Tribal public health preparedness capabilities to distribute and dispense medical countermeasures and products from the stockpile, as appropriate; and
+
+&emsp;&emsp;(K) convene meetings, not less than once per year, with representatives from State, local, and Tribal health departments or officials, relevant industries, other Federal agencies, and other appropriate stakeholders, in a manner that does not compromise national security, to coordinate and share information related to maintenance and use of the stockpile, including a description of future countermeasure needs and additions, modifications, and replenishments of the contents of the stockpile, and considerations related to the manufacturing and procurement of products consistent with the requirements of the with the requirements of <sup>2</sup> chapter 83 of title 41 (commonly referred to as the "Buy American Act"), as appropriate.
 
 #### (4) Utilization guidelines
 
 &emsp;The Secretary shall ensure timely and accurate recommended utilization guidelines for qualified countermeasures (as defined in section 247d–6a of this title), qualified pandemic and epidemic products (as defined in section 247d–6d of this title), and security countermeasures (as defined in subsection (c)), including for such products in the stockpile.
 
-#### (5) GAO report
+#### (5) Vendor-managed inventory and warm-base surge capacity
+
+#### (A) In general
+
+&emsp;&emsp;For the purposes of maintaining the stockpile under paragraph (1) and carrying out procedures under paragraph (3), the Secretary may enter into contracts or cooperative agreements with vendors, which may include manufacturers or distributors of medical products, with respect to medical products intended to be delivered to the ownership of the Federal Government. Each such contract or cooperative agreement shall be subject to such terms and conditions as the Secretary may specify, including terms and conditions with respect to—
+
+&emsp;&emsp;&emsp;(i) procurement, maintenance, storage, and delivery of products, in alignment with inventory management and other applicable best practices, under such contract or cooperative agreement, which may consider, as appropriate, costs of transporting and handling such products; or
+
+&emsp;&emsp;&emsp;(ii) maintenance of domestic manufacturing capacity and capabilities of such products to ensure additional reserved production capacity and capabilities are available, and that such capacity and capabilities are able to support the rapid manufacture, purchase, storage, and delivery of such products, as required by the Secretary to prepare for, or respond to, an existing or potential public health emergency.
+
+#### (B) Report
+
+&emsp;&emsp;Not later than 2 years after December 29, 2022, and annually thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report on any contracts or cooperative agreements entered into under subparagraph (A) for purposes of establishing and maintaining vendor-managed inventory or reserve manufacturing capacity and capabilities for products intended for the stockpile, including a description of—
+
+&emsp;&emsp;&emsp;(i) the amount of each award;
+
+&emsp;&emsp;&emsp;(ii) the recipient of each award;
+
+&emsp;&emsp;&emsp;(iii) the product or products covered through each award; and
+
+&emsp;&emsp;&emsp;(iv) how the Secretary works with each recipient to ensure situational awareness related to the manufacturing capacity for, or inventory of, such products and coordinates the distribution and deployment of such products, as appropriate and applicable.
+
+#### (6) GAO report
 
 #### (A) In general
 
@@ -84,21 +118,43 @@
 
 &emsp;&emsp;&emsp;(vii) an assessment of the extent to which additions, modifications, and replenishments reviewed under paragraph (2) align with previous relevant reports or reviews by the Secretary or the Comptroller General;
 
-&emsp;&emsp;&emsp;(viii) with respect to any change in the Federal organizational management of the stockpile, an assessment and comparison of the processes affected by such change, including planning for potential countermeasure deployment, distribution, or dispensing capabilities and processes related to procurement decisions, use of stockpiled countermeasures, and use of resources for such activities; and
+&emsp;&emsp;&emsp;(viii) with respect to any change in the Federal organizational management of the stockpile, an assessment and comparison of the processes affected by such change, including planning for potential countermeasure deployment, distribution, or dispensing capabilities and processes related to procurement decisions, use of stockpiled countermeasures, and use of resources for such activities;
 
-&emsp;&emsp;&emsp;(ix) an assessment of whether the processes and procedures described by the Secretary pursuant to section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019 are sufficient to ensure countermeasures and products under consideration for procurement pursuant to subsection (a) receive the same consideration regardless of whether such countermeasures and products receive or had received funding under section 247d–7e of this title, including with respect to whether such countermeasures and products are most appropriate to meet the emergency health security needs of the United States.
+&emsp;&emsp;&emsp;(ix) an assessment of whether the processes and procedures described by the Secretary pursuant to section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019 are sufficient to ensure countermeasures and products under consideration for procurement pursuant to subsection (a) receive the same consideration regardless of whether such countermeasures and products receive or had received funding under section 247d–7e of this title, including with respect to whether such countermeasures and products are most appropriate to meet the emergency health security needs of the United States; and
+
+&emsp;&emsp;&emsp;(x) with respect to reports issued in 2027 or any subsequent year, an assessment of selected contracts or cooperative agreements entered into pursuant to paragraph (5).
 
 #### (B) Submission
 
 &emsp;&emsp;Not later than 6 months after completing a classified version of the review under subparagraph (A), the Comptroller General shall submit an unclassified version of the review to the congressional committees of jurisdiction.
 
-#### (6) Transfers of items
+#### (7) Reimbursement for certain supplies
 
-&emsp;The Secretary, in coordination with the Secretary of Homeland Security, may sell drugs, vaccines and other biological products, medical devices, or other supplies maintained in the stockpile under paragraph (1) to a Federal agency or private, nonprofit, State, local, tribal, or territorial entity for immediate use and distribution, provided that any such items being sold are—
+#### (A) In general
 
-&emsp;&emsp;(A) within 1 year of their expiration date; or
+&emsp;&emsp;The Secretary may, at appropriate intervals, make available for purchase excess contents procured for, and maintained within, the stockpile under paragraph (1) to any Federal agency or State, local, or Tribal government. The Secretary shall make such contents available for purchase only if—
 
-&emsp;&emsp;(B) determined by the Secretary to no longer be needed in the stockpile due to advances in medical or technical capabilities.
+&emsp;&emsp;&emsp;(i) such contents are in excess of what is required for appropriate maintenance of such stockpile;
+
+&emsp;&emsp;&emsp;(ii) the Secretary determines that the costs for maintaining such excess contents are not appropriate to expend to meet the needs of the stockpile; and
+
+&emsp;&emsp;&emsp;(iii) the Secretary determines that such action does not compromise national security and is in the national interest.
+
+#### (B) Reimbursement and collection
+
+&emsp;&emsp;The Secretary may require reimbursement for contents that are made available under subparagraph (A), in an amount that reflects the cost of acquiring and maintaining such contents and the costs incurred to make available such contents in the time and manner specified by the Secretary. Amounts collected under this subsection shall be credited to the appropriations account or fund that incurred the costs to procure such contents, and shall remain available, without further appropriation, until expended, for the purposes of the appropriation account or fund so credited.
+
+#### (C) Rule of construction
+
+&emsp;&emsp;This paragraph shall not be construed to preclude transfers of contents in the stockpile under other authorities.
+
+#### (D) Report
+
+&emsp;&emsp;Not later than 2 years after December 29, 2022, and annually thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report on the use of the authority provided under this paragraph, including details of each action taken pursuant to this paragraph, the account or fund to which any collected amounts have been credited, and how the Secretary has used such amounts.
+
+#### (E) Sunset
+
+&emsp;&emsp;The authority under this paragraph shall terminate on September 30, 2028.
 
 #### (b) Smallpox vaccine development
 
@@ -128,7 +184,7 @@
 
 &emsp;&emsp;&emsp;(III)(aa) is approved or cleared under chapter V of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 351 et seq.\] or licensed under section 262 of this title; or
 
-&emsp;&emsp;&emsp;(bb) is a countermeasure for which the Secretary determines that sufficient and satisfactory clinical experience or researchdata (including data, if available, from pre-clinical and clinical trials) support a reasonable conclusion that the countermeasure will qualify for approval or licensing within 10 years after the date of a determination under paragraph (5); or
+&emsp;&emsp;&emsp;(bb) is a countermeasure for which the Secretary determines that sufficient and satisfactory clinical experience or research data (including data, if available, from pre-clinical and clinical trials) support a reasonable conclusion that the countermeasure will qualify for approval or licensing within 10 years after the date of a determination under paragraph (5); or
 
 &emsp;&emsp;&emsp;(ii) is authorized for emergency use under section 564 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3\].
 
@@ -152,7 +208,7 @@
 
 #### (C) Notice to Congress
 
-&emsp;&emsp;The Secretary and the Secretary of Homeland Security shall send to Congress, on an annual basis, all current material threat determinations and shall promptly notify the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives that a determination has been made pursuant to subparagraph (A) or (B).
+&emsp;&emsp;The Secretary and the Secretary of Homeland Security shall send to Congress, not later than March 15 of each year, all current material threat determinations and shall promptly notify the Committee on Health,Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives that a determination has been made pursuant to subparagraph (A) or (B).
 
 #### (D) Assuring access to threat information
 
@@ -392,13 +448,13 @@ For purposes of subsection (a), the term "stockpile" includes—
 
 &emsp;(1) a physical accumulation (at one or more locations) of the supplies described in subsection (a); or
 
-&emsp;(2) a contractual agreement between the Secretary and a vendor or vendors under which such vendor or vendors agree to provide to such Secretary supplies described in subsection (a).
+&emsp;(2) a contractual agreement between the Secretary and a vendor or vendors underwhich such vendor or vendors agree to provide to such Secretary supplies described in subsection (a).
 
 #### (f) Authorization of appropriations
 
 #### (1) Strategic National Stockpile
 
-&emsp;For the purpose of carrying out subsection (a), there are authorized to be appropriated $610,000,000 for each of fiscal years 2019 through 2023, to remain available until expended. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
+&emsp;For the purpose of carrying out subsection (a), there are authorized to be appropriated $610,000,000 for each of fiscal years 2019 through 2021, and $750,000,000 for each of fiscal years 2022 and 2023, to remain available until expended. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
 
 #### (2) Smallpox vaccine development
 
@@ -438,15 +494,115 @@ In this section:
 
 &emsp;(2) The term "special reserve fund" means the "Biodefense Countermeasures" appropriations account, any appropriation made available pursuant to section 321j(a) of title 6, and any appropriation made available pursuant to subsection (g)(1).
 
-(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196; Pub. L. 114–255, div. A, title III, §§3081, 3082(a), 3085, Dec. 13, 2016, 130 Stat. 1140, 1144; Pub. L. 116–22, title IV, §403(a), (c), title V, §§502, 504(a), title VII, §702, June 24, 2019, 133 Stat. 943, 947, 950, 951, 962; Pub. L. 116–136, div. A, title III, §3102, Mar. 27, 2020, 134 Stat. 361; Pub. L. 117–58, div. G, title IX, §70953(f)(3), Nov. 15, 2021, 135 Stat. 1316.)
+#### (i) Pilot program to support State medical stockpiles
+
+#### (1) In general
+
+&emsp;The Secretary, in consultation with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, shall award grants or cooperative agreements to not fewer than 5 States, or consortia of States, with consideration given to distribution among the geographical regions of the United States, to establish, expand, or maintain a stockpile of appropriate drugs, vaccines and other biological products, medical devices, and other medical supplies determined by the State to be necessary to respond to a public health emergency declared by the Governor of a State or by the Secretary under section 247d of this title, or a major disaster or emergency declared by the President under section 5170 or 5191, respectively, of this title, in order to support the preparedness goals described in paragraphs (2) through (6) and (8) of section 300hh–1(b) of this title. A recipient of such an award may not use award funds to support the stockpiling of security countermeasures (as defined in subsection (c)(1),<sup>3</sup> unless the eligible entity provides justification for maintaining such countermeasures and the Secretary determines such justification is appropriate and applicable.
+
+#### (2) Requirements
+
+#### (A) Application
+
+&emsp;&emsp;To be eligible to receive an award under paragraph (1), an entity shall prepare, in consultation with appropriate health care entities and health officials within the jurisdiction of such State or States, and submit to the Secretary an application that contains such information as the Secretary may require, including—
+
+&emsp;&emsp;&emsp;(i) a plan for such stockpile, consistent with paragraph (4), including—
+
+&emsp;&emsp;&emsp;&emsp;(I) a description of the activities such entity will carry out under the agreement;
+
+&emsp;&emsp;&emsp;&emsp;(II) an assurance that such entity will use funds under such award in alignment with the requirements of chapter 83 of title 41 (commonly referred to as the "Buy American Act"); and
+
+&emsp;&emsp;&emsp;&emsp;(III) an outline of proposed expenses; and
+
+&emsp;&emsp;&emsp;(ii) a description of how such entity will coordinate with relevant entities in receipt of an award under section 247d–3a or 247d–3b of this title pursuant to paragraph (4), including through promoting alignment between the stockpile plan established pursuant to clause (i) and applicable plans that are established by such entity pursuant to section 247d–3a or 247d–3b of this title.
+
+#### (B) Matching funds
+
+&emsp;&emsp;(i) Subject to clause (ii), the Secretary may not make an award under this subsection unless the applicant agrees, with respect to the costs to be incurred by the applicant in carrying out the purpose described in this subsection, to make available non-Federal contributions toward such costs in an amount equal to—
+
+&emsp;&emsp;&emsp;(I) for each of fiscal years 2023 and 2024, not less than $1 for each $20 of Federal funds provided in the award; and
+
+&emsp;&emsp;&emsp;(II) for fiscal year 2025 and each fiscal year thereafter, not less than $1 for each $10 of Federal funds provided in the award.
+
+&emsp;&emsp;(ii)
+
+Waiver.—The Secretary may, upon the request of a State, waive the requirement under clause (i), in whole or in part, if the Secretary determines that extraordinary economic conditions in the State in the fiscal year involved or in the previous fiscal year justify the waiver. A waiver provided by the Secretary under this subparagraph shall apply only to the fiscal year involved.
+
+#### (C) Administrative expenses
+
+&emsp;&emsp;Not more than 10 percent of amounts received by an entity pursuant to an award under this subsection may be used for administrative expenses.
+
+#### (3) Lead entity
+
+&emsp;An entity in receipt of an award under paragraph (1) may designate a lead entity, which may be a public or private entity, as appropriate, to manage the stockpile at the direction of the State or consortium of States.
+
+#### (4) Use of funds
+
+&emsp;An entity in receipt of an award under paragraph (1) shall use such funds to—
+
+&emsp;&emsp;(A) purchase, store, and maintain a stockpile of appropriate drugs, vaccines and other biological products, medical devices, and other medical supplies to be used during a public health emergency, major disaster, or emergency described in paragraph (1), in such numbers, types, and amounts as the entity determines necessary, consistent with such entity's stockpile plan established pursuant to paragraph (2)(A)(i);
+
+&emsp;&emsp;(B) deploy the stockpile as required by the entity to respond to an actual or potential public health emergency, major disaster, or other emergency described in paragraph (1);
+
+&emsp;&emsp;(C) replenish and make necessary additions or modifications to the contents of such stockpile, including to address potential depletion;
+
+&emsp;&emsp;(D) in consultation with Federal, State, and local officials, take into consideration the availability, deployment, dispensing, and administration requirements of medical products within the stockpile;
+
+&emsp;&emsp;(E) ensure that procedures are followed for inventory management and accounting, and for the physical security of the stockpile, as appropriate;
+
+&emsp;&emsp;(F) review and revise, as appropriate, the contents of the stockpile on a regular basis to ensure that, to the extent practicable, new technologies and medical products are considered;
+
+&emsp;&emsp;(G) carry out exercises, drills, and other training for purposes of stockpile deployment, dispensing, and administration of medical products, and for purposes of assessing the capability of such stockpile to address the medical supply needs of public health emergencies, major disasters, or other emergencies described in paragraph (1) of varying types and scales, which may be conducted in accordance with requirements related to exercises, drills, and other training for recipients of awards under section 247d–3a or 247d–3b of this title, as applicable; and
+
+&emsp;&emsp;(H) carry out other activities related to the State strategic stockpile as the entity determines appropriate, to support State efforts to prepare for, and respond to, public health threats.
+
+#### (5) Supplement not supplant
+
+&emsp;Awards under paragraph (1) shall supplement, not supplant, the maintenance and use of the Strategic National Stockpile by the Secretary under subsection (a).
+
+#### (6) Guidance for States
+
+&emsp;Not later than 180 days after December 29, 2022, the Secretary, in consultation with States, health officials, and other relevant stakeholders, as appropriate, shall issue guidance, and update such guidance as appropriate, for States related to maintaining and replenishing a stockpile of medical products, which may include strategies and best practices related to—
+
+&emsp;&emsp;(A) types of medical products and medical supplies that are critical to respond to public health emergencies, and may be appropriate for inclusion in a stockpile by States, with consideration of threats that require the large-scale and simultaneous deployment of stockpiles, including the stockpile maintained by the Secretary pursuant to subsection (a), and long-term public health and medical response needs;
+
+&emsp;&emsp;(B) appropriate management of the contents of a stockpile, including management by vendors of reserve amounts of medical products and supplies intended to be delivered to the ownership of the State and appropriate disposition of excess products, as applicable; and
+
+&emsp;&emsp;(C) the procurement of medical products and medical supplies consistent with the requirements of chapter 83 of title 41 (commonly referred to as the "Buy American Act").
+
+#### (7) Technical assistance
+
+&emsp;The Secretary shall provide assistance to States, including technical assistance, as appropriate, in establishing, maintaining, improving, and utilizing a medical stockpile, including appropriate inventory management and disposition of products.
+
+#### (8) Reporting
+
+#### (A) State reports
+
+&emsp;&emsp;Each entity receiving an award under paragraph (1) shall update, as appropriate, the plan established pursuant to paragraph (2)(A)(i) and submit to the Secretary an annual report on implementation of such plan, including any changes to the contents of the stockpile supported under such award. The Secretary shall use information obtained from such reports to inform the maintenance and management of the Strategic National Stockpile pursuant to subsection (a).
+
+#### (B) Reports to Congress
+
+&emsp;&emsp;Not later than 1 year after the initial issuance of awards pursuant to paragraph (1), and annually thereafter for the duration of the program established under this subsection, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report on such program, including—
+
+&emsp;&emsp;&emsp;(i) Federal and State expenditures to support stockpiles under such program;
+
+&emsp;&emsp;&emsp;(ii) activities conducted pursuant to paragraph (4); and
+
+&emsp;&emsp;&emsp;(iii) any additional information from the States that the Secretary determines relevant.
+
+#### (9) Authorization of appropriations
+
+&emsp;To carry out this subsection, there is authorized to be appropriated $3,500,000,000 for each of fiscal years 2023 and 2024, to remain available until expended.
+
+(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196; Pub. L. 114–255, div. A, title III, §§3081, 3082(a), 3085, Dec. 13, 2016, 130 Stat. 1140, 1144; Pub. L. 116–22, title IV, §403(a), (c), title V, §§502, 504(a), title VII, §702, June 24, 2019, 133 Stat. 943, 947, 950, 951, 962; Pub. L. 116–136, div. A, title III, §3102, Mar. 27, 2020, 134 Stat. 361; Pub. L. 117–58, div. G, title IX, §70953(f)(3), Nov. 15, 2021, 135 Stat. 1316; Pub. L. 117–328, div. FF, title II, §§2402, 2403, 2404(b)–2406, 2408(a), 2409(a), Dec. 29, 2022, 136 Stat. 5785–5787, 5789.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (a)(5)(A)(ix), is section 403(b) of Pub. L. 116–22, title IV, June 24, 2019, 133 Stat. 947, which is not classified to the Code.
+Section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (a)(6)(A)(ix), is section 403(b) of Pub. L. 116–22, title IV, June 24, 2019, 133 Stat. 947, which is not classified to the Code.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B)(i)(III)(aa), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B)(i)(III)(aa), is act June 25, 1938, ch. 675, 52 Stat. 1040. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Project BioShield Act of 2004, referred to in subsec. (c)(7)(B)(iii)(IV), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 201 of this title and Tables.
 
@@ -466,7 +622,7 @@ In subsec. (c)(7)(B)(iii)(II)(cc), "Section 4706 of title 41" substituted for "S
 
 In subsec. (c)(7)(B)(iii)(II)(ee), "Section 3901 of title 41" substituted for "Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(B)(iv)(I), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" and "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iv)(I), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" and "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority ofPub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (c)(7)(B)(iv)(III), "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -475,6 +631,40 @@ In subsec. (c)(7)(B)(vii), "section 3306(a)(1)(B) of title 41" substituted for "
 Section was formerly classified to section 300hh–12 of this title prior to renumbering by Pub. L. 108–276.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(B)(i)(II). Pub. L. 117–328, §2402, amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "planning considerations for appropriate manufacturing capacity and capability to meet the goals of such additions or modifications (without disclosing proprietary information), including consideration of the effect such additions or modifications may have on the availability of such products and ancillary medical supplies in the health care system;".
+
+Subsec. (a)(3)(B). Pub. L. 117–328, §2403(1), inserted ", regularly reviewed, and updated" after "followed".
+
+Subsec. (a)(3)(C). Pub. L. 117–328, §2408(a)(1), substituted "local, and Tribal" for "and local".
+
+Subsec. (a)(3)(D). Pub. L. 117–328, §2403(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "review and revise, as appropriate, the contents of the stockpile on a regular basis to ensure that emerging threats, advanced technologies, and new countermeasures are adequately considered and that the potential depletion of countermeasures currently in the stockpile is identified and appropriately addressed, including through necessary replenishment;".
+
+Subsec. (a)(3)(F). Pub. L. 117–328, §2405(a)(1)(A), substituted "at the discretion of the Secretary, in consultation with, or at the request of, the Secretary of Homeland Security," for "as required by the Secretary of Homeland Security".
+
+Subsec. (a)(3)(J). Pub. L. 117–328, §2408(a)(2), substituted "local, and Tribal" for "and local".
+
+Subsec. (a)(3)(K). Pub. L. 117–328, §2404(b), added subpar. (K).
+
+Subsec. (a)(5). Pub. L. 117–328, §2405(a)(1)(C), added par. (5). Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 117–328, §2405(a)(1)(B), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (a)(6)(A)(x). Pub. L. 117–328, §2405(a)(1)(D), added cl. (x).
+
+Subsec. (a)(7). Pub. L. 117–328, §2406, amended par. (7) generally. Prior to amendment, text read as follows: "The Secretary, in coordination with the Secretary of Homeland Security, may sell drugs, vaccines and other biological products, medical devices, or other supplies maintained in the stockpile under paragraph (1) to a Federal agency or private, nonprofit, State, local, tribal, or territorial entity for immediate use and distribution, provided that any such items being sold are—
+
+&emsp;"(A) within 1 year of their expiration date; or
+
+&emsp;"(B) determined by the Secretary to no longer be needed in the stockpile due to advances in medical or technical capabilities."
+
+Pub. L. 117–328, §2405(a)(1)(B), redesignated par. (6) as (7).
+
+Subsec. (c)(2)(C). Pub. L. 117–328, §2405(a)(2), substituted "not later than March 15 of each year" for "on an annual basis".
+
+Subsec. (f)(1). Pub. L. 117–328, §2405(b), substituted "$610,000,000 for each of fiscal years 2019 through 2021, and $750,000,000 for each of fiscal years 2022 and 2023" for "$610,000,000 for each of fiscal years 2019 through 2023".
+
+Subsec. (i). Pub. L. 117–328, §2409(a), added subsec. (i).
 
 <b>2021</b>—Subsec. (a)(6). Pub. L. 117–58 added par. (6).
 
@@ -554,7 +744,7 @@ Subsec. (c)(7)(C)(i)(I). Pub. L. 113–5, §401(a)(5)(A), inserted "including ad
 
 Subsec. (c)(7)(C)(ii)(III). Pub. L. 113–5, §401(a)(5)(B)(i), substituted "10 years" for "eight years".
 
-Subsec. (c)(7)(C)(ii)(IX). Pub. L. 113–5, §401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX).Prior to amendment, text read as follows: "The Secretary, in any contract for procurement under this section, may specify—
+Subsec. (c)(7)(C)(ii)(IX). Pub. L. 113–5, §401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX). Prior to amendment, text read as follows: "The Secretary, in any contract for procurement under this section, may specify—
 
 &emsp;"(aa) the dosing and administration requirements for countermeasures to be developed and procured;
 
@@ -603,6 +793,150 @@ Subsecs. (a)(2), (b)(1). Pub. L. 107–296, §1705(a)(2), inserted "of Health an
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–296, title XVII, §1705(b), Nov. 25, 2002, 116 Stat. 2316, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of transfer of the Strategic National Stockpile of the Department of Health and Human Services to the Department \[of Homeland Security\]."
+
+#### Improving Transparency and Predictability of Processes of the Strategic National Stockpile
+
+Pub. L. 117–328, div. FF, title II, §2404(a), Dec. 29, 2022, 136 Stat. 5785, provided that: "Not later than 60 days after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue guidance describing the processes by which the Secretary deploys the contents of the Strategic National Stockpile under section 319F–2(a) of the Public Health Service Act (42 U.S.C. 247d–6b(a)), or otherwise distributes medical countermeasures, as applicable, to States, territories, Indian Tribes and Tribal organizations (as such terms are defined under section 4 of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5304\]), and other applicable entities. Such guidance shall include information related to processes by which to request access to the contents of the Strategic National Stockpile, factors considered by the Secretary when making deployment or distribution decisions, and processes and points of contact through which entities may contact the Secretary to address any issues related to products requested or received by such entity from the stockpile, and on other relevant topics."
+
+#### Increased Manufacturing Capacity for Certain Critical Antibiotic Drugs
+
+Pub. L. 117–328, div. FF, title II, §2411, Dec. 29, 2022, 136 Stat. 5793, provided that:
+
+"(a)
+
+Program.—
+
+&emsp;"(1)
+
+In general.—The Secretary, in consultation with the Assistant Secretary for Preparedness and Response and Commissioner of Food and Drugs, may award contracts to increase the domestic manufacturing capacity of certain antibiotic drugs with identified supply chain vulnerabilities, or the active pharmaceutical ingredient or key starting material of such antibiotic drugs.
+
+&emsp;"(2)
+
+Eligible entities.—To be eligible to receive an award under this subsection, an entity shall—
+
+&emsp;&emsp;"(A) be a manufacturer that is in compliance with, or demonstrates capability to comply with, the relevant requirements of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.); and
+
+&emsp;&emsp;"(B) prepare and submit to the Secretary an application at such time, and in such manner, and containing such information as the Secretary may require, including—
+
+&emsp;&emsp;&emsp;"(i) a description of proposed activities to be supported by an award under this subsection to increase manufacturing capacity for such antibiotic drug or drugs;
+
+&emsp;&emsp;&emsp;"(ii) the antibiotic drug or drugs, or related active pharmaceutical ingredients or key starting materials for such drug or drugs, that such entity intends to manufacture with any increased manufacturing capacity supported by an award under this subsection;
+
+&emsp;&emsp;&emsp;"(iii) any additional products such increased manufacturing capacity could be used to manufacture;
+
+&emsp;&emsp;&emsp;"(iv) a description of the current supply chain for such antibiotic drugs, including any existing and applicable manufacturing facilities, known vulnerabilities in the supply chain, known or potential supply limitations, such as foreign export restrictions, or subsidies from foreign governments, as applicable;
+
+&emsp;&emsp;&emsp;"(v) a description of how such entity may use advanced or flexible manufacturing in carrying out the terms of an award under this subsection; and
+
+&emsp;&emsp;&emsp;"(vi) a strategic plan regarding the maintenance, operation, and sustainment of such increased manufacturing capacity following the expiration of a contract under this subsection.
+
+&emsp;"(3)
+
+Use of funds.—A recipient of an award under this subsection shall use such funds to build, expand, upgrade, modify, or recommission a facility located in the United States, which may include the purchase or upgrade of equipment, as applicable, to support increased manufacturing capacity of certain antibiotic drugs for which supply chain vulnerabilities exist, or the active pharmaceutical ingredient or key starting material of such antibiotic drugs.
+
+&emsp;"(4)
+
+Reports.—An entity in receipt of an award under this subsection shall submit to the Secretary such reports as the Secretary may require related to increasing domestic manufacturing capacity of antibiotic drugs pursuant to a contract under this subsection, including actions taken to implement the strategic plan required under paragraph (2)(B)(vi).
+
+&emsp;"(5)
+
+Contract terms.—The following shall apply to a contract to support increased domestic manufacturing capacity under this subsection:
+
+&emsp;&emsp;"(A)
+
+Milestone-based payments.—The Secretary may provide payment, including advance payment or partial payment for significant milestones, if the Secretary makes a determination that such payment is necessary and appropriate.
+
+&emsp;&emsp;"(B)
+
+Repayment.—The contract shall provide that such payment is required to be repaid if there is a failure to perform by the manufacturer under the contract; if the specified milestones are reached, an advance or partial payment shall not be required to be repaid.
+
+&emsp;&emsp;"(C)
+
+Contract duration.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Each contract shall be for a period not to exceed 5 years.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Non-renewability.—A contract shall not be renewable.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Notifications of extensions and terminations.—If the Secretary decides to terminate a contract prior to its expiration, the Secretary shall notify the manufacturer within 90 days of such determination.
+
+&emsp;&emsp;"(D)
+
+Additional terms.—The Secretary, in any contract under this subsection—
+
+&emsp;&emsp;&emsp;"(i) may specify—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the amount of funding that will be dedicated by the Secretary for supporting increased manufacturing capacity under such contract; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the amount of manufacturing capacity that such eligible entity must meet; and
+
+&emsp;&emsp;&emsp;"(ii) shall provide a clear statement of defined Federal Government purpose limited to uses related to increasing domestic manufacturing capacity for antibiotic drugs to address identified supply chain vulnerabilities and challenges to establishing and maintaining domestic manufacturing capacity.
+
+&emsp;&emsp;"(E)
+
+Sustainment.—Each contract shall provide for the eligible entity to update the strategic plan required under paragraph (2)(B)(vi) throughout the duration of such contract, as required by the Secretary.
+
+"(b)
+
+Report.—Not later than 2 years after the date of enactment of this Act \[Dec. 29, 2022\] and every year thereafter until the termination or expiration of all such contracts, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on any activities supported under subsection (a), including—
+
+&emsp;"(1) the antibiotic drugs for which the Secretary prioritized awards under subsection (a), including a description of how the Secretary consulted with stakeholders to inform such prioritization;
+
+&emsp;"(2) information regarding each contract awarded pursuant to subsection (a), including—
+
+&emsp;&emsp;"(A) the recipient of each such contract, including any recipients of a subaward;
+
+&emsp;&emsp;"(B) the milestone and performance requirements pursuant to each such contract;
+
+&emsp;&emsp;"(C) the duration of each such contract;
+
+&emsp;&emsp;"(D) the amount of funding provided by the Secretary pursuant to each such contract, including any advanced or partial payments;
+
+&emsp;&emsp;"(E) the antibiotic drugs supported through each such contract, including a description of the medical necessity of each such antibiotic drug and any supply chain vulnerabilities, limitations, and related characteristics identified pursuant to subsection (a)(2)(B)(iv) for each such antibiotic drug; and
+
+&emsp;&emsp;"(F) the amount of increased manufacturing capacity for such antibiotic drug that each such contract supports; and
+
+&emsp;"(3) a description of how such contracts address supply chain vulnerabilities, including increasing manufacturing capacity of antibiotic drugs in the United States; and
+
+&emsp;"(4) a description of the strategic plan submitted pursuant to subsection (a)(2)(B)(vi) by each recipient of an award under subsection (a).
+
+"(c)
+
+Rule of Construction.—Nothing in this section shall be construed—
+
+&emsp;"(1) to limit, directly or indirectly, or otherwise impact the private distribution, purchase, or sale of antibiotic drugs or active pharmaceutical ingredients or key starting materials; or
+
+&emsp;"(2) to authorize the Secretary to disclose any information that is a trade secret, or other privileged or confidential information subject to section 552(b)(4) of title 5, United States Code, or section 1905 of title 18, United States Code.
+
+"(d)
+
+Definitions.—For purposes of this section:
+
+&emsp;"(1)
+
+Active pharmaceutical ingredient.—The term 'active pharmaceutical ingredient' has the meaning given such term in section 744A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–41).
+
+&emsp;"(2)
+
+Antibiotic drug.—The term 'antibiotic drug' means an antibacterial or antifungal drug approved by the Food and Drug Administration under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) that is of significant priority to providing health care and is medically necessary to have available at all times in an amount adequate to serve patient needs.
+
+&emsp;"(3)
+
+Key starting material.—The term 'key starting material' means any component of a drug that the Secretary determines to be necessary to the safety and effectiveness of the drug.
+
+&emsp;"(4)
+
+Secretary.—The term 'Secretary' means the Secretary of Health and Human Services.
+
+"(e)
+
+Sunset.—The authority to enter into new contracts under this section shall cease to be effective 3 years after the date of enactment of this Act \[Dec. 29, 2022\], and, beginning on the date that is 8 years after the date of enactment of this Act, this section shall have no force or effect."
 
 #### First Responder Anthrax Preparedness
 
@@ -728,7 +1062,7 @@ Final report.—The final report required under subparagraph (A) shall—
 
 "(b)
 
-Deadline for Implementation.—Not later than 1 year after the date of enactment of this Act \[Dec. 14, 2016\], the Secretary of Homeland Security shall begin implementing the pilot program under this section.
+Deadline for Implementation.—Not later than 1 year after the date of enactment of this Act \[Dec. 14,2016\], the Secretary of Homeland Security shall begin implementing the pilot program under this section.
 
 "(c)
 
@@ -736,7 +1070,7 @@ Sunset.—The authority to carry out the pilot program under this section shall 
 
 #### Stockpile Functions Transferred
 
-Pub. L. 108–276, §3(c)(1),(2), July 21, 2004, 118 Stat. 853, provided that:
+Pub. L. 108–276, §3(c)(1), (2), July 21, 2004, 118 Stat. 853, provided that:
 
 "(1)
 
@@ -748,7 +1082,7 @@ Exceptions.—
 
 &emsp;"(A)
 
-Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functionsas are explicitly assigned to the Secretary of Homeland Security by this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\] (including the amendments made by this Act).
+Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functions as are explicitly assigned to the Secretary of Homeland Security by this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\] (including the amendments made by this Act).
 
 &emsp;"(B)
 
@@ -848,7 +1182,7 @@ Ex. Ord. No. 13944, Aug. 6, 2020, 85 F.R. 49929, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The United States must protect our citizens, critical infrastructure, military forces, and economy against outbreaks of emerging infectious diseases and chemical, biological, radiological, and nuclear (CBRN) threats. To achieve this, the United States must have a strong Public Health IndustrialBase with resilient domestic supply chains for Essential Medicines, Medical Countermeasures, and Critical Inputs deemed necessary for the United States. These domestic supply chains must be capable of meeting national security requirements for responding to threats arising from CBRN threats and public health emergencies, including emerging infectious diseases such as COVID–19. It is critical that we reduce our dependence on foreign manufacturers for Essential Medicines, Medical Countermeasures, and Critical Inputs to ensure sufficient and reliable long-term domestic production of these products, to minimize potential shortages, and to mobilize our Nation's Public Health Industrial Base to respond to these threats. It is therefore the policy of the United States to:
+Section 1. <i>Policy</i>. The United States must protect our citizens, critical infrastructure, military forces, and economy against outbreaks of emerging infectious diseases and chemical, biological, radiological, and nuclear (CBRN) threats. To achieve this, the United States must have a strong Public Health Industrial Base with resilient domestic supply chains for Essential Medicines, Medical Countermeasures, and Critical Inputs deemed necessary for the United States. These domestic supply chains must be capable of meeting national security requirements for responding to threats arising from CBRN threats and public health emergencies, including emerging infectious diseases such as COVID–19. It is critical that we reduce our dependence on foreign manufacturers for Essential Medicines, Medical Countermeasures, and Critical Inputs to ensure sufficient and reliable long-term domestic production of these products, to minimize potential shortages, and to mobilize our Nation's Public Health Industrial Base to respond to these threats. It is therefore the policy of the United States to:
 
 (a) accelerate the development of cost-effective and efficient domestic production of Essential Medicines and Medical Countermeasures and have adequate redundancy built into the domestic supply chain for Essential Medicines, Medical Countermeasures, and Critical Inputs;
 
@@ -886,7 +1220,7 @@ Sec. 2. <i>Maximizing Domestic Production in Procurement</i>. (a) Agencies shall
 
 (i) where the head of the agency determines in writing, with respect to a specific contract or order, that (1) their application would be inconsistent with the public interest; (2) the relevant Essential Medicines, Medical Countermeasures, and Critical Inputs are not produced in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality; or (3) their application would cause the cost of the procurement to increase by more than 25 percent, unless applicable law requires a higher percentage, in which case such higher percentage shall apply;
 
-(ii) with respect to the procurement of items that are necessary to respond to any public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), any major disaster or emergency declared under the Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), or any national emergency declared under the National Emergencies Act (50 U.S.C. 1601 et seq.).
+(ii) with respect to the procurement of items that are necessary to respond to any public health emergencydeclared under section 319 of the Public Health Service Act (42 U.S.C. 247d), any major disaster or emergency declared under the Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), or any national emergency declared under the National Emergencies Act (50 U.S.C. 1601 et seq.).
 
 (g) To the maximum extent permitted by law, any public interest determination made pursuant to section 2(f)(i)(1) of this order shall be construed to maximize the procurement and use of Essential Medicines and Medical Countermeasures produced in the United States.
 
@@ -1111,4 +1445,10 @@ Any reference in this memorandum to the provision of any Act shall be deemed to 
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

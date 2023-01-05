@@ -12,7 +12,7 @@ Pub. L. 100–668, §1, Nov. 16, 1988, 102 Stat. 3961, provided: "That this Act 
 
 #### Dedication of Park to Senator Henry M. Jackson
 
-Pub. L. 100–85, Aug. 10, 1987, 101 Stat. 551, provided: "That the North Cascades National Park, Washington, is hereby dedicated to Senator Henry M. Jackson in recognition of his leadership in establishing the North Cascades National Park, his outstanding contributions to the National Park System, the National Wilderness Preservation System, and to the protection and preservation of our great natural resources for the benefit of the people of the United States for all time.
+Pub. L. 100–85, Aug. 10, 1987, 101 Stat. 551, provided: "That the North Cascades National Park, Washington,is hereby dedicated to Senator Henry M. Jackson in recognition of his leadership in establishing the North Cascades National Park, his outstanding contributions to the National Park System, the National Wilderness Preservation System, and to the protection and preservation of our great natural resources for the benefit of the people of the United States for all time.
 
 "
 

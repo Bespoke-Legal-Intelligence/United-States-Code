@@ -26,7 +26,7 @@
 
 #### (3) Coordination of centers
 
-&emsp;The Director of NIH shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication and sharing of data between such centers.
+&emsp;The Director of NIH shall, as appropriate, provide for the coordination of informationamong centers under paragraph (1) and ensure regular communication and sharing of data between such centers.
 
 #### (4) Organization of centers
 
@@ -38,7 +38,7 @@
 
 #### (c) Facilitation of research
 
-The Director of NIH shall provide for a program under subsection (a)(1) under which samples of tissues and genetic materials that are of use in research on muscular dystrophy are donated, collected, preserved, and made available for such research. The program shall be carried out in accordance with accepted scientific andmedical standards for the donation, collection, and preservation of such samples.
+The Director of NIH shall provide for a program under subsection (a)(1) under which samples of tissues and genetic materials that are of use in research on muscular dystrophy are donated, collected, preserved, and made available for such research. The program shall be carried out in accordance with accepted scientific and medical standards for the donation, collection, and preservation of such samples.
 
 #### (d) Coordinating Committee
 
@@ -106,7 +106,7 @@ The Secretary shall, under subsection (a)(1), provide for a means through which 
 
 #### (g) Clinical research
 
-The Coordinating Committee may evaluate the potential need to enhance the clinical research infrastructure required to test emergingtherapies for the various forms of muscular dystrophy by prioritizing the achievement of the goals related to this topic in the plan under subsection (e)(1).
+The Coordinating Committee may evaluate the potential need to enhance the clinical research infrastructure required to test emerging therapies for the various forms of muscular dystrophy by prioritizing the achievement of the goals related to this topic in the plan under subsection (e)(1).
 
 (July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824; amended Pub. L. 109–482, title I, §§103(b)(4), 104(b)(1)(A), Jan. 15, 2007, 120 Stat. 3687, 3692; Pub. L. 110–154, §1(b)(3), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 110–361, §2, Oct. 8, 2008, 122 Stat. 4010; Pub. L. 113–166, §2, Sept. 26, 2014, 128 Stat. 1879.)
 

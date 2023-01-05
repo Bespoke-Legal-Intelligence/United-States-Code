@@ -22,7 +22,7 @@ Pub. L. 101–423, Oct. 12, 1990, 104 Stat. 912, as amended by Pub. L. 113–235
 
 "Whereas it is now widely recognized and scientifically demonstrated that the acidic papers commonly used for more than a century in documents, books, and other publications are self-destructing and will continue to self destruct;
 
-"Whereas Americans are facing the prospect of continuing to lose national, historical, scientific, and scholarly records, including government records, faster than salvage efforts can be mounted despite the dedicated efforts of many libraries, archives, and agencies, such as the Library of Congress and the National Archives and Records Administration;
+"Whereas Americans are facing the prospect of continuing to lose national, historical, scientific, andscholarly records, including government records, faster than salvage efforts can be mounted despite the dedicated efforts of many libraries, archives, and agencies, such as the Library of Congress and the National Archives and Records Administration;
 
 "Whereas nationwide hundreds of millions of dollars will have to be spent by the Federal, State, and local governments and private institutions to salvage the most essential books and other materials in the libraries and archives of government, academic, and private institutions;
 
@@ -52,7 +52,7 @@ Sec. 2. The Congress of the United States urgently recommends that—
 
 &emsp;"(3) American publishers and State and local governments use acid free permanent papers for publications of enduring value, in voluntary compliance with the American National Standard;
 
-&emsp;"(4) all publishers, private and governmental, prominently note the use of acid free permanentpaper in books, advertisements, catalogs, and standard bibliographic listings; and
+&emsp;"(4) all publishers, private and governmental, prominently note the use of acid free permanent paper in books, advertisements, catalogs, and standard bibliographic listings; and
 
 &emsp;"(5) the Secretary of State, Librarian of Congress, Archivist of the United States, and other Federal officials make known the national policy regarding acid free permanent papers to foreign governments and appropriate international agencies since the acid paper problem is worldwide and essential foreign materials being imported by our libraries are printed on acid papers.
 

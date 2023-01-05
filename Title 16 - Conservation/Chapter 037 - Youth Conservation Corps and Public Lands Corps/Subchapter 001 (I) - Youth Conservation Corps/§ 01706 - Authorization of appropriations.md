@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated amounts not to exceed $60,000,000 for each fiscal year, which amounts shall be made available to the Secretary of the Interior and the Secretary of Agriculture to carry out the purposes of this subchapter. Notwithstanding any other provision of law, funds appropriated for any fiscal year to carry out this subchapter shall remain available for obligation and expenditure until the end of the fiscal year following the fiscal year for which appropriated.
 
-(Pub. L. 91–378, title I, §106, formerly §6, as added Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1321;amended Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1068; renumbered title I, §106, and amended Pub. L. 103–82, title I, §105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
+(Pub. L. 91–378, title I, §106, formerly §6, as added Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1321; amended Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1068; renumbered title I, §106, and amended Pub. L. 103–82, title I, §105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
 
 #### <b>Editorial Notes</b>
 

@@ -38,7 +38,7 @@ Paragraph (4) of subsection (a), which required the Appraisal Subcommittee to su
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §1473(f)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "monitor the requirements established by States for the certification and licensing ofindividuals who are qualified to perform appraisals in connection with federally related transactions, including a code of professional responsibility;".
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §1473(f)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "monitor the requirements established by States for the certification and licensing of individuals who are qualified to perform appraisals in connection with federally related transactions, including a code of professional responsibility;".
 
 Subsec. (a)(2). Pub. L. 111–203, §367(6), struck out "and the Resolution Trust Corporation" after "agencies" in introductory provisions.
 

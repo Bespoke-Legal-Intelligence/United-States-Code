@@ -18,7 +18,7 @@
 
 &emsp;(1) preside over the Army Staff;
 
-&emsp;(2) transmit the plans and recommendations of the Army Staff to the Secretary and advisethe Secretary with regard to such plans and recommendations;
+&emsp;(2) transmit the plans and recommendations of the Army Staff to the Secretary and advise the Secretary with regard to such plans and recommendations;
 
 &emsp;(3) after approval of the plans or recommendations of the Army Staff by the Secretary, act as the agent of the Secretary in carrying them into effect;
 

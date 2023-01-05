@@ -92,7 +92,7 @@ For purposes of this section, the term "Government of Puerto Rico", in addition 
 
 #### (j) No default under existing contracts
 
-(1) Notwithstanding any contractual provision or applicable law to the contrary and so long asa stay under this section is in effect, the holder of a Liability Claim or any other claim (as such term is defined in section 101 of title 11) may not exercise or continue to exercise any remedy under a contract or applicable law in respect to the Government of Puerto Rico or any of its property—
+(1) Notwithstanding any contractual provision or applicable law to the contrary and so long as a stay under this section is in effect, the holder of a Liability Claim or any other claim (as such term is defined in section 101 of title 11) may not exercise or continue to exercise any remedy under a contract or applicable law in respect to the Government of Puerto Rico or any of its property—
 
 &emsp;(A) that is conditioned upon the financial condition of, or the commencement of a restructuring, insolvency, bankruptcy, or other proceeding (or a similar or analogous process) by, the Government of Puerto Rico, including a default or an event of default thereunder; or
 

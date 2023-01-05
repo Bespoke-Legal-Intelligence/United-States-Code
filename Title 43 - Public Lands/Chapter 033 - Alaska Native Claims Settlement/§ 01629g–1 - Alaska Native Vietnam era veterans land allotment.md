@@ -80,7 +80,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after March 12, 2019, the Secretary of Defense, in coordination with the Secretary of Veterans Affairs,shall provide to the Secretary a list of all members of the Armed Forces who served during the period between August 5, 1964, and December 31, 1971.
+&emsp;&emsp;Not later than 180 days after March 12, 2019, the Secretary of Defense, in coordination with the Secretary of Veterans Affairs, shall provide to the Secretary a list of all members of the Armed Forces who served during the period between August 5, 1964, and December 31, 1971.
 
 #### (B) Use
 

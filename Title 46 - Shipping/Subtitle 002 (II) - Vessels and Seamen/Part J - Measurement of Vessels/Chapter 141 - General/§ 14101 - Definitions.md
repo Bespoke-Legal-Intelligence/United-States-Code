@@ -24,7 +24,7 @@ In this part—
 
 &emsp;&emsp;(C) that departs from a place under the jurisdiction of the United States for a place in a foreign country; or
 
-&emsp;&emsp;(D) that makes a voyage between a place within a territory or possession of theUnited States and another place under the jurisdiction of the United States not within that territory or possession.
+&emsp;&emsp;(D) that makes a voyage between a place within a territory or possession of the United States and another place under the jurisdiction of the United States not within that territory or possession.
 
 (Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1919; Pub. L. 111–281, title III, §303(a), Oct. 15, 2010, 124 Stat. 2923.)
 

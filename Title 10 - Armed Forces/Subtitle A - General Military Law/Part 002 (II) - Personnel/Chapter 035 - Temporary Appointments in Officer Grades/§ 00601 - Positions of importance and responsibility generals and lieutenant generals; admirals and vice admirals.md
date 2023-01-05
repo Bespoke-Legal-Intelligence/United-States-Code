@@ -1,6 +1,6 @@
 ### §601. Positions of importance and responsibility: generals and lieutenant generals; admirals and vice admirals
 
-(a) The President may designate positions of importance and responsibility to carry the gradeof general or admiral or lieutenant general or vice admiral. The President may assign to any such position an officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is serving on active duty in any grade above colonel or, in the case of an officer of the Navy, any grade above captain. An officer assigned to any such position has the grade specified for that position if he is appointed to that grade by the President, by and with the advice and consent of the Senate. Except as provided in subsection (b), the appointment of an officer to a grade under this section for service in a position of importance and responsibility ends on the date of the termination of the assignment of the officer to that position.
+(a) The President may designate positions of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral. The President may assign to any such position an officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is serving on active duty in any grade above colonel or, in the case of an officer of the Navy, any grade above captain. An officer assigned to any such position has the grade specified for that position if he is appointed to that grade by the President, by and with the advice and consent of the Senate. Except as provided in subsection (b), the appointment of an officer to a grade under thissection for service in a position of importance and responsibility ends on the date of the termination of the assignment of the officer to that position.
 
 (b) An officer who is appointed to the grade of general, admiral, lieutenant general, or vice admiral for service in a position designated under subsection (a) or by law to carry that grade shall continue to hold that grade—
 
@@ -12,7 +12,11 @@
 
 &emsp;(4) at the discretion of the Secretary of Defense, while the officer is awaiting orders after being relieved from the position designated under subsection (a) or by law to carry one of those grades, but not for more than 60 days beginning on the day the officer is relieved from the position, unless, during such period, the officer is placed under orders to another position designated under subsection (a) or by law to carry one of those grades, in which case paragraph (2) will also apply to the officer; and
 
-&emsp;(5) while awaiting retirement, beginning on the day he is relieved from the position designated under subsection (a) or by law to carry one of those grades and ending on the day before his retirement, but not for more than 60 days.
+&emsp;(5) while awaiting retirement, beginning on the day he is relieved from the position designated under subsection (a) or by law to carry one of those grades and ending on the day before his retirement, but—
+
+&emsp;&emsp;(A) subject to subparagraph (B), not for more than 60 days; and
+
+&emsp;&emsp;(B) with respect to an officer awaiting retirement following not less than one year of consecutive deployment outside of the United States to a combat zone (as defined in section 112(c) of the Internal Revenue Code of 1986) or in support of a contingency operation, not for more than 90 days.
 
 (c)(1) An appointment of an officer under subsection (a) does not vacate the permanent grade held by the officer.
 
@@ -24,11 +28,17 @@
 
 (e) Prior to making a recommendation to the Secretary of Defense for the nomination of an officer for appointment to a position of importance and responsibility under this section, which appointment would result in the initial appointment of the officer concerned in the grade of lieutenant general or general in the Army, Air Force, or Marine Corps, vice admiral or admiral in the Navy, or the commensurate grades in the Space Force, the Secretary concerned shall consider all officers determined to be among the best qualified for such position.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2849; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §523, Oct. 19, 1984, 98 Stat. 2523; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §403, Oct. 1, 1986, 100 Stat. 1031; Pub. L. 102–190, div. A, title V, §502(a), Dec. 5, 1991, 105 Stat. 1354; Pub. L. 104–106, div. A, title IV, §403(c), Feb. 10, 1996, 110 Stat. 287; Pub. L. 110–181, div. A, title V, §501(a), Jan. 28, 2008, 122 Stat. 94; Pub. L. 116–283, div. A, title V, §551(b)(1), title IX, §924(b)(3)(C), Jan. 1, 2021, 134 Stat. 3630, 3821.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2849; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §523, Oct. 19, 1984, 98 Stat. 2523; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §403, Oct. 1, 1986, 100 Stat. 1031; Pub. L. 102–190, div. A, title V, §502(a), Dec. 5, 1991, 105 Stat. 1354; Pub. L. 104–106, div. A, title IV, §403(c), Feb. 10, 1996, 110 Stat. 287; Pub. L. 110–181, div. A, title V, §501(a), Jan. 28, 2008, 122 Stat. 94; Pub. L. 116–283, div. A, title V, §551(b)(1), title IX, §924(b)(3)(C), Jan. 1, 2021, 134 Stat. 3630, 3821; Pub. L. 117–263, div. A, title V, §505, Dec. 23, 2022, 136 Stat. 2558.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 112 of the Internal Revenue Code of 1986, referred to in subsec. (b)(5)(B), is classified to section 112 of Title 26, Internal Revenue Code.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(5). Pub. L. 117–263 substituted "retirement, but—" and subpars. (A) and (B) for "retirement, but not for more than 60 days."
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §924(b)(3)(C), substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
@@ -50,7 +60,7 @@ Subsec. (b)(4). Pub. L. 104–106, §403(c)(4), inserted "under subsection (a) o
 
 <b>1985</b>—Subsec. (c)(2). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–525 amended subsec. (b) generally, which prior to amendment had provided that if the assignment of an officer who was serving in a position designated to carry the grade of general, admiral, lieutenant general, or vice admiral was terminated (1) by the assignment of such officer to another position designated to carry one of those grades, such officers would hold, during the period beginning on the day of that termination and ending on the day before theday on which he assumed the other position, the grade that he had held on the day before the termination; (2) by the hospitalization of such officer, such officer would hold, during the period beginning on the day of that termination and ending on the day he was discharged from the hospital, but not for more than 180 days, the grade that he had held on the day before the termination; or (3) by the retirement of such officer, such officer would hold, during the period beginning on the day of that termination and ending on the day before his retirement, but not for more than 90 days, the grade that he had held on the day before the termination.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 amended subsec. (b) generally, which prior to amendment had provided that if the assignment of an officer who was serving in a position designated to carry the grade of general, admiral, lieutenant general, or vice admiral was terminated (1) by the assignment of such officer to another position designated to carry one of those grades, such officers would hold, during the period beginning on the day of that termination and ending on the day before the day on which he assumed the other position, the grade that he had held on the day before the termination; (2) by the hospitalization of such officer, such officer would hold, during the period beginning on the day of that termination and ending on the day he was discharged from the hospital, but not for more than 180 days, the grade that he had held on the day before the termination; or (3) by the retirement of such officer, such officer would hold, during the period beginning on the day of that termination and ending on the day before his retirement, but not for more than 90 days, the grade that he had held on the day before the termination.
 
 <b>1981</b>—Subsec. (c)(2). Pub. L. 97–86 substituted "commodore" for "commodore admiral".
 

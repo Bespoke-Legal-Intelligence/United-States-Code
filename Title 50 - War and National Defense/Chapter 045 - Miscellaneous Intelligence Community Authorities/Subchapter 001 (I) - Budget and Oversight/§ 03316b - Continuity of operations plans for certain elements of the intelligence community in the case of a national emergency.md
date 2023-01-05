@@ -34,7 +34,7 @@ The Director of National Intelligence, the Director of the Central Intelligence 
 
 #### (d) Updates
 
-During a covered national emergency, the Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Reconnaissance Office, the Director of the Defense Intelligence Agency, the Director of the National Security Agency, and the Director of the National Geospatial-IntelligenceAgency shall each submit any updates to the plans submitted under subsection (c)—
+During a covered national emergency, the Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Reconnaissance Office, the Director of the Defense Intelligence Agency, the Director of the National Security Agency, and the Director of the National Geospatial-Intelligence Agency shall each submit any updates to the plans submitted under subsection (c)—
 
 &emsp;(1) in accordance with that subsection; and
 
@@ -44,7 +44,7 @@ During a covered national emergency, the Director of National Intelligence, the 
 
 #### References in Text
 
-The National Emergencies Act, referred to in subsec. (a)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The National Emergencies Act, referred to in subsec. (a)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255,which is classified principally to chapter 34 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Definitions
 

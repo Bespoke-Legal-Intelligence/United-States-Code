@@ -6,7 +6,7 @@ Nuclear Officer Bonus.—The Secretary of the Navy may pay a nuclear officer bon
 
 &emsp;(1) is selected for the officer naval nuclear power training program in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants and agrees to serve, upon completion of such training, on active duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants; or
 
-&emsp;(2) has the current technical qualification for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants and agrees to remain on active duty in connection with the supervision,operation, and maintenance of naval nuclear propulsion plants.
+&emsp;(2) has the current technical qualification for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants and agrees to remain on active duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
 (b)
 
@@ -28,7 +28,7 @@ Maximum Amount and Method of Payment.—
 
 Maximum amount.—The Secretary of the Navy shall determine the amounts of a nuclear officer bonus or nuclear officer incentive pay to be paid under this section, except that—
 
-&emsp;&emsp;(A) a nuclear officer bonus paid under subsection (a) may not exceed $50,000 for each 12-month period of the agreement under subsection (e); and
+&emsp;&emsp;(A) a nuclear officer bonus paid under subsection (a) may not exceed $75,000 for each 12-month period of the agreement under subsection (e); and
 
 &emsp;&emsp;(B) the amount of nuclear officer incentive paid under subsection (b) may not exceed $25,000 for each 12-month period of qualifying service.
 
@@ -62,7 +62,7 @@ Replacement agreement.—An officer who is performing obligated service under an
 
 (f)
 
-Relationship to Other Pay and Allowances.—A nuclear officer bonus or nuclear officer incentive pay paid to a person or officer under this section is in addition to any other pay and allowance to which the person or officer is entitled, except that a person or officer may not receive a payment under this section and section 332 or 353 of this title for the same skill and period of service.
+Relationship to Other Pay and Allowances.—A nuclear officer bonus or nuclear officer incentive pay paid to a person or officerunder this section is in addition to any other pay and allowance to which the person or officer is entitled, except that a person or officer may not receive a payment under this section and section 332 or 353 of this title for the same skill and period of service.
 
 (g)
 
@@ -74,13 +74,17 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2022.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2023.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 166; amended Pub. L. 110–417, \[div. A\], title VI, §618(a), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(3), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(3), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(3), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(3), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(3), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(3), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §§614(3), 616, Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(3), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §614(3), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(c), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(c), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §611(c), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, §611(c), Dec. 27, 2021, 135 Stat. 1769.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 166; amended Pub. L. 110–417, \[div. A\], title VI, §618(a), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(3), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(3), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(3), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(3), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(3), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(3), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §§614(3), 616, Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(3), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §614(3), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(c), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(c), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §611(c), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, §611(c), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, §§601(c), 602(b), Dec. 23, 2022, 136 Stat. 2619, 2620.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(1)(A). Pub. L. 117–263, §602(b), substituted "$75,000" for "$50,000".
+
+Subsec. (i). Pub. L. 117–263, §601(c), substituted "December 31, 2023" for "December 31, 2022".
 
 <b>2021</b>—Subsec. (i). Pub. L. 117–81 substituted "December 31, 2022" for "December 31, 2021".
 

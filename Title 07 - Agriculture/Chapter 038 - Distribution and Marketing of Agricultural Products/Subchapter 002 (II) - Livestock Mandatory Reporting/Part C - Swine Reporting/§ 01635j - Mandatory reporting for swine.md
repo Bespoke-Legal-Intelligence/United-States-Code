@@ -96,7 +96,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;&emsp;&emsp;(II) information concerning the average net price, which shall be equal to the quotient (stated per hundred pounds of carcass weight of barrows and gilts) obtained by dividing—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the total amount paid for the barrows and gilts slaughtered at a packing plant during the applicable reporting period, including all premiums and discounts, and including any sum deducted from the price per hundredweight paid to a producer that reflects the repayment of a balance owed by the producer to the packer, or the accumulation of a balance to later be repaid by the packer to the producer, less all discounts; by
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the total amount paid for the barrows and gilts slaughtered at a packing plant during the applicable reporting period, including all premiums and discounts, and including any sum deducted from the price per hundredweight paid to a producer that reflects the repayment of a balance owed bythe producer to the packer, or the accumulation of a balance to later be repaid by the packer to the producer, less all discounts; by
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total carcass weight (in hundred pound increments) of the barrows and gilts;
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) medical care and necessary guard hire; and
 
-&emsp;(3) the housing, care, and security of persons held in custody of a United States marshal pursuant to Federal law under agreements with State or local units of government or contracts with private entities.
+&emsp;(3) the housing, care, and security of persons held in custody of a United States marshalpursuant to Federal law under agreements with State or local units of government or contracts with private entities.
 
 (b) The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for entering into contracts or cooperative agreements with any State, territory, or political subdivision thereof, for the necessary construction, physical renovation, acquisition of equipment, supplies, or materials required to establish acceptable conditions of confinement and detention services in any State or local jurisdiction which agrees to provide guaranteed bed space for Federal detainees within that correctional system, in accordance with regulations which are issued by the Attorney General and are comparable to the regulations issued under section 4006 of this title, except that—
 
@@ -62,7 +62,7 @@ In general.—Notwithstanding amounts paid under subsection (a)(3), a State or l
 
 &emsp;(2)
 
-No refusal of treatment for financial reasons.—Nothing in this subsection may beconstrued to permit any refusal of treatment to a prisoner on the basis that—
+No refusal of treatment for financial reasons.—Nothing in this subsection may be construed to permit any refusal of treatment to a prisoner on the basis that—
 
 &emsp;&emsp;(A) the account of the prisoner is insolvent; or
 
@@ -140,7 +140,7 @@ Section 1. <i>Policy</i>. More than two million people are currently incarcerate
 
 We must ensure that our Nation's incarceration and correctional systems are prioritizing rehabilitation and redemption. Incarcerated individuals should be given a fair chance to fully reintegrate into their communities, including by participating in programming tailored to earning a good living, securing affordable housing, and participating in our democracy as our fellow citizens. However, privately operated criminal detention facilities consistently underperform Federal facilities with respect to correctional services, programs, and resources. We should ensure that time in prison prepares individuals for the next chapter of their lives.
 
-The Federal Government also has a responsibility to ensure the safe and humane treatment of those in the Federal criminal justice system. However, as the Department of Justice's Office of Inspector General found in 2016, privately operated criminal detention facilities do not maintain the same levels of safety and security for people in the Federal criminal justice system or for correctional staff. We have a duty to provide these individuals with safe working and living conditions.
+The Federal Government also has a responsibility to ensure the safe and humane treatment of those in theFederal criminal justice system. However, as the Department of Justice's Office of Inspector General found in 2016, privately operated criminal detention facilities do not maintain the same levels of safety and security for people in the Federal criminal justice system or for correctional staff. We have a duty to provide these individuals with safe working and living conditions.
 
 Sec. 2. <i>Contracts with Privately Operated Criminal Detention Facilities</i>. The Attorney General shall not renew Department of Justice contracts with privately operated criminal detention facilities, as consistent with applicable law.
 

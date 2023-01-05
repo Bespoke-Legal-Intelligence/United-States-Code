@@ -74,7 +74,7 @@ In the case of a member of the Armed Forces of the United States on active duty 
 
 &emsp;(2) any moving and storage expenses which are furnished in kind (or for which reimbursement or an allowance is provided, but only to the extent of the expenses paid or incurred) to such member, his spouse, or his dependents, shall not be includible in gross income, and no reporting with respect to such expenses shall be required by the Secretary of Defense or the Secretary of Transportation, as the case may be; and
 
-&emsp;(3) if moving and storage expenses are furnished in kind (or if reimbursement or an allowance for such expenses is provided) to such member's spouse and his dependents with regard to moving to a location other than the one to which such member moves (or from a location other than the one from which such member moves), this section shall apply with respect to the moving expenses of his spouse and dependents—
+&emsp;(3) if moving and storage expenses are furnished in kind (or if reimbursement or an allowance for such expenses is provided) to such member's spouse and his dependents with regard to moving to a location other than theone to which such member moves (or from a location other than the one from which such member moves), this section shall apply with respect to the moving expenses of his spouse and dependents—
 
 &emsp;&emsp;(A) as if his spouse commenced work as an employee at a new principal place of work at such location; and
 
@@ -164,7 +164,7 @@ Definition.—For purposes of this section, the term 'self-employed individual' 
 
 Rule for application of subsections (b)(1)
 
-(c) and (d).—For purposes of subparagraphs (C) and (D) of subsection (b)(1), an individual who commences work at a new principal place of work as a self-employed individual shall be treated as having obtained employment when he has made substantial arrangements to commence such work."
+(c) and (d).—For purposes of subparagraphs (C) and (D) ofsubsection (b)(1), an individual who commences work at a new principal place of work as a self-employed individual shall be treated as having obtained employment when he has made substantial arrangements to commence such work."
 
 Subsec. (g)(3). Pub. L. 103–66, §13213(a)(2)(C), inserted "and" at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "for purposes of subsection (b)(3), as if such place of work was within the same general location as the member's new principal place of work, and".
 
@@ -222,7 +222,7 @@ Section applicable to expenses incurred after Dec. 31, 1963, in taxable years en
 
 Pub. L. 93–490, §2, Oct. 26, 1974, 88 Stat. 1466, authorized the Secretary of the Treasury, applicable with respect to taxable years ending before January 1, 1976, to:
 
-&emsp;(1) enter into an agreement with the Secretary concerned under which the Secretary concerned wouldnot be required to withhold tax on, or to report, moving expense reimbursements made to members of the armed forces;
+&emsp;(1) enter into an agreement with the Secretary concerned under which the Secretary concerned would not be required to withhold tax on, or to report, moving expense reimbursements made to members of the armed forces;
 
 &emsp;(2) permit any taxpayer who was a member of the armed forces not to include in adjusted gross income the amount of any reimbursement in kind of moving expenses made by the Secretary concerned; and
 

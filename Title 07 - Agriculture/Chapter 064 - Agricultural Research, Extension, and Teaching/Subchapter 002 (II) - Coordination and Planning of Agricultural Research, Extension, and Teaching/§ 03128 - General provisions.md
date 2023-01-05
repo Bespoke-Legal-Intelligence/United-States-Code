@@ -38,7 +38,7 @@ Pub. L. 104–127, §852(b)(4)(B), which directed substitution of "Advisory Boar
 
 Subsec. (b). Pub. L. 101–624, §1605(b)(2)(B), substituted ", the Advisory Board, and the Technology Board" for "and Advisory Board".
 
-Subsecs. (d), (e). Pub. L. 101–624, §1605(b)(2)(C), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "The Subcommittee on Food, Agricultural, and Forestry Research, the Joint Council, and the Advisory Board shall improve communication and interaction among themselves and with others in the agricultural science and education system through such mechanisms as the exchange of reports, joint meetings, and the use of liaison representatives."
+Subsecs. (d), (e). Pub. L. 101–624, §1605(b)(2)(C), redesignated subsec. (e) as (d) and struck out former subsec.\(d) which read as follows: "The Subcommittee on Food, Agricultural, and Forestry Research, the Joint Council, and the Advisory Board shall improve communication and interaction among themselves and with others in the agricultural science and education system through such mechanisms as the exchange of reports, joint meetings, and the use of liaison representatives."
 
 <b>1981</b>—Subsecs. (c) to (e). Pub. L. 97–98 added subsecs. (c) to (e).
 

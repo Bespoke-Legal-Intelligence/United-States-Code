@@ -32,7 +32,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 (1) Subsection (a) of this section shall not apply to any acquisition or holding of qualifying employer securities or qualifying employer real property by an eligible individual account plan.
 
-(2)(A) If this paragraph applies to an eligible individual account plan, the portion of such planwhich consists of applicable elective deferrals (and earnings allocable thereto) shall be treated as a separate plan—
+(2)(A) If this paragraph applies to an eligible individual account plan, the portion of such plan which consists of applicable elective deferrals (and earnings allocable thereto) shall be treated as a separate plan—
 
 &emsp;(i) which is not an eligible individual account plan, and
 
@@ -72,7 +72,7 @@ Cross References.—
 
 &emsp;(B) an amount equal to the sum of (i) the total amount of the contributions to the plan received after December 31, 1974, and prior to such date, plus (ii) the fair market value of the assets of the plan, determined on January 1, 1975.
 
-(2) For purposes of this subsection, in the case of an employer security held by a plan after January 1, 1975, the ownership of which is derived from ownership of employer securities held by the plan on January 1, 1975, or from the exercise of rights derived from such ownership, the value of such security held after January 1, 1975, shall be based on the value as of January 1, 1975, of the security from which ownership was derived. The Secretary shall prescribe regulations to carry out this paragraph.
+(2) For purposes of this subsection, in the case of an employer security held by a plan after January 1, 1975, the ownership of which is derived from ownership of employer securities heldby the plan on January 1, 1975, or from the exercise of rights derived from such ownership, the value of such security held after January 1, 1975, shall be based on the value as of January 1, 1975, of the security from which ownership was derived. The Secretary shall prescribe regulations to carry out this paragraph.
 
 (3) An election under this paragraph may not be made after December 31, 1975. Such an election shall be made in accordance with regulations prescribed by the Secretary, and shall be irrevocable. A plan may make an election under this paragraph only if on January 1, 1975, the plan holds no employer real property. After such election and before January 1, 1985 the plan may not acquire any employer real property.
 

@@ -108,7 +108,7 @@ In subsection (e), the words "under chapter 35 of title 31" are substituted for 
 
 <b>2012</b>—Subsec. (c)(1). Pub. L. 112–95 substituted "agent, or a claims adjuster who is independent of the underwriting agent," for "agent" in second sentence.
 
-<b>1997</b>—Subsec. (b)(1). Pub. L. 105–137, §4(a), inserted after second sentence "Any such policy may authorize the binding arbitration of claims made thereunder in such manner as may be agreed to by the Secretary and any commercial insurer that may be responsible for any part of a loss to which such policy relates."
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–137, §4(a), inserted after second sentence "Any such policy may authorize the binding arbitration of claims made thereunder in such manner as may be agreed to by the Secretary andany commercial insurer that may be responsible for any part of a loss to which such policy relates."
 
 Subsec. (b)(2). Pub. L. 105–137, §4(b), struck out "and" at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 

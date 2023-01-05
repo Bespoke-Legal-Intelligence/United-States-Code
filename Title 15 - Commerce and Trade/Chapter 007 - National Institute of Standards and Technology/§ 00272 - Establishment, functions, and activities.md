@@ -14,7 +14,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the "Secreta
 
 &emsp;(3) to facilitate standards-related information sharing and cooperation between Federal agencies and to coordinate the use by Federal agencies of private sector standards, emphasizing where possible the use of standards developed by private, consensus organizations;
 
-&emsp;(4) to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;
+&emsp;(4) to enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of its work and on such terms as it may determine appropriate, in furtherance of the purposes of this chapter;
 
 &emsp;(5) to provide United States industry, Government, and educational institutions with a national clearinghouse of current information, techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
 
@@ -68,33 +68,43 @@ In carrying out the functions specified in subsection (b), the Secretary, acting
 
 &emsp;(15) on an ongoing basis, facilitate and support the development of a voluntary, consensus-based, industry-led set of standards, guidelines, best practices, methodologies, procedures, and processes to cost-effectively reduce cyber risks to critical infrastructure (as defined under subsection (e));
 
-&emsp;(16) perform research to support the development of voluntary, consensus-based, industry-led standards and recommendations on the security of computers, computer networks, and computer data storage used in election systems to ensure voters can vote securely and privately.<sup>3</sup>
+&emsp;(16) support information security measures for the development and lifecycle of software and the software supply chain, including development of voluntary, consensus-based technical standards, best practices, frameworks, methodologies, procedures, processes, and software engineering toolkits and configurations;
 
-&emsp;(17) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
+&emsp;(17) support information security measures, including voluntary, consensus-based technical standards, best practices, and guidelines, for the design, adoption, and deployment of cloud computing services;
 
-&emsp;(18) undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
+&emsp;(18) support research, development, and practical application to improve the usability of cybersecurity processes and technologies;
 
-&emsp;(19) host, participate in, and support scientific and technical workshops (as defined in section 202 of the American Innovation and Competitiveness Act);
+&emsp;(19) facilitate and support the development of a voluntary, consensus-based set of technical standards, guidelines, best practices, methodologies, procedures, and processes to improve privacy protections in systems, technologies, and processes used by both the public and private sector;
 
-&emsp;(20) collect and retain any fees charged by the Secretary for hosting a scientific and technical workshop described in paragraph (19);
+&emsp;(20) support privacy measures, including voluntary, consensus-based technical standards, best practices, guidelines, metrology, and testbeds for the design, adoption, and deployment of privacy enhancing technologies;
 
-&emsp;(21) notwithstanding title 31 of the United States Code, use the fees described in paragraph (20) to pay for any related expenses, including subsistence expenses for participants;
+&emsp;(21) perform research to support the development of voluntary, consensus-based, industry-led standards and recommendations on the security of computers, computer networks, and computer data storage used in election systems to ensure voters can vote securely and privately;
 
-&emsp;(22) compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
+&emsp;(22) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
 
-&emsp;(23) collect, create, analyze, and maintain specimens of scientific value;
+&emsp;(23) undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
 
-&emsp;(24) operate national user facilities;
+&emsp;(24) host, participate in, and support scientific and technical workshops (as defined in section 202 of the American Innovation and Competitiveness Act);
 
-&emsp;(25) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
+&emsp;(25) collect and retain any fees charged by the Secretary for hosting a scientific and technical workshop described in paragraph (19); <sup>2</sup>
 
-&emsp;(26) demonstrate the results of the Institute's activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+&emsp;(26) notwithstanding title 31 of the United States Code, use the fees described in paragraph (20) <sup>2</sup> to pay for any related expenses, including subsistence expenses for participants;
 
-&emsp;(27) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
+&emsp;(27) compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
+
+&emsp;(28) collect, create, analyze, and maintain specimens of scientific value;
+
+&emsp;(29) operate national user facilities;
+
+&emsp;(30) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
+
+&emsp;(31) demonstrate the results of the Institute's activities by exhibits or other methodsof technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+
+&emsp;(32) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
 
 #### (d) Management costs
 
-In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k and 278l of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant toauthorizations for these programs in order to pay for the Institute's management of these programs.
+In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k and 278l of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute's management of these programs.
 
 #### (e) Cyber risks
 
@@ -122,9 +132,11 @@ In carrying out the extramural funding programs of the Institute, including the 
 
 &emsp;&emsp;&emsp;(vii) prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes;
 
-&emsp;&emsp;&emsp;(viii) consider small business concerns (as defined in section 632 of this title); and
+&emsp;&emsp;&emsp;(viii) consider small business concerns (as defined in section 632 of this title);
 
-&emsp;&emsp;&emsp;(ix) include such other similar and consistent elements as the Director considers necessary; and
+&emsp;&emsp;&emsp;(ix) consider institutions of higher education (as such term is defined in section 1001 of title 20); and
+
+&emsp;&emsp;&emsp;(x) include such other similar and consistent elements as the Director considers necessary; and
 
 &emsp;&emsp;(B) shall not prescribe or otherwise require—
 
@@ -150,7 +162,7 @@ In carrying out the extramural funding programs of the Institute, including the 
 
 &emsp;&emsp;The term "sector-specific agency" means the Federal department or agency responsible for providing institutional knowledge and specialized expertise as well as leading, facilitating, or supporting the security and resilience programs and associated activities of its designated critical infrastructure sector in the all-hazards environment.
 
-(Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598; Pub. L. 113–274, title I, §101(a), (b), Dec. 18, 2014, 128 Stat. 2972; Pub. L. 114–329, title I, §104(b)(4), title II, §§202(d), 205(a)(2)(B), title IV, §403, Jan. 6, 2017, 130 Stat. 2976, 2998, 3000, 3023; Pub. L. 115–236, §2(b), Aug. 14, 2018, 132 Stat. 2444.)
+(Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598; Pub. L. 113–274, title I, §101(a), (b), Dec. 18, 2014, 128 Stat. 2972; Pub. L. 114–329, title I, §104(b)(4), title II, §§202(d), 205(a)(2)(B), title IV, §403, Jan. 6, 2017, 130 Stat. 2976, 2998, 3000, 3023; Pub. L. 115–236, §2(b), Aug. 14, 2018, 132 Stat. 2444; Pub. L. 117–167, div. B, title II, §§10223, 10228, 10242(a), Aug. 9, 2022, 136 Stat. 1477, 1481, 1487.)
 
 #### <b>Editorial Notes</b>
 
@@ -158,9 +170,21 @@ In carrying out the extramural funding programs of the Institute, including the 
 
 Section 278g–3 of this title, referred to in subsec. (c)(13), was amended, and no longer defines the term "computer systems".
 
-Section 202 of the American Innovation and Competitiveness Act, referred to in subsec. (c)(19), is section 202 of Pub. L. 114–329, title II, Jan. 6, 2017, 130 Stat. 2997. Subsec. (a) of that section, which defines "scientific and technical workshop", is not classified to the Code.
+Section 202 of the American Innovation and Competitiveness Act, referred to in subsec. (c)(24), is section 202 of Pub. L. 114–329, title II, Jan. 6, 2017, 130 Stat. 2997. Subsec. (a) of that section, which defines "scientific and technical workshop", is not classified to the Code.
+
+Paragraphs (19) and (20), referred to in subsec. (c)(25) and (26), were redesignated as pars. (24) and (25), respectively, of subsec. (c) of this section by Pub. L. 117–167, div. B, title II, §10223(2), Aug. 9, 2022, 136 Stat. 1477.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(4). Pub. L. 117–167, §10242(a), amended par. (4) generally. Prior to amendment, par. (4) readas follows: "to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;".
+
+Subsec. (c)(16). Pub. L. 117–167, §10223(3), added par. (16). Former par. (16) redesignated (17).
+
+Pub. L. 117–167, §10223(1), substituted semicolon for period at end.
+
+Subsec. (c)(17) to (32). Pub. L. 117–167, §10223(2), (3), added pars. (17) to (20) and redesignated former pars. (16) to (27) as (21) to (32), respectively.
+
+Subsec. (e)(1)(A)(ix), (x). Pub. L. 117–167, §10228, added cl. (ix) and redesignated former cl. (ix) as (x).
 
 <b>2018</b>—Subsec. (e)(1)(A)(viii), (ix). Pub. L. 115–236 added cl. (viii) and redesignated former cl. (viii) as (ix).
 
@@ -204,11 +228,21 @@ Par. (20). Pub. L. 100–235 added par. (20).
 
 #### Change of Name
 
-Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in section 651(5) of Title 6, Domestic Security, see section 652a(c)(3) of Title 6, enacted Jan. 1, 2021.
+Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in section 650 of Title 6, Domestic Security, see section 652a(c)(3) of Title 6, enacted Jan. 1, 2021.
 
 #### Construction of Pub. L. 115–236
 
 Pub. L. 115–236, §2(d), Aug. 14, 2018, 132 Stat. 2445, provided that: "Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies."
+
+#### Reporting
+
+Pub. L. 117–167, div. B, title II, §10242(b), Aug. 9, 2022, 136 Stat. 1487, provided that: "Not later than one year after the date of the enactment of this Act \[Aug. 9, 2022\] and not less than annually thereafter, the Secretary \[of Commerce\] shall submit to the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate a report on the use of agreements, activities, and associated funding for transactions (other than contracts, cooperative agreements, and grants) described in paragraph (4) of section 2(b) of the National Institute of Standards and Technology Act \[15 U.S.C. 272(b)(4)\] (as amended by subsection (a)), including the following elements:
+
+&emsp;"(1) A description of when the other transactions authority described in such amended paragraph was used and for what purpose.
+
+&emsp;"(2) A description of why such other transactions authority was required.
+
+&emsp;"(3) Steps taken to ensure necessary and sufficient oversight of Federal Government requirements implemented using such other transactions authority."
 
 #### Dissemination of Resources for Small Businesses
 
@@ -409,6 +443,4 @@ Small business concern.—The term 'small business concern' has the meaning give
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

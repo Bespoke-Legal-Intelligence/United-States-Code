@@ -30,7 +30,7 @@
 
 (3) Any participant who is involuntarily retired or separated under section 4007, 4008, 4010, or 4010a of this title and who would if a participant under part I, become eligible for a refund of contributions or a deferred annuity under part I, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
 
-(4) A disability annuity under this part required to be redetermined under section 8452(b) of title 5, or computed under section 8452(c) or (d) of such title 5, shall be recomputed or computed using the formula in subsection (b)(2)(A) of this section rather than section 8415 of such title 5 (as stated in section 8452(b)(2)(A) and8452(c) and (d) of such title). Such annuity shall also be computed in accordance with the preceding sentence if, as of the day on which such annuity commences or is restored, the annuitant satisfies the age and service requirements for entitlement to an immediate annuity under section 4051 of this title.
+(4) A disability annuity under this part required to be redetermined under section 8452(b) of title 5, or computed under section 8452(c) or (d) of such title 5, shall be recomputed or computed using the formula in subsection (b)(2)(A) of this section rather than section 8415 of such title 5 (as stated in section 8452(b)(2)(A) and 8452(c) and (d) of such title). Such annuity shall also be computed in accordance with the preceding sentence if, as of the day on which such annuity commences or is restored, the annuitant satisfies the age and service requirements for entitlement to an immediate annuity under section 4051 of this title.
 
 (5) A former participant entitled to a deferred annuity under section 8413(b) of title 5 shall not be subject to section 8415(g)(1) of such title 5 if the former participant has 20 years of service creditable under this part and is at least 50 years of age as of the date on which the annuity is to commence.
 
@@ -40,7 +40,7 @@
 
 #### (c) Annuity supplement
 
-A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) of such title.
+A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) <sup>1</sup> of such title.
 
 #### (d) Separation for cause based on disloyalty
 
@@ -55,6 +55,8 @@ Any participant who is separated for cause under section 4010 of this title shal
 Section 8414 of title 5, referred to in subsec. (a)(3), does not contain the term "average pay". Section 8415 of title 5 relates to annuity computation, and section 8401 of title 5 defines "average pay".
 
 The Central Intelligence Agency Retirement Act, referred to in subsec. (b)(2)(A)(ii), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
+
+Subsec. (d) of section 8412 of title 5, referred to in subsec. (c), was redesignated as subsec. (d)(1) of that section, and a new subsec. (d)(2) was added, by Pub. L. 117–225, §3(b)(1), Dec. 9, 2022, 136 Stat. 2294.
 
 #### Amendments
 
@@ -87,6 +89,8 @@ Subsec. (b)(2). Pub. L. 99–556, §406(b), amended par. (2) by substituting sub
 "(C) for all volunteer service creditable under section 4071c(c) of this title, at the rate stated in section 8415(a) of title 5."
 
 Subsec. (b)(3) to (6). Pub. L. 99–556, §406(c), added pars. (3) to (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

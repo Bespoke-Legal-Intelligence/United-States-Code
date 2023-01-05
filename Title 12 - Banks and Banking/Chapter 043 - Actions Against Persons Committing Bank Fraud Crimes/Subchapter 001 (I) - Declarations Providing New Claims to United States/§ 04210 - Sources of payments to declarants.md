@@ -1,6 +1,6 @@
 ### §4210. Sources of payments to declarants
 
-Notwithstanding any other law, an award under this chapter <sup>1</sup> may be paid to a declarant, or to an individual providing information, from the amounts recovered through civil actionsbased in whole or in part on the information provided in a valid declaration under this chapter.<sup>1</sup>
+Notwithstanding any other law, an award under this chapter <sup>1</sup> may be paid to a declarant, or to an individual providing information, from the amounts recovered through civil actions based in whole or in part on the information provided in a valid declaration under this chapter.<sup>1</sup>
 
 (Pub. L. 101–647, title XXV, §2570, Nov. 29, 1990, 104 Stat. 4899.)
 

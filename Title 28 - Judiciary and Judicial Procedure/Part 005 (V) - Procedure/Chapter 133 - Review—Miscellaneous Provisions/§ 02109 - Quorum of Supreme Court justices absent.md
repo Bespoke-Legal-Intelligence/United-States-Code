@@ -20,7 +20,7 @@ Sections 29 and 45 of titles 15 and 49, U.S.C., 1940 ed., respectively provided 
 
 The revised section permits the Chief Justice of the United States to designate the "court of appeals" to hear the case in banc or by means of a specially constituted court of appeals composed of the three circuit judges senior in commission who are able to sit. In case of disqualification or disability, the court shall be filled by designation and assignment as provided in chapter 15 of this title.
 
-The provisions of section 29 of title 15, U.S.C., 1940 ed., and section 45 of title 49, U.S.C., 1940 ed., relatingto time for appeal are incorporated in section 2101 of this title. The provisions of said sections for direct appeal to the Supreme Court are retained in said titles 15 and 49.
+The provisions of section 29 of title 15, U.S.C., 1940 ed., and section 45 of title 49, U.S.C., 1940 ed., relating to time for appeal are incorporated in section 2101 of this title. The provisions of said sections for direct appeal to the Supreme Court are retained in said titles 15 and 49.
 
 The second paragraph of the revised section is new. It recognizes the necessity of final disposition of litigation in which appellate review has been had and further review by the Supreme Court is impossible for lack of a quorum of qualified justices.
 

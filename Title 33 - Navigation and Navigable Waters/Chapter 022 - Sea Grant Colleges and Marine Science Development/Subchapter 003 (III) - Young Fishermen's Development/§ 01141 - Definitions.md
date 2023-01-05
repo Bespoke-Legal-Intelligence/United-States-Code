@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Sea Grant Institution
 
-&emsp;The term "Sea Grant Institution" means a sea grant college or sea grant institute, asthose terms are defined in section 1122 of this title.
+&emsp;The term "Sea Grant Institution" means a sea grant college or sea grant institute, as those terms are defined in section 1122 of this title.
 
 #### (2) Tribal organization
 

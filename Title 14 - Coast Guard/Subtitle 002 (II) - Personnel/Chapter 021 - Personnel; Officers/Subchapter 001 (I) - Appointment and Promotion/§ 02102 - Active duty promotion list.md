@@ -1,6 +1,6 @@
 ### §2102. Active duty promotion list
 
-(a) The Secretary shall maintain a single active duty promotion list of officers of the Coast Guard on active duty in the grades of ensign and above. Reserve officers on active duty, other than pursuant to an active duty agreement executed under section 12311 of title 10, retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list.
+(a) The Secretary shall maintain a single active duty promotion list of officers of the CoastGuard on active duty in the grades of ensign and above. Reserve officers on active duty, other than pursuant to an active duty agreement executed under section 12311 of title 10, retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list.
 
 (b) Officers shall be carried on the active duty promotion list in the order of seniority of the grades in which they are serving. Officers serving in the same grade shall be carried in the order of their seniority in that grade. The Secretary may correct any erroneous position on the active duty promotion list that was caused by administrative error.
 

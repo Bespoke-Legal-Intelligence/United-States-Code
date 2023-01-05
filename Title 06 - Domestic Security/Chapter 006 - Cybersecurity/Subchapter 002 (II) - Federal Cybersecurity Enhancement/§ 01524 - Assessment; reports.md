@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Cyber threat indicator; defensive measure
 
-&emsp;The terms "cyber threat indicator" and "defensive measure" have the meanings given those terms in section 1501 of this title.
+&emsp;The terms "cyber threat indicator" and "defensive measure" have the meanings given those terms in section 650 of this title.
 
 #### (3) Intrusion assessments
 
@@ -46,7 +46,7 @@ Not later than 3 years after December 18, 2015, the Comptroller General of the U
 
 &emsp;&emsp;&emsp;(v) the number of instances in which the intrusion detection and prevention capabilities detected a cybersecurity risk in network traffic transiting or traveling to or from agency information systems and the number of times the intrusion detection and prevention capabilities blocked network traffic associated with cybersecurity risk; and
 
-&emsp;&emsp;&emsp;(vi) a description of the pilot established under section 2213(c)(5) of the Homeland Security Act of 2002 \[6 U.S.C. 663(c)(5)\], including the number of new technologies tested and the number of participating agencies.
+&emsp;&emsp;&emsp;(vi) a description of the pilot established under section 2213(c)(5) of the HomelandSecurity Act of 2002 \[6 U.S.C. 663(c)(5)\], including the number of new technologies tested and the number of participating agencies.
 
 #### (B) OMB report
 
@@ -98,7 +98,7 @@ Not later than 3 years after December 18, 2015, the Comptroller General of the U
 
 Each report required under this section shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 114–113, div. N, title II, §226, Dec. 18, 2015, 129 Stat. 2969; Pub. L. 115–278, §2(h)(1)(F), Nov. 16, 2018, 132 Stat. 4182.)
+(Pub. L. 114–113, div. N, title II, §226, Dec. 18, 2015, 129 Stat. 2969; Pub. L. 115–278, §2(h)(1)(F), Nov. 16, 2018, 132 Stat. 4182; Pub. L. 117–263, div. G, title LXXI, §7143(d)(1)(B), Dec. 23, 2022, 136 Stat. 3663.)
 
 #### <b>Editorial Notes</b>
 
@@ -108,11 +108,13 @@ Subtitle D of title II of the Homeland Security Act of 2002, referred to in subs
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 substituted "section 650 of this title" for "section 1501 of this title".
+
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–278, §2(h)(1)(F)(i)(I), substituted "section 2213" for "section 230" and struck out before period at end ", as added by section 223(a)(6) of this division".
 
 Subsec. (a)(4). Pub. L. 115–278, §2(h)(1)(F)(i)(II), substituted "section 2210(b)(1)" for "section 228(b)(1)" and struck out before period at end ", as added by section 223(a)(4) of this division".
 
-Subsec. (a)(5). Pub. L. 115–278, §2(h)(1)(F)(i)(III), substituted "section 2213(b)" for "section 230(b)" and struck out before period at end ", as added by section 223(a)(6) of this division".
+Subsec. (a)(5). Pub. L. 115–278, §2(h)(1)(F)(i)(III), substituted "section 2213(b)" for "section 230(b)" andstruck out before period at end ", as added by section 223(a)(6) of this division".
 
 Subsec. (c)(1)(A)(vi). Pub. L. 115–278, §2(h)(1)(F)(ii), substituted "section 2213(c)(5)" for "section 230(c)(5)" and struck out ", as added by section 223(a)(6) of this division" after "Homeland Security Act of 2002".
 

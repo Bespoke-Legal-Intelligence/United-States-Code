@@ -20,7 +20,7 @@
 
 #### (4) Post-1986 undistributed earnings
 
-&emsp;The term "post-1986 undistributed earnings" means the amount of the earnings and profits of the foreign corporation (computed in accordance with sections 964(a) and 986) accumulated in taxable years beginning after December 31, 1986—
+&emsp;The term "post-1986 undistributed earnings" means the amount of the earnings and profitsof the foreign corporation (computed in accordance with sections 964(a) and 986) accumulated in taxable years beginning after December 31, 1986—
 
 &emsp;&emsp;(A) as of the close of the taxable year of the foreign corporation in which the dividend is distributed, and
 
@@ -206,7 +206,7 @@ Pub. L. 114–113, div. Q, title III, §326(b), Dec. 18, 2015, 129 Stat. 3104, p
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -244,7 +244,7 @@ Special rule for certain contracts.—To the extent provided in regulations pres
 
 &emsp;"(B) any contract with respect to which the taxpayer uses the completed contract method of accounting which was entered into before January 1, 1985, or
 
-&emsp;"(C) in the case of any contract other than a lease or contract described in subparagraph (A) or (B), any contract which was entered into before January 1, 1985; except that this subparagraph shall only apply to the first 3 taxable years of the FSC ending after January 1, 1985, or such later taxable years as the Secretary of the Treasury or his delegate may prescribe.
+&emsp;"(C) in the case of any contract other than a lease or contract described in subparagraph (A) or (B), any contract which was entered into before January 1, 1985; except that this subparagraph shall only apply to the first 3 taxable years of the FSC ending afterJanuary 1, 1985, or such later taxable years as the Secretary of the Treasury or his delegate may prescribe.
 
 "(3)
 

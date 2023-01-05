@@ -14,7 +14,7 @@ The Director of the National Security Agency shall arrange for, and shall prescr
 
 #### (b) Incentives
 
-(1) In order to maintain necessary capability in foreign language skills and related abilities needed by the National Security Agency, the Director, without regard to subchapter IV of chapter 55 of title 5, may provide special monetary or other incentives to encourage civilian cryptologic personnel of the Agency to acquire or retain proficiency in foreign languages or special related abilities needed by the Agency.
+(1) In order to maintain necessary capability in foreign language skills and related abilitiesneeded by the National Security Agency, the Director, without regard to subchapter IV of chapter 55 of title 5, may provide special monetary or other incentives to encourage civilian cryptologic personnel of the Agency to acquire or retain proficiency in foreign languages or special related abilities needed by the Agency.
 
 (2) In order to provide linguistic training and support for cryptologic personnel, the Director—
 

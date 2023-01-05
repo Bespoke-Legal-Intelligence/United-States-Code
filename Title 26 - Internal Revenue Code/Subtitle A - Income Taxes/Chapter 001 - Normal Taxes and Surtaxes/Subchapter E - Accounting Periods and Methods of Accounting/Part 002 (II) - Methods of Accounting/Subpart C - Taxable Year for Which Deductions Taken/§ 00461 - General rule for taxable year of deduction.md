@@ -6,7 +6,7 @@ The amount of any deduction or credit allowed by this subtitle shall be taken fo
 
 #### (b) Special rule in case of death
 
-In the case of the death of a taxpayer whose taxable income is computed under an accrual method of accounting, any amount accrued as a deduction or credit only by reason of the deathof the taxpayer shall not be allowed in computing taxable income for the period in which falls the date of the taxpayer's death.
+In the case of the death of a taxpayer whose taxable income is computed under an accrual method of accounting, any amount accrued as a deduction or credit only by reason of the death of the taxpayer shall not be allowed in computing taxable income for the period in which falls the date of the taxpayer's death.
 
 #### (c) Accrual of real property taxes
 
@@ -396,13 +396,13 @@ If—
 
 &emsp;This subsection shall be applied after the application of section 469.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071; Pub. L. 115–141, div. U, title IV, §401(a)(117), Mar. 23, 2018, 132 Stat. 1190; Pub. L. 116–136, div. A, title II, §2304(a), (b), Mar. 27, 2020, 134 Stat. 356; Pub. L. 117–2, title IX, §9041(a), Mar. 11, 2021, 135 Stat. 122.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071; Pub. L. 115–141, div. U, title IV, §401(a)(117), Mar. 23, 2018, 132 Stat. 1190; Pub. L. 116–136, div. A, title II, §2304(a), (b), Mar. 27, 2020, 134 Stat. 356; Pub. L. 117–2, title IX, §9041(a), Mar. 11, 2021, 135 Stat. 122; Pub. L. 117–169, title I, §13903(b)(1), Aug. 16, 2022, 136 Stat. 2014.)
 
-#### Amendment of Subsection (l)
+#### Amendment of Subsection (l)(1)
 
-<i>Pub. L. 117–2, title IX, §9041, Mar. 11, 2021, 135 Stat. 122, provided that, applicable to taxable years beginning after December 31, 2025, subsection (l)(1) of this section is amended by striking "January 1, 2026" each place it appears and inserting "January 1, 2027".</i>
+<i>Pub. L. 117–169, title I, §13903(b), Aug. 16, 2022, 136 Stat. 2014, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (l)(1) of this section is amended by striking "January 1, 2027" each place it appears and inserting "January 1, 2029". See 2022 Amendment note below.</i>
 
-<i>See 2021 Amendment note below.</i>
+<i>Pub. L. 117–2, title IX, §9041, Mar. 11, 2021, 135 Stat. 122, provided that, applicable to taxable years beginning after December 31, 2025, subsection (l)(1) of this section is amended by striking "January 1, 2026" each place it appears and inserting "January 1, 2027". See 2021 Amendment note below.</i>
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -421,6 +421,8 @@ Subsec. (c) of section 464 of this title, which was transferred to this section 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (l)(1). Pub. L. 117–169 substituted "January 1, 2029" for "January 1, 2027" in two places.
 
 <b>2021</b>—Subsec. (l)(1). Pub. L. 117–2 substituted "January 1, 2027" for "January 1, 2026" in two places.
 
@@ -502,7 +504,7 @@ Subsec. (i)(4). Pub. L. 99–514, §801(b)(2), amended par. (4) generally. Prior
 
 &emsp;"(C) in determining whether an entity is a tax shelter, the definition of farming syndicate in section 464(c) shall be substituted for subparagraphs (A) and (B) of paragraph (3)."
 
-Subsec. (i)(4)(A). Pub. L. 99–514, §1807(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "section 464 shall be applied to any tax shelter described in paragraph (3)(C),".
+Subsec. (i)(4)(A). Pub. L. 99–514, §1807(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "section 464 shall be applied to any tax shelter described in paragraph (3)(C),".
 
 <b>1984</b>—Subsec. (f)(4). Pub. L. 98–369, §91(e), inserted "determined after application of subsection (h)".
 
@@ -521,6 +523,10 @@ Subsec. (g). Pub. L. 94–455, §208(a), added subsec. (g).
 <b>1960</b>—Subsec. (d). Pub. L. 86–781 added subsec. (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–169, title I, §13903(b)(2), Aug. 16, 2022, 136 Stat. 2014, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2026."
 
 #### Effective Date of 2021 Amendment
 
@@ -604,7 +610,7 @@ In general.—In the case of amounts described in paragraph (1)(A), a taxpayer m
 
 &emsp;&emsp;&emsp;"(ii) are incurred after the date of the enactment of this Act (determined with regard to such amendments).
 
-&nbsp;&nbsp;The Secretary of the Treasury or his delegate may by regulations provide that (in lieu of an election under the preceding sentence) a taxpayer may (subject to such conditions as such regulations may provide) elect to have subsection (h) of section 461 of such Code apply to the taxpayer's entire taxable year in which occurs July 19, 1984.
+&nbsp;&nbsp;The Secretary of the Treasury or his delegate may by regulations provide that (in lieu of an electionunder the preceding sentence) a taxpayer may (subject to such conditions as such regulations may provide) elect to have subsection (h) of section 461 of such Code apply to the taxpayer's entire taxable year in which occurs July 19, 1984.
 
 &emsp;&emsp;"(B)
 
@@ -624,7 +630,7 @@ to apply in certain cases.—Notwithstanding paragraph (1), section 461(h) of th
 
 &emsp;"(4)
 
-Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
+Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section 468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
 
 &emsp;"(5)
 
@@ -744,7 +750,7 @@ Pub. L. 99–514, title XVIII, §1807(c), Oct. 22, 1986, 100 Stat. 2817, provide
 
 Pub. L. 88–272, title II, §223(c), Feb. 26, 1964, 78 Stat. 76, provided that:
 
-"(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal RevenueCode of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
+"(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
 
 &emsp;"(A) must be made within one year after the date of the enactment of this Act \[Feb. 26, 1964\],
 

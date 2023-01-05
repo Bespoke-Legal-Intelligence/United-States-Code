@@ -14,7 +14,7 @@
 - [&sect; 01946 - Dividends to pay premiums](%C2%A7%2001946%20-%20Dividends%20to%20pay%20premiums.md)
 - [&sect; 01947 - Incontestability](%C2%A7%2001947%20-%20Incontestability.md)
 - [&sect; 01948 - Total disability provision](%C2%A7%2001948%20-%20Total%20disability%20provision.md)
-- [&sect; 01949 - Change of beneficiary](%C2%A7%2001949%20-%20Change%20of%20beneficiary.md)
+- [&sect; 01949 - Beneficiaries](%C2%A7%2001949%20-%20Beneficiaries.md)
 - [&sect; 01950 - Payment to estates](%C2%A7%2001950%20-%20Payment%20to%20estates.md)
 - [&sect; 01951 - Payment of insurance](%C2%A7%2001951%20-%20Payment%20of%20insurance.md)
 - [&sect; 01952 - Optional settlement](%C2%A7%2001952%20-%20Optional%20settlement.md)

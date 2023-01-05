@@ -50,7 +50,7 @@ Calculation of Service.—(1) For purposes of calculating an annuity under this 
 
 (2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
-(B) In the case of an individual who is a magistrate judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
+(B) In the case of an individual who is a magistrate judge to whom this section applies andwho retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
 (h)
 
@@ -176,7 +176,7 @@ Spouses and former spouses.—(A) Payment of the lump-sum credit under paragraph
 
 &emsp;&emsp;&emsp;(II) payment of the lump-sum credit or other payment would extinguish entitlement of the bankruptcy judge's or magistrate judge's spouse or former spouse to any portion of an annuity under subsection (i).
 
-&emsp;(B) Notification of a spouse or former spouse under this paragraph shall be made in accordance with such requirements as the Director of the Administrative Office of the United States Courts shall by regulation prescribe. The Director may provide under such regulations that subparagraph (A)(i) may be waived with respect to a spouse or former spouse if the bankruptcy judge or magistrate judge establishes to the satisfaction of the Director thatthe whereabouts of such spouse or former spouse cannot be determined.
+&emsp;(B) Notification of a spouse or former spouse under this paragraph shall be made in accordance with such requirements as the Director of the Administrative Office of the United States Courts shall by regulation prescribe. The Director may provide under such regulations that subparagraph (A)(i) may be waived with respect to a spouse or former spouse if the bankruptcy judge or magistrate judge establishes to the satisfaction of the Director that the whereabouts of such spouse or former spouse cannot be determined.
 
 &emsp;(C) The Director shall prescribe regulations under which this paragraph shall be applied in any case in which the Director receives two or more orders or decrees described in subparagraph (A).
 

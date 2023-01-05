@@ -18,7 +18,7 @@ Except as provided in section 4223(b), in any case in which a person is made lia
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §735(c)(7)(D), substituted "(other than a tire taxable under section4071)" for "(other than an article specified in subsection (b), (c), or (d))".
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §735(c)(7)(D), substituted "(other than a tire taxable under section 4071)" for "(other than an article specified in subsection (b), (c), or (d))".
 
 Subsec. (b). Pub. L. 98–369, §735(c)(7)(A), (B), struck out "and tubes" after "Tires" in heading, and in text substituted "If" for "Except as provided in subsection (d), if", and struck out "or inner tube" before "taxable under section 4071".
 

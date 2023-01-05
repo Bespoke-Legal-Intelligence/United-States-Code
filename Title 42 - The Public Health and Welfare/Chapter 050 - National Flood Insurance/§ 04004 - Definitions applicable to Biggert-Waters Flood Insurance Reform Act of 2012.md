@@ -10,7 +10,7 @@ In this subtitle, the following definitions shall apply:
 
 #### (2) 500-year floodplain
 
-&emsp;The term "500-year floodplain" means that area which is subject to inundation from a flood having a 0.2-percent chance of being equaled or exceeded in any given year.
+&emsp;The term "500-year floodplain" means that area which is subject to inundation from aflood having a 0.2-percent chance of being equaled or exceeded in any given year.
 
 #### (3) Administrator
 
@@ -22,7 +22,7 @@ In this subtitle, the following definitions shall apply:
 
 #### (5) Write Your Own
 
-&emsp;The term "Write Your Own" means the cooperative undertaking between the insuranceindustry and the Federal Insurance Administration which allows participating property and casualty insurance companies to write and service standard flood insurance policies.
+&emsp;The term "Write Your Own" means the cooperative undertaking between the insurance industry and the Federal Insurance Administration which allows participating property and casualty insurance companies to write and service standard flood insurance policies.
 
 #### (b) Common terminology
 

@@ -12,7 +12,7 @@ There are authorized to be appropriated such amounts as may be necessary from ti
 
 &emsp;(1) for contributions to the activities of the United Nations High Commissioner for Refugees for assistance to refugees under his mandate or persons on behalf of whom he is exercising his good offices, and for contributions to the International Organization for Migration, the International Committee of the Red Cross, and to other relevant international organizations; and
 
-&emsp;(2) for assistance to or on behalf of refugees who are outside the United States designated by the President (by class, group, or designation of their respective countries of origin or areas of residence) when the President determines that such assistance will contribute tothe foreign policy interests of the United States.
+&emsp;(2) for assistance to or on behalf of refugees who are outside the United States designated by the President (by class, group, or designation of their respective countries of origin or areas of residence) when the President determines that such assistance will contribute to the foreign policy interests of the United States.
 
 #### (c) United States Emergency Refugee and Migration Assistance Fund; appropriations
 
@@ -40,9 +40,9 @@ The President may furnish assistance and make contributions under this chapter n
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(1), (d), and (f), was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1404 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under this section, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (c)(1), (d), and (f), was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1404 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under this section, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Foreign Assistance Act of 1961, as amended, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, as amended, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Mutual Security Act of 1954, as amended, referred to in subsec. (e), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2–11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101–103, ch. II, §§201–205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201–205(a)–(i), (k)–(n), ch. III, §301, ch. IV, §401(a)–(k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, §228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 
@@ -60,7 +60,7 @@ Subsec. (c)(2). Pub. L. 103–236, §430(a)(4), substituted "$100,000,000" for "
 
 <b>1985</b>—Subsec. (f). Pub. L. 99–93 added subsec. (f).
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–212, §312(b)(1), in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense orsecurity of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
+<b>1980</b>—Subsec. (b). Pub. L. 96–212, §312(b)(1), in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense or security of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
 
 Subsec. (c)(2). Pub. L. 96–212, §312(b)(2), inserted provisions increasing amount from $25,000,000 to $50,000,000.
 
@@ -72,7 +72,7 @@ Subsec. (c)(2). Pub. L. 96–212, §312(b)(2), inserted provisions increasing am
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, see section 313 of Pub. L. 96–212, set out as an Effective Date note under section 1522 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, seesection 313 of Pub. L. 96–212, set out as an Effective Date note under section 1522 of Title 8, Aliens and Nationality.
 
 #### Short Title
 
@@ -100,7 +100,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXII, §2241, Oct. 21, 1998, 112 Sta
 
 #### United States Policy Concerning Overseas Assistance to Refugees and Displaced Persons
 
-Pub. L. 103–236, title V, §501, Apr. 30, 1994, 108 Stat. 460, provided that:
+Pub. L. 103–236, title V, §501, Apr. 30, 1994, 108 Stat. 460, as amended by Pub. L. 117–263, div. E, title LV, §5586, Dec. 23, 2022, 136 Stat. 3374, provided that:
 
 "(a)
 
@@ -116,17 +116,19 @@ Standards for Refugee Women and Children.—The United States Government, in pro
 
 &emsp;"(5) incorporation of maternal and child health needs into refugee health services and education, specifically to include education on and access to services in reproductive health and birth spacing;
 
-&emsp;"(6) the availability of counseling and other services, grievance processes, and protective services to victims of violence and abuse, including but not limited to rape and domestic violence;
+&emsp;"(6) the provision of safe and secure access to sanitation facilities, with a special emphasis on women and children;
 
-&emsp;"(7) the provision of educational programs, particularly literacy and numeracy, vocational and income-generation skills training, and other training efforts promoting self-sufficiency for refugee women, with special emphasis on women heads of household;
+&emsp;"(7) the availability of counseling and other services, grievance processes, and protective services to victims of violence and abuse, including but not limited to rape and domestic violence;
 
-&emsp;"(8) education for all refugee children, ensuring equal access for girls, and special services and family tracing for unaccompanied refugee minors;
+&emsp;"(8) the provision of educational programs, particularly literacy and numeracy, vocational and income-generation skills training, and other training efforts promoting self-sufficiency for refugee women, with special emphasis on women heads of household;
 
-&emsp;"(9) the collection of data that clearly enumerate age and gender so that appropriate health, education, and assistance programs can be planned;
+&emsp;"(9) education for all refugee children, ensuring equal access for girls, and special services and family tracing for unaccompanied refugee minors;
 
-&emsp;"(10) the recruitment, hiring, and training of more women program professionals in the international humanitarian field; and
+&emsp;"(10) the collection of data that clearly enumerate age and gender so that appropriate health, education, and assistance programs can be planned;
 
-&emsp;"(11) gender-awareness training for program staff of the United Nations High Commissioner for Refugees (UNHCR) and nongovernmental voluntary organizations on implementation of the 1991 UNHCR 'Guidelines on the Protection of Refugee Women'.
+&emsp;"(11) the recruitment, hiring, and training of more women program professionals in the international humanitarian field; and
+
+&emsp;"(12) gender-awareness training for program staff of the United Nations High Commissioner for Refugees (UNHCR) and nongovernmental voluntary organizations on implementation of the 1991 UNHCR 'Guidelines on the Protection of Refugee Women'.
 
 "(b)
 
@@ -152,7 +154,7 @@ Investigation of Reports.—Upon receipt of credible reports of abuses under sub
 
 Multilateral Implementation of the 1991
 
-UNHCR 'Guidelines on the Protection of Refugee Women'.—The Secretary of State should work to ensure that multilateral organizations fully incorporate the needs of refugee women and children into all elements of refugee assistance programs and work to encourage other governments that provide refugee assistance to adopt refugee assistance policies designed to encourage full implementation of the 1991 UNHCR's 'Guidelines on the Protection of Refugee Women'."
+UNHCR 'Guidelines on the Protection of Refugee Women'.—The Secretary of State should work to ensure that multilateral organizations fully incorporate the needs of refugee women and children into all elements of refugee assistance programs and work to encourage other governments that provide refugee assistance toadopt refugee assistance policies designed to encourage full implementation of the 1991 UNHCR's 'Guidelines on the Protection of Refugee Women'."
 
 #### United States Membership in Intergovernmental Committee for European Migration
 

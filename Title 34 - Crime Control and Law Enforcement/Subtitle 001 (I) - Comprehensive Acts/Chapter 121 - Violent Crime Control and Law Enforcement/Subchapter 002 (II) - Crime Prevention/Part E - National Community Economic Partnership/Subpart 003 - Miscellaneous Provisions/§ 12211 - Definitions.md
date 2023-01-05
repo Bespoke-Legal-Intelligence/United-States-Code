@@ -4,7 +4,7 @@ As used in this part:
 
 #### (1) Community development corporation
 
-&emsp;The term "community development corporation" means a private, nonprofit corporationwhose board of directors is comprised of business, civic and community leaders, and whose principal purpose includes the provision of low-income housing or community economic development projects that primarily benefit low-income individuals and communities.
+&emsp;The term "community development corporation" means a private, nonprofit corporation whose board of directors is comprised of business, civic and community leaders, and whose principal purpose includes the provision of low-income housing or community economic development projects that primarily benefit low-income individuals and communities.
 
 #### (2) Local and private sector contribution
 
@@ -20,7 +20,7 @@ As used in this part:
 
 #### (5) Target area
 
-&emsp;The term "target area" means any area defined in an application for assistance under this part that has a population whose income does not exceed the median for the area within which the target area is located.
+&emsp;The term "target area" means any area defined in an application for assistance underthis part that has a population whose income does not exceed the median for the area within which the target area is located.
 
 #### (6) Very low-income community
 

@@ -14,7 +14,7 @@ The Congress finds and declares the following:
 
 &emsp;&emsp;(B) risks potential depletion in the future without effective monitoring and conservation and management measures.
 
-&emsp;(4) It is in the national interest to implement effective procedures and measures to provide for effective interjurisdictional conservation and management of this species.
+&emsp;(4) It is in the national interest to implement effective procedures and measures toprovide for effective interjurisdictional conservation and management of this species.
 
 #### (b) Purpose
 
@@ -26,7 +26,7 @@ It is therefore declared to be the purpose of the Congress in this chapter to su
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–146 amended section catchline and text generally, reenacting subsecs. (a)(1), (4), and (b)without change. Prior to amendment, pars. (2) and (3) of subsec. (a) read as follows:
+<b>1997</b>—Pub. L. 105–146 amended section catchline and text generally, reenacting subsecs. (a)(1), (4), and (b) without change. Prior to amendment, pars. (2) and (3) of subsec. (a) read as follows:
 
 "(2) As a consequence of increased fishing pressure, environmental pollution, the loss and alteration of habitat, and the inadequacy of fishery conservation and management practices and controls, certain stocks of Atlantic striped bass have been severely reduced in number.
 

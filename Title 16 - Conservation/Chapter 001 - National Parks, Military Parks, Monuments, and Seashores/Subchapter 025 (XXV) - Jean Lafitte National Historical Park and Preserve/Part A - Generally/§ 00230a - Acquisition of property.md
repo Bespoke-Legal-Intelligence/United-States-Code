@@ -16,7 +16,7 @@
 
 #### (ii) Boundary adjustment
 
-&emsp;&emsp;&emsp;On the date on which the Secretary acquires a parcel of land described in clause\(i), the boundary of the Barataria Preserve Unit shall be adjusted to reflect the acquisition.
+&emsp;&emsp;&emsp;On the date on which the Secretary acquires a parcel of land described in clause (i), the boundary of the Barataria Preserve Unit shall be adjusted to reflect the acquisition.
 
 #### (iii) Easements
 

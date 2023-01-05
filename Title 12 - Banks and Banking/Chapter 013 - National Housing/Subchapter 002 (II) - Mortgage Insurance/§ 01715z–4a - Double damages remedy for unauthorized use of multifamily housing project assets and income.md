@@ -42,7 +42,7 @@ The remedy provided by this section is in addition to any other remedies availab
 
 #### References in Text
 
-The National Housing Act, referred to in subsecs. (a) and (c), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). Title II of the National Housing Act is classified generally to this subchapter (§1707 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (a) and (c), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). Title II of the National Housing Act is classified generally to this subchapter (§1707 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 #### Codification
 
@@ -72,7 +72,7 @@ Subsec. (a)(2). Pub. L. 105–65, §563(2), inserted "under section 1701q of thi
 
 Subsec. (b). Pub. L. 105–65, §563(3), inserted ", or such other form of regulatory control as may be imposed by the Secretary," after "regulatory agreement".
 
-Subsec. (c). Pub. L. 105–65, §563(4), in first sentence, inserted ", or such other form of regulatory control as may be imposed by the Secretary," after "regulatory agreement" and inserted before period at end of second sentence "or, in the case of any project for which the mortgage is held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990), to the project or to the Department for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary, as appropriate".
+Subsec. (c). Pub. L. 105–65, §563(4), in first sentence, inserted ", or such other form of regulatory control as may be imposed by the Secretary," after "regulatory agreement" and inserted before period at end of secondsentence "or, in the case of any project for which the mortgage is held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990), to the project or to the Department for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary, as appropriate".
 
 Subsec. (d). Pub. L. 105–65, §563(5), inserted ", or such other form of regulatory control as may be imposed by the Secretary," after "regulatory agreement".
 

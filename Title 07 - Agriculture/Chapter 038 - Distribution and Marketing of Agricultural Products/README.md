@@ -27,6 +27,7 @@
 | [1632b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632b%20-%20Agriculture%20Innovation%20Center%20Demonstration%20Program.md) | Agriculture Innovation Center Demonstration Program. |
 | [1632c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632c%20-%20Acer%20access%20and%20development%20program.md) | Acer access and development program. |
 | [1632d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632d%20-%20Dairy%20business%20innovation%20initiatives.md) | Dairy business innovation initiatives. |
+| [1632e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632e%20-%20Cattle%20Contracts%20Library.md) | Cattle Contracts Library. |
 | [1633\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001633%20-%20Cooperation%20with%20State%20agencies%20in%20administration%20and%20enforcement%20of%20laws%20relating%20to%20marketing%20of%20agricultural%20products%20and%20control%20or%E2%80%A6.md) | Cooperation with State agencies in administration and enforcement of laws relating to marketing of agricultural products and control or eradication of plant and animal diseases and pests; coordination of administration of Federal and State laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -83,6 +84,7 @@
 | [1636f.](Subchapter%20002%20%28II%29%20-%20Livestock%20Mandatory%20Reporting/Part%20E%20-%20Administration/%C2%A7%2001636f%20-%20Publication%20of%20information%20on%20retail%20purchase%20prices%20for%20representative%20meat%20products.md) | Publication of information on retail purchase prices for representative meat products. |
 | [1636g.](Subchapter%20002%20%28II%29%20-%20Livestock%20Mandatory%20Reporting/Part%20E%20-%20Administration/%C2%A7%2001636g%20-%20Suspension%20authority%20regarding%20specific%20terms%20of%20price%20reporting%20requirements.md) | Suspension authority regarding specific terms of price reporting requirements. |
 | [1636h.](Subchapter%20002%20%28II%29%20-%20Livestock%20Mandatory%20Reporting/Part%20E%20-%20Administration/%C2%A7%2001636h%20-%20Federal%20preemption.md) | Federal preemption. |
+| [1636i.](Subchapter%20002%20%28II%29%20-%20Livestock%20Mandatory%20Reporting/Part%20E%20-%20Administration/%C2%A7%2001636i%20-%20Termination%20of%20authority.md) | Termination of authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

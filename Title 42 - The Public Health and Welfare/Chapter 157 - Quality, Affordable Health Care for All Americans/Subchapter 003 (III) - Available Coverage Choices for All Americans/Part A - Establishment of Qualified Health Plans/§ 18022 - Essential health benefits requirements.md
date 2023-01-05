@@ -48,7 +48,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 #### (3) Notice and hearing
 
-&emsp;In defining the essential health benefits described in paragraph (1), and in revising thebenefits under paragraph (4)(H), the Secretary shall provide notice and an opportunity for public comment.
+&emsp;In defining the essential health benefits described in paragraph (1), and in revising the benefits under paragraph (4)(H), the Secretary shall provide notice and an opportunity for public comment.
 
 #### (4) Required elements for consideration
 
@@ -68,7 +68,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 &emsp;&emsp;&emsp;(ii) if such services are provided out-of-network, the cost-sharing requirement (expressed as a copayment amount or coinsurance rate) is the same requirement that would apply if such services were provided in-network;
 
-&emsp;&emsp;(F) provide that if a plan described in section 18031(b)(2)(B)(ii) <sup>3</sup> of this title (relating to stand-alone dental benefits plans) is offered through an Exchange, another health plan offered through such Exchange shall not fail to be treated as a qualified health plan solely because the plan does not offer coverage of benefits offered through the stand-alone plan that are otherwise required under paragraph (1)(J); and <sup>4</sup>
+&emsp;&emsp;(F) provide that if a plan described in section 18031(b)(2)(B)(ii) <sup>3</sup> of this title (relatingto stand-alone dental benefits plans) is offered through an Exchange, another health plan offered through such Exchange shall not fail to be treated as a qualified health plan solely because the plan does not offer coverage of benefits offered through the stand-alone plan that are otherwise required under paragraph (1)(J); and <sup>4</sup>
 
 &emsp;&emsp;(G) periodically review the essential health benefits under paragraph (1), and provide a report to Congress and the public that contains—
 
@@ -116,7 +116,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 &emsp;&emsp;&emsp;(i) deductibles, coinsurance, copayments, or similar charges; and
 
-&emsp;&emsp;&emsp;(ii) any other expenditure required of an insured individual which is a qualified medical expense (within the meaning ofsection 223(d)(2) of title 26) with respect to essential health benefits covered under the plan.
+&emsp;&emsp;&emsp;(ii) any other expenditure required of an insured individual which is a qualified medical expense (within the meaning of section 223(d)(2) of title 26) with respect to essential health benefits covered under the plan.
 
 #### (B) Exceptions
 

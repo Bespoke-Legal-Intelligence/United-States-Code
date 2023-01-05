@@ -46,7 +46,7 @@ Oct. 14, 1949, ch. 691, §208 "Sec. 23(a)", 63 Stat. 865.
 
 In subsections (a) and (c), the words "duly qualified" in former sections 771 and 772 are omitted as unnecessary in view of the definition of "physician" in section 8101.
 
-In subsection (c) the words "fees for examinations" in former section 773(a) are substituted for "fees or examinations" since the word "or" was erroneously in the 1949 amendment. The words "any sum payable to the employee under section 771 of this title" in former section 773(a) are omitted as unnecessary because the same provision appeared in former section 771, which is carried into subsection (b).
+In subsection (c) the words "fees for examinations" in former section 773(a) are substituted for "fees or examinations" since the word "or" was erroneously in the 1949 amendment. The words "any sum payable to the employee under section 771 of this title" in former section 773(a) are omitted as unnecessary because thesame provision appeared in former section 771, which is carried into subsection (b).
 
 Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, 64 Stat. 1271 (see section 8145).
 

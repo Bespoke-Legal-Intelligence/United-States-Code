@@ -2,7 +2,7 @@
 
 #### (a) Preparation and submission to Congress by Secretary of the Interior; contents; copy to affected Indian tribe
 
-Within one year after appropriation of funds to pay a judgment of the Indian Claims Commission or the United States Court of Federal Claims to any Indian tribe, the Secretary of the Interior shall prepare and submit to Congress a plan for the use and distribution of the funds. Such plan shall include identification of the present-day beneficiaries, a formula for the division of the funds among two or more beneficiary entities if such is warranted, and a proposal forthe use and distribution of the funds. The Secretary shall simultaneously submit a copy of such plan to each affected tribe or group.
+Within one year after appropriation of funds to pay a judgment of the Indian Claims Commission or the United States Court of Federal Claims to any Indian tribe, the Secretary of the Interior shall prepare and submit to Congress a plan for the use and distribution of the funds. Such plan shall include identification of the present-day beneficiaries, a formula for the division of the funds among two or more beneficiary entities if such is warranted, and a proposal for the use and distribution of the funds. The Secretary shall simultaneously submit a copy of such plan to each affected tribe or group.
 
 #### (b) Time for preparation and submission of plan
 
@@ -14,7 +14,7 @@ In any case where the Secretary determines that the circumstances do not permit 
 
 #### (d) Submission of proposed legislation and report to Congress in absence of consent of tribal governments to division of judgment funds between two or more beneficiary entities
 
-In cases where the Secretary has to submit a plan dividing judgment funds between two or more beneficiary entities, he shall obtain the consent of the tribal governments involved to the proposed division. If the Secretary cannot obtain such consent within one hundred and eighty days after appropriation of the funds for the award or within one hundred and eighty days of January 12, 1983, he shall submit proposed legislation to the Congress as provided in subsection (c).
+In cases where the Secretary has to submit a plan dividing judgment funds between two or more beneficiary entities, he shall obtain the consent of the tribal governments involved to the proposed division. If the Secretary cannot obtain such consent within one hundred and eighty days after appropriation of the funds for the award or within one hundred and eightydays of January 12, 1983, he shall submit proposed legislation to the Congress as provided in subsection (c).
 
 #### (e) Extension of time for preparation and submission of plan
 

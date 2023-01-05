@@ -8,7 +8,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 #### (A) In general
 
-&emsp;&emsp;The project and obligor shall be creditworthy, which shall be determined by the Secretary or the Administrator, as applicable.
+&emsp;&emsp;The project and obligor shall be creditworthy, which shall be determined by theSecretary or the Administrator, as applicable.
 
 #### (B) Considerations
 
@@ -66,7 +66,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 #### (B) Public sponsorship
 
-&emsp;&emsp;For purposes of this chapter, a project shall be considered to be publicly sponsored if the obligor can demonstrate, to the satisfaction of the Secretary or the Administrator, as appropriate, that the project applicant has consulted with the affected State, local, or tribal government in whichthe project is located, or is otherwise affected by the project, and that such government supports the proposed project.
+&emsp;&emsp;For purposes of this chapter, a project shall be considered to be publicly sponsored if the obligor can demonstrate, to the satisfaction of the Secretary or the Administrator, as appropriate, that the project applicant has consulted with the affected State, local, or tribal government in which the project is located, or is otherwise affected by the project, and that such government supports the proposed project.
 
 #### (5) Use of existing financing mechanisms
 
@@ -178,7 +178,7 @@ Subsec. (b)(3). Pub. L. 114–322, §5008(b)(2)(D)(ii), substituted "section 390
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### "Secretary" Defined
 

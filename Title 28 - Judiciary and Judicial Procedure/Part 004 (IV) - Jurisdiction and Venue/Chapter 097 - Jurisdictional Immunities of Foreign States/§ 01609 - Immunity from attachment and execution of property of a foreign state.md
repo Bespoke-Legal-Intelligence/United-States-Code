@@ -1,6 +1,6 @@
 ### §1609. Immunity from attachment and execution of property of a foreign state
 
-Subject to existing international agreements to which the United States is a party at the time of enactment of this Act the property in the United States of a foreign state shall be immune from attachment <sup>1</sup> arrest <sup>1</sup> and executionexcept as provided in sections 1610 and 1611 of this chapter.
+Subject to existing international agreements to which the United States is a party at the time of enactment of this Act the property in the United States of a foreign state shall be immune from attachment <sup>1</sup> arrest <sup>1</sup> and execution except as provided in sections 1610 and 1611 of this chapter.
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2895.)
 

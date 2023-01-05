@@ -42,7 +42,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 > unless (i) a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain) has passed after the receipt by the appropriate committees of the House of Representatives and the Senate of notice given by the Administrator containing a full and complete statement of the action proposed to be taken and the facts and circumstances relied upon in support of such proposed action, or (ii) each such committee before the expiration of such period has transmitted to the Administrator written notice to the effect that such committee has no objection to the proposed action.
 
-(2) Notwithstanding any other provision of this section or the authorization Act involved, the aggregate amount available for use within the categories of coal, petroleum and natural gas, oil shale, solar, geothermal, nuclear energy (non-weapons), environment and safety, and conservation from sums appropriated pursuant to an annual authorization Act may not, as a result of reprograming, be decreased by more than 10 per centum of the total of the sums appropriated pursuant to such Act for those categories.
+(2) Notwithstanding any other provision of this section or the authorization Act involved,the aggregate amount available for use within the categories of coal, petroleum and natural gas, oil shale, solar, geothermal, nuclear energy (non-weapons), environment and safety, and conservation from sums appropriated pursuant to an annual authorization Act may not, as a result of reprograming, be decreased by more than 10 per centum of the total of the sums appropriated pursuant to such Act for those categories.
 
 #### (e) Requirements and limitations respecting merger of amounts appropriated for operating expenses or for plant and capital equipment
 
@@ -68,17 +68,17 @@ When so specified in appropriation Acts, any moneys received by the Administrati
 
 When so specified in an appropriation Act, transfers of sums from the "Operating expenses" appropriation made pursuant to an annual authorization Act may be made to other agencies of the Government for the performance of the work for which the appropriation is made, and in such cases the sums so transferred may be merged with the appropriations to which they are transferred.
 
-(Pub. L. 93–438, title I, §111, as added Pub. L. 95–238, title II, §201, Feb. 25, 1978, 92 Stat. 56;amended Pub. L. 103–437, §15(c)(7), Nov. 2, 1994, 108 Stat. 4592.)
+(Pub. L. 93–438, title I, §111, as added Pub. L. 95–238, title II, §201, Feb. 25, 1978, 92 Stat. 56; amended Pub. L. 103–437, §15(c)(7), Nov. 2, 1994, 108 Stat. 4592.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Atomic Energy Community Act of 1955, referred to in subsec. (h)(1), is act Aug. 4, 1955, ch. 543, 69 Stat. 472, as amended, which is classified principally to chapter 24 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Atomic Energy Community Act of 1955, referred to in subsec. (h)(1), is act Aug. 4, 1955, ch. 543, 69 Stat. 472, which is classified principally to chapter 24 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 The Strategic and Critical Materials Stockpiling Act, as amended, referred to in subsec. (h)(1), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
-Act of May 16, 1910, as amended, referred to in subsec. (h)(1), is act May 16, 1910, ch. 240, 36 Stat. 369, as amended, which enacted sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
+Act of May 16, 1910, as amended, referred to in subsec. (h)(1), is act May 16, 1910, ch. 240, 36 Stat. 369, which enacted sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

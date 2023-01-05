@@ -6,7 +6,7 @@ It is the sense of the Congress that in order to stimulate the participation of 
 
 #### (b) Guaranties; percentage limitation
 
-To carry out the purposes of subsection (a), the agency primarily responsible for administering subchapter I of this chapter is authorized to issue guaranties, on such terms and conditions as it shall determine, to private lending institutions, cooperatives, and private nonprofit development organizations assuring against loss of not to exceed 50 per centum of the portfolio of such loans made by any lender to organized groups or individuals residing in a community to enable such groups or individuals to carry out agricultural credit and self-help community development projects for which they are unable to obtain financial assistance on reasonable terms. In no event shall the liability of the United States exceed 75 per centum of any one loan.
+To carry out the purposes of subsection (a), the agency primarily responsible for administering subchapter I of this chapter is authorized to issue guaranties, on such terms and conditions as it shall determine, to private lending institutions, cooperatives, and private nonprofit development organizations assuring against loss of not to exceed 50 per centum of the portfolio of such loans made by any lender to organized groups or individuals residing in a community to enable such groups or individuals to carry outagricultural credit and self-help community development projects for which they are unable to obtain financial assistance on reasonable terms. In no event shall the liability of the United States exceed 75 per centum of any one loan.
 
 #### (c) Total and individual amount of guaranties
 
@@ -42,7 +42,7 @@ Notwithstanding the limitation in subsection (c) of this section, foreign curren
 
 #### References in Text
 
-Section 2200 of this title, referred to in subsecs. (e) and (g), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by this section. Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978,and was classified to section 2200 of this title, prior to repeal by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
+Section 2200 of this title, referred to in subsecs. (e) and (g), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by this section. Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978, and was classified to section 2200 of this title, prior to repeal by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
 Section 2196 of this title, referred to in subsec. (f), was repealed by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
 

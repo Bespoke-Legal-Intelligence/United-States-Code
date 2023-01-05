@@ -30,11 +30,11 @@
 
 &emsp;&emsp;(B) issue requirements and procedures to be followed by any person who disposes of stocks of any container of a pesticide the registration of which has been suspended, any rinsate containing the pesticide, or any other material used to contain or collect excess or spilled quantities of the pesticide; and
 
-&emsp;&emsp;(C) issue requirements and procedures for the disposal of any container of a pesticide the registration of which has been canceled, any rinsate containing the pesticide, or any other material used to contain or collect excess or spilled quantities of the pesticide.
+&emsp;&emsp;(C) issue requirements and procedures for the disposal of any container of a pesticidethe registration of which has been canceled, any rinsate containing the pesticide, or any other material used to contain or collect excess or spilled quantities of the pesticide.
 
 #### (4) Container recycling
 
-&emsp;The Secretary may promulgate a regulation for the return and recycling of disposable pesticide containers used for the distribution or sale of registered pesticide products in interstate commerce. Any such regulation requiring recycling of disposable pesticide containers shall not apply to antimicrobial pesticides (as defined in section 136 of this title)or other pesticide products intended for non-agricultural uses.
+&emsp;The Secretary may promulgate a regulation for the return and recycling of disposable pesticide containers used for the distribution or sale of registered pesticide products in interstate commerce. Any such regulation requiring recycling of disposable pesticide containers shall not apply to antimicrobial pesticides (as defined in section 136 of this title) or other pesticide products intended for non-agricultural uses.
 
 #### (b) Recalls
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(D) none of the costs incurred by the registrant during the 3-year period beginning on the 366th day following approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later; and
 
-&emsp;&emsp;(E) 25 percent of the costs incurred by the registrant during the period beginning on the first day of the 5th year following the date of the approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later, and ending on the date that a disposal permit for the pesticide is issued by a State or an alternative plan for disposal of the pesticide in accordance with applicable law has been developed.
+&emsp;&emsp;(E) 25 percent of the costs incurred by the registrant during the period beginning on the first day of the 5th year following the date of the approval of the plan by the Administrator or the date of cancellation ofthe registration of the pesticide, whichever is later, and ending on the date that a disposal permit for the pesticide is issued by a State or an alternative plan for disposal of the pesticide in accordance with applicable law has been developed.
 
 #### (d) Administration of storage, disposal, transportation, and recall programs
 
@@ -188,7 +188,7 @@
 
 #### (2) Antimicrobial products
 
-&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f), unless the Administrator determines that such product must be subject to such provisions toprevent an unreasonable adverse effect on the environment.
+&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f), unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
 
 (June 25, 1947, ch. 125, §19, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, §19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, §225, Aug. 3, 1996, 110 Stat. 1507; Pub. L. 110–234, title XIV, §14209(b), May 22, 2008, 122 Stat. 1463; Pub. L. 110–246, §4(a), title XIV, §14209(b), June 18, 2008, 122 Stat. 1664, 2225.)
 

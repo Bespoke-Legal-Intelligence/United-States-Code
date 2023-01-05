@@ -206,7 +206,7 @@ Subsec. (d)(4). Pub. L. 98–369, §474(g)(1)(C), substituted "section 30(f)" fo
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–97, title I, §13401(c), Dec. 22, 2017, 131 Stat. 2134, provided that: "The amendments made by this section \[amending this section and section 280C of this title\] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 115–97, title I, §13401(c), Dec. 22, 2017, 131 Stat. 2134, provided that: "The amendments made by thissection \[amending this section and section 280C of this title\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2015 Amendment
 

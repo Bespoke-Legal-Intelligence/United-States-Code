@@ -2,7 +2,7 @@
 
 #### (a) Power of Commission
 
-The Commission may investigate any facts, conditions, practices, or matters which it may find necessary or proper in order to determine whether any person has violated or is about to violate any provisions of this chapter or any rule, regulation, or order thereunder, or to aid in the enforcement of the provisions of this chapter or in prescribing rules or regulations thereunder, or in obtaining information to serve as a basis for recommending further legislation to the Congress. The Commission may permit any person to file with it a statement in writing, under oath or otherwise, as it shall determine, as to any or all facts and circumstances concerning a matter which may be the subject of investigation. The Commission, in its discretion, may publish in the manner authorized by section 825k of title 16, and make available to Statecommissions and municipalities, information concerning any such matter.
+The Commission may investigate any facts, conditions, practices, or matters which it may find necessary or proper in order to determine whether any person has violated or is about to violate any provisions of this chapter or any rule, regulation, or order thereunder, or to aid in the enforcement of the provisions of this chapter or in prescribing rules or regulations thereunder, or in obtaining information to serve as a basis for recommending further legislation to the Congress. The Commission may permit any person to file with it a statement in writing, under oath or otherwise, as it shall determine, as to any or all facts and circumstances concerning a matter which may be the subject of investigation. The Commission, in its discretion, may publish in the manner authorized by section 825k of title 16, and make available to State commissions and municipalities, information concerning any such matter.
 
 #### (b) Determination of adequacy of gas reserves
 
@@ -10,7 +10,7 @@ The Commission may, after hearing, determine the adequacy or inadequacy of the g
 
 #### (c) Administration of oaths and affirmations; subpena of witnesses, etc.
 
-For the purpose of any investigation or any other proceeding under this chapter, any member of the Commission, or any officer designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which the Commission finds relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States or at any designated place of hearing. Witnesses summoned by the Commission to appear before it shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
+For the purpose of any investigation or any other proceeding under this chapter, any member of the Commission, or any officer designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which the Commission finds relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States or at any designated place of hearing.Witnesses summoned by the Commission to appear before it shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
 
 #### (d) Jurisdiction of courts of United States
 
@@ -44,5 +44,5 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 #### Study and Report on Natural Gas Pipeline and Storage Facilities in New England
 
-Pub. L. 107–355, §26, Dec. 17, 2002, 116 Stat. 3012, required the Federal Energy Regulatory Commission, inconsultation with the Department of Energy, to conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network, and submit a report on the results to Congress by not later than 1 year after Dec. 17, 2002.
+Pub. L. 107–355, §26, Dec. 17, 2002, 116 Stat. 3012, required the Federal Energy Regulatory Commission, in consultation with the Department of Energy, to conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network, and submit a report on the results to Congress by not later than 1 year after Dec. 17, 2002.
 

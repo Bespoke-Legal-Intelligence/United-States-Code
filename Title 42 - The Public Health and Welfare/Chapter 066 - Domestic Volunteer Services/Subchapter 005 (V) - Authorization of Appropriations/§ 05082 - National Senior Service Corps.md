@@ -16,7 +16,7 @@ There are authorized to be appropriated to carry out part C of subchapter II, $5
 
 There are authorized to be appropriated to carry out part E of subchapter II, such sums as may be necessary for each of the fiscal years 2010 through 2014.
 
-(Pub. L. 93–113, title V, §502, Oct. 1, 1973, 87 Stat. 415; Pub. L. 94–135, title II, §205(a), Nov. 28, 1975, 89 Stat. 727; Pub. L. 95–478, title IV, §402(d), Oct. 18, 1978, 92 Stat. 1558; Pub. L. 97–35, title VI, §607(b), Aug. 13, 1981, 95 Stat. 486; Pub. L. 98–288, §28, May 21, 1984, 98 Stat. 197; Pub. L. 99–551, §9(b)–(d), Oct. 27, 1986, 100 Stat. 3077; Pub. L. 101–204, title VIII, §804, title IX, §902(7), Dec. 7,1989, 103 Stat. 1824, 1826; Pub. L. 103–82, title III, §382, Sept. 21, 1993, 107 Stat. 914; Pub. L. 111–13, title II, §2161(b), Apr. 21, 2009, 123 Stat. 1592.)
+(Pub. L. 93–113, title V, §502, Oct. 1, 1973, 87 Stat. 415; Pub. L. 94–135, title II, §205(a), Nov. 28, 1975, 89 Stat. 727; Pub. L. 95–478, title IV, §402(d), Oct. 18, 1978, 92 Stat. 1558; Pub. L. 97–35, title VI, §607(b), Aug. 13, 1981, 95 Stat. 486; Pub. L. 98–288, §28, May 21, 1984, 98 Stat. 197; Pub. L. 99–551, §9(b)–(d), Oct. 27, 1986, 100 Stat. 3077; Pub. L. 101–204, title VIII, §804, title IX, §902(7), Dec. 7, 1989, 103 Stat. 1824, 1826; Pub. L. 103–82, title III, §382, Sept. 21, 1993, 107 Stat. 914; Pub. L. 111–13, title II, §2161(b), Apr. 21, 2009, 123 Stat. 1592.)
 
 #### <b>Editorial Notes</b>
 
@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 98–288, §28(c), struck out "$16,610,000 for fiscal year 
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35, §607(b)(1), substituted provisions authorizing appropriations for fiscal years 1982 and 1983, for provisions authorizing appropriations for fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
 
-Subsec. (b). Pub. L. 97–35, §607(b)(2), substituted provisions authorizing appropriations for fiscal years 1982 and 1983, for provisions relating to authorization, availability, and allocation of appropriations from fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
+Subsec. (b). Pub. L. 97–35, §607(b)(2), substituted provisions authorizing appropriations for fiscal years 1982and 1983, for provisions relating to authorization, availability, and allocation of appropriations from fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
 
 Subsec. (c). Pub. L. 97–35, §607(b)(3), added subsec. (c).
 

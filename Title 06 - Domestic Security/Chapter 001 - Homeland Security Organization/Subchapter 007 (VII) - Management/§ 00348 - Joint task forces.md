@@ -16,7 +16,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (1) Establishment
 
-&emsp;The Secretary may establish and operate departmental Joint Task Forces to conduct joint operations using personnel and capabilities of the Department for the purposes specified in paragraph (2).
+&emsp;The Secretary may establish and operate departmental Joint Task Forces to conduct joint operations using personnel and capabilities ofthe Department for the purposes specified in paragraph (2).
 
 #### (2) Purposes
 
@@ -34,7 +34,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may not establish a Joint Task Force for any major disaster oremergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or an incident for which the Federal Emergency Management Agency has primary responsibility for management of the response under subchapter V of this chapter, including section 314(a)(3)(A) of this title, unless the responsibilities of such a Joint Task Force—
+&emsp;&emsp;&emsp;The Secretary may not establish a Joint Task Force for any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or an incident for which the Federal Emergency Management Agency has primary responsibility for management of the response under subchapter V of this chapter, including section 314(a)(3)(A) of this title, unless the responsibilities of such a Joint Task Force—
 
 &emsp;&emsp;&emsp;&emsp;(I) do not include operational functions related to incident management, including coordination of operations; and
 
@@ -94,7 +94,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (B) Cost neutrality
 
-&emsp;&emsp;A Joint Task Force may not require more resources than would have otherwise been required by the Department to carry out the duties assigned to such Joint Task Force if such Joint Task Force had not been established.
+&emsp;&emsp;A Joint Task Force may not require more resources than would have otherwise beenrequired by the Department to carry out the duties assigned to such Joint Task Force if such Joint Task Force had not been established.
 
 #### (C) Location of operations
 
@@ -102,7 +102,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (D) Consideration of impact
 
-&emsp;&emsp;When reviewing requests for allocation of component personnel and equipment undersubparagraph (A), the Secretary shall consider the impact of such allocation on the ability of the donating component or office to carry out the primary missions of the Department, and in the case of the Coast Guard, the missions specified in section 468 of this title.
+&emsp;&emsp;When reviewing requests for allocation of component personnel and equipment under subparagraph (A), the Secretary shall consider the impact of such allocation on the ability of the donating component or office to carry out the primary missions of the Department, and in the case of the Coast Guard, the missions specified in section 468 of this title.
 
 #### (E) Limitation
 
@@ -124,17 +124,37 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (8) Joint Task Force staff
 
-&emsp;Each Joint Task Force shall have a staff, composed of officials from relevant components and offices of the Department, to assist the Director of such Joint Task Force in carrying out the mission and responsibilities of such Joint Task Force.
+#### (A) In general
 
-#### (9) Establishment of performance metrics
+&emsp;&emsp;Each Joint Task Force shall have a staff, composed of personnel from relevant components and offices of the Department, to assist the Director of such Joint Task Force in carrying out the mission and responsibilities of such Joint Task Force.
+
+#### (B) Report
+
+&emsp;&emsp;The Secretary shall include in the report submitted under paragraph (6)(F)—
+
+&emsp;&emsp;&emsp;(i) the number of personnel of each component or office permanently assigned to each Joint Task Force; and
+
+&emsp;&emsp;&emsp;(ii) the number of personnel of each component or office assigned on a temporary basis to each Joint Task Force.
+
+#### (9) Mission; establishment of performance metrics
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) establish outcome-based and other appropriate performance metrics to evaluate the effectiveness of each Joint Task Force;
+&emsp;&emsp;(A) using leading practices in performance management and lessons learned by other law enforcement task forces and joint operations, establish—
 
-&emsp;&emsp;(B) not later than 120 days after December 23, 2016, and 120 days after the establishment of a new Joint Task Force, as appropriate, submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate the metrics established under subparagraph (A).
+&emsp;&emsp;&emsp;(i) the mission, strategic goals, and objectives of each Joint Task Force;
 
-&emsp;&emsp;(C) not later than January 31 of each year beginning in 2017, submit to each committee specified in subparagraph (B) a report that contains the evaluation described in subparagraph (A).
+&emsp;&emsp;&emsp;(ii) the criteria for terminating each Joint Task Force; and
+
+&emsp;&emsp;&emsp;(iii) outcome-based and other appropriate performance metrics for evaluating the effectiveness of each Joint Task Force with respect to the mission, strategic goals, and objectives established pursuant to clause (i), including—
+
+&emsp;&emsp;&emsp;&emsp;(I) targets for each Joint Task Force to achieve by not later than one and three years after such establishment; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a description of the methodology used to establish such metrics;
+
+&emsp;&emsp;(B) not later than 120 days after December 23, 2022, and 120 days after the establishment of a new Joint Task Force, as appropriate, submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate the mission, strategic goals, objectives, and metrics established under subparagraph (A); and
+
+&emsp;&emsp;(C) not later than one year after December 23, 2022, and annually thereafter, submit to the committees specified in subparagraph (B) a report that contains information on the progress in implementing the outcome-based and other appropriate performance metrics established pursuant to subparagraph (A)(iii).
 
 #### (10) Joint duty training program
 
@@ -186,13 +206,35 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (iv) Waiver
 
-&emsp;&emsp;&emsp;The Secretary may waive the application of clause (i) if the Secretary determines that such a waiver is in the interest of homeland security or necessary to carryout the mission for which a Joint Task Force was established.
+&emsp;&emsp;&emsp;The Secretary may waive the application of clause (i) if the Secretary determines that such a waiver is in the interest of homeland security or necessary to carry out the mission for which a Joint Task Force was established.
 
-#### (11) Notification of Joint Task Force formation
+#### (11) Notification of Joint Task Force formation or termination
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 90 days before establishing a Joint Task Force under this subsection, the Secretary shall submit to the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, the majority leader of the House of Representatives, the minority leader of the House of Representatives, and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a notification regarding such establishment.
+&emsp;&emsp;Not later than seven days after establishing or terminating a Joint Task Force under this subsection, the Secretary shall submit to the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, the majority leader of the House of Representatives, the minority leader of the House of Representatives, and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a notification regarding such establishment or termination, as the case may be. The contents of any such notification shall include the following:
+
+&emsp;&emsp;&emsp;(i) The criteria and conditions required to establish or terminate the Joint Task Force at issue.
+
+&emsp;&emsp;&emsp;(ii) The primary mission, strategic goals, objectives, and plan of operations of such Joint Task Force.
+
+&emsp;&emsp;&emsp;(iii) If such notification is a notification of termination, information on the effectiveness of such Joint Task Force as measured by the outcome-based performance metrics and other appropriate performance metrics established pursuant to paragraph (9)(A)(iii).
+
+&emsp;&emsp;&emsp;(iv) The funding and resources required to establish or terminate such Joint Task Force.
+
+&emsp;&emsp;&emsp;(v) The number of personnel of each component or office permanently assigned to such Joint Task Force.
+
+&emsp;&emsp;&emsp;(vi) The number of personnel of each component and office assigned on a temporary basis to such Joint Task Force.
+
+&emsp;&emsp;&emsp;(vii) If such notification is a notification of establishment, the anticipated costs of establishing and operating such Joint Task Force.
+
+&emsp;&emsp;&emsp;(viii) If such notification is a notification of termination, funding allocated in the immediately preceding fiscal year to such Joint Task Force for—
+
+&emsp;&emsp;&emsp;&emsp;(I) operations, notwithstanding such termination; and
+
+&emsp;&emsp;&emsp;&emsp;(II) activities associated with such termination.
+
+&emsp;&emsp;&emsp;(ix) The anticipated establishment or actual termination date of such Joint Task Force, as the case may be.
 
 #### (B) Waiver authority
 
@@ -202,31 +244,59 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (A) In general
 
-&emsp;&emsp;Not later than January 31, 2018, and January 31, 2021, the Inspector General of the Department shall submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a review of the Joint Task Forces established under this subsection.
+&emsp;&emsp;Not later than one year after December 23, 2022, the Comptroller General of the United States shall submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate an assessment of the effectiveness of the Secretary's utilization of the authority provided under this section for the purposes specified in subsection (b)(2) as among the range of options available to the Secretary to conduct joint operations among departmental components and offices and a review of the Joint Task Forces established under this subsection.
 
 #### (B) Contents
 
-&emsp;&emsp;The reviews required under subparagraph (A) shall include—
+&emsp;&emsp;The review required under subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) an assessment of the effectiveness of the structure of each Joint Task Force; and
+&emsp;&emsp;&emsp;(i) an assessment of methodology utilized to determine whether to establish or terminate each Joint Task Force; and
 
-&emsp;&emsp;&emsp;(ii) recommendations for enhancements to such structure to strengthen the effectiveness of each Joint Task Force.
+&emsp;&emsp;&emsp;(ii) an assessment of the effectiveness of oversight over each Joint Task Force, with specificity regarding the Secretary's utilization of outcome-based or other appropriate performance metrics (established pursuant to paragraph (9)(A)(iii)) to evaluate the effectiveness of each Joint Task Force in measuring progress with respect to the mission, strategic goals, and objectives (established pursuant to paragraph (9)(A)(i)) of such Joint Task Force.
 
 #### (13) Sunset
 
-&emsp;This section expires on September 30, 2022.
+&emsp;This section expires on September 30, 2024.
 
 #### (c) Joint duty assignment program
 
 After establishing the joint duty training program under subsection (b)(10), the Secretary shall establish a joint duty assignment program within the Department for the purposes of enhancing coordination in the Department and promoting workforce professional development.
 
-(Pub. L. 107–296, title VII, §708, as added Pub. L. 114–328, div. A, title XIX, §1901(b), Dec. 23, 2016, 130 Stat. 2665.)
+(Pub. L. 107–296, title VII, §708, as added Pub. L. 114–328, div. A, title XIX, §1901(b), Dec. 23, 2016, 130 Stat. 2665; amended Pub. L. 117–263, div. G, title LXXI, §7111(b), Dec. 23, 2022, 136 Stat. 3625.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(8). Pub. L. 117–263, §7111(b)(1), amended par. (8) generally. Prior to amendment, text read as follows: "Each Joint Task Force shall have a staff, composed of officials from relevant components and offices of the Department, to assist the Director of such Joint Task Force in carrying out the mission and responsibilities of such Joint Task Force."
+
+Subsec. (b)(9). Pub. L. 117–263, §7111(b)(2)(A), substituted "Mission; establishment" for "Establishment" in heading.
+
+Subsec. (b)(9)(A). Pub. L. 117–263, §7111(b)(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "establish outcome-based and other appropriate performance metrics to evaluate the effectiveness of each Joint Task Force;".
+
+Subsec. (b)(9)(B). Pub. L. 117–263, §7111(b)(2)(C), substituted "December 23, 2022" for "December 23, 2016" and "; and" for period at end and inserted "mission, strategic goals, objectives, and" before "metrics".
+
+Subsec. (b)(9)(C). Pub. L. 117–263, §7111(b)(2)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "not later than January 31 of each year beginning in 2017, submit to each committee specified in subparagraph (B) a report that contains the evaluation described in subparagraph (A)."
+
+Subsec. (b)(11). Pub. L. 117–263, §7111(b)(3)(A), inserted "or termination" after "formation" in heading.
+
+Subsec. (b)(11)(A). Pub. L. 117–263, §7111(b)(3)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Not later than 90 days before establishing a Joint Task Force under this subsection, the Secretary shall submit to the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, the majority leader of the House of Representatives, the minority leader of the House of Representatives, and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a notification regarding such establishment."
+
+Subsec. (b)(12)(A). Pub. L. 117–263, §7111(b)(4)(A), substituted "one year after December 23, 2022, the Comptroller General of the United States" for "January 31, 2018, and January 31, 2021, the Inspector General of the Department" and inserted "an assessment of the effectiveness of the Secretary's utilization of the authority provided under this section for the purposes specified in subsection (b)(2) as among the range of options available to the Secretary to conduct joint operations among departmental components and offices and" before "a review of the Joint Task Forces".
+
+Subsec. (b)(12)(B). Pub. L. 117–263, §7111(b)(4)(B)(i), substituted "review" for "reviews" in introductory provisions.
+
+Subsec. (b)(12)(B)(i), (ii). Pub. L. 117–263, §7111(b)(4)(B)(ii), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
+
+"(i) an assessment of the effectiveness of the structure of each Joint Task Force; and
+
+"(ii) recommendations for enhancements to such structure to strengthen the effectiveness of each Joint Task Force."
+
+Subsec. (b)(13). Pub. L. 117–263, §7111(b)(5), substituted "2024" for "2022".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

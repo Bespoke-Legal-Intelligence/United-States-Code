@@ -60,7 +60,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;&emsp;&emsp;(I) epizootic diseases in domestic livestock (including deer, elk, bison, and other animals of the family Cervidae); and
 
-&emsp;&emsp;&emsp;&emsp;(II) zoonotic diseases (including bovine brucellosis and bovine tuberculosis) in domestic livestock or wildlife reservoirs that present a potential concern to public health; and
+&emsp;&emsp;&emsp;&emsp;(II) zoonotic diseases (including bovine brucellosis and bovine tuberculosis) indomestic livestock or wildlife reservoirs that present a potential concern to public health; and
 
 &emsp;&emsp;&emsp;(x) the identification of animal drug needs and the generation and dissemination of data for safe and effective therapeutic applications of animal drugs for minor species and minor uses of such drugs in major species.
 
@@ -174,7 +174,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;(C) to ensure that the faculty of small, mid-sized, and minority-serving institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants;
 
-&emsp;&emsp;(D) to improve research, extension, and education capabilities in States (as definedin section 3103 of this title) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels;
+&emsp;&emsp;(D) to improve research, extension, and education capabilities in States (as defined in section 3103 of this title) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels;
 
 &emsp;&emsp;(E) to eligible entities to carry out the specific proposals submitted under procedures established under paragraph (4)(F) only if such specific proposals are consistent with a priority area specified in paragraph (2); and
 
@@ -244,7 +244,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 #### (V) Indirect costs
 
-&emsp;&emsp;&emsp;&emsp;The indirect cost rate applicable to appropriated funds for a grant funded under paragraph (6)(E) shall apply to amounts contributed by an entity under clause (i).
+&emsp;&emsp;&emsp;&emsp;The indirect cost rate applicable to appropriated funds for a grant funded under paragraph (6)(E) shall apply toamounts contributed by an entity under clause (i).
 
 #### (C) Applied research
 
@@ -340,7 +340,7 @@ Exceptions.—Clause (i) shall not apply to the extent that making the report, o
 
 #### (1) Purpose
 
-&emsp;The purpose of this subsection is to encourage the design of adaptive prototype systems for improving extension and education that seek to advance the application, translation, and demonstration of scientific discoveries and other agricultural research for the adoption and understanding of food, agricultural, and natural resources practices, techniques, methods, and technologies using digital or other novel platforms.
+&emsp;The purpose of this subsection is to encourage the design of adaptive prototype systems for improving extension and education that seek to advance the application, translation, and demonstration of scientific discoveries and other agricultural research for the adoption and understanding of food, agricultural, and natural resources practices, techniques,methods, and technologies using digital or other novel platforms.
 
 #### (2) Grants
 
@@ -432,7 +432,7 @@ The Secretary of Agriculture shall limit allowable overhead costs, with respect 
 
 #### (h) Authorization of appropriations
 
-Except as otherwise provided in subsections (b), (d), and (e), there are hereby authorized tobe appropriated such sums as are necessary to carry out this section.
+Except as otherwise provided in subsections (b), (d), and (e), there are hereby authorized to be appropriated such sums as are necessary to carry out this section.
 
 #### (i) Rules
 
@@ -440,13 +440,13 @@ The Secretary of Agriculture may issue such rules and regulations as the Secreta
 
 #### (j) Application of other laws
 
-The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications or proposals submitted under this section.
+Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications or proposals submitted under this section.
 
 #### (k) Emphasis on sustainable agriculture
 
 The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term "sustainable agriculture" has the meaning given that term in section 3103 of this title.
 
-(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII, §§7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, §4(a), title VII, §§7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895; Pub. L. 115–334, title VII, §§7504, 7505, 7614(b)(4)(B), Dec. 20, 2018, 132 Stat. 4821, 4822, 4836.)
+(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII, §§7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, §4(a), title VII, §§7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895; Pub. L. 115–334, title VII, §§7504, 7505, 7614(b)(4)(B), Dec. 20, 2018, 132 Stat. 4821, 4822, 4836; Pub. L. 117–286, §4(a)(36), Dec. 27, 2022, 136 Stat. 4309.)
 
 #### <b>Editorial Notes</b>
 
@@ -457,8 +457,6 @@ Act of October 10, 1962, referred to in subsec. (c)(1)(B), is Pub. L. 87–788, 
 Section 3 of the Specialty Crops Competitiveness Act of 2004, referred to in subsec. (e)(1)(A), is section 3 of Pub. L. 108–465, which is set out as a note under section 1621 of this title.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Food and Agriculture Act of 1977, referred to in subsec. (j), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
@@ -472,6 +470,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2022</b>—Subsec. (j). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act".
+
 <b>2018</b>—Subsec. (b)(2)(D)(iii) to (viii). Pub. L. 115–334, §7504(1)(A), added cl. (iii) and redesignated former cls. (iii) to (vii) as (iv) to (viii), respectively.
 
 Subsec. (b)(2)(E)(v). Pub. L. 115–334, §7504(1)(B), added cl. (v).
@@ -484,7 +484,7 @@ Subsec. (b)(9)(A)(iii). Pub. L. 115–334, §7614(b)(4)(B)(i), struck out cl. (i
 
 Subsec. (b)(9)(B)(i). Pub. L. 115–334, §7614(b)(4)(B)(ii)(I), substituted "clause (ii)," for "clauses (ii) and (iii),".
 
-Subsec. (b)(9)(B)(iii). Pub. L. 115–334, §7614(b)(4)(B)(ii)(II), struck out cl. (iii). Text read as follows: "The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by section 3371 of this title."
+Subsec. (b)(9)(B)(iii). Pub. L. 115–334, §7614(b)(4)(B)(ii)(II), struck out cl. (iii). Text read asfollows: "The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by section 3371 of this title."
 
 Subsec. (b)(9)(C). Pub. L. 115–334, §7614(b)(4)(B)(iii), added subpar. (C).
 

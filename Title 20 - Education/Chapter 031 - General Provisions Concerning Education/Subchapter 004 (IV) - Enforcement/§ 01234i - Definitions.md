@@ -12,7 +12,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in par. (2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in par. (2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which isclassified generally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (2), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 

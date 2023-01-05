@@ -70,7 +70,7 @@ The Director shall provide for the development or substantial expansion of cente
 
 #### (e) Geographic distribution; period of support, additional periods
 
-Insofar as practicable, centers developed or expanded under this section should be geographically dispersed throughout the United States and in environments with proven research capabilities. Support of a center under this section may be for a period of not to exceed five years and such period may be extended by the Director of the Institute for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such grouphas recommended to the Director that such period should be extended.
+Insofar as practicable, centers developed or expanded under this section should be geographically dispersed throughout the United States and in environments with proven research capabilities. Support of a center under this section may be for a period of not to exceed five years and such period may be extended by the Director of the Institute for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
 (July 1, 1944, ch. 373, title IV, §431, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 846; amended Pub. L. 103–43, title VI, §601(b), June 10, 1993, 107 Stat. 161.)
 

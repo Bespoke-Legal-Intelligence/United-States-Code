@@ -22,11 +22,11 @@ It is the sense of the Congress that the Department of Justice and the Secretary
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsecs. (a) and (c), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to this subchapter (§2000d et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (a) and (c), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to this subchapter (§2000d et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of the Elementary and Secondary Education Amendments of 1969, and not as part of the Civil Rights Act of 1964, title VI of which comprises this subchapter.
+Section was enacted as part of the Elementary and Secondary Education Amendments of 1969, and not aspart of the Civil Rights Act of 1964, title VI of which comprises this subchapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

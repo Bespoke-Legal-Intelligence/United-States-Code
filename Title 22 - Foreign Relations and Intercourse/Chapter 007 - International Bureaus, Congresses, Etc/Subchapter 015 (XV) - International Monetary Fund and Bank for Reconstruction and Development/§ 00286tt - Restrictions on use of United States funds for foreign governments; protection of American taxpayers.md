@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund—
 
-&emsp;(1) to evaluate, prior to consideration by the Board of Executive Directors of the Fund, any proposal submitted to the Board for the Fund to make a loan to a country if—
+&emsp;(1) to evaluate, prior to consideration by the Board of Executive Directors of the Fund, anyproposal submitted to the Board for the Fund to make a loan to a country if—
 
 &emsp;&emsp;(A) the amount of the public debt of the country exceeds the gross domestic product of the country as of the most recent year for which such information is available; and
 

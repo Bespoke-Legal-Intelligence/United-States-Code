@@ -264,7 +264,7 @@ For purposes of this section:
 
 #### (1) Critical control point
 
-&emsp;The term "critical control point" means a point, step, or procedure in a food process at which control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.
+&emsp;The term "critical control point" means a point, step, or procedure in a food process atwhich control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.
 
 #### (2) Facility
 

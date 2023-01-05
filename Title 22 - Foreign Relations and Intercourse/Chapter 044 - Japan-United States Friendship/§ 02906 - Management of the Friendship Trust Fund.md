@@ -38,7 +38,7 @@ In subsec. (b), "chapter 31 of title 31" substituted for "the Second Liberty Bon
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–277 amended second sentence generally. Prior to amendment, second sentence read as follows: "Such investment of amounts authorized to be appropriated under section 2902(d) of this title may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States."
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–241 inserted "(including amounts earned as interest on, and proceeds from the sale or redemption of, obligations purchased with amounts received)" after "amounts received".
+<b>1982</b>—Subsec. (e). Pub. L. 97–241 inserted "(including amounts earned as interest on, and proceeds from thesale or redemption of, obligations purchased with amounts received)" after "amounts received".
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–350 substituted "investment of amounts authorized to be appropriated under section 2902(d) of this title may be made" for "investment may be made" in second sentence.
 

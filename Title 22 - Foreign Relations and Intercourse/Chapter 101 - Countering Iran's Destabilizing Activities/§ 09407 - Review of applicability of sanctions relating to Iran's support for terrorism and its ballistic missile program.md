@@ -18,7 +18,7 @@ Not later than 5 years after August 2, 2017, the President shall conduct a revie
 
 #### (b) Implementation of sanctions
 
-If the President determines under subsection (a) that sanctions under an Executive orderspecified in paragraph (2) of that subsection are applicable with respect to a person, the President shall—
+If the President determines under subsection (a) that sanctions under an Executive order specified in paragraph (2) of that subsection are applicable with respect to a person, the President shall—
 
 &emsp;(1) impose sanctions with respect to that person pursuant to that Executive order; or
 

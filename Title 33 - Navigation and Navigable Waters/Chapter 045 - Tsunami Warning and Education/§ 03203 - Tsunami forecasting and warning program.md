@@ -88,7 +88,7 @@ The program under this section shall operate a tsunami warning system that—
 
 &emsp;&emsp;(F) Disseminating forecasts and tsunami warning bulletins to Federal, State, tribal, and local government officials and the public.
 
-&emsp;&emsp;(G) Coordinating with the tsunami hazard mitigation program conducted under section 3204 of this title to ensure ongoing sharing of information between forecasters and emergency management officials.
+&emsp;&emsp;(G) Coordinating with the tsunami hazard mitigation program conducted under section3204 of this title to ensure ongoing sharing of information between forecasters and emergency management officials.
 
 &emsp;&emsp;(H) In coordination with the Commandant of the Coast Guard and the Administrator of the Federal Emergency Management Agency, evaluating and recommending procedures for ports and harbors at risk of tsunami inundation, including review of readiness, response, and communication strategies, and data sharing policies, to the maximum extent practicable.
 

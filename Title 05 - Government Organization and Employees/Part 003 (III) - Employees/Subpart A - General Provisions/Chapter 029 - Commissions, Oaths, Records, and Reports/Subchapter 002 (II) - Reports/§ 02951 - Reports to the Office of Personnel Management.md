@@ -36,7 +36,7 @@ The authority of the President to prescribe rules is added on authority of forme
 
 In paragraph (1), the word "authority" is substituted for "power". The words "or employment" are omitted as included within "appointment".
 
-In paragraph (1)(B), the words "separation during probation" are substituted for "of the rejection of any such person after probation". The words "rejection . . .after probation" refer to a rejection, i.e., separation, after a portion of the probationary period has been served but before the end of the probationary period. This is so because an individual can be rejected only during the probationary period. After he has completed the probationary period, he can be removed only under procedures governing removals from the competitive service, and removals of this nature are covered by paragraph (E).
+In paragraph (1)(B), the words "separation during probation" are substituted for "of the rejection of any such person after probation". The words "rejection . . . after probation" refer to a rejection, i.e., separation, after a portion of the probationary period has been served but before the end of the probationary period. This is so because an individual can be rejected only during the probationary period. After he has completed the probationary period, he can be removed only under procedures governing removals from the competitive service, and removals of this nature are covered by paragraph (E).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

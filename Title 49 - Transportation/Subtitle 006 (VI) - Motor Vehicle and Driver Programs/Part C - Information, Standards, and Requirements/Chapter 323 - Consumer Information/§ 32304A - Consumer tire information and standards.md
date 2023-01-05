@@ -32,7 +32,7 @@ Promulgation of Regulations for Tire Fuel Efficiency Minimum Performance Standar
 
 In general.—The Secretary, after consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall promulgate regulations for tire fuel efficiency minimum performance standards for—
 
-&emsp;&emsp;(A) passenger car tires with a maximum speed capability equal to or less than 149 miles per hour or 240 kilometers per hour; and
+&emsp;&emsp;(A) passenger car tires with a maximum speed capability equal to or less than 149miles per hour or 240 kilometers per hour; and
 
 &emsp;&emsp;(B) passenger car tires with a maximum speed capability greater than 149 miles per hour or 240 kilometers per hour.
 
@@ -142,7 +142,7 @@ Application With State and Local Laws and Regulations.—Nothing in this section
 
 #### References in Text
 
-The date of enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (a)(1), (3), is the date of enactment of subtitle A (§§101–113) of title I of Pub. L. 110–140, which was approved Dec. 19, 2007.
+The date of enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (a)(1), (3), is the date ofenactment of subtitle A (§§101–113) of title I of Pub. L. 110–140, which was approved Dec. 19, 2007.
 
 The date of enactment of this Act, referred to in subsecs. (b)(2)(A), (c)(2)(C), and (d)(3)(A), probably means the date of enactment of Pub. L. 114–94, which added subsecs. (b) to (d) and was approved Dec. 4, 2015.
 

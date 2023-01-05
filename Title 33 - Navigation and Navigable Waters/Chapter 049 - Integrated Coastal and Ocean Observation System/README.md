@@ -13,6 +13,8 @@
 | [3609\.](%C2%A7%2003609%20-%20Intent%20of%20Congress.md) | Intent of Congress. |
 | [3610\.](%C2%A7%2003610%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [3611\.](%C2%A7%2003611%20-%20Assessing%20and%20modeling%20named%20storms%20over%20coastal%20States.md) | Assessing and modeling named storms over coastal States. |
+| [3612\.](%C2%A7%2003612%20-%20Accelerating%20innovation%20at%20Cooperative%20Institutes.md) | Accelerating innovation at Cooperative Institutes. |
+| [3613\.](%C2%A7%2003613%20-%20Blue%20Economy%20valuation.md) | Blue Economy valuation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,3 +34,5 @@
 - [&sect; 03609 - Intent of Congress](%C2%A7%2003609%20-%20Intent%20of%20Congress.md)
 - [&sect; 03610 - Authorization of appropriations](%C2%A7%2003610%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03611 - Assessing and modeling named storms over coastal States](%C2%A7%2003611%20-%20Assessing%20and%20modeling%20named%20storms%20over%20coastal%20States.md)
+- [&sect; 03612 - Accelerating innovation at Cooperative Institutes](%C2%A7%2003612%20-%20Accelerating%20innovation%20at%20Cooperative%20Institutes.md)
+- [&sect; 03613 - Blue Economy valuation](%C2%A7%2003613%20-%20Blue%20Economy%20valuation.md)

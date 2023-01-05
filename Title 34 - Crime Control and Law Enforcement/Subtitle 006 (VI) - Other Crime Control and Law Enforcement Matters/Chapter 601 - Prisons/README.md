@@ -7,6 +7,7 @@
 | [60103\.](%C2%A7%2060103%20-%20Federal%20regulation%20of%20prisoner%20transport%20companies.md) | Federal regulation of prisoner transport companies. |
 | [60104\.](%C2%A7%2060104%20-%20Enforcement.md) | Enforcement. |
 | [60105\.](%C2%A7%2060105%20-%20State%20information%20regarding%20individuals%20who%20die%20in%20the%20custody%20of%20law%20enforcement.md) | State information regarding individuals who die in the custody of law enforcement. |
+| [60106\.](%C2%A7%2060106%20-%20Incentives%20for%20States.md) | Incentives for States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,3 +21,4 @@
 - [&sect; 60103 - Federal regulation of prisoner transport companies](%C2%A7%2060103%20-%20Federal%20regulation%20of%20prisoner%20transport%20companies.md)
 - [&sect; 60104 - Enforcement](%C2%A7%2060104%20-%20Enforcement.md)
 - [&sect; 60105 - State information regarding individuals who die in the custody of law enforcement](%C2%A7%2060105%20-%20State%20information%20regarding%20individuals%20who%20die%20in%20the%20custody%20of%20law%20enforcement.md)
+- [&sect; 60106 - Incentives for States](%C2%A7%2060106%20-%20Incentives%20for%20States.md)

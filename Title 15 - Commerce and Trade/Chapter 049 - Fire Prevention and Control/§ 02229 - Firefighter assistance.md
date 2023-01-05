@@ -98,7 +98,7 @@ In this section:
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The Administrator of FEMA may waive the limitation in clause (i) with respect to a grant recipient if the Administrator of FEMA determines that such recipient has an extraordinary need for a grant in an amount that exceeds the limit under clause (i).
+&emsp;&emsp;&emsp;The Administrator of FEMA may waive the limitation in clause (i) with respect to a grant recipient if the Administrator of FEMA determines that such recipient has an extraordinary need for a grant in anamount that exceeds the limit under clause (i).
 
 #### (3) Use of grant funds
 
@@ -194,7 +194,7 @@ In this section:
 
 #### (4) Limitation
 
-&emsp;None of the funds made available under this subsection may be provided to the Association of Community Organizations for Reform Now (ACORN) or any of its affiliates, subsidiaries, or allied organizations.
+&emsp;None of the funds made available under this subsection may be provided to the Associationof Community Organizations for Reform Now (ACORN) or any of its affiliates, subsidiaries, or allied organizations.
 
 #### (e) Applications for grants
 
@@ -244,9 +244,9 @@ In this section:
 
 &emsp;The Administrator of FEMA shall, after consultation with national fire service and emergency medical services organizations, appoint fire service personnel to conduct peer reviews of applications received under subsection (e)(1).
 
-#### (2) Applicability of Federal Advisory Committee Act
+#### (2) Applicability of chapter 10 of title 5
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to activities carried out pursuant to this subsection.
+&emsp;Chapter 10 of title 5 shall not apply to activities carried out pursuant to this subsection.
 
 #### (g) Prioritization of grant awards
 
@@ -320,7 +320,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 #### (2) Applications from nonaffiliated EMS organizations
 
-&emsp;In the case of an application submitted under subsection (e)(1) by a nonaffiliated EMS organization, the Administrator of FEMA shall consider the extent to which othersources of Federal funding are available to the applicant to provide the assistance requested in such application.
+&emsp;In the case of an application submitted under subsection (e)(1) by a nonaffiliated EMS organization, the Administrator of FEMA shall consider the extent to which other sources of Federal funding are available to the applicant to provide the assistance requested in such application.
 
 #### (3) Awarding fire prevention and safety grants to certain organizations that are not fire departments
 
@@ -486,9 +486,9 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 &emsp;&emsp;&emsp;&emsp;(II) nonaffiliated EMS providers.
 
-#### (3) Applicability of Federal Advisory Committee Act
+#### (3) Applicability of chapter 10 of title 5
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to activities carried out under this subsection.
+&emsp;Chapter 10 of title 5 shall not apply to activities carried out under this subsection.
 
 #### (m) Accounting determination
 
@@ -500,7 +500,7 @@ The Alaska Village Initiatives, a non-profit organization incorporated in the St
 
 #### (o) Training standards
 
-If an applicant for a grant under this section is applying for such grant to purchase training that does not meet or exceed any applicable national voluntary consensus standards, including those developed under section 747 of title 6, theapplicant shall submit to the Administrator of FEMA an explanation of the reasons that the training proposed to be purchased will serve the needs of the applicant better than training that meets or exceeds such standards.
+If an applicant for a grant under this section is applying for such grant to purchase training that does not meet or exceed any applicable national voluntary consensus standards, including those developed under section 747 of title 6, the applicant shall submit to the Administrator of FEMA an explanation of the reasons that the training proposed to be purchased will serve the needs of the applicant better than training that meets or exceeds such standards.
 
 #### (p) Ensuring effective use of grants
 
@@ -566,19 +566,19 @@ If an applicant for a grant under this section is applying for such grant to pur
 
 The authority to award assistance and grants under this section shall expire on September 30, 2024.
 
-(Pub. L. 93–498, §33, as added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360; amended Pub. L. 107–107, div. A, title X, §1061, Dec. 28, 2001, 115 Stat. 1231; Pub. L. 108–7, div. K, title IV, §421, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–169, title II, §205, Dec. 6, 2003, 117 Stat. 2040; Pub. L. 108–375, div. C, title XXXVI, §3602, Oct. 28, 2004, 118 Stat. 2195; Pub. L. 112–239, div. A, title XVIII, §1803, Jan. 2, 2013, 126 Stat. 2100; Pub. L. 115–98, §3, Jan. 3, 2018, 131 Stat. 2239.)
+(Pub. L. 93–498, §33, as added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360; amended Pub. L. 107–107, div. A, title X, §1061, Dec. 28, 2001, 115 Stat. 1231; Pub. L. 108–7, div. K, title IV, §421, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–169, title II, §205, Dec. 6, 2003, 117 Stat. 2040; Pub. L. 108–375, div. C, title XXXVI, §3602, Oct. 28, 2004, 118 Stat. 2195; Pub. L. 112–239, div. A, title XVIII, §1803, Jan. 2, 2013, 126 Stat. 2100; Pub. L. 115–98, §3, Jan. 3, 2018, 131 Stat. 2239; Pub. L. 117–286, §4(a)(68), Dec. 27, 2022, 136 Stat. 4313.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsecs. (f)(2) and (l)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Another section 33 of Pub. L. 93–498 was renumbered section 35 and is classified to section 2230 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(2). Pub. L. 117–286, §4(a)(68)(A), substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
+
+Subsec. (l)(3). Pub. L. 117–286, §4(a)(68)(B), substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2018</b>—Subsec. (c)(3)(N). Pub. L. 115–98, §3(c), added subpar. (N).
 

@@ -22,7 +22,7 @@
 
 &emsp;(C) sufficient flexibility to allow for the appointment of individuals who have special or unique qualities which indicate a likelihood of executive success and who would not otherwise be eligible for appointment.
 
-(d) An individual's initial appointment as a career appointee shall become final only after the individual has served a 1-year probationary period as a career appointee. The preceding sentence shall not apply to any individual covered by section 1599e of title 10.
+(d) An individual's initial appointment as a career appointee shall become final only after the individual has served a 1-year probationary period as a career appointee.
 
 (e) Each career appointee shall meet the executive qualifications of the position to which appointed, as determined in writing by the appointing authority.
 
@@ -32,10 +32,6 @@
 
 (Added Pub. L. 95–454, title IV, §403(a), Oct. 13, 1978, 92 Stat. 1161; amended Pub. L. 97–35, title XVII, §1704(c), Aug. 13, 1981, 95 Stat. 758; Pub. L. 98–615, title III, §306(b)(1), Nov. 8, 1984, 98 Stat. 3220; Pub. L. 101–12, §9(b), Apr. 10, 1989, 103 Stat. 35; Pub. L. 101–194, title V, §506(b)(2), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–280, §6(d)(1), May 4, 1990, 104 Stat. 160; Pub. L. 107–296, title XIII, §1321(a)(1)(A), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 114–92, div. A, title XI, §1105(c)(2), Nov. 25, 2015, 129 Stat. 1024; Pub. L. 117–81, div. A, title XI, §1106(b)(2)(B), Dec. 27, 2021, 135 Stat. 1950.)
 
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 117–81, div. A, title XI, §1106(a)(1), (b)(2)(B), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of section 1599e of title 10, provided that subsection (d) of this section is amended by striking out "The preceding sentence shall not apply to any individual covered by section 1599e of title 10." See 2021 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
@@ -44,7 +40,7 @@ A prior section 3393, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Amendments
 
-<b>2021</b>—Subsec. (d). Pub. L. 117–81 struck out at end: "The preceding sentence shall not apply to any individual covered by section 1599e of title 10."
+<b>2021</b>—Subsec. (d). Pub. L. 117–81 struck out at end "The preceding sentence shall not apply to any individual covered by section 1599e of title 10."
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–92 inserted at end "The preceding sentence shall not apply to any individual covered by section 1599e of title 10."
 
@@ -64,7 +60,7 @@ Pub. L. 101–12 substituted "1215" for "1207".
 
 #### Effective Date of 2021 Amendment
 
-For repeal of section 1599e of title 10, effective Dec. 31, 2022, which effective date is applied to the amendment by Pub. L. 117–81 to this section to reflect the probable intent of Congress, see Effective Date of Repeal note under section 1599e of Title 10, Armed Forces.
+Amendment by Pub. L. 117–81 applied as if effective Dec. 31, 2022, to correspond to the effective date of the repeal of section 1599e of Title 10, Armed Forces, to reflect the probable intent of Congress. See Effective Date of Repeal note under section 1599e of Title 10.
 
 #### Effective Date of 2002 Amendment
 

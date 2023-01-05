@@ -92,7 +92,7 @@
 
 #### (4) Attorneys in the office of the General Counsel
 
-&emsp;The General Counsel shall appoint, and fix the compensation of, and may remove, such additional attorneys as may be necessary toenable the General Counsel to perform the General Counsel's duties.
+&emsp;The General Counsel shall appoint, and fix the compensation of, and may remove, such additional attorneys as may be necessary to enable the General Counsel to perform the General Counsel's duties.
 
 #### (5) Term
 
@@ -132,7 +132,7 @@
 
 #### (A) Voluntary services
 
-&emsp;&emsp;A confidential advisor appointed or designated under paragraph (1) shall offer to provide to covered employees described in paragraph (4) the services described in subparagraph (B), which a covered employee may accept or decline.
+&emsp;&emsp;A confidential advisor appointed or designated under paragraph (1) shall offer toprovide to covered employees described in paragraph (4) the services described in subparagraph (B), which a covered employee may accept or decline.
 
 #### (B) Services
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;(A) a former covered employee may only request such services if the practice that may be a violation of part A of subchapter II occurred during the employment or service of the employee; and
 
-&emsp;&emsp;(B) a covered employee described in this paragraph may only request such servicesbefore the expiration of the 180-day period described in section 1402(d) of this title.
+&emsp;&emsp;(B) a covered employee described in this paragraph may only request such services before the expiration of the 180-day period described in section 1402(d) of this title.
 
 #### (5) Restrictions
 

@@ -438,7 +438,7 @@ nc
 
 &emsp;&emsp;&emsp;(i) all expenses incurred in the production of the material, including general expenses; and
 
-&emsp;&emsp;&emsp;(ii) an amount for profit equivalent to the profit added in the normal course oftrade or equal to the profit that is usually reflected in the sale of goods of the same class or kind as the material.
+&emsp;&emsp;&emsp;(ii) an amount for profit equivalent to the profit added in the normal course of trade or equal to the profit that is usually reflected in the sale of goods of the same class or kind as the material.
 
 #### (9) Intermediate materials
 
@@ -566,7 +566,7 @@ nc
 
 #### (3) Use of inventory management method
 
-&emsp;A person that selects an inventory management method for purposes of paragraph (1) or (2) shall use that inventory management method throughout the fiscal year of the person.
+&emsp;A person that selects an inventory management method for purposes of paragraph (1) or (2) shall use that inventory managementmethod throughout the fiscal year of the person.
 
 #### (h) Accessories, spare parts, tools, and instructional or other information materials
 
@@ -578,7 +578,7 @@ nc
 
 &emsp;&emsp;(B) be disregarded in determining whether a good is a good wholly obtained or produced entirely in the territory of one or more USMCA countries or satisfies a process or change in tariff classification set forth in Annex 4–B of the USMCA; and
 
-&emsp;&emsp;(C) be taken into account as originating or nonoriginating materials, as the case maybe, in calculating any applicable regional value content of the good set forth in Annex 4–B of the USMCA.
+&emsp;&emsp;(C) be taken into account as originating or nonoriginating materials, as the case may be, in calculating any applicable regional value content of the good set forth in Annex 4–B of the USMCA.
 
 #### (2) Conditions
 
@@ -662,7 +662,7 @@ The Harmonized Tariff Schedule of the United States or HTS, referred to in subse
 
 This Act, referred to in subsec. (c)(1), is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11, known as the United States-Mexico-Canada Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-Act of June 18, 1934, referred to in subsec. (c)(3), is act June 18, 1934, ch. 590, 48 Stat. 998, popularly known as the Foreign Trade Zones Act, which is classified generally to chapter 1A (§81a et seq.) of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 81a of this title and Tables.
+Act of June 18, 1934, referred to in subsec. (c)(3), is act June 18, 1934, ch. 590, 48 Stat. 998, popularly known as the Foreign Trade Zones Act, which is classified generally to chapter 1A (§81a et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 81a of this title and Tables.
 
 Section 202 of the North American Free Trade Agreement Implementation Act, referred to in subsec. (o)(2), is section 202 of Pub. L. 103–183, title II, Dec. 8, 1993, 107 Stat. 2069, which was classified to section 3332 of this title prior to repeal by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 

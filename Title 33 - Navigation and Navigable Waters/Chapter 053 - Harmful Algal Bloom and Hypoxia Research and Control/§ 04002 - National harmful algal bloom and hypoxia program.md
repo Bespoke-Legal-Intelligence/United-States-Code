@@ -84,7 +84,7 @@ The Under Secretary shall—
 
 &emsp;(4) enhance communication and coordination among Federal agencies carrying out marine and freshwater harmful algal bloom and hypoxia activities and research;
 
-&emsp;(5) to the greatest extent practicable, leverage existing resources and expertise availablefrom local research universities and institutions;
+&emsp;(5) to the greatest extent practicable, leverage existing resources and expertise available from local research universities and institutions;
 
 &emsp;(6) increase the availability to appropriate public and private entities of—
 
@@ -112,7 +112,7 @@ With respect to the freshwater aspects of the Program, the Administrator, throug
 
 &emsp;&emsp;(A) research on the ecology and impacts of freshwater harmful algal blooms; and
 
-&emsp;&emsp;(B) forecasting and monitoring of and event response to freshwater harmful algal blooms in lakes, rivers, estuaries (including their tributaries), and reservoirs.
+&emsp;&emsp;(B) forecasting and monitoring of and event response to freshwater harmful algalblooms in lakes, rivers, estuaries (including their tributaries), and reservoirs.
 
 #### (2) Nonduplication
 

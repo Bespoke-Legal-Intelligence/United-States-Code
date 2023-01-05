@@ -6,7 +6,7 @@
 
 (c) General officers on the active-duty list of the Regular Air Force who are specifically authorized by law to hold a civil office under the United States, or an instrumentality thereof, are not counted in determining authorized strength under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 500, §8210; Pub. L. 85–861, §1(161), Sept. 2, 1958, 72 Stat. 1514; Pub. L. 96–513, title V, §504(7), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 102–190, div. A, title X, §1061(a)(23)(A), Dec. 5, 1991, 105 Stat. 1473; renumbered §9110, Pub. L. 115–232, div. A, title VIII, §806(b)(1), Aug. 13, 2018, 132 Stat. 1832.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 500, §8210; Pub. L. 85–861, §1(161), Sept. 2, 1958, 72 Stat. 1514; Pub. L. 96–513, title V, §504(7), Dec. 12, 1980, 94 Stat.2916; Pub. L. 102–190, div. A, title X, §1061(a)(23)(A), Dec. 5, 1991, 105 Stat. 1473; renumbered §9110, Pub. L. 115–232, div. A, title VIII, §806(b)(1), Aug. 13, 2018, 132 Stat. 1832.)
 
 Historical and Revision Notes<br>1956
 

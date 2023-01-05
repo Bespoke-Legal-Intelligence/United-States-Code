@@ -10,7 +10,7 @@ Limitation on Number of Additional Units.—The number of additional units acqui
 
 (c)
 
-Determination of Costs Upon Request.—The Director of the Cost Analysis Division ofthe Department of Homeland Security shall, at the request of the Secretary, determine for purposes of this section—
+Determination of Costs Upon Request.—The Director of the Cost Analysis Division of the Department of Homeland Security shall, at the request of the Secretary, determine for purposes of this section—
 
 &emsp;(1) the costs that would be saved through award of a new major acquisition program contract in accordance with section 1105(a)(2) for the acquisition of a number of additional units specified by the Secretary; and
 

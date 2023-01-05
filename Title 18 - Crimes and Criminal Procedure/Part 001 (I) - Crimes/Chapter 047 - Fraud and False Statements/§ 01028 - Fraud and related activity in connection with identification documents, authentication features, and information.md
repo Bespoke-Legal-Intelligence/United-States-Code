@@ -112,7 +112,7 @@
 
 &emsp;(10) the term "transfer" includes selecting an identification document, false identification document, or document-making implement and placing or directing the placement of such identification document, false identification document, or document-making implement on an online location where it is available to others;
 
-&emsp;(11) the term "State" includes any State of the United States, the District of Columbia,the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States; and
+&emsp;(11) the term "State" includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States; and
 
 &emsp;(12) the term "traffic" means—
 
@@ -128,7 +128,7 @@ Attempt and Conspiracy.—Any person who attempts or conspires to commit any off
 
 (g)
 
-Forfeiture Procedures.—The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the provisions of section 413 (other than subsection (d) of that section) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853).
+Forfeiture Procedures.—The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding,shall be governed by the provisions of section 413 (other than subsection (d) of that section) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853).
 
 (h)
 
@@ -306,7 +306,7 @@ Contents.—The report referred to in paragraph (1) shall include—
 
 #### Constitutional Authority
 
-Pub. L. 105–318, §2, Oct. 30, 1998, 112 Stat. 3007, provided that: "The constitutional authority upon whichthis Act \[see Short Title of 1998 Amendments note set out under section 1001 of this title\] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution."
+Pub. L. 105–318, §2, Oct. 30, 1998, 112 Stat. 3007, provided that: "The constitutional authority upon which this Act \[see Short Title of 1998 Amendments note set out under section 1001 of this title\] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution."
 
 #### Centralized Complaint and Consumer Education Service for Victims of Identity Theft
 

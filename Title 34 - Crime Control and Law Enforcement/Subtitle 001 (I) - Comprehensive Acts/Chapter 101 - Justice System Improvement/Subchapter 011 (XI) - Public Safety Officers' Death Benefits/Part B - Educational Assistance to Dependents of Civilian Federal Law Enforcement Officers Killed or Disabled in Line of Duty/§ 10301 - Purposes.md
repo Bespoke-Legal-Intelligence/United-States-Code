@@ -20,3 +20,9 @@ Section was formerly classified to section 3796d of Title 42, The Public Health 
 
 <b>1998</b>—Par. (1). Pub. L. 105–390 substituted "public safety" for "civilian Federal law enforcement".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of Pub. L. 104–238, which enacted this subchapter, as the "Federal Law Enforcement Dependents Assistance Act of 1996", see section 1 of Pub. L. 104–238, set out as a Short Title of 1996 Act note under section 10101 of this title.
+

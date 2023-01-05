@@ -100,7 +100,7 @@
 
 (M) In conducting scientific peer review under section 762(f) of this title of an application for the renewal of a grant made under this paragraph, the peer review panel shall take into account the past performance of the applicant in carrying out the grant and input from individuals with disabilities and the individuals' representatives.
 
-(N) An institution or provider that receives a grant under this paragraph to establish such a Center may not collect more than 15 percent of the amount of the grant received by the Center in indirect cost charges.
+(N) An institution or provider that receives a grant under this paragraph to establish such a Center may not collect more than 15 percent ofthe amount of the grant received by the Center in indirect cost charges.
 
 (3)(A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conduct research or demonstration activities, and training activities, regarding independent living strategies and rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
 
@@ -164,7 +164,7 @@
 
 (4)(A) Research grants may be used to conduct a program for spinal cord injury research, including conducting such a program by making grants to public or private agencies and organizations to pay part or all of the costs of special projects and demonstration projects for spinal cord injuries, that will—
 
-&emsp;(i) ensure widespread dissemination of research findings among all Spinal Cord InjuryCenters, to rehabilitation practitioners, individuals with spinal cord injury, the individuals' representatives, and organizations receiving financial assistance under this paragraph;
+&emsp;(i) ensure widespread dissemination of research findings among all Spinal Cord Injury Centers, to rehabilitation practitioners, individuals with spinal cord injury, the individuals' representatives, and organizations receiving financial assistance under this paragraph;
 
 &emsp;(ii) provide encouragement and support for initiatives and new approaches by individual and institutional investigators; and
 
@@ -306,7 +306,7 @@
 
 The Assistive Technology Act of 1998, referred to in subsec. (b)(3)(C)(i), (G)(i), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(D)(i)(III), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(D)(i)(III), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 

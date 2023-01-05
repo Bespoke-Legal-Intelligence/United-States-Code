@@ -44,7 +44,7 @@ The words "effective August 4, 1947" and the words "establishing the Medical Ser
 
 #### Prior Provisions
 
-A prior section 8219, added Pub. L. 85–861, §1(164)(A), Sept. 2, 1958, 72 Stat. 1515, related to authorized strength of Air Force in reserve commissioned officersin grades below brigadier general in active status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12005(a) of this title.
+A prior section 8219, added Pub. L. 85–861, §1(164)(A), Sept. 2, 1958, 72 Stat. 1515, related to authorized strength of Air Force in reserve commissioned officers in grades below brigadier general in active status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12005(a) of this title.
 
 #### Amendments
 

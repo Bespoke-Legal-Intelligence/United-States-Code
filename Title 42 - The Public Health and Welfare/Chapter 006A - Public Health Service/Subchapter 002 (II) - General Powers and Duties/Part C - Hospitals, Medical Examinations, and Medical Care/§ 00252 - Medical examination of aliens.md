@@ -1,6 +1,6 @@
 ### §252. Medical examination of aliens
 
-The Surgeon General shall provide for making, at places within the United States or in other countries, such physical and mental examinations of aliens as are required by the immigration laws, subject to administrative regulations prescribed by the Attorney General and medical regulations prescribed by the Surgeon General with the approval of the Secretary.
+The Surgeon General shall provide for making, at places within the United States or in othercountries, such physical and mental examinations of aliens as are required by the immigration laws, subject to administrative regulations prescribed by the Attorney General and medical regulations prescribed by the Surgeon General with the approval of the Secretary.
 
 (July 1, 1944, ch. 373, title III, §325, 58 Stat. 697; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631.)
 
@@ -18,7 +18,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855,80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

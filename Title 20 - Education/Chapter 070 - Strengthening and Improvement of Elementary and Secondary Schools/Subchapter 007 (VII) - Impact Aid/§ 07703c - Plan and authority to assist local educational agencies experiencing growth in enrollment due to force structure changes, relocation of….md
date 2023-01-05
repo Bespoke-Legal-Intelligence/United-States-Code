@@ -62,7 +62,7 @@ In this section:
 
 &emsp;&emsp;(B) elementary and secondary school students who are dependents of civilian employees of the Department of Defense; and
 
-&emsp;&emsp;(C) elementary and secondary school students who are dependents of personnel whoare not members of the Armed Forces or civilian employees of the Department of Defense but who are employed on Federal property.
+&emsp;&emsp;(C) elementary and secondary school students who are dependents of personnel who are not members of the Armed Forces or civilian employees of the Department of Defense but who are employed on Federal property.
 
 (Pub. L. 109–364, div. A, title V, §574, Oct. 17, 2006, 120 Stat. 2226, as amended by Pub. L. 110–181, div. A, title V, §573, Jan. 28, 2008, 122 Stat. 120; Pub. L. 110–417, \[div. A\], title V, §553, Oct. 14, 2008, 122 Stat. 4469; Pub. L. 112–81, div. A, title V, §573, Dec. 31, 2011, 125 Stat. 1427; Pub. L. 114–92, div. A, title X, §1072(h), Nov. 25, 2015, 129 Stat. 995; Pub. L. 114–328, div. A, title V, §572(a), Dec. 23, 2016, 130 Stat. 2141; Pub. L. 115–91, div. A, title V, §552(a), Dec. 12, 2017, 131 Stat. 1401.)
 

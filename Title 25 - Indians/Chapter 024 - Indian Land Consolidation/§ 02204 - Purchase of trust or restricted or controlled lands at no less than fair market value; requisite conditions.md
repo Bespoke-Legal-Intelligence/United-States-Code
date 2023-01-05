@@ -52,7 +52,7 @@ Subsection (a) applies on the condition that—
 
 #### (B) Costs of serving notice and publication
 
-&emsp;&emsp;The costs of serving and publishing notice under subparagraph (F) shall be borne by the applicant. Upon receiving written notice from the Secretary, the applicant must pay to the Secretary an amount determined by the Secretary to be the estimated costs of such service of notice and publication, or furnish a sufficient bond for such estimated costs within the time stated in the notice, failing which, unless an extension is granted by the Secretary, the Secretary shall not be required to commence the partition process under subparagraph (A) and may deny the application. The Secretary shall have the discretion and authority in any case to waive either the payment or the bond (or any portion of such payment or bond) otherwise required by this subparagraph, upon making a determination that such waiver will further the policies of this chapter.
+&emsp;&emsp;The costs of serving and publishing notice under subparagraph (F) shall be borne by the applicant. Upon receiving written notice from the Secretary, the applicant must pay to the Secretary an amount determined by the Secretary to be the estimated costs of such service of notice and publication, orfurnish a sufficient bond for such estimated costs within the time stated in the notice, failing which, unless an extension is granted by the Secretary, the Secretary shall not be required to commence the partition process under subparagraph (A) and may deny the application. The Secretary shall have the discretion and authority in any case to waive either the payment or the bond (or any portion of such payment or bond) otherwise required by this subparagraph, upon making a determination that such waiver will further the policies of this chapter.
 
 #### (C) Determination
 
@@ -182,7 +182,7 @@ Subsection (a) applies on the condition that—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii) and the consent requirements of paragraph (2)(D), the Secretary shall, after providing notice to owners under subparagraph (H), including the time and place of sale or for receiving sealed bids, at public auction or by sealed bid (whichever of such methods of sale the Secretary determines to be more appropriate under the circumstances) sell the parcel of land by competitive bid for not less than the final appraised fair market value to the highest bidder from among the following eligible bidders:
+&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii) and the consent requirements of paragraph (2)(D), the Secretary shall, after providing noticeto owners under subparagraph (H), including the time and place of sale or for receiving sealed bids, at public auction or by sealed bid (whichever of such methods of sale the Secretary determines to be more appropriate under the circumstances) sell the parcel of land by competitive bid for not less than the final appraised fair market value to the highest bidder from among the following eligible bidders:
 
 &emsp;&emsp;&emsp;&emsp;(I) The Indian tribe, if any, with jurisdiction over the trust or restricted interests in the parcel being sold.
 
@@ -294,7 +294,7 @@ This chapter, referred to in subsec. (c)(2)(B), (E), (G)(i), was in the original
 
 <b>2008</b>—Subsec. (c)(2)(D)(i). Pub. L. 110–453 substituted "by the Secretary" for "by Secretary" in concluding provisions.
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interestsin any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met."
+<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met."
 
 Subsec. (c). Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
 
@@ -322,7 +322,7 @@ Pub. L. 106–462, §103(2)(A)(i), (ii), substituted subsec. (a) designation and
 
 Subsec. (b)(2). Pub. L. 106–462, §103(2)(B)(ii), inserted "and" at end.
 
-Pub. L. 106–462, §103(2)(B)(i), which directed substitution of "if" for "If,", was executed by making the substitution for "if," to reflect the probable intent of Congress.
+Pub. L. 106–462, §103(2)(B)(i), which directed substitution of "if" for "If,", was executed by making thesubstitution for "if," to reflect the probable intent of Congress.
 
 Subsec. (b)(3). Pub. L. 106–462, §103(2)(C), added par. (3) and struck out former par. (3) which read as follows: "all purchases and sales initiated under this section shall be subject to approval by the Secretary."
 

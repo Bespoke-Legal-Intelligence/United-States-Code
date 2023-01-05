@@ -13,7 +13,12 @@
 | [4\.](%C2%A7%2000004%20-%20Vehicle%20as%20including%20all%20means%20of%20land%20transportation.md) | "Vehicle" as including all means of land transportation. |
 | [5\.](%C2%A7%2000005%20-%20Company%20or%20association%20as%20including%20successors%20and%20assigns.md) | "Company" or "association" as including successors and assigns. |
 | [6\.](%C2%A7%2000006%20-%20Limitation%20of%20term%20products%20of%20American%20fisheries.md) | Limitation of term "products of American fisheries." |
-| [7\.](%C2%A7%2000007%20-%20Definition%20of%20marriage%20and%20spouse.md) | Definition of "marriage" and "spouse". |
+| [7\.](%C2%A7%2000007%20-%20Marriage.md) | Definition of "marriage" and "spouse".<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [8\.](%C2%A7%2000008%20-%20Person%2C%20human%20being%2C%20child%2C%20and%20individual%20as%20including%20born-alive%20infant.md) | "Person", "human being", "child", and "individual" as including born-alive infant. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,6 +33,8 @@
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
+<i><sup>2</sup></i><i> Section catchline amended by Pub. L. 117–228 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -39,5 +46,5 @@
 - [&sect; 00004 - Vehicle as including all means of land transportation](%C2%A7%2000004%20-%20Vehicle%20as%20including%20all%20means%20of%20land%20transportation.md)
 - [&sect; 00005 - Company or association as including successors and assigns](%C2%A7%2000005%20-%20Company%20or%20association%20as%20including%20successors%20and%20assigns.md)
 - [&sect; 00006 - Limitation of term products of American fisheries](%C2%A7%2000006%20-%20Limitation%20of%20term%20products%20of%20American%20fisheries.md)
-- [&sect; 00007 - Definition of marriage and spouse](%C2%A7%2000007%20-%20Definition%20of%20marriage%20and%20spouse.md)
+- [&sect; 00007 - Marriage](%C2%A7%2000007%20-%20Marriage.md)
 - [&sect; 00008 - Person, human being, child, and individual as including born-alive infant](%C2%A7%2000008%20-%20Person%2C%20human%20being%2C%20child%2C%20and%20individual%20as%20including%20born-alive%20infant.md)

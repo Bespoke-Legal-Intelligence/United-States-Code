@@ -12,9 +12,15 @@ The Secretary may assess the water resources needs of river basins and watershed
 
 &emsp;(4) watershed protection;
 
-&emsp;(5) water supply; and
+&emsp;(5) water supply;
 
-&emsp;(6) drought preparedness.
+&emsp;(6) drought preparedness;
+
+&emsp;(7) sea level rise;
+
+&emsp;(8) coastal storm damage reduction; and
+
+&emsp;(9) streambank and shoreline protection.
 
 #### (b) Cooperation
 
@@ -54,9 +60,15 @@ In selecting river basins and watersheds for assessment under this section, the 
 
 &emsp;(8) Niagara River Basin, New York;
 
-&emsp;(9) Genesee River Basin, New York; and
+&emsp;(9) Genesee River Basin, New York;
 
-&emsp;(10) White River Basin, Arkansas and Missouri.
+&emsp;(10) White River Basin, Arkansas and Missouri;
+
+&emsp;(11) New York-New Jersey Watershed Basin, which encompasses all the watersheds that flow into the New York-New Jersey Harbor and their associated estuaries, including the Hudson, Mohawk, Raritan, Passaic, Hackensack, and Bronx River Watersheds and the Hudson River Estuary;
+
+&emsp;(12) Mississippi River Watershed; and
+
+&emsp;(13) Chattahoochee River Basin, Alabama, Florida, and Georgia.
 
 #### (e) Acceptance of contributions
 
@@ -78,11 +90,15 @@ In carrying out an assessment under subsection (a), the Secretary may accept con
 
 &emsp;&emsp;The credit under subparagraph (A) may not exceed an amount equal to 25 percent of the costs of the assessment.
 
-(Pub. L. 99–662, title VII, §729, Nov. 17, 1986, 100 Stat. 4164; Pub. L. 106–541, title II, §202, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2010, Nov. 8, 2007, 121 Stat. 1074.)
+(Pub. L. 99–662, title VII, §729, Nov. 17, 1986, 100 Stat. 4164; Pub. L. 106–541, title II, §202, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2010, Nov. 8, 2007, 121 Stat. 1074; Pub. L. 117–263, div. H, title LXXXI, §8302, Dec. 23, 2022, 136 Stat. 3776.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(7) to (9). Pub. L. 117–263, §8302(1), added pars. (7) to (9).
+
+Subsec. (d)(11) to (13). Pub. L. 117–263, §8302(2), added pars. (11) to (13).
 
 <b>2007</b>—Subsec. (d)(6) to (10). Pub. L. 110–114, §2010(1), added pars. (6) to (10).
 

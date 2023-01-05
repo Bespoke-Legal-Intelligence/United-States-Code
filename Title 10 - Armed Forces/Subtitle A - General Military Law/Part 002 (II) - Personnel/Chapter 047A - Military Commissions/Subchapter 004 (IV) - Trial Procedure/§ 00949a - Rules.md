@@ -52,7 +52,7 @@ Exceptions.—(1) In trials by military commission under this chapter, the Secre
 
 &emsp;&emsp;&emsp;(III) direct testimony from the witness is not available as a practical matter, taking into consideration the physical location of the witness, the unique circumstances of military and intelligence operations during hostilities, and the adverse impacts on military or intelligence operations that would likely result from the production of the witness; and
 
-&emsp;&emsp;&emsp;(IV) the general purposes of the rules of evidence and the interests of justice will best be served by admission of the statement into evidence.
+&emsp;&emsp;&emsp;(IV) the general purposes of the rules of evidence and the interests of justice willbest be served by admission of the statement into evidence.
 
 (4)(A) The accused in a military commission under this chapter who exercises the right to self-representation under paragraph (2)(D) shall conform the accused's deportment and the conduct of the defense to the rules of evidence, procedure, and decorum applicable to trials by military commission.
 
@@ -64,7 +64,7 @@ Delegation of Authority To Prescribe Regulations.—The Secretary of Defense may
 
 (d)
 
-Notice to Congress of Modification of Rules.—Not later than 60 days before the date on which any proposed modification of the rulesin effect for military commissions under this chapter goes into effect, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the proposed modification.
+Notice to Congress of Modification of Rules.—Not later than 60 days before the date on which any proposed modification of the rules in effect for military commissions under this chapter goes into effect, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the proposed modification.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2581; amended Pub. L. 112–81, div. A, title X, §1034(a), Dec. 31, 2011, 125 Stat. 1572.)
 

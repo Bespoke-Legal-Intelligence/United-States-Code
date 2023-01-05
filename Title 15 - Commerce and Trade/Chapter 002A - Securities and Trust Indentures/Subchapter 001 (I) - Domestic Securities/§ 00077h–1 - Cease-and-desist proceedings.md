@@ -44,7 +44,7 @@ The notice instituting proceedings pursuant to subsection (a) shall fix a hearin
 
 #### (e) Authority to enter order requiring accounting and disgorgement
 
-In any cease-and-desist proceeding under subsection (a), the Commission may enter an orderrequiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
+In any cease-and-desist proceeding under subsection (a), the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
 #### (f) Authority of the Commission to prohibit persons from serving as officers or directors
 

@@ -52,7 +52,7 @@ Pub. L. 105–303, title I, §107(a), (b), (d), (e), Oct. 28, 1998, 112 Stat. 28
 
 <b>2021</b>—Subsec. (b). Pub. L. 117–81 substituted "including applicable provisions of chapters 201 through 285, 341 through 343, and 363" for "including chapters 137 and 140".
 
-<b>2018</b>—Subsec. (b). Pub. L. 115–232, in heading, substituted "Commercial Product or Commercial Service"for "Commercial Item" and, in text, substituted "commercial product or commercial service" for "commercial item".
+<b>2018</b>—Subsec. (b). Pub. L. 115–232, in heading, substituted "Commercial Product or Commercial Service" for "Commercial Item" and, in text, substituted "commercial product or commercial service" for "commercial item".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

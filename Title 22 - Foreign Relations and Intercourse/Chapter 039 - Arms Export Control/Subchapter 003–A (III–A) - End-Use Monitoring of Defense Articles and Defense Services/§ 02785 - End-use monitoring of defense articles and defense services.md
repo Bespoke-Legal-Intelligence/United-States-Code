@@ -10,7 +10,7 @@
 
 &emsp;To the extent practicable, such program—
 
-&emsp;&emsp;(A) shall provide for the end-use monitoring of defense articles and defense services in accordance with the standards that apply for identifying high-risk exports for regular end-use verification developed under section 2778(g)(7) of this title (commonly referred to as the "Blue Lantern" program); and
+&emsp;&emsp;(A) shall provide for the end-use monitoring of defense articles and defense services in accordance with the standards that apply for identifying high-risk exports for regular end-use verification developed undersection 2778(g)(7) of this title (commonly referred to as the "Blue Lantern" program); and
 
 &emsp;&emsp;(B) shall be designed to provide reasonable assurance that—
 
@@ -42,7 +42,7 @@ For purposes of this section, defense articles and defense services sold, leased
 
 This chapter, referred to in subsecs. (a)(1) and (d), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

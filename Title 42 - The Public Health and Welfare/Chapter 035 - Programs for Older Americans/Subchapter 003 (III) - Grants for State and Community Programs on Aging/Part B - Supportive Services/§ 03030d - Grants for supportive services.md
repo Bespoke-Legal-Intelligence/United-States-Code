@@ -6,7 +6,7 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(1) health (including mental and behavioral health), education and training, welfare, informational, recreational, homemaker, counseling, referral, chronic condition self-care management, or falls prevention services;
 
-&emsp;(2) transportation services to facilitate access to supportive services or nutrition services, and services provided by an area agency on aging, in conjunction with local transportation service providers, public transportationagencies, and other local government agencies, that result in increased provision of such transportation services for older individuals;
+&emsp;(2) transportation services to facilitate access to supportive services or nutrition services, and services provided by an area agency on aging, in conjunction with local transportation service providers, public transportation agencies, and other local government agencies, that result in increased provision of such transportation services for older individuals;
 
 &emsp;(3) services designed to encourage and assist older individuals to use the facilities and services (including information and assistance services) available to them, including language translation services to assist older individuals with limited-English speaking ability to obtain services under this subchapter;
 
@@ -76,7 +76,7 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 #### (b) Existing facilities
 
-(1) The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for the acquisition, alteration, or renovation of existing facilities, including mobile units, and, where appropriate, construction or modernization of facilities to serve as multipurpose senior centers.
+(1) The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for the acquisition, alteration, or renovation of existing facilities, including mobileunits, and, where appropriate, construction or modernization of facilities to serve as multipurpose senior centers.
 
 (2) Funds made available to a State under this part may be used for the purpose of assisting in the operation of multipurpose senior centers and meeting all or part of the costs of compensating professional and technical personnel required for the operation of multipurpose senior centers.
 
@@ -148,7 +148,7 @@ Subsec. (a)(23) to (25). Pub. L. 109–365, §311(5)–(7), added pars. (23) and
 
 Subsec. (a)(4). Pub. L. 106–501, §311(1)(B), substituted "or (D) to assist older individuals in obtaining housing for which assistance is provided under programs of the Department of Housing and Urban Development;" for "or (D) to receive applications from older individuals for housing under section 1701q of title 12;".
 
-Subsec. (a)(5). Pub. L. 106–501, §311(1)(C), substituted "including—" and subpars. (A) to (C) for "including client assessment through case management and integration and coordination of community services such as preinstitution evaluation and screening and home health services, homemaker services, shopping services, escort services, reader services, and letter writing services, through resource development and management to assist such individuals to live independently in a home environment;".
+Subsec. (a)(5). Pub. L. 106–501, §311(1)(C), substituted "including—" and subpars. (A) to (C) for "including client assessment through case management and integration and coordination of community services such as preinstitution evaluation and screening and home health services, homemaker services, shopping services, escort services, reader services, and letter writingservices, through resource development and management to assist such individuals to live independently in a home environment;".
 
 Subsec. (a)(12). Pub. L. 106–501, §311(1)(D), inserted before semicolon at end ", and including the coordination of the services with programs administered by or receiving assistance from the Department of Labor, including programs carried out under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
 

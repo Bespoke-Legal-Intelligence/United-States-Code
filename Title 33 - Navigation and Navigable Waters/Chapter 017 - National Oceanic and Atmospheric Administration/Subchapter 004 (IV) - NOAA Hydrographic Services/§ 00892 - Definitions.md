@@ -30,7 +30,7 @@ In this subchapter:
 
 &emsp;The term "hydrographic services" means—
 
-&emsp;&emsp;(A) the management, maintenance, interpretation, certification, and dissemination of bathymetric, hydrographic, shoreline, geodetic, geospatial, geomagnetic, and tide, water level, and current information, including the production of nautical charts, nautical information databases, and other products derived from hydrographic data;
+&emsp;&emsp;(A) the management, maintenance, interpretation, certification, and dissemination of bathymetric, hydrographic, shoreline, geodetic, geospatial, geomagnetic, and tide, water level, and current information, including the production of nautical charts, nautical information databases, hydrodynamic forecast and datum transformation models, and other products derived from hydrographic data;
 
 &emsp;&emsp;(B) the development of nautical information systems; and
 
@@ -40,7 +40,7 @@ In this subchapter:
 
 &emsp;The term "Coast and Geodetic Survey Act" means the Act entitled "An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes", approved August 6, 1947 (33 U.S.C. 883a et seq.).
 
-(Pub. L. 105–384, title III, §302, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §102, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, §2, Oct. 10, 2008, 122 Stat. 4106.)
+(Pub. L. 105–384, title III, §302, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §102, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, §2, Oct. 10, 2008, 122 Stat. 4106; Pub. L. 117–263, div. J, title CIII, §10308(a), Dec. 23, 2022, 136 Stat. 3980.)
 
 #### <b>Editorial Notes</b>
 
@@ -48,9 +48,11 @@ In this subchapter:
 
 This subchapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to this subchapter. For complete classification of this title to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
 
-Act of August 6, 1947, referred to in par. (5), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, as amended, which is classified generally to subchapter II of this chapter. For complete classification of this Act to the Code, see Tables.
+Act of August 6, 1947, referred to in par. (5), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, which is classified generally to subchapter II of this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2022</b>—Par. (4)(A). Pub. L. 117–263 inserted "hydrodynamic forecast and datum transformation models," after "nautical information databases,".
 
 <b>2008</b>—Pars. (3) to (5). Pub. L. 110–386, which directed the amendment of section "303 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892)" by adding pars. (3) to (5) and striking out former pars. (3) to (5), was executed to this section, which is section 302 of the Hydrographic Services Improvement Act of 1998, to reflect the probable intent of Congress. Prior to amendment, pars. (3) to (5) defined the terms "hydrographic data", "hydrographic services", and "Act of 1947", respectively.
 

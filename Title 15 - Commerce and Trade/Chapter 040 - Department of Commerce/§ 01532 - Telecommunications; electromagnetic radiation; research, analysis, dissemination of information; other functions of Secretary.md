@@ -12,7 +12,7 @@ The Secretary of Commerce is authorized to—
 
 &emsp;(5) investigate nonionizing electromagnetic radiation and its uses, as well as methods and procedures for measuring and assessing electromagnetic environments, for the purpose of developing and coordinating policies and procedures affecting Federal Government use of the electromagnetic spectrum for telecommunications purposes;
 
-&emsp;(6) compile, evaluate, publish, and otherwise disseminate general scientific and technicaldata resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere; and
+&emsp;(6) compile, evaluate, publish, and otherwise disseminate general scientific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere; and
 
 &emsp;(7) undertake such other activities similar to those specified in this subsection as the Secretary of Commerce determines appropriate.
 

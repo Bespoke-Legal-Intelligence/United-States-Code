@@ -56,11 +56,11 @@ Subsec. (c). Pub. L. 93–380, §506(a)(1)(E), added subsec. (c).
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–561 effective Oct. 1, 1978, but the provisions of subsec. (b)(2) of this section not to take effect with respect to the use of funds underformer section 3101 of this title until Oct. 1, 1980, except at the option of local educational agencies, see section 1530 of Pub. L. 95–561, as amended, set out as a note under section 1221e–3 of this title.
+Amendment by Pub. L. 95–561 effective Oct. 1, 1978, but the provisions of subsec. (b)(2) of this section not to take effect with respect to the use of funds under former section 3101 of this title until Oct. 1, 1980, except at the option of local educational agencies, see section 1530 of Pub. L. 95–561, as amended, set out as a note under section 1221e–3 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–380, title V, §506(b), Aug. 21, 1974, 88 Stat. 565, provided that: "The amendments made by subsection (a) of this section \[enacting sections 1226a to 1226d of this title, amending this section and section 1227 of this title, and repealing sections 1222 and 1224 of this title\] shall become effective on the date of enactment of this Act \[Aug. 21, 1974\]."
+Pub. L. 93–380, title V, §506(b), Aug. 21, 1974, 88 Stat. 565, provided that: "The amendments made by subsection (a) of this section \[enacting sections 1226a to1226d of this title, amending this section and section 1227 of this title, and repealing sections 1222 and 1224 of this title\] shall become effective on the date of enactment of this Act \[Aug. 21, 1974\]."
 
 #### Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions
 

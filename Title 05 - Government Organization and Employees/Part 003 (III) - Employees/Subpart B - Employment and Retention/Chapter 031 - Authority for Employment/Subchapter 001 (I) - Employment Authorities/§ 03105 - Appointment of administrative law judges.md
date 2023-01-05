@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §11 (1st sentence), 60 Stat. 244.
 
-The words "Subject to the civil service" are omitted as unnecessary inasmuch as appointments are madesubject to the civil service laws unless specifically excepted. The words "and other laws not inconsistent with this chapter" are omitted as unnecessary because of the organization of this title.
+The words "Subject to the civil service" are omitted as unnecessary inasmuch as appointments are made subject to the civil service laws unless specifically excepted. The words "and other laws not inconsistent with this chapter" are omitted as unnecessary because of the organization of this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -62,5 +62,5 @@ Functions vested by section 551 et seq. of this title in hearing examiners emplo
 
 #### Hearing Examiners Employed by Department of the Treasury
 
-Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Treasury not included in functions of officers, agencies, and employees of Department transferred to Secretary of the Treasury by 1950 Reorg. Plan No. 26, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to this title.
+Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Treasury not included in functions of officers, agencies, and employees of Department transferred to Secretaryof the Treasury by 1950 Reorg. Plan No. 26, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to this title.
 

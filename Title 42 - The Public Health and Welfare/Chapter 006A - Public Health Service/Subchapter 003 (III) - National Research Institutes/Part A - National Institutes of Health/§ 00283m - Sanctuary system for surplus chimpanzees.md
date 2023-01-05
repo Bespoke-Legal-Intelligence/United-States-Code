@@ -20,7 +20,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (2) Chimpanzees accepted into system
 
-&emsp;With respect to chimpanzees that are accepted into the sanctuary system, standardsunder paragraph (1) shall include the following:
+&emsp;With respect to chimpanzees that are accepted into the sanctuary system, standards under paragraph (1) shall include the following:
 
 &emsp;&emsp;(A) A prohibition that the chimpanzees may not be used for research, except as authorized under paragraph (3).
 
@@ -148,7 +148,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (5) Establishment of contract entity
 
-&emsp;If the Secretary determines that an entity meeting the requirements of paragraph (2)does not exist, not later than 60 days after December 20, 2000, the Secretary shall, for purposes of paragraph (1), make a grant for the establishment of such an entity, including paying the cost of incorporating the entity under the law of one of the States.
+&emsp;If the Secretary determines that an entity meeting the requirements of paragraph (2) does not exist, not later than 60 days after December 20, 2000, the Secretary shall, for purposes of paragraph (1), make a grant for the establishment of such an entity, including paying the cost of incorporating the entity under the law of one of the States.
 
 #### (f) Definitions
 
@@ -206,7 +206,7 @@ For purposes of this section:
 
 #### References in Text
 
-The Animal Welfare Act, referred to in subsecs. (d)(2)(D), (3)(B) and (e)(3)(A)(ix), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
+The Animal Welfare Act, referred to in subsecs. (d)(2)(D), (3)(B) and (e)(3)(A)(ix), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
 
 Section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act, referred to in subsec. (d)(4)(A), is section 3 of Pub. L. 106–551, which is set out as a note below.
 
@@ -222,7 +222,7 @@ November 27, 2013, referred to in subsec. (g)(3), was in the original "the date 
 
 Subsec. (g)(2). Pub. L. 113–55, §302(a)(4), substituted "With respect to amounts authorized to be appropriated by paragraph (1)" for "With respect to amounts reserved under paragraph (1)" and "Secretary in consultation with the board of directors" for "board of directors".
 
-Pub. L. 113–55, §302(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment,text of par. (2) read as follows: "Funds may not be reserved for a fiscal year under paragraph (1) unless the amount appropriated under this chapter for such year equals or exceeds the amount appropriated under this chapter for fiscal year 1999."
+Pub. L. 113–55, §302(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Funds may not be reserved for a fiscal year under paragraph (1) unless the amount appropriated under this chapter for such year equals or exceeds the amount appropriated under this chapter for fiscal year 1999."
 
 Subsec. (g)(3). Pub. L. 113–55, §302(c), added par. (3). Former par. (3) redesignated (2).
 

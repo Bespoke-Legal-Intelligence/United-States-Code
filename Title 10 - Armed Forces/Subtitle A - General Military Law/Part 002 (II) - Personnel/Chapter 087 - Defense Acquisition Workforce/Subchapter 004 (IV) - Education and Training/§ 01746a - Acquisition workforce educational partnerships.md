@@ -4,7 +4,7 @@
 
 Establishment.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish a program within Defense Acquisition University to—
 
-&emsp;(1) facilitate the engagement of relevant experts, including with the acquisition research activities established under section 4142 of this title, with the faculty of the Defense Acquisition University to assess and modify the curriculum of the Defense Acquisition University, as appropriate, to enhance the capabilities ofthe Defense Acquisition University to support educational, training, and research activities in support of acquisition missions of the Department of Defense;
+&emsp;(1) facilitate the engagement of relevant experts, including with the acquisition research activities established under section 4142 of this title, with the faculty of the Defense Acquisition University to assess and modify the curriculum of the Defense Acquisition University, as appropriate, to enhance the capabilities of the Defense Acquisition University to support educational, training, and research activities in support of acquisition missions of the Department of Defense;
 
 &emsp;(2) establish a cross-discipline, peer mentoring program for academic advising and to address critical retention concerns with respect to the acquisition workforce;
 

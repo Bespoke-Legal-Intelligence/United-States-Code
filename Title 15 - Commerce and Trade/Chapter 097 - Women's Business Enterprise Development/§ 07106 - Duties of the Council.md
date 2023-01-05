@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Council shall advise and consult with the Interagency Committee on matters relating to the activities, functions, and policies of the Interagency Committee, as provided in this chapter. The Council shall meet jointly with theInteragency Committee at the discretion of the chairperson of the Council and the chairperson of the Interagency Committee, but not less than biannually.
+The Council shall advise and consult with the Interagency Committee on matters relating to the activities, functions, and policies of the Interagency Committee, as provided in this chapter. The Council shall meet jointly with the Interagency Committee at the discretion of the chairperson of the Council and the chairperson of the Interagency Committee, but not less than biannually.
 
 #### (b) Meetings
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 105–135, §303(2), added subsec. (e).
 
 #### Change of Name
 
-Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship ofSenate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 #### Effective Date of 1997 Amendment
 

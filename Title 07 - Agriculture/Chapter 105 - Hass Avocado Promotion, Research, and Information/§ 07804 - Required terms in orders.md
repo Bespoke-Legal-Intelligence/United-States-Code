@@ -36,7 +36,7 @@ An order shall contain the terms and provisions specified in this section.
 
 &emsp;&emsp;&emsp;(ii) Two members who represent importers of Hass avocados and are subject to assessments under the order.
 
-&emsp;&emsp;&emsp;(iii) Three members who are domestic producers of Hass avocados and are subject to assessments under the order, or are importers of Hass avocados and are subject to assessments under the order, to reflect the proportion of domestic production and imports supplying the United States market, which shall be based on the Secretary's determination of the average volume of domestic production of Hass avocados proportionate to the average volume of imports of Hass avocados in the United States over the previous 3 years.
+&emsp;&emsp;&emsp;(iii) Three members who are domestic producers of Hass avocados and are subject to assessments under the order, or are importers of Hass avocados and are subject to assessments under the order, to reflect theproportion of domestic production and imports supplying the United States market, which shall be based on the Secretary's determination of the average volume of domestic production of Hass avocados proportionate to the average volume of imports of Hass avocados in the United States over the previous 3 years.
 
 #### (B) Adjustment in Board representation
 
@@ -188,7 +188,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (2) Other contracts and agreements
 
-&emsp;The order shall provide that the Board, with the approval of the Secretary, may enter into a contract or agreement for administrative services. Any contract or agreement entered into under this paragraph shall include provisions comparable to the provisions described in paragraph (1)(B).
+&emsp;The order shall provide that the Board, with the approval of the Secretary, may enter intoa contract or agreement for administrative services. Any contract or agreement entered into under this paragraph shall include provisions comparable to the provisions described in paragraph (1)(B).
 
 #### (f) Books and records of Board
 
@@ -204,7 +204,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (2) Audits
 
-&emsp;The Board shall cause the books and records of the Board to be audited by an independent auditor at the end of each fiscal year. A reportof each audit shall be submitted to the Secretary.
+&emsp;The Board shall cause the books and records of the Board to be audited by an independent auditor at the end of each fiscal year. A report of each audit shall be submitted to the Secretary.
 
 #### (g) Control of administrative costs
 
@@ -346,7 +346,7 @@ The order shall provide for reimbursing the Secretary—
 
 #### (2) Exceptions
 
-&emsp;Paragraph (1) does not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary. For the purposes of this subsection, a reference to State of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, a State organization of avocado producers established pursuant to State law. Furthermore, for the purposes of this section, a reference to either State of origin or country of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, any importers association established or certified in accordance with subsection (h)(9)(A).
+&emsp;Paragraph (1) does not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary. For the purposes of this subsection, a reference to State of origin does not constitute a reference to a privatebrand name with regard to any funds credited to, or disbursed by the Board to, a State organization of avocado producers established pursuant to State law. Furthermore, for the purposes of this section, a reference to either State of origin or country of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, any importers association established or certified in accordance with subsection (h)(9)(A).
 
 #### (k) Prohibition on use of funds to influence governmental action
 
@@ -432,5 +432,5 @@ The Commodity Promotion, Research, and Information Act of 1996, referred to in s
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

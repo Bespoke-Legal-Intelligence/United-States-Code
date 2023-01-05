@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) under a binding contract in effect on July 1, 1974 (or pursuant to renewals of such contract), or
 
-&emsp;&emsp;(B) if the party in interest ordinarily and customarily furnished such services on June30, 1974, if such provision of services remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if such provision of services was not, at the time of such provision, a prohibited transaction (within the meaning of section 503(b) of title 26) or the corresponding provisions of prior law; or
+&emsp;&emsp;(B) if the party in interest ordinarily and customarily furnished such services on June 30, 1974, if such provision of services remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if such provision of services was not, at the time of such provision, a prohibited transaction (within the meaning of section 503(b) of title 26) or the corresponding provisions of prior law; or
 
 &emsp;(5) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a party in interest, if such plan is required to dispose of such property in order to comply with the provisions of section 1107(a) of this title (relating to the prohibition against holding excess employer securities and employer real property), and if the plan receives not less than adequate consideration.
 

@@ -48,7 +48,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which a health insurance issuer elects to discontinue offering all health insurance coverage in the individual or group market, or all markets, in a State, health insurance coverage may be discontinued by the issuer only in accordance with applicable State law and if—
+&emsp;&emsp;In any case in which a health insurance issuer elects to discontinue offering allhealth insurance coverage in the individual or group market, or all markets, in a State, health insurance coverage may be discontinued by the issuer only in accordance with applicable State law and if—
 
 &emsp;&emsp;&emsp;(i) the issuer provides notice to the applicable State authority and to each plan sponsor or individual, as applicable,<sup>2</sup> (and participants and beneficiaries covered under such coverage) of such discontinuation at least 180 days prior to the date of the discontinuation of such coverage; and
 
@@ -76,7 +76,7 @@ In applying this section in the case of health insurance coverage that is made a
 
 #### References in Text
 
-Section 2711, referred to in subsec. (b)(5), is a reference to section 2711 of act July 1, 1944. Section 2711, which was classified to section 300gg–11 of this title, was renumbered section 2731 and amended and transferred by Pub. L. 111–148, title I, §§1001(3), 1563(c)(8), formerly §1562(c)(8), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 266, 911, to the end of section 2702 of act July 1, 1944, as added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, and classified to section 300gg–1 of this title. A new section 2711 of act July 1, 1944, related to no lifetime or annual limits, was added by Pub.L. 111–148, title I, §1001(5), Mar. 23, 2010, 124 Stat. 131, effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, and is classified to section 300gg–11 of this title.
+Section 2711, referred to in subsec. (b)(5), is a reference to section 2711 of act July 1, 1944. Section 2711, which was classified to section 300gg–11 of this title, was renumbered section 2731 and amended and transferred by Pub. L. 111–148, title I, §§1001(3), 1563(c)(8), formerly §1562(c)(8), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 266, 911, to the end of section 2702 of act July 1, 1944, as added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, and classified to section 300gg–1 of this title. A new section 2711 of act July 1, 1944, related to no lifetime or annual limits, was added by Pub. L. 111–148, title I, §1001(5), Mar. 23, 2010, 124 Stat. 131, effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, and is classified to section 300gg–11 of this title.
 
 #### Codification
 

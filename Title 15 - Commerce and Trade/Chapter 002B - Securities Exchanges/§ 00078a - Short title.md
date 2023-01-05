@@ -8,9 +8,13 @@ This chapter may be cited as the "Securities Exchange Act of 1934."
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "This Act" meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: "Title I—Regulation of Securities Exchanges" and "Title II—Amendments to Securities Act of 1933." This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, 78pp, and 78qq of this title. Sections 78kk, 78ll,78nn, and 78oo of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b, 77c, 77d, 77e, 77j, 77k, 77m, 77o, and 77s of this title, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "This Act" meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: "Title I—Regulation of Securities Exchanges" and "Title II—Amendments to Securities Act of 1933." This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, and 78pp to 78rr of this title. Sections 78kk, 78ll, 78nn, 78oo, and 78rr of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b, 77c, 77d, 77e, 77j, 77k, 77m, 77o, and 77s of this title, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title 2022 Amendment
+
+Pub. L. 117–263, div. E, title LVIII, §5801, Dec. 23, 2022, 136 Stat. 3421, provided that: "This title \[enacting sections 77z–4 and 78rr of this title and sections 14a, 253, 1772e, 1772f, 1831cc, 1831dd, 4527, 4528, 5334, 5335, 5498, and 5499 of Title 12, Banks and Banking, amending sections 77g, 78d, 78m, 78n, 78o–3, 78o–4, 78o–7, 80a–8, 80a–29, and 80b–4 of this title and sections 1467a, 1844, 5361, and 5468 of Title 12, enacting provisions set out as notes under sections 77g, 78o–3, 78o–4, and 78rr of this title and sections 14a, 253, 1772e, 1831cc, 4527, 5334, 5335, and 5498 of Title 12, and amending provisions set out as a note under section 5491 of Title 12\] may be cited as the 'Financial Data Transparency Act of 2022'."
 
 #### Short Title of 2018 Amendment
 
@@ -92,7 +96,7 @@ Pub. L. 101–429, title V, §501, Oct. 15, 1990, 104 Stat. 951, provided that: 
 
 Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: "This Act \[enacting sections 78t–1, 78u–1, and 80b–4a of this title, amending sections 78c, 78o, 78u, 78ff, and 78kk of this title, and enacting provisions set out as notes under sections 78b, 78o, and 78u–1 of this title\] may be cited as the 'Insider Trading and Securities Fraud Enforcement Act of 1988'."
 
-Pub. L. 100–418, title V, §5001, Aug. 23, 1988, 102 Stat. 1415, provided that: "This part \[part I (§§5001–5003) of subtitle A of title I of Pub. L. 100–418, amending sections 78m, 78dd–1, 78dd–2, and 78ff of this title and enacting provisions set out as a note under section 78dd–1 of this title\] may be cited as the 'Foreign Corrupt Practices Act Amendments of 1988'."
+Pub. L. 100–418, title V, §5001, Aug. 23, 1988, 102 Stat. 1415, provided that: "This part \[part I (§§5001–5003) ofsubtitle A of title I of Pub. L. 100–418, amending sections 78m, 78dd–1, 78dd–2, and 78ff of this title and enacting provisions set out as a note under section 78dd–1 of this title\] may be cited as the 'Foreign Corrupt Practices Act Amendments of 1988'."
 
 #### Short Title of 1987 Amendment
 

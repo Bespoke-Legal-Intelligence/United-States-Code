@@ -44,7 +44,7 @@ Not later than 5 days before the award of any grant is made under this subchapte
 
 #### (g) Guidelines
 
-The Secretary shall ensure, to the extent practicable, that grant recipients under this subchapter who use contractors or subcontractorsuse small, minority, women-owned, or disadvantaged business concerns as contractors or subcontractors when appropriate.
+The Secretary shall ensure, to the extent practicable, that grant recipients under this subchapter who use contractors or subcontractors use small, minority, women-owned, or disadvantaged business concerns as contractors or subcontractors when appropriate.
 
 (Pub. L. 110–53, title XV, §1502, Aug. 3, 2007, 121 Stat. 424.)
 

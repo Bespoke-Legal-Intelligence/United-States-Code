@@ -14,7 +14,7 @@ There are authorized to be appropriated to carry out the activities described in
 
 #### (b) State assessments
 
-There are authorized to be appropriated to carry out the activities described in part B,$378,000,000 for each of fiscal years 2017 through 2020.
+There are authorized to be appropriated to carry out the activities described in part B, $378,000,000 for each of fiscal years 2017 through 2020.
 
 #### (c) Education of migratory children
 

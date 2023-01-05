@@ -8,7 +8,7 @@
 
 #### (2) Major swap participants
 
-&emsp;It shall be unlawful for any person to act as a major swap participant unless the person is registered as a major swap participant with the Commission.
+&emsp;It shall be unlawful for any person to act as a major swap participant unless the person isregistered as a major swap participant with the Commission.
 
 #### (b) Requirements
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;&emsp;(i) capital requirements; and
 
-&emsp;&emsp;&emsp;(ii) both initial and variation margin requirements on all swaps that are notcleared by a registered derivatives clearing organization.
+&emsp;&emsp;&emsp;(ii) both initial and variation margin requirements on all swaps that are not cleared by a registered derivatives clearing organization.
 
 #### (C) Capital
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;(ii) for which there is no prudential regulator, shall keep books and records in such form and manner and for such period as may be prescribed by the Commission by rule or regulation;
 
-&emsp;&emsp;(C) shall keep books and records described in subparagraph (B) open to inspection andexamination by any representative of the Commission; and
+&emsp;&emsp;(C) shall keep books and records described in subparagraph (B) open to inspection and examination by any representative of the Commission; and
 
 &emsp;&emsp;(D) shall keep any such books and records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission.
 

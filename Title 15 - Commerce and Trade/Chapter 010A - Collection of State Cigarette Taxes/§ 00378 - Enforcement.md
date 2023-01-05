@@ -14,7 +14,7 @@ The Attorney General of the United States shall administer and enforce this chap
 
 #### (A) Standing
 
-&emsp;&emsp;A State, through its attorney general, or a local government or Indian tribe that leviesa tax subject to section 376a(a)(3) of this title, through its chief law enforcement officer, may bring an action in a United States district court to prevent and restrain violations of this chapter by any person or to obtain any other appropriate relief from any person for violations of this chapter, including civil penalties, money damages, and injunctive or other equitable relief.
+&emsp;&emsp;A State, through its attorney general, or a local government or Indian tribe that levies a tax subject to section 376a(a)(3) of this title, through its chief law enforcement officer, may bring an action in a United States district court to prevent and restrain violations of this chapter by any person or to obtain any other appropriate relief from any person for violations of this chapter, including civil penalties, money damages, and injunctive or other equitable relief.
 
 #### (B) Sovereign immunity
 
@@ -70,7 +70,7 @@ Any person who holds a permit under section 5712 of title 26 (regarding permitti
 
 #### (1) In general
 
-&emsp;The Attorney General of the United States shall make available to the public, by posting information on the Internet and by other appropriate means, information regarding all enforcement actions brought by the United States, or reported to the Attorney General of the United States, under this section, including information regarding the resolution of the enforcement actions and how the Attorney General of the United States has responded to referrals of evidence of violations pursuant to subsection (c)(2).
+&emsp;The Attorney General of the United States shall make available to the public, by posting information on the Internet and by other appropriate means, information regarding all enforcement actions brought by the UnitedStates, or reported to the Attorney General of the United States, under this section, including information regarding the resolution of the enforcement actions and how the Attorney General of the United States has responded to referrals of evidence of violations pursuant to subsection (c)(2).
 
 #### (2) Reports to Congress
 

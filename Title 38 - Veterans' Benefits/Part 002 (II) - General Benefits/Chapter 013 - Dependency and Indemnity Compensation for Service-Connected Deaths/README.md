@@ -8,6 +8,7 @@
 | [1302\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001302%20-%20Determination%20of%20pay%20grade.md) | Determination of pay grade. |
 | [1303\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001303%20-%20Cost-of-living%20adjustments.md) | Cost-of-living adjustments. |
 | [1304\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001304%20-%20Special%20provisions%20relating%20to%20surviving%20spouses.md) | Special provisions relating to surviving spouses. |
+| [1305\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001305%20-%20Reevaluation%20of%20dependency%20and%20indemnity%20compensation%20determinations%20pursuant%20to%20changes%20in%20presumptions%20of%20service%20connection.md) | Reevaluation of dependency and indemnity compensation determinations pursuant to changes in presumptions of service connection. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,6 +41,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–168, §1(b)(2), title II, §204(a), Aug. 10, 2022, 136 Stat. 1759, 1776, added item 1305.
 
 <b>1997</b>—Pub. L. 105–33, title VIII, §8031(b)(2), Aug. 5, 1997, 111 Stat. 669, added item 1303.
 

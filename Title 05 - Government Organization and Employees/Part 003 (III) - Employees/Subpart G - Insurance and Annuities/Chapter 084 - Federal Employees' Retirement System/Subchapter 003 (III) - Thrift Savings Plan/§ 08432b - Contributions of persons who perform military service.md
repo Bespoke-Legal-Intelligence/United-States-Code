@@ -50,7 +50,7 @@
 
 (e) For purposes of any computation under this section, an employee shall, with respect to the period referred to in subsection (b)(2)(B), be considered to have been paid at the rate which would have been payable over such period had such employee remained continuously employed in the position which such employee last held before separating or entering leave-without-pay status to perform military service.
 
-(f)(1) The employing agency may be required to pay lost earnings on contributions made pursuant to subsections (c) and (d). Such earnings, if required, shall be calculated retroactively to the date the contribution would have been made had the employee not separated or entered leave without pay status to perform military service.
+(f)(1) The employing agency may be required to pay lost earnings on contributions made pursuant to subsections (c) and (d). Such earnings,if required, shall be calculated retroactively to the date the contribution would have been made had the employee not separated or entered leave without pay status to perform military service.
 
 (2) Procedures for calculating and crediting the earnings payable pursuant to paragraph (1) shall be prescribed by the Executive Director.
 
@@ -116,7 +116,7 @@ Effective Date; Applicability.—This section \[enacting this section and amendi
 
 "(f)
 
-Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—Inthe case of any employee (described in subsection (e)(2)) who is reemployed or restored (in the circumstances described in section 8432b(a) of title 5, United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall apply to such employee, in accordance with their terms, subject to the following:
+Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—In the case of any employee (described in subsection (e)(2)) who is reemployed or restored (in the circumstances described in section 8432b(a) of title 5, United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall apply to such employee, in accordance with their terms, subject to the following:
 
 &emsp;"(1) The employee shall be deemed not to have been reemployed or restored until—
 

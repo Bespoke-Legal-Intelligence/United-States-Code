@@ -8,7 +8,7 @@ Beginning at the southeast corner of section 31, township 4 north, range 75 west
 
 parcel c
 
-Beginning at a point on the west line of section 32, township 4 north, range 75 west of the sixth principal meridian, 800 feet north of the southwest corner of said section 32; thence east 660.0 feet; thence north 520.0 feet; thence east 660.0 feet; thence north 1,325.94 feet; thence west to the west line of said section 32; thence south along said west line of said section 32 to the point of beginning, containing 48 acres, more or less.
+Beginning at a point on the west line of section 32, township 4 north, range 75 west of the sixth principal meridian, 800 feet north of the southwest corner of said section 32; thence east 660.0 feet; thence north 520.0 feet; thence east660.0 feet; thence north 1,325.94 feet; thence west to the west line of said section 32; thence south along said west line of said section 32 to the point of beginning, containing 48 acres, more or less.
 
 parcel d
 

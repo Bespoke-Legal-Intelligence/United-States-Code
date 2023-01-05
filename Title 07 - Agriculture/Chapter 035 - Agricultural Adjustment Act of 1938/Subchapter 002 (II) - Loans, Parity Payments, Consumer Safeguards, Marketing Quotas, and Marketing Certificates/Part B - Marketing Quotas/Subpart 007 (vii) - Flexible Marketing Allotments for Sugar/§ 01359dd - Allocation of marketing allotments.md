@@ -124,7 +124,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of a processor that constructed a molasses desugarization facility, increased by 0.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each molasses desugarization facility that is constructed by the processor; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) in the case of a processor that suffered substantial quality losses on storedsugar beets, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph).
+&emsp;&emsp;&emsp;&emsp;(IV) in the case of a processor that suffered substantial quality losses on stored sugar beets, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph).
 
 #### (E) Permanent termination of operations of a processor
 

@@ -26,7 +26,7 @@
 
 (g)(1) Prior to the promulgation of any rules and regulations, plans of development and amendments thereto, and in the entering and making of contracts and operating agreements relating to the development, production, or sale of petroleum in or from the reserves, the Secretary shall consult with and give due consideration to the views of the Attorney General of the United States with respect to matters which may affect competition.
 
-(2) No contract or operating agreement may be made, issued, or executed under this chapter until at least 15 days after the Secretary notifies the Attorney General of the proposed contract or operating agreement. Such notification shall contain such information as the Attorney General may require in order to advise the Secretary as to whether such contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws. If, within such 15-day period, the Attorney General advises the Secretary that a contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws, then the Secretary may not make, issue, or execute that contract or operating agreement.
+(2) No contract or operating agreement may be made, issued, or executed under this chapteruntil at least 15 days after the Secretary notifies the Attorney General of the proposed contract or operating agreement. Such notification shall contain such information as the Attorney General may require in order to advise the Secretary as to whether such contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws. If, within such 15-day period, the Attorney General advises the Secretary that a contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws, then the Secretary may not make, issue, or execute that contract or operating agreement.
 
 (h) Nothing in this chapter shall be deemed to confer on any person immunity from civil or criminal liability, or to create defenses to actions, under the antitrust laws.
 
@@ -94,7 +94,7 @@ The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96
 
 The Sherman Act, referred to in subsec. (i)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
-The Clayton Act, referred to in subsec. (i)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+The Clayton Act, referred to in subsec. (i)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (i)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
@@ -146,7 +146,7 @@ Subsec. (i). Pub. L. 96–513, §513(34)(D), substituted "(1) the Sherman Act (1
 
 Subsec. (j). Pub. L. 96–513, §513(34)(E), inserted "(15 U.S.C. 717 et seq.)".
 
-Subsec. (k). Pub. L. 96–294, §804(b), amended subsec. (k) generally, inserting references to the Secretary, provision authorizing the exchange of petroleum under terms and conditions determined appropriate without regard to Federal procurement statutes and regulations, and provision making 42 U.S.C. 6239 inapplicable.
+Subsec. (k). Pub. L. 96–294, §804(b), amended subsec. (k) generally, inserting references to the Secretary, provision authorizing the exchange of petroleum underterms and conditions determined appropriate without regard to Federal procurement statutes and regulations, and provision making 42 U.S.C. 6239 inapplicable.
 
 Subsec. (l). Pub. L. 96–294, §804(c), added subsec. (l).
 

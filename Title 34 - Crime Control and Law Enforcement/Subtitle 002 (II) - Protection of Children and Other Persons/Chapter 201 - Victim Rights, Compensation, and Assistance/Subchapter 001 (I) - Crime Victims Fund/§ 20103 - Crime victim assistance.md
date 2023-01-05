@@ -96,7 +96,7 @@
 
 &emsp;(E) use funds made available to the Director under this subsection—
 
-&emsp;&emsp;(i) for fellowships and clinical internships and for grants under subparagraphs (1)(A) and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process; and
+&emsp;&emsp;(i) for fellowships and clinical internships and for grants under subparagraphs (1)(A)and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process; and
 
 &emsp;&emsp;(ii) to carry out programs of training and special workshops for the presentation and dissemination of information resulting from demonstrations, surveys, and special projects.
 
@@ -204,7 +204,7 @@ Subsec. (a)(2)(B). Pub. L. 100–690, §7122(1), added subpar. (B). Former subpa
 
 Subsec. (a)(2)(C). Pub. L. 100–690, §7122(2), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (a)(2)(D). Pub. L. 100–690, §7123(b)(5), which directed substitution of "Director" for "Attorney General" in subpar. (C), was executed by making substitution in subpar. (D) to reflect the probable intent ofCongress and the intervening redesignation of subpar. (C) as (D), see below.
+Subsec. (a)(2)(D). Pub. L. 100–690, §7123(b)(5), which directed substitution of "Director" for "Attorney General" in subpar. (C), was executed by making substitution in subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D), see below.
 
 Pub. L. 100–690, §7122(2), redesignated subpar. (C) as (D).
 

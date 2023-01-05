@@ -18,7 +18,7 @@ Notwithstanding subsection (a), in the case of any alien described in such subse
 
 &emsp;(2) whose removal was subsequent to a conviction for commission of an aggravated felony, such alien shall be fined under such title, imprisoned not more than 20 years, or both;
 
-&emsp;(3) who has been excluded from the United States pursuant to section 1225(c) of this title because the alien was excludable under section 1182(a)(3)(B) of this title or who has been removed from the United States pursuant to the provisions of subchapter V, and who thereafter, without the permission of the Attorney General, enters the United States, or attemptsto do so, shall be fined under title 18 and imprisoned for a period of 10 years, which sentence shall not run concurrently with any other sentence.<sup>1</sup> or
+&emsp;(3) who has been excluded from the United States pursuant to section 1225(c) of this title because the alien was excludable under section 1182(a)(3)(B) of this title or who has been removed from the United States pursuant to the provisions of subchapter V, and who thereafter, without the permission of the Attorney General, enters the United States, or attempts to do so, shall be fined under title 18 and imprisoned for a period of 10 years, which sentence shall not run concurrently with any other sentence.<sup>1</sup> or
 
 &emsp;(4) who was removed from the United States pursuant to section 1231(a)(4)(B) of this title who thereafter, without the permission of the Attorney General, enters, attempts to enter, or is at any time found in, the United States (unless the Attorney General has expressly consented to such alien's reentry) shall be fined under title 18, imprisoned for not more than 10 years, or both.
 
@@ -86,7 +86,7 @@ Subsec. (d). Pub. L. 104–132, §441(a), added subsec. (d).
 
 Amendment by sections 305(b) and 308(d)(4)(J), (e)(1)(K), (14)(A) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Pub. L. 104–208, div. C, title III, §324(c), Sept. 30, 1996, 110 Stat. 3009–629, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to departures that occurred before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\], but only with respect to entries (and attempted entries) occurring on or after such date."
+Pub. L. 104–208, div. C, title III, §324(c), Sept. 30, 1996, 110 Stat. 3009–629, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to departures that occurred before, on, or afterthe date of the enactment of this Act \[Sept. 30, 1996\], but only with respect to entries (and attempted entries) occurring on or after such date."
 
 Pub. L. 104–132, title IV, §401(f), Apr. 24, 1996, 110 Stat. 1268, provided that: "The amendments made by this section \[enacting sections 1531 to 1537 of this title and amending this section and section 1105a of this title\] shall take effect on the date of enactment of this Act \[Apr. 24, 1996\] and shall apply to all aliens without regard to the date of entry or attempted entry into the United States."
 

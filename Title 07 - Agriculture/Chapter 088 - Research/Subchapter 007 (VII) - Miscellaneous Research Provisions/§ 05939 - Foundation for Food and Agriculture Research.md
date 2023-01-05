@@ -284,7 +284,7 @@ The purposes of the Foundation shall be—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than 5 months following the end of each fiscal year, the Foundation shall publish and post online a report for the preceding fiscal year that includes—
+&emsp;&emsp;&emsp;&emsp;Not later than 5 months following the end of each fiscal year, the Foundationshall publish and post online a report for the preceding fiscal year that includes—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a description of Foundation activities, including accomplishments and how those activities align to the challenges identified in the strategic plan under clause (iv);
 
@@ -362,7 +362,7 @@ The purposes of the Foundation shall be—
 
 &emsp;&emsp;&emsp;(i) the individual;
 
-&emsp;&emsp;&emsp;(ii) a relative (as defined in section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.)) of that individual; or
+&emsp;&emsp;&emsp;(ii) a relative (as defined in section 13101 of title 5) of that individual; or
 
 &emsp;&emsp;&emsp;(iii) a business organization or other entity in which the individual has an interest, including an organization or other entity with which the individual is negotiating employment.
 
@@ -406,19 +406,17 @@ The purposes of the Foundation shall be—
 
 &emsp;The Executive Director shall ensure that any funds received under paragraph (1) are held in separate accounts from funds received from nongovernmental entities as described in subsection (f)(2)(A)(iii).
 
-(Pub. L. 113–79, title VII, §7601, Feb. 7, 2014, 128 Stat. 904; Pub. L. 115–334, title VII, §7603, Dec. 20, 2018, 132 Stat. 4826.)
+(Pub. L. 113–79, title VII, §7601, Feb. 7, 2014, 128 Stat. 904; Pub. L. 115–334, title VII, §7603, Dec. 20, 2018, 132 Stat. 4826; Pub. L. 117–286, §4(c)(18), Dec. 27, 2022, 136 Stat. 4356.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-Section 109 of the Ethics in Government Act of 1978, referred to in subsec. (f)(4)(B)(ii), is section 109 of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(4)(B)(ii). Pub. L. 117–286 substituted "section 13101 of title 5)" for "section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.))".
 
 <b>2018</b>—Subsec. (d)(1)(B)(ii). Pub. L. 115–334, §7603(1)(A)(i), substituted "conflicts, specifically at the Department of Agriculture; and" for "conflicts;".
 

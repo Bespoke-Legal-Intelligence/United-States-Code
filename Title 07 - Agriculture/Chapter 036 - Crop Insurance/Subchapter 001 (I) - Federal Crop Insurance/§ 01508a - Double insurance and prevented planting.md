@@ -50,7 +50,7 @@ In this section:
 
 #### (A) Initial premium
 
-&emsp;&emsp;If a producer makes an election under paragraph (1)(B), the producer shall be responsible for a premium for the first crop that is commensurate with the indemnity paid under paragraph (1)(B)(ii). The Corporation shall adjust the total premium for the first crop to reflect the reduced indemnity.
+&emsp;&emsp;If a producer makes an election under paragraph (1)(B), the producer shall be responsible for a premium for the first cropthat is commensurate with the indemnity paid under paragraph (1)(B)(ii). The Corporation shall adjust the total premium for the first crop to reflect the reduced indemnity.
 
 #### (B) Effect of no loss to second crop
 

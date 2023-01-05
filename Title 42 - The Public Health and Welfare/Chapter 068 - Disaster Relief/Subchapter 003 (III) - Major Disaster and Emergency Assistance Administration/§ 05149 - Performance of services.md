@@ -8,7 +8,7 @@ In carrying out the purposes of this chapter, any Federal agency is authorized t
 
 In performing any services under this chapter, any Federal agency is authorized—
 
-&emsp;(1) to appoint and fix the compensation of such temporary personnel as may be necessary, without regard to the provisions oftitle 5 governing appointments in competitive service;
+&emsp;(1) to appoint and fix the compensation of such temporary personnel as may be necessary, without regard to the provisions of title 5 governing appointments in competitive service;
 
 &emsp;(2) to employ experts and consultants in accordance with the provisions of section 3109 of such title, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates; and
 
@@ -18,7 +18,17 @@ In performing any services under this chapter, any Federal agency is authorized�
 
 The Administrator of the Federal Emergency Management Agency is authorized to appoint temporary personnel, after serving continuously for 3 years, to positions in the Federal Emergency Management Agency in the same manner that competitive service employees with competitive status are considered for transfer, reassignment, or promotion to such positions. An individual appointed under this subsection shall become a career-conditional employee, unless the employee has already completed the service requirements for career tenure.
 
-(Pub. L. 93–288, title III, §306, formerly §309, May 22, 1974, 88 Stat. 149; renumbered §306, Pub. L. 100–707, title I, §105(d), Nov. 23, 1988, 102 Stat. 4691; amended Pub. L. 115–254, div. D, §1222, Oct. 5, 2018, 132 Stat. 3454.)
+#### (d) Personnel performing service responding to disasters and emergencies
+
+#### (1) USERRA employment and reemployment rights
+
+&emsp;The protections, rights, benefits, and obligations provided under chapter 43 of title 38 shall apply to intermittent personnel appointed pursuant to subsection (b)(1) to perform service to the Federal Emergency Management Agency under sections 401 and 501 or to train for such service.
+
+#### (2) Notice of absence from position of employment
+
+&emsp;Preclusion of giving notice of service by necessity of service under subsection (b)(1) to perform service to the Federal Emergency Management Agency under sections 401 and 501 or to train for such service shall be considered preclusion by "military necessity" for purposes of section 4312(b) of title 38 pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Administrator and shall not be subject to review in any judicial or administrative proceeding.
+
+(Pub. L. 93–288, title III, §306, formerly §309, May 22, 1974, 88 Stat. 149; renumbered §306, Pub. L. 100–707, title I, §105(d), Nov. 23, 1988, 102 Stat. 4691; amended Pub. L. 115–254, div. D, §1222, Oct. 5, 2018, 132 Stat. 3454; Pub. L. 117–178, §2, Sept. 29, 2022, 136 Stat. 2110.)
 
 #### <b>Editorial Notes</b>
 
@@ -31,6 +41,8 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 A prior section 306 of Pub. L. 93–288 was classified to section 5146 of this title prior to repeal by Pub. L. 100–707.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–178 added subsec. (d).
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–254 added subsec. (c).
 

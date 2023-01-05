@@ -18,5 +18,5 @@ Assistance under this chapter—
 
 #### Effective Date
 
-Section applicable with respect to persons whose captive status begins after Jan. 21, 1981, see section 806(d)(3) of Pub. L. 99–399, set out as a note under 2181 of this title.
+Section applicable with respect to persons whose captive status begins after Jan. 21, 1981, see section806(d)(3) of Pub. L. 99–399, set out as a note under 2181 of this title.
 

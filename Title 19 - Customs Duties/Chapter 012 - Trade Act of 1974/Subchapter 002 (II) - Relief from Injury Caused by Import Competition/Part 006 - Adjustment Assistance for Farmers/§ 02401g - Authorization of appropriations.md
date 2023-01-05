@@ -2,21 +2,23 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Department of Agriculture not to exceed $90,000,000 for each of the fiscal years 2015 through 2021, to carry out the purposes of this part, including administrative costs, and salaries and expenses of employees of the Department of Agriculture.
+There are authorized to be appropriated and there are appropriated to the Department of Agriculture not to exceed $90,000,000 for each of the fiscal years 2003 through 2007 to carry out the purposes of this part, and there are authorized to be appropriated and there are appropriated to the Department of Agriculture to carry out this part $9,000,000 for the 3-month period beginning on October 1, 2007.<sup>1</sup>
 
 #### (b) Proportionate reduction
 
 If in any year the amount appropriated under this part is insufficient to meet the requirements for adjustment assistance payable under this part, the amount of assistance payable under this part shall be reduced proportionately.
 
-(Pub. L. 93–618, title II, §298, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116Stat. 952; amended Pub. L. 110–89, §1(c), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5, div. B, title I, §1887, Feb. 17, 2009, 123 Stat. 420; Pub. L. 111–344, title I, §101(c)(12), Dec. 29, 2010, 124 Stat. 3614; Pub. L. 112–40, title II, §§201(b), (c), 223(b), Oct. 21, 2011, 125 Stat. 403, 413; Pub. L. 114–27, title IV, §§402(b), (c), 403(d)(3), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §298, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 952; amended Pub. L. 110–89, §1(c), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5, div. B, title I, §1887, Feb. 17, 2009, 123 Stat. 420; Pub. L. 111–344, title I, §101(c)(12), Dec. 29, 2010, 124 Stat. 3614; Pub. L. 112–40, title II, §§201(b), (c), 223(b), Oct. 21, 2011, 125 Stat. 403, 413; Pub. L. 114–27, title IV, §§402(b), (c), 403(d)(3), June 29, 2015, 129 Stat. 374.)
 
-#### Reversion to Provisions in Effect on January 1, 2014
+#### Termination of Assistance
 
-<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+<i>For termination of assistance under this part after June 30, 2022, see Termination Date note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Codification
+
+Section reflects the July 1, 2021, reversion to provisions in effect on Jan. 1, 2014. See Effective and Termination Dates of 2015 Revival note below.
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
@@ -26,7 +28,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 <b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
-Subsec. (a). Pub. L. 114–27, §§403(d)(3), 406, temporarily substituted "fiscal years 2015 through 2021" for "fiscal years 2012 and 2013, and $22,500,000 for the 3-month period beginning on October 1, 2013, and ending on December 31, 2013". See Codification note above and Effective and Termination Dates of 2015 Revival note below.
+Subsec. (a). Pub. L. 114–27, §§403(d)(3), 406, temporarily substituted "fiscal years 2015 through 2021" for "fiscal years 2012 and 2013, and $22,500,000 for the 3-month period beginning on October 1, 2013, and endingon December 31, 2013". See Codification note above and Effective and Termination Dates of 2015 Revival note below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -68,5 +70,11 @@ Amendment by Pub. L. 110–89 effective Oct. 1, 2007, see section 1(e) of Pub. L
 
 #### Termination Date
 
-Except as otherwise provided, assistance may not be provided under this section after June 30, 2021, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and financial assistance may not be provided under this part after June 30, 2022, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
+
+#### Application of Subsection (a)
+
+Subsection (a) of this section to be applied and administered by substituting "the 1-year period beginning on July 1, 2021" for "each of the fiscal years" and all that follows through "October 1, 2007", see section 406(a)(6) of Pub. L. 114–27, set out in an Effective and Termination Dates of 2015 Revival note preceding section 2271 of this title.
+
+<i><sup>1</sup></i><i> See Application of Subsection (a) note below.</i>
 

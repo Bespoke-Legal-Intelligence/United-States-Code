@@ -30,6 +30,12 @@ Title-wide definitions for the terms "Administration" and "Administrator" are ad
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–167, div. B, title VII, §10801, Aug. 9, 2022, 136 Stat. 1730, provided that: "This title \[amending sections 20145, 40112, 40903, 50111, and 70907 of this title and sections 18351, 18353, and 18354 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 20102, 20113, 20301, 20302, 40102, 40112, 40113, 60501, 70901 of this title, and preceding section 71101 of this title, amending provisions set out as notes under sections 20301 and 20302 of this title and preceding section 71101 of this title\] may be cited as the 'National Aeronautics and Space Administration Authorization Act of 2022'."
+
+Pub. L. 117–103, div. HH, title II, §201, Mar. 15, 2022, 136 Stat. 1112, provided that: "This title \[amending section 20145 of this title and enacting provisions set out as a note under section 20145 of this title\] may be cited as the 'NASA Enhanced-Use Leasing Extension Act of 2022'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–181, §1, Oct. 21, 2020, 134 Stat. 882, provided that: "This Act \[enacting chapter 606 of this title, repealing section 18388 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 60601 of this title\] may be cited as the 'Promoting Research and Observations of Space Weather to Improve the Forecasting of Tomorrow Act' or the 'PROSWIFT Act'."
@@ -101,6 +107,74 @@ Pub. L. 100–147, title II, §201, Oct. 30, 1987, 101 Stat. 869, provided that:
 Pub. L. 85–568, title I, §101, July 29, 1958, 72 Stat. 426, provided that: "This Act \[see Tables for classification\] may be cited as the 'National Aeronautics and Space Act of 1958'."
 
 #### Definitions
+
+Pub. L. 117–167, div. B, title VII, §10802, Aug. 9, 2022, 136 Stat. 1730, provided that:
+
+"In this title \[see Short Title of 2022 Amendment note above\]:
+
+&emsp;"(1)
+
+Administration.—The term 'Administration' means the National Aeronautics and Space Administration.
+
+&emsp;"(2)
+
+Administrator.—The term 'Administrator' means the Administrator of the National Aeronautics and Space Administration.
+
+&emsp;"(3)
+
+Appropriate committees of congress.—Except as otherwise expressly provided, the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Science, Space, and Technology of the House of Representatives.
+
+&emsp;"(4)
+
+Cislunar space.—The term 'cislunar space' means the region of space beyond low-Earth orbit out to and including the region around the surface of the Moon.
+
+&emsp;"(5)
+
+Deep space.—The term 'deep space' means the region of space beyond low-Earth orbit, including cislunar space.
+
+&emsp;"(6)
+
+Development cost.—The term 'development cost' has the meaning given the term in section 30104 of title 51, United States Code.
+
+&emsp;"(7)
+
+Government astronaut.—The term 'government astronaut' has the meaning given the term in section 50902 of title 51, United States Code.
+
+&emsp;"(8)
+
+ISS.—The term 'ISS' means the International Space Station.
+
+&emsp;"(9)
+
+Low-enriched uranium.—The term 'low-enriched uranium' means uranium having an assaygreater than the assay for natural uranium but less than 20 percent of the uranium–235 isotope.
+
+&emsp;"(10)
+
+NASA.—The term 'NASA' means the National Aeronautics and Space Administration.
+
+&emsp;"(11)
+
+Orion.—The term 'Orion' means the multipurpose crew vehicle described in section 303 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18323).
+
+&emsp;"(12)
+
+OSTP.—The term 'OSTP' means the Office of Science and Technology Policy.
+
+&emsp;"(13)
+
+Space flight participant.—The term 'space flight participant' has the meaning given the term in section 50902 of title 51, United States Code.
+
+&emsp;"(14)
+
+Space launch system.—The term 'Space Launch System' means the Space Launch System authorized under section 302 of the National Aeronautics and Space Administration \[Authorization\] Act of 2010 (42 U.S.C. 18322).
+
+&emsp;"(15)
+
+Unmanned aircraft; unmanned aircraft system.—The terms 'unmanned aircraft' and 'unmanned aircraft system' have the meanings given those terms in section 44801 of title 49, United States Code."
 
 Pub. L. 115–10, §2, Mar. 21, 2017, 131 Stat. 19, provided that: "In this Act \[see Tables for classification\]:
 

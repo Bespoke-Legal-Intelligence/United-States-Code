@@ -26,7 +26,7 @@
 
 (f) There are authorized for the Air Force 24,000 serviceable aircraft or 225,000 airframe tons of serviceable aircraft, whichever the Secretary of the Air Force considers appropriate to carry out this section. This subsection does not apply to guided missiles.
 
-(g)(1) Effective October 1, 2011, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 301 aircraft. Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.
+(g)(1) Effective October 1, 2011, the Secretary of the Air Force shall maintain a total aircraftinventory of strategic airlift aircraft of not less than 301 aircraft. Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.
 
 (2) In this subsection:
 
@@ -36,11 +36,11 @@
 
 &emsp;&emsp;(ii) that is capable of transporting outsized cargo an unrefueled range of at least 2,400 nautical miles.
 
-&emsp;(B) The term "outsized cargo" means any single item of equipment that exceeds 1,090inches in length, 117 inches in width, or 105 inches in height.
+&emsp;(B) The term "outsized cargo" means any single item of equipment that exceeds 1,090 inches in length, 117 inches in width, or 105 inches in height.
 
 \[(h) Repealed. Pub. L. 116–283, div. A, title I, §132(b), Jan. 1, 2021, 134 Stat. 3430.\]
 
-(i)(1) During the period beginning on October 1, 2017, and ending on October 1, 2026, the Secretary of the Air Force shall maintain a total aircraft inventory of fighter aircraft of not less than 1,970 aircraft, and a total primary mission aircraft inventory (combat-coded) of not less than 1,145 fighter aircraft.
+(i)(1) During the period beginning on October 1, 2017, and ending on October 1, 2026, the Secretary of the Air Force shall maintain a total aircraft inventory of fighter aircraft of not less than 1,800 aircraft, and a total primary mission aircraft inventory (combat-coded) of not less than 1,145 fighter aircraft.
 
 (2) In this subsection:
 
@@ -54,9 +54,9 @@
 
 &emsp;(B) The term "primary mission aircraft inventory" means aircraft assigned to meet the primary aircraft authorization to a unit for the performance of its wartime mission.
 
-(j)(1) Except as provided in paragraph (2), effective October 1, 2019, the Secretary of the Air Force shall maintain a total aircraft inventory of air refueling tanker aircraft of not less than 479 aircraft.
+(j)(1) Except as provided in paragraph (2), the Secretary of the Air Force shall maintain a total aircraft inventory of air refueling tanker aircraft of not less than 466 aircraft.
 
-(2) The Secretary of the Air Force may reduce the number of air refueling tanker aircraft in the total aircraft inventory of the Air Force below 479 only if—
+(2) The Secretary of the Air Force may reduce the number of air refueling tanker aircraft in the total aircraft inventory of the Air Force below 466 only if—
 
 &emsp;(A) the Secretary certifies to the congressional defense committees that such reduction is justified by the results of the mobility capability and requirements study conducted under section 144(b) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91); and
 
@@ -68,7 +68,19 @@
 
 &emsp;(B) The term "total aircraft inventory" means aircraft authorized to a flying unit for operations or training.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 493, §8062; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, §139, Oct. 28, 2009, 123 Stat. 2223; Pub. L. 112–81, div. A, title I, §131, Dec. 31, 2011, 125 Stat. 1320; Pub. L. 112–239, div. A, title I, §§141(a), 142(a), Jan. 2, 2013, 126 Stat. 1659, 1662; Pub. L. 115–91, div. A, title I, §131(a), Dec. 12, 2017, 131 Stat. 1314; renumbered §9062 and amended Pub. L. 115–232, div. A, title I, §141(a), title VIII, §§806(c), 809(a), Aug. 13, 2018, 132 Stat. 1666, 1833, 1840; Pub. L. 116–283, div. A, title I, §132(b), Jan. 1, 2021, 134 Stat. 3430; Pub. L. 117–81, div. A, title I, §131(a), Dec. 27, 2021, 135 Stat. 1573.)
+(k)(1) During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2023 and ending on September 30, 2027, the Secretary of the Air Force may not—
+
+&emsp;(A) retire an F–22 aircraft;
+
+&emsp;(B) reduce funding for unit personnel or weapon system sustainment activities for F–22 aircraft in a manner that presumes future congressional authority to divest such aircraft;
+
+&emsp;(C) keep an F–22 aircraft in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as "XJ" status); or
+
+&emsp;(D) decrease the total aircraft inventory of F–22 aircraft below 184 aircraft.
+
+(2) The prohibition under paragraph (1) shall not apply to individual F–22 aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 493, §8062; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, §139, Oct. 28, 2009, 123 Stat. 2223; Pub. L. 112–81, div. A, title I, §131, Dec. 31, 2011, 125 Stat. 1320; Pub. L. 112–239, div. A, title I, §§141(a), 142(a), Jan. 2, 2013, 126 Stat. 1659, 1662; Pub. L. 115–91, div. A, title I, §131(a), Dec. 12, 2017, 131 Stat. 1314; renumbered §9062 and amended Pub. L. 115–232, div. A, title I, §141(a), title VIII, §§806(c), 809(a), Aug. 13, 2018, 132 Stat. 1666, 1833, 1840; Pub. L. 116–283, div. A, title I, §132(b), Jan. 1, 2021, 134 Stat. 3430; Pub. L. 117–81, div. A, title I, §131(a), Dec. 27, 2021, 135 Stat. 1573; Pub. L. 117–263, div. A, title I, §§141(a), 142(a), 143(a), Dec. 23, 2022, 136 Stat. 2452, 2453.)
 
 Historical and Revision Notes
 
@@ -142,7 +154,17 @@ Section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013
 
 Section 144(b) of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (j)(2)(A), is section 144(b) of Pub. L. 115–91, div. A, title I, Dec. 12, 2017, 131 Stat. 1321, which is not classified to the Code.
 
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2023, referred to in subsec. (k)(1), is the date of enactment of Pub. L. 117–263, also known as the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, which was approved Dec. 23, 2022.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (i)(1). Pub. L. 117–263, §141(a), substituted "1,800" for "1,970".
+
+Subsec. (j)(1). Pub. L. 117–263, §142(a), struck out "effective October 1, 2019," after "paragraph (2)," and substituted "466" for "479".
+
+Subsec. (j)(2). Pub. L. 117–263, §142(a)(2), substituted "466" for "479" in introductory provisions.
+
+Subsec. (k). Pub. L. 117–263, §143(a), added subsec. (k).
 
 <b>2021</b>—Subsec. (h). Pub. L. 116–283 struck out subsec. (h) which read as follows:
 
@@ -224,7 +246,7 @@ Aircraft and Maintenance Personnel.—Until the date on which the Secretary dete
 
 #### Retirement of Air Force Fighter Aircraft
 
-Pub. L. 115–91, div. A, title I, §131(b), (c), formerly §131(b)–(d), Dec. 12, 2017, 131 Stat. 1314, 1315, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(11), Aug. 13, 2018, 132 Stat. 1841; Pub. L. 117–81, div. A, title I, §131(b), Dec. 27, 2021, 135 Stat. 1573, provided that:
+Pub. L. 115–91, div. A, title I, §131(b), (c), formerly §131(b)–(d), Dec. 12, 2017, 131 Stat. 1314, 1315, as amendedby Pub. L. 115–232, div. A, title VIII, §809(b)(11), Aug. 13, 2018, 132 Stat. 1841; Pub. L. 117–81, div. A, title I, §131(b), Dec. 27, 2021, 135 Stat. 1573, provided that:
 
 "(b)
 
@@ -340,7 +362,7 @@ Submittal of Agreements to the Department of Defense and Congress.—The Secreta
 
 &emsp;"(1) ensures that the Air Force has complied with Department of Defense regulations applicable to the transfer; and
 
-&emsp;"(2) for a transfer described in subsection (c)(1), submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an agreement entered into pursuant to subsection (a) regarding the transfer of the aircraft.
+&emsp;"(2) for a transfer described in subsection (c)(1), submits to the congressional defense committees \[Committees on Armed Services and Appropriationsof the Senate and the House of Representatives\] an agreement entered into pursuant to subsection (a) regarding the transfer of the aircraft.
 
 "(c)
 
@@ -374,7 +396,7 @@ Pub. L. 110–417, \[div. A\], title III, §324, Oct. 14, 2008, 122 Stat. 4416, 
 
 "(a)
 
-Restriction on Implementation of Consolidation.—The Secretary of the Air Force shall not implement the consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard or the consolidation of aircraft repair facilities and personnel of the Air National Guard with aircraft repair facilities and personnel of the active Air Force unless and until the Secretary of the Air Force submits thereports required by (b) and (c), the Chief of the National Guard Bureau submits the assessment required by subsection (d), and the Secretary of Defense submits the certification required by subsection (e).
+Restriction on Implementation of Consolidation.—The Secretary of the Air Force shall not implement the consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard or the consolidation of aircraft repair facilities and personnel of the Air National Guard with aircraft repair facilities and personnel of the active Air Force unless and until the Secretary of the Air Force submits the reports required by (b) and (c), the Chief of the National Guard Bureau submits the assessment required by subsection (d), and the Secretary of Defense submits the certification required by subsection (e).
 
 "(b)
 

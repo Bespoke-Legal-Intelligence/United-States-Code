@@ -82,7 +82,7 @@ For purposes of this part—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "qualified reserve fund" means any reasonably required reserve to—
 
-&emsp;&emsp;&emsp;(i) provide for full payment of expenses of the REMIC or amounts due on regular interests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments, or
+&emsp;&emsp;&emsp;(i) provide for full payment of expenses of the REMIC or amounts due on regularinterests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments, or
 
 &emsp;&emsp;&emsp;(ii) provide a source of funds for the purchase of obligations described in clause (ii) or (iii) of paragraph (3)(A).
 
@@ -116,7 +116,7 @@ If the holder of a residual interest in a REMIC is a nonresident alien individua
 
 &emsp;(1) amounts includible in the gross income of such holder under this part shall be taken into account when paid or distributed (or when the interest is disposed of), and
 
-&emsp;(2) no exemption from the taxes imposed by such sections (and no reduction in the rates ofsuch taxes) shall apply to any excess inclusion.
+&emsp;(2) no exemption from the taxes imposed by such sections (and no reduction in the rates of such taxes) shall apply to any excess inclusion.
 
 > The Secretary may by regulations provide that such amounts shall be taken into account earlier than as provided in paragraph (1) where necessary or appropriate to prevent the avoidance of tax imposed by this chapter.
 
@@ -158,7 +158,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) permitting determinations of the fair market value of property transferred to a REMIC and issue price of interests in a REMIC to be made earlier than otherwise provided,
 
-&emsp;(3) requiring reporting to holders of residual interests of such information as frequently as is necessary or appropriate to permit such holders to compute their taxable income accurately,
+&emsp;(3) requiring reporting to holders of residual interests of such information as frequently asis necessary or appropriate to permit such holders to compute their taxable income accurately,
 
 &emsp;(4) providing appropriate rules for treatment of transfers of qualified replacement mortgages to the REMIC where the transferor holds any interest in the REMIC, and
 
@@ -184,7 +184,7 @@ Pub. L. 108–357, §835(b)(5)(B), inserted before period at end of concluding p
 
 Subsec. (a)(3)(A)(iii). Pub. L. 108–357, §835(b)(8)(A), added cl. (iii).
 
-Subsec. (a)(3)(B) to (D). Pub. L. 108–357, §835(b)(6), inserted "and" at end of subpar. (B), substituted period for ", and" at end of subpar. (C), and struck out subpar. (D) which read as follows: "any regular interest in aFASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of such FASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses)."
+Subsec. (a)(3)(B) to (D). Pub. L. 108–357, §835(b)(6), inserted "and" at end of subpar. (B), substituted period for ", and" at end of subpar. (C), and struck out subpar. (D) which read as follows: "any regular interest in a FASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of such FASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses)."
 
 Subsec. (a)(7)(B). Pub. L. 108–357, §835(b)(8)(B), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: "For purposes of subparagraph (A), the term 'qualified reserve fund' means any reasonably required reserve to provide for full payment of expenses of the REMIC or amounts due on regular interests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments. The amount of any such reserve shall be promptly and appropriately reduced as payments of qualified mortgages are received."
 
@@ -214,7 +214,7 @@ Subsec. (a)(3)(A)(ii). Pub. L. 100–647, §1006(t)(5)(C)(ii), inserted before c
 
 Subsec. (a)(3)(C). Pub. L. 100–647, §1006(t)(5)(C)(iii), substituted "on the startup day in exchange for regular or residual interests in the REMIC" for "on or before the startup day".
 
-Subsec. (a)(4)(A). Pub. L. 100–647, §1006(t)(5)(D), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "which would be described in paragraph (3)(A) if it were transferred to the REMIC on or before the startup day, and".
+Subsec. (a)(4)(A). Pub. L. 100–647, §1006(t)(5)(D), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: "which would be described in paragraph (3)(A) if it were transferred to the REMIC on or before the startup day, and".
 
 Subsec. (a)(7)(B). Pub. L. 100–647, §1006(t)(7), inserted before period at end of first sentence "or lower than expected returns on cash flow investments".
 

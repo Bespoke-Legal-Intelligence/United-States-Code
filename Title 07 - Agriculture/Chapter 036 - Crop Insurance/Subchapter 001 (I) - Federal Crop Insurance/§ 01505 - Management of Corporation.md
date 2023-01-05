@@ -46,7 +46,7 @@ Vacancies in the Board so long as there shall be four members in office shall no
 
 #### (c) Compensation
 
-The Directors of the Corporation who are employed in the Department shall receive no additional compensation for their services as such Directors but may be allowed necessary traveling and subsistence expenses when engaged in business of the Corporation, outside of the District of Columbia. The Directors of the Corporation who are not employed by the Federal Government shall be paid such compensation for their services as Directors as the Secretary shall determine, but such compensation shall not exceed the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 when actually employed, and actual necessary traveling and subsistence expenses, or a per diem allowance in lieu of subsistence expenses, as authorized by section 5703 of title 5 for persons in Government service employed intermittently, when on the business of the Corporation away from their homes or regular places of business.
+The Directors of the Corporation who are employed in the Department shall receive no additional compensation for their services as such Directors but may be allowed necessary traveling and subsistence expenses when engaged in business of the Corporation, outside of the District of Columbia. The Directors of the Corporation who are not employed by the Federal Government shall be paid such compensation for their services as Directors as the Secretary shall determine, but such compensation shall not exceed the daily equivalent of the rate prescribedfor grade GS–18 under section 5332 of title 5 when actually employed, and actual necessary traveling and subsistence expenses, or a per diem allowance in lieu of subsistence expenses, as authorized by section 5703 of title 5 for persons in Government service employed intermittently, when on the business of the Corporation away from their homes or regular places of business.
 
 #### (d) Manager of Corporation
 
@@ -88,7 +88,7 @@ The manager of the Corporation shall be its chief executive officer, with such p
 
 #### (6) Relation to other authority
 
-&emsp;The contract authority provided in this subsection is in addition to any other contractingauthority that may be exercised by the Board under section 1506(l) of this title.
+&emsp;The contract authority provided in this subsection is in addition to any other contracting authority that may be exercised by the Board under section 1506(l) of this title.
 
 (Feb. 16, 1938, ch. 30, title V, §505, 52 Stat. 72; Aug. 1, 1947, ch. 440, §8, 61 Stat. 719; Aug. 25, 1949, ch. 512, §7, 63 Stat. 665; Pub. L. 96–365, title I, §102, Sept. 26, 1980, 94 Stat. 1312; Pub. L. 103–354, title I, §§102(b)(3), (4), 103, 115(a), Oct. 13, 1994, 108 Stat. 3181, 3204; Pub. L. 106–224, title I, §142(a)(1), (b), June 20, 2000, 114 Stat. 389, 390; Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
 
@@ -150,7 +150,7 @@ Pub. L. 106-224, title I, §142(a)(2), (3), June 20, 2000, 114 Stat. 390, provid
 
 "(2)
 
-Implementation.—The initial members of the Board of Directors of the Federal Crop Insurance Corporation required to be appointed under section505(a)(3) of the Federal Crop Insurance Act \[7 U.S.C. 1505(a)(3)\] (as amended by paragraph (1)) shall be appointed during the period beginning February 1, 2001, and ending April 1, 2001.
+Implementation.—The initial members of the Board of Directors of the Federal Crop Insurance Corporation required to be appointed under section 505(a)(3) of the Federal Crop Insurance Act \[7 U.S.C. 1505(a)(3)\] (as amended by paragraph (1)) shall be appointed during the period beginning February 1, 2001, and ending April 1, 2001.
 
 "(3)
 

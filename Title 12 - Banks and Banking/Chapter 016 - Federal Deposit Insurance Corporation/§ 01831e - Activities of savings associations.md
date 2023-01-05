@@ -110,7 +110,7 @@ Notwithstanding subsection (a)(1), if an activity (other than an activity descri
 
 &emsp;&emsp;&emsp;(ii) determined that the transfer represents a complete and effective divestiture of the corporate debt security that does not meet standards of credit-worthiness established by the Corporation and is in compliance with the provisions of this subsection; and
 
-&emsp;&emsp;(G) any gain on the sale of the corporate debt security that does not meet standards of credit-worthiness established by the Corporation is recognized, and included for applicable regulatory capital requirements, by the insured savings association only at such time and to the extent that the insured savings association receives payment of principal on the note in cash in excess of the fair market value of the transferred corporate debt security that does not meet standards of credit-worthiness established by the Corporation as carried on the accounts of the insured savings association immediately prior to the transfer.
+&emsp;&emsp;(G) any gain on the sale of the corporate debt security that does not meet standards of credit-worthiness established by the Corporation is recognized, and included for applicable regulatory capital requirements, by the insured savings association only at such time and to the extent that the insured savings association receives payment of principal on the note in cash in excess of the fair market value of the transferred corporatedebt security that does not meet standards of credit-worthiness established by the Corporation as carried on the accounts of the insured savings association immediately prior to the transfer.
 
 #### (3) "Qualified note" defined
 

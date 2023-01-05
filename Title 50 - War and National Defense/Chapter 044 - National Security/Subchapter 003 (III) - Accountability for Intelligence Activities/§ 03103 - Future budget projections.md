@@ -18,7 +18,7 @@
 
 #### (b) Long-term Budget Projections
 
-(1) The Director of National Intelligence, with the concurrence of the Director of the Office ofManagement and Budget, shall provide to the congressional intelligence committees a Long-term Budget Projection for each element of the intelligence community funded under the National Intelligence Program acquiring a major system that includes the budget for such element for the 5-year period that begins on the day after the end of the last fiscal year for which year-by-year proposed funding is included in a Future Year Intelligence Plan for such major system in accordance with subsection (a)(2)(A).
+(1) The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall provide to the congressional intelligence committees a Long-term Budget Projection for each element of the intelligence community funded under the National Intelligence Program acquiring a major system that includes the budget for such element for the 5-year period that begins on the day after the end of the last fiscal year for which year-by-year proposed funding is included in a Future Year Intelligence Plan for such major system in accordance with subsection (a)(2)(A).
 
 (2) A Long-term Budget Projection submitted under paragraph (1) shall include—
 
@@ -44,7 +44,7 @@
 
 #### (c) Submission to Congress
 
-The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall submit to the congressional intelligence committees each Future Year Intelligence Plan or Long-term Budget Projection required under subsection (a) or (b) for a fiscal year at the time that the President submits to Congress the budget for such fiscal year pursuant section <sup>1</sup> 1105 of title 31.
+The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall submit to the congressional intelligence committees each Future Year Intelligence Plan or Long-term Budget Projection required under subsection (a) or (b) for a fiscal year at the time that the President submits to Congress the budget for such fiscal year pursuant to section 1105 of title 31.
 
 #### (d) Major system affordability report
 
@@ -68,13 +68,17 @@ In this section:
 
 &emsp;The terms "independent cost estimate" and "major system" have the meaning given those terms in section 3097(e) of this title.
 
-(July 26, 1947, ch. 343, title V, §506G, as added Pub. L. 111–259, title III, §325(a), Oct. 7, 2010, 124 Stat. 2681.)
+(July 26, 1947, ch. 343, title V, §506G, as added Pub. L. 111–259, title III, §325(a), Oct. 7, 2010, 124 Stat. 2681; amended Pub. L. 117–263, div. F, title LXVIII, §6824(a)(5), Dec. 23, 2022, 136 Stat. 3615.)
 
 #### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was formerly classified to section 415a–9 of this title prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–263 substituted "pursuant to section" for "pursuant section".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -109,6 +113,4 @@ Pub. L. 112–10, div. A, title VIII, §8094, Apr. 15, 2011, 125 Stat. 77.
 Pub. L. 111–118, div. A, title VIII, §8104, Dec. 19, 2009, 123 Stat. 3451, repealed by Pub. L. 111–259, title III, §325(c)(2), Oct. 7, 2010, 124 Stat. 2683.
 
 Pub. L. 110–329, div. C, title VIII, §8112, Sept. 30, 2008, 122 Stat. 3645.
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "to".</i>
 

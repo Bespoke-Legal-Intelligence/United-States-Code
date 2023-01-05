@@ -4,7 +4,7 @@ The purposes of this subpart are to—
 
 &emsp;(1) significantly improve the academic and developmental outcomes of children living in the most distressed communities of the United States, including ensuring school readiness, high school graduation, and access to a community-based continuum of high-quality services; and
 
-&emsp;(2) provide support for the planning, implementation, and operation of full-service community schools that improve the coordination and integration, accessibility, and effectiveness of services for children and families, particularly for children attending high-poverty schools, including high-poverty rural schools.
+&emsp;(2) provide support for the planning, implementation, and operation of full-service community schools that improve the coordinationand integration, accessibility, and effectiveness of services for children and families, particularly for children attending high-poverty schools, including high-poverty rural schools.
 
 (Pub. L. 89–10, title IV, §4621, as added Pub. L. 114–95, title IV, §4601, Dec. 10, 2015, 129 Stat. 2023.)
 

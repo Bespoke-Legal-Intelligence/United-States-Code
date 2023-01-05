@@ -104,7 +104,7 @@ No activity under this section shall affect the date of completion of any other 
 
 #### (A) Credit for land, easements, and rights-of-way
 
-&emsp;&emsp;The Secretary shall credit the non-Federal interest for the value of any land, easement, right-of-way, dredged material disposal area, or relocation provided for carrying out a project under subsection (c)(3).
+&emsp;&emsp;The Secretary shall credit the non-Federal interest for the value of any land, easement,right-of-way, dredged material disposal area, or relocation provided for carrying out a project under subsection (c)(3).
 
 #### (B) Form
 

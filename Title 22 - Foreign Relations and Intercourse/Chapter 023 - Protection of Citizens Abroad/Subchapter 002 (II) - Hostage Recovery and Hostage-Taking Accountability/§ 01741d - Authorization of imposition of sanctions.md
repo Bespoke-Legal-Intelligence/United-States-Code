@@ -80,7 +80,7 @@ The President may terminate the application of sanctions under this section with
 
 #### (f) Reporting requirement
 
-If the President terminates sanctions pursuant to subsection (d),<sup>1</sup> the President shall report to the appropriate congressional committees a written justification for such termination within 15 days.
+If the President terminates sanctions pursuant to subsection (d),<sup>1</sup> the President shall report tothe appropriate congressional committees a written justification for such termination within 15 days.
 
 #### (g) Implementation of regulatory authority
 

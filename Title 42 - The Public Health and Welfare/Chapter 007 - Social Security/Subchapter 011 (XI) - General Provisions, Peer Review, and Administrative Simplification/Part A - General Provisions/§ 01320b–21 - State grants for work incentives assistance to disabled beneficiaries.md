@@ -22,7 +22,7 @@ In order to receive payments under this section, a protection and advocacy syste
 
 &emsp;Subject to the amount appropriated for a fiscal year for making payments under this section, a protection and advocacy system shall not be paid an amount that is less than—
 
-&emsp;&emsp;(A) in the case of a protection and advocacy system located in a State (including the District of Columbia and Puerto Rico) other than Guam, American Samoa, theUnited States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, the greater of—
+&emsp;&emsp;(A) in the case of a protection and advocacy system located in a State (including the District of Columbia and Puerto Rico) other than Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, the greater of—
 
 &emsp;&emsp;&emsp;(i) $100,000; or
 

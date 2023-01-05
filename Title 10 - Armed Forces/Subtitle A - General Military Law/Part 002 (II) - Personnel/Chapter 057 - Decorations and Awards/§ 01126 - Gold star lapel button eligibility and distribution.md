@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 116–92, §581(a)(2), substituted "each" for "the widow an
 
 Subsec. (c). Pub. L. 116–92, §581(b), substituted "and without cost." for "and payment of an amount sufficient to cover the cost of manufacture and distribution."
 
-Subsec. (d). Pub. L. 116–92, §581(a)(3), added par. (1), redesignated pars. (5) to (8) as (2) to (5), respectively,and struck out former pars. (1), (2), (3), and (4) which defined "widow", "parents", "next of kin", and "children", respectively.
+Subsec. (d). Pub. L. 116–92, §581(a)(3), added par. (1), redesignated pars. (5) to (8) as (2) to (5), respectively, and struck out former pars. (1), (2), (3), and (4) which defined "widow", "parents", "next of kin", and "children", respectively.
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–160, §1143(a), struck out "of the United States" after "armed forces" in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
 

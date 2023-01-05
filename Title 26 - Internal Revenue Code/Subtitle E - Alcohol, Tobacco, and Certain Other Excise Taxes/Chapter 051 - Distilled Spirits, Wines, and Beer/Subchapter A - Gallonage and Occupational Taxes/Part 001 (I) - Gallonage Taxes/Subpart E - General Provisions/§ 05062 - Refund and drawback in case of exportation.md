@@ -6,7 +6,7 @@ Under such regulations as the Secretary may prescribe, the amount of any interna
 
 #### (b) Drawback
 
-On the exportation of distilled spirits or wines manufactured, produced, bottled, or packaged in casks or other bulk containers in the United States on which an internal revenue tax has been paid or determined, and which are contained in any cask or other bulk container, or in bottles packed in cases or other containers, there shall be allowed, under regulations prescribed by the Secretary, a drawback equal in amount to the tax found to have been paid or determined on such distilled spirits or wines. In the case of distilled spirits, the preceding sentence shall not apply unless the claim for drawback is filed by the bottler or packager of the spirits and unless such spirits have been marked, especially for export, under regulations prescribed by the Secretary. The Secretary is authorized to prescribe regulations governing the determination and payment or crediting of drawback of internal revenue tax on spirits and wines eligible for drawback under this subsection, including the requirements of such notices, bonds, bills of lading, and other evidence indicating payment or determination of tax and exportation as shall be deemed necessary.
+On the exportation of distilled spirits or wines manufactured, produced, bottled, or packaged in casks or other bulk containers in the United States on which an internal revenue tax has been paid or determined, and which are contained in any cask or other bulk container, or in bottles packed in cases or other containers, there shall be allowed, under regulations prescribed by the Secretary, a drawback equal in amount to the tax found to have been paid or determined on such distilled spirits or wines. In the case of distilled spirits, the preceding sentence shall not apply unless the claim for drawback is filed by the bottler or packager of the spirits and unless such spirits have been marked, especially for export, under regulations prescribed by the Secretary. The Secretary is authorized to prescribe regulations governing the determination and payment or crediting ofdrawback of internal revenue tax on spirits and wines eligible for drawback under this subsection, including the requirements of such notices, bonds, bills of lading, and other evidence indicating payment or determination of tax and exportation as shall be deemed necessary.
 
 #### (c) Exportation of imported liquors
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–630 applicable only to articles exported on or after first day of first calendarmonth which begins more than 90 days after Oct. 22, 1968, see section 4 of Pub. L. 90–630, set out as a note under section 5008 of this title.
+Amendment by Pub. L. 90–630 applicable only to articles exported on or after first day of first calendar month which begins more than 90 days after Oct. 22, 1968, see section 4 of Pub. L. 90–630, set out as a note under section 5008 of this title.
 
 #### Effective Date of 1965 Amendment
 

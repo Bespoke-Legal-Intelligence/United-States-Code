@@ -1,0 +1,26 @@
+### §19191. Findings
+
+Congress makes the following findings:
+
+&emsp;(1) According to the report issued by the National Academies of Sciences, Engineering, and Medicine in 2018 entitled "Sexual Harassment of Women: Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medicine"—
+
+&emsp;&emsp;(A) sexual harassment is pervasive in institutions of higher education;
+
+&emsp;&emsp;(B) the most common type of sexual harassment is gender harassment;
+
+&emsp;&emsp;(C) 58 percent of individuals in the academic workplace experience sexual harassment, the second highest rate when compared to the military, the private sector, and Federal, State, and local government;
+
+&emsp;&emsp;(D) women who are members of racial or ethnic minority groups are more likely to experience sexual harassment and to feel unsafe at work than White women, White men, or men who are members of such groups;
+
+&emsp;&emsp;(E) the training for each individual who has a Doctor of Philosophy in the science, technology, engineering, and mathematics fields is estimated to cost approximately $500,000; and
+
+&emsp;&emsp;(F) attrition of an individual so trained results in a loss of talent and money.
+
+&emsp;(2) According to a 2017 University of Illinois study, among astronomers and planetary scientists, 18 percent of women who are members of racial or ethnic minority groups and 12 percent of White women skipped professional events because they did not feel safe attending.
+
+&emsp;(3) Reporting procedures with respect to sexual harassment are inconsistent among Federal research agencies and have varying degrees of accessibility.
+
+&emsp;(4) There is not adequate communication among Federal research agencies and between such agencies and recipients regarding reports of sexual harassment, which has resulted in harassers receiving Federal funding after moving to a different institution.
+
+(Pub. L. 117–167, div. B, title V, §10531, Aug. 9, 2022, 136 Stat. 1627.)
+

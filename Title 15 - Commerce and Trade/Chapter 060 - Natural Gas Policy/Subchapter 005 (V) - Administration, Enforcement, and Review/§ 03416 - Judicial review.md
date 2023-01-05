@@ -8,7 +8,7 @@
 
 #### (2) Rehearing
 
-&emsp;Any person aggrieved by any order issued by the Commission in a proceeding under this chapter to which such person is a party may apply for a rehearing within 30 days after the issuance of such order. Any application for rehearing shall set forth the specific ground upon which such application is based. Upon the filing of such application, the Commission may grant or deny the requested rehearing or modify the original order without further hearing. Unless the Commission acts upon such application for rehearing within 30 days after it is filed, such application shall be deemed to have been denied. No person may bring an action under this section to obtain judicial review of any order of the Commission unless—
+&emsp;Any person aggrieved by any order issued by the Commission in a proceeding under thischapter to which such person is a party may apply for a rehearing within 30 days after the issuance of such order. Any application for rehearing shall set forth the specific ground upon which such application is based. Upon the filing of such application, the Commission may grant or deny the requested rehearing or modify the original order without further hearing. Unless the Commission acts upon such application for rehearing within 30 days after it is filed, such application shall be deemed to have been denied. No person may bring an action under this section to obtain judicial review of any order of the Commission unless—
 
 &emsp;&emsp;(A) such person shall have made application to the Commission for rehearing under this subsection; and
 

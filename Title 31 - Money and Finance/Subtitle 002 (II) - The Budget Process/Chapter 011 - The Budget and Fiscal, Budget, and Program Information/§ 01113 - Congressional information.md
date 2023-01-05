@@ -136,11 +136,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 
 #### Termination of Reporting Requirements Contained in This Section
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes below.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes below.
 
 #### Oversight of Counterterrorism and Antiterrorism Activities; Report
 
-Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as amended by Pub. L. 105–261, div. A, titleXIV, §1403, Oct. 17, 1998, 112 Stat. 2168, which authorized establishment of a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities and required annual report on amounts proposed to be expended and counterterrorism and antiterrorism programs and activities being implemented, was repealed by Pub. L. 107–296, title VIII, §889(b)(1), Nov. 25, 2002, 116 Stat. 2251.
+Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as amended by Pub. L. 105–261, div. A, title XIV, §1403, Oct. 17, 1998, 112 Stat. 2168, which authorized establishment of a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities and required annual report on amounts proposed to be expended and counterterrorism and antiterrorism programs and activities being implemented, was repealed by Pub. L. 107–296, title VIII, §889(b)(1), Nov. 25, 2002, 116 Stat. 2251.
 
 #### Termination of Reporting Requirements
 
@@ -260,7 +260,7 @@ Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 110�
 
 &emsp;"(15) Section 304(d) of the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1992 (49 U.S.C. 47508 note).
 
-&emsp;"(16) Section 2367(c) of title 10, United States Code \[now 10 U.S.C. 4126(c)\].
+&emsp;"(16) Section 2367(c) of title 10, United States Code.
 
 &emsp;"(17) Section 303(c)(7) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253(c)(7)) \[see 41 U.S.C. 3304(a)(7)\].
 
@@ -270,7 +270,7 @@ Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 110�
 
 &emsp;"(20) Section 11(e)(6) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(e)(6)).
 
-&emsp;"(21) Section 2304(c)(7) of title 10, United States Code \[now 10 U.S.C. 3204(a)(7)\], but only to the extent of its application to the National Aeronautics and Space Administration.
+&emsp;"(21) Section 2304(c)(7) of title 10, United States Code, but only to the extent of its application to the National Aeronautics and Space Administration.
 
 &emsp;"(22) Section 4(j)(1) of the National Science Foundation Act of 1950 (42 U.S.C. 1863(j)(1)).
 
@@ -374,7 +374,7 @@ Pub. L. 106–554, §1(a)(4) \[div. A, §1402\], Dec. 21, 2000, 114 Stat. 2763, 
 
 &emsp;"(4) Section 1014(e) of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 685(e))."
 
-Pub. L. 106–554, §1(a)(7) \[title III, §301\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 106–554, §1(a)(7) \[title III, §301\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629, as amended by Pub. L. 117–286, §4(b)(51), Dec. 27, 2022, 136 Stat. 4349, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;"(1) Section 13031(f) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(f)).
 
@@ -540,11 +540,11 @@ Pub. L. 106–554, §1(a)(7) \[title III, §301\], Dec. 21, 2000, 114 Stat. 2763
 
 &emsp;&emsp;"(D) Section 4215 (42 U.S.C. 1396r note).
 
-&emsp;"(27) The following provisions of the Inspector General Act of 1978 \[5 U.S.C. App.\] (Public Law 95–452):
+&emsp;"(27) The following provisions of chapter 4 of title 5, United States Code:
 
-&emsp;&emsp;"(A) Section 5(b).
+&emsp;&emsp;"(A) Section 405(c).
 
-&emsp;&emsp;"(B) Section 5(d).
+&emsp;&emsp;"(B) Section 405(e).
 
 &emsp;"(28) The following provisions of the Public Health Service Act:
 
@@ -736,7 +736,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, as amend
 
 &emsp;"(34) Section 113(b) of the National Defense Authorization Act for Fiscal Year 1990 and 1991 (Public Law 101–189; 103 Stat. 1373)."
 
-Pub. L. 104–66, title III, §3003, Dec. 21, 1995, 109 Stat. 734, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §236\], Nov. 29, 1999, 113 Stat. 1536, 1501A–302; Pub. L. 110–314, title II, §203(b), Aug. 14, 2008, 122 Stat. 3040, provided that:
+Pub. L. 104–66, title III, §3003, Dec. 21, 1995, 109 Stat. 734, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §236\], Nov. 29, 1999, 113 Stat. 1536, 1501A–302; Pub. L. 110–314, title II, §203(b), Aug. 14, 2008, 122 Stat. 3040; Pub. L. 117–286, §4(b)(52), Dec. 27, 2022, 136 Stat. 4349, provided that:
 
 "(a)
 
@@ -750,7 +750,7 @@ In general.—Subject to the provisions of paragraph (2) of this subsection and 
 
 Exception.—The provisions of paragraph (1) shall not apply to any report required under—
 
-&emsp;&emsp;"(A) the Inspector General Act of 1978 (5 U.S.C. App.); or
+&emsp;&emsp;"(A) chapter 4 of title 5, United States Code; or
 
 &emsp;&emsp;"(B) the Chief Financial Officers Act of 1990 (Public Law 101–576) \[see Short Title of 1990 Amendment note set out under section 501 of this title\], including provisions enacted by the amendments made by that Act.
 
@@ -838,7 +838,7 @@ Pub. L. 103–356, title III, §301, Oct. 13, 1994, 108 Stat. 3412, provided tha
 
 "(a)
 
-Purpose.—The purpose of this title is to improve the efficiency of executive branch performance in implementing statutory requirements for reports to Congress and committees of Congress such as the elimination or consolidation of duplicative or obsolete reporting requirements and adjustments to deadlinesthat shall provide for more efficient workload distribution or improve the quality of reports.
+Purpose.—The purpose of this title is to improve the efficiency of executive branch performance in implementing statutory requirements for reports to Congress and committees of Congress such as the elimination or consolidation of duplicative or obsolete reporting requirements and adjustments to deadlines that shall provide for more efficient workload distribution or improve the quality of reports.
 
 "(b)
 

@@ -102,7 +102,7 @@
 
 #### (C) Determination not required if receivership already in place
 
-&emsp;&emsp;Subparagraph (B) does not apply with respect to a regulated entity in any period during which the Agency serves as receiver for the regulated entity.
+&emsp;&emsp;Subparagraph (B) does not apply with respect to a regulated entity in any periodduring which the Agency serves as receiver for the regulated entity.
 
 #### (D) Receivership terminates conservatorship
 
@@ -124,7 +124,7 @@
 
 #### (7) Agency not subject to any other Federal agency
 
-&emsp;When acting as conservator or receiver, the Agency shall not be subject to the direction or supervision of any other agency of the UnitedStates or any State in the exercise of the rights, powers, and privileges of the Agency.
+&emsp;When acting as conservator or receiver, the Agency shall not be subject to the direction or supervision of any other agency of the United States or any State in the exercise of the rights, powers, and privileges of the Agency.
 
 #### (b) Powers and duties of the Agency as conservator or receiver
 
@@ -532,7 +532,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Agency, as conservator or receiver, may avoid a transfer of any interest of an entity-affiliated party, or any person determined by the conservator or receiver to be a debtor of the regulated entity, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Agency was appointed conservator or receiver, if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the regulated entity, the Agency, the conservator, or receiver.
+&emsp;&emsp;The Agency, as conservator or receiver, may avoid a transfer of any interest of anentity-affiliated party, or any person determined by the conservator or receiver to be a debtor of the regulated entity, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Agency was appointed conservator or receiver, if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the regulated entity, the Agency, the conservator, or receiver.
 
 #### (B) Right of recovery
 
@@ -556,7 +556,7 @@
 
 #### (16) Attachment of assets and other injunctive relief
 
-&emsp;Subject to paragraph (17), any court of competent jurisdiction may, at the request of theconservator or receiver, issue an order in accordance with rule 65 of the Federal Rules of Civil Procedure, including an order placing the assets of any person designated by the conservator or receiver under the control of the court, and appointing a trustee to hold such assets.
+&emsp;Subject to paragraph (17), any court of competent jurisdiction may, at the request of the conservator or receiver, issue an order in accordance with rule 65 of the Federal Rules of Civil Procedure, including an order placing the assets of any person designated by the conservator or receiver under the control of the court, and appointing a trustee to hold such assets.
 
 #### (17) Standards of proof
 
@@ -724,7 +724,7 @@
 
 #### (B) Provisions applicable to purchaser remaining in possession
 
-&emsp;&emsp;If any purchaser of real property under any contract described under subparagraph\(A) remains in possession of such property under clause (ii) of subparagraph (A)—
+&emsp;&emsp;If any purchaser of real property under any contract described under subparagraph (A) remains in possession of such property under clause (ii) of subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) the purchaser—
 
@@ -890,7 +890,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) any agreement, including the terms and conditions incorporated by reference in any such agreement, which is an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap; a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange or precious metals agreement; a currency swap, option, future, or forward agreement; an equity index or equity swap, option, future, or forward agreement; a debt index or debt swap, option, future, or forward agreement; a total return, credit spread or credit swap, option, future, or forward agreement; a commodity index or commodity swap, option, future, or forward agreement; or a weather swap, weather derivative, or weather option;
 
-&emsp;&emsp;&emsp;&emsp;(II) any agreement or transaction that is similar to any other agreement ortransaction referred to in this clause and that is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap markets (including terms and conditions incorporated by reference in such agreement) and that is a forward, swap, future, or option on one or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
+&emsp;&emsp;&emsp;&emsp;(II) any agreement or transaction that is similar to any other agreement or transaction referred to in this clause and that is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap markets (including terms and conditions incorporated by reference in such agreement) and that is a forward, swap, future, or option on one or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
 
 &emsp;&emsp;&emsp;&emsp;(III) any combination of agreements or transactions referred to in this clause;
 
@@ -1010,7 +1010,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided under this section, no person may exercise any rightor power to terminate, accelerate, or declare a default under any contract to which a regulated entity is a party, or to obtain possession of or exercise control over any property of the regulated entity, or affect any contractual rights of the regulated entity, without the consent of the conservator or receiver, as appropriate, for a period of—
+&emsp;&emsp;&emsp;Except as otherwise provided under this section, no person may exercise any right or power to terminate, accelerate, or declare a default under any contract to which a regulated entity is a party, or to obtain possession of or exercise control over any property of the regulated entity, or affect any contractual rights of the regulated entity, without the consent of the conservator or receiver, as appropriate, for a period of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 45 days after the date of appointment of a conservator; or
 
@@ -1212,7 +1212,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (iv) Equitable treatment of similarly situated creditors
 
-&emsp;&emsp;&emsp;The Agency shall treat all creditors of a regulated entity in default or in danger of default that are similarly situated under subsection (c)(1) in a similar manner in exercising the authority of the Agency under this subsection to transfer any assets or liabilities of the regulated entity to the limited-life regulated entity established with respect to such regulated entity, except that the Agency may take actions (including making payments) that do not comply with this clause, if—
+&emsp;&emsp;&emsp;The Agency shall treat all creditors of a regulated entity in default or in danger ofdefault that are similarly situated under subsection (c)(1) in a similar manner in exercising the authority of the Agency under this subsection to transfer any assets or liabilities of the regulated entity to the limited-life regulated entity established with respect to such regulated entity, except that the Agency may take actions (including making payments) that do not comply with this clause, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Director determines that such actions are necessary to maximize the value of the assets of the regulated entity, to maximize the present value return from the sale or other disposition of the assets of the regulated entity, or to minimize the amount of any loss realized upon the sale or other disposition of the assets of the regulated entity; and
 
@@ -1284,7 +1284,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (i) <sup>3</sup> In general
 
-&emsp;&emsp;&emsp;The Director, after notice and a hearing, may authorize the obtaining of credit or the issuance of debt by a limited-life regulated entity that is secured by a senior or equal lien on property of the limited-life regulated entity that is subject to a lien (other than mortgages that collateralize the mortgage-backed securities issued or guaranteed by an enterprise) only if—
+&emsp;&emsp;&emsp;The Director, after notice and a hearing, may authorize the obtaining of credit orthe issuance of debt by a limited-life regulated entity that is secured by a senior or equal lien on property of the limited-life regulated entity that is subject to a lien (other than mortgages that collateralize the mortgage-backed securities issued or guaranteed by an enterprise) only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the limited-life regulated entity is unable to otherwise obtain such credit or issue such debt; and
 
@@ -1306,7 +1306,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (2) Taxation
 
-&emsp;The Agency, including its franchise, its capital, reserves, and surplus, and its income, shall be exempt from all taxation imposed by any State, county, municipality, or local taxing authority, except that any real property of the Agency shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed, except that, notwithstanding the failure of any person to challenge an assessment under State law of thevalue of such property, and the tax thereon, shall be determined as of the period for which such tax is imposed.
+&emsp;The Agency, including its franchise, its capital, reserves, and surplus, and its income, shall be exempt from all taxation imposed by any State, county, municipality, or local taxing authority, except that any real property of the Agency shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed, except that, notwithstanding the failure of any person to challenge an assessment under State law of the value of such property, and the tax thereon, shall be determined as of the period for which such tax is imposed.
 
 #### (3) Property protection
 

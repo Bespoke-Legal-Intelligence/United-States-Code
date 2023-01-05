@@ -34,7 +34,7 @@
 
 (3) A conciliation agreement may provide for binding arbitration of the dispute arising from the complaint. Any such arbitration that results from a conciliation agreement may award appropriate relief, including monetary relief.
 
-(4) Each conciliation agreement shall be made public unless the complainant and respondentotherwise agree and the Secretary determines that disclosure is not required to further the purposes of this subchapter.
+(4) Each conciliation agreement shall be made public unless the complainant and respondent otherwise agree and the Secretary determines that disclosure is not required to further the purposes of this subchapter.
 
 (5)(A) At the end of each investigation under this section, the Secretary shall prepare a final investigative report containing—
 

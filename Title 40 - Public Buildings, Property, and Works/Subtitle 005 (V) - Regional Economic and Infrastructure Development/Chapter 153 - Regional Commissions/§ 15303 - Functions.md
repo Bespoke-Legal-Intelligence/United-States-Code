@@ -2,7 +2,7 @@
 
 A Commission shall—
 
-&emsp;(1) assess the needs and assets of its region based on available research, demonstrationprojects, investigations, assessments, and evaluations of the region prepared by Federal, State, and local agencies, universities, local development districts, and other nonprofit groups;
+&emsp;(1) assess the needs and assets of its region based on available research, demonstration projects, investigations, assessments, and evaluations of the region prepared by Federal, State, and local agencies, universities, local development districts, and other nonprofit groups;
 
 &emsp;(2) develop, on a continuing basis, comprehensive and coordinated economic and infrastructure development strategies to establish priorities and approve grants for the economic development of its region, giving due consideration to other Federal, State, and local planning and development activities in the region;
 
@@ -36,5 +36,5 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Effective Date
 
-Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
+Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d)of Pub. L. 110–246, set out as a note under section 15101 of this title.
 

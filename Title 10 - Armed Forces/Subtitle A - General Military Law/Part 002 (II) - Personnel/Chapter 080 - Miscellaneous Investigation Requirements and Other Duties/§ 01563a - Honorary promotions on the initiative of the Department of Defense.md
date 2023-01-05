@@ -12,7 +12,7 @@ Notice to Congress.—The Secretary may not make an honorary promotion pursuant 
 
 (c)
 
-Notice of Promotion.—Upon making an honorary promotion pursuant to subsection (a), the Secretary shall expeditiously notify the former member or retired member concerned, or the next of kin of such former member or retired member if such former member or retired member is deceased, of the promotion.
+Notice of Promotion.—Upon making an honorary promotion pursuant to subsection (a),the Secretary shall expeditiously notify the former member or retired member concerned, or the next of kin of such former member or retired member if such former member or retired member is deceased, of the promotion.
 
 (d)
 

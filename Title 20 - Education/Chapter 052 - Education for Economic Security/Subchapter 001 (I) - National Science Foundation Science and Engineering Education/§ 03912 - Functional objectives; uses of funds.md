@@ -4,7 +4,7 @@
 
 (b) Funds under this subchapter shall, consistent with such functional objectives, be used for—
 
-&emsp;(1) enhancement of public understanding of science and engineering through informal education activities using a variety of mediums such as broadcasting, museums, clubs, and amateur science societies;
+&emsp;(1) enhancement of public understanding of science and engineering through informal education activities using a variety of mediumssuch as broadcasting, museums, clubs, and amateur science societies;
 
 &emsp;(2) development of new science and engineering faculty resources and talents;
 

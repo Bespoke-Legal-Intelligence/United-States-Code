@@ -14,7 +14,7 @@
 
 #### (1) Contract
 
-&emsp;Upon being admitted to the Track, a medical, dental, physician assistant, pharmacy, behavioral and mental health, public health, or nursing student shall enter into a written contract with the Surgeon General that shall contain—
+&emsp;Upon being admitted to the Track, a medical, dental, physician assistant, pharmacy,behavioral and mental health, public health, or nursing student shall enter into a written contract with the Surgeon General that shall contain—
 
 &emsp;&emsp;(A) an agreement under which—
 
@@ -66,7 +66,7 @@ The Surgeon General shall establish provisions applicable with respect to dental
 
 #### (e) Elite Federal disaster teams
 
-The Surgeon General, in consultation with the Secretary, the Director of the Centers for Disease Control and Prevention, and other appropriate military and Federal government agencies, shall develop criteria for the appointment of highly qualified Track faculty, medical, dental, physician assistant, pharmacy, behavioral and mental health, public health, and nursing students, and graduates to elite Federal disaster preparedness teams to train and to respond to public health emergencies, natural disasters, bioterrorism events, and other emergencies.
+The Surgeon General, in consultation with the Secretary, the Director of the Centers for Disease Control and Prevention, and other appropriate military and Federal government agencies, shall develop criteria for the appointment of highly qualified Track faculty, medical, dental, physician assistant, pharmacy, behavioraland mental health, public health, and nursing students, and graduates to elite Federal disaster preparedness teams to train and to respond to public health emergencies, natural disasters, bioterrorism events, and other emergencies.
 
 #### (f) Student dropped from Track in affiliate school
 

@@ -42,7 +42,7 @@ In this section, the term—
 
 &emsp;&emsp;&emsp;(iii) a discharge that is not covered by part 122.3 of title 40, Code of Federal Regulations (as in effect on February 10, 1996);
 
-&emsp;(13) "marine pollution control device" means, except as provided in subsection (p),any equipment or management practice, for installation or use on board a vessel of the Armed Forces, that is—
+&emsp;(13) "marine pollution control device" means, except as provided in subsection (p), any equipment or management practice, for installation or use on board a vessel of the Armed Forces, that is—
 
 &emsp;&emsp;(A) designed to receive, retain, treat, control, or discharge a discharge incidental to the normal operation of a vessel; and
 
@@ -56,7 +56,7 @@ In this section, the term—
 
 #### (b) Federal standards of performance
 
-(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as "standards") which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety and the marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
+(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as "standards") which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety andthe marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
 
 (2) Any existing vessel equipped with a marine sanitation device on the date of promulgation of initial standards and regulations under this section, which device is in compliance with such initial standards and regulations, shall be deemed in compliance with this section until such time as the device is replaced or is found not to be in compliance with such initial standards and regulations.
 
@@ -106,7 +106,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 &emsp;&emsp;(A) for the manufacturer of any vessel subject to such standards and regulations to manufacture for sale, to sell or offer for sale, or to distribute for sale or resale any such vessel unless it is equipped with a marine sanitation device and marine pollution control device equipment which is in all material respects substantially the same as the appropriate test device certified pursuant to this section;
 
-&emsp;&emsp;(B) for any person, prior to the sale or delivery of a vessel subject to such standards and regulations to the ultimate purchaser, wrongfully to remove or render inoperative any certified marine sanitation device orelement of design of such device or any certified marine pollution control device equipment or element of design of such equipment installed in such vessel;
+&emsp;&emsp;(B) for any person, prior to the sale or delivery of a vessel subject to such standards and regulations to the ultimate purchaser, wrongfully to remove or render inoperative any certified marine sanitation device or element of design of such device or any certified marine pollution control device equipment or element of design of such equipment installed in such vessel;
 
 &emsp;&emsp;(C) for any person to fail or refuse to permit access to or copying of records or to fail to make reports or provide information required under this section; and
 
@@ -122,7 +122,7 @@ The district courts of the United States shall have jurisdictions to restrain vi
 
 #### (j) Penalties
 
-Any person who violates subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
+Any person who violates subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretaryof the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
 
 #### (k) Enforcement authority
 
@@ -184,7 +184,7 @@ Anyone authorized by the Secretary of the department in which the Coast Guard is
 
 #### (m) Enforcement in United States possessions
 
-In the case of Guam and the Trust Territory of the Pacific Islands, actions arising under this section may be brought in the district court of Guam, and in the case of the Virgin Islands suchactions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdiction of such actions. In the case of the Canal Zone, such actions may be brought in the District Court for the District of the Canal Zone.
+In the case of Guam and the Trust Territory of the Pacific Islands, actions arising under this section may be brought in the district court of Guam, and in the case of the Virgin Islands such actions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdiction of such actions. In the case of the Canal Zone, such actions may be brought in the District Court for the District of the Canal Zone.
 
 #### (n) Uniform national discharge standards for vessels of Armed Forces
 
@@ -330,7 +330,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;(i) shall not impose any design, construction, manning, or equipment standard on a foreign flagged vessel engaged in innocent passage unless the prohibition implements a generally accepted international rule or standard; and
 
-&emsp;&emsp;&emsp;(ii) that relates to the prevention, reduction, and control of pollution shall notapply to a foreign flagged vessel engaged in transit passage unless the prohibition implements an applicable international regulation regarding the discharge of oil, oily waste, or any other noxious substance into the waters.
+&emsp;&emsp;&emsp;(ii) that relates to the prevention, reduction, and control of pollution shall not apply to a foreign flagged vessel engaged in transit passage unless the prohibition implements an applicable international regulation regarding the discharge of oil, oily waste, or any other noxious substance into the waters.
 
 #### (8) Prohibition relating to vessels of the Armed Forces
 
@@ -360,7 +360,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator, in consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and interested States, shall determine the discharges incidental to the normal operation of a recreational vessel for which it is reasonable and practicable to develop management practices to mitigate adverse impacts on the waters of the United States.
+&emsp;&emsp;&emsp;The Administrator, in consultation with the Secretary of the department in whichthe Coast Guard is operating, the Secretary of Commerce, and interested States, shall determine the discharges incidental to the normal operation of a recreational vessel for which it is reasonable and practicable to develop management practices to mitigate adverse impacts on the waters of the United States.
 
 #### (ii) Promulgation
 
@@ -458,7 +458,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (6) Prohibition relating to recreational vessels
 
-&emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the waters of the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
+&emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the watersof the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
 
 #### (p) Uniform national standards for discharges incidental to normal operation of vessels
 
@@ -752,7 +752,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;(II) in the National Defense Reserve Fleet that is scheduled for disposal, if the vessel does not have an operable ballast water management system;
 
-&emsp;&emsp;&emsp;&emsp;(III) that discharges ballast water consisting solely of water taken onboard from a public or commercial source that, at the time the water is taken onboard,meets the applicable requirements or permit requirements of the Safe Drinking Water Act (42 U.S.C. 300f et seq.);
+&emsp;&emsp;&emsp;&emsp;(III) that discharges ballast water consisting solely of water taken onboard from a public or commercial source that, at the time the water is taken onboard, meets the applicable requirements or permit requirements of the Safe Drinking Water Act (42 U.S.C. 300f et seq.);
 
 &emsp;&emsp;&emsp;&emsp;(IV) that carries all permanent ballast water in sealed tanks that are not subject to discharge; or
 
@@ -858,7 +858,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (iii) Minimum requirements
 
-&emsp;&emsp;&emsp;Subject to subparagraph (D)(ii)(II), the combination of any equipment or best management practice comprising a marine pollution control device shall not be less stringent than the following provisions of the Vessel General Permit:
+&emsp;&emsp;&emsp;Subject to subparagraph (D)(ii)(II), the combination of any equipment or best management practice comprising a marinepollution control device shall not be less stringent than the following provisions of the Vessel General Permit:
 
 &emsp;&emsp;&emsp;&emsp;(I) All requirements contained in parts 2.1 and 2.2 (relating to effluent limits and related requirements), including with respect to waters subject to Federal protection, in whole or in part, for conservation purposes.
 
@@ -1008,7 +1008,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) would have justified the application of a less-stringent requirement at the time of promulgation; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) if the Administrator determines that a material technical mistake or misinterpretation of law occurred when promulgating an existing requirement of the Vessel General Permit, or if the Secretary determines that a material mistake or misinterpretation of law occurred when promulgating an existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.) or this subsection.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) if the Administrator determines that a material technical mistake or misinterpretation of law occurredwhen promulgating an existing requirement of the Vessel General Permit, or if the Secretary determines that a material mistake or misinterpretation of law occurred when promulgating an existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.) or this subsection.
 
 #### (D) Data availability
 
@@ -1092,7 +1092,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (ii) Draft policy
 
-&emsp;&emsp;&emsp;Not later than 180 days after December 4, 2018, the Secretary, in coordination with the Administrator, shall publish a draft policy letter, based on the best available science, describing type-approval testing methods and protocols for ballast water management systems, if any, that—
+&emsp;&emsp;&emsp;Not later than 180 days after December 4, 2018, the Secretary, in coordination with the Administrator, shall publish a draft policy letter, based on the best available science, describing type-approval testingmethods and protocols for ballast water management systems, if any, that—
 
 &emsp;&emsp;&emsp;&emsp;(I) render nonviable organisms in ballast water; and
 
@@ -1268,7 +1268,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clauses (ii) through (v) and paragraph (10), effective beginning on the date on which the requirements promulgated by the Secretary under subparagraphs (A), (B), and (C) of paragraph (5) with respect to every discharge incidental to the normal operation of a vessel that is subject to regulation under this subsection are final, effective, and enforceable, no State, political subdivision of a State, or interstate agency may adopt or enforce any law, regulation, or other requirement of the State, political subdivision, or interstate agency with respect to any such discharge.
+&emsp;&emsp;&emsp;Except as provided in clauses (ii) through (v) and paragraph (10), effectivebeginning on the date on which the requirements promulgated by the Secretary under subparagraphs (A), (B), and (C) of paragraph (5) with respect to every discharge incidental to the normal operation of a vessel that is subject to regulation under this subsection are final, effective, and enforceable, no State, political subdivision of a State, or interstate agency may adopt or enforce any law, regulation, or other requirement of the State, political subdivision, or interstate agency with respect to any such discharge.
 
 #### (ii) Identical or lesser State laws
 
@@ -1346,7 +1346,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;(I) any discharge that is subject to regulation under this subsection;
 
-&emsp;&emsp;&emsp;&emsp;(II) any discharge incidental to the normal operation of a vessel from a small vessel or fishing vessel, regardless of whether that discharge is subject to regulation under this subsection; or
+&emsp;&emsp;&emsp;&emsp;(II) any discharge incidental to the normal operation of a vessel from asmall vessel or fishing vessel, regardless of whether that discharge is subject to regulation under this subsection; or
 
 &emsp;&emsp;&emsp;&emsp;(III) any discharge described in paragraph (2)(B)(ii).
 
@@ -1408,7 +1408,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Governor of a Great Lakes State (or a State employee designee) may submit a petition in accordance with subclause (II) to propose that other Governors of Great Lakes States endorse anenhanced standard of performance or other requirement with respect to any discharge that—
+&emsp;&emsp;&emsp;&emsp;The Governor of a Great Lakes State (or a State employee designee) may submit a petition in accordance with subclause (II) to propose that other Governors of Great Lakes States endorse an enhanced standard of performance or other requirement with respect to any discharge that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) is subject to regulation under this subsection; and
 
@@ -1440,7 +1440,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) may include the preliminary views, if any, of the Great Lakes Commission on the propriety of the proposed enhanced standard of performance or other requirement;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) shall be submitted, in writing, to the Governor of each Great Lakes State and the Director of the Great Lakes National Program Office and published on the internet website of the Great Lakes National Program Office; and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) shall be submitted, in writing, to the Governor of each Great Lakes State and the Director of the Great Lakes National Program Office and published on the internet website ofthe Great Lakes National Program Office; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(EE) except as provided in clause (iii), shall not be taken into consideration, or provide a basis for review, by the Administrator or the Secretary for purposes of that clause.
 
@@ -1558,7 +1558,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (IV) Approval or disapproval
 
-&emsp;&emsp;&emsp;&emsp;Not later than 180 days after the date of receipt of each proposed standard ofperformance or other requirement under subclause (I), the Administrator and the Secretary shall—
+&emsp;&emsp;&emsp;&emsp;Not later than 180 days after the date of receipt of each proposed standard of performance or other requirement under subclause (I), the Administrator and the Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) determine, as applicable, whether each proposed standard or other requirement satisfies the criteria under subclause (III)(aa);
 
@@ -1582,7 +1582,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (VI) Action on approval
 
-&emsp;&emsp;&emsp;&emsp;On approval by the Administrator and the Secretary of a proposed standard of performance or other requirement under subclause (IV)(bb)—
+&emsp;&emsp;&emsp;&emsp;On approval by the Administrator and the Secretary of a proposed standard ofperformance or other requirement under subclause (IV)(bb)—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the Administrator shall establish, by regulation, the proposed standard or requirement within the Great Lakes System in lieu of any comparable standard or other requirement promulgated under paragraph (4); and
 
@@ -1628,7 +1628,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) between ports or places of destination in the State of Oregon, if the ballast water to be discharged from the commercial vessel originated solely from waters located between the parallel 40 degrees north latitude and the parallel 50 degrees north latitude;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) between ports or places of destination in the State of Californiawithin the San Francisco Bay area east of the Golden Gate Bridge, including the Port of Stockton and the Port of Sacramento, if the ballast water to be discharged from the commercial vessel originated solely from ports or places within that area;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) between ports or places of destination in the State of California within the San Francisco Bay area east of the Golden Gate Bridge, including the Port of Stockton and the Port of Sacramento, if the ballast water to be discharged from the commercial vessel originated solely from ports or places within that area;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) between the Port of Los Angeles, the Port of Long Beach, and the El Segundo offshore marine oil terminal, if the ballast water to be discharged from the commercial vessel originated solely from the Port of Los Angeles, the Port of Long Beach, or the El Segundo offshore marine oil terminal;
 
@@ -1726,7 +1726,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (aa) Request
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The Administrator shall submit to the Secretary a request for written concurrence with respect to a prohibition under subclause (I).
+&emsp;&emsp;&emsp;&emsp;&emsp;The Administrator shall submit to the Secretary a request for writtenconcurrence with respect to a prohibition under subclause (I).
 
 #### (bb) Effect of failure to concur
 
@@ -1946,7 +1946,7 @@ Plan.—Within 6 months after the notification under section 5605(b), and based 
 
 &emsp;"(1) develop and submit to the Secretary of the Interior a plan for any construction or renovation of pumpout stations and waste reception facilities that are necessary to ensure that, based on the guidance issued under section 5605(a), there are pumpout stations and waste reception facilities in the State that are adequate and reasonably available to meet the needs of recreational vessels using the coastal waters of the State; and
 
-&emsp;"(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in thecoastal zone of the State which are operational on the date of submittal.
+&emsp;"(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in the coastal zone of the State which are operational on the date of submittal.
 
 "(c)
 
@@ -2004,7 +2004,7 @@ Grant Program.—
 
 &emsp;"(1)
 
-Matching grants.—The Secretary of the Interior may obligate an amount not to exceed the amount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2) \[now 16 U.S.C. 777c(b)(3)\], as amended by this Act), to make grants to—
+Matching grants.—The Secretary of the Interior may obligate an amount not to exceed theamount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2) \[now 16 U.S.C. 777c(b)(3)\], as amended by this Act), to make grants to—
 
 &emsp;&emsp;"(A) coastal States to pay not more than 75 percent of the cost to a coastal State of—
 

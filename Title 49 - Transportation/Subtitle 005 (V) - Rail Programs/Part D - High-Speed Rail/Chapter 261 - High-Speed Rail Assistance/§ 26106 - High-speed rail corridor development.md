@@ -62,7 +62,7 @@ Grant criteria.—The Secretary, in selecting the recipients of high-speed rail 
 
 &emsp;&emsp;&emsp;(i) that the project be part of a State rail plan developed under chapter 227 of this title, or under the plan required by section 211 of the Passenger Rail Investment and Improvement Act of 2008;
 
-&emsp;&emsp;&emsp;(ii) that the applicant or recipient has or will have the legal, financial, and technical capacity to carry out the project,satisfactory continuing control over the use of the equipment or facilities, and the capability and willingness to maintain the equipment or facilities;
+&emsp;&emsp;&emsp;(ii) that the applicant or recipient has or will have the legal, financial, and technical capacity to carry out the project, satisfactory continuing control over the use of the equipment or facilities, and the capability and willingness to maintain the equipment or facilities;
 
 &emsp;&emsp;&emsp;(iii) that the project be based on the results of preliminary engineering studies or other planning, including corridor planning activities funded under section 26101 of this title;
 
@@ -182,7 +182,7 @@ The date of enactment of this section, referred to in subsec. (g), is the date o
 
 #### Additional High-Speed Rail Projects
 
-Pub. L. 110–432, div. B, title V, §502, Oct. 16, 2008, 122 Stat. 4963, as amended by Pub. L. 115–420, §7(b)(3)(B)(ii), Jan. 3, 2019, 132 Stat. 5447, provided that:
+Pub. L. 110–432, div. B, title V, §502, Oct. 16, 2008, 122 Stat. 4963, as amended by Pub. L. 115–420, §7(b)(3)(B)(ii), Jan. 3, 2019, 132 Stat. 5447; Pub. L. 117–286, §4(a)(307), Dec. 27, 2022, 136 Stat. 4339, provided that:
 
 "(a)
 
@@ -322,7 +322,7 @@ Vacancy.—Any vacancy in each commission shall not affect its powers and shall 
 
 &emsp;"(5)
 
-Application of law.—Except where otherwise provided by this section, the Federal Advisory Committee Act (P.L. 92–463) \[5 U.S.C. App.\] shall apply to each commission created under this section.
+Application of law.—Except where otherwise provided by this section, chapter 10 of title 5, United States Code, shall apply to each commission created under this section.
 
 "(d)
 
@@ -398,7 +398,7 @@ Northeast corridor.—The term 'Northeast Corridor' has the meaning given under 
 
 &emsp;"(4)
 
-High-speed rail corridor.—The terms 'high-speed rail corridor' and 'corridor' mean a corridordesignated by the Secretary pursuant to \[former\] section 104(d)(2) of title 23, United States Code, and the Northeast Corridor."
+High-speed rail corridor.—The terms 'high-speed rail corridor' and 'corridor' mean a corridor designated by the Secretary pursuant to \[former\] section 104(d)(2) of title 23, United States Code, and the Northeast Corridor."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

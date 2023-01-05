@@ -8,7 +8,7 @@ Notwithstanding the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719
 
 #### (1) In general
 
-&emsp;The Commission shall issue a certificate of public convenience and necessity authorizing the construction and operation of an Alaskanatural gas transportation project under this section if the applicant has satisfied the requirements of section 7(e) of the Natural Gas Act (15 U.S.C. 717f(e)).
+&emsp;The Commission shall issue a certificate of public convenience and necessity authorizing the construction and operation of an Alaska natural gas transportation project under this section if the applicant has satisfied the requirements of section 7(e) of the Natural Gas Act (15 U.S.C. 717f(e)).
 
 #### (2) Considerations
 
@@ -84,7 +84,7 @@ The Commission may issue such regulations as are necessary to carry out this sec
 
 #### References in Text
 
-The Alaska Natural Gas Transportation Act of 1976, referred to in subsecs. (a) and (f)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, as amended, which is classified generally to chapter 15C (§719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
+The Alaska Natural Gas Transportation Act of 1976, referred to in subsecs. (a) and (f)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
 
-The Natural Gas Act, referred to in subsec. (f)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsec. (f)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 

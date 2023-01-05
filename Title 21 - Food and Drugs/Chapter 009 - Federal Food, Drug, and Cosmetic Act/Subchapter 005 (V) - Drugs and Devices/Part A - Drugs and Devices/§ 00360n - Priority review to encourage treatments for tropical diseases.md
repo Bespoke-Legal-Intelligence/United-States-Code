@@ -80,7 +80,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall award a priority review voucher to the sponsor of a tropical diseaseproduct application upon approval by the Secretary of such tropical disease product application.
+&emsp;The Secretary shall award a priority review voucher to the sponsor of a tropical disease product application upon approval by the Secretary of such tropical disease product application.
 
 #### (2) Transferability
 

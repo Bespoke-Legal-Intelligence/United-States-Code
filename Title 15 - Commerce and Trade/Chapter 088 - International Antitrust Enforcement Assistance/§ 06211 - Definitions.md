@@ -10,11 +10,11 @@ For purposes of this chapter:
 
 &emsp;&emsp;(B) An assurance that the foreign antitrust authority is subject to laws and procedures that are adequate to maintain securely the confidentiality of antitrust evidence that may be received under section 6201, 6202, or 6203 of this title and will give protection to antitrust evidence received under such section that is not less than the protection provided under the laws of the United States to such antitrust evidence.
 
-&emsp;&emsp;(C) Citations to and brief descriptions of the laws of the United States, and the laws of the foreign state or regional economic integration organization represented by the foreign antitrust authority, that protect the confidentiality of antitrust evidence that may be provided under such agreement or such memorandum. Such citations and suchdescriptions shall include the enforcement mechanisms and penalties applicable under such laws and, with respect to a regional economic integration organization, the applicability of such laws, enforcement mechanisms, and penalties to the foreign states composing such organization.
+&emsp;&emsp;(C) Citations to and brief descriptions of the laws of the United States, and the laws of the foreign state or regional economic integration organization represented by the foreign antitrust authority, that protect the confidentiality of antitrust evidence that may be provided under such agreement or such memorandum. Such citations and such descriptions shall include the enforcement mechanisms and penalties applicable under such laws and, with respect to a regional economic integration organization, the applicability of such laws, enforcement mechanisms, and penalties to the foreign states composing such organization.
 
 &emsp;&emsp;(D) Citations to the Federal antitrust laws, and the foreign antitrust laws, with respect to which such agreement or such memorandum applies.
 
-&emsp;&emsp;(E) Terms and conditions that specifically require using, disclosing, or permitting the use or disclosure of, antitrust evidence received under such agreement or such memorandum only—
+&emsp;&emsp;(E) Terms and conditions that specifically require using, disclosing, or permitting theuse or disclosure of, antitrust evidence received under such agreement or such memorandum only—
 
 &emsp;&emsp;&emsp;(i) for the purpose of administering or enforcing the foreign antitrust laws involved, or
 

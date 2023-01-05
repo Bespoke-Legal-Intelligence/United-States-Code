@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, any civil action to contest the auth
 
 #### (b) Land selection; suspension and extension of rights
 
-In the event that the State initiates litigation or voluntarily becomes a party to litigation to contest the authority of the United States to legislate on the subject matter or the legality of this chapter, all rights of land selection granted to the State by the Alaska Statehood Act shall be suspended as to any public lands which are determined by the Secretary to be potentially valuable for mineral development, timber, or other commercial purposes, and no selections shall be made, no tentative approvals shall be granted, and no patents shall be issued for such lands during the pendency of such litigation. In the event of such suspension, the State's right of land selection pursuant to section 6 of the Alaska Statehood Act shall be extended for a period of time equal to the period of time the selection right was suspended.
+In the event that the State initiates litigation or voluntarily becomes a party to litigation to contest the authority of the United States to legislate on the subject matter or the legality of this chapter, all rights of land selection granted to the State by the Alaska Statehood Act shall be suspended as to any public lands which are determined by the Secretary to be potentiallyvaluable for mineral development, timber, or other commercial purposes, and no selections shall be made, no tentative approvals shall be granted, and no patents shall be issued for such lands during the pendency of such litigation. In the event of such suspension, the State's right of land selection pursuant to section 6 of the Alaska Statehood Act shall be extended for a period of time equal to the period of time the selection right was suspended.
 
 (Pub. L. 92–203, §10, Dec. 18, 1971, 85 Stat. 696.)
 
@@ -14,5 +14,5 @@ In the event that the State initiates litigation or voluntarily becomes a party 
 
 #### References in Text
 
-The Alaska Statehood Act and section 6 of the Alaska Statehood Act, referred to in subsec. (b), are Pub. L. 85–508, July 7, 1958, 72 Stat. 339, and section 6 thereof, as amended, and are set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act and section 6 of the Alaska Statehood Act, referred to in subsec. (b), are Pub. L. 85–508, July 7, 1958, 72 Stat. 339, and section 6 thereof, and are set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 

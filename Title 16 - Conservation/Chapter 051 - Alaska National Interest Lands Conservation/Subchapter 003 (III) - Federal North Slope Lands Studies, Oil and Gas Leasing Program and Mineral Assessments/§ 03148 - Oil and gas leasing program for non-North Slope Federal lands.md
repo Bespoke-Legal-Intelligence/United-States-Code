@@ -18,7 +18,7 @@ The Secretary shall establish, pursuant to the Mineral Leasing Act of 1920, as a
 
 #### (d) Issuance of leases; competitive bidding
 
-Pursuant to the Mineral Leasing Act of 1920, as amended \[30 U.S.C. 181 et seq.\], the Secretary is authorized to issue leases, on the Federal lands described in this section, under such terms and conditions as he may, by regulation, prescribe.
+Pursuant to the Mineral Leasing Act of 1920, as amended \[30 U.S.C. 181 et seq.\], the Secretary is authorized to issue leases, on the Federallands described in this section, under such terms and conditions as he may, by regulation, prescribe.
 
 #### (e) Repealed. Pub. L. 100–203, title V, §5105(1), Dec. 22, 1987, 101 Stat. 1330–259
 

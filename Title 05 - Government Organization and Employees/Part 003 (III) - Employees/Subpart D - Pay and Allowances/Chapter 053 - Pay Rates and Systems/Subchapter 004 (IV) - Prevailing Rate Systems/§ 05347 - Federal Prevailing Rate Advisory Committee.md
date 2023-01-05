@@ -20,13 +20,13 @@
 
 (d) The members from the employee organizations serve at the pleasure of the Director of the Office of Personnel Management.
 
-(e) The Committee shall study the prevailing rate system and other matters pertinent to theestablishment of prevailing rates under this subchapter and, from time to time, advise the Office of Personnel Management thereon. Conclusions and recommendations of the Committee shall be formulated by majority vote. The Chairman of the Committee may vote only to break a tie vote of the Committee.
+(e) The Committee shall study the prevailing rate system and other matters pertinent to the establishment of prevailing rates under this subchapter and, from time to time, advise the Office of Personnel Management thereon. Conclusions and recommendations of the Committee shall be formulated by majority vote. The Chairman of the Committee may vote only to break a tie vote of the Committee.
 
 (f) The Committee shall meet at the call of the Chairman. However, a special meeting shall be called by the Chairman if 5 members make a written request to the Chairman to call a special meeting to consider matters within the purview of the Committee.
 
 (g)(1) Except as provided in paragraph (2), members of the Committee described in paragraphs (2)–(5) of subsection (a) of this section serve without additional pay. Members who represent employee organizations are not entitled to pay from the Government of the United States for services rendered to the Committee.
 
-(2) The position of Chairman shall be considered to be a Senior Executive Service position within the meaning of section 3132(a), and shall be subject to all provisions of this title relating to Senior Executive Service positions, including section 5383.
+(2) The position of Chairman shall be considered to be a Senior Executive Service positionwithin the meaning of section 3132(a), and shall be subject to all provisions of this title relating to Senior Executive Service positions, including section 5383.
 
 (h) The Office of Personnel Management shall provide such clerical and professional personnel as the Chairman of the Committee considers appropriate and necessary to carry out its functions under this subchapter. Such personnel shall be responsible to the Chairman of the Committee.
 

@@ -132,7 +132,7 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 #### (i) Regulations
 
-The Secretary shall prescribe such regulations as may be appropriate to carry out this sectionand section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections (a)(3) and (b)(1) of this section and in section 137(b)(1).
+The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections (a)(3) and (b)(1) of this section and in section 137(b)(1).
 
 (Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899, §23; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 109–58, title XIII, §1335(b)(1), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(A), (4), Dec. 21, 2005, 119 Stat. 2612, 2615; Pub. L. 110–343, div. B, title I, §106(e)(2)(A), Oct. 3, 2008, 122 Stat. 3817; renumbered §36C, amended, and renumbered §23, Pub. L. 111–148, title X, §10909(a)(1), (b)(1), (2)(I), (c), Mar. 23, 2010, 124 Stat. 1021, 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(A), Jan. 2, 2013, 126 Stat. 2321; Pub. L. 115–97, title I, §11002(d)(1)(A), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(d)(4)(B)(i), Mar. 23, 2018, 132 Stat. 1209.)
 
@@ -288,7 +288,7 @@ In general.—Except as provided in paragraphs (2) and (3), the amendments made 
 
 "(2)
 
-Repeal of public utility holding company act of 1935.—The amendments made by subsection (a) \[amending sections 121, 246, 247, 1223, 1245, and 1250 of this title and repealing sections 1081 to 1083 of this title\] shall not apply with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\] before its repeal.
+Repeal of public utility holding company act of 1935.—The amendments made by subsection (a) \[amending sections 121, 246, 247, 1223, 1245, and 1250 of this title and repealing sections 1081 to 1083 of this title\] shall not apply with respect to any transaction ordered in compliance with the Public Utility HoldingCompany Act of 1935 \[15 U.S.C. 79 et seq.\] before its repeal.
 
 "(3)
 

@@ -44,7 +44,7 @@ Review and determination.—Within the applicable review period, subject to sect
 
 > &emsp;in which case the Administrator shall take the actions required under subsection (e); or
 
-&emsp;(C) that the relevant chemical substance or significant new use is not likely to present an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevantby the Administrator under the conditions of use, in which case the submitter of the notice may commence manufacture of the chemical substance or manufacture or processing for a significant new use.
+&emsp;(C) that the relevant chemical substance or significant new use is not likely to present an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator under the conditions of use, in which case the submitter of the notice may commence manufacture of the chemical substance or manufacture or processing for a significant new use.
 
 (4)
 
@@ -104,7 +104,7 @@ Article consideration.—The Administrator may require notification under this s
 
 (B) The Administrator shall, in prescribing a rule under subparagraph (A) which lists any chemical substance, identify those uses, if any, which the Administrator determines, by rule under subsection (a)(2), would constitute a significant new use of such substance.
 
-(C) Any rule under subparagraph (A), and any substantive amendment or repeal of such a rule,shall be promulgated pursuant to the procedures specified in section 553 of title 5.
+(C) Any rule under subparagraph (A), and any substantive amendment or repeal of such a rule, shall be promulgated pursuant to the procedures specified in section 553 of title 5.
 
 #### (c) Extension of review period
 
@@ -200,7 +200,7 @@ If the Administrator finds in accordance with subsection (a)(3)(C) that a chemic
 
 &emsp;(ii) to any other person who has been required under this subparagraph to contribute with respect to such costs, for a portion of the amount such person was required to contribute.
 
-> In promulgating rules for the determination of fair and equitable reimbursement to the personsdescribed in clauses (i) and (ii) for costs incurred with respect to a chemical substance, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider all relevant factors, including the effect on the competitive position of the person required to provide reimbursement in relation to the persons to be reimbursed and the share of the market for such substance of the person required to provide reimbursement in relation to the share of such market of the persons to be reimbursed. For purposes of judicial review, an order under this subparagraph shall be considered final agency action.
+> In promulgating rules for the determination of fair and equitable reimbursement to the persons described in clauses (i) and (ii) for costs incurred with respect to a chemical substance, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider all relevant factors, including the effect on the competitive position of the person required to provide reimbursement in relation to the persons to be reimbursed and the share of the market for such substance of the person required to provide reimbursement in relation to the share of such market of the persons to be reimbursed. For purposes of judicial review, an order under this subparagraph shall be considered final agency action.
 
 (C) For purposes of this paragraph, the reimbursement period for any previously submitted information for a chemical substance is a period—
 
@@ -318,7 +318,7 @@ Subsec. (f)(3)(A). Pub. L. 114–182, §5(6)(C)(i), substituted "Administrator m
 
 > A proposed order issued under clause (i) respecting a chemical substance shall take effect on the expiration of the notification period applicable under subsection (a), (b), or (c) to the manufacture or processing of such substance."
 
-Subsec. (f)(3)(B), (C). Pub. L. 114–182, §5(6)(C)(ii), (iii), redesignated subpar. (C) as (B), substituted "subparagraph (B)" for "subparagraphs (B) and (C)", struck out "clause (i) of" after "order issued under" and "; and the provisions of subparagraph (C) of subsection (e)(2) shall apply with respect to an injunction issued under subparagraph (B)" after "subparagraph (A)", and struck out former subpar. (B) which read as follows: "If the district court of the United States to which an application has been made under subparagraph (A)(ii) finds that there is a reasonable basis to conclude thatthe manufacture, processing, distribution in commerce, use, or disposal of the chemical substance with respect to which such application was made, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment before a rule promulgated under section 2605 of this title can protect against such risk, the court shall issue an injunction to prohibit the manufacture, processing, or distribution in commerce of such substance or to prohibit any combination of such activities."
+Subsec. (f)(3)(B), (C). Pub. L. 114–182, §5(6)(C)(ii), (iii), redesignated subpar. (C) as (B), substituted "subparagraph (B)" for "subparagraphs (B) and (C)", struck out "clause (i) of" after "order issued under" and "; and the provisions of subparagraph (C) of subsection (e)(2) shall apply with respect to an injunction issued under subparagraph (B)" after "subparagraph (A)", and struck out former subpar. (B) which read as follows: "If the district court of the United States to which an application has been made under subparagraph (A)(ii) finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance with respect to which such application was made, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment before a rule promulgated under section 2605 of this title can protect against such risk, the court shall issue an injunction to prohibit the manufacture, processing, or distribution in commerce of such substance or to prohibit any combination of such activities."
 
 Subsec. (f)(3)(D). Pub. L. 114–182, §5(6)(C)(iv), struck out subpar. (D) which read as follows: "If the Administrator issues an order pursuant to subparagraph (A)(i) respecting a chemical substance and objections are filed in accordance with subsection (e)(1)(C), the Administrator shall seek an injunction under subparagraph (A)(ii) respecting such substance unless the Administrator determines, on the basis of such objections, that such substance does not or will not present an unreasonable risk of injury to health or the environment."
 

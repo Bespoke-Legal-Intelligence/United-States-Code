@@ -4,7 +4,7 @@
 
 (b) Except as otherwise provided in section 7504 of this title, none of the commodities distributed under this chapter shall be sold or otherwise disposed of in commercial channels in any form.
 
-(Pub. L. 98–8, title II, §205, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, §2(7), Sept. 2, 1983, 97 Stat. 611;Pub. L. 110–234, title I, §4002(b)(1)(B), (2)(I), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(I), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Pub. L. 98–8, title II, §205, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, §2(7), Sept. 2, 1983, 97 Stat. 611; Pub. L. 110–234, title I, §4002(b)(1)(B), (2)(I), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(I), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### <b>Editorial Notes</b>
 

@@ -14,7 +14,7 @@ A licensee is not discriminating under this section and is not subject to common
 
 #### (c) Enforcement, suspension, or termination proceedings
 
-When the Secretary has reason to believe that a licensee is not in compliance with this section, the Secretary shall commence an appropriate proceeding before the Federal Energy Regulatory Commission or request the Attorney General to take appropriate steps to enforce compliance with this section and, when appropriate, to secure the imposition of appropriate sanctions. In addition, the Secretary may suspend or revoke the license of a licensee not complying with its obligations under this section.
+When the Secretary has reason to believe that a licensee is not in compliance with this section,the Secretary shall commence an appropriate proceeding before the Federal Energy Regulatory Commission or request the Attorney General to take appropriate steps to enforce compliance with this section and, when appropriate, to secure the imposition of appropriate sanctions. In addition, the Secretary may suspend or revoke the license of a licensee not complying with its obligations under this section.
 
 #### (d) Managed access
 
@@ -32,7 +32,7 @@ Notwithstanding any provision of the Natural Gas Act (15 U.S.C. 717 et seq.), an
 
 The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended. Part I of the Act, which was classified to chapter 1 (§1 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95-473, §4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
 
-The Natural Gas Act, referred to in subsec. (e), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+The Natural Gas Act, referred to in subsec. (e), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 #### Amendments
 
@@ -46,5 +46,5 @@ Subsec. (b). Pub. L. 104–324, §507(b), substituted "A licensee is not discrim
 
 Subsec. (b). Pub. L. 98–419 inserted provisions enumerating conditions under which a licensee is not subject to common carrier regulations under subsec. (a). Provisions dealing with enforcement, suspension, or termination proceedings, were redesignated as subsec. (c).
 
-Subsec. (c). Pub. L. 98–419 redesignated a portion of provisions of subsec. (b) as subsec. (c), and in subsec. (c)as so redesignated substituted provisions authorizing the Secretary to commence proceedings before the Federal Energy Regulatory Commission, or to suspend or revoke licenses of noncomplying licensees, in the event of noncompliance with this section, for provisions which had authorized the Secretary to commence proceedings before the Interstate Commerce Commission or to suspend or terminate licenses of noncomplying licensees as provided in section 1511 of this title, in the event of noncompliance by a licensee with its obligations as a common carrier.
+Subsec. (c). Pub. L. 98–419 redesignated a portion of provisions of subsec. (b) as subsec. (c), and in subsec. (c) as so redesignated substituted provisions authorizing the Secretary to commence proceedings before the Federal Energy Regulatory Commission, or to suspend or revoke licenses of noncomplying licensees, in the event of noncompliance with this section, for provisions which had authorized the Secretary to commence proceedings before the Interstate Commerce Commission or to suspend or terminate licenses of noncomplying licensees as provided in section 1511 of this title, in the event of noncompliance by a licensee with its obligations as a common carrier.
 

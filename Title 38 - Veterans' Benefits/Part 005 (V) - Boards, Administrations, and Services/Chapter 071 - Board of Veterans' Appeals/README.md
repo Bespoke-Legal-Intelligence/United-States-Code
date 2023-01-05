@@ -6,7 +6,7 @@
 | [7101A.](%C2%A7%2007101A%20-%20Members%20of%20Board%20appointment%3B%20pay%3B%20performance%20review.md) | Members of Board: appointment; pay; performance review. |
 | [7102\.](%C2%A7%2007102%20-%20Assignment%20of%20members%20of%20Board.md) | Assignment of members of Board. |
 | [7103\.](%C2%A7%2007103%20-%20Reconsideration%3B%20correction%20of%20obvious%20errors.md) | Reconsideration; correction of obvious errors. |
-| [7104\.](%C2%A7%2007104%20-%20Jurisdiction%20of%20the%20Board.md) | Jurisdiction of the Board. |
+| [7104\.](%C2%A7%2007104%20-%20Jurisdiction%20of%20the%20Board%3B%20decisions%3B%20notice.md) | Jurisdiction of the Board; decisions; notice. |
 | [7105\.](%C2%A7%2007105%20-%20Filing%20of%20appeal.md) | Filing of appeal. |
 | [7105A.](%C2%A7%2007105A%20-%20Simultaneously%20contested%20claims.md) | Simultaneously contested claims. |
 | \[7106. | Repealed.\] |
@@ -15,7 +15,7 @@
 | \[7109. | Repealed.\] |
 | \[7110. | Repealed.\] |
 | [7111\.](%C2%A7%2007111%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md) | Revision of decisions on grounds of clear and unmistakable error. |
-| [7112\.](%C2%A7%2007112%20-%20Expedited%20treatment%20of%20remanded%20claims.md) | Expedited treatment of remanded claims. |
+| [7112\.](%C2%A7%2007112%20-%20Expedited%20treatment%20of%20certain%20claims.md) | Expedited treatment of certain claims. |
 | [7113\.](%C2%A7%2007113%20-%20Evidentiary%20record%20before%20the%20Board%20of%20Veterans%27%20Appeals.md) | Evidentiary record before the Board of Veterans' Appeals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,6 +23,10 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–300, §2(a)(2)(B), Dec. 27, 2022, 136 Stat. 4380, added item 7112 and struck out former item 7112 "Expedited treatment of remanded claims".
+
+Pub. L. 117–168, §1(b)(2), title VIII, §807(a)(5)(A), Aug. 10, 2022, 136 Stat 1759, 1806, inserted "; decisions; notice" after "Board" in item 7104.
 
 <b>2017</b>—Pub. L. 115–55, §2(q)(2), (s)(2), (u)(3), (w)(3), Aug. 23, 2017, 131 Stat. 1112, 1113, 1115, substituted "Filing of appeal" for "Filing of notice of disagreement and appeal" in item 7105, struck out items 7106 "Administrative appeals" and 7109 "Independent medical opinions", and added item 7113.
 
@@ -51,7 +55,7 @@ Pub. L. 87–666, §2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and subst
 - [&sect; 07101A - Members of Board appointment; pay; performance review](%C2%A7%2007101A%20-%20Members%20of%20Board%20appointment%3B%20pay%3B%20performance%20review.md)
 - [&sect; 07102 - Assignment of members of Board](%C2%A7%2007102%20-%20Assignment%20of%20members%20of%20Board.md)
 - [&sect; 07103 - Reconsideration; correction of obvious errors](%C2%A7%2007103%20-%20Reconsideration%3B%20correction%20of%20obvious%20errors.md)
-- [&sect; 07104 - Jurisdiction of the Board](%C2%A7%2007104%20-%20Jurisdiction%20of%20the%20Board.md)
+- [&sect; 07104 - Jurisdiction of the Board; decisions; notice](%C2%A7%2007104%20-%20Jurisdiction%20of%20the%20Board%3B%20decisions%3B%20notice.md)
 - [&sect; 07105 - Filing of appeal](%C2%A7%2007105%20-%20Filing%20of%20appeal.md)
 - [&sect; 07105A - Simultaneously contested claims](%C2%A7%2007105A%20-%20Simultaneously%20contested%20claims.md)
 - [&sect; 07106 - Repealed. Pub. L. 115&#8211;55, &sect;2(s)(1), Aug. 23, 2017, 131 Stat. 1112](%C2%A7%2007106%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9355%2C%20%C2%A72%28s%29%281%29%2C%20Aug.%2023%2C%202017%2C%20131%20Stat.%201112.md)
@@ -60,5 +64,5 @@ Pub. L. 87–666, §2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and subst
 - [&sect; 07109 - Repealed. Pub. L. 115&#8211;55, &sect;2(u)(1), Aug. 23, 2017, 131 Stat. 1113](%C2%A7%2007109%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9355%2C%20%C2%A72%28u%29%281%29%2C%20Aug.%2023%2C%202017%2C%20131%20Stat.%201113.md)
 - [&sect; 07110 - Repealed. Pub. L. 103&#8211;271, &sect;7(b)(2), July 1, 1994, 108 Stat. 743](%C2%A7%2007110%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93271%2C%20%C2%A77%28b%29%282%29%2C%20July%201%2C%201994%2C%20108%20Stat.%20743.md)
 - [&sect; 07111 - Revision of decisions on grounds of clear and unmistakable error](%C2%A7%2007111%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md)
-- [&sect; 07112 - Expedited treatment of remanded claims](%C2%A7%2007112%20-%20Expedited%20treatment%20of%20remanded%20claims.md)
+- [&sect; 07112 - Expedited treatment of certain claims](%C2%A7%2007112%20-%20Expedited%20treatment%20of%20certain%20claims.md)
 - [&sect; 07113 - Evidentiary record before the Board of Veterans' Appeals](%C2%A7%2007113%20-%20Evidentiary%20record%20before%20the%20Board%20of%20Veterans%27%20Appeals.md)

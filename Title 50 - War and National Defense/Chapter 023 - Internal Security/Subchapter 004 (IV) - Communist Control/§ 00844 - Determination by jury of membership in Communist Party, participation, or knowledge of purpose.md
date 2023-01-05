@@ -16,7 +16,7 @@ In determining membership or participation in the Communist Party or any other o
 
 &emsp;(7) Has been accepted to his knowledge as an officer or member of the organization or as one to be called upon for services by other officers or members of the organization;
 
-&emsp;(8) Has written, spoken or in any other way communicated by signal, semaphore, sign, or in any other form of communication orders, directives, or plans of the organization;
+&emsp;(8) Has written, spoken or in any other way communicated by signal, semaphore, sign, orin any other form of communication orders, directives, or plans of the organization;
 
 &emsp;(9) Has prepared documents, pamphlets, leaflets, books, or any other type of publication in behalf of the objectives and purposes of the organization;
 
@@ -36,7 +36,7 @@ In determining membership or participation in the Communist Party or any other o
 
 #### References in Text
 
-This Act, referred to in the provision preceding par. (1), is act Aug. 24, 1954, ch. 886, 68 Stat. 775, known asthe Communist Control Act of 1954, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 781 of this title and Tables.
+This Act, referred to in the provision preceding par. (1), is act Aug. 24, 1954, ch. 886, 68 Stat. 775, known as the Communist Control Act of 1954, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 781 of this title and Tables.
 
 #### Codification
 

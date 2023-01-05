@@ -28,7 +28,7 @@
 
 &emsp;(13) <sup>2</sup> shall be credited with amounts received from any of the activities authorized by clauses (10) and (11) <sup>3</sup> of this subsection.
 
-&emsp;(13) <sup>2</sup> shall accept such amounts as may be transferred to the Corporation under section9505(c)(1) of title 26, except that such amounts shall be available only for the purpose of operating and maintaining those works which the Corporation is obligated to operate and maintain under subsection (a) of section 983 of this title.
+&emsp;(13) <sup>2</sup> shall accept such amounts as may be transferred to the Corporation under section 9505(c)(1) of title 26, except that such amounts shall be available only for the purpose of operating and maintaining those works which the Corporation is obligated to operate and maintain under subsection (a) of section 983 of this title.
 
 (b) Amounts credited under subsection (a)(12) <sup>3</sup> are available to pay any obligation or expense of the Corporation under this chapter, except as specifically provided in subsection (a)(11).<sup>3</sup>
 

@@ -14,7 +14,7 @@ Historical and Revision Notes
 
 46:362(c)
 
-Section 3505 prohibits the departure from a United States port or place of any passenger vessel of more than 100 gross tons having berthing for at least 50 passengers, if the vessel does not comply with the international maritime safety standards applicable to United States vessels.
+Section 3505 prohibits the departure from a United States port or place of any passenger vessel of morethan 100 gross tons having berthing for at least 50 passengers, if the vessel does not comply with the international maritime safety standards applicable to United States vessels.
 
 #### <b>Editorial Notes</b>
 

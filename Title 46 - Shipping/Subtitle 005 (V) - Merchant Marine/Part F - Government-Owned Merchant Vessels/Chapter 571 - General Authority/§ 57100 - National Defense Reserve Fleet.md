@@ -78,7 +78,7 @@ Exemption From Tank Vessel Construction Standards.—Vessels in the National Def
 
 (f)
 
-Use of NDRF Vessels for Civil Contingency Operations and Promotional and MediaEvents.—With the concurrence of the Secretary of Defense, the Secretary of Transportation may allow the use of vessels in the National Defense Reserve Fleet (NDRF) for civil contingency operations requested by another Federal agency, and for Maritime Administration promotional and media events relating to demonstration projects and research and development supporting the Administration's mission, if the Secretary of Transportation determines such use is in the best interest of the Government after considering the following factors:
+Use of NDRF Vessels for Civil Contingency Operations and Promotional and Media Events.—With the concurrence of the Secretary of Defense, the Secretary of Transportation may allow the use of vessels in the National Defense Reserve Fleet (NDRF) for civil contingency operations requested by another Federal agency, and for Maritime Administration promotional and media events relating to demonstration projects and research and development supporting the Administration's mission, if the Secretary of Transportation determines such use is in the best interest of the Government after considering the following factors:
 
 &emsp;(1)
 
@@ -102,7 +102,7 @@ Other matters.—Any other matters the Maritime Administrator considers appropri
 
 (g)
 
-Vessel Status.—A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be of insufficient value to remain in the National Defense Reserve Fleet shall remain a vessel within the meaning of that term in section 3 of title 1, United States Code, and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.
+Vessel Status.—A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be of insufficient value to remain in the National Defense Reserve Fleet shall remain a vessel within the meaning of that term in section 3 of title 1, United States Code, and subject to the rights and responsibilities ofa vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.
 
 (Added and amended Pub. L. 115–91, div. C, title XXXV, §3502(a)(3), (b)(6), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. A, title VIII, §809(q), Aug. 13, 2018, 132 Stat. 1844.)
 
@@ -140,6 +140,34 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Recapitalization of National Defense Reserve Fleet
+
+Pub. L. 117–263, div. C, title XXXV, §3546, Dec. 23, 2022, 136 Stat. 3100, provided that:
+
+"(a)
+
+In General.—Subject to the availability of appropriations, the Secretary of Transportation, in consultation with the Chief of Naval Operations and the Commandant of the Coast Guard, shall—
+
+&emsp;"(1) complete the design of a roll-on, roll-off cargo vessel for the National Defense Reserve Fleet to allow for the construction of such vessel to begin in fiscal year 2024; and
+
+&emsp;"(2) seek to enter into an agreement with an appropriate vessel construction manager under which the vessel construction manager shall enter into a contract for the construction of not more than ten such vessels in accordance with this section.
+
+"(b)
+
+Construction and Documentation Requirements.—A vessel constructed pursuant to this section shall meet the requirements for, and be issued a certificate of, documentation and a coastwise endorsement under chapter 121 of title 46, United States Code.
+
+"(c)
+
+Design Standards and Construction Practices.—Subject to subsection (b), a vessel constructed pursuant to this section shall be constructed using commercial design standards and commercial construction practices that are consistent with the best interests of the Federal Government.
+
+"(d)
+
+Consultation With Other Federal Entities.—The Secretary of Transportation shall consult and coordinate with the Secretary of the Navy and may consult with the heads of other appropriate Federal agencies regarding the vessel described in subsection (a) and activities associated with such vessel.
+
+"(e)
+
+Limitation on Use of Funds for Used Vessels.—None of the funds authorized to be appropriated by this Act or otherwise made available to carry out this section may be used for the procurement of any used vessel."
+
 #### Vessel Repair and Maintenance Pilot Program
 
 Pub. L. 104–239, §16, Oct. 8, 1996, 110 Stat. 3138, provided that:
@@ -164,7 +192,7 @@ Contract Requirements.—Each contract with a shipyard under this section shall�
 
 "(d)
 
-Limitation of Work Under Contracts.—A contract under this section may not provide for the procurement of operation or manning for a vessel that may be procured under another contract for the vessel to which section 11(d)(2) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1774(d)(2)) \[probably means "(50 U.S.C. App. 1744(d)(2))", now 46 U.S.C. 57100(c)(2)\] applies.
+Limitation of Work Under Contracts.—A contract under this section may not provide for the procurement of operation or manning for a vessel that may be procured under another contract for the vessel to which section 11(d)(2) of the Merchant Ship SalesAct of 1946 (50 U.S.C. App. 1774(d)(2)) \[probably means "(50 U.S.C. App. 1744(d)(2))", now 46 U.S.C. 57100(c)(2)\] applies.
 
 "(e)
 

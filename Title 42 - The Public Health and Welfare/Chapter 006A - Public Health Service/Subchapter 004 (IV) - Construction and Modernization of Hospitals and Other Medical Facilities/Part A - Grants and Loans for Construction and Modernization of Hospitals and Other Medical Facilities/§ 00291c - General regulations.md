@@ -64,7 +64,7 @@ Pub. L. 91–296, title I, §110, June 30, 1970, 84 Stat. 339, provided that the
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919, provided that the amendments made by such section 3(b)\[amending this section and sections 291o and 293c of this title\] are effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965.
+Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919, provided that the amendments made by such section 3(b) \[amending this section and sections 291o and 293c of this title\] are effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965.
 
 #### <b>Executive Documents</b>
 

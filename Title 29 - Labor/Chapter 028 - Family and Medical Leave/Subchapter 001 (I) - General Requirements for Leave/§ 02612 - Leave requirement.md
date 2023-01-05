@@ -148,11 +148,11 @@ Except as provided in subsection (d), leave granted under subsection (a) (other 
 
 #### References in Text
 
-The date the Emergency Family and Medical Leave Expansion Act takes effect, referred to in subsec. (a)(1)(F), is the effective date of div. C of Pub. L. 116–127, which is set out as an Effective Date note under section 2620 of this title.
+The date the Emergency Family and Medical Leave Expansion Act takes effect, referred to in subsec.\(a)(1)(F), is the effective date of div. C of Pub. L. 116–127, which is set out as an Effective Date note under section 2620 of this title.
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 
@@ -198,7 +198,7 @@ Subsec. (f). Pub. L. 110–181, §585(a)(3)(D), designated existing provisions a
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–127 effective no later than 15 days after Mar. 18, 2020, see section 3106 of div. C ofPub. L. 116–127, set out as an Effective Date note under section 2620 of this title.
+Amendment by Pub. L. 116–127 effective no later than 15 days after Mar. 18, 2020, see section 3106 of div. C of Pub. L. 116–127, set out as an Effective Date note under section 2620 of this title.
 
 #### Effective Date of 2019 Amendment
 

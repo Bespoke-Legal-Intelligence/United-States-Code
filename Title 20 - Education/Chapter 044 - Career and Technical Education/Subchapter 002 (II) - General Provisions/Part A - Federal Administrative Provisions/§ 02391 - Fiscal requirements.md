@@ -10,7 +10,7 @@ Funds made available under this chapter for career and technical education activ
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), (C), or (D), in order for a State to receive its full allotment of funds under this chapter for any fiscal year, the Secretary must findthat the State's fiscal effort per student, or the aggregate expenditures of such State, with respect to career and technical education for the preceding fiscal year was not less than the fiscal effort per student, or the aggregate expenditures of such State, for the second preceding fiscal year.
+&emsp;&emsp;Except as provided in subparagraph (B), (C), or (D), in order for a State to receive its full allotment of funds under this chapter for any fiscal year, the Secretary must find that the State's fiscal effort per student, or the aggregate expenditures of such State, with respect to career and technical education for the preceding fiscal year was not less than the fiscal effort per student, or the aggregate expenditures of such State, for the second preceding fiscal year.
 
 #### (B) Computation
 
@@ -62,7 +62,7 @@ Subsec. (b)(1)(B). Pub. L. 115–224, §201(a)(1)(B)(i)(II), substituted "shall,
 
 Subsec. (b)(1)(D). Pub. L. 115–224, §201(a)(1)(B)(i)(III), added subpar. (D).
 
-Subsec. (b)(2), (3). Pub. L. 115–224, §201(a)(1)(B)(ii), added pars. (2) and (3) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The Secretary may waive the requirements of this section, with respect to not more than 5 percent of expenditures by any eligible agency for 1 fiscal year only, on making a determination that such waiver would beequitable due to exceptional or uncontrollable circumstances affecting the ability of the eligible agency to meet such requirements, such as a natural disaster or an unforeseen and precipitous decline in financial resources. No level of funding permitted under such a waiver may be used as the basis for computing the fiscal effort or aggregate expenditures required under this section for years subsequent to the year covered by such waiver. The fiscal effort or aggregate expenditures for the subsequent years shall be computed on the basis of the level of funding that would, but for such waiver, have been required."
+Subsec. (b)(2), (3). Pub. L. 115–224, §201(a)(1)(B)(ii), added pars. (2) and (3) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The Secretary may waive the requirements of this section, with respect to not more than 5 percent of expenditures by any eligible agency for 1 fiscal year only, on making a determination that such waiver would be equitable due to exceptional or uncontrollable circumstances affecting the ability of the eligible agency to meet such requirements, such as a natural disaster or an unforeseen and precipitous decline in financial resources. No level of funding permitted under such a waiver may be used as the basis for computing the fiscal effort or aggregate expenditures required under this section for years subsequent to the year covered by such waiver. The fiscal effort or aggregate expenditures for the subsequent years shall be computed on the basis of the level of funding that would, but for such waiver, have been required."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

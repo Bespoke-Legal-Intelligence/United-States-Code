@@ -44,7 +44,7 @@ The Secretary shall be deemed to be a Federal law enforcement, intelligence, pro
 
 #### (2) Sharing of information
 
-&emsp;The Secretary, in consultation with the Director of National Intelligence, shall work toensure that intelligence or other information relating to terrorism to which the Department has access is appropriately shared with the elements of the Federal Government referred to in paragraph (1), as well as with State and local governments, as appropriate.
+&emsp;The Secretary, in consultation with the Director of National Intelligence, shall work to ensure that intelligence or other information relating to terrorism to which the Department has access is appropriately shared with the elements of the Federal Government referred to in paragraph (1), as well as with State and local governments, as appropriate.
 
 (Pub. L. 107–296, title II, §202, Nov. 25, 2002, 116 Stat. 2149; Pub. L. 115–278, §2(g)(2)(D), Nov. 16, 2018, 132 Stat. 4177.)
 

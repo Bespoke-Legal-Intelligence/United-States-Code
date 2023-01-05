@@ -164,7 +164,7 @@ Letters of intent.—The Secretary may issue a letter of intent to a grantee und
 
 &emsp;&emsp;&emsp;(i) is not an obligation of the Federal Government; and
 
-&emsp;&emsp;&emsp;(ii) is subject to the availability of appropriations for grants under this sectionand subject to Federal laws in force or enacted after the date of the contingent commitment.
+&emsp;&emsp;&emsp;(ii) is subject to the availability of appropriations for grants under this section and subject to Federal laws in force or enacted after the date of the contingent commitment.
 
 &emsp;(2)
 
@@ -350,7 +350,7 @@ Subsecs. (j), (k). Pub. L. 117–58, §22307(a)(8), added subsecs. (j) and (k).
 
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. The semicolon preceding the period probably should be a period.</i>
+<i><sup>1</sup></i><i> So in original. The semicolon preceding the period probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "section 24904(b);".</i>
 

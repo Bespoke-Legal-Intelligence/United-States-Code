@@ -19,6 +19,7 @@
 | [15731\.](Subchapter%20002%20%28II%29%20-%20Designation%20of%20Regions/%C2%A7%2015731%20-%20Southeast%20Crescent%20Regional%20Commission.md) | Southeast Crescent Regional Commission. |
 | [15732\.](Subchapter%20002%20%28II%29%20-%20Designation%20of%20Regions/%C2%A7%2015732%20-%20Southwest%20Border%20Regional%20Commission.md) | Southwest Border Regional Commission. |
 | [15733\.](Subchapter%20002%20%28II%29%20-%20Designation%20of%20Regions/%C2%A7%2015733%20-%20Northern%20Border%20Regional%20Commission.md) | Northern Border Regional Commission. |
+| [15734\.](Subchapter%20002%20%28II%29%20-%20Designation%20of%20Regions/%C2%A7%2015734%20-%20Great%20Lakes%20Authority.md) | Great Lakes Authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,6 +34,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. O, title IV, §401(b)(2), Dec. 29, 2022, 136 Stat. 5228, which directed amendment of the analysis for subchapter II of this chapter by adding item 15734 at the end, was executed by adding item 15734 to the analysis for this chapter to reflect the probable intent of Congress.
 
 <b>2018</b>—Pub. L. 115–334, title VI, §6304(g), Dec. 20, 2018, 132 Stat. 4752, renumbered chapter 4 of subtitle V of this title as chapter 157 of this title.
 

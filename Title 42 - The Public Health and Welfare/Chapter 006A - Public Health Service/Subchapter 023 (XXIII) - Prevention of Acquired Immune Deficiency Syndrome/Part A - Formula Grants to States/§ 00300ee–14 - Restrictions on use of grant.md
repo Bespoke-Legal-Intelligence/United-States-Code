@@ -14,7 +14,7 @@ The Secretary may not make payments under section 300ee–11(a) of this title fo
 
 #### (b) Limitation on administrative expenses
 
-The Secretary may not make payments under section 300ee–11(a) of this title for a fiscal yearunless the State involved agrees that the State will not expend more than 5 percent of the payments for administrative expenses with respect to carrying out the purpose described in section 300ee–11(b) of this title.
+The Secretary may not make payments under section 300ee–11(a) of this title for a fiscal year unless the State involved agrees that the State will not expend more than 5 percent of the payments for administrative expenses with respect to carrying out the purpose described in section 300ee–11(b) of this title.
 
 (July 1, 1944, ch. 373, title XXV, formerly title XV, §2504, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3095; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 

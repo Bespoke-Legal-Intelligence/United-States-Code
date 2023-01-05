@@ -2,7 +2,7 @@
 
 #### (a) Preliminary notification
 
-Not later than ninety days after promulgation of regulations under section 6921 of this title identifying by its characteristics or listing any substance as hazardous waste subject to this subchapter, any person generating or transporting such substance or owning or operating a facility for treatment, storage, or disposal of such substance shall file with the Administrator (or with States having authorized hazardous waste permit programs under section 6926 of this title) a notification stating the location and general description of such activity and the identified or listed hazardous wastes handled by such person. Not later than fifteen months after November 8, 1984—
+Not later than ninety days after promulgation of regulations under section 6921 of this title identifying by its characteristics or listing any substance as hazardous waste subject to this subchapter, any person generating or transporting such substance or owning or operating a facility for treatment, storage, or disposal of such substance shall file with the Administrator (or with States having authorized hazardous waste permit programs under section 6926 of this title) a notification stating the location and general description of such activity and theidentified or listed hazardous wastes handled by such person. Not later than fifteen months after November 8, 1984—
 
 &emsp;(1) the owner or operator of any facility which produces a fuel (A) from any hazardous waste identified or listed under section 6921 of this title, (B) from such hazardous waste identified or listed under section 6921 of this title and any other material, (C) from used oil, or (D) from used oil and any other material;
 

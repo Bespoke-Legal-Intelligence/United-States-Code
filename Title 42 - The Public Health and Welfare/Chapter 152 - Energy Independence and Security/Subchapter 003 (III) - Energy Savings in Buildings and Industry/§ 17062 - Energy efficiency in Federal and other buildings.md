@@ -26,7 +26,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The model commercial leasing provisions developed under this subsection shall, at aminimum, align the interests of building owners and tenants with regard to investments in cost-effective energy efficiency measures and cost-effective water efficiency measures to encourage building owners and tenants to collaborate to invest in such measures.
+&emsp;&emsp;The model commercial leasing provisions developed under this subsection shall, at a minimum, align the interests of building owners and tenants with regard to investments in cost-effective energy efficiency measures and cost-effective water efficiency measures to encourage building owners and tenants to collaborate to invest in such measures.
 
 #### (B) Use of model provisions
 

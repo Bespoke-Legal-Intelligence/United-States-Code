@@ -10,7 +10,7 @@
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 89–454, June 17, 1966, 80 Stat. 203, which, at the time this section was enacted, consisted only of sections 1 to 9, which are classified generally to this subchapter. Pub. L. 89–688, §2, Oct. 15, 1966, 80 Stat. 1001, redesignated the Act as title I and made conforming amendments, substituting references to title I for previous references to the Act as a whole, but not in this section. Pub. L. 89–454 was amended by Pub. L. 89–688 by adding title II, which is classified generally to subchapter II of this chapter, and later by Pub. L. 92–583 by adding title III, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 89–454, June 17, 1966, 80 Stat. 203, which, at the time this section was enacted, consisted only of sections 1 to 9, which areclassified generally to this subchapter. Pub. L. 89–688, §2, Oct. 15, 1966, 80 Stat. 1001, redesignated the Act as title I and made conforming amendments, substituting references to title I for previous references to the Act as a whole, but not in this section. Pub. L. 89–454 was amended by Pub. L. 89–688 by adding title II, which is classified generally to subchapter II of this chapter, and later by Pub. L. 92–583 by adding title III, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

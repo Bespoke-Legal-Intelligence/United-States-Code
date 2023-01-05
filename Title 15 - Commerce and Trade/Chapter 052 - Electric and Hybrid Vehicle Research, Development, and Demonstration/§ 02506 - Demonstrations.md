@@ -70,5 +70,5 @@ Subsec. (c). Pub. L. 95–238, §601(c), in par. (1) substituted provisions rela
 
 #### Transfer of Functions
 
-"Secretary of Energy" substituted for "Administrator" in subsecs. (a), (b)(1), (2), (d), and (e) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
+"Secretary of Energy" substituted for "Administrator" in subsecs. (a), (b)(1), (2), (d), and (e) pursuantto section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 

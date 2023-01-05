@@ -48,7 +48,7 @@ The Secretary shall conduct a study, in consultation with the Food Loss and Wast
 
 #### (1) Initial report
 
-&emsp;Not later than 1 year after December 20, 2018, the Food Loss and Waste Liaison shallsubmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subsection (d).
+&emsp;Not later than 1 year after December 20, 2018, the Food Loss and Waste Liaison shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subsection (d).
 
 #### (2) Report
 

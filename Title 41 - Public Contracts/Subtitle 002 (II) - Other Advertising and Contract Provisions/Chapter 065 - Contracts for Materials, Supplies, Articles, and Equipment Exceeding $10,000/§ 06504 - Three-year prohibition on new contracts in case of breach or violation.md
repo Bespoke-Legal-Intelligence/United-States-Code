@@ -6,7 +6,7 @@ Distribution of List.—The Comptroller General shall distribute to each agency 
 
 (b)
 
-Three-Year Prohibition.—Unless the Secretary recommends otherwise, a contract described in section 6502 of this title may not beawarded to a person named on the list under subsection (a), or to a firm, corporation, partnership, or association in which the person has a controlling interest, until 3 years have elapsed from the date of the determination by the Secretary that a breach or violation occurred.
+Three-Year Prohibition.—Unless the Secretary recommends otherwise, a contract described in section 6502 of this title may not be awarded to a person named on the list under subsection (a), or to a firm, corporation, partnership, or association in which the person has a controlling interest, until 3 years have elapsed from the date of the determination by the Secretary that a breach or violation occurred.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3808.)
 

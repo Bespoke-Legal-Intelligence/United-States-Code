@@ -46,7 +46,7 @@ Pub. L. 111–200, §2(h)(2), July 7, 2010, 124 Stat. 1370, provided that: "This
 
 Pub. L. 109–143, §1(b)(2), Dec. 22, 2005, 119 Stat. 2659, provided that: "During the period of October 1, 2004, through the date of the enactment of this section \[Dec. 22, 2005\], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred."
 
-Pub. L. 104–208, div. A, title V, §5401(c), Sept. 30, 1996, 110 Stat. 3009–511, provided that: "During the period of October 1, 1995, through the date of the enactment ofthis section \[Sept. 30, 1996\], all actions and functions of the Congressional Award Board under the Congressional Award Act \[2 U.S.C. 801 et seq.\] shall have the same effect as though no lapse or termination of the Congressional Award Board ever occurred."
+Pub. L. 104–208, div. A, title V, §5401(c), Sept. 30, 1996, 110 Stat. 3009–511, provided that: "During the period of October 1, 1995, through the date of the enactment of this section \[Sept. 30, 1996\], all actions and functions of the Congressional Award Board under the Congressional Award Act \[2 U.S.C. 801 et seq.\] shall have the same effect as though no lapse or termination of the Congressional Award Board ever occurred."
 
 Pub. L. 101–525, §2(b), Nov. 6, 1990, 104 Stat. 2305, provided that: "During the period of October 1, 1990, through the date of the enactment of this section \[Nov. 6, 1990\], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred."
 

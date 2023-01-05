@@ -30,7 +30,7 @@ In this section, the term "facility" means—
 
 #### (3) Requirements for compliance and ethics programs
 
-&emsp;In this subsection, the term "compliance and ethics program" means, with respect to a facility, a program of the operating organization that—
+&emsp;In this subsection, the term "compliance and ethics program" means, with respect to afacility, a program of the operating organization that—
 
 &emsp;&emsp;(A) has been reasonably designed, implemented, and enforced so that it generally will be effective in preventing and detecting criminal, civil, and administrative violations under this chapter and in promoting quality of care; and
 
@@ -94,7 +94,7 @@ In this section, the term "facility" means—
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed as preventing a resident of a facility (or a person acting on the resident's behalf) from submitting a complaint in a manner or format other than by using the standardized complaint form developed under paragraph (1) (including submitting a complaint orally).
+&emsp;Nothing in this subsection shall be construed as preventing a resident of a facility (ora person acting on the resident's behalf) from submitting a complaint in a manner or format other than by using the standardized complaint form developed under paragraph (1) (including submitting a complaint orally).
 
 #### (g) Submission of staffing information based on payroll data in a uniform format
 
@@ -168,7 +168,7 @@ Subsec. (h). Pub. L. 111–148, §6113(a), added subsec. (h).
 
 Pub. L. 111–148, title VI, §6105(b), Mar. 23, 2010, 124 Stat. 712, provided that: "The amendment made by this section \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\]."
 
-Pub. L. 111–148, title VI, §6113(c), Mar. 23, 2010, 124 Stat. 720, provided that: "The amendments made by this section \[amending this section and section 1395i–3 of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\]."
+Pub. L. 111–148, title VI, §6113(c), Mar. 23, 2010, 124 Stat. 720, provided that: "The amendments made bythis section \[amending this section and section 1395i–3 of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\]."
 
 #### National Independent Monitor Demonstration Project
 
@@ -230,7 +230,7 @@ Receipt of report by independent monitor.—Not later than 10 days after receipt
 
 "(e)
 
-Cost of Appointment.—A chain shall be responsible for a portion of the costs associated with the appointment of independent monitors under the demonstration project under this section. The chain shall pay such portion to the Secretary (in an amount and inaccordance with procedures established by the Secretary).
+Cost of Appointment.—A chain shall be responsible for a portion of the costs associated with the appointment of independent monitors under the demonstration project under this section. The chain shall pay such portion to the Secretary (in an amount and in accordance with procedures established by the Secretary).
 
 "(f)
 

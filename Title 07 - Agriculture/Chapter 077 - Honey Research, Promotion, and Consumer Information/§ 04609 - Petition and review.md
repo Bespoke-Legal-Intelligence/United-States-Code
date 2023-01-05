@@ -24,7 +24,7 @@
 
 #### (4) Statute of limitations
 
-&emsp;A petition filed under this subsection that challenges an order, any provision of theorder, or any obligation imposed in connection with the order, shall be filed not later than 2 years after the later of—
+&emsp;A petition filed under this subsection that challenges an order, any provision of the order, or any obligation imposed in connection with the order, shall be filed not later than 2 years after the later of—
 
 &emsp;&emsp;(A) the effective date of the order, provision, or obligation challenged in the petition; or
 

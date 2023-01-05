@@ -48,7 +48,7 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 Subsec. (a). Pub. L. 101–640, §318(c)(2), struck out "to undertake a demonstration program for a 2-year period, which shall begin within 6 months after the date of enactment of this Act," after "The Secretary is authorized".
 
-Subsecs. (d), (e). Pub. L. 101–640, §318(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "Within 6 months after theend of the demonstration program authorized by this section, the Secretary shall submit to Congress a report on the results of such demonstration program."
+Subsecs. (d), (e). Pub. L. 101–640, §318(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "Within 6 months after the end of the demonstration program authorized by this section, the Secretary shall submit to Congress a report on the results of such demonstration program."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

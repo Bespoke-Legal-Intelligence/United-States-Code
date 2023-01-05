@@ -26,7 +26,7 @@
 
 &emsp;(A) such person is serving as the first assistant to the office of an officer described under subsection (a);
 
-&emsp;(B) the office of such first assistant is an office for which appointment is required to bemade by the President, by and with the advice and consent of the Senate; and
+&emsp;(B) the office of such first assistant is an office for which appointment is required to be made by the President, by and with the advice and consent of the Senate; and
 
 &emsp;(C) the Senate has approved the appointment of such person to such office.
 
@@ -246,7 +246,7 @@ Ex. Ord. No. 13485, Jan. 9, 2009, 74 F.R. 2287.
 
 Ex. Ord. No. 13736, Aug. 12, 2016, 81 F.R. 54711.
 
-Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, as amended by Ex. Ord. No. 13261, §4(g), Mar. 19, 2002, 67F.R. 13244, revoked by Ex. Ord. No. 13736, §3(a), (b), Aug. 12, 2016, 81 F.R. 54711.
+Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, as amended by Ex. Ord. No. 13261, §4(g), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13736, §3(a), (b), Aug. 12, 2016, 81 F.R. 54711.
 
 Memorandum of President of the United States, Feb. 12, 2003, 68 F.R. 10141, revoked by Ex. Ord. No. 13736, §3(d), Aug. 12, 2016, 81 F.R. 54711.
 

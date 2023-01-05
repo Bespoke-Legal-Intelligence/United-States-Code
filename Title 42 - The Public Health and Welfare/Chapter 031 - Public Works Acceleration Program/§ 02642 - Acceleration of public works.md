@@ -48,7 +48,7 @@ Not more than 10 per centum of all amounts allocated by the President under this
 
 #### (h) Criteria determining substantial unemployment
 
-The criteria to be used by the Secretary of Labor in determining areas of substantial unemployment for the purposes of paragraph (1) of subsection (a) of this section shall be the criteria established in section 6.3 of title 29 of theCode of Federal Regulations as in effect May 1, 1962.
+The criteria to be used by the Secretary of Labor in determining areas of substantial unemployment for the purposes of paragraph (1) of subsection (a) of this section shall be the criteria established in section 6.3 of title 29 of the Code of Federal Regulations as in effect May 1, 1962.
 
 (Pub. L. 87–658, §3, Sept. 14, 1962, 76 Stat. 542.)
 

@@ -42,7 +42,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (1) In general
 
-&emsp;In the administration of section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) involving the determination of the qualifications of applicants under such Act, the Secretary of Agriculture may, subject to this subsection, require each applicant retail store or wholesale food concern to furnish to the Secretary of Agriculture the employer identification number assigned to the store or concern pursuant to this section. The Secretary of Agriculture shall not have access to any such number for any purpose other than the establishment and maintenance of a list of the names and employer identification numbers of the stores and concerns for use in determining those applicants who have been previously sanctioned or convicted under section 12 or 15 of such Act (7 U.S.C. 2021 or 2024).
+&emsp;In the administration of section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) involving the determination of the qualifications of applicants under such Act, the Secretary of Agriculture may, subject to this subsection, require each applicant retail store or wholesale food concern to furnish to the Secretary of Agriculture the employer identification number assigned to the store or concern pursuant to this section. The Secretary of Agriculture shall not have access to any such number for any purpose other than the establishment and maintenance of a list of the names and employer identification numbers of the stores and concerns for use in determining those applicants who have been previouslysanctioned or convicted under section 12 or 15 of such Act (7 U.S.C. 2021 or 2024).
 
 #### (2) Sharing of information and safeguards
 
@@ -74,7 +74,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (3) Sanctions
 
-&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained by the Secretary of Agriculture or the Federal Crop Insurance Corporation pursuant to this subsection in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
+&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorizedwillful disclosure to any person of employer identification numbers maintained by the Secretary of Agriculture or the Federal Crop Insurance Corporation pursuant to this subsection in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
 
 #### (h) Identifying information required with respect to certain seller-provided financing
 
@@ -106,7 +106,7 @@ The social security account number issued to an individual for purposes of secti
 
 &emsp;&emsp;&emsp;(ii) by mail, pursuant to rules prescribed by the Secretary, or
 
-&emsp;&emsp;(B) in the case of an applicant who resides outside of the United States, by mail or inperson to an employee of the Internal Revenue Service, a community-based certifying acceptance agent approved by the Secretary, or a designee of the Secretary at a United States diplomatic mission or consular post.
+&emsp;&emsp;(B) in the case of an applicant who resides outside of the United States, by mail or in person to an employee of the Internal Revenue Service, a community-based certifying acceptance agent approved by the Secretary, or a designee of the Secretary at a United States diplomatic mission or consular post.
 
 #### (2) Required documentation
 
@@ -150,7 +150,7 @@ The social security account number issued to an individual for purposes of secti
 
 &emsp;The Secretary shall implement a system that ensures that individual taxpayer identification numbers issued solely for purposes of claiming tax treaty benefits are used only for such purposes, by distinguishing such numbers from other individual taxpayer identification numbers issued.
 
-(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779; Pub. L. 110–28, title VIII, §8246(a)(2)(D), May 25, 2007, 121 Stat. 201; Pub. L. 110–234, title IV, §4002(b)(1)(B), (G), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (G), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 114–113, div. Q, title II, §203(a), Dec. 18, 2015, 129 Stat. 3078; Pub. L. 115–141, div. U, title I, §101(g)(1)–(3), title IV, §401(a)(276), Mar. 23, 2018, 132 Stat. 1161, 1197.)
+(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779; Pub. L. 110–28, title VIII, §8246(a)(2)(D), May 25, 2007, 121 Stat. 201; Pub. L. 110–234, title IV, §4002(b)(1)(B), (G), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (G), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 114–113, div. Q, title II, §203(a), Dec. 18, 2015, 129 Stat. 3078; Pub. L. 115–141, div. U, title I, §101(g)(1)–(3), title IV, §401(a)(276), Mar. 23, 2018, 132 Stat. 1161, 1197.)
 
 #### <b>Editorial Notes</b>
 
@@ -308,7 +308,7 @@ Requirements.—
 
 &emsp;"(1)
 
-Annual expansion.—For each calendar year beginning after the date of the enactment of this Act \[July 1, 2019\], the Secretary shall provide numbers through the program described in subsection (a) to individuals residing in such States as the Secretary deems appropriate, provided that the total number of States served by such program during such year is greater than the total number of States served by such program during the preceding year.
+Annual expansion.—For each calendar year beginning after the date of the enactment of this Act \[July 1, 2019\], the Secretary shall provide numbers through the program described in subsection (a) to individuals residing in such States as the Secretary deems appropriate, provided that the total number of States served by such program during such year isgreater than the total number of States served by such program during the preceding year.
 
 &emsp;"(2)
 

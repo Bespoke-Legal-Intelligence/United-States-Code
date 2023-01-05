@@ -316,7 +316,7 @@ The term "vector" means any organism capable of transmitting the causative agent
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (l), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (l), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 Section 321 of title 21, referred to in subsec. (u), was subsequently amended, and subsecs. (w) and (x) of section 321 no longer define the terms "new animal drug" and "animal feed", respectively. However, such terms are defined elsewhere in that section.
 
@@ -424,6 +424,10 @@ Pub. L. 92–516, §4, Oct. 21, 1972, 86 Stat. 998, as amended by Pub. L. 94–1
 
 "(e) For purposes of determining any criminal or civil penalty or liability to any third person in respect of any act or omission occurring before the expiration of the periods referred to in this section, the Federal Insecticide, Fungicide, and Rodenticide Act shall be treated as continuing in effect as if this Act had not been enacted."
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–328, div. HH, title VI, §701, Dec. 29, 2022, 136 Stat. 5996, provided that: "This title \[amending sections 136a, 136a–1, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 136a, 136a–1, and 136w of this title\] may be cited as the 'Pesticide Registration Improvement Act of 2022'."
+
 #### Short Title of 2019 Amendment
 
 Pub. L. 116–8, §1(a), Mar. 8, 2019, 133 Stat. 484, provided that: "This Act \[amending sections 136a–1, 136c, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under section 136w of this title\] may be cited as the 'Pesticide Registration Improvement Extension Act of 2018'."
@@ -448,7 +452,7 @@ Pub. L. 104–170, §1, Aug. 3, 1996, 110 Stat. 1489, provided that: "This Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–532, §1(a), Oct. 25, 1988, 102 Stat. 2654, provided that: "This Act \[enacting section 136a–1 of this title, amending this section and sections 136a to 136d,136f to 136q, 136s, 136v to 136w–2, and 136y of this title, and enacting provisions set out as notes under this section and sections 136m and 136y of this title\] may be cited as the 'Federal Insecticide, Fungicide, and Rodenticide Act Amendments of 1988'."
+Pub. L. 100–532, §1(a), Oct. 25, 1988, 102 Stat. 2654, provided that: "This Act \[enacting section 136a–1 of this title, amending this section and sections 136a to 136d, 136f to 136q, 136s, 136v to 136w–2, and 136y of this title, and enacting provisions set out as notes under this section and sections 136m and 136y of this title\] may be cited as the 'Federal Insecticide, Fungicide, and Rodenticide Act Amendments of 1988'."
 
 #### Short Title of 1978 Amendment
 

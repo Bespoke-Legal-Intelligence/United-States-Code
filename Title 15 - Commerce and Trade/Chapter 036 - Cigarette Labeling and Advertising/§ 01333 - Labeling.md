@@ -50,7 +50,7 @@
 
 #### (2) Typography, etc.
 
-&emsp;Each label statement required by subsection (a) in cigarette advertising shall comply with the standards set forth in this paragraph. For press and poster advertisements, each such statement and (where applicable) any required statement relating to tar, nicotine, or other constituent (including a smoke constituent) yield shall comprise at least 20 percent of the area of the advertisement and shall appear in a conspicuous and prominent format and location at the top of each advertisement within the trim area. The Secretary may revise the required type sizes in such area in such manner as the Secretary determines appropriate. The word "WARNING" shall appear in capital letters, and each label statement shall appear in conspicuous and legible type. The text of the label statement shall be black if the background is white and white if the background is black, under the plan submitted under subsection (c). The label statements shall be enclosed by a rectangular border that is the same color as the letters of the statements and that is the width of the first downstroke of the capital "W" of the word "WARNING" in the label statements. The text of such label statements shall be in a typeface pro rata to the following requirements: 45-point type for a whole-page broadsheet newspaper advertisement; 39-point type for a half-page broadsheet newspaper advertisement; 39-point type for a whole-page tabloid newspaper advertisement; 27-point type for a half-page tabloid newspaper advertisement; 31.5-point type for a double page spread magazine or whole-page magazine advertisement; 22.5-point type for a 28 centimeter by 3 column advertisement; and 15-point type for a 20 centimeter by 2 column advertisement. The label statements shall be in English, except that—
+&emsp;Each label statement required by subsection (a) in cigarette advertising shall comply with the standards set forth in this paragraph. For press and poster advertisements, each such statement and (where applicable) any required statement relating to tar, nicotine, or other constituent (including a smoke constituent) yield shall comprise at least 20 percent of the area of the advertisement and shall appear in a conspicuous and prominent format and location at the top of each advertisement within the trim area. The Secretary may revise the required type sizes in such area in such manner as the Secretary determines appropriate. The word "WARNING" shall appear in capital letters, and each label statement shall appear in conspicuous and legible type. The text ofthe label statement shall be black if the background is white and white if the background is black, under the plan submitted under subsection (c). The label statements shall be enclosed by a rectangular border that is the same color as the letters of the statements and that is the width of the first downstroke of the capital "W" of the word "WARNING" in the label statements. The text of such label statements shall be in a typeface pro rata to the following requirements: 45-point type for a whole-page broadsheet newspaper advertisement; 39-point type for a half-page broadsheet newspaper advertisement; 39-point type for a whole-page tabloid newspaper advertisement; 27-point type for a half-page tabloid newspaper advertisement; 31.5-point type for a double page spread magazine or whole-page magazine advertisement; 22.5-point type for a 28 centimeter by 3 column advertisement; and 15-point type for a 20 centimeter by 2 column advertisement. The label statements shall be in English, except that—
 
 &emsp;&emsp;(A) in the case of an advertisement that appears in a newspaper, magazine, periodical, or other publication that is not in English, the statements shall appear in the predominant language of the publication; and
 
@@ -68,7 +68,7 @@
 
 #### (1) Random display
 
-&emsp;The label statements specified in subsection (a)(1) shall be randomly displayed in each 12-month period, in as equal a number of times as is possible on each brand of the product and be randomly distributed in all areas of the United States in which the product is marketed in accordance with a plan submitted by the tobaccoproduct manufacturer, importer, distributor, or retailer and approved by the Secretary.
+&emsp;The label statements specified in subsection (a)(1) shall be randomly displayed in each 12-month period, in as equal a number of times as is possible on each brand of the product and be randomly distributed in all areas of the United States in which the product is marketed in accordance with a plan submitted by the tobacco product manufacturer, importer, distributor, or retailer and approved by the Secretary.
 
 #### (2) Rotation
 
@@ -98,7 +98,7 @@ The Secretary through a rulemaking conducted under section 553 of title 5 may ad
 
 #### (1) In general
 
-&emsp;The Secretary shall, by a rulemaking conducted under section 553 of title 5, determine (in the Secretary's sole discretion) whether cigarette and other tobacco product manufacturers shall be required to include in the area of each cigarette advertisement specified by subsection (b) of this section, or on the package label, or both, the tar and nicotine yields of the advertised or packaged brand. Any such disclosure shall be in accordance with the methodology established under such regulations, shall conform to the type size requirements of subsection (b) of this section, and shall appear within the area specified in subsection (b) of this section.
+&emsp;The Secretary shall, by a rulemaking conducted under section 553 of title 5, determine (in the Secretary's sole discretion) whether cigarette and other tobacco product manufacturers shall be required to include in the areaof each cigarette advertisement specified by subsection (b) of this section, or on the package label, or both, the tar and nicotine yields of the advertised or packaged brand. Any such disclosure shall be in accordance with the methodology established under such regulations, shall conform to the type size requirements of subsection (b) of this section, and shall appear within the area specified in subsection (b) of this section.
 
 #### (2) Resolution of differences
 
@@ -160,7 +160,7 @@ Pub. L. 98–474, §4(b), Oct. 12, 1984, 98 Stat. 2203, provided that: "The amen
 
 #### Effective Date of 1970 Amendment
 
-Pub. L. 91–222, §3, Apr. 1, 1970, 84 Stat. 90, provided in part that: "Section 4 of the amendment made by this Act \[amending this section\] shall take effect on the first day of the seventh calendar month which begins after the date of the enactment of this Act \[Apr. 1, 1970\]."
+Pub. L. 91–222, §3, Apr. 1, 1970, 84 Stat. 90, provided in part that: "Section 4 of the amendment made by thisAct \[amending this section\] shall take effect on the first day of the seventh calendar month which begins after the date of the enactment of this Act \[Apr. 1, 1970\]."
 
 <i><sup>1</sup></i><i> So in original. There are two subsecs. designated (d).</i>
 

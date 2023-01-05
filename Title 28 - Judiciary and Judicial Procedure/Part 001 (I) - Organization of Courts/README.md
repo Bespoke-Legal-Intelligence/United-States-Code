@@ -46,7 +46,7 @@
 
 #### Executive Order No. 11992
 
-Ex. Ord. No. 11992, May 24, 1977, 42 F.R. 27195, which established Committee on Selection of Federal Judicial Officers and provided for its membership, functions, etc., was revoked, and Committee terminated, by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11992, May 24, 1977, 42 F.R. 27195, which established Committee on Selection of Federal Judicial Officers and provided for its membership, functions, etc., was revoked, and Committee terminated, by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 92–397 without corresponding amendment of analysis.</i>
 

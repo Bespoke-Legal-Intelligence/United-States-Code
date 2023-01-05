@@ -142,7 +142,7 @@ For purposes of this section, the term "section 197 intangible" shall not includ
 
 #### (6) Mortgage servicing
 
-&emsp;Any right to service indebtedness which is secured by residential real property unlesssuch right is acquired in a transaction (or series of related transactions) involving the acquisition of assets (other than rights described in this paragraph) constituting a trade or business or substantial portion thereof.
+&emsp;Any right to service indebtedness which is secured by residential real property unless such right is acquired in a transaction (or series of related transactions) involving the acquisition of assets (other than rights described in this paragraph) constituting a trade or business or substantial portion thereof.
 
 #### (7) Certain transaction costs
 
@@ -314,7 +314,7 @@ Pub. L. 108–357, title VIII, §886(c), Oct. 22, 2004, 118 Stat. 1641, provided
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 1245 and 1253 of this title and repealing section 1056 of this title\] shall apply to property acquired after the date of the enactment of this Act \[Oct. 22, 2004\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1245 and 1253 of this title and repealing section 1056 of this title\] shall apply to property acquired after the date of the enactment of this Act \[Oct. 22, 2004\].
 
 "(2)
 

@@ -10,7 +10,7 @@
 
 (2) Except as provided in paragraph (3), the generator shall reimburse the Secretary for the disposal of low-level radioactive waste pursuant to paragraph (1) in an amount equal to the Secretary's costs, including a pro rata share of any capital costs, but in no event more than an amount equal to that which would be charged by commercial, State, regional, or interstate compact entities for disposal of such waste.
 
-(3) In the event depleted uranium were ultimately determined to be low-level radioactive waste, the generator shall reimburse the Secretary for the disposal of depleted uranium pursuant to paragraph (1) in an amount equal to theSecretary's costs, including a pro rata share of any capital costs.
+(3) In the event depleted uranium were ultimately determined to be low-level radioactive waste, the generator shall reimburse the Secretary for the disposal of depleted uranium pursuant to paragraph (1) in an amount equal to the Secretary's costs, including a pro rata share of any capital costs.
 
 (4) In the event that a licensee requests the Secretary to accept for disposal depleted uranium pursuant to this subsection, the Secretary shall be required to take title to and possession of such depleted uranium at an existing DUF6 storage facility.
 
@@ -32,5 +32,5 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(4). Pub. L. 108–447, §311, which directed the addition of par. (4) to subsec. (a) of section 3113 of Public Law 102–486 (42 U.S.C. 2297h–11), was executed by adding par. (4) to subsec. (a) of this section, which is section 3113 of Pub. L. 104–134, to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (a)(4). Pub. L. 108–447, §311, which directed the addition of par. (4) to subsec. (a) of section3113 of Public Law 102–486 (42 U.S.C. 2297h–11), was executed by adding par. (4) to subsec. (a) of this section, which is section 3113 of Pub. L. 104–134, to reflect the probable intent of Congress.
 

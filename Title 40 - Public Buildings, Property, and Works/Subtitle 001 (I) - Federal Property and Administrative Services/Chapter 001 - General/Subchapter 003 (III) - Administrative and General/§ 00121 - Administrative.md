@@ -180,7 +180,7 @@ In subsection (f), the words "expenses under" are substituted for "subsistence, 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### <b>Executive Documents</b>
 
@@ -196,7 +196,7 @@ Space Acquisition and Management. \[sic\]
 
 1–101. Federal facilities and Federal use of space in urban areas shall serve to strengthen the Nation's cities and to make them attractive places to live and work. Such Federal space shall conserve existing urban resources and encourage the development and redevelopment of cities.
 
-1–102. Procedures for meeting space needs in urban areas shall give serious consideration to the impact asite selection will have on improving the social, economic, environmental, and cultural conditions of the communities in the urban area.
+1–102. Procedures for meeting space needs in urban areas shall give serious consideration to the impact a site selection will have on improving the social, economic, environmental, and cultural conditions of the communities in the urban area.
 
 1–103. In the process for meeting Federal space needs, except where such selection is otherwise prohibited, and where cost and security considerations take precedence, preference is to be given to qualified opportunity zones (as defined in 26 U.S.C. 1400Z–1), other distressed areas, and centralized community business areas (including other specific areas which may be recommended by local officials).
 
@@ -278,7 +278,7 @@ Ex. Ord. No. 12954, Mar. 8, 1995, 60 F.R. 13023, provided:
 
 Efficient economic performance and productivity are directly related to the existence of cooperative working relationships between employers and employees. When Federal contractors become involved in prolonged labor disputes with their employees, the Federal Government's economy, efficiency, and cost of operations are adversely affected. In order to operate as effectively as possible, by receiving timely goods and quality services, the Federal Government must assist the entities with which it has contractual relations to develop stable relationships with their employees.
 
-An important aspect of a stable collective bargaining relationship is the balance between allowing businesses to operate during a strike and preserving worker rights. This balance is disrupted when permanent replacement employees are hired. It has been found that strikes involving permanent replacement workers are longer in duration than other strikes. In addition, the use of permanent replacements can change a limited dispute into a broader, more contentious struggle, thereby exacerbating the problems that initially led to the strike. By permanently replacing its workers, an employer loses the accumulated knowledge, experience, skill, and expertise of its incumbent employees. Thesecircumstances then adversely affect the businesses and entities, such as the Federal Government, which rely on that employer to provide high quality and reliable goods or services.
+An important aspect of a stable collective bargaining relationship is the balance between allowing businesses to operate during a strike and preserving worker rights. This balance is disrupted when permanent replacement employees are hired. It has been found that strikes involving permanent replacement workers are longer in duration than other strikes. In addition, the use of permanent replacements can change a limited dispute into a broader, more contentious struggle, thereby exacerbating the problems that initially led to the strike. By permanently replacing its workers, an employer loses the accumulated knowledge, experience, skill, and expertise of its incumbent employees. These circumstances then adversely affect the businesses and entities, such as the Federal Government, which rely on that employer to provide high quality and reliable goods or services.
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 486(a) \[now 40 U.S.C. 121(a)\] and 3 U.S.C. 301, it is hereby ordered as follows:
 
@@ -324,7 +324,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12977, Oct. 19, 1995, 60 F.R. 54411, as amended by Ex. Ord. No. 13286, §23, Feb. 28, 2003, 68 F.R. 10624, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to enhance the quality and effectiveness of security in and protection of buildings and facilities in the United States occupied by Federal employees for nonmilitary activities ("Federal facilities"), and to provide a permanent body to address continuing government-wide security for Federal facilities, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to enhance the quality and effectiveness of security in and protection of buildings and facilities in the United States occupied by Federal employees for nonmilitary activities ("Federal facilities"), and to provide a permanent body to address continuing government-wide security for Federal facilities, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. There is hereby established within the executive branch the Interagency Security Committee ("Committee"). The Committee shall consist of: (a) the Secretary of Homeland Security ("Secretary");
 
@@ -418,7 +418,7 @@ Sec. 2. <i>Definition and Scope</i>. (a) For the purpose of this executive order
 
 (b) This order shall not be interpreted to supersede any existing authority under law or by executive order for real property asset management, with the exception of the revocation of Executive Order 12512 of April 29, 1985 \[formerly set out as a note above\], in section 8 of this order.
 
-Sec. 3. <i>Establishment and Responsibilities of Agency Senior Real Property Officer</i>. (a) The heads of all executive branch departments and agencies cited in sections 901(b)(1) and (b)(2) of title 31, United States Code, and the Secretary of Homeland Security, shall designate among their senior management officials, a Senior Real Property Officer. Such officer shall have the education, training, and experience required to administer the necessary functions of the position for the particular agency.
+Sec. 3. <i>Establishment and Responsibilities of Agency Senior Real Property Officer</i>. (a) The heads of all executive branch departments and agencies cited in sections901(b)(1) and (b)(2) of title 31, United States Code, and the Secretary of Homeland Security, shall designate among their senior management officials, a Senior Real Property Officer. Such officer shall have the education, training, and experience required to administer the necessary functions of the position for the particular agency.
 
 (b) The Senior Real Property Officer shall develop and implement an agency asset management planning process that meets the form, content, and other requirements established by the Federal Real Property Council established in section 4 of this order. The initial agency asset management plan will be submitted to the Office of Management and Budget on a date determined by the Director of the Office of Management and Budget. In developing this plan, the Senior Real Property Officer shall:
 
@@ -516,7 +516,7 @@ In total, agency efforts required by this memorandum should produce no less than
 
 To achieve these goals, the Director of the OMB shall develop, in consultation with the Administrator of General Services and the Federal Real Property Council established pursuant to Executive Order 13327 of February 4, 2004 (Federal Real Property Asset Management), within 90 days of the date of this memorandum, guidance for actions agencies should take to carry out the requirements of this memorandum. The guidance shall include agency-specific targets to achieve $3 billion in cost savings and shall be developed in consultation with the agencies. The Administrator of General Services, in consultation with the Director of the OMB, shall coordinate agency efforts to satisfy the requirements of this memorandum and shall submit to the President periodic reports on the results achieved.
 
-This memorandum shall be implemented consistent with applicable law and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+This memorandum shall be implemented consistent with applicable law and is not intended to, and doesnot, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Director of the OMB is hereby authorized and directed to publish this memorandum in the Federal Register.
 

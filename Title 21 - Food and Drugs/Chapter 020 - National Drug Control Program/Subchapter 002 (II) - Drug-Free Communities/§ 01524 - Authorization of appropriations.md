@@ -8,7 +8,7 @@ There is authorized to be appropriated to the Office of National Drug Control Po
 
 Not more than 8 percent of the funds appropriated to carry out this subchapter may be used by the Office of National Drug Control Policy to pay administrative costs associated with the responsibilities of the Office under this subchapter.
 
-(Pub. L. 100–690, title I, §1024, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 107–82, §1(b), (c), Dec. 14, 2001, 115 Stat. 817; Pub. L. 109–469, title VIII, §801, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, §8203(a)(3)(A), (b)(3), formerly §8203(a)(4)(A), (b)(3), Oct. 24, 2018, 132 Stat. 4111, renumbered Pub. L. 116–74, §2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, §2(c)(1)(A)(i)(V), (ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
+(Pub. L. 100–690, title I, §1024, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 226;amended Pub. L. 107–82, §1(b), (c), Dec. 14, 2001, 115 Stat. 817; Pub. L. 109–469, title VIII, §801, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, §8203(a)(3)(A), (b)(3), formerly §8203(a)(4)(A), (b)(3), Oct. 24, 2018, 132 Stat. 4111, renumbered Pub. L. 116–74, §2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, §2(c)(1)(A)(i)(V), (ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
 
 #### <b>Editorial Notes</b>
 

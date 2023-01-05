@@ -4,7 +4,7 @@
 
 #### (1) Trigger
 
-&emsp;Whenever CBO issues a low-growth report under section 254(i) \[2 U.S.C. 904(i)\], the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the formset forth in paragraph (2)) declaring that the conditions specified in section 254(i) are met and suspending the relevant provisions of this title,<sup>1</sup> titles III and VI <sup>1</sup> of the Congressional Budget Act of 1974 \[2 U.S.C. 631 et seq.\], and section 1103 of title 31.
+&emsp;Whenever CBO issues a low-growth report under section 254(i) \[2 U.S.C. 904(i)\], the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the form set forth in paragraph (2)) declaring that the conditions specified in section 254(i) are met and suspending the relevant provisions of this title,<sup>1</sup> titles III and VI <sup>1</sup> of the Congressional Budget Act of 1974 \[2 U.S.C. 631 et seq.\], and section 1103 of title 31.
 
 #### (2) Form of joint resolution
 
@@ -30,7 +30,7 @@
 
 &emsp;(ii) Debate in the Senate on a joint resolution under this paragraph, and all debatable motions and appeals in connection therewith, shall be limited to not more than five hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-&emsp;(iii) Debate in the Senate on any debatable motion or appeal in connection with a joint resolution under this paragraph shall be limited to not more than one hour, to be equally divided between, and controlled by, the mover and the manager of the joint resolution, except that in the event the manager of the joint resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee.
+&emsp;(iii) Debate in the Senate on any debatable motion or appeal in connection with a joint resolution under this paragraph shall be limited to not more than one hour, to be equally divided between, and controlled by, the mover and the manager of the joint resolution, except that in the event the manager of the joint resolution is in favor of any such motion or appeal, the time in opposition thereto shall becontrolled by the minority leader or his designee.
 
 &emsp;(iv) A motion in the Senate to further limit debate on a joint resolution under this paragraph is not debatable. A motion to table or to recommit a joint resolution under this paragraph is not in order.
 
@@ -58,13 +58,13 @@ Upon the enactment of a declaration of war or a joint resolution described in su
 
 #### References in Text
 
-This title, referred to in subsec. (a)(1), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat.1038, as amended, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+This title, referred to in subsec. (a)(1), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
-The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title III of the Act is classified generally to subchapter I (§631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Title III of the Act is classified generally to subchapter I (§631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 Section 254(j) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is section 254(j) of Pub. L. 99–177, which was redesignated section 254(i) of that Act by Pub. L. 105–33, title X, §10206(1), Aug. 5, 1997, 111 Stat. 704, and is classified to section 904(i) of this title.
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is classified generally to this subchapter. Section 258 of the Act is classified to this section.
 

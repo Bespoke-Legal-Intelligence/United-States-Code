@@ -6,12 +6,15 @@
 | \[10102. | Repealed.\] |
 | [10103\.](%C2%A7%2010103%20-%20Reports.md) | Reports. |
 | [10104\.](%C2%A7%2010104%20-%20Requirement%20to%20report%20sexual%20offenses.md) | Requirement to report sexual offenses. |
+| [10105\.](%C2%A7%2010105%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. K, title CXVI, §11611(b), Dec. 23, 2022, 136 Stat. 4156, added item 10105.
 
 <b>1993</b>—Pub. L. 103–206, title IV, §422(c)(2), Dec. 20, 1993, 107 Stat. 2439, struck out item 10102 "Designations and duties of shipping commissioners".
 
@@ -26,3 +29,4 @@
 - [&sect; 10102 - Repealed. Pub. L. 103&#8211;206, title IV, &sect;422(c)(1), Dec. 20, 1993, 107 Stat. 2439](%C2%A7%2010102%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93206%2C%20title%20IV%2C%20%C2%A7422%28c%29%281%29%2C%20Dec.%2020%2C%201993%2C%20107%20Stat.%202439.md)
 - [&sect; 10103 - Reports](%C2%A7%2010103%20-%20Reports.md)
 - [&sect; 10104 - Requirement to report sexual offenses](%C2%A7%2010104%20-%20Requirement%20to%20report%20sexual%20offenses.md)
+- [&sect; 10105 - Reports to Congress](%C2%A7%2010105%20-%20Reports%20to%20Congress.md)
